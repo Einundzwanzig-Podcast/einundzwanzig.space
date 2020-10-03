@@ -1,0 +1,24 @@
+.wrap {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (--up_to_M) {
+    padding-left: var(--space-l);
+    padding-right: var(--space-l);
+  }
+  @media (--M_to_L) {
+    padding-left: var(--space-xl);
+    padding-right: var(--space-xl);
+  }
+  @media (--L_and_up) {
+    padding-left: var(--space-xxl);
+    padding-right: var(--space-xxl);
+  }
+}
+
+.main {
+  flex: 1;
+  padding-top: var(--space-xl);
+  padding-bottom: var(--space-xl);
+}

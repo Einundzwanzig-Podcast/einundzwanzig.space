@@ -1,0 +1,67 @@
+block vars
+
+- const pageTitle = title ? `${title} · ${site.title}` : site.meta.title
+- const pageDescription = description || site.meta.description
+- const pageKeywords = keywords || site.meta.keywords
+- const pageCard = cardImage || site.meta.cardImage
+- const themeColor = '#FFFFFF'
+
+mixin sprite(id)
+  svg(role="img" title=id)&attributes(attributes)
+    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
+
+<!DOCTYPE html>
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
+    meta(name="keywords" content=pageKeywords)
+    meta(name="description" content=pageDescription)
+    meta(property="og:locale" content="de_DE")
+    meta(property="og:site_name" content=site.title)
+    meta(property="og:title" content=pageTitle)
+    meta(property="og:description" content=pageDescription)
+    meta(property="og:type" content="website")
+    meta(property="og:image" content=assetUrl(pageCard, "http"))
+    meta(property="og:image:secure_url" content=assetUrl(pageCard))
+    meta(property="og:image:width" content=1402)
+    meta(property="og:image:height" content=1402)
+    meta(property="twitter:card" content="summary")
+    meta(property="twitter:title" content=pageTitle)
+    meta(property="twitter:description" content=pageDescription)
+    meta(property="twitter:image" content=assetUrl(pageCard))
+    meta(name="msapplication-TileColor" content=themeColor)
+    meta(name="theme-color" content=themeColor)
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/theboldfont.woff2"))
+    link(rel="apple-touch-icon" href=assetPath("/img/einundzwanzig-square.svg"))
+    link(rel="icon" href=assetPath("/img/einundzwanzig-square.svg"))
+    link(rel="manifest" href="/site.webmanifest")
+    link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
+    link(rel="stylesheet" href=assetPath("/css/main.css"))
+    title= pageTitle
+  body
+    header.header#header
+      .wrap
+        a(href="/").brand
+          +sprite("logo-horizontal").logo
+        nav.nav
+          a.navItem(href="/podcast" sclass=(navCurrent === 'podcast' && 'current')) Podcast
+          a.navItem(href="/team" class=(navCurrent === 'team' && 'current')) Team
+          .social
+            a.twitter(href="https://twitter.com/_einundzwanzig_" target="_blank" title="Twitter")
+              +sprite("twitter")
+            a.telegram(href="https://t.me/einundzwanzigpodcast" target="_blank" title="Telegram")
+              +sprite("telegram")
+
+    #header-anchor
+
+    main.main
+      .wrap
+        block main
+
+    footer#footer.footer
+      .wrap
+        p Craig Wright is a fraud.
+
+    script(src=assetPath("/js/main.js"))

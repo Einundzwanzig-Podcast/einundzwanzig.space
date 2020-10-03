@@ -1,0 +1,119 @@
+.header {
+  /* position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10; */
+  color: var(--color-body-text);
+  background-color: var(--color-body-bg);
+
+  @media (--up_to_L) {
+    padding-top: var(--space-l);
+    padding-bottom: var(--space-l);
+  }
+  @media (--L_and_up) {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xl);
+  }
+
+  @nest body.topbar & {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  @nest body.topbar.topbar--appear & {
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: var(--transition-duration-fast);
+  }
+
+  & .wrap {
+    @media (--L_and_up) {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: flex-end;
+    }
+  }
+
+  & .brand {
+    display: inline-block;
+    margin-right: var(--space-xl);
+  }
+
+  & .logo {
+    display: block;
+
+    @media (--up_to_M) {
+      height: 27px;
+      width: 300px;
+    }
+    @media (--M_to_L) {
+      height: 45px;
+      width: 500px;
+    }
+    @media (--L_and_up) {
+      height: 63px;
+      width: 700px;
+    }
+  }
+
+  & .nav {
+    position: relative;
+    top: 3px;
+    left: -1px;
+    display: flex;
+    flex: 1;
+
+    @media (--up_to_L) {
+      margin-top: var(--space-m);
+    }
+    @media (--L_and_up) {
+      margin-top: var(--space-l);
+    }
+
+    & a {
+      text-decoration: none;
+
+      &.navItem {
+        text-transform: uppercase;
+        letter-spacing: -0.04em;
+        font-weight: var(--font-weight-bold);
+        margin-right: var(--space-l);
+        line-height: 1;
+
+        @media (--up_to_L) {
+          font-size: var(--font-size-l);
+        }
+        @media (--L_and_up) {
+          font-size: var(--font-size-xl);
+        }
+      }
+    }
+
+    & .social {
+      display: flex;
+      align-items: center;
+
+      @media (--L_and_up) {
+        margin-left: auto;
+      }
+
+      & a,
+      & svg {
+        display: inline-block;
+
+        @media (--up_to_L) {
+          height: calc(var(--font-size-l) - 0.2rem);
+          width: calc(var(--font-size-l) - 0.2rem);
+        }
+        @media (--L_and_up) {
+          height: calc(var(--font-size-xl) - 0.2rem);
+          width: calc(var(--font-size-xl) - 0.2rem);
+        }
+      }
+
+      & a + a {
+        margin-left: var(--space-l);
+      }
+    }
+  }
+}

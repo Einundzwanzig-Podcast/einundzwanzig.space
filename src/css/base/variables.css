@@ -1,0 +1,61 @@
+@custom-media --up_to_M screen and (max-width: 599px);
+@custom-media --up_to_L screen and (max-width: 839px);
+@custom-media --M_to_L screen and (min-width: 600px) and (max-width: 839px);
+@custom-media --M_and_up screen and (min-width: 600px);
+@custom-media --L_and_up screen and (min-width: 840px);
+
+:root {
+  --color-neutral-0: #fff;
+  --color-neutral-10: #ddd;
+  --color-neutral-90: #222;
+
+  --color-body-text: var(--color-neutral-90);
+  --color-body-bg: var(--color-neutral-0);
+  --color-accent: #f7931a;
+  --color-derweg: #00B4CF;
+  --color-interview: #151515;
+
+  --space-xs: .125rem;
+  --space-s: .25rem;
+  --space-m: .5rem;
+  --space-l: 1rem;
+  --space-xl: 2rem;
+  --space-xxl: 4rem;
+
+  --transition-duration-fast: 0.25s;
+  --transition-duration-medium: 0.75s;
+  --transition-duration-slow: 1.5s;
+
+  --border-radius: 16px;
+  --opacity-text: 0.7;
+
+  --font-family-base: sans-serif;
+  --font-family-head: 'The Bold Font', var(--font-family-base);
+
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --font-size-base: 18px;
+  --font-size-xs: .7rem;
+  --font-size-s: .85rem;
+  --font-size-m: 1rem;
+  --font-size-l: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-xxl: 2.5rem;
+  --font-size-xxxl: 4rem;
+}
+
+:root[data-theme="dark"] {
+  --color-body-text: var(--color-neutral-0);
+  --color-body-bg: var(--color-neutral-90);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-body-text: var(--color-neutral-0);
+    --color-body-bg: var(--color-neutral-90);
+  }
+}

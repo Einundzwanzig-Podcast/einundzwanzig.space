@@ -1,0 +1,21 @@
+extends /template.pug
+
+block main
+  section#team
+    h1 Team
+    ul.members
+      each m in team
+        li.member
+          img(src=(assetPath(m.image)) alt=m.name loading="lazy")
+          h4=m.name
+          p(style=(m.name.startsWith('Arik') ? 'word-break:break-all;' : null))=m.text
+          .links
+            if m.twitter
+              a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" title=`${m.name} on Twitter`)
+                +sprite("twitter")
+            if m.github
+              a(href=(m.github.startsWith('https://') ? m.github : `https://github.com/${m.github}`) target="_blank" title=`${m.name} on GitHub`)
+                +sprite("github")
+            if m.url
+              a(href=m.url target="_blank")
+                +sprite("url")

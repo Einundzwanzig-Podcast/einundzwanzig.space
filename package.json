@@ -1,0 +1,54 @@
+{
+  "private": true,
+  "version": "0.1.0",
+  "name": "einundzwanzig.space",
+  "description": "Einundzwanzig Podcast Website",
+  "repository": "git@github.com:Einundzwanzig-Podcast/einundzwanzig.space.git",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "clean": "rm -rf rev-manifest.json site-data.json dist/* && mkdir -p dist",
+    "start": "npm-run-all clean -p start:*",
+    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
+    "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
+    "start:data": "onchange -i -k 'content/**/*' -- npm run build:data",
+    "start:serve": "browser-sync start --config browser-sync.config.js --watch",
+    "build": "npm-run-all clean -p build:*",
+    "build:static": "cp -r static/* dist",
+    "build:data": "node tasks/generate_site_data.js",
+    "build:pages": "node tasks/generate_pages.js",
+    "build:styles": "postcss src/css/main.css --output dist/css/main.css",
+    "optimize": "npm-run-all -p optimize:* -s rev",
+    "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
+    "rev": "node-file-rev --root=dist/ dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
+    "prod": "npm-run-all build optimize -s build:pages",
+    "images": "node tasks/optimize_images.js"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.0.1",
+    "browser-sync": "2.26.12",
+    "csso-cli": "3.0.0",
+    "jstransformer-markdown-it": "2.1.0",
+    "markdown-it": "11.0.1",
+    "node-file-rev": "1.1.2",
+    "npm-run-all": "4.1.5",
+    "onchange": "7.0.2",
+    "postcss": "8.1.1",
+    "postcss-calc": "7.0.5",
+    "postcss-cli": "8.0.0",
+    "postcss-custom-media": "7.0.8",
+    "postcss-import": "12.0.1",
+    "postcss-media-variables": "2.0.1",
+    "postcss-nesting": "7.0.1",
+    "pug-cli": "1.0.0-alpha6"
+  },
+  "optionalDependencies": {
+    "compress-images": "1.9.5",
+    "gifsicle": "5.1.0",
+    "mozjpeg": "7.0.0",
+    "pngquant-bin": "6.0.0",
+    "svgo": "1.3.2"
+  }
+}

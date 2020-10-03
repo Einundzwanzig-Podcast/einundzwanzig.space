@@ -1,0 +1,104 @@
+#updates {
+  position: relative;
+  padding-top: 120px;
+
+  @media (--M_and_up) {
+    padding-bottom: 180px;
+  }
+
+  & h3 {
+    @media (--up_to_M) {
+      font-size: 36px;
+      margin-bottom: var(--space-l);
+    }
+    @media (--M_and_up) {
+      font-size: 48px;
+      margin-bottom: var(--space-xl);
+    }
+  }
+
+  & .update + .update {
+    margin-top: var(--space-xxl);
+  }
+
+  &:after {
+    display: inline-block;
+    content: '';
+    position: absolute;
+    left: -65px;
+    bottom: -80px;
+    z-index: -1;
+    background-image: url(../img/bg/updates.svg);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    background-size: contain;
+    max-width: 55%;
+    width: 369px;
+    height: 344px;
+
+    @media (--up_to_M) {
+      display: none;
+    }
+  }
+}
+
+.update {
+  display: block;
+  text-decoration: none !important;
+
+  @media (--M_and_up) {
+    display: flex;
+    align-items: center;
+    max-width: 53em;
+    transition-property: background, border, transform;
+    transition-duration: var(--transition-duration-fast);
+  }
+
+  & .image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color-neutral-90);
+    box-shadow: 0px 100px 80px rgba(12, 11, 24, 0.15), 0px 41.7776px 33.4221px rgba(12, 11, 24, 0.107828), 0px 22.3363px 17.869px rgba(12, 11, 24, 0.0894161), 0px 12.5216px 10.0172px rgba(12, 11, 24, 0.075), 0px 6.6501px 5.32008px rgba(12, 11, 24, 0.0605839), 0px 2.76726px 2.21381px rgba(12, 11, 24, 0.0421718);
+    border: 3px solid var(--color-neutral-90);
+    border-radius: var(--space-l);
+
+    & img {
+      max-width: 80%;
+      max-height: 80%;
+    }
+
+    @media (--up_to_M) {
+      width: 100%;
+      height: 195px;
+      margin-bottom: 25px;
+    }
+    @media (--M_and_up) {
+      flex: 1 0 42.5%;
+      height: 275px;
+      margin-right: 25px;
+    }
+  }
+
+  & h4 {
+    margin-bottom: 15px;
+
+    @media (--up_to_M) {
+      font-size: var(--font-size-xl);
+    }
+  }
+
+  & p {
+    opacity: var(--opacity-text);
+    color: var(--color-body-text) !important;
+  }
+
+  &:hover {
+    & .image {
+      @media not all and (hover: none) {
+        border-color: var(--color-accent);
+        background-image: linear-gradient(45deg, #1A136E 29.26%, #0D0AB7 92.45%);
+      }
+    }
+  }
+}
