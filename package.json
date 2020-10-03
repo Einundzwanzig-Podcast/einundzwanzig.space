@@ -9,20 +9,21 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "clean": "rm -rf rev-manifest.json site-data.json dist/* && mkdir -p dist",
-    "start": "npm-run-all clean -p start:*",
+    "clean": "rm -rf rev-manifest.json feed.json site-data.json dist/* && mkdir -p dist",
+    "fetch": "node tasks/fetch_feed.js",
+    "start": "npm-run-all clean fetch -p start:*",
     "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -i -k 'content/**/*' -- npm run build:data",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
-    "build": "npm-run-all clean -p build:*",
+    "build": "npm-run-all clean fetch -p build:*",
     "build:static": "cp -r static/* dist",
     "build:data": "node tasks/generate_site_data.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
-    "rev": "node-file-rev --root=dist/ dist/css/* dist/js/* dist/img/*.jpg dist/img/*.png dist/img/*.svg",
+    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.png dist/img/*.svg dist/img/team/*.jpg dist/img/team/*.png",
     "prod": "npm-run-all build optimize -s build:pages",
     "images": "node tasks/optimize_images.js"
   },
@@ -42,7 +43,8 @@
     "postcss-import": "12.0.1",
     "postcss-media-variables": "2.0.1",
     "postcss-nesting": "7.0.1",
-    "pug-cli": "1.0.0-alpha6"
+    "pug-cli": "1.0.0-alpha6",
+    "rss-parser": "3.9.0"
   },
   "optionalDependencies": {
     "compress-images": "1.9.5",
