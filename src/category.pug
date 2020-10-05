@@ -10,7 +10,8 @@ block main
     .current
       +episodePlayer(current).centered
 
-    h2.centered Weitere Episoden
-    .episodes
-      each e in episodes
-        +episodeItem(e)
+    if episodes.length
+      h2.centered Weitere Episoden
+      .episodes
+        each e in episodes
+          +episodeItem(e)

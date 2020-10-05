@@ -12,12 +12,13 @@ const slugify = str => str.toLowerCase()
 
 const parseInfo = e => {
   const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/)
-  const [, categoryName = 'News', number, titlePlain] = titleMatch ? titleMatch : [,,,e.title]
+  let [, categoryName = 'News', number, titlePlain] = titleMatch ? titleMatch : [,,,e.title]
 
+  if (!number) categoryName = 'Verschiedenes'
   const blockMatch = e.contentSnippet.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
   const category = slugify(categoryName)
-  const slug = slugify(`${categoryName} ${number} ${titlePlain}`)
+  const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
 
   return { block, category, categoryName, number, titlePlain, slug }
 }

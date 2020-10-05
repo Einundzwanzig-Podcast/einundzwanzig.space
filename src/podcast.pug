@@ -21,12 +21,14 @@ block main
         li: a(href="/podcast/interviews") Interviews
         li: a(href="/podcast/lesestunde") Lesestunde
         li: a(href="/podcast/der-weg") Der Weg
+        li: a(href="/podcast/verschiedenes") Verschiedenes
 
     h2.centered Aktuelle Episode
     .current
       +episodePlayer(current).centered
 
-    h2.centered Weitere Episoden
-    .episodes
-      each e in episodes
-        +episodeItem(e)
+    if episodes.length
+      h2.centered Weitere Episoden
+      .episodes
+        each e in episodes
+          +episodeItem(e)
