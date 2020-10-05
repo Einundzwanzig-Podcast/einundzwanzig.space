@@ -1,0 +1,16 @@
+extends /template.pug
+
+block main
+  - const current = episodes.shift()
+
+  section#podcast
+    h1.centered= categoryName
+
+    h2.centered Aktuelle Episode
+    .current
+      +episodePlayer(current).centered
+
+    h2.centered Weitere Episoden
+    .episodes
+      each e in episodes
+        +episodeItem(e)

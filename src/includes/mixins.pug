@@ -13,6 +13,46 @@ mixin episodeItem(e)
           time(datetime=e.date)= e.block || formatDate(e.date)
         h3=e.titlePlain
 
+mixin episodePlayer(e)
+  .player.player--single&attributes(attributes)
+    img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true")
+    .player__bottom
+      progress.player__progress.amplitude-song-played-progress(data-amplitude-main-song-played-progress="true")
+
+      .player__time
+        span.player__current-time
+          span.player__current-minutes.amplitude-current-minutes(data-amplitude-main-current-minutes="true")
+          = ':'
+          span.player__current-seconds.amplitude-current-seconds(data-amplitude-main-current-seconds="true")
+
+        span.player__duration
+          span.player__duration-hours.amplitude-duration-hours(data-amplitude-main-duration-hours="true")
+          = ':'
+          span.player__duration-minutes.amplitude-duration-minutes(data-amplitude-main-duration-minutes="true")
+          = ':'
+          span.player__duration-seconds.amplitude-duration-seconds(data-amplitude-main-duration-seconds="true")
+
+      .player__controls
+        .player__button.amplitude-play-pause(data-amplitude-main-play-pause="true" id="play-pause")
+        .player__info
+          .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
+          .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
+
+  script.
+    window.Einundzwanzig = {
+      amplitude: {
+        songs: [
+          {
+            "name": "#{e.titlePlain}",
+            "artist": "Einundzwanzig",
+            "album": "#{e.categoryName + (e.number ? ` #${e.number}` : '')}",
+            "url": "#{e.enclosure.url}",
+            "cover_art_url": "#{e.image}"
+          }
+        ]
+      }
+    };
+
 mixin episodeDetails(e)
   article.episodeDetails&attributes(attributes)
     .media

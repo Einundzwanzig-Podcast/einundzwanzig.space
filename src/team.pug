@@ -2,8 +2,7 @@ extends /template.pug
 
 block main
   section#team
-    .lead
-      h1 Team
+    h1 Team
     ul.members(data-shuffle)
       each m in shuffle(team)
         li.member

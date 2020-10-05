@@ -19,13 +19,19 @@
 
 .main {
   flex: 1;
-  padding-top: var(--space-xl);
-  padding-bottom: var(--space-xl);
+  padding-top: var(--space-xxl);
+  padding-bottom: var(--space-xxl);
 
   & h1,
   & h2 {
     margin-bottom: var(--space-l);
     color: var(--color-secondary);
+  }
+
+  & .centered {
+    text-align: center;
+    margin-left: auto;
+    margin-righht: auto;
   }
 
   & .lead {

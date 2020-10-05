@@ -38,10 +38,4 @@ const parseInfo = e => {
   }))
 
   write('episodes', episodes)
-
-  // By category/season
-  write('news', episodes.filter(e => e.category === 'news'))
-  write('der-weg', episodes.filter(e => e.category === 'der-weg'))
-  write('interview', episodes.filter(e => e.category === 'interview'))
-  write('lesestunde', episodes.filter(e => e.category === 'lesestunde'))
 })()
