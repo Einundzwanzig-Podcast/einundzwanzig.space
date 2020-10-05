@@ -31,12 +31,10 @@
   --transition-duration-medium: 0.75s;
   --transition-duration-slow: 1.5s;
 
-  --font-family-base: sans-serif;
-  --font-family-head: 'The Bold Font', var(--font-family-base);
+  --font-family-base: 'Noto Sans', sans-serif;
+  --font-family-head: var(--font-family-base);
 
-  --font-weight-light: 300;
   --font-weight-normal: 400;
-  --font-weight-medium: 500;
   --font-weight-bold: 700;
 
   --font-size-base: 18px;

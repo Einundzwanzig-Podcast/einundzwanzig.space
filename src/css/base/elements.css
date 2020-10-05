@@ -38,7 +38,7 @@ h4,
 h5,
 h6 {
   font-family: var(--font-family-head);
-  letter-spacing: 0.04em;
+  letter-spacing: -0.04em;
   line-height: 1.05;
 
   & a {
@@ -67,7 +67,7 @@ a {
   outline: 0;
   color: var(--color-accent);
   text-decoration: none;
-  transition-property: color;
+  transition-property: color, background;
   transition-duration: var(--transition-duration-fast);
 
   &.plain {
@@ -130,6 +130,8 @@ img:-moz-loading {
   background-color: var(--color-accent);
   text-decoration: none;
   border-radius: var(--space-m);
+  transition-property: color, background;
+  transition-duration: var(--transition-duration-fast);
 
   &:hover {
     @media not all and (hover: none) {
