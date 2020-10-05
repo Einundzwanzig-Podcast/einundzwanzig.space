@@ -1,3 +1,5 @@
+const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
+
 document.addEventListener("DOMContentLoaded", () => {
   const $body = document.body
   const $headerAnchor = document.getElementById('header-anchor')
@@ -32,4 +34,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     headerObserver.observe($headerAnchor)
   }
+
+  // List shuffling
+  const lists = document.querySelectorAll('[data-shuffle]')
+  lists.forEach(list => {
+    const items = Array.from(list.children)
+    list.innerHTML = ""
+    shuffle(items).forEach(item => list.appendChild(item))
+  })
 })

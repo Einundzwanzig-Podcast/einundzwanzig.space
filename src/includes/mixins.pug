@@ -1,0 +1,24 @@
+mixin sprite(id)
+  svg(role="img" title=id)&attributes(attributes)
+    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
+
+mixin episodeItem(e)
+  article.episodeItem&attributes(attributes)
+    a.plain(href=e.anchor)
+      .media
+        img(src=e.image alt=e.title loading="lazy")
+      .content
+        .meta
+          span= e.categoryName + (e.number ? ` #${e.number}` : '')
+          time(datetime=e.date)= e.block || formatDate(e.date)
+        h3=e.titlePlain
+
+mixin episodeDetails(e)
+  article.episodeDetails&attributes(attributes)
+    .media
+      a(href=e.anchor)
+        img(src=e.image alt=e.title loading="lazy")
+    .content
+      h3: a(href=e.anchor)=e.title
+      p=formatDate(e.date)
+      !=e.content

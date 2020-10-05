@@ -1,7 +1,7 @@
 #team {
   & .members {
     display: grid;
-    grid-gap: var(--space-xxl);
+    grid-gap: var(--space-xl);
     margin: 0;
     list-style: none;
 
@@ -18,37 +18,26 @@
 
   & .member {
     margin: 0;
+    text-align: center;
+    background-color: var(--color-card-bg);
+    border-radius: var(--space-l);
+    padding: var(--space-xl);
 
     & img {
-      display: block;
+      display: inline-block;
       border-radius: 50%;
-
-      @media (--up_to_L) {
-        height: 87px;
-        width: 87px;
-      }
-      @media (--L_and_up) {
-        height: 112px;
-        width: 112px;
-      }
+      height: 100px;
+      width: 100px;
     }
 
-    & h4 {
-      margin-top: var(--space-m);
-      font-size: 21px;
-    }
-
-    & a {
-      font-size: var(--font-size-xs);
-      text-decoration: none;
-      text-transform: uppercase;
+    & h2 {
+      margin-top: var(--space-l);
+      margin-bottom: var(--space-m);
+      font-size: var(--font-size-xl);
     }
 
     & p {
-      margin: var(--space-s) 0 var(--space-l);
-      font-size: var(--font-size-s);
-      opacity: var(--opacity-text);
-      max-width: 30em;
+      margin-bottom: var(--space-l);
       overflow-wrap: anywhere;
     }
 

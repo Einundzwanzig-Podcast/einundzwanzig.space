@@ -1,9 +1,10 @@
 const pug = require('pug')
 const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
+
 const config = require('../pug.config')
-const site = require('../site-data')
-const feed = require('../feed.json')
+const site = require('../generated/site-data.json')
+const episodes = require('../generated/episodes.json')
 const team = require('../content/team.json')
 
 const renderPage = (name, out, data = {}) => {
@@ -19,4 +20,4 @@ const renderPage = (name, out, data = {}) => {
 
 renderPage('index', 'index', { navCurrent: 'index' })
 renderPage('team', 'team/index', { navCurrent: 'team', team })
-renderPage('podcast', 'podcast/index', { navCurrent: 'podcast', feed })
+renderPage('podcast', 'podcast/index', { navCurrent: 'podcast', episodes })

@@ -1,13 +1,18 @@
 extends /template.pug
 
 block main
-  section
-    :markdown-it(html linkify typographer)
-      # Podcast
-      Content
+  section#podcast
+    .lead
+      h1 Podcast
+      :markdown-it(html linkify typographer)
+        Du findest unsere Episoden auf den üblichen Plattformen wie
+        [Spotify](https://open.spotify.com/show/10408JFbE1n8MexfrBv33r),
+        [Apple Podcasts](https://podcasts.apple.com/de/podcast/einundzwanzig-der-bitcoin-podcast/id1488229907),
+        [Overcast](https://overcast.fm/itunes1488229907/einundzwanzig-der-bitcoin-podcast) und
+        [Anchor](https://anchor.fm/einundzwanzig).
+      a.button(href="https://anchor.fm/s/d8d3c38/podcast/rss") Abonnieren / RSS
 
-      - [Spotify](https://open.spotify.com/show/10408JFbE1n8MexfrBv33r)
-      - [Apple Podcasts](https://podcasts.apple.com/de/podcast/einundzwanzig-der-bitcoin-podcast/id1488229907)
-      - [Overcast](https://overcast.fm/itunes1488229907/einundzwanzig-der-bitcoin-podcast)
-      - [Anchor](https://anchor.fm/einundzwanzig)
-      - [RSS](https://anchor.fm/s/d8d3c38/podcast/rss)
+    h2 Alle Episoden
+    .episodes
+      each e in episodes
+        +episodeItem(e)

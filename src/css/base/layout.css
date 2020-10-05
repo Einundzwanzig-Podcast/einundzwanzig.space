@@ -21,4 +21,14 @@
   flex: 1;
   padding-top: var(--space-xl);
   padding-bottom: var(--space-xl);
+
+  & h1,
+  & h2 {
+    margin-bottom: var(--space-l);
+    color: var(--color-secondary);
+  }
+
+  & .lead {
+    margin-bottom: var(--space-xxl);
+  }
 }

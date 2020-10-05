@@ -1,3 +1,5 @@
+include mixins
+
 block vars
 
 - const pageTitle = title ? `${title} · ${site.title}` : site.meta.title
@@ -5,10 +7,6 @@ block vars
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
 - const themeColor = '#FFFFFF'
-
-mixin sprite(id)
-  svg(role="img" title=id)&attributes(attributes)
-    use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
 <!DOCTYPE html>
 html(lang="en")

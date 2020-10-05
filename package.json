@@ -9,10 +9,10 @@
     "node": ">=14.0.0"
   },
   "scripts": {
-    "clean": "rm -rf rev-manifest.json feed.json site-data.json dist/* && mkdir -p dist",
+    "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
     "start": "npm-run-all clean fetch -p start:*",
-    "start:pages": "onchange -i -k 'site-data.json' 'pug.config.js' 'markdown.js' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
+    "start:pages": "onchange -i -k 'pug.config.js' 'markdown.js' 'content/**' 'generated/**' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:data": "onchange -i -k 'content/**/*' -- npm run build:data",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
@@ -23,7 +23,7 @@
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
-    "rev": "node-file-rev --root=dist dist/css/* dist/js/* dist/img/*.png dist/img/*.svg dist/img/team/*.jpg dist/img/team/*.png",
+    "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.png dist/img/*.svg dist/img/team/*.jpg dist/img/team/*.png",
     "prod": "npm-run-all build optimize -s build:pages",
     "images": "node tasks/optimize_images.js"
   },

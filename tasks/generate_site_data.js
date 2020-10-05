@@ -3,7 +3,7 @@ const { join, resolve } = require('path')
 
 const meta = require('../content/meta.json')
 
-const dir = resolve(__dirname, '..')
+const dir = resolve(__dirname, '..', 'generated')
 const dst = join(dir, 'site-data.json')
 
 const date = (new Date()).toJSON().split('T')[0]
