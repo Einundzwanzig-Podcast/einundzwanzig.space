@@ -1,7 +1,6 @@
 // initialize markdown rendering
 const renderMarkdown = require('./markdown')
 
-const slugify = str => str.toLowerCase().replace(/\W/, '-')
 const random = max =>  Math.floor(Math.random() * Math.floor(max))
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
 const formatDate = date => (new Date(date)).toISOString().replace(/T.*/, '').split('-').reverse().join('.')
@@ -19,7 +18,6 @@ module.exports = {
   basedir: './src/includes',
   random,
   shuffle,
-  slugify,
   assetUrl,
   assetPath,
   formatDate,

@@ -1,0 +1,10 @@
+extends /template.pug
+
+block main
+  section#episode
+    h1= episode.titlePlain
+
+    +episodePlayer(episode)
+
+    .content
+      !=episode.content

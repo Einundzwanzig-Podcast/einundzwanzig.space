@@ -27,3 +27,5 @@ renderPage('category', 'podcast/news', { navCurrent: 'podcast', categoryName: 'N
 renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview') })
 renderPage('category', 'podcast/lesestunde', { navCurrent: 'podcast', categoryName: 'Lesestunde', episodes: episodes.filter(e => e.category === 'lesestunde') })
 renderPage('category', 'podcast/der-weg', { navCurrent: 'podcast', categoryName: 'Der Weg', episodes: episodes.filter(e => e.category === 'der-weg') })
+
+episodes.forEach(episode => renderPage('episode', `podcast/${episode.slug}`, { navCurrent: 'podcast', episode }))

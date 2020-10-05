@@ -33,6 +33,12 @@
   }
 }
 
+#episode {
+  & .player {
+    margin-bottom: var(--space-xxl);
+  }
+}
+
 .episodes {
   display: grid;
   grid-gap: var(--space-xl);
@@ -107,7 +113,6 @@
 }
 
 .player {
-  margin: 0 auto;
   border-radius: var(--space-m);
   overflow: hidden;
   min-width: 300px;

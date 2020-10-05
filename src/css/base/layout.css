@@ -26,12 +26,13 @@
   & h2 {
     margin-bottom: var(--space-l);
     color: var(--color-secondary);
+    max-width: 20em;
   }
 
   & .centered {
     text-align: center;
     margin-left: auto;
-    margin-righht: auto;
+    margin-right: auto;
   }
 
   & .lead {

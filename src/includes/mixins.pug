@@ -4,7 +4,7 @@ mixin sprite(id)
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
-    a.plain(href=e.anchor)
+    a.plain(href=`/podcast/${e.slug}`)
       .media
         img(src=e.image alt=e.title loading="lazy")
       .content
@@ -35,8 +35,9 @@ mixin episodePlayer(e)
       .player__controls
         .player__button.amplitude-play-pause(data-amplitude-main-play-pause="true" id="play-pause")
         .player__info
-          .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
-          .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
+          a.plain(href=`/podcast/${e.slug}`)
+            .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
+            .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 
   script.
     window.Einundzwanzig = {
@@ -52,13 +53,3 @@ mixin episodePlayer(e)
         ]
       }
     };
-
-mixin episodeDetails(e)
-  article.episodeDetails&attributes(attributes)
-    .media
-      a(href=e.anchor)
-        img(src=e.image alt=e.title loading="lazy")
-    .content
-      h3: a(href=e.anchor)=e.title
-      p=formatDate(e.date)
-      !=e.content
