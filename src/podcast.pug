@@ -3,32 +3,33 @@ extends /template.pug
 block main
   - const current = episodes.shift()
 
-  section#podcast
-    .lead.centered
-      h1.centered Podcast
+  #podcast.wrap
+    section
+      h1 Podcast
       :markdown-it(html linkify typographer)
         Du findest uns auf
         [Spotify](https://open.spotify.com/show/10408JFbE1n8MexfrBv33r),
         [Apple Podcasts](https://podcasts.apple.com/de/podcast/einundzwanzig-der-bitcoin-podcast/id1488229907),
         [Overcast](https://overcast.fm/itunes1488229907/einundzwanzig-der-bitcoin-podcast) und
         [Anchor](https://anchor.fm/einundzwanzig).
-      a.button(href="https://anchor.fm/s/d8d3c38/podcast/rss") Abonnieren / RSS
+      a.button(href="https://anchor.fm/s/d8d3c38/podcast/rss") Jetzt abonnieren
 
-    .centered
-      h2.centered Kategorien
+    section
+      h2 Kategorien
       ul.categories
-        li: a(href="/podcast/news") News
-        li: a(href="/podcast/interviews") Interviews
-        li: a(href="/podcast/lesestunde") Lesestunde
-        li: a(href="/podcast/der-weg") Der Weg
-        li: a(href="/podcast/verschiedenes") Verschiedenes
-
-    h2.centered Aktuelle Episode
-    .current
-      +episodePlayer(current).centered
+        li: a(href="/podcast/news/") News
+        li: a(href="/podcast/interviews/") Interviews
+        li: a(href="/podcast/lesestunde/") Lesestunde
+        li: a(href="/podcast/der-weg/") Der Weg
+        li: a(href="/podcast/verschiedenes/") Verschiedenes
+    section
+      h2 Aktuelle Episode
+      .current
+        +episodePlayer(current)
 
     if episodes.length
-      h2.centered Weitere Episoden
-      .episodes
-        each e in episodes
-          +episodeItem(e)
+      section
+        h2 Weitere Episoden
+        .episodes
+          each e in episodes
+            +episodeItem(e)

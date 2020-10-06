@@ -7,5 +7,6 @@
 @import 'base/footer.css';
 
 /* Sections */
+@import 'sections/home.css';
 @import 'sections/podcast.css';
 @import 'sections/team.css';

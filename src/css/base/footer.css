@@ -2,4 +2,20 @@
   text-align: center;
   font-size: var(--font-size-xs);
   color: var(--color-secondary);
+  background-color: var(--color-card-bg);
+  transition-property: background-color;
+  transition-duration: var(--transition-duration-fast);
+  padding: var(--space-m) 0;
+
+  & .wrap {
+    @media (--M_and_up) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+  }
+
+  & p {
+    margin-bottom: 0;
+  }
 }

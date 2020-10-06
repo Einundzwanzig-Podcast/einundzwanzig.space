@@ -15,7 +15,7 @@
 
 html {
   height: 100%;
-  line-height: 1.5;
+  line-height: 1.45;
   font-family: var(--font-family-base);
   font-size: var(--font-size-base);
   scroll-behavior: smooth;
@@ -29,6 +29,8 @@ body {
   height: 100%;
   color: var(--color-body-text);
   background-color: var(--color-body-bg);
+  transition-property: color, background;
+  transition-duration: var(--transition-duration-fast);
 }
 
 h1,
@@ -37,9 +39,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-family-head);
-  letter-spacing: -0.04em;
-  line-height: 1.05;
+  line-height: 1;
+  color: var(--color-secondary);
 
   & a {
     color: inherit;
@@ -114,8 +115,26 @@ ul {
   }
 }
 
+pre,
+button {
+  font-family: inherit;
+  font-size: inherit;
+}
+
 img:-moz-loading {
   visibility: hidden;
+}
+
+::-webkit-progress-value {
+  background-color: var(--color-accent);
+}
+
+::-ms-fill {
+  background-color: var(--color-accent);
+}
+
+::-moz-progress-bar {
+  background-color: var(--color-accent);
 }
 
 [aria-hidden="true"] {

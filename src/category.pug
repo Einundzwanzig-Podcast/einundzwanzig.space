@@ -3,15 +3,16 @@ extends /template.pug
 block main
   - const current = episodes.shift()
 
-  section#podcast
-    h1.centered= categoryName
-
-    h2.centered Aktuelle Episode
-    .current
-      +episodePlayer(current).centered
+  #podcast.wrap
+    section
+      h1= categoryName
+      h2 Aktuelle Episode
+      .current
+        +episodePlayer(current)
 
     if episodes.length
-      h2.centered Weitere Episoden
-      .episodes
-        each e in episodes
-          +episodeItem(e)
+      section
+        h2 Weitere Episoden
+        .episodes
+          each e in episodes
+            +episodeItem(e)

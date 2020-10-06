@@ -1,23 +1,24 @@
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
 
+// Theme Switch
+const COLOR_MODES = ["light", "dark"]
+const THEME_ATTR = "data-theme"
+const STORE_ATTR = "theme"
+const systemColorMode = window.matchMedia("(prefers-color-scheme: dark)").matches ? COLOR_MODES[1] : COLOR_MODES[0]
+const userColorMode = window.localStorage.getItem(STORE_ATTR)
+const initialColorMode = COLOR_MODES.includes(userColorMode) ? userColorMode : systemColorMode
+
+const setColorMode = mode => {
+  if (COLOR_MODES.includes(mode)) {
+    window.localStorage.setItem(STORE_ATTR, mode)
+    document.documentElement.setAttribute(THEME_ATTR, mode)
+  }
+}
+
+setColorMode(initialColorMode)
+
 document.addEventListener("DOMContentLoaded", () => {
-  const $body = document.body
-  const $headerAnchor = document.getElementById('header-anchor')
-
   // Topbar
-  const topbarClass = 'topbar'
-  const topbarAppearClass = 'topbar--appear'
-  const addTopbar = () => {
-    $body.classList.add(topbarClass)
-    window.setTimeout(() => {
-      $body.classList.add(topbarAppearClass)
-    }, 25)
-  }
-  const removeTopbar = () => {
-    $body.classList.remove(topbarClass)
-    $body.classList.remove(topbarAppearClass)
-  }
-
   if (
     "IntersectionObserver" in window &&
     "IntersectionObserverEntry" in window &&
@@ -25,14 +26,10 @@ document.addEventListener("DOMContentLoaded", () => {
   ) {
     const headerObserver = new IntersectionObserver(entries => {
       const { boundingClientRect: { y, height } } = entries[0]
-      if (Math.abs(y) > height) {
-        addTopbar()
-      } else {
-        removeTopbar()
-      }
+      const fn = Math.abs(y) > height ? 'add' : 'remove'
+      document.body.classList[fn]('topbar')
     })
-
-    headerObserver.observe($headerAnchor)
+    headerObserver.observe(document.getElementById('header-anchor'))
   }
 
   // List shuffling
@@ -44,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
   })
 
   // Player
-  if (window.Einundzwanzig.amplitude && window.Amplitude) {
+  if (window.Einundzwanzig && window.Einundzwanzig.amplitude && window.Amplitude) {
     window.Amplitude.init(window.Einundzwanzig.amplitude)
 
     document.querySelector('.player__progress').addEventListener('click', function (e) {
@@ -53,4 +50,14 @@ document.addEventListener("DOMContentLoaded", () => {
       window.Amplitude.setSongPlayedPercentage((parseFloat(x) / parseFloat(this.offsetWidth)) * 100)
     })
   }
+
+  // Theme Switch
+  document.querySelectorAll(".theme").forEach(function (link) {
+    link.addEventListener("click", function (e) {
+      e.preventDefault()
+      const current = document.documentElement.getAttribute(THEME_ATTR) || COLOR_MODES[0]
+      const mode = current === COLOR_MODES[0] ? COLOR_MODES[1] : COLOR_MODES[0]
+      setColorMode(mode)
+    });
+  });
 })

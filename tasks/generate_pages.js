@@ -19,9 +19,9 @@ const renderPage = (template, out, data = {}) => {
   writeFileSync(dst, rendered)
 }
 
-renderPage('index', 'index', { navCurrent: 'index' })
-renderPage('team', 'team', { navCurrent: 'team', team })
+renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0] })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes] })
+renderPage('team', 'team', { navCurrent: 'team', team })
 
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
 renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview') })

@@ -1,19 +1,16 @@
+/* https://google-webfonts-helper.herokuapp.com/fonts/inconsolata?subsets=latin */
 @font-face {
-  font-family: 'The Bold Font';
-  src: url('../fonts/theboldfont.woff2') format('woff2');
-}
-
-/* https://google-webfonts-helper.herokuapp.com/fonts/noto-sans?subsets=cyrillic,cyrillic-ext,latin */
-@font-face {
-  font-family: 'Noto Sans';
+  font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/noto-sans-400.woff2') format('woff2');
+  font-stretch: 100%;
+  src: url('../fonts/inconsolata-400.woff2') format('woff2');
 }
 
 @font-face {
-  font-family: 'Noto Sans';
+  font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/noto-sans-700.woff2') format('woff2');
+  font-stretch: 100%;
+  src: url('../fonts/inconsolata-700.woff2') format('woff2');
 }

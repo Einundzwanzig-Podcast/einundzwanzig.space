@@ -31,37 +31,50 @@ html(lang="en")
     meta(property="twitter:image" content=assetUrl(pageCard))
     meta(name="msapplication-TileColor" content=themeColor)
     meta(name="theme-color" content=themeColor)
-    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/noto-sans-400.woff2"))
-    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/noto-sans-700.woff2"))
-    link(rel="apple-touch-icon" href=assetPath("/img/einundzwanzig-square.svg"))
-    link(rel="icon" href=assetPath("/img/einundzwanzig-square.svg"))
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))
+    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-700.woff2"))
+    link(rel="apple-touch-icon" href=assetPath("/img/favicon/apple-touch-icon.png"))
+    link(rel="icon" href=assetPath("/img/favicon/favicon.svg"))
     link(rel="manifest" href="/site.webmanifest")
     link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
     link(rel="stylesheet" href=assetPath("/css/main.css"))
+    script(src=assetPath("/js/amplitude.js") defer)
+    script(src=assetPath("/js/main.js"))
     title= pageTitle
+    noscript
+      style.
+        .theme { display: none; }
   body
     header.header#header
       .wrap
         a(href="/").brand
           +sprite("logo-horizontal").logo
-        nav.nav
-          a.navItem(href="/podcast" sclass=(navCurrent === 'podcast' && 'current')) Podcast
-          a.navItem(href="/team" class=(navCurrent === 'team' && 'current')) Team
-          .social
-            a.twitter(href="https://twitter.com/_einundzwanzig_" target="_blank" title="Twitter")
+        .nav
+          nav
+            a.navItem(href="/podcast/" class=(navCurrent === 'podcast' && 'current')) Podcast
+            a.navItem(href="/team/" class=(navCurrent === 'team' && 'current')) Team
+          .more
+            a.twitter(href=site.meta.twitterUrl target="_blank" title="Twitter")
               +sprite("twitter")
-            a.telegram(href="https://t.me/einundzwanzigpodcast" target="_blank" title="Telegram")
+            a.telegram(href=site.meta.telegramUrl target="_blank" title="Telegram")
               +sprite("telegram")
+            button(type="button").theme
+              +sprite("theme")
 
     #header-anchor
 
     main.main
-      .wrap
-        block main
+      block main
 
     footer#footer.footer
       .wrap
-        p Craig Wright is a fraud.
-
-    script(src=assetPath("/js/amplitude.js") defer)
-    script(src=assetPath("/js/main.js") defer)
+        p
+          = "Folge uns auf "
+          a(href=site.meta.twitterUrl target="_blank") Twitter
+          = " und "
+          a(href=site.meta.telegramUrl target="_blank") komm in die Gruppe
+          |!
+        p
+          | Made with 💛 by
+          = " "
+          a(href="https://d11n.net" target="_blank") d11n.

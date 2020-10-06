@@ -1,29 +1,32 @@
 .header {
-  /* position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 10; */
   color: var(--color-body-text);
   background-color: var(--color-body-bg);
+  transition-property: color, background-color, box-shadow;
+  transition-duration: var(--transition-duration-fast);
 
-  @media (--up_to_L) {
+  @media (--up_to_M) {
+    padding-top: var(--space-l);
+    padding-bottom: var(--space-m);
+  }
+  @media (--M_to_L) {
     padding-top: var(--space-l);
     padding-bottom: var(--space-l);
   }
   @media (--L_and_up) {
     padding-top: var(--space-xl);
-    padding-bottom: var(--space-xl);
+    padding-bottom: var(--space-l);
   }
 
-  @nest body.topbar & {
-    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
-  }
+  @media (--up_to_L) {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
 
-  @nest body.topbar.topbar--appear & {
-    opacity: 1;
-    transition-property: opacity;
-    transition-duration: var(--transition-duration-fast);
+    @nest body.topbar & {
+      box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+    }
   }
 
   & a {
@@ -38,93 +41,94 @@
   }
 
   & .wrap {
-    @media (--L_and_up) {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: flex-end;
-    }
-  }
-
-  & .brand {
-    display: inline-block;
-    margin-right: var(--space-xl);
+    flex-direction: column;
+    align-items: center;
   }
 
   & .logo {
     display: block;
-
-    @media (--up_to_M) {
-      height: 27px;
-      width: 300px;
-    }
-    @media (--M_to_L) {
-      height: 45px;
-      width: 500px;
-    }
-    @media (--L_and_up) {
-      height: 63px;
-      width: 700px;
-    }
+    width: 100%;
+    height: var(--logo-height);
+    max-width: 840px;
+    max-height: 76px;
   }
 
   & .nav {
-    position: relative;
-    top: 3px;
-    left: -1px;
     display: flex;
-    flex: 1;
+    align-self: flex-start;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 5.75%;
+    line-height: 1;
 
-    @media (--up_to_L) {
+    @media (--up_to_M) {
       margin-top: var(--space-m);
+      font-size: var(--font-size-l);
+    }
+    @media (--M_to_L) {
+      margin-top: var(--space-m);
+      font-size: var(--font-size-xl);
     }
     @media (--L_and_up) {
       margin-top: var(--space-l);
+      font-size: var(--font-size-xxl);
     }
 
-    & a {
-      text-decoration: none;
-
-      &.navItem {
-        text-transform: uppercase;
-        letter-spacing: -0.04em;
-        font-weight: var(--font-weight-bold);
-        margin-right: var(--space-l);
-        line-height: 1;
-
-        @media (--up_to_L) {
-          font-size: var(--font-size-l);
-        }
-        @media (--L_and_up) {
-          font-size: var(--font-size-xl);
-        }
-      }
-    }
-
-    & .social {
+    & nav {
       display: flex;
       align-items: center;
 
-      @media (--L_and_up) {
-        margin-left: auto;
-      }
+      & a {
+        text-transform: uppercase;
+        font-weight: var(--font-weight-bold);
+        cursor: pointer;
 
-      & a,
-      & svg {
-        display: inline-block;
-
-        @media (--up_to_L) {
-          height: calc(var(--font-size-l) - 0.2rem);
-          width: calc(var(--font-size-l) - 0.2rem);
-        }
-        @media (--L_and_up) {
-          height: calc(var(--font-size-xl) - 0.2rem);
-          width: calc(var(--font-size-xl) - 0.2rem);
+        &.current {
+          color: var(--color-accent);
         }
       }
 
-      & a + a {
+      & > a + a {
         margin-left: var(--space-l);
       }
+    }
+
+    & .more {
+      display: flex;
+      align-items: center;
+      margin-left: auto;
+
+      & a,
+      & button{
+        display: inline-block;
+
+        & svg {
+          height: .8em;
+          width: .8em;
+          display: block;
+        }
+      }
+
+      & > * + * {
+        margin-left: var(--space-l);
+      }
+    }
+  }
+}
+
+.theme {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  color: inherit;
+  background: none;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+
+  &:hover {
+    @media not all and (hover: none) {
+      color: var(--color-accent);
     }
   }
 }

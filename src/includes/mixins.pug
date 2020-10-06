@@ -4,14 +4,14 @@ mixin sprite(id)
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
-    a.plain(href=`/podcast/${e.slug}`)
+    a.plain(href=`/podcast/${e.slug}/`)
       .media
         img(src=e.image alt=e.title loading="lazy")
       .content
         .meta
           span= e.categoryName + (e.number ? ` #${e.number}` : '')
           time(datetime=e.date)= e.block || formatDate(e.date)
-        h3=e.titlePlain
+        .title=e.titlePlain
 
 mixin episodePlayer(e)
   .player.player--single&attributes(attributes)
@@ -34,8 +34,10 @@ mixin episodePlayer(e)
 
       .player__controls
         .player__button.amplitude-play-pause(data-amplitude-main-play-pause="true" id="play-pause")
+          +sprite("pause").player__button__icon--pause
+          +sprite("play").player__button__icon--play
         .player__info
-          a.plain(href=`/podcast/${e.slug}`)
+          a.plain(href=`/podcast/${e.slug}/`)
             .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 

@@ -1,21 +1,23 @@
 extends /template.pug
 
 block main
-  section#team
-    h1.centered Team
-    ul.members(data-shuffle)
-      each m in shuffle(team)
-        li.member
-          img(src=(assetPath(m.image)) alt=m.name loading="lazy")
-          h2=m.name
-          !=renderMarkdown(m.text)
-          .links
-            if m.twitter
-              a.plain(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" title=`${m.name} on Twitter`)
-                +sprite("twitter")
-            if m.github
-              a.plain(href=(m.github.startsWith('https://') ? m.github : `https://github.com/${m.github}`) target="_blank" title=`${m.name} on GitHub`)
-                +sprite("github")
-            if m.url
-              a.plain(href=m.url target="_blank")
-                +sprite("url")
+  #team.wrap
+    section
+      h1 Team
+      ul.members(data-shuffle)
+        each m in shuffle(team)
+          li.member
+            img(src=assetPath(m.image) alt=m.name loading="lazy")
+            header
+              h2=m.name
+              .links
+                if m.twitter
+                  a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" title=`${m.name} on Twitter`)
+                    +sprite("twitter")
+                if m.github
+                  a(href=(m.github.startsWith('https://') ? m.github : `https://github.com/${m.github}`) target="_blank" title=`${m.name} on GitHub`)
+                    +sprite("github")
+                if m.url
+                  a(href=m.url target="_blank")
+                    +sprite("url")
+            !=renderMarkdown(m.text)

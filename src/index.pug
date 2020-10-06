@@ -1,8 +1,49 @@
 extends /template.pug
 
 block main
-  section
-    .lead.centered
-    :markdown-it(html linkify typographer)
-      - [Shoutouts](https://tallyco.in/s/zfxqtu/)
-    a.button(href="https://t.me/einundzwanzigpodcast") Komm in die Gruppe!
+  - const ticker = "Toximalistisches Infotainment für bullishe Bitcoiner +++ Sende uns einen Shout-Out: 50.000 Sats und du bist dabei +++ Alpenzitadelle läuft, wir spielen Hosp oder top! +++ Sei kein Holger, lass einen Vollknoten laufen! +++ Sei kein Vollknoten, komm in die Gruppe ! +++ Markus, ist bester Mann des Monats +++ "
+  .ticker
+    .inner
+      pre= ticker
+      pre= ticker
+      pre= ticker
+
+  .wrap
+    section
+      :markdown-it(html linkify typographer)
+        # Einundzwanzig, der Bitcoin Podcast
+
+        ## Toximalistisches Infotainment für bullishe Bitcoiner
+
+        [Bitcoin](https://bitcoin.org/bitcoin.pdf), und sonst nichts.
+        Einmal die Woche sitzen die Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.
+
+        [Wir](/team/) bringen dir die [News](/podcast/news/) der Woche, sowie zusätzlich [Interviews](/podcast/interviews/) und
+        die besten Artikel als [Lesestunde](/podcast/lesestunde/).
+        Außerdem erfährst du in [Der Weg](/podcast/der-weg/) wie andere Leute zu Bitcoin gekommen sind.
+
+    section
+      h2 Aktuelle Episode
+      .current
+        +episodePlayer(currentEpisode)
+
+    section
+      :markdown-it(html linkify typographer)
+        ## Komm in die Gruppe!
+
+        Mit unserer Telegram-Gruppe bieten wir dir ein Shitcoin-freies Refugium: Mit etwa 300 Gleichgesinnten
+        sprechen wir dort nicht über den Preis, Altcoins oder sonstige unwichtigen Dinge. In unserer Gruppe
+        findest du News, Informationen und bekommst praktische Ratschläge zu technischen Themen.
+
+      a.button(href=site.meta.telegramUrl) Komm in die Gruppe!
+
+    section
+      :markdown-it(html linkify typographer)
+        ## Sei laut, shout out!
+
+        Wenn du möchtest, dass wir im Podcast deinen "Shoutout" vorlesen, dann bist du mit 50.000 Sats dabei!
+        Wir sammeln alle Einnahmen bis die 1.000.000 Sats voll sind. Dann lassen wir in unserer Telegram-Gruppe
+        darüber abstimmen welches Bitcoin-Projekt aus Deutschland diese kostbaren Sats bekommen soll.
+        Wenn du also einen Shoutout in unserem Podcast kaufst, unterstützt du damit auch ein Bitcoin Projekt.
+
+      a.button(href=site.meta,shoutoutUrl) Sende uns einen Shout-Out

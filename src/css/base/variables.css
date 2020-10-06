@@ -6,7 +6,7 @@
 
 :root {
   --color-neutral-0: #fff;
-  --color-neutral-10: #f6f6f6;
+  --color-neutral-10: #f9f9f9;
   --color-neutral-50: #888;
   --color-neutral-90: #222;
   --color-neutral-95: #1B1B1B;
@@ -24,15 +24,14 @@
   --space-s: .25rem;
   --space-m: .5rem;
   --space-l: 1rem;
-  --space-xl: 2rem;
+  --space-xl: 1.75rem;
   --space-xxl: 3rem;
 
   --transition-duration-fast: 0.25s;
   --transition-duration-medium: 0.75s;
   --transition-duration-slow: 1.5s;
 
-  --font-family-base: 'Noto Sans', sans-serif;
-  --font-family-head: var(--font-family-base);
+  --font-family-base: 'Inconsolata', monospace;
 
   --font-weight-normal: 400;
   --font-weight-bold: 700;
@@ -45,6 +44,18 @@
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2.5rem;
   --font-size-xxxl: 4rem;
+
+  @media (--up_to_M) {
+    --wrap-padding-horizontal: var(--space-l);
+  }
+  @media (--M_to_L) {
+    --wrap-padding-horizontal: var(--space-xl);
+  }
+  @media (--L_and_up) {
+    --wrap-padding-horizontal: var(--space-xxl);
+  }
+
+  --logo-height: calc((100vw - var(--wrap-padding-horizontal) * 2) / 134 * 12);
 }
 
 :root[data-theme="dark"] {
