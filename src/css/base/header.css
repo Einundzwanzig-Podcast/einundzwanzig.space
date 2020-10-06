@@ -63,7 +63,7 @@
 
     @media (--up_to_M) {
       margin-top: var(--space-m);
-      font-size: var(--font-size-l);
+      font-size: var(--font-size-xl);
     }
     @media (--M_to_L) {
       margin-top: var(--space-m);
@@ -103,8 +103,8 @@
         display: inline-block;
 
         & svg {
-          height: .8em;
-          width: .8em;
+          height: .85em;
+          width: .85em;
           display: block;
         }
       }
