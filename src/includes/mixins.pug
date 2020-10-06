@@ -6,7 +6,7 @@ mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
     a.plain(href=`/podcast/${e.slug}/`)
       .media
-        img(src=e.image alt=e.title loading="lazy")
+        img(src=assetPath(e.image) alt=e.title loading="lazy")
       .content
         .meta
           span= e.categoryName + (e.number ? ` #${e.number}` : '')
@@ -15,7 +15,8 @@ mixin episodeItem(e)
 
 mixin episodePlayer(e)
   .player.player--single&attributes(attributes)
-    img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true")
+    a.player__coverlink(href=`/podcast/${e.slug}/`)
+      img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true")
     .player__bottom
       progress.player__progress.amplitude-song-played-progress(data-amplitude-main-song-played-progress="true")
 
@@ -50,7 +51,7 @@ mixin episodePlayer(e)
             "artist": "Einundzwanzig",
             "album": "#{e.categoryName + (e.number ? ` #${e.number}` : '')}",
             "url": "#{e.enclosure.url}",
-            "cover_art_url": "#{e.image}"
+            "cover_art_url": "#{assetPath(e.image)}"
           }
         ]
       }

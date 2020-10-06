@@ -6,6 +6,7 @@ const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Ma
 const formatDate = date => (new Date(date)).toISOString().replace(/T.*/, '').split('-').reverse().join('.')
 const linkTarget = url => url.startsWith('http') ? '_blank' : null
 const assetPath = path => {
+  if (path.startsWith('http')) return path
   let revs
   try { revs = require('./generated/rev.json') } catch (error) { }
   return `${(revs && revs[path]) || path}`

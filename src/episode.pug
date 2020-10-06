@@ -4,7 +4,7 @@ block vars
   - const title = episode.title
   - const description = episode.contentSnippet
   - const cardImage = episode.image
-  - const cardSize = 3000
+  - const cardSize = episode.image.match('cloudfront') ? 3000 : 1400
 
 block og
   meta(property="og:type" content="article")

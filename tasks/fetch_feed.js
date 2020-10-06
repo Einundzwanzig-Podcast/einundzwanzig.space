@@ -13,13 +13,11 @@ const slugify = str => str.toLowerCase()
 const parseInfo = e => {
   const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/)
   let [, categoryName = 'News', number, titlePlain] = titleMatch ? titleMatch : [,,,e.title]
-
   if (!number) categoryName = 'Verschiedenes'
   const blockMatch = e.contentSnippet.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
   const category = slugify(categoryName)
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
-
   return { block, category, categoryName, number, titlePlain, slug }
 }
 
@@ -31,20 +29,25 @@ const parseInfo = e => {
   write('feed', feed)
 
   // All episodes
-  const episodes = feed.items.map(e => ({
-    title: e.title.trim(),
-    content: e.content.trim(),
-    contentSnippet: e.contentSnippet.trim(),
-    anchor: e.link,
-    date: e.isoDate,
-    enclosure: e.enclosure,
-    duration: e.itunes.duration,
-    image: e.itunes.image,
-    season: e.itunes.season,
-    episode: e.itunes.episode,
-    guid: e.guid,
-    ...parseInfo(e)
-  }))
+  const episodes = feed.items.map(e => {
+    const info = parseInfo(e)
+    const image = info.category === 'interview' ? e.itunes.image : `/img/cover/${info.category}.png`
+    return {
+      title: e.title.trim(),
+      content: e.content.trim(),
+      contentSnippet: e.contentSnippet.trim(),
+      anchor: e.link,
+      date: e.isoDate,
+      enclosure: e.enclosure,
+      duration: e.itunes.duration,
+      season: e.itunes.season,
+      episode: e.itunes.episode,
+      guid: e.guid,
+      image,
+      originalImage: e.itunes.image,
+      ...info
+    }
+  })
 
   write('episodes', episodes)
 })()

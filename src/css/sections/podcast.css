@@ -121,19 +121,20 @@
     min-width: 300px;
     max-width: 400px;
   }
-  @media (--M_and_up) {
-  }
 }
 
-.player__cover {
-  display: block;
-
+.player__coverlink {
   @media (--up_to_M) {
     width: 100%;
   }
   @media (--M_and_up) {
     width: 25%;
   }
+}
+
+.player__cover {
+  display: block;
+  width: 100%;
 }
 
 .player__bottom {
