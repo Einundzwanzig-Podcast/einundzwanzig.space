@@ -40,7 +40,6 @@ h4,
 h5,
 h6 {
   line-height: 1;
-  color: var(--color-secondary);
 
   & a {
     color: inherit;
@@ -49,11 +48,13 @@ h6 {
 }
 
 h1 {
-  font-size: var(--font-size-xxl);
+  font-size: var(--font-size-xxxl);
+  font-weight: var(--font-weight-regular);
 }
 
 h2 {
   font-size: var(--font-size-xl);
+  color: var(--color-secondary);
 }
 
 h3 {

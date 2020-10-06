@@ -1,9 +1,13 @@
 extends /template.pug
 
+block vars
+  - const title = 'Team'
+  - const description = 'Einmal die Woche sitzen diese Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.'
+
 block main
   #team.wrap
     section
-      h1 Team
+      h1= title
       ul.members(data-shuffle)
         each m in shuffle(team)
           li.member

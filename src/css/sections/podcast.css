@@ -3,7 +3,7 @@
     display: inline-flex;
     flex-wrap: wrap;
     list-style: none;
-    margin: 0;
+    margin: 0 0 var(--space-l) 0;
 
     & li {
       margin: 0 var(--space-m) var(--space-m) 0;

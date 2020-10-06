@@ -34,6 +34,7 @@ const parseInfo = e => {
   const episodes = feed.items.map(e => ({
     title: e.title.trim(),
     content: e.content.trim(),
+    contentSnippet: e.contentSnippet.trim(),
     anchor: e.link,
     date: e.isoDate,
     enclosure: e.enclosure,

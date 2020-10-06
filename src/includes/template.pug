@@ -2,10 +2,11 @@ include mixins
 
 block vars
 
-- const pageTitle = title ? `${title} · ${site.title}` : site.meta.title
+- const pageTitle = title ? `${title} · ${site.meta.title}` : site.meta.title
 - const pageDescription = description || site.meta.description
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
+- const pageCardSize = cardSize || 1402
 - const themeColor = '#FFFFFF'
 
 <!DOCTYPE html>
@@ -20,15 +21,17 @@ html(lang="en")
     meta(property="og:site_name" content=site.title)
     meta(property="og:title" content=pageTitle)
     meta(property="og:description" content=pageDescription)
-    meta(property="og:type" content="website")
     meta(property="og:image" content=assetUrl(pageCard, "http"))
     meta(property="og:image:secure_url" content=assetUrl(pageCard))
-    meta(property="og:image:width" content=1402)
-    meta(property="og:image:height" content=1402)
+    meta(property="og:image:width" content=pageCardSize)
+    meta(property="og:image:height" content=pageCardSize)
+    block og
+      meta(property="og:type" content="website")
     meta(property="twitter:card" content="summary")
     meta(property="twitter:title" content=pageTitle)
     meta(property="twitter:description" content=pageDescription)
     meta(property="twitter:image" content=assetUrl(pageCard))
+
     meta(name="msapplication-TileColor" content=themeColor)
     meta(name="theme-color" content=themeColor)
     link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))

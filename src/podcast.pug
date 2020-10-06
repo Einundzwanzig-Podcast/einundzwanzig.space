@@ -1,27 +1,35 @@
 extends /template.pug
 
-block main
+block vars
   - const current = episodes.shift()
+  - const title = 'Podcast'
+  - const description = 'Wir bringen dir die Bitcoin-News der Woche, sowie zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.'
 
+block main
   #podcast.wrap
     section
-      h1 Podcast
-      :markdown-it(html linkify typographer)
-        Du findest uns auf
-        [Spotify](https://open.spotify.com/show/10408JFbE1n8MexfrBv33r),
-        [Apple Podcasts](https://podcasts.apple.com/de/podcast/einundzwanzig-der-bitcoin-podcast/id1488229907),
-        [Overcast](https://overcast.fm/itunes1488229907/einundzwanzig-der-bitcoin-podcast) und
-        [Anchor](https://anchor.fm/einundzwanzig).
-      a.button(href="https://anchor.fm/s/d8d3c38/podcast/rss") Jetzt abonnieren
-
-    section
-      h2 Kategorien
+      h1= title
+      p= description
       ul.categories
         li: a(href="/podcast/news/") News
         li: a(href="/podcast/interviews/") Interviews
         li: a(href="/podcast/lesestunde/") Lesestunde
         li: a(href="/podcast/der-weg/") Der Weg
         li: a(href="/podcast/verschiedenes/") Verschiedenes
+
+      p
+        | Du findest uns auf
+        = " "
+        a(href=site.meta.spotifyUrl) Spotify
+        = ", "
+        a(href=site.meta.appleUrl) Apple Podcasts
+        = ", "
+        a(href=site.meta.overcastUrl) Overcast
+        = " und "
+        a(href=site.meta.anchorUrl) Anchor
+        = "."
+      a.button(href=site.meta.feedUrl) Jetzt abonnieren
+
     section
       h2 Aktuelle Episode
       .current

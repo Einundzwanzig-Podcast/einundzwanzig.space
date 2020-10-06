@@ -11,7 +11,10 @@ const assetPath = path => {
   return `${(revs && revs[path]) || path}`
 }
 const assetUrl = (path, protocol = 'https') => {
-  return `${protocol}://einundzwanzig.space/${assetPath(path)}`
+  const base = path.startsWith('http') ? '' : `${protocol}://einundzwanzig.space`
+  let url = `${base}${assetPath(path)}`
+  if (!url.startsWith(`${protocol}:`)) url = url.replace(/^.*:/, `${protocol}:`)
+  return url
 }
 
 module.exports = {

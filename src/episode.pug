@@ -1,5 +1,22 @@
 extends /template.pug
 
+block vars
+  - const title = episode.title
+  - const description = episode.contentSnippet
+  - const cardImage = episode.image
+  - const cardSize = 3000
+
+block og
+  meta(property="og:type" content="article")
+  meta(property="og:url" content=`https://einundzwanzig.space/podcast/${episode.slug}/`)
+  meta(property="og:audio" content=assetUrl(episode.enclosure.url, "http"))
+  meta(property="og:audio:secure_url" content=assetUrl(episode.enclosure.url, "https"))
+  meta(property="og:audio:type" content=episode.enclosure.type)
+  meta(property="article:section" content="Technology")
+  meta(property="article:published_time" content=episode.date)
+  meta(property="article:author" content=site.meta.twitterUrl)
+  meta(property="twitter:creator" content=site.meta.twitterUrl.replace('https://twitter.com/', ''))
+
 block main
   #episode.wrap
     section
