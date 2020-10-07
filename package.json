@@ -25,7 +25,8 @@
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
     "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/team/*.jpg dist/img/team/*.png",
-    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages"
+    "sitemap": "node tasks/generate_sitemap.js",
+    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages sitemap"
   },
   "dependencies": {
     "amplitudejs": "5.2.0"
@@ -34,6 +35,7 @@
     "autoprefixer": "10.0.1",
     "browser-sync": "2.26.12",
     "csso-cli": "3.0.0",
+    "glob": "7.1.6",
     "jstransformer-markdown-it": "2.1.0",
     "markdown-it": "11.0.1",
     "node-file-rev": "1.1.2",
