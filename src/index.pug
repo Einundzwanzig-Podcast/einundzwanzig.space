@@ -2,10 +2,10 @@ extends /template.pug
 
 block main
   - const ticker = shuffle(site.meta.ticker).join(" +++ ") + " +++ "
+  - const duration = ticker.length / 4
   .ticker
-    .inner
-      pre= ticker
-      pre= ticker
+    pre(style=`animation-duration:${duration}s`)= ticker
+    pre(style=`animation-duration:${duration}s`)= ticker
 
   .wrap
     section

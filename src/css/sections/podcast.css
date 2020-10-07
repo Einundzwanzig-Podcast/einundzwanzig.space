@@ -193,8 +193,8 @@
   }
 }
 
-.player__button.amplitude-paused .player__button__icon--pause,
-.player__button.amplitude-playing .player__button__icon--play {
+.player__button.amplitude-paused .player__button__icon--play,
+.player__button.amplitude-playing .player__button__icon--pause {
   display: block;
 }
 

@@ -11,23 +11,14 @@
   margin: -15px 0 var(--space-xl);
   padding: var(--space-m) 0;
 
-  & .inner {
-    display: flex;
-    align-items: center;
-    flex-wrap: nowrap;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  font-size: var(--font-size-s);
+
+  & pre {
     animation-name: marquee;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
-    font-size: var(--font-size-s);
-
-    @media (--up_to_M) {
-      animation-duration: 10s;
-    }
-    @media (--M_to_L) {
-      animation-duration: 20s;
-    }
-    @media (--L_and_up) {
-      animation-duration: 30s;
-    }
   }
 }
