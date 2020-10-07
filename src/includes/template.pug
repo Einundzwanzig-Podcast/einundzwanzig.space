@@ -77,7 +77,15 @@ html(lang="en")
           = " und "
           a(href=site.meta.telegramUrl target="_blank") komm in die Gruppe
           |!
+        if site.block
+          p
+            | Aktualisiert um
+            = " "
+            a(href=`https://www.blockstream.info/block-height/${site.block}`)
+              time(datetime=site.date)= site.block
+            |.
         p
           | Made with 💛 by
           = " "
-          a(href="https://d11n.net" target="_blank") d11n.
+          a(href="https://d11n.net" target="_blank") d11n
+          |.

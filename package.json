@@ -11,21 +11,21 @@
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
-    "start": "npm-run-all clean fetch -p build:static start:*",
+    "copy": "cp -r static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/amplitude.js",
+    "init": "npm-run-all clean -p fetch copy build:data",
+    "start": "npm-run-all init -p start:*",
+    "start:data": "onchange -k 'content/**/*' -- npm run build:data",
     "start:pages": "onchange -i -k 'pug.config.js' 'markdown.js' 'content/**' 'generated/**' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
-    "start:data": "onchange -i -k 'content/**/*' -- npm run build:data",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
-    "build": "npm-run-all clean fetch -p build:*",
-    "build:static": "cp -r static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/amplitude.js",
+    "build": "npm-run-all init -p build:*",
     "build:data": "node tasks/generate_site_data.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "npm-run-all -p optimize:* -s rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
     "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/team/*.jpg dist/img/team/*.png",
-    "prod": "npm-run-all build optimize -s build:pages",
-    "images": "node tasks/optimize_images.js"
+    "prod": "npm-run-all build optimize -s build:pages"
   },
   "dependencies": {
     "amplitudejs": "5.2.0"
@@ -47,13 +47,7 @@
     "postcss-media-variables": "2.0.1",
     "postcss-nesting": "7.0.1",
     "pug-cli": "1.0.0-alpha6",
-    "rss-parser": "3.9.0"
-  },
-  "optionalDependencies": {
-    "compress-images": "1.9.5",
-    "gifsicle": "5.1.0",
-    "mozjpeg": "7.0.0",
-    "pngquant-bin": "6.0.0",
-    "svgo": "1.3.2"
+    "rss-parser": "3.9.0",
+    "sync-request": "6.1.0"
   }
 }

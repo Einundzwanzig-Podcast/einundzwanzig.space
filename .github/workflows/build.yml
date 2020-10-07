@@ -1,12 +1,18 @@
 name: build
 
 on:
+  # Run the build for pushes and pull requests targeting master
   push:
     branches:
       - master
   pull_request:
     branches:
       - master
+  # Used to trigger the build for Anchor feed updates. Can by kicked off via:
+  # curl -X POST -H "Authorization: token $GH_PAT" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/Einundzwanzig-Podcast/einundzwanzig.space/dispatches --data '{"event_type": "build_docs"}'
+  repository_dispatch:
+    types:
+      - anchor_update
 
 jobs:
   build:

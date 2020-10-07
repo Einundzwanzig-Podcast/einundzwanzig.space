@@ -1,10 +1,9 @@
 extends /template.pug
 
 block main
-  - const ticker = "Toximalistisches Infotainment für bullishe Bitcoiner +++ Sende uns einen Shout-Out: 50.000 Sats und du bist dabei +++ Alpenzitadelle läuft, wir spielen Hosp oder top! +++ Sei kein Holger, lass einen Vollknoten laufen! +++ Sei kein Vollknoten, komm in die Gruppe ! +++ Markus, ist bester Mann des Monats +++ "
+  - const ticker = shuffle(site.meta.ticker).join(" +++ ") + " +++ "
   .ticker
     .inner
-      pre= ticker
       pre= ticker
       pre= ticker
 
