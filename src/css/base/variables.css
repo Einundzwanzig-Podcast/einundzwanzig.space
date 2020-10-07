@@ -11,6 +11,7 @@
   --color-neutral-90: #222;
   --color-neutral-95: #1B1B1B;
 
+  --color-overlay-bg: rgba(200, 200, 200, .95);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);
   --color-card-bg: var(--color-neutral-10);
@@ -33,7 +34,7 @@
 
   --font-family-base: 'Inconsolata', monospace;
 
-  --font-weight-normal: 400;
+  --font-weight-regular: 400;
   --font-weight-bold: 700;
 
   --font-size-base: 18px;
@@ -62,6 +63,7 @@
   --color-body-text: var(--color-neutral-0);
   --color-body-bg: var(--color-neutral-90);
   --color-card-bg: var(--color-neutral-95);
+  --color-overlay-bg: rgba(0, 0, 0, .95);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -69,5 +71,6 @@
     --color-body-text: var(--color-neutral-0);
     --color-body-bg: var(--color-neutral-90);
     --color-card-bg: var(--color-neutral-95);
+    --color-overlay-bg: rgba(20, 20, 20, .95);
   }
 }

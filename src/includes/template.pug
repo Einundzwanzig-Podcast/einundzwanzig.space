@@ -7,7 +7,7 @@ block vars
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
 - const pageCardSize = cardSize || 1400
-- const themeColor = '#FFFFFF'
+- const themeColor = site.meta.themeColor
 
 <!DOCTYPE html>
 html(lang="en")
@@ -31,7 +31,6 @@ html(lang="en")
     meta(property="twitter:title" content=pageTitle)
     meta(property="twitter:description" content=pageDescription)
     meta(property="twitter:image" content=assetUrl(pageCard))
-
     meta(name="msapplication-TileColor" content=themeColor)
     meta(name="theme-color" content=themeColor)
     link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))

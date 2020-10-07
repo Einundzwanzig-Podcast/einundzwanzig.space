@@ -43,16 +43,33 @@ mixin episodePlayer(e)
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 
   script.
-    window.Einundzwanzig = {
-      amplitude: {
-        songs: [
-          {
-            "name": "#{e.titlePlain}",
-            "artist": "Einundzwanzig",
-            "album": "#{e.categoryName + (e.number ? ` #${e.number}` : '')}",
-            "url": "#{e.enclosure.url}",
-            "cover_art_url": "#{assetPath(e.image)}"
-          }
-        ]
-      }
+    window.player = {
+      songs: [
+        {
+          "name": "#{e.titlePlain}",
+          "artist": "Einundzwanzig",
+          "album": "#{e.categoryName + (e.number ? ` #${e.number}` : '')}",
+          "url": "#{e.enclosure.url}",
+          "cover_art_url": "#{assetPath(e.image)}"
+        }
+      ]
     };
+
+mixin subscribe()
+  script.
+    window.subscribe = {
+      title: "Einundzwanzig",
+      subtitle: "Der Bitcoin Podcast",
+      description: "#{site.meta.description}",
+      cover: "#{assetUrl(site.meta.cardImage)}",
+      feeds: [
+        {
+          type: "audio",
+          format: "mp3",
+          url: "#{site.meta.feedUrl}",
+          "directory-url-itunes": "#{site.meta.appleUrl}"
+        }
+      ]
+    }
+  script(src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" class="podlove-subscribe-button" data-language="de" data-size="big" data-json-data="subscribe" data-color=themeColor data-format="rectangle")
+  noscript: a.button(href=site.meta.feedUrl) Jetzt abonnieren

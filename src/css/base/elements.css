@@ -146,18 +146,53 @@ img:-moz-loading {
   display: inline-block;
   text-align: center;
   padding: var(--space-m) var(--space-l);
-  color: var(--color-neutral-0);
+  font-weight: var(--font-weight-bold);
+  color: #2a1801;
   background-color: var(--color-accent);
   text-decoration: none;
+  text-transform: uppercase;
   border-radius: var(--space-m);
   transition-property: color, background;
   transition-duration: var(--transition-duration-fast);
 
   &:hover {
     @media not all and (hover: none) {
-      color: var(--color-neutral-0);
+      color: #2a1801;
       background-color: var(--color-accent-highlight);
       text-decoration: none;
+    }
+  }
+}
+
+.podlove-subscribe-button-iframe {
+  margin-top: var(--space-m);
+  border-radius: var(--space-m);
+}
+
+#podlove-subscribe-popup {
+  background-color: var(--color-overlay-bg) !important;
+
+  & #podlove-subscribe-popup-modal {
+    & * {
+      font-family: var(--font-family-base) !important;
+      font-weight: var(--font-weight-regular) !important;
+    }
+
+    & .top-bar,
+    & .podlove-logo,
+    & .device-cloud-switch,
+    & #podlove-subscribe-panel-podcast,
+    & #podlove-subscribe-panel-clients,
+    & #podlove-subscribe-panel-finish {
+      color: var(--color-body-text) !important;
+      background-color: var(--color-card-bg) !important;
+      transition-property: color, background-color;
+      transition-duration: var(--transition-duration-fast);
+
+      & li,
+      & .device-cloud-switch {
+        border-color: var(--color-body-bg) !important;
+      }
     }
   }
 }

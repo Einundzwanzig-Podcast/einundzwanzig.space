@@ -41,9 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
   })
 
   // Player
-  if (window.Einundzwanzig && window.Einundzwanzig.amplitude && window.Amplitude) {
-    window.Amplitude.init(window.Einundzwanzig.amplitude)
-
+  if (window.Amplitude && window.player) {
+    window.Amplitude.init(window.player)
     document.querySelector('.player__progress').addEventListener('click', function (e) {
       var offset = this.getBoundingClientRect()
       var x = e.pageX - offset.left
