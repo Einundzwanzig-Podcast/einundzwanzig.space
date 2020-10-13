@@ -163,6 +163,19 @@
   font-size: var(--font-size-s);
 }
 
+.player__speed:before {
+  cursor: pointer;
+}
+.player__speed.amplitude-playback-speed-10:before {
+  content: '1.0x';
+}
+.player__speed.amplitude-playback-speed-15:before {
+  content: '1.5x';
+}
+.player__speed.amplitude-playback-speed-20:before {
+  content: '2.0x';
+}
+
 .player__controls {
   display: flex;
   align-items: center;
