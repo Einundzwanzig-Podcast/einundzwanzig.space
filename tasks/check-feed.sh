@@ -5,13 +5,17 @@ log="$dir/check-feed.log"
 file="$dir/.check-feed"
 prev=$(cat $file)
 feed=$(curl -s https://anchor.fm/s/d8d3c38/podcast/rss)
-date=$(echo "$feed" | awk 'BEGIN { FS="<|>"; RS="\n" }; { if ($0 ~ /lastBuildDate/) print $3}')
+dates=$(echo "$feed" | awk 'BEGIN { FS="<|>"; RS="\n" }; { if ($0 ~ /pubDate/) print $3}')
+count=$(echo "$dates" | wc -l | xargs)
+date=$(echo "$dates" | head -n 1)
+checksum="$count - $date"
 
-if [[ ! -z "$date" ]]; then
+
+if [[ ! -z "$checksum" ]]; then
   echo "Latest build: $prev"
-  echo "Last updated: $date"
+  echo "Last updated: $checksum"
 
-  if [[ "$date" != "$prev" ]]; then
+  if [[ "$checksum" != "$prev" ]]; then
     if [[ ! -z "$GH_PAT" ]]; then
       echo "-> Triggering new build"
       curl -X POST https://api.github.com/repos/Einundzwanzig-Podcast/einundzwanzig.space/dispatches \
@@ -26,5 +30,5 @@ if [[ ! -z "$date" ]]; then
     fi
   fi
 
-  echo $date > $file
+  echo $checksum > $file
 fi
