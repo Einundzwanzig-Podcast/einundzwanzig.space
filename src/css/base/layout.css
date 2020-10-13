@@ -10,11 +10,14 @@
   flex: 1;
   padding-bottom: var(--space-xxl);
 
-  @media (--up_to_L) {
-    padding-top: calc(var(--logo-height) + var(--space-xxl) * 1.75);
+  @media (--up_to_M) {
+    padding-top: calc(var(--logo-height) + var(--space-xxl) * 1.525);
+  }
+  @media (--M_to_L) {
+    padding-top: calc(var(--logo-height) + var(--space-xxl) * 1.675);
   }
   @media (--L_and_up) {
-    padding-top: var(--space-xl);
+    padding-top: var(--space-l);
   }
 
   & h1 {

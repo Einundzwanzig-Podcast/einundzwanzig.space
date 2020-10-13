@@ -4,8 +4,8 @@ block main
   - const ticker = shuffle(site.meta.ticker).join(" +++ ") + " +++ "
   - const duration = ticker.length / 4
   .ticker
-    pre(style=`animation-duration:${duration}s`)= ticker
-    pre(style=`animation-duration:${duration}s`)= ticker
+    span(style=`animation-duration:${duration}s`)= ticker
+    span(style=`animation-duration:${duration}s`)= ticker
 
   .wrap
     section

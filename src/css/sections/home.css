@@ -4,19 +4,35 @@
 }
 
 .ticker {
+  position: relative;
   overflow: hidden;
   background: var(--color-card-bg);
   transition-property: background-color;
   transition-duration: var(--transition-duration-fast);
   margin: -15px 0 var(--space-xl);
   padding: var(--space-m) 0;
-
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
-  font-size: var(--font-size-s);
+  font-size: var(--font-size-xs);
 
-  & pre {
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    content: '₿reaking:';
+    padding: var(--space-m);
+    text-transform: uppercase;
+    color: var(--color-neutral-0);
+    background: var(--color-accent);
+    font-weight: var(--font-weight-bold);
+  }
+
+  & span {
+    white-space: nowrap;
+    text-size-adjust: none;
+    -webkit-text-size-adjust: none;
     animation-name: marquee;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
