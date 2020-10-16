@@ -61,11 +61,7 @@
     padding-right: 5.75%;
     line-height: 1;
 
-    @media (--up_to_M) {
-      margin-top: var(--space-m);
-      font-size: var(--font-size-xl);
-    }
-    @media (--M_to_L) {
+    @media (--up_to_L) {
       margin-top: var(--space-m);
       font-size: var(--font-size-xl);
     }
