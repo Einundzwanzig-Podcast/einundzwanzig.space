@@ -55,15 +55,8 @@ html(lang="en")
           nav
             a.navItem(href="/podcast/" class=(navCurrent === 'podcast' && 'current')) Podcast
             a.navItem(href="/team/" class=(navCurrent === 'team' && 'current')) Team
-          .more
-            a.twitter(href=site.meta.twitterUrl target="_blank" title="Twitter")
-              +sprite("twitter")
-            a.telegram(href=site.meta.telegramUrl target="_blank" title="Telegram")
-              +sprite("telegram")
-            a.telegram(href=site.meta.sphinxUrl target="_blank" title="Sphinx")
-              +sprite("sphinx")
-            button(type="button").theme
-              +sprite("theme")
+          button(type="button").theme
+            +sprite("theme")
 
     #header-anchor
 
@@ -72,12 +65,6 @@ html(lang="en")
 
     footer#footer.footer
       .wrap
-        p
-          = "Folge uns auf "
-          a(href=site.meta.twitterUrl target="_blank") Twitter
-          = " und "
-          a(href=site.meta.telegramUrl target="_blank") komm in die Gruppe
-          |!
         if site.block
           p
             | Aktualisiert um
@@ -85,6 +72,13 @@ html(lang="en")
             a(href=`https://www.blockstream.info/block-height/${site.block}`)
               time(datetime=site.date)= site.block
             |.
+        p.social
+          a.twitter(href=site.meta.twitterUrl target="_blank" title="Twitter")
+            +sprite("twitter")
+          a.telegram(href=site.meta.telegramUrl target="_blank" title="Telegram")
+            +sprite("telegram")
+          a.telegram(href=site.meta.sphinxUrl target="_blank" title="Sphinx")
+            +sprite("sphinx")
         p
           | Made with 💛 by
           = " "

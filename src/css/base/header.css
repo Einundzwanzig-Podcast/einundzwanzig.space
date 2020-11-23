@@ -45,6 +45,11 @@
     align-items: center;
   }
 
+  & .brand {
+    display: block;
+    margin-bottom: var(--space-m);
+  }
+
   & .logo {
     display: block;
     width: 100%;
@@ -58,9 +63,11 @@
     align-self: flex-start;
     align-items: center;
     justify-content: space-between;
-    padding-right: 5.75%;
     line-height: 1;
 
+    @media (--up_to_M) {
+      margin-bottom: var(--space-s);
+    }
     @media (--up_to_L) {
       margin-top: var(--space-m);
       font-size: var(--font-size-xl);
@@ -75,38 +82,35 @@
       align-items: center;
 
       & a {
+        margin-right: var(--space-l);
         text-transform: uppercase;
         font-weight: var(--font-weight-bold);
         cursor: pointer;
+        line-height: 0;
 
         &.current {
           color: var(--color-accent);
         }
       }
-
-      & > a + a {
-        margin-left: var(--space-l);
-      }
     }
 
-    & .more {
-      display: flex;
-      align-items: center;
-      margin-left: auto;
+    & button{
+      display: inline-block;
+      position: relative;
+      top: 2px;
 
-      & a,
-      & button{
-        display: inline-block;
-
-        & svg {
-          height: .85em;
-          width: .85em;
-          display: block;
-        }
+      @media (--up_to_S) {
+        visibility: hidden;
       }
 
-      & > * + * {
-        margin-left: var(--space-l);
+      & svg {
+        height: 4.5vw;
+        width: 4.5vw;
+        min-height: 24px;
+        min-width: 24px;
+        max-height: 42px;
+        max-width: 42px;
+        display: block;
       }
     }
   }

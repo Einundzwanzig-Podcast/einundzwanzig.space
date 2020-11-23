@@ -5,7 +5,7 @@
   background-color: var(--color-card-bg);
   transition-property: background-color;
   transition-duration: var(--transition-duration-fast);
-  padding: var(--space-m) 0;
+  padding: var(--space-l) 0;
 
   & .wrap {
     @media (--M_and_up) {
@@ -13,9 +13,29 @@
       flex-wrap: wrap;
       justify-content: space-between;
     }
+
+    & p:last-child {
+      margin-bottom: 0;
+    }
   }
 
-  & p {
-    margin-bottom: 0;
+  & .social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    & a {
+      display: inline-block;
+
+      & svg {
+        height: 24px;
+        width: 24px;
+        display: block;
+      }
+    }
+
+    & > * + * {
+      margin-left: var(--space-l);
+    }
   }
 }
