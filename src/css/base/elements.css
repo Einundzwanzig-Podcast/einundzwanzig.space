@@ -112,7 +112,8 @@ ul {
   & + h4,
   & + h5,
   & + h6 {
-    margin-top: var(--space-l);
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-m);
   }
 }
 
