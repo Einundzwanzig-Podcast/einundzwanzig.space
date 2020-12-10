@@ -29,7 +29,7 @@ block main
 
     section
       :markdown-it(html linkify typographer)
-        ## Komm in die Gruppe!
+        ## 💬 Komm in die Gruppe!
 
         Mit unserer Telegram-Gruppe bieten wir dir ein Shitcoin-freies Refugium: Mit etwa 300 Gleichgesinnten
         sprechen wir dort nicht über den Preis, Altcoins oder sonstige unwichtigen Dinge. In unserer Gruppe
@@ -39,7 +39,22 @@ block main
 
     section
       :markdown-it(html linkify typographer)
-        ## Sei laut, shout out!
+        ## 🛍 Unser bitcoin-only Shop
+
+        In unserem Shop findest du Einundzwanzig-Kleidung, sowie weitere Merchandise-Artikel zum Podcast.
+        Toximalistischer Swag für bullishe Bitcoiner.
+
+      .shopTeaser
+        a(href=`${site.meta.shopUrl}p/tasse/` target="_blank"): img(src=assetPath("/img/shop/tasse.jpg"))
+        a(href=`${site.meta.shopUrl}p/hoodie-schwarz/` target="_blank"): img(src=assetPath("/img/shop/hoodie-schwarz.jpg"))
+        a(href=`${site.meta.shopUrl}p/hoodie-weiss/` target="_blank"): img(src=assetPath("/img/shop/hoodie-weiss.jpg"))
+        a(href=`${site.meta.shopUrl}p/cap/` target="_blank"): img(src=assetPath("/img/shop/cap.jpg"))
+
+      a.button(href=site.meta.shopUrl target="_blank") Zum Shop
+
+    section
+      :markdown-it(html linkify typographer)
+        ## 🗣 Sei laut, shout out!
 
         Wenn du möchtest, dass wir im Podcast deinen "Shout-Out" vorlesen, dann bist du mit 50.000 Sats dabei!
         Wir sammeln alle Einnahmen bis die 1.000.000 Sats voll sind. Dann lassen wir in unserer Telegram-Gruppe
