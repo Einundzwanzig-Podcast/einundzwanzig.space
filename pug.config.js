@@ -1,5 +1,5 @@
 // initialize markdown rendering
-const renderMarkdown = require('./markdown')
+const { markdown } = require('./helpers')
 
 const IS_DEV = process.env.NODE_ENV === 'development'
 const HOST = IS_DEV ? 'localhost:3000' : 'einundzwanzig.space'
@@ -29,5 +29,5 @@ module.exports = {
   assetPath,
   formatDate,
   linkTarget,
-  renderMarkdown,
+  markdown,
 }

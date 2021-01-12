@@ -1,5 +1,6 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
+const { replacements } = require('../helpers')
 const Parser = require('rss-parser')
 
 const dir = resolve(__dirname, '..', 'generated')
@@ -34,8 +35,8 @@ const parseInfo = e => {
     const image = ['interview', 'verschiedenes'].includes(info.category) ? e.itunes.image : `/img/cover/${info.category}.png`
     return {
       title: e.title.trim(),
-      content: e.content.trim(),
-      contentSnippet: e.contentSnippet.trim(),
+      content: replacements(e.content.trim()),
+      contentSnippet: replacements(e.contentSnippet.trim()),
       anchor: e.link,
       date: e.isoDate,
       enclosure: e.enclosure,
