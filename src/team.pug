@@ -15,6 +15,9 @@ block main
             header
               h2=m.name
               .links
+                if m.mastodon
+                  a(href=(m.mastodon) target="_blank" title=`${m.name} on Mastodon`)
+                    +sprite("mastodon")
                 if m.twitter
                   a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" title=`${m.name} on Twitter`)
                     +sprite("twitter")
