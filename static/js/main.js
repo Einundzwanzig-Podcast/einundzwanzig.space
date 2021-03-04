@@ -17,6 +17,25 @@ const setColorMode = mode => {
 
 setColorMode(initialColorMode)
 
+const copyToClipboard = (e, text) => {
+  if (navigator.clipboard) {
+    e.preventDefault()
+    const item = e.currentTarget
+    const data = text || item.getAttribute('data-clipboard')
+    const confirm = item.querySelector('[data-clipboard-confirm]') || item
+    const message = confirm.getAttribute('data-clipboard-confirm') || 'Kopiert ✔'
+    if (!confirm.dataset.clipboardInitialText) {
+      confirm.dataset.clipboardInitialText = confirm.innerText
+      confirm.style.minWidth = confirm.getBoundingClientRect().width + 'px'
+    }
+    navigator.clipboard.writeText(data).then(() => {
+      confirm.innerText = message;
+      setTimeout(() => { confirm.innerText = confirm.dataset.clipboardInitialText; }, 2500)
+    })
+    item.blur()
+  }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   // Topbar
   if (
@@ -43,20 +62,26 @@ document.addEventListener("DOMContentLoaded", () => {
   // Player
   if (window.Amplitude && window.player) {
     window.Amplitude.init(window.player)
+
     document.querySelector('.player__progress').addEventListener('click', function (e) {
-      var offset = this.getBoundingClientRect()
-      var x = e.pageX - offset.left
+      const offset = this.getBoundingClientRect()
+      const x = e.pageX - offset.left
       window.Amplitude.setSongPlayedPercentage((parseFloat(x) / parseFloat(this.offsetWidth)) * 100)
     })
   }
 
   // Theme Switch
-  document.querySelectorAll(".theme").forEach(function (link) {
-    link.addEventListener("click", function (e) {
+  document.querySelectorAll('.theme').forEach(link => {
+    link.addEventListener('click', e => {
       e.preventDefault()
       const current = document.documentElement.getAttribute(THEME_ATTR) || COLOR_MODES[0]
       const mode = current === COLOR_MODES[0] ? COLOR_MODES[1] : COLOR_MODES[0]
       setColorMode(mode)
-    });
-  });
+    })
+  })
+
+  // Copy to clipboard
+  document.querySelectorAll('[data-clipboard]').forEach(link => {
+    link.addEventListener('click', copyToClipboard)
+  })
 })

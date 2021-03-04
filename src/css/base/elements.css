@@ -59,6 +59,7 @@ h2 {
 
 h3 {
   font-size: var(--font-size-l);
+  color: var(--color-secondary);
 }
 
 h4, h5, h6 {

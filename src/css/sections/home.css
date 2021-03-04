@@ -57,3 +57,35 @@
     border-radius: var(--space-m);
   }
 }
+
+.lnNodes {
+  display: flex;
+  flex-wrap: wrap;
+
+  @media (--up_to_M) {
+    flex-direction: column;
+  }
+
+  & .lnNode {
+    @media (--up_to_M) {
+      margin-top: var(--space-xl);
+    }
+    @media (--M_and_up) {
+      margin-top: var(--space-l);
+      margin-right: var(--space-xxl);
+    }
+  }
+
+  & img {
+    display: block;
+    width: 240px;
+    height: 240px;
+    border-radius: var(--space-m);
+    margin: var(--space-l) 0;
+  }
+
+  & button {
+    display: block;
+    width: 240px;
+  }
+}
