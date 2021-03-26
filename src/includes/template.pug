@@ -74,12 +74,14 @@ html(lang="en")
               time(datetime=site.date)= site.block
             |.
         p.social
-          a.twitter(href=site.meta.twitterUrl target="_blank" title="Twitter")
+          a.twitter(href=site.meta.twitterUrl rel="me" target="_blank" title="Twitter")
             +sprite("twitter")
-          a.telegram(href=site.meta.telegramUrl target="_blank" title="Telegram")
+          a.telegram(href=site.meta.telegramUrl rel="me" target="_blank" title="Telegram")
             +sprite("telegram")
-          a.telegram(href=site.meta.sphinxUrl target="_blank" title="Sphinx")
+          a.telegram(href=site.meta.sphinxUrl rel="me" target="_blank" title="Sphinx")
             +sprite("sphinx")
+          a.telegram(href=site.meta.mastodonUrl rel="me" target="_blank" title="Mastodon")
+            +sprite("mastodon")
         p
           | Made with 💛 by
           = " "
