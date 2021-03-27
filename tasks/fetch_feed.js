@@ -1,6 +1,7 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
 const { replacements } = require('../helpers')
+const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const request = require('sync-request')
 const Parser = require('rss-parser')
 
@@ -26,8 +27,10 @@ const parseInfo = e => {
 
 ;(async () => {
   // Load and adapt feed
-  let xml = request('GET', 'https://anchor.fm/s/d8d3c38/podcast/rss').getBody('utf8')
-  xml = xml.replace(/<itunes:email>(.*?)<\/itunes:email>/, '<itunes:email>einundzwanzigpodcast@pm.me</itunes:email>')
+  const xml = request('GET', masterFeedUrl).getBody('utf8')
+    .replace(/<itunes:email>(.*?)<\/itunes:email>/g, '<itunes:email>einundzwanzigpodcast@pm.me</itunes:email>')
+    .replace(`"${masterFeedUrl}"`, `"${publicFeedUrl}"`)
+
   // Parse feed
   const parser = new Parser()
   const feed = await parser.parseString(xml)
