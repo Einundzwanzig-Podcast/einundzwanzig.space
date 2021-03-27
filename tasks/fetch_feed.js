@@ -77,5 +77,15 @@ const parseInfo = e => {
       const link = episode ? `https://einundzwanzig.space/podcast/${episode.slug}` : url
       return `<link>${link}</link>`
     })
+    .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"')
+    .replace('<channel>', `<channel>
+	<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+			<podcast:valueRecipient name="Dennis (Podcaster)" type="node" address="0364b672df6939e97f63b25c97c12ac59a77a7d1b14383c6a479e1da1e6d29f4c4" split="19" />
+			<podcast:valueRecipient name="Fab (Podcaster)" type="node" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" split="19" />
+			<podcast:valueRecipient name="Gigi (Podcaster)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="19" />
+			<podcast:valueRecipient name="Markus (Podcaster)" type="node" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" split="19" />
+      <podcast:valueRecipient name="Daniel (Podcaster)" type="node" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" split="19" />
+			<podcast:valueRecipient name="Podcastindex.org (Donation)" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="5" />
+	</podcast:value>`)
   write('dist/feed.xml', updated)
 })()
