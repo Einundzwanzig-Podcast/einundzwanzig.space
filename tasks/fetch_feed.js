@@ -14,10 +14,16 @@ const slugify = str => str.toLowerCase()
   .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
   .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
 
+const parseBaseInfoFromMatch = m => {
+  let [, categoryName = 'News', number, titlePlain] = m ? m : [,,,]
+  if (!number) categoryName = 'Verschiedenes'
+  if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
+  return { categoryName, number, titlePlain }
+}
+
 const parseInfo = e => {
   const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/)
-  let [, categoryName = 'News', number, titlePlain] = titleMatch ? titleMatch : [,,,e.title]
-  if (!number) categoryName = 'Verschiedenes'
+  const { categoryName, number, titlePlain } = parseBaseInfoFromMatch(titleMatch)
   const blockMatch = e.contentSnippet.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
   const category = slugify(categoryName)
@@ -61,4 +67,15 @@ const parseInfo = e => {
   })
 
   writeJSON('episodes', episodes)
+
+  // Original Anchor-Feed
+  const updated = xml
+    .replace(/<link>(https:\/\/anchor\.fm\/einundzwanzig\/episodes\/(.*?))<\/link>/gi, (match, url, anchorSlug) => {
+      const slugMatch = anchorSlug.match(/^(?:(.*)-)?([0-9]+?)---/)
+      const { categoryName, number } = parseBaseInfoFromMatch(slugMatch)
+      const episode = slugMatch ? episodes.find(e => e.categoryName == categoryName && e.number === number) : null
+      const link = episode ? `https://einundzwanzig.space/podcast/${episode.slug}` : url
+      return `<link>${link}</link>`
+    })
+  write('dist/feed.xml', updated)
 })()
