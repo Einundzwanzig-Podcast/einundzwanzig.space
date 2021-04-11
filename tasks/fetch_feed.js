@@ -80,7 +80,7 @@ const parseInfo = e => {
     .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"')
     .replace('<channel>', `<channel>
 	<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="Dennis (Podcaster)" type="node" address="0364b672df6939e97f63b25c97c12ac59a77a7d1b14383c6a479e1da1e6d29f4c4" split="19" />
+			<podcast:valueRecipient name="Dennis (Podcaster)" type="node" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" split="19" />
 			<podcast:valueRecipient name="Fab (Podcaster)" type="node" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" split="19" />
 			<podcast:valueRecipient name="Gigi (Podcaster)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="19" />
 			<podcast:valueRecipient name="Markus (Podcaster)" type="node" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" split="19" />
