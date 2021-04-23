@@ -48,7 +48,7 @@ const parseInfo = e => {
   // All episodes
   const episodes = feed.items.map(e => {
     const info = parseInfo(e)
-    const image = ['interview', 'verschiedenes'].includes(info.category) ? e.itunes.image : `/img/cover/${info.category}.png`
+    const image = ['interview', 'lesestunde', 'verschiedenes'].includes(info.category) ? e.itunes.image : `/img/cover/${info.category}.png`
     return {
       title: e.title.trim(),
       content: replacements(e.content.trim()),
