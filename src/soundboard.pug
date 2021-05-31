@@ -1,0 +1,42 @@
+extends /template.pug
+
+block vars
+  - const title = 'Soundboard'
+  - const description = 'Das Einundzwanzig Podcast Soundboard.'
+
+block main
+  #soundboard.wrap
+    script.
+      window.player = { songs: [], continue_next: false };
+    section
+      h1= title
+      .player.player--soundboard
+        .player__bottom
+          progress.player__progress.amplitude-song-played-progress(data-amplitude-main-song-played-progress="true")
+          .player__time
+            span.player__current-time
+              span.player__current-minutes.amplitude-current-minutes(data-amplitude-main-current-minutes="true")
+              = ':'
+              span.player__current-seconds.amplitude-current-seconds(data-amplitude-main-current-seconds="true")
+            span.player__duration
+              span.player__duration-minutes.amplitude-duration-minutes(data-amplitude-main-duration-minutes="true")
+              = ':'
+              span.player__duration-seconds.amplitude-duration-seconds(data-amplitude-main-duration-seconds="true")
+
+          .player__controls
+            .player__button.amplitude-play-pause(data-amplitude-main-play-pause="true" id="play-pause")
+              +sprite("pause").player__button__icon--pause
+              +sprite("play").player__button__icon--play
+
+            .player__info
+              .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
+
+      - let index = 0
+      each group in soundboard
+        h2= group.title
+        div.sounds
+          each sound in group.sounds
+            script.
+              window.player.songs.push({ album: '#{group.title}', name: '#{sound.title.replace("'", "\\'")}', url: '#{sound.file}' })
+            button.button(type="button" onclick=`Amplitude.playSongAtIndex(${index})`)= sound.title
+            - index++

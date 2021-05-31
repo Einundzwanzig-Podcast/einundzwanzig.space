@@ -1,6 +1,6 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements } = require('../helpers')
+const { replacements, slugify } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const request = require('sync-request')
 const Parser = require('rss-parser')
@@ -8,11 +8,6 @@ const Parser = require('rss-parser')
 const dir = resolve(__dirname, '..')
 const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
-
-const slugify = str => str.toLowerCase()
-  .replace('ä', 'ae').replace('ö', 'oe').replace('ü', 'ue')
-  .replace(/\s+/g, '-').replace(/[^\w\-]+/g, '')
-  .replace(/\-\-+/g, '-').replace(/^-+/, '').replace(/-+$/, '')
 
 const parseBaseInfoFromMatch = m => {
   let [, categoryName = 'News', number, titlePlain] = m ? m : [,,,]

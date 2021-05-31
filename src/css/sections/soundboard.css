@@ -1,0 +1,26 @@
+#soundboard {
+  & h2 {
+    margin-top: var(--space-xl);
+  }
+
+  & .sounds {
+    display: grid;
+    grid-gap: var(--space-l);
+    margin: 0;
+    list-style: none;
+    grid-auto-rows: 1fr;
+
+    @media (--up_to_S) {
+      grid-template-columns: 1fr;
+    }
+    @media (--S_to_M) {
+      grid-template-columns: 1fr 1fr;
+    }
+    @media (--M_to_L) {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    @media (--L_and_up) {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+}
