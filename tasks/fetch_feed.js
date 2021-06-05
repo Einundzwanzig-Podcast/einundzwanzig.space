@@ -17,7 +17,7 @@ const parseBaseInfoFromMatch = m => {
 }
 
 const parseInfo = e => {
-  const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/)
+  const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/) || [,,,e.title]
   const { categoryName, number, titlePlain } = parseBaseInfoFromMatch(titleMatch)
   const blockMatch = e.contentSnippet.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
