@@ -13,7 +13,7 @@ mdTransformer.render = str => renderMd(str, config)
 
 // replacements
 const replacements = str => {
-  return str.replace(/"https:\/\/twitter\.com\/_d11n_\/?"/, '"https://bitcoinhackers.org/@d11n"')
+  return str.replace(/<\/?u>/g, '')
 }
 
 // slug
