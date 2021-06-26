@@ -55,8 +55,9 @@ html(lang="en")
         .nav
           nav
             a.navItem(href="/podcast/" class=(navCurrent === 'podcast' && 'current')) Podcast
+            a.navItem(href="/soundboard/" class=(navCurrent === 'soundboard' && 'current')) Sounds
             a.navItem(href="/team/" class=(navCurrent === 'team' && 'current')) Team
-            a.navItem(href=site.meta.shopUrl target="_blank") Shop
+            //- a.navItem(href=site.meta.shopUrl target="_blank") Shop
           button(type="button").theme
             +sprite("theme")
 
