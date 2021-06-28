@@ -7,7 +7,13 @@ block vars
 block main
   #soundboard.wrap
     script.
-      window.player = { songs: [], continue_next: false };
+      window.player = { songs: [], continue_next: false, autoplay: true };
+      window.playSound = index => {
+        Amplitude.playSongAtIndex(index)
+        const { url } = Amplitude.getSongAtIndex(index)
+        const [, slug] = url.match(/^\/sounds\/(.*)\.mp3$/)
+        window.location.hash = slug
+      }
     section
       h1= title
       .player.player--soundboard
@@ -38,5 +44,13 @@ block main
           each sound in group.sounds
             script.
               window.player.songs.push({ album: '#{group.title}', name: '#{sound.title.replace("'", "\\'")}', url: '#{sound.file}' })
-            button.button(type="button" onclick=`Amplitude.playSongAtIndex(${index})`)= sound.title
+            button.button(type="button" onclick=`playSound(${index})`)= sound.title
             - index++
+    script.
+      document.addEventListener("DOMContentLoaded", () => {
+        const { hash } = window.location
+        if (hash) {
+          const index = Amplitude.getSongs().findIndex(sound => sound.url === `/sounds/${hash.substring(1)}.mp3`)
+          if (index > -1) playSound(index)
+        }
+      })
