@@ -149,6 +149,8 @@ img:-moz-loading {
   text-align: center;
   padding: var(--space-m) var(--space-l);
   font-weight: var(--font-weight-bold);
+  line-height: inherit;
+  cursor: pointer;
   color: #2a1801;
   background-color: var(--color-accent);
   text-decoration: none;
