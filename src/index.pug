@@ -27,7 +27,7 @@ block main
       .current
         +episodePlayer(currentEpisode)
 
-    section
+    section#telegram
       :markdown-it(html linkify typographer)
         ## 💬 Komm in die Gruppe!
 
@@ -37,22 +37,22 @@ block main
 
       a.button(href=site.meta.telegramUrl target="_blank") Ab in die Gruppe
 
-    section
-      :markdown-it(html linkify typographer)
-        ## 🛍 Unser bitcoin-only Shop
+    //- section#shop
+    //-   :markdown-it(html linkify typographer)
+    //-     ## 🛍 Unser bitcoin-only Shop
 
-        In unserem Shop findest du Einundzwanzig-Kleidung, sowie weitere Merchandise-Artikel zum Podcast.
-        Toximalistischer Swag für bullishe Bitcoiner.
+    //-     In unserem Shop findest du Einundzwanzig-Kleidung, sowie weitere Merchandise-Artikel zum Podcast.
+    //-     Toximalistischer Swag für bullishe Bitcoiner.
 
-      .shopTeaser
-        a(href=`${site.meta.shopUrl}p/tasse/` target="_blank"): img(src=assetPath("/img/shop/tasse.jpg"))
-        a(href=`${site.meta.shopUrl}p/hoodie-schwarz/` target="_blank"): img(src=assetPath("/img/shop/hoodie-schwarz.jpg"))
-        a(href=`${site.meta.shopUrl}p/hoodie-weiss/` target="_blank"): img(src=assetPath("/img/shop/hoodie-weiss.jpg"))
-        a(href=`${site.meta.shopUrl}p/cap/` target="_blank"): img(src=assetPath("/img/shop/cap.jpg"))
+    //-   .shopTeaser
+    //-     a(href=`${site.meta.shopUrl}p/tasse/` target="_blank"): img(src=assetPath("/img/shop/tasse.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/hoodie-schwarz/` target="_blank"): img(src=assetPath("/img/shop/hoodie-schwarz.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/hoodie-weiss/` target="_blank"): img(src=assetPath("/img/shop/hoodie-weiss.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/cap/` target="_blank"): img(src=assetPath("/img/shop/cap.jpg"))
 
-      a.button(href=site.meta.shopUrl target="_blank") Zum Shop
+    //-   a.button(href=site.meta.shopUrl target="_blank") Zum Shop
 
-    section
+    section#sponsor
       :markdown-it(html linkify typographer)
         ## 🔐 Auf der sicheren Seite
 
@@ -62,7 +62,7 @@ block main
 
       a.button(href="https://shiftcrypto.ch/einundzwanzig/" target="_blank") BitBox02 Bitcoin-only Edition
 
-    section
+    section#shoutout
       :markdown-it(html linkify typographer)
         ## 🗣 Sei laut, shout out!
 
@@ -73,7 +73,7 @@ block main
 
       a.button(href=site.meta.shoutoutUrl target="_blank") Shout-Out senden
 
-    section
+    section#youtube
       :markdown-it(html linkify typographer)
         ## 📺 Community-Tutorials
 
@@ -83,7 +83,7 @@ block main
 
       a.button(href=site.meta.youtubeUrl target="_blank") Unser YouTube-Kanal
 
-    section
+    section#lightning
       :markdown-it(html linkify typographer)
         ## ⚡️ Unser Lightning Node
 
