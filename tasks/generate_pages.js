@@ -6,6 +6,7 @@ const config = require('../pug.config')
 const site = require('../generated/site-data.json')
 const episodes = require('../generated/episodes.json')
 const team = require('../content/team.json')
+const crew = require('../content/crew.json')
 const soundboard = require('../content/soundboard.json')
 
 const renderPage = (template, out, data = {}) => {
@@ -22,7 +23,7 @@ const renderPage = (template, out, data = {}) => {
 
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0] })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes] })
-renderPage('team', 'team', { navCurrent: 'team', team })
+renderPage('team', 'team', { navCurrent: 'team', team, crew })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
 
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
