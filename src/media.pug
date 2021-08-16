@@ -1,0 +1,33 @@
+extends /template.pug
+
+block vars
+  - const title = 'Media'
+  - const description = 'Damit wir mal groß und berühmt werden, kannst du dieses Media Kit gerne nutzen, um allen von uns zu erzählen.'
+
+block main
+  #media.wrap
+    section
+      h1= title
+
+      h2 Logo quadratisch
+
+      a.logo.logo-square(href=assetPath("/img/einundzwanzig-square.svg") target="_blank")
+        img(src=assetPath("/img/einundzwanzig-square.svg") alt="Logo quadratisch")
+
+      h2 Logo horizontal
+
+      a.logo.logo-horizontal(href=assetPath("/img/einundzwanzig-horizontal.svg") target="_blank")
+        img(src=assetPath("/img/einundzwanzig-horizontal.svg") alt="Logo horizontal")
+
+      h2 Schriften
+
+      a.font.font-bold(href="https://www.dafont.com/the-bold-font.font" target="_blank") Logo: The Bold Font
+
+      a.font.font-inconsolata(href="https://fonts.google.com/specimen/Inconsolata" target="_blank") Copy: Inconsolata
+
+      h2 Farben
+
+      ul.colors
+        li.orange #F7931A
+        li.derweg #00B4CF
+        li.interview #151515

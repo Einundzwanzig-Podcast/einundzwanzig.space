@@ -1,0 +1,61 @@
+#media {
+  & .logo {
+    display: inline-block;
+    margin: var(--space-m) 0 var(--space-xl);
+    max-width: 100%;
+
+    & img {
+      width: 100%;
+    }
+  }
+
+  & .logo-square {
+    width: 9em;
+  }
+
+  & .logo-horizontal {
+    width: 21em;
+  }
+
+  & .font {
+    display: block;
+    margin: var(--space-m) 0;
+    font-size: var(--font-size-l);
+    color: inherit;
+
+    &:last-of-type {
+      margin-bottom: var(--space-xxl);
+    }
+  }
+
+  & .colors {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    list-style: none;
+    color: #FFF;
+    font-weight: var(--font-weight-bold);
+
+    & li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex: 0 0 6em;
+      height: 6em;
+      border-radius: 50%;
+      margin: 0 1em 1em 0;
+    }
+
+    & .orange {
+      background: var(--color-accent);
+    }
+
+    & .derweg {
+      background: var(--color-derweg);
+    }
+
+    & .interview {
+      background: var(--color-interview);
+    }
+  }
+}

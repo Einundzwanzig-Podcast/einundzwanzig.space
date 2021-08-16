@@ -67,6 +67,10 @@
 
     @media (--up_to_M) {
       margin-bottom: var(--space-s);
+
+      & #navItemMedia {
+        display: none;
+      }
     }
     @media (--up_to_L) {
       margin-top: var(--space-m);

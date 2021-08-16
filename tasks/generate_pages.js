@@ -24,6 +24,7 @@ const renderPage = (template, out, data = {}) => {
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0] })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes] })
 renderPage('team', 'team', { navCurrent: 'team', team, crew })
+renderPage('media', 'media', { navCurrent: 'media' })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
 
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
