@@ -3,8 +3,12 @@
     display: inline-block;
     margin: var(--space-m) 0 var(--space-xl);
     max-width: 100%;
+    background: #FFF;
+    border-radius: var(--space-s);
+    padding: var(--space-m);
 
     & img {
+      display: block;
       width: 100%;
     }
   }
