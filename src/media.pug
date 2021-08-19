@@ -9,32 +9,37 @@ block main
     section
       h1= title
 
-      h2 Logo quadratisch
+      article
+        h2 Logo quadratisch
+        a.logo.logo-square(href=assetPath("/img/media/einundzwanzig-square.svg") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-square.svg") alt="Logo quadratisch")
 
-      a.logo.logo-square(href=assetPath("/img/media/einundzwanzig-square.svg") target="_blank")
-        img(src=assetPath("/img/media/einundzwanzig-square.svg") alt="Logo quadratisch")
+      article
+        h2 Logo horizontal
+        a.logo.logo-horizontal(href=assetPath("/img/media/einundzwanzig-horizontal.svg") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-horizontal.svg") alt="Logo horizontal")
 
-      h2 Logo horizontal
+      article
+        h2 Telegram Vorlage Gruppenbild
+        a.telegram(href=assetPath("/img/media/einundzwanzig-telegram.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-telegram.png") alt="Telegram")
 
-      a.logo.logo-horizontal(href=assetPath("/img/media/einundzwanzig-horizontal.svg") target="_blank")
-        img(src=assetPath("/img/media/einundzwanzig-horizontal.svg") alt="Logo horizontal")
+      article
+        h2 Wallpaper
+        a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper.png") alt="Wallpaper")
 
-      h2 Schriften
+      article
+        h2 Schriften
+        ul.fonts
+          li.font-bold
+            a(href="https://www.dafont.com/the-bold-font.font" target="_blank") Logo: The Bold Font
+          li.font-inconsolata
+            a(href="https://fonts.google.com/specimen/Inconsolata" target="_blank") Copy: Inconsolata
 
-      ul.fonts
-        li.font-bold
-          a(href="https://www.dafont.com/the-bold-font.font" target="_blank") Logo: The Bold Font
-        li.font-inconsolata
-          a(href="https://fonts.google.com/specimen/Inconsolata" target="_blank") Copy: Inconsolata
-
-      h2 Farben
-
-      ul.colors
-        li.orange #F7931A
-        li.derweg #00B4CF
-        li.interview #151515
-
-      h2 Wallpaper
-
-      a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
-        img(src=assetPath("/img/media/einundzwanzig-wallpaper.png") alt="Wallpaper")
+      article
+        h2 Farben
+        ul.colors
+          li.orange #F7931A
+          li.derweg #00B4CF
+          li.interview #151515

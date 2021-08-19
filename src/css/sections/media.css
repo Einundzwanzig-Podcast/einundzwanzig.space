@@ -1,16 +1,14 @@
 #media {
+  & article + article {
+    margin-top: var(--space-xl);
+  }
+
   & .logo {
     display: inline-block;
-    margin: var(--space-m) 0 var(--space-xl);
     max-width: 100%;
     background: #FFF;
     border-radius: var(--space-s);
     padding: var(--space-m);
-
-    & img {
-      display: block;
-      width: 100%;
-    }
   }
 
   & .logo-square {
@@ -19,6 +17,11 @@
 
   & .logo-horizontal {
     width: 21em;
+  }
+
+  & img {
+    display: block;
+    width: 100%;
   }
 
   & .colors {
@@ -50,6 +53,11 @@
     & .interview {
       background: var(--color-interview);
     }
+  }
+
+  & .telegram {
+    display: inline-block;
+    width: 9em;
   }
 
   & .wallpaper {
