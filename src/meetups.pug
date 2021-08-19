@@ -1,0 +1,18 @@
+extends /template.pug
+
+block vars
+  - const title = 'Meetups'
+  - const description = 'Eine Liste von Einundzwnazig-Treffen im D/A/CH-Raum'
+
+block main
+  #meetups.wrap
+    section
+      h1= title
+
+      ul.meetups
+        each m in meetups
+          li
+            a(href=m.telegram)= m.name
+            if !m.name.endsWith(m.region)
+              = " - "
+              span.region= m.region
