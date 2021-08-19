@@ -2,17 +2,25 @@ extends /template.pug
 
 block vars
   - const title = 'Meetups'
-  - const description = 'Eine Liste von Einundzwanzig-Treffen im D/A/CH-Raum'
+  - const description = 'Eine Liste von Einundzwanzig-Treffen im D/A/CH-Raum.'
 
 block main
   #meetups.wrap
     section
       h1= title
 
+      p= description
+
+      :markdown-it(html linkify typographer)
+        Neue Meetups können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/meetups.json) hinzufügt werden.
+
+        Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
+
+      h2 Einundzwanzig Meetups
       ul.meetups
         each m in meetups
           li
-            a(href=m.telegram)= m.name
+            a(href=m.telegram target="_blank" rel="nofollow noopener")= m.name.replace('Einundzwanzig Meetup ', '')
             if !m.name.endsWith(m.region)
               = " - "
               span.region= m.region

@@ -8,6 +8,7 @@ block main
   #team.wrap
     section
       h1= title
+      h2 Core
       ul.members(data-shuffle)
         each m in shuffle(team)
           +member(m)

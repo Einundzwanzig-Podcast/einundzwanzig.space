@@ -35,7 +35,7 @@ block main
         sprechen wir dort nicht über den Preis, Altcoins oder sonstige unwichtigen Dinge. In unserer Gruppe
         findest du News, Informationen und bekommst praktische Ratschläge zu technischen Themen.
 
-      a.button(href=site.meta.telegramUrl target="_blank") Ab in die Gruppe
+      a.button(href=site.meta.telegramUrl target="_blank" rel="nofollow noopener") Ab in die Gruppe
 
     //- section#shop
     //-   :markdown-it(html linkify typographer)
@@ -45,12 +45,12 @@ block main
     //-     Toximalistischer Swag für bullishe Bitcoiner.
 
     //-   .shopTeaser
-    //-     a(href=`${site.meta.shopUrl}p/tasse/` target="_blank"): img(src=assetPath("/img/shop/tasse.jpg"))
-    //-     a(href=`${site.meta.shopUrl}p/hoodie-schwarz/` target="_blank"): img(src=assetPath("/img/shop/hoodie-schwarz.jpg"))
-    //-     a(href=`${site.meta.shopUrl}p/hoodie-weiss/` target="_blank"): img(src=assetPath("/img/shop/hoodie-weiss.jpg"))
-    //-     a(href=`${site.meta.shopUrl}p/cap/` target="_blank"): img(src=assetPath("/img/shop/cap.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/tasse/` target="_blank" rel="nofollow noopener"): img(src=assetPath("/img/shop/tasse.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/hoodie-schwarz/` target="_blank" rel="nofollow noopener"): img(src=assetPath("/img/shop/hoodie-schwarz.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/hoodie-weiss/` target="_blank" rel="nofollow noopener"): img(src=assetPath("/img/shop/hoodie-weiss.jpg"))
+    //-     a(href=`${site.meta.shopUrl}p/cap/` target="_blank" rel="nofollow noopener"): img(src=assetPath("/img/shop/cap.jpg"))
 
-    //-   a.button(href=site.meta.shopUrl target="_blank") Zum Shop
+    //-   a.button(href=site.meta.shopUrl target="_blank" rel="nofollow noopener") Zum Shop
 
     section#sponsor
       :markdown-it(html linkify typographer)
@@ -60,7 +60,7 @@ block main
         die Sicherheit gut nutzbar macht: Ob Einsteiger oder fortgeschritten, hier findest du die Features,
         mit denen du deine Sats sicher verwahren kannst.  Unsere Empfehlung, auch schon vor dem Sponsoring.
 
-      a.button(href="https://shiftcrypto.ch/einundzwanzig/" target="_blank") BitBox02 Bitcoin-only Edition
+      a.button(href="https://shiftcrypto.ch/einundzwanzig/" target="_blank" rel="nofollow noopener") BitBox02 Bitcoin-only Edition
 
     section#shoutout
       :markdown-it(html linkify typographer)
@@ -71,7 +71,7 @@ block main
         darüber abstimmen welches Bitcoin-Projekt aus Deutschland diese kostbaren Sats bekommen soll.
         Wenn du also einen Shout-Out in unserem Podcast kaufst, unterstützt du damit auch ein Bitcoin Projekt.
 
-      a.button(href=site.meta.shoutoutUrl target="_blank") Shout-Out senden
+      a.button(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Shout-Out senden
 
     section#youtube
       :markdown-it(html linkify typographer)
@@ -81,7 +81,7 @@ block main
         Den eigenen Node betreiben und Apps aufsetzen, Wallets verbinden und so weiter.
         Du hast auch eine Idee für ein Tutorial? Immer her damit – wir helfen dir, dass es möglichst viele Leute sehen.
 
-      a.button(href=site.meta.youtubeUrl target="_blank") Unser YouTube-Kanal
+      a.button(href=site.meta.youtubeUrl target="_blank" rel="nofollow noopener") Unser YouTube-Kanal
 
     section#lightning
       :markdown-it(html linkify typographer)
@@ -94,12 +94,12 @@ block main
       .lnNodes
         .lnNode
           h3 Clearnet
-          a(href="https://pay.einundzwanzig.space/embed/8bxL8xLosHAQDCGbPoi1Hc51noEAbRj2GRsvnKjoKzZQ/BTC/ln" target="_blank")
+          a(href="https://pay.einundzwanzig.space/embed/8bxL8xLosHAQDCGbPoi1Hc51noEAbRj2GRsvnKjoKzZQ/BTC/ln" target="_blank" rel="nofollow noopener")
             img(src=assetPath("/img/ln/clearnet.svg") alt="Clearnet")
           button.button(type="button" data-clipboard="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0@62.171.139.240:9735") Clearnet ID kopieren
 
         .lnNode
           h3 Tor
-          a(href="http://abluswbmzrazryivhn7hocw3dglfv4m3b2qrfmuommbyxayd2jawdsad.onion/embed/8bxL8xLosHAQDCGbPoi1Hc51noEAbRj2GRsvnKjoKzZQ/BTC/ln" target="_blank")
+          a(href="http://abluswbmzrazryivhn7hocw3dglfv4m3b2qrfmuommbyxayd2jawdsad.onion/embed/8bxL8xLosHAQDCGbPoi1Hc51noEAbRj2GRsvnKjoKzZQ/BTC/ln" target="_blank" rel="nofollow noopener")
             img(src=assetPath("/img/ln/tor.svg") alt="Tor")
           button.button(type="button" data-clipboard="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0@6quf5upomo5tbrefwtpbt5ahujhgffidaohyiog4gnpr5bst23izzoyd.onion:9735") Tor ID kopieren
