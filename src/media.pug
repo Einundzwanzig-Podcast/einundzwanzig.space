@@ -11,19 +11,21 @@ block main
 
       h2 Logo quadratisch
 
-      a.logo.logo-square(href=assetPath("/img/einundzwanzig-square.svg") target="_blank")
-        img(src=assetPath("/img/einundzwanzig-square.svg") alt="Logo quadratisch")
+      a.logo.logo-square(href=assetPath("/img/media/einundzwanzig-square.svg") target="_blank")
+        img(src=assetPath("/img/media/einundzwanzig-square.svg") alt="Logo quadratisch")
 
       h2 Logo horizontal
 
-      a.logo.logo-horizontal(href=assetPath("/img/einundzwanzig-horizontal.svg") target="_blank")
-        img(src=assetPath("/img/einundzwanzig-horizontal.svg") alt="Logo horizontal")
+      a.logo.logo-horizontal(href=assetPath("/img/media/einundzwanzig-horizontal.svg") target="_blank")
+        img(src=assetPath("/img/media/einundzwanzig-horizontal.svg") alt="Logo horizontal")
 
       h2 Schriften
 
-      a.font.font-bold(href="https://www.dafont.com/the-bold-font.font" target="_blank") Logo: The Bold Font
-
-      a.font.font-inconsolata(href="https://fonts.google.com/specimen/Inconsolata" target="_blank") Copy: Inconsolata
+      ul.fonts
+        li.font-bold
+          a(href="https://www.dafont.com/the-bold-font.font" target="_blank") Logo: The Bold Font
+        li.font-inconsolata
+          a(href="https://fonts.google.com/specimen/Inconsolata" target="_blank") Copy: Inconsolata
 
       h2 Farben
 
@@ -31,3 +33,8 @@ block main
         li.orange #F7931A
         li.derweg #00B4CF
         li.interview #151515
+
+      h2 Wallpaper
+
+      a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
+        img(src=assetPath("/img/media/einundzwanzig-wallpaper.png") alt="Wallpaper")

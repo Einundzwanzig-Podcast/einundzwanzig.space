@@ -21,17 +21,6 @@
     width: 21em;
   }
 
-  & .font {
-    display: block;
-    margin: var(--space-m) 0;
-    font-size: var(--font-size-l);
-    color: inherit;
-
-    &:last-of-type {
-      margin-bottom: var(--space-xxl);
-    }
-  }
-
   & .colors {
     display: flex;
     flex-wrap: wrap;
@@ -60,6 +49,16 @@
 
     & .interview {
       background: var(--color-interview);
+    }
+  }
+
+  & .wallpaper {
+    display: inline-block;
+    max-width: 21em;
+
+    & img {
+      display: block;
+      width: 100%;
     }
   }
 }
