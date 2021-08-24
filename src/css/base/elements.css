@@ -103,6 +103,10 @@ ul {
   margin-bottom: var(--space-l);
 }
 
+ul ul {
+  margin-bottom: 0;
+}
+
 p,
 ul {
   & + h2 {
