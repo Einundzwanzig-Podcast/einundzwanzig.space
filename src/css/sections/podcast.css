@@ -128,7 +128,7 @@
     width: 100%;
   }
   @media (--M_and_up) {
-    width: 25%;
+    width: 33.3%;
   }
 }
 
@@ -138,6 +138,8 @@
 }
 
 .player__bottom {
+  display: flex;
+  flex-direction: column;
   flex: 1;
   color: var(--color-body-text);
   background-color: var(--color-card-bg);
@@ -155,7 +157,8 @@
   border:none
 }
 
-.player__time {
+.player__time,
+.player__links {
   display: flex;
   justify-content: space-between;
   padding: var(--space-m) var(--space-l);
@@ -179,7 +182,7 @@
 .player__controls {
   display: flex;
   align-items: center;
-  padding: var(--space-m) var(--space-l) var(--space-l);
+  padding: var(--space-m) var(--space-l);
 }
 
 .player__button {
@@ -224,4 +227,22 @@
 
 .player__album {
   color: var(--color-secondary);
+}
+
+.player__links {
+  margin-top: auto;
+  justify-content: flex-end;
+}
+
+.player__download {
+  display: inline-flex;
+  align-items: center;
+  color: var(--color-secondary);
+  font-size: var(--font-size-s);
+}
+
+.player__download svg {
+  width: .75rem;
+  height: .75rem;
+  margin-right: var(--space-s);
 }

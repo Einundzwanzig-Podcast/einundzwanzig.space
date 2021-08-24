@@ -64,6 +64,11 @@ mixin episodePlayer(e)
             .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 
+      .player__links
+        a.player__download(href=e.enclosure.url)
+          +sprite("download")
+          | Download
+
   script.
     window.player = {
       songs: [
