@@ -6,7 +6,7 @@
   "repository": "git@github.com:Einundzwanzig-Podcast/einundzwanzig.space.git",
   "license": "UNLICENSED",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
