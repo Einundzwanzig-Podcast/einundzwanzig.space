@@ -1,12 +1,12 @@
-const { writeFileSync } = require('fs')
-const { join, resolve } = require('path')
+const { readdirSync, writeFileSync } = require('fs')
+const { basename, join, resolve } = require('path')
 const request = require('sync-request')
 
 const meta = require('../content/meta.json')
 const soundboard = require('../content/soundboard.json')
 
-const dir = resolve(__dirname, '..', 'generated')
-const dst = join(dir, 'site-data.json')
+const dir = (...path) => resolve(__dirname, '..', ...path)
+const writeJSON = (file, data) => writeFileSync(file, JSON.stringify(data, null, 2))
 
 let recentBlocks = []
 try {
@@ -18,11 +18,11 @@ try {
 
 const block = recentBlocks.length && recentBlocks[0].height
 const date = (new Date()).toJSON().split('T')[0]
-const data = { date, block, meta }
 
-writeFileSync(dst, JSON.stringify(data, null, 2))
+writeJSON(dir('generated', 'site-data.json'), { date, block, meta })
 
-const content = soundboard.map(group => {
+// Soundboard
+const sounds = soundboard.map(group => {
   group.sounds = group.sounds.map(sound => {
     sound.url = `https://einundzwanzig.space${sound.file}`
     delete sound.file
@@ -31,5 +31,16 @@ const content = soundboard.map(group => {
   return group
 })
 
-const soundDst = resolve(__dirname, '..', 'dist', 'sounds.json')
-writeFileSync(soundDst, JSON.stringify(content, null, 2))
+writeJSON(dir('dist', 'sounds.json'), sounds)
+
+// Spenden
+const spendenDir = dir('content', 'spenden')
+const spenden = readdirSync(spendenDir).map(filename => {
+  const filePath = join(spendenDir, filename)
+  const spende = require(filePath)
+  spende.id = basename(filename, '.json')
+  return spende
+})
+
+writeJSON(dir('generated', 'spenden.json'), spenden)
+writeJSON(dir('dist', 'spenden.json'), spenden)

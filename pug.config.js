@@ -1,5 +1,5 @@
 // initialize markdown rendering
-const { markdown, slugify } = require('./helpers')
+const helpers = require('./helpers')
 
 const IS_DEV = process.env.NODE_ENV === 'development'
 const HOST = IS_DEV ? 'localhost:3000' : 'einundzwanzig.space'
@@ -25,10 +25,9 @@ module.exports = {
   basedir: './src/includes',
   random,
   shuffle,
-  slugify,
   assetUrl,
   assetPath,
   formatDate,
   linkTarget,
-  markdown,
+  ...helpers
 }

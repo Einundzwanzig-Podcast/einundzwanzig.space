@@ -1,0 +1,19 @@
+extends /template.pug
+
+block vars
+  - const title = 'Spendenregister'
+  - const description = 'Diese spendenfinanzierten Projekte, Initiativen und Entwickler halten wir für unterstützenswert.'
+
+block main
+  #spenden.wrap
+    section
+      h1= title
+      p= description
+
+      :markdown-it(html linkify typographer)
+        Neue Vorschläge können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/spenden/) hinzugefügt werden.
+
+      h2= title
+      ul.spenden(data-shuffle)
+        each s in shuffle(spenden)
+          +spende(s)

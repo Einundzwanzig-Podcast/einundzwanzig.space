@@ -23,6 +23,35 @@ mixin member(m)
     if m.text
       !=markdown(m.text)
 
+mixin spende(d, trunc = false)
+  .spende(id=d.id)&attributes(attributes)
+    .inner
+      img.avatar(src=(d.avatar || assetPath("/img/avatar.svg")) alt=d.name)
+      h3.name= d.name
+      .center
+        if d.beschreibung
+          .description
+            - const [head, tail] = trunc ? truncate(d.beschreibung, 21) : [d.beschreibung]
+            - const description = tail ? `${head} <a href="#${d.id}" class="showMore">[…&nbsp;mehr]</a> <span class="more">${tail}</span>` : head
+            != markdown(description)
+        if d.tags
+          .tags
+            each tag in d.tags
+              span.tag= tag
+      if d.twitter || d.github || d.gitlab
+        .social
+          if d.twitter
+            a.twitter(href=`https://twitter.com/${d.twitter}` target="_blank" rel="nofollow noopener"): +sprite('twitter', 'Twitter')
+          if d.mastodon
+            a.mastodon(href=d.mastodon target="_blank" rel="nofollow noopener"): +sprite('mastodon', 'Mastodon')
+          if d.gitlab
+            a.gitlab(href=`https://gitlab.com/${d.gitlab}` target="_blank" rel="nofollow noopener"): +sprite('gitlab', 'GitLab')
+          if d.github
+            a.github(href=`https://github.com/${d.github}` target="_blank" rel="nofollow noopener"): +sprite('github', 'GitHub')
+      .foot
+        a.button(href=d.spendenURL target="_blank" rel="nofollow noopener")
+          = `Spende an ${d.name.split(' ')[0]}`
+
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
     a.plain(href=`/podcast/${e.slug}/`)

@@ -64,13 +64,15 @@
     align-items: center;
     justify-content: space-between;
     line-height: 1;
-    font-size: 4.5vw;
+    font-size: 3.5vw;
 
     @media (--up_to_M) {
       margin-bottom: var(--space-s);
+      font-size: 3.85vw;
     }
     @media (--M_to_L) {
       margin-top: var(--space-m);
+      font-size: 3.5vw;
     }
     @media (--L_and_up) {
       margin-top: var(--space-l);
@@ -100,7 +102,7 @@
       position: relative;
       top: 1px;
 
-      @media (--up_to_S) {
+      @media (--up_to_M) {
         visibility: hidden;
       }
 

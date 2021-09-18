@@ -84,4 +84,12 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll('[data-clipboard]').forEach(link => {
     link.addEventListener('click', copyToClipboard)
   })
+
+  // Show more
+  document.querySelectorAll('.showMore').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault()
+      link.parentNode.parentNode.classList.add('expanded')
+    })
+  })
 })
