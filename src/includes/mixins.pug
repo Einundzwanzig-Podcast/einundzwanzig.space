@@ -50,7 +50,7 @@ mixin spende(d, trunc = false)
             a.github(href=`https://github.com/${d.github}` target="_blank" rel="nofollow noopener"): +sprite('github', 'GitHub')
       .foot
         a.button(href=d.spendenURL target="_blank" rel="nofollow noopener")
-          = `Spende an ${d.name.split(' ')[0]}`
+          = `Spende an ${d.name}`
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
