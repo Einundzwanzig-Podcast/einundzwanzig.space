@@ -1,3 +1,5 @@
+const { decode } = require('html-entities')
+
 // configure markdown-it
 const transformer = require('jstransformer')
 const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
@@ -14,7 +16,11 @@ mdTransformer.render = str => renderMd(str, config)
 
 // replacements
 const replacements = str => {
-  return str.replace(/<\/?u>/g, '')
+  return str && str.replace(/<\/?u>/g, '')
+}
+
+const stripHTML = str => {
+  return str && decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n'))
 }
 
 // slug
@@ -34,5 +40,6 @@ module.exports = {
   markdown: mdTransformer.render,
   replacements,
   slugify,
+  stripHTML,
   truncate
 }
