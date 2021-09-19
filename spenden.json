@@ -17,6 +17,42 @@
     "id": "bitcoin-beach"
   },
   {
+    "name": "Einundzwanzig",
+    "github": "Einundzwanzig-Podcast",
+    "twitter": "_einundzwanzig_",
+    "spendenURL": "https://tallyco.in/s/zfxqtu/",
+    "avatar": "/img/media/einundzwanzig-telegram.png",
+    "beschreibung": "Größer deutscher Bitcoin Podcast und Community. Mittlerweile auch ein Verein, der sich als Ziel gesetzt hat, Projekte und Personen im Bitcoin Umfeld zu unterstützen. Die Aktivitäten in der Community werden immer weiter dezentralisiert, um so eine noch größere Reichweite zu erhalten.",
+    "id": "einundzwanzig"
+  },
+  {
+    "name": "Fodé Diop",
+    "github": "diop",
+    "twitter": "diopfode",
+    "spendenURL": "https://strike.me/diopfode",
+    "avatar": "https://avatars.githubusercontent.com/u/971941?v=4",
+    "beschreibung": "Senegalischer Entwickler, der in den USA lebt und aktuell eine [Onlineakademie](https://www.bitcoindevelopers.academy/) für die Bitcoin Entwicklung aufbauen möchte. Größtes Ziel ist die weitere Verbreitung von Bitcoin in Afrika, insbesondere die Länder, die unter dem [CFA](https://aprycot.media/blog/kolonialismus-und-bitcoin/) leiden.",
+    "id": "fode_diop"
+  },
+  {
+    "name": "Human Rights Fundation",
+    "github": "",
+    "twitter": "HRF",
+    "spendenURL": "https://hrf.org/donate-bitcoin/",
+    "avatar": "/img/spenden/hrf.jpg",
+    "beschreibung": "Menschenrechtsorganisation, die sich für den Schutz, die Finanzierung und Unterstützung von Aktivisten einsetzt. Über die Stiftung werden zudem größere Summen für Projekte und Einzelpersonen bereitgestellt, damit diese sich Vollzeit um die Entwicklung im Bereich von Bitcoin engagieren können.",
+    "id": "human_rights_fundation"
+  },
+  {
+    "name": "Mempool.space",
+    "github": "mempool/mempool",
+    "twitter": "mempool",
+    "spendenURL": "https://mempool.space/de/sponsor",
+    "avatar": "/img/spenden/mempool.jpg",
+    "beschreibung": "Freie Open-Source Lösung für einen Bitcoin Blockexplorer. Die Software stellt ein modernes Interface zur Verfügung, welches auch auf der eigenen Bitcoin Full-Node installiert werden und betrieben werden kann.",
+    "id": "mempool_space"
+  },
+  {
     "name": "netpositive.money",
     "github": "netpositive-money",
     "twitter": "netposmon",
