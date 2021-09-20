@@ -5,7 +5,8 @@ const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const nodes = require('../content/nodes.json')
 const request = require('sync-request')
 const parser = require('fast-xml-parser')
-const JSON2XMLParser = require("fast-xml-parser").j2xParser;
+const JSON2XMLParser = require('fast-xml-parser').j2xParser
+const xmlFormat = require('xml-formatter')
 const he = require('he')
 
 const debug = process.env.CI
@@ -14,12 +15,12 @@ const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
 
 const commonOpts = {
-  attributeNamePrefix: "",
-  attrNodeName: "__attr",
-  textNodeName: "#text",
+  attributeNamePrefix: '',
+  attrNodeName: '__attr',
+  textNodeName: '#text',
   ignoreAttributes: false,
-  cdataTagName: "__cdata",
-  cdataPositionChar: "\\c"
+  cdataTagName: '__cdata',
+  cdataPositionChar: '\\c'
 }
 
 const xml2jsonOpts = {
@@ -41,7 +42,7 @@ const xml2jsonOpts = {
 var json2xmlOpts = {
   ...commonOpts,
   format: false,
-  indentBy: "  ",
+  indentBy: '  ',
   supressEmptyNode: false,
   tagValueProcessor: a => a,
   attrValueProcessor: a => he.encode(a, { isAttributeValue: true, useNamedReferences: true })
@@ -139,8 +140,7 @@ const parseEpisode = e => {
   const outputXML = JSON2XML.parse(feed)
 
   writeJSON('episodes', episodes)
-  write('dist/feed.xml', outputXML)
-  write('dist/anchor.xml', anchorXML)
+  write('dist/feed.xml', xmlFormat(outputXML, { indentation: '  ', collapseContent: true }))
 
   if (_noParticipants.length) {
     console.log('Keine Teilnehmerliste')
