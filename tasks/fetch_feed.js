@@ -8,6 +8,7 @@ const parser = require('fast-xml-parser')
 const JSON2XMLParser = require("fast-xml-parser").j2xParser;
 const he = require('he')
 
+const debug = process.env.CI
 const dir = resolve(__dirname, '..')
 const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
@@ -64,9 +65,9 @@ const parseEpisode = e => {
   const image = ['interview', 'lesestunde', 'verschiedenes'].includes(category) ? img : `/img/cover/${category}.png`
   const duration = e['itunes:duration']
   const enclosure = e.enclosure.__attr
-  const [, participantsString] = firstLine.match(/ - (?:(?:von und )?mit )(.*)/i) || []
-  const participants = participantsString ? participantsString.replace(/(\s*,\s*|\s*und\s*)/ig, '%').split('%') : []
-  return { block, category, categoryName, number, title, titlePlain, description, content, duration, slug, image, guid , date, enclosure, participants }
+  const [, participantsString] = firstLine.match(/ - (?:(?:von und )?mit )([^.]*)/i) || []
+  const participants = participantsString ? participantsString.replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/ig, '%').trim().split('%') : []
+  return { block, category, categoryName, number, title, titlePlain, description, content, duration, slug, image, guid, date, enclosure, participants }
 }
 
 ;(async () => {
@@ -86,17 +87,50 @@ const parseEpisode = e => {
 
   const feed = parser.parse(xml, xml2jsonOpts, true)
   const episodes = []
+  const _noParticipants = [], _noNode = []
 
   delete feed.rss.channel.author // remove invalid tag
 
   feed.rss.channel.item = feed.rss.channel.item.map(item => {
     const episode = parseEpisode(item)
     episodes.push(episode)
-    return {
+
+    const updated = {
       ...item,
       link: `https://einundzwanzig.space/podcast/${episode.slug}`, // replace Anchor link
       'itunes:summary': episode.description // please the validator, Anchor's itunes:summary contains HTML
     }
+
+    const participants = episode.participants.reduce((result, name) => {
+      const id = name.toLowerCase()
+      const address = nodes[id]
+      if (address) {
+        result.push({ name, address })
+      } else if (debug) {
+        _noNode.push({ episode: episode.slug, name })
+      }
+      return result
+    }, [])
+
+    if (participants.length) {
+      updated['podcast:value'] = {
+        __attr: {
+          type: 'lightning',
+          method: 'keysend'
+        },
+        'podcast:valueRecipient': participants.map(p => ({
+          __attr: {
+            ...p,
+            type: 'node',
+            split: 1
+          }
+        }))
+      }
+    } else if (debug) {
+      _noParticipants.push({ episode: episode.slug })
+    }
+
+    return updated
   })
 
   writeJSON('feed', feed)
@@ -107,4 +141,13 @@ const parseEpisode = e => {
   writeJSON('episodes', episodes)
   write('dist/feed.xml', outputXML)
   write('dist/anchor.xml', anchorXML)
+
+  if (_noParticipants.length) {
+    console.log('Keine Teilnehmerliste')
+    console.table(_noParticipants)
+  }
+  if (_noNode.length) {
+    console.log('Teilnehmer ohne Node')
+    console.table(_noNode)
+  }
 })()
