@@ -3,6 +3,8 @@ const { basename, join, resolve } = require('path')
 const request = require('sync-request')
 
 const meta = require('../content/meta.json')
+const team = require('../content/team.json')
+const crew = require('../content/crew.json')
 const soundboard = require('../content/soundboard.json')
 
 const dir = (...path) => resolve(__dirname, '..', ...path)
@@ -20,6 +22,10 @@ const block = recentBlocks.length && recentBlocks[0].height
 const date = (new Date()).toJSON().split('T')[0]
 
 writeJSON(dir('generated', 'site-data.json'), { date, block, meta })
+
+// Participants
+const participants = team.concat(crew).reduce((result, person) => Object.assign(result, { [person.name]: person }), {})
+writeJSON(dir('generated', 'participants.json'), participants)
 
 // Soundboard
 const sounds = soundboard.map(group => {

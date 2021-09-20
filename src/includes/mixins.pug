@@ -3,7 +3,7 @@ mixin sprite(id)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
 mixin member(m)
-  li.member
+  li.member(id=m.name)
     img(src=assetPath(m.image) alt=m.name loading="lazy")
     header
       h2=m.name
