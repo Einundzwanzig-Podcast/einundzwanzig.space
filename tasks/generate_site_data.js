@@ -5,6 +5,7 @@ const request = require('sync-request')
 const meta = require('../content/meta.json')
 const team = require('../content/team.json')
 const crew = require('../content/crew.json')
+const meetups = require('../content/meetups.json')
 const soundboard = require('../content/soundboard.json')
 
 const dir = (...path) => resolve(__dirname, '..', ...path)
@@ -26,6 +27,16 @@ writeJSON(dir('generated', 'site-data.json'), { date, block, meta })
 // Participants
 const participants = team.concat(crew).reduce((result, person) => Object.assign(result, { [person.name]: person }), {})
 writeJSON(dir('generated', 'participants.json'), participants)
+
+// Meetups
+const meetup = meetups.map(m => {
+  const copy = Object.assign({}, m)
+  delete copy.top
+  delete copy.left
+  return copy
+})
+
+writeJSON(dir('dist', 'meetups.json'), meetup)
 
 // Soundboard
 const sounds = soundboard.map(group => {

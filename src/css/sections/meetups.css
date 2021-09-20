@@ -1,0 +1,27 @@
+#meetups {
+  @media (--up_to_L) {
+    & #map {
+      & img {
+        display: none;
+      }
+    }
+  }
+  @media (--L_and_up) {
+    & #map {
+      position: relative;
+
+      & img {
+        display: block;
+        width: 100%;
+      }
+
+      & li {
+        position: absolute;
+
+        & .region {
+          display: none;
+        }
+      }
+    }
+  }
+}

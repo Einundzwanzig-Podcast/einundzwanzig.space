@@ -11,7 +11,7 @@
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
-    "copy": "cp -r content/meetups.json static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
+    "copy": "cp -r static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
     "init": "npm-run-all clean -p fetch copy build:data",
     "start": "NODE_ENV=development npm-run-all init -p start:*",
     "start:data": "onchange -k 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
