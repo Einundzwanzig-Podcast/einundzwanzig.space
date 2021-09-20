@@ -22,7 +22,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 15:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 15:17:54 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright>
@@ -10155,7 +10155,7 @@ Outro: Little Bubble, All the Small Caps</itunes:summary>
         <![CDATA[#04 - Wale und physische Bitcoins]]>
       </title>
       <description>
-        <![CDATA[<p><strong>Episode 04</strong> - Blockzeit 594386 - von und mit <a href="https://twitter.com/MarkusTurm"><u>@MarkusTurm</u></a> &amp; <a href="https://twitter.com/dergigi"><u>@dergigi</u></a></p></p>
+        <![CDATA[<p><strong>Episode 04</strong> - Blockzeit 594386 - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a> und <a href="https://twitter.com/dergigi">Gigi</a></p>
 <ul>
  <li>Intro: <a href="https://youtu.be/j2AvU2cfXRk"><u>https://youtu.be/j2AvU2cfXRk</u></a></li>
  <li><a href="https://www.reuters.com/article/us-china-economy-rrr-cut-idUSKCN1VR13X"><u>China verringert Teilreserve auf 13.0%</u></a></li>
@@ -10167,8 +10167,8 @@ Outro: Little Bubble, All the Small Caps</itunes:summary>
  <li><a href="https://blog.trezor.io/https-blog-trezor-io-dev-corner-shamir-backup-guide-5f9957ff1008"><u>Trezor Shamir Secret Sharing Backups</u></a></li>
  <li><a href="https://twitter.com/lightning/status/1171455184616058881"><u>Lightning CVE</u></a></li>
  <li><a href="https://github.com/bitcoin/bitcoin/pull/15759"><u>PR 15759</u></a>: mehr ausgehende Verbindungen (+ Aufgabenteilung dieser)</li>
-  <li><a href="https://medium.com/@SDWouters/erlay-an-awesome-performance-improvement-to-the-bitcoin-network-f59d757b2d14"><u>Erlay</u></a></li>
-  <li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html"><u>Eltoo test implementation</u></a></li>
+ <li><a href="https://medium.com/@SDWouters/erlay-an-awesome-performance-improvement-to-the-bitcoin-network-f59d757b2d14"><u>Erlay</u></a></li>
+ <li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html"><u>Eltoo test implementation</u></a></li>
   <li><a href="https://bitcoin-core-review-club.github.io/"><u>Bitcoin Core PR Review Club</u></a></li>
   <li>Gratis Werbung für <a href="https://getbittr.com/"><u>getbittr.com</u></a></li>
   <li>Outro: <a href="https://youtu.be/JaMJi1_1tkA"><u>https://youtu.be/JaMJi1_1tkA</u></a></li>
@@ -10182,7 +10182,7 @@ Outro: Little Bubble, All the Small Caps</itunes:summary>
       </dc:creator>
       <pubDate>Wed, 11 Sep 2019 20:23:49 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4614183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-11%2F23299483-44100-1-ac194d18d1001.mp3" length="51441407" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 04 - Blockzeit 594386 - von und mit @MarkusTurm &amp; @dergigi
+      <itunes:summary>Episode 04 - Blockzeit 594386 - von und mit Markus und Gigi
 Intro: https://youtu.be/j2AvU2cfXRk
 China verringert Teilreserve auf 13.0%
 Am 23. Sep startet Bakkt
@@ -10200,16 +10200,20 @@ Gratis Werbung für getbittr.com
 Outro: https://youtu.be/JaMJi1_1tkA</itunes:summary>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:duration>3674</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703842045-c03c55fde1b27.jpg"></itunes:image>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703840431-2d776dc4ff786.jpg"></itunes:image>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title>
         <![CDATA[#03 - Morgenstund’ hat Bitcoin im Mund]]>
       </title>
       <description>
-        <![CDATA[<p><strong>Episode 03</strong> - Blockzeit 593302 - von und mit <a href="https://twitter.com/MarkusTurm"><u>@MarkusTurm</u></a> &amp; <a href="https://twitter.com/dergigi"><u>@dergigi</u></a></p></p>
+        <![CDATA[<p><strong>Episode 03</strong> - Blockzeit 593302 - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a> und <a href="https://twitter.com/dergigi">Gigi</a></p>
 <ul>
  <li>Intro: <a href="https://youtu.be/4v3-sDgdMVU"><u>Banano - don’t let your memes be dreams</u></a></li>
  <li><a href="https://www.faz.net/aktuell/finanzen/wirtschaftskrise-argentinien-schraenkt-devisenhandel-ein-16363812.html"><u>Argentinien: Devisenkontrollen</u></a></li>
@@ -10219,8 +10223,8 @@ Outro: https://youtu.be/JaMJi1_1tkA</itunes:summary>
  <li><a href="https://www.bitcoinis.com/"><u>"Bitcoin is"</u></a> Konferenz - <a href="https://www.pscp.tv/w/1BdxYeamWpoxX"><u>6h Livestream</u></a></li>
  <li><a href="https://www.bitcoinnews.ch/17337/btcturk/"><u>BTC auf Fußballtrikots</u></a></li>
  <li><a href="https://twitter.com/search?q=%23RunForHalFin"><u>#RunForHalFin</u></a></li>
-  <li><a href="https://twitter.com/lappsln/status/1168936084480364547?s=19"><u>Lapps.co</u></a></li>
-  <li><a href="https://twitter.com/tippin_me/status/1167151203928723456"><u>Tippin.me goes Mobile</u></a></li>
+ <li><a href="https://twitter.com/lappsln/status/1168936084480364547?s=19"><u>Lapps.co</u></a></li>
+ <li><a href="https://twitter.com/tippin_me/status/1167151203928723456"><u>Tippin.me goes Mobile</u></a></li>
   <li><a href="https://twitter.com/_JustinMoon_/status/1168991333970829314?s=19"><u>BitBoy</u></a> und <a href="https://diybitcoinhardware.com/"><u>DIY Hardware</u></a> von und mit Justin Moon</li>
   <li><a href="https://github.com/Samourai-Wallet/whirlpool-server/releases/tag/0.21.8"><u>Whirlpool Server 0.21.8</u></a></li>
   <li><a href="https://gist.github.com/AdamISZ/2c13fb5819bd469ca318156e2cf25d79"><u>SNICKER BIP Draft</u></a> (<a href="https://joinmarket.me/blog/blog/snicker/"><u>Blog Post</u></a>)</li>
@@ -10235,7 +10239,7 @@ Outro: https://youtu.be/JaMJi1_1tkA</itunes:summary>
       </dc:creator>
       <pubDate>Thu, 05 Sep 2019 05:37:48 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4507117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-5%2F22539102-44100-1-270b99d22e10b.mp3" length="46272034" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 03 - Blockzeit 593302 - von und mit @MarkusTurm &amp; @dergigi
+      <itunes:summary>Episode 03 - Blockzeit 593302 - von und mit Markus und Gigi
 Intro: Banano - don’t let your memes be dreams
 Argentinien: Devisenkontrollen
 Hong Kong Proteste: Zensurresistentes Mesh-Messaging App
@@ -10252,16 +10256,20 @@ SNICKER BIP Draft (Blog Post)
 Outro: Lil Bubble - All Time Lows</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>3305</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703860178-f7686c104c5ea.jpg"></itunes:image>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703858633-08935972cf416.jpg"></itunes:image>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title>
         <![CDATA[#02 - Selbst der Dümmste erkennt, dass hier nur Geld gedruckt wird]]>
       </title>
       <description>
-        <![CDATA[<p><strong>Episode 02</strong> - Blockzeit 592155 - von und mit <a href="https://twitter.com/MarkusTurm"><u>@MarkusTurm</u></a> &amp; <a href="https://twitter.com/dergigi"><u>@dergigi</u></a></p>
+        <![CDATA[<p><strong>Episode 02</strong> - Blockzeit 592155 - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a> und <a href="https://twitter.com/dergigi">Gigi</a></p>
 <ul>
  <li>Intro: <a href="https://www.youtube.com/watch?v=hYzX3YZoMrs"><u>Godfrey Bloom, Warum das ganze Bankensystem ein Scam ist</u></a></li>
  <li><a href="https://amp.focus.de/finanzen/boerse/oswald-gruebel-rechnet-mit-minuszins-irrsinn-ab-weniger-wachstum-ist-die-zukunft-banker-oswald-gruebel-wiegelt-negativzins-keule-ab_id_11042777.html"><u>"Selbst der Dümmste erkennt, dass hier nur Geld gedruckt wird"</u></a></li>
@@ -10273,8 +10281,8 @@ Outro: Lil Bubble - All Time Lows</itunes:summary>
  <li><a href="https://twitter.com/tonysheng/status/1164536528028278784"><u>ETH Berlin</u></a>, Tag 2: <a href="https://youtu.be/mN2uhS5pYp0?t=907"><u>Panel discussion mit Udi Wertheimer</u></a></li>
  <li>Web3 in Berlin: <a href="https://www.coindesk.com/power-to-the-people-privacy-was-the-rallying-cry-of-berlins-web3-summit"><u>Privatsphäre war der Hauptpunkt</u></a></li>
  <li>Blockchain Conference in Hamburg: <a href="https://www.blockchance.eu/"><u>blockchance.eu</u></a> (<a href="https://amp.zdf.de/video/https%3A%2F%2Fapi.zdf.de%2Ftmd%2F2%2Fios_android_native_1%2Fvod%2Fptmd%2Fmediathek%2F190816_sendung_h12"><u>ZDF Bericht</u></a>)</li>
-  <li>Full Node “Drama”: <a href="https://twitter.com/PeterMcCormack/status/1164451061295398912"><u>“Peter hat keine Full Node”</u></a></li>
-  <li>Software: <a href="https://github.com/lightning-power-users/node-launcher"><u>Node Launcher</u></a>, <a href="https://stadicus.github.io/RaspiBolt/"><u>Bitcoin Core</u></a>, <a href="https://bitcoinknots.org/"><u>Bitcoin Knots</u></a>, <a href="https://github.com/btcsuite/btcd/"><u>btcd</u></a>, uvm.<br>
+ <li>Full Node “Drama”: <a href="https://twitter.com/PeterMcCormack/status/1164451061295398912"><u>“Peter hat keine Full Node”</u></a></li>
+ <li>Software: <a href="https://github.com/lightning-power-users/node-launcher"><u>Node Launcher</u></a>, <a href="https://stadicus.github.io/RaspiBolt/"><u>Bitcoin Core</u></a>, <a href="https://bitcoinknots.org/"><u>Bitcoin Knots</u></a>, <a href="https://github.com/btcsuite/btcd/"><u>btcd</u></a>, uvm.<br>
 siehe <a href="https://coin.dance/nodes"><u>coin.dance/nodes</u></a> für Features &amp; Unterschiede</li>
   <li>Hardware: <a href="https://www.nodl.it/"><u>Nodl</u></a>, <a href="https://samouraiwallet.com/dojo"><u>Nodl Samourai</u></a>, <a href="https://store.casa/lightning-node/"><u>Casa Node</u></a>, <br>
 Gamification: <a href="https://blog.keys.casa/node-heartbeats-and-the-heartbeat-satsback-reward/"><u>Casa Heartbeat</u></a></li>
@@ -10282,8 +10290,7 @@ Gamification: <a href="https://blog.keys.casa/node-heartbeats-and-the-heartbeat-
   <li><a href="https://erebus-attack.comp.nus.edu.sg/"><u>Erebus Attacke</u></a></li>
   <li><a href="https://bitcoinops.org/en/compatibility/"><u>Bitcoin Optech Kompatibilitätsmatrix</u></a></li>
   <li>Leseempfehlung: <a href="https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality"><u>The Long Road to SegWit</u></a></li>
-  <li><a href="https://github.com/ElementsProject/lightning/releases/tag/v0.7.2.1"><u>C-Lightning v.0.7.2</u></a>: includes <a href="https://en.bitcoin.it/wiki/Signet"><u>Signet</u></a> support!<a href="https://erebus-attack.comp.nus.edu.sg/"><u><br>
-</u></a></li>
+  <li><a href="https://github.com/ElementsProject/lightning/releases/tag/v0.7.2.1"><u>C-Lightning v.0.7.2</u></a>: includes <a href="https://en.bitcoin.it/wiki/Signet"><u>Signet</u></a> support!</li>
 </ul>
 ]]>
       </description>
@@ -10294,7 +10301,7 @@ Gamification: <a href="https://blog.keys.casa/node-heartbeats-and-the-heartbeat-
       </dc:creator>
       <pubDate>Wed, 28 Aug 2019 20:27:01 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4403815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-28%2F21964938-44100-1-4f0fba14b919f.mp3" length="48119988" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 02 - Blockzeit 592155 - von und mit @MarkusTurm &amp; @dergigi
+      <itunes:summary>Episode 02 - Blockzeit 592155 - von und mit Markus und Gigi
 Intro: Godfrey Bloom, Warum das ganze Bankensystem ein Scam ist
 &quot;Selbst der Dümmste erkennt, dass hier nur Geld gedruckt wird&quot;
 100 Milliarden volumengewichtete Marktkapitalisierung
@@ -10317,23 +10324,27 @@ Leseempfehlung: The Long Road to SegWit
 C-Lightning v.0.7.2: includes Signet support!</itunes:summary>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:duration>3437</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703889921-d70481101fd78.jpg"></itunes:image>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703888417-760e4e7e8028c.jpg"></itunes:image>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title>
         <![CDATA[#01 - Es gibt Bitcoin, und es gibt Shitcoins]]>
       </title>
       <description>
-        <![CDATA[<p><strong>Episode 01</strong> - Blockzeit 591121 - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a> &amp; <a href="https://twitter.com/dergigi">Gigi</u></a></p>
+        <![CDATA[<p><strong>Episode 01</strong> - Blockzeit 591121 - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a> und <a href="https://twitter.com/dergigi">Gigi</u></a></p>
 <ul>
  <li><a href="https://twitter.com/bitstein/status/1151586640307064833"><u>Warren Davidson on Bitcoin vs. Shitcoins</u></a></li>
  <li><a href="https://medium.com/bull-bitcoin/the-world-is-waking-up-to-bitcoin-5d532a1188ce"><u>The World is Waking up to Bitcoin</u></a></li>
  <li><a href="https://www.youtube.com/watch?v=PBAuHv5cPl8"><u>“How to meme bitcoin to the moon”</u></a> (<a href="http://diyhpl.us/wiki/transcripts/bit-block-boom/2019/how-to-meme-bitcoin-to-the-moon/"><u>transcript</u></a>)</li>
  <li><a href="https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-91-Tuur-Demeester-e50c1e"><u>TFTC 91</u></a>: Tuur Demeester</li>
-  <li><a href="https://duckduckgo.com/?q=hong+kong&amp;atb=v175-1&amp;iar=news&amp;ia=news"><u>Hong Kong</u></a>: <a href="https://medium.com/@dergigi/2201eee82f00"><u>The Rise of the Sovereign Individual</u></a></li>
-  <li><a href="https://www.bloomberg.com/news/articles/2019-08-12/a-goldman-sachs-analyst-is-bullish-on-bitcoin-but-is-goldman"><u>Goldman-Sachs spricht Kaufempfehlung für Bitcoin aus</u></a></li>
+ <li><a href="https://duckduckgo.com/?q=hong+kong&amp;atb=v175-1&amp;iar=news&amp;ia=news"><u>Hong Kong</u></a>: <a href="https://medium.com/@dergigi/2201eee82f00"><u>The Rise of the Sovereign Individual</u></a></li>
+ <li><a href="https://www.bloomberg.com/news/articles/2019-08-12/a-goldman-sachs-analyst-is-bullish-on-bitcoin-but-is-goldman"><u>Goldman-Sachs spricht Kaufempfehlung für Bitcoin aus</u></a></li>
   <li><a href="https://newsroom.a1.net/news-mit-bitcoin-und-co-im-a1-shop-bezahlen?id=88924&amp;menueid=12657&amp;l=deutsch"><u>Mit Bitcoin und Co. im A1 Shop bezahlen</u></a></li>
   <li><a href="https://github.com/Samourai-Wallet/samourai-dojo/tree/master"><u>Samourai Dojo</u></a></li>
   <li>Bitcoin <a href="https://github.com/achow101/hardware-wallet-interface"><u>Hardware Wallet Interface</u></a></li>
@@ -10352,7 +10363,7 @@ C-Lightning v.0.7.2: includes Signet support!</itunes:summary>
       </dc:creator>
       <pubDate>Wed, 21 Aug 2019 20:01:17 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4310841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-21%2F21435761-44100-1-b27252adfc601.mp3" length="43709474" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 01 - Blockzeit 591121 - von und mit Markus &amp; Gigi
+      <itunes:summary>Episode 01 - Blockzeit 591121 - von und mit Markus und Gigi
 Warren Davidson on Bitcoin vs. Shitcoins
 The World is Waking up to Bitcoin
 “How to meme bitcoin to the moon” (transcript)
@@ -10369,7 +10380,7 @@ BITCONNNEEEEEEEEEEEEEEECT!
 Verabschiedendes Klatschen mit Vitalik</itunes:summary>
       <itunes:explicit>Yes</itunes:explicit>
       <itunes:duration>3121</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703880802-7fd5d2cff0824.jpg"></itunes:image>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703879215-b48744e56bb17.jpg"></itunes:image>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
