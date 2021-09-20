@@ -2,6 +2,7 @@ const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
 const { replacements, slugify, stripHTML  } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
+const nodes = require('../content/nodes.json')
 const request = require('sync-request')
 const parser = require('fast-xml-parser')
 const JSON2XMLParser = require("fast-xml-parser").j2xParser;
@@ -76,11 +77,11 @@ const parseEpisode = e => {
     .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0"')
     .replace('<channel>', `<channel>
     <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient name="Dennis" type="node" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" split="1" />
-      <podcast:valueRecipient name="Fab" type="node" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" split="1" />
-      <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="1" />
-      <podcast:valueRecipient name="Markus" type="node" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" split="1" />
-      <podcast:valueRecipient name="Daniel" type="node" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" split="1" />
+      <podcast:valueRecipient type="node" split="1" name="Dennis" address="${nodes.dennis}" />
+      <podcast:valueRecipient type="node" split="1" name="Fab" address="${nodes.fab}" />
+      <podcast:valueRecipient type="node" split="1" name="Gigi" address="${nodes.gigi}" />
+      <podcast:valueRecipient type="node" split="1" name="Markus" address="${nodes.markus}" />
+      <podcast:valueRecipient type="node" split="1" name="Daniel" address="${nodes.daniel}" />
     </podcast:value>`)
 
   const feed = parser.parse(xml, xml2jsonOpts, true)
