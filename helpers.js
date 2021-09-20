@@ -1,4 +1,4 @@
-const { decode } = require('html-entities')
+const { decode, encode } = require('html-entities')
 
 // configure markdown-it
 const transformer = require('jstransformer')
@@ -20,7 +20,7 @@ const replacements = str => {
 }
 
 const stripHTML = str => {
-  return str && decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n'))
+  return str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
 }
 
 // slug
