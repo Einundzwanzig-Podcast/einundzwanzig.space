@@ -26,6 +26,14 @@
     "id": "fode_diop"
   },
   {
+    "name": "Human B",
+    "twitter": "cinemuck_",
+    "spendenURL": "https://tallyco.in/s/higwxl/",
+    "avatar": "/img/spenden/human-b.jpg",
+    "beschreibung": "HUMAN B ist kein Film über Bitcoin. Es ist ein Film über Menschen, die sich intensiv mit Bitcoin beschäftigen und deren Leben sich komplett verändert hat.",
+    "id": "human-b"
+  },
+  {
     "name": "Human Rights Fundation",
     "github": "",
     "twitter": "HRF",
@@ -68,5 +76,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1926816?s=460",
     "beschreibung": "Deutscher Entwickler, dem der freie Zugriff auf Bildungsinhalte sehr wichtig ist und sich primär mit der Forschung und Entwicklung rund um das Lightning-Netzwerk beschäftigt. Aktuell wichtigstes Projekt ist ein neuer Ansatz für einen Routing-Algorithmus im Lightning-Netzwerk. Dieser Ansatz wird unter dem Namen Pickhardt-Payments geführt.",
     "id": "rene-pickhardt"
+  },
+  {
+    "name": "Specter",
+    "github": "cryptoadvance/specter-desktop",
+    "twitter": "SpecterWallet",
+    "spendenURL": "https://btcpay.benkaufman.info/apps/2NBJqJ9GMmy1SPqEtg49bEcKUZqd/pos",
+    "avatar": "/img/spenden/specter.png",
+    "beschreibung": "Specter ist eine Desktop-Wallet, die verschiedenste Hardware-Wallets unterstützt und viele Möglichkeiten im Bereich MultiSig mitbringt.",
+    "id": "specter"
   }
 ]
