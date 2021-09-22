@@ -26,6 +26,7 @@
       & img {
         display: block;
         width: 100%;
+        opacity: .5;
       }
 
       & ul {
