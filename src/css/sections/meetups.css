@@ -8,7 +8,9 @@
   & #map {
     @media (--up_to_L) {
       margin-top: var(--space-xl);
-      & img {
+
+      & img,
+      & .dot {
         display: none;
       }
     }

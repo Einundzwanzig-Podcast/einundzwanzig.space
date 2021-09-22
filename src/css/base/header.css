@@ -1,4 +1,5 @@
 .header {
+  background-color: var(--color-body-bg);
   transition-property: color, background-color, box-shadow;
   transition-duration: var(--transition-duration-fast);
 
