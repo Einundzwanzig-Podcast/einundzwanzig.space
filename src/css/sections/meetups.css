@@ -36,6 +36,7 @@
 
       & li {
         position: absolute;
+        z-index: 1;
 
         &.official {
           color: var(--color-accent);
