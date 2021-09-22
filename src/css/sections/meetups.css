@@ -49,7 +49,7 @@
         & .dot {
           content: '';
           position: absolute;
-          top: .3rem;
+          top: .275rem;
           left: -1.25rem;
           background: radial-gradient(currentColor 0%, rgba(255, 255, 255, 0) 100%);
           animation-timing-function: linear;

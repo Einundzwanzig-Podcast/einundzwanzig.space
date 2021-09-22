@@ -22,16 +22,18 @@ block main
         ul.meetups
           each m in filterOfficial(meetups, true)
             li.official(style=`top:${m.top}%;left:${m.left}%;`)
-              .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
-              a(href=m.url target="_blank" rel="nofollow noopener")= m.name.replace('Einundzwanzig Meetup ', '')
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+                = m.name.replace('Einundzwanzig Meetup ', '')
               - j++
 
         h2 Weitere Meetups
         ul.meetups
           each m in filterOfficial(meetups, false)
             li(style=`top:${m.top}%;left:${m.left}%;`)
-              .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
-              a(href=m.url target="_blank" rel="nofollow noopener")= m.name
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+                = m.name
               - j++
 
         img(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
