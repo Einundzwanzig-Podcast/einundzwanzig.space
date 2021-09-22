@@ -3,6 +3,8 @@ extends /template.pug
 block vars
   - const title = 'Meetups'
   - const description = 'Eine Liste von Einundzwanzig-Treffen im D/A/CH-Raum.'
+  - const filterOfficial = (list, official) => list.filter(meetup => meetup.name.startsWith('Einundzwanzig Meetup ') === official)
+  - let j = 0
 
 block main
   #meetups.wrap
@@ -15,15 +17,21 @@ block main
 
         Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
 
-      h2 Einundzwanzig Meetups
-
       #map
+        h2 Einundzwanzig Meetups
         ul.meetups
-          each m in meetups
+          each m in filterOfficial(meetups, true)
+            li.official(style=`top:${m.top}%;left:${m.left}%;`)
+              .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+              a(href=m.url target="_blank" rel="nofollow noopener")= m.name.replace('Einundzwanzig Meetup ', '')
+              - j++
+
+        h2 Weitere Meetups
+        ul.meetups
+          each m in filterOfficial(meetups, false)
             li(style=`top:${m.top}%;left:${m.left}%;`)
-              a(href=m.telegram target="_blank" rel="nofollow noopener")= m.name.replace('Einundzwanzig Meetup ', '')
-              if !m.name.endsWith(m.region)
-                span.region
-                  = " - "
-                  = m.region
+              .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+              a(href=m.url target="_blank" rel="nofollow noopener")= m.name
+              - j++
+
         img(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
