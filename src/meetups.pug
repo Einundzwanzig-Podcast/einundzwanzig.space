@@ -34,7 +34,7 @@ block main
             li(style=`top:${m.top}%;left:${m.left}%;`)
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
-                = m.name
+                = m.name.replace('Bitcoin ', '')
               - j++
 
         img(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
