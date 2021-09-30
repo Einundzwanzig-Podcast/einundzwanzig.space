@@ -1,0 +1,16 @@
+extends /template.pug
+
+block vars
+  - const title = 'Bitcoin-Events'
+  - const description = 'Eine Liste von Bitcoin-Events und Einundzwanzig-Konferenzen im D/A/CH-Raum.'
+  - const cardImage = '/img/card/meetups.png'
+
+block main
+  #events.wrap
+    section
+      h1= title
+      p= description
+
+      :markdown-it(html linkify typographer)
+        - 18.-20. Februar 2022: [Satoshis Bleibe](/events/satoshis-bleibe-2022)
+        - 06.-08. August 2021: [Bitcoin Zitadelle](https://bitcoin-zitadelle.de/)

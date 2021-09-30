@@ -19,16 +19,4 @@
   @media (--L_and_up) {
     padding-top: var(--space-l);
   }
-
-  & h1 {
-    display: none;
-  }
-
-  & h2 {
-    margin-bottom: var(--space-l);
-  }
-
-  & section {
-    margin-bottom: var(--space-xxl);
-  }
 }

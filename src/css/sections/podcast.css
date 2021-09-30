@@ -1,4 +1,8 @@
 #podcast {
+  & h1 {
+    display: none;
+  }
+
   & .categories {
     display: inline-flex;
     flex-wrap: wrap;

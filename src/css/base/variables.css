@@ -13,6 +13,9 @@
   --color-neutral-90: #222;
   --color-neutral-95: #1B1B1B;
 
+  --color-border-light: var(--color-neutral-10);
+  --color-border-medium: var(--color-neutral-50);
+
   --color-overlay-bg: rgba(200, 200, 200, .95);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);
@@ -46,7 +49,6 @@
   --font-size-l: 1.25rem;
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2.5rem;
-  --font-size-xxxl: 4rem;
 
   @media (--up_to_M) {
     --wrap-padding-horizontal: var(--space-l);
