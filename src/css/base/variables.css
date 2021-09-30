@@ -16,10 +16,11 @@
   --color-border-light: var(--color-neutral-10);
   --color-border-medium: var(--color-neutral-50);
 
-  --color-overlay-bg: rgba(200, 200, 200, .95);
+  --color-overlay-bg: rgba(230, 230, 230, .95);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);
   --color-card-bg: var(--color-neutral-10);
+  --color-flyout-bg: var(--color-overlay-bg);
   --color-accent: #f7931a;
   --color-accent-highlight: #dd7901;
   --color-derweg: #00B4CF;
@@ -68,6 +69,7 @@
   --color-body-bg: var(--color-neutral-90);
   --color-card-bg: var(--color-neutral-95);
   --color-overlay-bg: rgba(20, 20, 20, .95);
+  --color-flyout-bg: var(--color-overlay-bg);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -76,5 +78,6 @@
     --color-body-bg: var(--color-neutral-90);
     --color-card-bg: var(--color-neutral-95);
     --color-overlay-bg: rgba(20, 20, 20, .95);
+    --color-flyout-bg: var(--color-overlay-bg);
   }
 }
