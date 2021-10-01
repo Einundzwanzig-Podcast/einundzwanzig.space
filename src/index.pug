@@ -1,5 +1,9 @@
 extends /template.pug
 
+block vars
+  - const title = site.meta.title
+  - const description = site.meta.description
+
 block main
   - const ticker = shuffle(site.meta.ticker).join(" +++ ") + " +++ "
   - const duration = ticker.length / 4
@@ -9,11 +13,10 @@ block main
 
   .wrap
     section
+      h1= title
+      h2= description
+
       :markdown-it(html linkify typographer)
-        # Einundzwanzig, der Bitcoin Podcast
-
-        ## Toximalistisches Infotainment für bullishe Bitcoiner
-
         [Bitcoin](https://bitcoin.org/bitcoin.pdf), und sonst nichts.
         Einmal die Woche sitzen die Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.
 

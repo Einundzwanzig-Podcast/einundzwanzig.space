@@ -2,7 +2,7 @@ include mixins
 
 block vars
 
-- const pageTitle = title ? `${title} · ${site.meta.title}` : site.meta.title
+- const pageTitle = title && title !== site.meta.title ? `${title} · ${site.meta.title}` : site.meta.title
 - const pageDescription = description || site.meta.description
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
