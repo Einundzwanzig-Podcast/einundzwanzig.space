@@ -2,6 +2,15 @@ mixin sprite(id)
   svg(role="img" title=id)&attributes(attributes)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
+mixin categories(current)
+  ul.categories
+    li: a(href="/podcast/" class=(!current && 'current')) Alles
+    li: a(href="/podcast/news/" class=(current === 'News' && 'current')) News
+    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')) Interviews
+    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')) Lesestunde
+    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')) Der Weg
+    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')) Verschiedenes
+
 mixin member(m)
   li.member(id=m.name)
     img(src=assetPath(m.image) alt=m.name loading="lazy")

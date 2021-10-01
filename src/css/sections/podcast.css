@@ -1,6 +1,10 @@
 #podcast {
-  & h1 {
+  &.podcast-home h1 {
     display: none;
+  }
+
+  &.podcast-category h1 {
+    margin-top: var(--space-l);
   }
 
   & .categories {
@@ -29,11 +33,17 @@
           text-decoration: none;
         }
       }
+
+      &.current {
+        color: var(--color-neutral-0);
+        background-color: var(--color-secondary);
+        text-decoration: none;
+      }
     }
   }
 
-  & .current {
-    margin-bottom: 4rem;
+  & .latest {
+    margin-bottom: var(--space-xxl);
   }
 }
 

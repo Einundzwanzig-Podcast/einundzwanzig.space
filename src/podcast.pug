@@ -6,27 +6,26 @@ block vars
   - const description = 'Wir bringen dir die Bitcoin-News der Woche, sowie zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.'
 
 block main
-  #podcast.wrap
+  #podcast.podcast-home.wrap
     section
       h1= title
       p= description
-      ul.categories
-        li: a(href="/podcast/news/") News
-        li: a(href="/podcast/interviews/") Interviews
-        li: a(href="/podcast/lesestunde/") Lesestunde
-        li: a(href="/podcast/der-weg/") Der Weg
-        li: a(href="/podcast/verschiedenes/") Verschiedenes
+      +categories()
 
       p
-        | Du findest uns auf
+        | Du findest uns auf allen gängigen Podcast-Plattformen:
         = " "
         a(href=site.meta.spotifyUrl) Spotify
         = ", "
-        a(href=site.meta.appleUrl) Apple Podcasts
+        a(href=site.meta.appleUrl) Apple
+        = ", "
+        a(href=site.meta.googleUrl) Google
         = ", "
         a(href=site.meta.overcastUrl) Overcast
-        = " und "
+        = ", "
         a(href=site.meta.anchorUrl) Anchor
+        = " und "
+        a(href=site.meta.podcastIndexUrl) Podcast Index
         = "."
       +subscribe()
 

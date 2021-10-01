@@ -7,11 +7,14 @@ block vars
   - const cardImage = `/img/cover/${category}.png`
 
 block main
-  #podcast.wrap
+  #podcast.podcast-category.wrap
     section
+      p= description
+      +categories(categoryName)
+
       h1= categoryName
       h2 Aktuelle Episode
-      .current
+      .latest
         +episodePlayer(current)
 
     if episodes.length
