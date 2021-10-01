@@ -85,7 +85,7 @@
 
       & .navItem {
         position: relative;
-        margin-right: var(--space-xl);
+        margin-right: var(--space-l);
         overflow: hidden;
         text-transform: uppercase;
         min-width: 3em;
@@ -161,7 +161,7 @@
   border: 0;
   outline: 0;
 
-  @media screen and (max-width: 399px) {
+  @media screen and (max-width: 370px) {
     visibility: hidden;
   }
 
