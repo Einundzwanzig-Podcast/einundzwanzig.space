@@ -52,7 +52,7 @@
   --font-size-m: 1rem;
   --font-size-l: 1.25rem;
   --font-size-xl: 1.75rem;
-  --font-size-xxl: 2.5rem;
+  --font-size-xxl: 2.25rem;
 
   @media (--up_to_M) {
     --wrap-padding-horizontal: var(--space-l);
