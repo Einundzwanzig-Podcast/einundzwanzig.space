@@ -31,7 +31,11 @@
   & a {
     color: var(--color-body-text);
 
-    &:hover {
+    &[href="#"] {
+      cursor: context-menu;
+    }
+
+    &:not([href="#"]):hover {
       @media not all and (hover: none) {
         color: var(--color-accent);
         text-decoration: none;
@@ -67,13 +71,10 @@
 
     @media (--up_to_M) {
       margin-bottom: var(--space-s);
-      font-size: 3.85vw;
+      margin-top: var(--space-l);
+      font-size:  var(--font-size-l);
     }
-    @media (--M_to_L) {
-      margin-top: var(--space-m);
-      font-size: 3.5vw;
-    }
-    @media (--L_and_up) {
+    @media (--M_and_up) {
       margin-top: var(--space-l);
       font-size: var(--font-size-xl);
     }
@@ -82,14 +83,50 @@
       display: flex;
       align-items: center;
 
-      & a {
-        margin-right: 1em;
+      & .navItem {
+        position: relative;
+        margin-right: var(--space-xl);
+        overflow: hidden;
         text-transform: uppercase;
-        font-weight: var(--font-weight-bold);
-        cursor: pointer;
+        min-width: 3em;
+        z-index: 1;
 
-        &.current {
-          color: var(--color-accent);
+        & a {
+          position: relative;
+          display: block;
+          font-weight: var(--font-weight-bold);
+          z-index: 1;
+
+          &.current {
+            color: var(--color-accent);
+          }
+        }
+
+        & .more {
+          position: absolute;
+          z-index: 0;
+          top: calc(var(--space-m) * -1);
+          left: calc(var(--space-l) * -1);
+          right: calc(var(--space-l) * -1);
+          opacity: 0;
+          padding: 1.5em var(--space-l) var(--space-m);
+          background: var(--color-flyout-bg);
+          transition-property: background, position, opacity;
+          transition-duration: var(--transition-duration-fast);
+          border-radius: var(--space-m);
+
+          & a {
+            margin-top: var(--space-l);
+          }
+        }
+
+        &:hover,
+        &:focus {
+          overflow: visible;
+
+          & .more {
+            opacity: 1;
+          }
         }
       }
     }
@@ -100,10 +137,6 @@
       justify-content: center;
       position: relative;
       top: 1px;
-
-      @media (--up_to_M) {
-        visibility: hidden;
-      }
 
       & svg {
         height: 4.5vw;
@@ -127,6 +160,10 @@
   cursor: pointer;
   border: 0;
   outline: 0;
+
+  @media screen and (max-width: 399px) {
+    visibility: hidden;
+  }
 
   &:hover {
     @media not all and (hover: none) {

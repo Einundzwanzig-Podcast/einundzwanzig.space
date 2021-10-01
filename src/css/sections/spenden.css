@@ -1,6 +1,6 @@
 #spenden {
-  & h2 {
-    margin-bottom: var(--space-xl);
+  & .spenden {
+    margin-top: var(--space-xxl);
   }
 }
 

@@ -8,6 +8,14 @@ block main
   #team.wrap
     section
       h1= title
+
+      :markdown-it(html linkify typographer)
+        Einmal die Woche sitzen die Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.
+
+        [Wir](/team/) bringen dir die [News](/podcast/news/) der Woche, sowie zusätzlich [Interviews](/podcast/interviews/) und
+        die besten Artikel als [Lesestunde](/podcast/lesestunde/).
+        Außerdem erfährst du in [Der Weg](/podcast/der-weg/) wie andere Leute zu Bitcoin gekommen sind.
+
       h2 Core
       ul.members(data-shuffle)
         each m in shuffle(team)
