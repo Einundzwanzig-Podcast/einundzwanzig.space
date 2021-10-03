@@ -100,6 +100,10 @@ a {
   }
 }
 
+code {
+  font-size: .9em;
+}
+
 p {
   margin-bottom: var(--space-l);
 }
