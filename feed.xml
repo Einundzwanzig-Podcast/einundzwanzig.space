@@ -153,8 +153,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1632899980766-0d3663c367d8a.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -365,7 +365,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1631884254445-dc9bd4eb47284.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -430,9 +430,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -482,8 +482,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1631704794455-f60d667bb9a19.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -593,7 +593,7 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -641,8 +641,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1631260411777-5c7f7b6d69124.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -725,8 +725,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1631122105534-30df963f340f5.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -816,9 +816,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -888,10 +888,10 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1005,9 +1005,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>96</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1053,7 +1053,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1629839215569-4ae36a1950ed8.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1097,8 +1097,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1629477722957-a458acef0ddbe.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1216,8 +1216,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1629307805137-91c329f988513.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1267,8 +1267,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628926154742-50795be16baf4.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1330,8 +1330,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628926110187-5e6189f53fbf5.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1387,7 +1387,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628762409152-d6631652de54.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1538,7 +1538,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628194923495-53430cf387439.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1610,9 +1610,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1719,9 +1719,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>94</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1801,8 +1801,8 @@ Die Community-Tutorials auf YouTube: https://www.youtube.com/c/EinundzwanzigPodc
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -1939,8 +1939,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1626281966239-10225b3eae087.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2015,10 +2015,10 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>92</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2148,8 +2148,8 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2254,9 +2254,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>90</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2299,8 +2299,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1624461204875-b17545851c399.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2362,9 +2362,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="021ff5fb1491a8b7230f7431c5e6664ee5ee668058295c31f0a93165ab9a52b8a8" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2411,8 +2411,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1624207666805-68eb0d5025db7.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2550,8 +2550,8 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2594,7 +2594,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1623428671755-dee3dd2427edc.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2649,8 +2649,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1623144210606-3f32222702577.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2716,9 +2716,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2765,7 +2765,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1622917981509-df868eb9949fd.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2810,8 +2810,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1622632204980-e5b2a4601a358.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2884,9 +2884,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -2989,9 +2989,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3096,11 +3096,11 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3214,7 +3214,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620945521149-577493d8d167f.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3290,9 +3290,9 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3361,8 +3361,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620587190053-bdc67e6e04c0e.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3490,9 +3490,9 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3610,9 +3610,9 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3689,7 +3689,7 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1619167124970-01c2a370e1ec2.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3755,9 +3755,9 @@ Dennis’ Artikel: Bitcoin kaufen: Was muss ich beachten</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -3897,9 +3897,9 @@ Outro: What shall we do with the Michael Saylor?</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4007,9 +4007,9 @@ Outro: HFSP Song</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4135,9 +4135,9 @@ Outro: Here’s to Surfer Jim</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4250,8 +4250,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1616536565517-fff488d34ec42.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4323,8 +4323,8 @@ Outro: CNBD Escape Velocity</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4416,8 +4416,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1615976936683-250479e8eda6f.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4529,8 +4529,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1615554499872-c73e1959ba5f6.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4604,8 +4604,8 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4652,8 +4652,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1615289622131-a81794f2a8862.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4740,9 +4740,9 @@ Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4784,8 +4784,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1614418826186-c7719c56827c9.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4857,9 +4857,9 @@ Blockstream Green E2E Verschlüsselung</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -4911,8 +4911,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1613301543656-b0d488de563b.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5010,9 +5010,9 @@ Outro: Überraschungsei</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5066,8 +5066,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1613365592830-d9e814c6e9113.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5130,10 +5130,10 @@ Outro: Bitcoin runs for the next decade</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5183,8 +5183,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1612544307312-6fbb7c461e2e6.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5265,8 +5265,8 @@ Outro:Stoolpresidente Rant</itunes:summary>
       <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5319,8 +5319,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1611849851817-e48c387a3745f.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5381,8 +5381,8 @@ Specter Wallet mit whitepaper: video</itunes:summary>
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5432,8 +5432,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1611453188541-1789fa9a5b431.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5500,10 +5500,10 @@ Outro: TikTok Investor</itunes:summary>
       <itunes:episode>66</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5602,8 +5602,8 @@ Outro: TFTC Jack Mallers</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5699,9 +5699,9 @@ Outro: Jack Mallers über Life at a loss</itunes:summary>
       <itunes:episode>65</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5740,8 +5740,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1609654011733-eae2782f7397d.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5808,8 +5808,8 @@ Outro: Raoul HFSP &amp; HODL is RIGHT</itunes:summary>
       <itunes:episode>64</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5877,8 +5877,8 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1608420271702-40a1aada69f07.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -5955,11 +5955,11 @@ Für 50.000 sats kannst du uns ein Shoutout da lassen: https://tallyco.in/s/zfxq
       <itunes:episode>63</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6073,8 +6073,8 @@ Outro: Ievan Polkka Bitcoin 21.000</itunes:summary>
       <itunes:episode>62</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6188,8 +6188,8 @@ Outro: Michael Saylor’s $100k Party Song</itunes:summary>
       <itunes:episode>61</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6339,8 +6339,8 @@ Outro: Isabel Schnabel</itunes:summary>
       <itunes:episode>60</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6444,8 +6444,8 @@ Outro: Fuck You Money - Knut Svanholm</itunes:summary>
       <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6514,9 +6514,9 @@ Outro: Pysh Bull</itunes:summary>
       <itunes:episode>58</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6608,9 +6608,9 @@ Outro: N/A</itunes:summary>
       <itunes:episode>57</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6708,8 +6708,8 @@ Outro: Love You Like A Bitcoin</itunes:summary>
       <itunes:episode>56</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6780,9 +6780,9 @@ Outro: Key Control System feat. Andreas Antonopoulos</itunes:summary>
       <itunes:episode>55</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -6944,8 +6944,8 @@ Outro: The Bitcoin Prayer</itunes:summary>
       <itunes:episode>54</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7038,9 +7038,9 @@ BlueWallet sucht Tester für Multisig</itunes:summary>
       <itunes:episode>53</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7153,8 +7153,8 @@ Outro</itunes:summary>
       <itunes:episode>52</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7277,8 +7277,8 @@ Outro: Inflation Song</itunes:summary>
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7394,8 +7394,8 @@ Lightning Labs</itunes:summary>
       <itunes:episode>49</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7433,7 +7433,7 @@ Folgt uns auf Twitter. Kommt in unsere Telegram-Gruppe.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599755387847-d176a570f17ad.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7529,8 +7529,8 @@ Outro: Bitcoin Slang</itunes:summary>
       <itunes:episode>48</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7605,8 +7605,8 @@ Sparrow Wallet von Craig Raw</itunes:summary>
       <itunes:episode>47</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7665,8 +7665,8 @@ Outro: Early Bitcoin News Reports</itunes:summary>
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7727,8 +7727,8 @@ Folgt uns auf Twitter. Kommt in unsere Telegram-Gruppe.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1595115773014-2a07d5e869ab1.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7765,8 +7765,8 @@ Tor Exit Nodes Hack </itunes:summary>
       <itunes:episode>45</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -7805,8 +7805,8 @@ Strike auf dem App Store</itunes:summary>
       <itunes:episode>44</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8005,11 +8005,11 @@ Outro: Sherlock’s Song</itunes:summary>
       <itunes:episode>42</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8064,8 +8064,8 @@ Relai Website Relai Twitter CEO Julian  Gabriel von Puzzle ITC Puzzle ITC</itun
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1595566148098-9fc799b78c613.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8138,8 +8138,8 @@ Outro: The Bitcoin Jingle</itunes:summary>
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8172,7 +8172,7 @@ ideasarelikeflames</itunes:summary>
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8272,8 +8272,8 @@ Outro: Banksters Paradise</itunes:summary>
       <itunes:episode>39</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8350,8 +8350,8 @@ Outro: Cancel Culture</itunes:summary>
       <itunes:episode>38</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8383,8 +8383,8 @@ Mises Human Action auf Deutsch übersetzt von Rahim</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1593027234034-e43f3d2ccaaa4.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8465,9 +8465,9 @@ https://ideasarelikeflames.com/</itunes:summary>
       <itunes:episode>36</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8578,8 +8578,8 @@ Outro: Upgrade your Zoom Account</itunes:summary>
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8632,8 +8632,8 @@ VoB</itunes:summary>
       <itunes:episode>33</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8705,8 +8705,8 @@ Outro: Keep stacking</itunes:summary>
       <itunes:episode>32</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8738,8 +8738,8 @@ BISQ DAO</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1589468282256-7177045ace74.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -8807,8 +8807,8 @@ Outro: Billions TV Show &amp; DJ J-Scrilla - Dream Of Empire ft. Rome Streetz</i
       <itunes:episode>31</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9099,9 +9099,9 @@ Breeze Point of Sale Funktion</itunes:summary>
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9136,7 +9136,7 @@ PR #3842: Fix for GetBlockValue() after block 13,440,000</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1585333437626-90bec128b675.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9170,7 +9170,7 @@ Ulrich Bindseil: Tiered CBDC and the financial system</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1584740700487-a8800d581ef4f.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9205,7 +9205,7 @@ Johoe’s Mempool Size Statistics</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1584621365332-d67bf302fc685.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9258,8 +9258,8 @@ Coinbase withdrawal transactions now using batching Bitstamp supports bech32</it
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9303,9 +9303,9 @@ Bitcoin Core 0.19.1</itunes:summary>
       <itunes:episode>24</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9339,7 +9339,7 @@ BitDevs Berlin: Socratic Seminars</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1583514380287-292caf015e10e.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9409,8 +9409,8 @@ Outro</itunes:summary>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9447,7 +9447,7 @@ DentaCoin</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1582908116295-727657ea0dbf1.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9494,9 +9494,9 @@ Phoenix Wallet Update</itunes:summary>
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9534,7 +9534,7 @@ Lightning Labs mit $10M Series A Funding: Entering the Decade of Lightning</itun
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1581888207970-51f701f01daa8.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9602,11 +9602,11 @@ Bitcoin Optech Newsletter 85: PoDLEs in LN channels</itunes:summary>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9661,8 +9661,8 @@ ColdCard’s PSBT Faker Tool</itunes:summary>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9742,9 +9742,9 @@ Outro: Bitcoin boomdeyada!</itunes:summary>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9813,10 +9813,10 @@ Outro: The Run of the Golden Bull</itunes:summary>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9873,9 +9873,9 @@ Outro: Because I Bought High</itunes:summary>
       <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9939,9 +9939,9 @@ Bitcoin OpTech Newsletter #80</itunes:summary>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -9995,9 +9995,9 @@ Outro: Bitcoin’s Back</itunes:summary>
       <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10050,9 +10050,9 @@ Outro: Lil Bubble - Mass Adoption</itunes:summary>
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10107,10 +10107,10 @@ Outro: Lil Bubble - Green Christmas</itunes:summary>
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10165,8 +10165,8 @@ Basic support für multipath payments (merges: C-Lightning, Eclair, LND)</itunes
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10225,8 +10225,8 @@ sirhC_</itunes:summary>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10283,8 +10283,8 @@ Ihr könnt euch mit eurer Node direkt zu Bitfinex verbinden (mindestens 0,04 Bit
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10341,9 +10341,9 @@ Outro: The Bitcoin Dip - We Miss You</itunes:summary>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10404,9 +10404,9 @@ Wasabi merged one-click support für Bitcoin Core node in Wasabi</itunes:summary
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10491,9 +10491,9 @@ Kommt in unsere Telegram-Gruppe. </itunes:summary>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10544,9 +10544,9 @@ Outro: Wolf of Wall Street - Jerk Off</itunes:summary>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10587,8 +10587,8 @@ Outro: Little Bubble, All the Small Caps</itunes:summary>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10645,8 +10645,8 @@ Outro: https://youtu.be/JaMJi1_1tkA</itunes:summary>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10701,8 +10701,8 @@ Outro: Lil Bubble - All Time Lows</itunes:summary>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10769,8 +10769,8 @@ C-Lightning v.0.7.2: includes Signet support!</itunes:summary>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -10825,8 +10825,8 @@ Verabschiedendes Klatschen mit Vitalik</itunes:summary>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="1"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="1"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
   </channel>
