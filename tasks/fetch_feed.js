@@ -79,11 +79,11 @@ const parseEpisode = e => {
     .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0"')
     .replace('<channel>', `<channel>
     <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient type="node" split="1" name="Dennis" address="${nodes.dennis}" />
-      <podcast:valueRecipient type="node" split="1" name="Fab" address="${nodes.fab}" />
-      <podcast:valueRecipient type="node" split="1" name="Gigi" address="${nodes.gigi}" />
-      <podcast:valueRecipient type="node" split="1" name="Markus" address="${nodes.markus}" />
-      <podcast:valueRecipient type="node" split="1" name="Daniel" address="${nodes.daniel}" />
+      <podcast:valueRecipient type="node" split="20" name="Dennis" address="${nodes.dennis}" />
+      <podcast:valueRecipient type="node" split="20" name="Fab" address="${nodes.fab}" />
+      <podcast:valueRecipient type="node" split="20" name="Gigi" address="${nodes.gigi}" />
+      <podcast:valueRecipient type="node" split="20" name="Markus" address="${nodes.markus}" />
+      <podcast:valueRecipient type="node" split="20" name="Daniel" address="${nodes.daniel}" />
     </podcast:value>`)
 
   const feed = parser.parse(xml, xml2jsonOpts, true)
@@ -123,7 +123,7 @@ const parseEpisode = e => {
           __attr: {
             ...p,
             type: 'node',
-            split: 1
+            split: Math.round(100 / participants.length)
           }
         }))
       }
