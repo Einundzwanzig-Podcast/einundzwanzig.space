@@ -1,11 +1,11 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient type="node" split="1" name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a"></podcast:valueRecipient>
-      <podcast:valueRecipient type="node" split="1" name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9"></podcast:valueRecipient>
-      <podcast:valueRecipient type="node" split="1" name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52"></podcast:valueRecipient>
-      <podcast:valueRecipient type="node" split="1" name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2"></podcast:valueRecipient>
-      <podcast:valueRecipient type="node" split="1" name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f"></podcast:valueRecipient>
+      <podcast:valueRecipient type="node" split="20" name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a"></podcast:valueRecipient>
+      <podcast:valueRecipient type="node" split="20" name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9"></podcast:valueRecipient>
+      <podcast:valueRecipient type="node" split="20" name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52"></podcast:valueRecipient>
+      <podcast:valueRecipient type="node" split="20" name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2"></podcast:valueRecipient>
+      <podcast:valueRecipient type="node" split="20" name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f"></podcast:valueRecipient>
     </podcast:value>
     <title>
       <![CDATA[Einundzwanzig, der Bitcoin Podcast]]>
@@ -22,7 +22,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sun, 03 Oct 2021 18:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 15:29:26 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright>
