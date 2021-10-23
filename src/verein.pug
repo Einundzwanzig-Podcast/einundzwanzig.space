@@ -1,0 +1,14 @@
+extends /template.pug
+
+block vars
+  - const title = 'Verein EINUNDZWANZIG'
+  - const description = 'Der Verein bezweckt den Aufbau, sowie Entwicklung und Unterstützung eines optimalen Umfeldes für die zirkuläre Adoption von Bitcoin im deutschsprachigen Raum.'
+
+block main
+  #Verein.wrap
+    section
+      h1= title
+      p= description
+
+      :markdown-it(html linkify typographer)
+        - [Statuten](/files/EINUNDZWANZIG-Statuten.pdf)
