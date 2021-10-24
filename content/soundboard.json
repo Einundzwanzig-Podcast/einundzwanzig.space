@@ -176,6 +176,19 @@
     ]
   },
   {
+    "title": "Einundzwanzig",
+    "sounds": [
+      {
+        "title": "Herr Turm",
+        "file": "/sounds/herr-turm-impulsiv.mp3"
+      },
+      {
+        "title": "Gigi zu PoS",
+        "file": "/sounds/gigi-pos.mp3"
+      }
+    ]
+  },
+  {
     "title": "Tim Kellner",
     "sounds": [
       {
@@ -189,6 +202,148 @@
       {
         "title": "Preisanstieg",
         "file": "/sounds/kellner/preisanstieg.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Politik",
+    "sounds": [
+      {
+        "title": "Spritze innen Arm!",
+        "file": "/sounds/politik/spritze-innen-arm.mp3"
+      },
+      {
+        "title": "Was isn jetzt schon wieder passiert?",
+        "file": "/sounds/politik/was-isn-jetzt-scho-wieda-passiert.mp3"
+      },
+      {
+        "title": "Sofort, unverzüglich",
+        "file": "/sounds/politik/sofort-unverzueglich.mp3"
+      },
+      {
+        "title": "Freiheit stirbt zentimeterweise",
+        "file": "/sounds/politik/freiheit-stirbt-zentimeterweise.mp3"
+      },
+      {
+        "title": "Sicherheit vs. Bürgerrecht",
+        "file": "/sounds/politik/sicherheit-vs-buergerrecht.mp3"
+      },
+      {
+        "title": "Ehrenwort",
+        "file": "/sounds/politik/ehrenwort.mp3"
+      },
+      {
+        "title": "Die dümmsten Fragen",
+        "file": "/sounds/politik/die-duemmsten-fragen.mp3"
+      },
+      {
+        "title": "Ich verstehe diese Fragen",
+        "file": "/sounds/politik/ich-verstehe-diese-fragen.mp3"
+      },
+      {
+        "title": "Ein Teil dieser Antworten",
+        "file": "/sounds/politik/ein-teil-dieser-antworten.mp3"
+      },
+      {
+        "title": "Vertrauensvorschuß",
+        "file": "/sounds/politik/vertrauensvorschuss.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Fußball",
+    "sounds": [
+      {
+        "title": "Cyberhornets",
+        "file": "/sounds/fussball/cyberhornets.mp3"
+      },
+      {
+        "title": "Ich lach mich tot",
+        "file": "/sounds/fussball/ich-lach-mich-tot.mp3"
+      },
+      {
+        "title": "Absolute Frechheit",
+        "file": "/sounds/fussball/absolute-frechheit.mp3"
+      },
+      {
+        "title": "Alles bla bla bla",
+        "file": "/sounds/fussball/alles-bla-bla-bla.mp3"
+      },
+      {
+        "title": "Wichtig für mich",
+        "file": "/sounds/fussball/wichtig-fuer-mich.mp3"
+      },
+      {
+        "title": "Respektlos ohne Ende",
+        "file": "/sounds/fussball/respektlos-ohne-ende.mp3"
+      },
+      {
+        "title": "Was hier abläuft",
+        "file": "/sounds/fussball/was-hier-ablaeuft.mp3"
+      },
+      {
+        "title": "Tiefpunkt",
+        "file": "/sounds/fussball/tiefpunkt.mp3"
+      },
+      {
+        "title": "Scheißdreck",
+        "file": "/sounds/fussball/scheissdreck.mp3"
+      },
+      {
+        "title": "Kann ich nicht mehr hören",
+        "file": "/sounds/fussball/kann-ich-nicht-mehr-hören.mp3"
+      },
+      {
+        "title": "Scheiß der immer gelabert wird",
+        "file": "/sounds/fussball/scheiss-der-immer-gelabert-wird.mp3"
+      },
+      {
+        "title": "Warum die Schärfe reinkommt",
+        "file": "/sounds/fussball/warum-die-schaerfe-reinkommt.mp3"
+      },
+      {
+        "title": "Drei Weizenbier",
+        "file": "/sounds/fussball/drei-weizenbier.mp3"
+      },
+      {
+        "title": "Klar und deutlich",
+        "file": "/sounds/fussball/klar-und-deutlich.mp3"
+      },
+      {
+        "title": "Nicht nachzuvollziehen",
+        "file": "/sounds/fussball/nicht-nachzuvollziehen.mp3"
+      },
+      {
+        "title": "Freunde der Sonne",
+        "file": "/sounds/fussball/freunde-der-sonne.mp3"
+      },
+      {
+        "title": "Nachweis meiner Unschuld",
+        "file": "/sounds/fussball/nachweis-meiner-unschuld.mp3"
+      },
+      {
+        "title": "Kampagne gegen mich",
+        "file": "/sounds/fussball/kampagne-gegen-mich.mp3"
+      },
+      {
+        "title": "Nun zu den Fakten",
+        "file": "/sounds/fussball/nun-zu-den-fakten.mp3"
+      },
+      {
+        "title": "Absolut reines Gewissen",
+        "file": "/sounds/fussball/absolut-reines-gewissen.mp3"
+      },
+      {
+        "title": "Keine weitere Diskussion",
+        "file": "/sounds/fussball/keine-weitere-diskussion.mp3"
+      },
+      {
+        "title": "Woran hat et jelegen",
+        "file": "/sounds/fussball/woran-hat-et-jelegen.mp3"
+      },
+      {
+        "title": "Ich habe fertig",
+        "file": "/sounds/fussball/ich-habe-fertig.mp3"
       }
     ]
   },
@@ -212,6 +367,10 @@
         "file": "/sounds/hosp/iota.mp3"
       },
       {
+        "title": "Wassup my IOTA Community?",
+        "file": "/sounds/wassup-my-iota-community.mp3"
+      },
+      {
         "title": "Mach doch deinen Scheiß",
         "file": "/sounds/kinski.mp3"
       },
@@ -220,24 +379,20 @@
         "file": "/sounds/internet-bucks.mp3"
       },
       {
-        "title": "Herr Turm",
-        "file": "/sounds/herr-turm-impulsiv.mp3"
-      },
-      {
-        "title": "Gigi zu PoS",
-        "file": "/sounds/gigi-pos.mp3"
-      },
-      {
         "title": "CBDC braucht niemand",
         "file": "/sounds/schnabl-cbdc.mp3"
       },
       {
-        "title": "Spritze innen Arm!",
-        "file": "/sounds/spritze-innen-arm.mp3"
-      },
-      {
         "title": "Ich muss nachdenken",
         "file": "/sounds/ich-muss-nachdenken.mp3"
+      },
+      {
+        "title": "Ich hätt Bock",
+        "file": "/sounds/ich-haett-bock.mp3"
+      },
+      {
+        "title": "90 Minuten Hardcore",
+        "file": "/sounds/90-minuten-hardcore.mp3"
       }
     ]
   }
