@@ -32,10 +32,10 @@
     "amplitudejs": "5.3.2"
   },
   "devDependencies": {
-    "autoprefixer": "10.3.7",
+    "autoprefixer": "10.4.0",
     "browser-sync": "2.27.7",
     "csso-cli": "3.0.0",
-    "fast-xml-parser": "3.21.0",
+    "fast-xml-parser": "3.21.1",
     "glob": "7.2.0",
     "he": "1.2.0",
     "html-entities": "2.3.2",
@@ -47,7 +47,7 @@
     "onchange": "7.1.0",
     "postcss": "8.3.11",
     "postcss-calc": "8.0.0",
-    "postcss-cli": "9.0.1",
+    "postcss-cli": "9.0.2",
     "postcss-custom-media": "8.0.0",
     "postcss-extend": "1.0.5",
     "postcss-import": "14.0.2",
