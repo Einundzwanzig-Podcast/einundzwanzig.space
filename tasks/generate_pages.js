@@ -34,6 +34,8 @@ renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
 renderPage('events', 'events', { navCurrent: 'events' })
 renderPage('events/satoshis-bleibe-2022', 'events/satoshis-bleibe-2022', { navCurrent: 'events' })
 renderPage('verein', 'verein', { navCurrent: 'verein' })
+renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
+renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
 
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
 renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', category: 'interview', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview') })

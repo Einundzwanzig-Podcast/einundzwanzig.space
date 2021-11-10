@@ -69,6 +69,7 @@ html(lang="en")
                 a(href="/soundboard/" class=(navCurrent === 'soundboard' && 'current')) Sounds
                 a(href="/team/" class=(navCurrent === 'team' && 'current')) Team
                 a(href="/verein/" class=(navCurrent === 'verein' && 'current')) Verein
+                a(href="/kontakt/" class=(navCurrent === 'kontakt' && 'current')) Kontakt
             //- .navItem
             //-   a(href=site.meta.shopUrl target="_blank") Shop
           button(type="button").theme
@@ -104,6 +105,10 @@ html(lang="en")
           a(href=site.meta.soundcloudUrl rel="me nofollow noopener" target="_blank" title="Soundcloud")
             +sprite("soundcloud")
         p
+          a(href="/kontakt/") Kontakt
+          = " · "
+          a(href="/datenschutz/") Datenschutz
+          = " · "
           | Made with 💛 by
           = " "
           a(href="https://d11n.net" target="_blank" rel="nofollow noopener") d11n

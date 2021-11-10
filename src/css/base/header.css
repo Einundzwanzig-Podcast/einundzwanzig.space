@@ -85,7 +85,7 @@
         margin-right: var(--space-xl);
         overflow: hidden;
         text-transform: uppercase;
-        min-width: 3em;
+        min-width: 3.5em;
         z-index: 1;
 
         & a {

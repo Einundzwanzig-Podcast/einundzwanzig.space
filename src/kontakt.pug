@@ -1,0 +1,43 @@
+extends /template.pug
+
+block vars
+  - const title = 'Kontakt & Impressum'
+
+block main
+  #verein.wrap
+    section
+      h1= title
+
+      :markdown-it(html linkify typographer)
+        ### Inhaltlich Verantwortliche gemäß TMG und § 55 Abs. 2 RStV
+
+        Dennis Reimann
+        <br />
+        Verein Einundzwanzig
+        <br />
+        6300 Zug
+        <br />
+        Schweiz
+
+        E-Mail: mail@einundzwanzig.space
+        <br />
+        Website: https://einundzwanzig.space
+
+      h3 Urheber- und Kennzeichenrecht
+      p
+        | Für alle weiteren Inhalte dieser Website gilt:
+        | der Autor ist bestrebt, in allen Publikationen die Urheberrechte der verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken, Tondokumente, Videosequenzen und Texte zurückzugreifen.
+      p
+        | Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten.
+        | Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.
+      p
+        | Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen eingetragenen Eigentümer.
+        | Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
+
+      h3 Haftungshinweis
+      p
+        | Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
+        | Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+      p
+        a(href="/datenschutz") Unsere Datenschutzerklärung
