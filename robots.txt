@@ -1,3 +1,5 @@
 User-agent: *
+Disallow: /datenschutz/
+Disallow: /kontakt/
 
 Sitemap: https://einundzwanzig.space/sitemap.xml
