@@ -71,6 +71,7 @@
   & .wallpaper {
     display: inline-block;
     max-width: 21em;
+    margin: 0 var(--space-l) var(--space-l) 0;
 
     & img {
       display: block;
