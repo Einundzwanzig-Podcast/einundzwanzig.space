@@ -27,6 +27,13 @@
     border-radius: var(--space-s);
   }
 
+  & .flyer {
+    display: inline-block;
+    width: 280px;
+    margin: 0 var(--space-l) var(--space-l) 0;
+    border-radius: var(--space-s);
+  }
+
   & img {
     display: block;
     width: 100%;
