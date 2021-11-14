@@ -40,6 +40,10 @@ block main
         a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper-owl.png") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-wallpaper-owl-preview.png") alt="Wallpaper Meetup OWL")
 
+        each i in [1, 2, 3, 4, 5]
+          a.wallpaper(href=assetPath(`/img/media/einundzwanzig-wallpaper-dezentralschweiz-0${i}.jpg`) target="_blank")
+            img(src=assetPath(`/img/media/einundzwanzig-wallpaper-dezentralschweiz-0${i}-preview.jpg`) alt=`Wallpaper Meetup Schweiz ${1}`)
+
       article
         h2 Schriften
         ul.fonts
