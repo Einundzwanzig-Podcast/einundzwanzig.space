@@ -47,10 +47,13 @@ block main
       article
         h2 Wallpaper
         a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
-          img(src=assetPath("/img/media/einundzwanzig-wallpaper-preview.png") alt="Wallpaper")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-preview.jpg") alt="Wallpaper")
 
         a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper-owl.png") target="_blank")
-          img(src=assetPath("/img/media/einundzwanzig-wallpaper-owl-preview.png") alt="Wallpaper Meetup OWL")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-owl-preview.jpg") alt="Wallpaper Meetup OWL")
+
+        a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper-benrath.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-benrath-preview.jpg") alt="Wallpaper Meetup Düsseldorf")
 
         each i in [1, 2, 3, 4, 5]
           a.wallpaper(href=assetPath(`/img/media/einundzwanzig-wallpaper-dezentralschweiz-0${i}.jpg`) target="_blank")
