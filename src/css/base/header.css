@@ -1,3 +1,20 @@
+.notice {
+  position: relative;
+  background: var(--color-card-bg);
+  transition-property: background-color;
+  transition-duration: var(--transition-duration-fast);
+  padding: var(--space-m) 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+
+  @media (--up_to_L) {
+    margin-top: calc(var(--logo-height) + var(--space-xxl) * 1.65);;
+    margin-bottom: calc((var(--logo-height) + var(--space-xxl) * 1.65) * -.75);
+  }
+}
+
 .header {
   background-color: var(--color-body-bg);
   transition-property: color, background-color, box-shadow;

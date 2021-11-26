@@ -1,220 +1,33 @@
+include includes/mixins
+
+block vars
+  - const pageTitle = "Adventskalender"
+  - const pageDescription = "🎄 Wir wünschen euch mit unserem Adventskalender bullishe All Time Highnachten! 🎅"
+
 <!DOCTYPE html>
-<html lang="de"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="preload" href="https://bafybeicg4y5y5plrnh627xn2knwnlbc3vtcu5kylh2ls5vflnrom4c3uey.ipfs.dweb.link/inconsolata.woff2" as="font" crossorigin="">
-        <link rel="preload" href="einundzwanzig.svg" as="image">
-        <link rel="icon" href="https://bafybeicg4y5y5plrnh627xn2knwnlbc3vtcu5kylh2ls5vflnrom4c3uey.ipfs.dweb.link/favicon.png" type="image/png">
+html(lang="en")
+  head
+    include includes/_head
+    link(href=assetPath("/css/adventskalender.css") rel="stylesheet")
+  body
+    main
+      #tree.tree
+        each i in Array.from({ length: 21 }, (_, i) => i)
+          ul.cube
+            li
+            li
+            li 710<br>824
+            li
+            li
+            li
+        ul.cube.logo
+          li
+          li
+          li: a(href="/"): +sprite("logo-square").logo
+          li
+          li
+          li
+      p wünscht euch bullishe All Time Highnachten
+    script(src=assetPath("/js/adventskalender.js"))
 
-        <title>Einundzwanzig wünscht bullishe Weihnachten</title>
-
-        <link href="styles.css" rel="stylesheet">
-    </head>
-
-    <body>
-        <main style="opacity: 1;">
-            <div class="tree" id="tree">
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-
-<ul class="cube">
-    <li></li>
-    <li></li>
-    <li>710<br>824</li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
-        </div>
-
-            <figure class="logo">
-                <a href="/">
-                    <img src="einundzwanzig.svg" alt="Einundzwanzig">
-                </a>
-            </figure>
-
-            <p>wünscht bullishe Weihnachten</p>
-        </main>
-
-        <script src="scripts.js"></script>
-
-
-</body></html>
+    include includes/_footer
