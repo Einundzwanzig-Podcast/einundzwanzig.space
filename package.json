@@ -26,7 +26,8 @@
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
     "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/ln/*.svg dist/img/shop/*.jpg dist/img/team/*.jpg dist/img/team/*.png",
     "sitemap": "node tasks/generate_sitemap.js",
-    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages sitemap"
+    "redirects": "node tasks/generate_redirects.js",
+    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages -p redirects sitemap"
   },
   "dependencies": {
     "amplitudejs": "5.3.2"
