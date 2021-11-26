@@ -11,6 +11,7 @@ html(lang="en")
     link(href=assetPath("/css/adventskalender.css") rel="stylesheet")
   body
     main
+      p Wir wünschen euch bullishe All Time Highnachten! 🎅
       #tree.tree
         each i in Array.from({ length: 21 }, (_, i) => i)
           ul.cube
@@ -27,7 +28,10 @@ html(lang="en")
           li
           li
           li
-      p wünscht euch bullishe All Time Highnachten
+      p
+        = "Danke "
+        a(href="https://twitter.com/validblock") @validblock
+        = " für den schönen Baum! 🎄"
     script(src=assetPath("/js/adventskalender.js"))
 
     include includes/_footer

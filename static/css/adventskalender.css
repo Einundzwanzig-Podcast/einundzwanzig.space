@@ -41,6 +41,12 @@ main {
   flex-direction: column;
 }
 
+main p {
+  font-size: 1rem;
+  margin: var(--space-xxl) 0;
+}
+
+
 .tree {
   width: 377px;
   height: 437px;
@@ -189,8 +195,4 @@ main {
   width: 63px;
   height: 63px;
   display: block;
-}
-
-#tree + p {
-  margin-top: var(--space-l);
 }
