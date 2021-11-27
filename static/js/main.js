@@ -43,12 +43,15 @@ document.addEventListener("DOMContentLoaded", () => {
     "IntersectionObserverEntry" in window &&
     "intersectionRatio" in window.IntersectionObserverEntry.prototype
   ) {
-    const headerObserver = new IntersectionObserver(entries => {
-      const { boundingClientRect: { y, height } } = entries[0]
-      const fn = Math.abs(y) > height ? 'add' : 'remove'
-      document.body.classList[fn]('topbar')
-    })
-    headerObserver.observe(document.getElementById('header-anchor'))
+    const headerAnchor = document.getElementById('header-anchor')
+    if (headerAnchor) {
+      const headerObserver = new IntersectionObserver(entries => {
+        const { boundingClientRect: { y, height } } = entries[0]
+        const fn = Math.abs(y) > height ? 'add' : 'remove'
+        document.body.classList[fn]('topbar')
+      })
+      headerObserver.observe(headerAnchor)
+    }
   }
 
   // List shuffling

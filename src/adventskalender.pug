@@ -10,27 +10,30 @@ html(lang="en")
     include includes/_head
     link(href=assetPath("/css/adventskalender.css") rel="stylesheet")
   body
-    main
-      p Wir wünschen euch bullishe All Time Highnachten! 🎅
+    main.main
+      p
+        | Wir wünschen euch bullishe
+        br
+        | All Time Highnachten! 🎅
       #tree.tree
         each i in Array.from({ length: 21 }, (_, i) => i)
+          - const [block, url] = Object.entries(adventskalender[i])[0] || []
           ul.cube
             li
             li
-            li 710<br>824
             li
-            li
+              if block && url
+                a(href=url rel="nofollow noopener" target="_blank")!= block.slice(0, 3) + "<br>" + block.slice(3)
             li
         ul.cube.logo
           li
           li
           li: a(href="/"): +sprite("logo-square").logo
           li
-          li
-          li
       p
         = "Danke "
         a(href="https://twitter.com/validblock") @validblock
+        br
         = " für den schönen Baum! 🎄"
     script(src=assetPath("/js/adventskalender.js"))
 

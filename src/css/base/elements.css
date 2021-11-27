@@ -19,6 +19,7 @@ html {
   font-family: var(--font-family-base);
   font-size: var(--font-size-base);
   scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -1,21 +1,23 @@
-body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
-  background: radial-gradient(ellipse at bottom, var(--color-neutral-90) 0%, var(--color-neutral-95) 100%);
-  font: 13px/1 Inconsolata, monospace;
-  color: #f8f8f8;
-}
-
 html {
   -webkit-text-size-adjust: none;
   touch-action: manipulation;
 }
 
+body {
+  background: radial-gradient(ellipse at bottom, var(--color-neutral-90) 0%, var(--color-neutral-95) 100%);
+  background-attachment: fixed;
+  color: var(--color-neutral-10);
+}
+
 html,
-body,
+body{
+  min-height: 100%;
+}
+
 main {
-  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 :after,
@@ -32,29 +34,33 @@ ul {
   box-sizing: border-box;
 }
 
-main {
+.main {
   max-width: 100%;
   overflow: hidden;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  flex: 1 0 auto;
+  padding: var(--space-xxl) 0;
 }
 
-main p {
+.main p {
   font-size: 1rem;
-  margin: var(--space-xxl) 0;
+  margin: var(--space-xxl) var(--space-l);
+  text-align: center;
 }
-
 
 .tree {
   width: 377px;
   height: 437px;
   position: relative;
+  flex: 0 0 437px;
 }
 
 .cube {
   --size: 44px;
+  --space: calc(var(--size) / 3);
   width: var(--size);
   height: var(--size);
   position: absolute;
@@ -83,87 +89,86 @@ main p {
   transform: rotateY(90deg) translateX(0) translateY(0) translateZ(calc(var(--size) / 2));
   background: #123e04;
 }
-
 .cube:nth-child(1) {
   top: 0;
 }
 .cube:nth-child(2), .cube:nth-child(3) {
-  top: 61px;
+  top: calc(var(--size) + var(--space));
 }
 .cube:nth-child(4), .cube:nth-child(5), .cube:nth-child(6) {
-  top: 122px;
+  top: calc((var(--size) + var(--space)) * 2);
 }
 .cube:nth-child(7), .cube:nth-child(8), .cube:nth-child(9), .cube:nth-child(10) {
-  top: 183px;
+  top: calc((var(--size) + var(--space)) * 3);
 }
 .cube:nth-child(11), .cube:nth-child(12), .cube:nth-child(13), .cube:nth-child(14), .cube:nth-child(15) {
-  top: 244px;
+  top: calc((var(--size) + var(--space)) * 4);
 }
 .cube:nth-child(16), .cube:nth-child(17), .cube:nth-child(18), .cube:nth-child(19), .cube:nth-child(20), .cube:nth-child(21) {
-  top: 305px;
+  top: calc((var(--size) + var(--space)) * 5);
 }
 .cube:nth-child(1) {
-  left: 164.5px;
+  left: calc((var(--size) + var(--space)) * 3);
 }
 .cube:nth-child(2) {
-  left: 133px;
+  left: calc((var(--size) + var(--space)) * 2.5);
 }
 .cube:nth-child(3) {
-  left: 196px;
+  left: calc((var(--size) + var(--space)) * 3.5);
 }
 .cube:nth-child(4) {
-  left: 101.5px;
+  left: calc((var(--size) + var(--space)) * 2);
 }
 .cube:nth-child(5) {
-  left: 164.5px;
+  left: calc((var(--size) + var(--space)) * 3);
 }
 .cube:nth-child(6) {
-  left: 228.5px;
+  left: calc((var(--size) + var(--space)) * 4);
 }
 .cube:nth-child(7) {
-  left: 70px;
+  left: calc((var(--size) + var(--space)) * 1.5);
 }
 .cube:nth-child(8) {
-  left: 133px;
+  left: calc((var(--size) + var(--space)) * 2.5);
 }
 .cube:nth-child(9) {
-  left: 197px;
+  left: calc((var(--size) + var(--space)) * 3.5);
 }
 .cube:nth-child(10) {
-  left: 261px;
+  left: calc((var(--size) + var(--space)) * 4.5);
 }
 .cube:nth-child(11) {
-  left: 38.5px;
+  left: calc((var(--size) + var(--space)) * 1);
 }
 .cube:nth-child(12) {
-  left: 101.5px;
+  left: calc((var(--size) + var(--space)) * 2);
 }
 .cube:nth-child(13) {
-  left: 165.5px;
+  left: calc((var(--size) + var(--space)) * 3);
 }
 .cube:nth-child(14) {
-  left: 229.5px;
+  left: calc((var(--size) + var(--space)) * 4);
 }
 .cube:nth-child(15) {
-  left: 293.5px;
+  left: calc((var(--size) + var(--space)) * 5);
 }
 .cube:nth-child(16) {
-  left: 7px;
+  left: calc((var(--size) + var(--space)) * .5);
 }
 .cube:nth-child(17) {
-  left: 70px;
+  left: calc((var(--size) + var(--space)) * 1.5);
 }
 .cube:nth-child(18) {
-  left: 134px;
+  left: calc((var(--size) + var(--space)) * 2.5);
 }
 .cube:nth-child(19) {
-  left: 198px;
+  left: calc((var(--size) + var(--space)) * 3.5);
 }
 .cube:nth-child(20) {
-  left: 262px;
+  left: calc((var(--size) + var(--space)) * 4.5);
 }
 .cube:nth-child(21) {
-  left: 326px;
+  left: calc((var(--size) + var(--space)) * 5.5);
 }
 .cube li {
   position: absolute;
@@ -173,13 +178,17 @@ main p {
   overflow: hidden;
   background: #1e6608;
 }
+.cube li a {
+  color: #FFF !important;
+  font-weight: var(--font-weight-bold);
+}
 
 .logo {
   --size: 72px;
   padding: 7px;
   color: #FFF;
-  left: 146px;
-  top: 342px;
+  left: calc((var(--size) + var(--space)) * 1.65);
+  top: 333px;
   z-index: 0;
 }
 .logo li {
