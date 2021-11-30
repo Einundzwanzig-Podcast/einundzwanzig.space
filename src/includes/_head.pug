@@ -1,0 +1,37 @@
+meta(charset="UTF-8")
+meta(http-equiv="X-UA-Compatible" content="ie=edge")
+meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
+meta(name="keywords" content=pageKeywords)
+meta(name="description" content=pageDescription)
+meta(property="og:locale" content="de_DE")
+meta(property="og:site_name" content=site.title)
+meta(property="og:title" content=pageTitle)
+meta(property="og:description" content=pageDescription)
+if pageCard
+  meta(property="og:image" content=assetUrl(pageCard, "http"))
+  meta(property="og:image:secure_url" content=assetUrl(pageCard))
+  meta(property="og:image:width" content=pageCardSize)
+  meta(property="og:image:height" content=pageCardSize)
+block og
+  meta(property="og:type" content="website")
+meta(property="twitter:card" content="summary")
+meta(property="twitter:title" content=pageTitle)
+meta(property="twitter:description" content=pageDescription)
+if pageCard
+  meta(property="twitter:image" content=assetUrl(pageCard))
+meta(name="msapplication-TileColor" content=themeColor)
+meta(name="theme-color" content=themeColor)
+link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))
+link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-700.woff2"))
+link(rel="apple-touch-icon" href=assetPath("/img/favicon/apple-touch-icon.png"))
+link(rel="icon" href=assetPath("/img/favicon/favicon.svg"))
+link(rel="manifest" href="/site.webmanifest")
+link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
+link(rel="stylesheet" href=assetPath("/css/main.css"))
+link(rel="alternate" type="application/rss+xml" title="Podcast Feed" href=site.meta.publicFeedUrl)
+script(src=assetPath("/js/player.js") defer)
+script(src=assetPath("/js/main.js"))
+title= pageTitle
+noscript
+  style.
+    .theme { display: none; }

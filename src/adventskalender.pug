@@ -1,0 +1,40 @@
+include includes/mixins
+
+block vars
+  - const pageTitle = "Adventskalender"
+  - const pageDescription = "🎄 Wir wünschen euch mit unserem Adventskalender bullishe All Time Highnachten! 🎅"
+
+<!DOCTYPE html>
+html(lang="en")
+  head
+    include includes/_head
+    link(href=assetPath("/css/adventskalender.css") rel="stylesheet")
+  body
+    main.main
+      p
+        | Wir wünschen euch bullishe
+        br
+        | All Time Highnachten! 🎅
+      #tree.tree
+        each i in Array.from({ length: 21 }, (_, i) => i)
+          - const [block, url] = Object.entries(adventskalender[i])[0] || []
+          ul.cube
+            li
+            li
+            li
+              if block && url
+                a(href=url rel="nofollow noopener" target="_blank")!= block.slice(0, 3) + "<br>" + block.slice(3)
+            li
+        ul.cube.logo
+          li
+          li
+          li: a(href="/"): +sprite("logo-square").logo
+          li
+      p
+        = "Danke "
+        a(href="https://twitter.com/validblock") @validblock
+        br
+        = " für den schönen Baum! 🎄"
+    script(src=assetPath("/js/adventskalender.js"))
+
+    include includes/_footer
