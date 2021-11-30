@@ -8,6 +8,11 @@
   "engines": {
     "node": ">=16.0.0"
   },
+  "config": {
+    "dist": "dist",
+    "port": "3000",
+    "linkcheck": "blc -ro --filter-level 2 --requests 1 --exclude reddit.com --exclude t.me --exclude blog.voltage.cloud --exclude shiftcrypto.shop/en/products/black-friday-bundle-btc-41"
+  },
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
@@ -27,13 +32,18 @@
     "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/ln/*.svg dist/img/shop/*.jpg dist/img/team/*.jpg dist/img/team/*.png",
     "sitemap": "node tasks/generate_sitemap.js",
     "redirects": "node tasks/generate_redirects.js",
-    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages -p redirects sitemap"
+    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages -p redirects sitemap",
+    "linkcheck": "start-server-and-test linkcheck:serve $npm_package_config_port linkcheck:local",
+    "linkcheck:serve": "serve -p $npm_package_config_port $npm_package_config_dist",
+    "linkcheck:local": "$npm_package_config_linkcheck http://localhost:$npm_package_config_port",
+    "linkcheck:prod": "$npm_package_config_linkcheck https://einundzwanzig.space"
   },
   "dependencies": {
     "amplitudejs": "5.3.2"
   },
   "devDependencies": {
     "autoprefixer": "10.4.0",
+    "broken-link-checker": "0.7.8",
     "browser-sync": "2.27.7",
     "csso-cli": "3.0.0",
     "fast-xml-parser": "3.21.1",
@@ -55,6 +65,8 @@
     "postcss-media-variables": "2.0.1",
     "postcss-nesting": "10.0.2",
     "pug": "3.0.2",
+    "serve": "13.0.2",
+    "start-server-and-test": "1.14.0",
     "sync-request": "6.1.0",
     "xml-formatter": "2.5.1"
   }
