@@ -45,5 +45,5 @@ jobs:
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
       # Run linkcheck, propagate linkcheck failure through grep pipe
-      - name: Linkcheck
-        run: set -o pipefail; npm run linkcheck 2>/dev/null | grep "Getting links from\|BROKEN"
+      # - name: Linkcheck
+      #   run: set -o pipefail; npm run linkcheck 2>/dev/null | grep "Getting links from\|BROKEN"
