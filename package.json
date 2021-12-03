@@ -11,6 +11,7 @@
   "config": {
     "dist": "dist",
     "port": "3000",
+    "domain": "einundzwanzig.space",
     "linkcheck": "blc -ro --filter-level 2 --requests 1 --exclude reddit.com --exclude t.me --exclude blog.voltage.cloud --exclude shiftcrypto.shop/en/products/black-friday-bundle-btc-41"
   },
   "scripts": {
@@ -36,7 +37,7 @@
     "linkcheck": "start-server-and-test linkcheck:serve $npm_package_config_port linkcheck:local",
     "linkcheck:serve": "serve -p $npm_package_config_port $npm_package_config_dist",
     "linkcheck:local": "$npm_package_config_linkcheck http://localhost:$npm_package_config_port",
-    "linkcheck:prod": "$npm_package_config_linkcheck https://einundzwanzig.space"
+    "linkcheck:prod": "$npm_package_config_linkcheck https://$npm_package_config_domain"
   },
   "dependencies": {
     "amplitudejs": "5.3.2"

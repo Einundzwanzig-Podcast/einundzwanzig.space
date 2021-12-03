@@ -21,10 +21,9 @@ jobs:
       matrix:
         node-version: [16]
     steps:
-      # Checkout doc repo and its dependencies
+      # Checkout and setup
       - name: Checkout
         uses: actions/checkout@v2
-      # Setup Node
       - name: Setup (Node.js ${{ matrix.node-version }})
         uses: actions/setup-node@v1
         with:
