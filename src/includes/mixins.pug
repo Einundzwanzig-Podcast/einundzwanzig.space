@@ -58,8 +58,11 @@ mixin spende(d, trunc = false)
           if d.github
             a.github(href=`https://github.com/${d.github}` target="_blank" rel="nofollow noopener"): +sprite('github', 'GitHub')
       .foot
-        a.button(href=d.spendenURL target="_blank" rel="nofollow noopener")
-          = `Spende an ${d.name}`
+        if d.spendenURL
+          a.button(href=d.spendenURL target="_blank" rel="nofollow noopener")
+            = `Spende an ${d.name}`
+        else if d.info
+          p.info= d.info
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)

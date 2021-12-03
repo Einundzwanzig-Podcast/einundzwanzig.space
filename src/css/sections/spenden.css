@@ -1,6 +1,6 @@
 #spenden {
   & .spenden {
-    margin-top: var(--space-xxl);
+    margin-top: var(--space-xl);
   }
 }
 
@@ -20,6 +20,10 @@
   & li {
     margin: 0;
   }
+}
+
+.spenden + h2 {
+  margin-top: calc(var(--space-xxl) * 1.5);
 }
 
 .spende {
@@ -43,6 +47,7 @@
     border-radius: 50%;
     border: 10px solid var(--color-card-bg);
     margin: calc(var(--space-xxl) * -1) auto 0;
+    background-color: var(--color-card-bg);
     background-size: 100%;
     background-repeat: no-repeat;
   }
@@ -62,6 +67,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+  }
+
+  & .info {
+    color: var(--color-secondary);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: 0;
   }
 
   & .social {
