@@ -2,7 +2,8 @@ const { mkdirSync, statSync, writeFileSync } = require('fs')
 const { dirname, join, resolve } = require('path')
 
 const redirects = [
-  ['/podcast/verschiedenes-special-zur-adoping-bitcoin-konferenz-in-el-salvador/', '/podcast/verschiedenes-special-zur-adopting-bitcoin-konferenz-in-el-salvador/']
+  ['/podcast/verschiedenes-special-zur-adoping-bitcoin-konferenz-in-el-salvador/', '/podcast/verschiedenes-special-zur-adopting-bitcoin-konferenz-in-el-salvador/'],
+  ['/podcast/der-wer-33-bitcoin-hat-mich-umgepolt/', '/podcast/der-weg-33-bitcoin-hat-mich-umgepolt/']
 ]
 
 const dist = resolve(__dirname, '..', 'dist')
