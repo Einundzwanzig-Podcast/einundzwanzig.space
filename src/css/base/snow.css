@@ -2,7 +2,7 @@
   --size: 1vw;
   width: var(--size);
   height: var(--size);
-  background: white;
+  background: #EEE;
   border-radius: 50%;
   position: fixed;
   z-index: 30000;
