@@ -4,9 +4,8 @@ html {
 }
 
 body {
-  background: radial-gradient(ellipse at bottom, var(--color-neutral-90) 0%, var(--color-neutral-95) 100%);
+  background-image: radial-gradient(ellipse at 50% 60%, var(--color-body-bg) 0%, var(--color-card-bg) 100%);
   background-attachment: fixed;
-  color: var(--color-neutral-10);
 }
 
 html,
