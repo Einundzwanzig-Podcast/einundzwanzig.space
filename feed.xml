@@ -22,7 +22,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 11:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 11:20:22 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright>
@@ -53,10 +53,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
 <ul>
  <li><a href="https://bitcoinmagazine.com/culture/patriots-quarterback-mac-jones-gifts-bitcoin-to-offensive-line">Patriots Quarterback 'Santa Mac' Jones Gifts Bitcoin to His Entire Offensive Line</a></li>
  <li><a href="https://cointelegraph.com/news/some-salvadorans-claim-funds-are-missing-from-their-chivo-wallets">Probleme Chivo Wallet?</a></li>
-  <li><a href="https://www.btc-echo.de/news/marathon-mining-unternehmen-kauft-asics-fuer-rekordsumme-131830/">Marathon Mining Pool</a></li>
-  <li><a href="https://cointelegraph.com/news/iran-halts-authorized-crypto-mining-to-save-energy-for-winter">Mining im Iran</a></li>
-  <li><a href="https://bitcointreasuries.net/">Bitcoin Treasuries</a>
-    <ul>
+ <li><a href="https://www.btc-echo.de/news/marathon-mining-unternehmen-kauft-asics-fuer-rekordsumme-131830/">Marathon Mining Pool</a></li>
+ <li><a href="https://cointelegraph.com/news/iran-halts-authorized-crypto-mining-to-save-energy-for-winter">Mining im Iran</a></li>
+  <li><a href="https://bitcointreasuries.net/">Bitcoin Treasuries</a></li>
       <li><a href="https://twitter.com/MarkusTurm/status/1396024086309048329?s=20">Frank Thelen will dezentrale CEOs</a></li>
       <li><a href="https://ir.marathondh.com/news-events/press-releases/detail/1244/marathon-signals-for-taproot">Markt regelt: Marathon signals Taproot und macht Schluss mit OFAC Compliance</a></li>
       <li><a href="https://www.thebword.org/c/the-b-word">B Word Conference</a></li>
@@ -66,8 +65,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <li><a href="https://einundzwanzig.space/podcast/verschiedenes-special-zur-adopting-bitcoin-konferenz-in-el-salvador/">Adopting Bitcoin Konferenz</a> in San Salvador</li>
       <li><a href="https://humanb-film.com/">Human B</a></li>
       <li><a href="https://shiftcrypto.ch/backups/">BitBox Backup</a></li>
-    </ul>
-  </li>
   <li>Outro: <a href="https://www.youtube.com/watch?v=cVVzy1J5PhM">Gigi in Wonderland - Bitcoin Adventsgedicht</a></li>
 </ul>
 <h2>Weitere Links</h2>
@@ -1987,8 +1984,8 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
 <ul>
  <li>Till’s Video: <a href="https://www.youtube.com/watch?v=Z4Xc1derdAs">Who is the inventor of Bitcoin? Who is Satoshi Nakamoto?</a></li>
  <li><a href="https://www.uxsequence.io/hunt-for-satoshi/">The Hunt for Satoshi</a></li>
-  <li><a href="https://www.mybloggertricks.com/2018/06/nick-szabo-is-nakamoto-satoshi.html">How Did We Hunt Down ‘Nick Szabo’ To Be ‘Nakamoto Satoshi’?</a></li>
-  <li><a href="https://chainbulletin.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin-heres-how-we-know/">Satoshi Nakamoto Lived in London While Working on Bitcoin. Here’s How We Know.</a></li>
+ <li><a href="https://www.mybloggertricks.com/2018/06/nick-szabo-is-nakamoto-satoshi.html">How Did We Hunt Down ‘Nick Szabo’ To Be ‘Nakamoto Satoshi’?</a></li>
+ <li><a href="https://chainbulletin.com/satoshi-nakamoto-lived-in-london-while-working-on-bitcoin-heres-how-we-know/">Satoshi Nakamoto Lived in London While Working on Bitcoin. Here’s How We Know.</a></li>
   <li><a href="https://news.bitcoin.com/the-many-facts-pointing-to-hal-finney-being-satoshi/">The Many Facts Pointing to Hal Finney Being Satoshi Nakamoto</a></li>
   <li><a href="https://cointelegraph.com/news/who-is-satoshi-the-hal-finney-dorian-nakamoto-connection">Who is Satoshi? - The Hal Finney-Dorian Nakamoto Connection</a></li>
   <li>Hal: <a href="https://bitcointalk.org/index.php?topic=155054.msg1643833#msg1643833">“I came by my bitcoins through luck, with little credit to me.”</a></li>
@@ -2046,7 +2043,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>5547</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1632899980766-0d3663c367d8a.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Patrick" address="025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="50"></podcast:valueRecipient>
