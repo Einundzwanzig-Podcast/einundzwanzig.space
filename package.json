@@ -17,6 +17,7 @@
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
+    "episodes": "npm run fetch && mkdir -p episodes && node tasks/fetch_episodes.js",
     "copy": "cp -r static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
     "init": "npm-run-all clean -p fetch copy build:data",
     "start": "NODE_ENV=development npm-run-all init -p start:*",
@@ -43,7 +44,7 @@
     "amplitudejs": "5.3.2"
   },
   "devDependencies": {
-    "autoprefixer": "10.4.0",
+    "autoprefixer": "10.4.1",
     "broken-link-checker": "0.7.8",
     "browser-sync": "2.27.7",
     "csso-cli": "3.0.0",
@@ -57,18 +58,18 @@
     "node-file-rev": "1.1.4",
     "npm-run-all": "4.1.5",
     "onchange": "7.1.0",
-    "postcss": "8.4.4",
+    "postcss": "8.4.5",
     "postcss-calc": "8.0.0",
     "postcss-cli": "9.1.0",
     "postcss-custom-media": "8.0.0",
     "postcss-extend": "1.0.5",
     "postcss-import": "14.0.2",
     "postcss-media-variables": "2.0.1",
-    "postcss-nesting": "10.0.2",
+    "postcss-nesting": "10.1.1",
     "pug": "3.0.2",
     "serve": "13.0.2",
     "start-server-and-test": "1.14.0",
     "sync-request": "6.1.0",
-    "xml-formatter": "2.5.1"
+    "xml-formatter": "2.6.0"
   }
 }
