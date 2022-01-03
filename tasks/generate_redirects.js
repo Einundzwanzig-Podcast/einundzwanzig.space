@@ -3,7 +3,9 @@ const { dirname, join, resolve } = require('path')
 
 const redirects = [
   ['/podcast/verschiedenes-special-zur-adoping-bitcoin-konferenz-in-el-salvador/', '/podcast/verschiedenes-special-zur-adopting-bitcoin-konferenz-in-el-salvador/'],
-  ['/podcast/der-wer-33-bitcoin-hat-mich-umgepolt/', '/podcast/der-weg-33-bitcoin-hat-mich-umgepolt/']
+  ['/podcast/der-wer-33-bitcoin-hat-mich-umgepolt/', '/podcast/der-weg-33-bitcoin-hat-mich-umgepolt/'],
+  ['/podcast/lesestunde-16-monetaeren-kolonialismus-mit-open-source-code-bekmpfen/', '/podcast/lesestunde-16-monetaeren-kolonialismus-mit-open-source-code-bekaempfen/'],
+  ['/podcast/news-93-die-legislatoren-muessen-verrckt-sein/', '/podcast/news-93-die-legislatoren-muessen-verrueckt-sein/']
 ]
 
 const dist = resolve(__dirname, '..', 'dist')
