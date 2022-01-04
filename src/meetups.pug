@@ -5,6 +5,9 @@ block vars
   - const description = 'Eine Liste von Bitcoin-Meetups und Einundzwanzig-Treffen im D/A/CH-Raum.'
   - const cardImage = '/img/card/meetups.png'
   - const filterOfficial = (list, official) => list.filter(meetup => meetup.name.startsWith('Einundzwanzig') === official)
+  - const filterUnmapped = (list) => list.filter(meetup => !meetup.top || !meetup.left)
+  - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
+  - const clss = m => m.top && m.left ? null : 'unmapped'
   - let j = 0
 
 block main
@@ -24,7 +27,7 @@ block main
         h2 Einundzwanzig Meetups
         ul.meetups
           each m in filterOfficial(meetups, true)
-            li.official(style=`top:${m.top}%;left:${m.left}%;`)
+            li.official(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Einundzwanzig ', '')
@@ -33,10 +36,18 @@ block main
         h2 Weitere Meetups
         ul.meetups
           each m in filterOfficial(meetups, false)
-            li(style=`top:${m.top}%;left:${m.left}%;`)
+            li(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Bitcoin ', '')
               - j++
 
         img(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
+
+      #unmapped
+        h2 Weitere Meetups
+        ul.meetups
+          each m in filterUnmapped(meetups)
+            li(class=clss(m) style=style(m))
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                = m.name.replace('Einundzwanzig ', '').replace('Bitcoin ', '')

@@ -38,6 +38,10 @@
         position: absolute;
         z-index: 1;
 
+        &.unmapped {
+          display: none;
+        }
+
         &.official {
           color: var(--color-accent);
         }
@@ -67,6 +71,15 @@
           animation-name: pulse;
         }
       }
+    }
+  }
+
+  & #unmapped {
+    @media (--up_to_L) {
+      display: none;
+    }
+    @media (--L_and_up) {
+      margin-top: var(--space-xxl);
     }
   }
 }
