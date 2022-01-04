@@ -50,4 +50,4 @@ block main
           each m in filterUnmapped(meetups)
             li(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
-                = m.name.replace('Einundzwanzig ', '').replace('Bitcoin ', '')
+                = m.name
