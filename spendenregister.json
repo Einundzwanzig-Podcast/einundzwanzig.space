@@ -33,6 +33,14 @@
     "id": "btc21"
   },
   {
+    "name": "Citadel",
+    "twitter": "runcitadel",
+    "spendenURL": "https://donate.runcitadel.space/",
+    "avatar": "/img/spenden/citadel.jpg",
+    "beschreibung": "Citadel ist eine größtenteils quelloffene Bitcoin-Node-Implementierung, die ursprünglich auf Umbrel basierte. Gegründet wurde das Projekt von Aaron Dewes, der ein ehemaliger freier Mitarbeiter von Umbrel ist. Das Projekt ist nicht kommerziell und wird ausschließlich durch Spenden finanziert.",
+    "id": "citadel"
+  },
+  {
     "name": "Fodé Diop",
     "github": "diop",
     "twitter": "diopfode",
