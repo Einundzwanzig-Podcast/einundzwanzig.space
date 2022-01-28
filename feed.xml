@@ -22,7 +22,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 21:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 13:36:43 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright>
@@ -43,6 +43,52 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title>
+        <![CDATA[Interview #70 - Federated Chaumian E-Cash]]>
+      </title>
+      <description>
+        <![CDATA[<p><strong>Interview</strong> - Blockzeit 720666 - mit <a href="https://twitter.com/EricSirion">Eric</a> und <a href="https://twitter.com/MarkusTurm">Markus</a> <br>
+<br>
+BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community: <a href="https://shiftcrypto.ch/einundzwanzig"><u>https://shiftcrypto.ch/einundzwanzig</u></a> - 10% für 10 BitBoxes mit code “einundzwanzig10”</p>
+<p>Stack Deine Sats mit Pocketbitcoin - <a href="https://pocketbitcoin.com/einundzwanzig"><u>https://pocketbitcoin.com/einundzwanzig</u></a><u><br>
+<br>
+Federated Chaumian E-Cash</u></p>
+<ul>
+ <li><a href="https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3">Blockstream Sponsors Federated E-Cash as a Bitcoin Scaling Technology</a></li>
+ <li><a href="https://www.youtube.com/watch?v=A_7-DsreUQg">Federated Chaumian Mints on Lightning</a></li>
+</ul>
+<p>Besuche unsere Website: <a href="https://einundzwanzig.space/"><u>https://einundzwanzig.space</u></a><u><br>
+</u>Diskutiere mit, in unserer Community: <a href="https://t.me/einundzwanzigpodcast"><u>https://t.me/einundzwanzigpodcast</u></a><u><br>
+</u>Verfolge die neusten Schlagzeilen im Newsfeed: <a href="https://t.me/einundzwanzigbitcoin"><u>https://t.me/einundzwanzigbitcoin</u> </a>Die Community-Tutorials auf YouTube: <a href="https://www.youtube.com/c/EinundzwanzigPodcast"><u>https://www.youtube.com/c/EinundzwanzigPodcast</u></a><u><br>
+</u>Lass uns einen Shoutout da: <a href="https://tallyco.in/s/zfxqtu/"><u>https://tallyco.in/s/zfxqtu/</u></a></p>
+]]>
+      </description>
+      <link>https://einundzwanzig.space/podcast/interview-70-federated-chaumian-e-cash</link>
+      <guid isPermaLink="false">6012e8c2-b577-412d-9f26-ed489e2cb3d5</guid>
+      <dc:creator>
+        <![CDATA[Einundzwanzig]]>
+      </dc:creator>
+      <pubDate>Fri, 28 Jan 2022 13:34:59 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/46677744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2F8eae76a5-bd98-cf30-2cb8-fe340291b743.mp3" length="62146350" type="audio/mpeg"></enclosure>
+      <itunes:summary>Interview - Blockzeit 720666 - mit Eric und Markus 
+BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community: https://shiftcrypto.ch/einundzwanzig - 10% für 10 BitBoxes mit code “einundzwanzig10”
+Stack Deine Sats mit Pocketbitcoin - https://pocketbitcoin.com/einundzwanzig
+Federated Chaumian E-Cash
+Blockstream Sponsors Federated E-Cash as a Bitcoin Scaling Technology
+Federated Chaumian Mints on Lightning
+Besuche unsere Website: https://einundzwanzig.space
+Diskutiere mit, in unserer Community: https://t.me/einundzwanzigpodcast
+Verfolge die neusten Schlagzeilen im Newsfeed: https://t.me/einundzwanzigbitcoin Die Community-Tutorials auf YouTube: https://www.youtube.com/c/EinundzwanzigPodcast
+Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>3884</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1643376886749-3e0e6cc56d01.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+    </item>
     <item>
       <title>
         <![CDATA[#118 - Son of a Beach]]>
