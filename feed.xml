@@ -22,7 +22,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 05 Feb 2022 08:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Feb 2022 08:46:54 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright>
@@ -243,7 +243,7 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
         <![CDATA[#118 - Son of a Beach]]>
       </title>
       <description>
-        <![CDATA[<p>Episode 118 - Blockzeit 720507 - von und mit Ole, Lasmiranda und Markus</p>
+        <![CDATA[<p><strong>Episode 118 - Blockzeit 720507</strong> - von und mit Ole, Lassmiranda und Markus</p>
 <p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community: <a href="https://shiftcrypto.ch/einundzwanzig"><u>https://shiftcrypto.ch/einundzwanzig</u></a> - 10% für 10 BitBoxes mit code “einundzwanzig10”</p>
 <p>Stack Deine Sats mit Pocketbitcoin - <a href="https://pocketbitcoin.com/einundzwanzig"><u>https://pocketbitcoin.com/einundzwanzig</u></a></p>
 <ul>
@@ -273,7 +273,7 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       </dc:creator>
       <pubDate>Wed, 26 Jan 2022 21:21:03 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/46728648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-26%2F0e1d3bbb-0100-ff84-bade-820cf61f346c.mp3" length="55466798" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 118 - Blockzeit 720507 - von und mit Ole, Lasmiranda und Markus
+      <itunes:summary>Episode 118 - Blockzeit 720507 - von und mit Ole, Lassmiranda und Markus
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community: https://shiftcrypto.ch/einundzwanzig - 10% für 10 BitBoxes mit code “einundzwanzig10”
 Stack Deine Sats mit Pocketbitcoin - https://pocketbitcoin.com/einundzwanzig
 IWF Fordert von El Salvador
@@ -297,8 +297,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="0320dbad5f3f70b095374fc609474f46393ba2c8b216dd7f69b325b482749ae538" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
