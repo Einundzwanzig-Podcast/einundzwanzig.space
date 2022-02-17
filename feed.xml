@@ -169,6 +169,11 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu/</itunes:summary>
       <itunes:duration>5046</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1644583492036-ef1efdf26fa4d.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="0355da86ca66c4b41d97b555a0eebb38c2a968b577ab920733aa91a0560751bac8" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title><![CDATA[#120 - Tschill den Tshit]]></title>
