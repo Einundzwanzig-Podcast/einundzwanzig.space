@@ -37,6 +37,7 @@
       & li {
         position: absolute;
         z-index: 1;
+        font-size: var(--font-size-xs);
 
         &.unmapped {
           display: none;
@@ -52,6 +53,8 @@
 
         & a {
           color: inherit;
+          display: inline-block;
+          margin-top: .2rem;
         }
 
         & .dot {
