@@ -3,8 +3,9 @@ extends /template.pug
 block vars
   - const title = 'Team'
   - const description = 'Einmal die Woche sitzen diese Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.'
-  - const core = team.slice(0, 5)
-  - const crew = team.slice(5)
+  - const members = Object.values(team)
+  - const core = members.slice(0, 5)
+  - const crew = members.slice(5)
 
 block main
   #team.wrap

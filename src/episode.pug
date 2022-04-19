@@ -32,7 +32,7 @@ block main
           ul.partcipants
             for participant in episode.participants
               li
-                if participants[participant]
+                if team[participant.toLowerCase()]
                   a(href=`/team/#${participant}`)= participant
                 else
                   = participant
