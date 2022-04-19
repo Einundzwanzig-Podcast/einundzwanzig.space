@@ -164,7 +164,6 @@ const parseEpisode = e => {
   const validation = XMLValidator.validate(outputXML)
   if (validation) {
     write('dist/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
-    write('static/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
   } else {
     console.error(validation.err)
   }
