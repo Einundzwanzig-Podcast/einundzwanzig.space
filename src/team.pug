@@ -3,6 +3,8 @@ extends /template.pug
 block vars
   - const title = 'Team'
   - const description = 'Einmal die Woche sitzen diese Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.'
+  - const core = team.slice(0, 5)
+  - const crew = team.slice(5)
 
 block main
   #team.wrap
@@ -18,7 +20,7 @@ block main
 
       h2 Core
       ul.members(data-shuffle)
-        each m in shuffle(team)
+        each m in shuffle(core)
           +member(m)
     section
       h2 Crew
