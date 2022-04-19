@@ -42,7 +42,7 @@ block main
                 = m.name.replace('Bitcoin ', '')
               - j++
 
-        img(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
+        img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
 
       #unmapped
         h2 Weitere Meetups
@@ -51,3 +51,11 @@ block main
             li(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 = m.name
+
+  script.
+    document.getElementById('dach').onclick = e => {
+      console.log({
+        top: Math.round(e.offsetY / e.target.height * 100) - 2,
+        left: Math.round(e.offsetX / e.target.width * 100) + 1
+      })
+    }
