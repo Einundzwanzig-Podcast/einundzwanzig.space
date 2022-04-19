@@ -43,6 +43,29 @@
   & .player {
     margin-bottom: var(--space-xxl);
   }
+
+  & .partcipants {
+    margin: 0;
+    list-style: none;
+  }
+
+  & .partcipants li + li {
+    margin-top: var(--space-m);
+  }
+
+  & .partcipants li,
+  & .partcipants li a {
+    display: flex;
+    align-items: center;
+  }
+
+  & .avatar {
+    display: block;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    margin-right: var(--space-m);
+  }
 }
 
 .episodes {

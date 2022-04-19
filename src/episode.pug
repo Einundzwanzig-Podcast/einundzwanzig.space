@@ -31,8 +31,12 @@ block main
           h2 Teilnehmer
           ul.partcipants
             for participant in episode.participants
+              - const member = team[participant.toLowerCase()]
               li
-                if team[participant.toLowerCase()]
-                  a(href=`/team/#${participant}`)= participant
+                if member
+                  a(href=`/team/#${member.name}`)
+                    img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+                    = member.name
                 else
+                  img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
                   = participant

@@ -35,7 +35,7 @@ mixin member(m)
 mixin spende(d, trunc = false)
   .spende(id=d.id)&attributes(attributes)
     .inner
-      img.avatar(src=(d.avatar || assetPath("/img/avatar.svg")) alt=d.name)
+      img.avatar(src=assetPath(d.avatar || "/img/avatar.svg") alt=d.name)
       h3.name= d.name
       .center
         if d.beschreibung
