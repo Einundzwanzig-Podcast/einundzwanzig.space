@@ -4,10 +4,8 @@ const { replacements, slugify, stripHTML  } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const nodes = require('../content/nodes.json')
 const request = require('sync-request')
-const parser = require('fast-xml-parser')
-const JSON2XMLParser = require('fast-xml-parser').j2xParser
+const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
 const xmlFormat = require('xml-formatter')
-const he = require('he')
 
 const debug = process.env.CI
 const dir = resolve(__dirname, '..')
@@ -16,37 +14,28 @@ const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify
 
 const commonOpts = {
   attributeNamePrefix: '',
-  attrNodeName: '__attr',
-  textNodeName: '#text',
+  attributesGroupName: '__attr',
   ignoreAttributes: false,
-  cdataTagName: '__cdata',
-  cdataPositionChar: '\\c'
+  cdataPropName: '__cdata'
 }
 
 const xml2jsonOpts = {
   ...commonOpts,
-  ignoreNameSpace: false,
-  parseNodeValue: true,
+  parseTagValue: true,
   parseAttributeValue: false,
   trimValues: true,
   parseTrueNumberOnly: false,
-  arrayMode: false,
-  numParseOptions: {
-    hex: true,
-    leadingZeros: true,
-  },
-  tagValueProcessor: val => he.decode(val),
-  attrValueProcessor: val => he.decode(val, { isAttributeValue: true })
+  arrayMode: false
 }
 
-var json2xmlOpts = {
+const json2xmlOpts = {
   ...commonOpts,
-  format: false,
   indentBy: '  ',
-  supressEmptyNode: false,
-  tagValueProcessor: a => a,
-  attrValueProcessor: a => he.encode(a, { isAttributeValue: true, useNamedReferences: true })
-};
+  processEntities: false
+}
+
+const parser = new XMLParser(xml2jsonOpts, true)
+const builder = new XMLBuilder(json2xmlOpts)
 
 const parseEpisode = e => {
   const guid = e.guid['#text']
@@ -86,7 +75,7 @@ const parseEpisode = e => {
       <podcast:valueRecipient type="node" split="20" name="Daniel" address="${nodes.daniel}" />
     </podcast:value>`)
 
-  const feed = parser.parse(xml, xml2jsonOpts, true)
+  const feed = parser.parse(xml)
   const episodes = []
   const _noParticipants = [], _noNode = []
 
@@ -136,12 +125,17 @@ const parseEpisode = e => {
 
   writeJSON('feed', feed)
 
-  const JSON2XML = new JSON2XMLParser(json2xmlOpts)
-  const outputXML = JSON2XML.parse(feed)
+  const outputXML = builder.build(feed)
 
   writeJSON('episodes', episodes)
-  write('dist/feed.xml', xmlFormat(outputXML, { indentation: '  ', collapseContent: true }))
-  write('static/feed.xml', xmlFormat(outputXML, { indentation: '  ', collapseContent: true }))
+
+  const validation = XMLValidator.validate(outputXML)
+  if (validation) {
+    write('dist/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
+    write('static/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
+  } else {
+    console.error(validation.err)
+  }
 
   if (_noParticipants.length) {
     console.log('Keine Teilnehmerliste')
