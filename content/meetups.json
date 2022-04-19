@@ -51,7 +51,7 @@
   {
     "name": "Einundzwanzig Berlin",
     "url": "https://t.me/joinchat/vUYgAbXeCnIzMWRi",
-    "top": 27,
+    "top": 26,
     "left": 65,
     "country": "DE",
     "state": ["Berlin"]
@@ -225,6 +225,14 @@
     "state": ["Saarland"]
   },
   {
+    "name": "Einundzwanzig Kaiserslautern",
+    "url": "https://t.me/einundzwanzigKL",
+    "top": 59,
+    "left": 19,
+    "country": "DE",
+    "state": ["Rheinland-Pfalz"]
+  },
+  {
     "name": "Einundzwanzig Franken",
     "url": "https://t.me/joinchat/08upA6MrVKpkNWE6",
     "top": 59,
@@ -237,6 +245,22 @@
     "url": "https://t.me/+kHpDQ9MPBt03NmNi",
     "top": 60,
     "left": 27,
+    "country": "DE",
+    "state": ["Baden-Württemberg"]
+  },
+  {
+    "name": "Bitcoin Karlsruhe",
+    "url": "https://www.meetup.com/BitcoinKarlsruhe/",
+    "top": 63,
+    "left": 25,
+    "country": "DE",
+    "state": ["Baden-Württemberg"]
+  },
+  {
+    "name": "Einundzwanzig Karlsruhe",
+    "url": "https://t.me/+QmHNuOTtz_lmOTli",
+    "top": 64,
+    "left": 25,
     "country": "DE",
     "state": ["Baden-Württemberg"]
   },
@@ -417,6 +441,14 @@
     "state": ["Liechtenstein"]
   },
   {
+    "name": "Bitcoin Südtirol",
+    "url": "https://t.me/+oY31oocjZ0ViZGFk",
+    "top": 88,
+    "left": 51,
+    "country": "IT",
+    "state": ["Südtirol"]
+  },
+  {
     "name": "Einundzwanzig Gran Canaria",
     "url": "https://t.me/+ML6iWXSsgTdiNGI6",
     "country": "ES",
@@ -427,29 +459,5 @@
     "url": "https://t.me/YirmibirBitcoin",
     "country": "TR",
     "state": ["Istanbul"]
-  },
-  {
-    "name": "Einundzwanzig Kaiserslautern",
-    "url": "https://t.me/einundzwanzigKL",
-    "top": 59,
-    "left": 19,
-    "country": "DE",
-    "state": ["Rheinland-Pfalz"]
-  },
-  {
-    "name": "Einundzwanzig Karlsruhe",
-    "url": "https://t.me/+QmHNuOTtz_lmOTli",
-    "top": 63,
-    "left": 25,
-    "country": "DE",
-    "state": ["Baden-Württemberg"]
-  },
-  {
-    "name": "Bitcoin Südtirol",
-    "url": "https://t.me/+oY31oocjZ0ViZGFk",
-    "top": 88,
-    "left": 51,
-    "country": "IT",
-    "state": ["Südtirol"]
-   }
+  }
 ]
