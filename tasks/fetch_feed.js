@@ -2,6 +2,7 @@ const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
 const { replacements, slugify, stripHTML  } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
+const team = require('../content/team.json')
 const nodes = require('../content/nodes.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
@@ -91,7 +92,16 @@ const parseEpisode = e => {
       'itunes:summary': episode.description // please the validator, Anchor's itunes:summary contains HTML
     }
 
-    const participants = episode.participants.reduce((result, name) => {
+    if (episode.number) {
+      updated['podcast:episode'] = {
+        __attr: {
+          display: `${episode.categoryName} #${episode.number}`,
+        },
+        '#text': episode.number,
+      }
+    }
+
+    const value = episode.participants.reduce((result, name) => {
       const id = name.toLowerCase()
       const address = nodes[id]
       if (address) {
@@ -102,22 +112,44 @@ const parseEpisode = e => {
       return result
     }, [])
 
-    if (participants.length) {
+    if (value.length) {
       updated['podcast:value'] = {
         __attr: {
           type: 'lightning',
-          method: 'keysend'
+          method: 'keysend',
         },
-        'podcast:valueRecipient': participants.map(p => ({
+        'podcast:valueRecipient': value.map(p => ({
           __attr: {
             ...p,
             type: 'node',
-            split: Math.round(100 / participants.length)
-          }
-        }))
+            split: Math.round(100 / value.length),
+          },
+        })),
       }
     } else if (debug) {
       _noParticipants.push({ episode: episode.slug })
+    }
+
+    const people = episode.participants.reduce((result, name) => {
+      const id = name.toLowerCase()
+      const person = team[id]
+      if (person) {
+        result.push(person)
+      }
+      return result
+    }, [])
+
+    if (people.length) {
+      updated['podcast:person'] = []
+
+      people.forEach(p => {
+        updated['podcast:person'].push({
+          __attr: {
+            href: `https://twitter.com/${p.twitter}`,
+          },
+          '#text': p.name
+        })
+      })
     }
 
     return updated
