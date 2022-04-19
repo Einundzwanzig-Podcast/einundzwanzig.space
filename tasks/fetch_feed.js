@@ -141,6 +141,7 @@ const parseEpisode = e => {
 
   writeJSON('episodes', episodes)
   write('dist/feed.xml', xmlFormat(outputXML, { indentation: '  ', collapseContent: true }))
+  write('static/feed.xml', xmlFormat(outputXML, { indentation: '  ', collapseContent: true }))
 
   if (_noParticipants.length) {
     console.log('Keine Teilnehmerliste')
