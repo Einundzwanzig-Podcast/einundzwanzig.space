@@ -114,8 +114,21 @@ ul {
   margin-bottom: var(--space-l);
 }
 
-ul ul {
-  margin-bottom: 0;
+ol {
+  margin-left: 1.5rem;
+  margin-bottom: var(--space-l);
+}
+
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin-top: var(--space-m);
+  margin-bottom: var(--space-m);
+}
+
+li + li {
+  margin: var(--space-xs) 0;
 }
 
 table {
@@ -136,6 +149,7 @@ table {
 h1,
 p,
 ul,
+ol,
 table {
   & + h2 {
     margin-top: var(--space-xl);
