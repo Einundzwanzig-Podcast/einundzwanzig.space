@@ -11,8 +11,22 @@ block main
       h1= title
       p= description
 
-      :markdown-it(html linkify typographer)
-        - 18. Juni 2022: [Satoshis Beach](/events/satoshis-beach-2022)
-        - 27.-29. Mai 2022: [Bitcoin im Ländle](/events/bitcoin-im-laendle-2022)
-        - 18.-20. Februar 2022: [Satoshis Bleibe](/events/satoshis-bleibe-2022)
-        - 06.-08. August 2021: [Bitcoin Zitadelle](https://bitcoin-zitadelle.de/)
+      ul
+        li
+          = "18. Juni 2022: "
+          a(href="/events/satoshis-beach-2022") Satoshis Beach
+        li
+          = "11. Juni 2022: "
+          a(href="/events/sommerfest-hodler-heide-2022") Sommerfest in der Hodler Heide
+        li
+          = "27.-29. Mai 2022: "
+          a(href="/events/bitcoin-im-laendle-2022") Bitcoin im Ländle
+
+      h2 Vergangene Events
+      ul
+        li
+          = "18.-20. Februar 2022: "
+          a(href="/events/satoshis-bleibe-2022") Satoshis Bleibe
+        li
+          = "06.-08. August 2021: "
+          a(href="https://bitcoin-zitadelle.de/" rel="nofollow noopener" target="_blank") Bitcoin Zitadelle

@@ -1,0 +1,45 @@
+extends /template.pug
+
+block vars
+  - const title = 'Sommerfest in der Hodler Heide 2022'
+  - const description = 'Samstag, 11.06.2022 — Der Schafstall, Handeloh'
+  - const cardImage = 'https://img.youtube.com/vi/F71BT5es1aM/hqdefault.jpg'
+
+block main
+  #events.wrap
+    section
+      h1= title
+
+      :markdown-it(html linkify typographer)
+        ## Datum und Location
+
+        **Samstag, 11.06.2022, ab 12:00 Uhr**
+
+        [Der Schafstall](https://der-schafstall.de/)
+        <br>
+        Am Büsenbach 35
+        <br>
+        21256 Handeloh
+
+        ## Das Einundzwanzig Norddeutschland Meetup
+
+        Wir möchten Euch herzlich zu einem Sommerfest in der schönen Lüneburger Heide einladen.
+        Bei diesem Fest wird es viele Gelegenheiten geben sich zum Thema Bitcoin zu bilden, Bitcoin anzufassen und mit Bitcoin zu bezahlen.
+
+        Alles zwanglos und mit viel Spaß. Dazu wird natürlich die leckere Verpflegung von unserem Gastgeber "[Der Schafstall](https://der-schafstall.de/)".
+
+        Es wird ein Fest für die ganze Familie und mit viel Spaß, aber seht selbst.
+
+        <a href="https://www.youtube.com/watch?v=F71BT5es1aM" data-id="F71BT5es1aM" class="ytEmbed" style="background-image:url(https://img.youtube.com/vi/F71BT5es1aM/hqdefault.jpg);">
+        <iframe title="YouTube" data-src="https://www.youtube-nocookie.com/embed/F71BT5es1aM?&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;color=white&amp;rel=0" allow="autoplay;encrypted-media;picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+        </a>
+
+        ## Anmeldung
+
+        Es gibt keine Tickets, der Eintritt ist frei und jeder ist willkommen.
+
+        Zum Abschätzen der Teilnehmeranzahl benötigen wir allerdings eure Hilfe:
+        Lasst uns auf der [Anmeldung](https://nuudel.digitalcourage.de/6sLVDIciMEVA8Wfa) einfach kurz wissen, mit wie vielen Leuten ihr am Sommerfest teilnehmt.
+
+        Besucht uns auch gerne in der Einundzwanzig Meetup Norddeutschland [Telegram-Gruppe](http://norden.einundzwanzig.space)
+        oder folgt uns auf [Twitter](https://twitter.com/EinundzwanzigN).

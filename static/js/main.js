@@ -95,4 +95,16 @@ document.addEventListener("DOMContentLoaded", () => {
       link.parentNode.parentNode.classList.add('expanded')
     })
   })
+
+  // Video
+  document.querySelectorAll('.ytEmbed').forEach(video => {
+    video.addEventListener('click', e => {
+      e.preventDefault()
+      const lazyAttr = 'data-src'
+      const iframe = e.target.querySelector(`iframe[${lazyAttr}]`)
+      if (iframe) {
+        const src = iframe.setAttribute('src', iframe.getAttribute(lazyAttr))
+      }
+    })
+  })
 })
