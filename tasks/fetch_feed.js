@@ -1,86 +1,179 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify } = require('../helpers')
+const { replacements, slugify, stripHTML  } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
+const team = require('../content/team.json')
+const nodes = require('../content/nodes.json')
 const request = require('sync-request')
-const Parser = require('rss-parser')
+const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
+const xmlFormat = require('xml-formatter')
 
+const debug = process.env.CI
 const dir = resolve(__dirname, '..')
 const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
 
-const parseBaseInfoFromMatch = m => {
-  let [, categoryName = 'News', number, titlePlain] = m ? m : [,,,]
-  if (!number) categoryName = 'Verschiedenes'
-  if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
-  return { categoryName, number, titlePlain }
+const commonOpts = {
+  attributeNamePrefix: '',
+  attributesGroupName: '__attr',
+  ignoreAttributes: false,
+  cdataPropName: '__cdata'
 }
 
-const parseInfo = e => {
-  const titleMatch = e.title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/) || [,,,e.title]
-  const { categoryName, number, titlePlain } = parseBaseInfoFromMatch(titleMatch)
-  const blockMatch = e.contentSnippet.match(/Blockzeit\s(\d+)/)
+const xml2jsonOpts = {
+  ...commonOpts,
+  parseTagValue: true,
+  parseAttributeValue: false,
+  trimValues: true,
+  parseTrueNumberOnly: false,
+  arrayMode: false
+}
+
+const json2xmlOpts = {
+  ...commonOpts,
+  indentBy: '  ',
+  processEntities: false
+}
+
+const parser = new XMLParser(xml2jsonOpts, true)
+const builder = new XMLBuilder(json2xmlOpts)
+
+const parseEpisode = e => {
+  const guid = e.guid['#text']
+  const title = e.title.__cdata.trim()
+  const content = replacements(e.description.__cdata).trim()
+  const description = stripHTML(content)
+  let [, categoryName = 'News', number, titlePlain] = title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/) || [, , , title]
+  if (!number) categoryName = 'Verschiedenes'
+  if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
+  const firstLine = description.split('\n')[0]
+  const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
   const category = slugify(categoryName)
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
-  return { block, category, categoryName, number, titlePlain, slug }
+  const date = new Date(e.pubDate)
+  const img = e['itunes:image'].__attr.href
+  const image = ['interview', 'lesestunde', 'verschiedenes'].includes(category) ? img : `/img/cover/${category}.png`
+  const duration = e['itunes:duration']
+  const enclosure = e.enclosure.__attr
+  const [, participantsString] = firstLine.match(/ - (?:(?:von und )?mit )([^.]*)/i) || []
+  const participants = participantsString ? participantsString.replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/ig, '%').trim().split('%') : []
+  return { block, category, categoryName, number, title, titlePlain, description, content, duration, slug, image, guid, date, enclosure, participants }
 }
 
 ;(async () => {
   // Load and adapt feed
-  const xml = request('GET', masterFeedUrl).getBody('utf8')
-    .replace(/<itunes:email>(.*?)<\/itunes:email>/g, '<itunes:email>einundzwanzigpodcast@pm.me</itunes:email>')
+  const anchorXML = request('GET', masterFeedUrl).getBody('utf8')
+  const xml = anchorXML
     .replace(`"${masterFeedUrl}"`, `"${publicFeedUrl}"`)
+    .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0"')
+    .replace('<channel>', `<channel>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient type="node" split="20" name="Dennis" address="${nodes.dennis}" />
+      <podcast:valueRecipient type="node" split="20" name="Fab" address="${nodes.fab}" />
+      <podcast:valueRecipient type="node" split="20" name="Gigi" address="${nodes.gigi}" />
+      <podcast:valueRecipient type="node" split="20" name="Markus" address="${nodes.markus}" />
+      <podcast:valueRecipient type="node" split="20" name="Daniel" address="${nodes.daniel}" />
+    </podcast:value>`)
 
-  // Parse feed
-  const parser = new Parser()
-  const feed = await parser.parseString(xml)
+  const feed = parser.parse(xml)
+  const episodes = []
+  const _noParticipants = [], _noNode = []
 
-  // Original Anchor-Feed
-  write('dist/feed.xml', xml)
+  delete feed.rss.channel.author // remove invalid tag
+
+  feed.rss.channel.item = feed.rss.channel.item.map(item => {
+    const episode = parseEpisode(item)
+    episodes.push(episode)
+
+    const updated = {
+      ...item,
+      link: `https://einundzwanzig.space/podcast/${episode.slug}`, // replace Anchor link
+      'itunes:summary': episode.description // please the validator, Anchor's itunes:summary contains HTML
+    }
+
+    if (episode.number) {
+      updated['podcast:episode'] = {
+        __attr: {
+          display: `${episode.categoryName} #${episode.number}`,
+        },
+        '#text': episode.number,
+      }
+    }
+
+    const value = episode.participants.reduce((result, name) => {
+      const id = name.toLowerCase()
+      const address = nodes[id]
+      if (address) {
+        result.push({ name, address })
+      } else if (debug) {
+        _noNode.push({ episode: episode.slug, name })
+      }
+      return result
+    }, [])
+
+    if (value.length) {
+      updated['podcast:value'] = {
+        __attr: {
+          type: 'lightning',
+          method: 'keysend',
+        },
+        'podcast:valueRecipient': value.map(p => ({
+          __attr: {
+            ...p,
+            type: 'node',
+            split: Math.round(100 / value.length),
+          },
+        })),
+      }
+    } else if (debug) {
+      _noParticipants.push({ episode: episode.slug })
+    }
+
+    const people = episode.participants.reduce((result, name) => {
+      const id = name.toLowerCase()
+      const person = team[id]
+      if (person) {
+        result.push(person)
+      }
+      return result
+    }, [])
+
+    if (people.length) {
+      updated['podcast:person'] = []
+
+      people.forEach(p => {
+        updated['podcast:person'].push({
+          __attr: {
+            href: `https://twitter.com/${p.twitter}`,
+          },
+          '#text': p.name
+        })
+      })
+    }
+
+    return updated
+  })
+
   writeJSON('feed', feed)
 
-  // All episodes
-  const episodes = feed.items.map(e => {
-    const info = parseInfo(e)
-    const image = ['interview', 'lesestunde', 'verschiedenes'].includes(info.category) ? e.itunes.image : `/img/cover/${info.category}.png`
-    return {
-      title: e.title.trim(),
-      content: replacements(e.content.trim()),
-      contentSnippet: replacements(e.contentSnippet.trim()),
-      anchor: e.link,
-      date: e.isoDate,
-      enclosure: e.enclosure,
-      duration: e.itunes.duration,
-      season: e.itunes.season,
-      episode: e.itunes.episode,
-      guid: e.guid,
-      image,
-      originalImage: e.itunes.image,
-      ...info
-    }
-  })
+  const outputXML = builder.build(feed)
 
   writeJSON('episodes', episodes)
 
-  // Original Anchor-Feed
-  const updated = xml
-    .replace(/<link>(https:\/\/anchor\.fm\/einundzwanzig\/episodes\/(.*?))<\/link>/gi, (match, url, anchorSlug) => {
-      const slugMatch = anchorSlug.match(/^(?:(.*)-)?([0-9]+?)---/)
-      const { categoryName, number } = parseBaseInfoFromMatch(slugMatch)
-      const episode = slugMatch ? episodes.find(e => e.categoryName == categoryName && e.number === number) : null
-      const link = episode ? `https://einundzwanzig.space/podcast/${episode.slug}` : url
-      return `<link>${link}</link>`
-    })
-    .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"')
-    .replace('<channel>', `<channel>
-	<podcast:value type="lightning" method="keysend" suggested="0.00000005000">
-			<podcast:valueRecipient name="Dennis (Podcaster)" type="node" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" split="19" />
-			<podcast:valueRecipient name="Fab (Podcaster)" type="node" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" split="19" />
-			<podcast:valueRecipient name="Gigi (Podcaster)" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="19" />
-			<podcast:valueRecipient name="Markus (Podcaster)" type="node" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" split="19" />
-      <podcast:valueRecipient name="Daniel (Podcaster)" type="node" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" split="19" />
-			<podcast:valueRecipient name="Podcastindex.org (Donation)" type="node" address="03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a" split="5" />
-	</podcast:value>`)
-  write('dist/feed.xml', updated)
+  const validation = XMLValidator.validate(outputXML)
+  if (validation) {
+    write('dist/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
+  } else {
+    console.error(validation.err)
+  }
+
+  if (_noParticipants.length) {
+    console.log('Keine Teilnehmerliste')
+    console.table(_noParticipants)
+  }
+  if (_noNode.length) {
+    console.log('Teilnehmer ohne Node')
+    console.table(_noNode)
+  }
 })()

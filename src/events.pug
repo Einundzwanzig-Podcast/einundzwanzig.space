@@ -1,0 +1,38 @@
+extends /template.pug
+
+block vars
+  - const title = 'Bitcoin-Events'
+  - const description = 'Eine Liste von Bitcoin-Events und Einundzwanzig-Konferenzen im D/A/CH-Raum.'
+  - const cardImage = '/img/card/meetups.png'
+
+block main
+  #events.wrap
+    section
+      h1= title
+      p= description
+
+      ul
+        li
+          = "15.-17. September 2022: "
+          a(href="https://store.bconf.de/c/pYVCQu5PA/" rel="nofollow noopener" target="_blank") BTC22, Innsbruck (AT)
+        li
+          = "11.-14. August 2022: "
+          a(href="https://bitcoin-zitadelle.ch/" rel="nofollow noopener" target="_blank") Bitcoin Zitadelle, Münsingen (CH)
+        li
+          = "18. Juni 2022: "
+          a(href="/events/satoshis-beach-2022") Satoshis Beach, Essen (DE)
+        li
+          = "11. Juni 2022: "
+          a(href="/events/sommerfest-hodler-heide-2022") Sommerfest Hodler Heide, Lüneburger Heide (DE)
+        li
+          = "27.-29. Mai 2022: "
+          a(href="/events/bitcoin-im-laendle-2022") Bitcoin im Ländle, Stuttgart (DE)
+
+      h2 Vergangene Events
+      ul
+        li
+          = "18.-20. Februar 2022: "
+          a(href="/events/satoshis-bleibe-2022") Satoshis Bleibe, Bernkastel-Wehlen (DE)
+        li
+          = "06.-08. August 2021: "
+          a(href="https://bitcoin-zitadelle.de/" rel="nofollow noopener" target="_blank") Bitcoin Zitadelle, Burgscheidungen (DE)

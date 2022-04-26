@@ -2,8 +2,17 @@ mixin sprite(id)
   svg(role="img" title=id)&attributes(attributes)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
+mixin categories(current)
+  ul.categories
+    li: a(href="/podcast/" class=(!current && 'current')) Alles
+    li: a(href="/podcast/news/" class=(current === 'News' && 'current')) News
+    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')) Interviews
+    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')) Lesestunde
+    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')) Der Weg
+    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')) Verschiedenes
+
 mixin member(m)
-  li.member
+  li.member(id=m.name)
     img(src=assetPath(m.image) alt=m.name loading="lazy")
     header
       h2=m.name
@@ -22,6 +31,38 @@ mixin member(m)
             +sprite("url")
     if m.text
       !=markdown(m.text)
+
+mixin spende(d, trunc = false)
+  .spende(id=d.id)&attributes(attributes)
+    .inner
+      img.avatar(src=assetPath(d.avatar || "/img/avatar.svg") alt=d.name)
+      h3.name= d.name
+      .center
+        if d.beschreibung
+          .description
+            - const [head, tail] = trunc ? truncate(d.beschreibung, 21) : [d.beschreibung]
+            - const description = tail ? `${head} <a href="#${d.id}" class="showMore">[…&nbsp;mehr]</a> <span class="more">${tail}</span>` : head
+            != markdown(description)
+        if d.tags
+          .tags
+            each tag in d.tags
+              span.tag= tag
+      if d.twitter || d.github || d.gitlab
+        .social
+          if d.twitter
+            a.twitter(href=`https://twitter.com/${d.twitter}` target="_blank" rel="nofollow noopener"): +sprite('twitter', 'Twitter')
+          if d.mastodon
+            a.mastodon(href=d.mastodon target="_blank" rel="nofollow noopener"): +sprite('mastodon', 'Mastodon')
+          if d.gitlab
+            a.gitlab(href=`https://gitlab.com/${d.gitlab}` target="_blank" rel="nofollow noopener"): +sprite('gitlab', 'GitLab')
+          if d.github
+            a.github(href=`https://github.com/${d.github}` target="_blank" rel="nofollow noopener"): +sprite('github', 'GitHub')
+      .foot
+        if d.spendenURL
+          a.button(href=d.spendenURL target="_blank" rel="nofollow noopener")
+            = `Spende an ${d.name}`
+        else if d.info
+          p.info= d.info
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)

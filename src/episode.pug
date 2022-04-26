@@ -2,7 +2,7 @@ extends /template.pug
 
 block vars
   - const title = episode.title
-  - const description = episode.contentSnippet
+  - const description = episode.description
   - const cardImage = episode.image
   - const cardSize = episode.image.match('cloudfront') ? 3000 : 1400
 
@@ -26,3 +26,17 @@ block main
 
       .content
         !=episode.content
+
+        if episode.participants.length
+          h2 Teilnehmer
+          ul.partcipants
+            for participant in episode.participants
+              - const member = team[participant.toLowerCase()]
+              li
+                if member
+                  a(href=`/team/#${member.name}`)
+                    img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+                    = member.name
+                else
+                  img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
+                  = participant

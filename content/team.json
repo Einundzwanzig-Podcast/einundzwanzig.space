@@ -1,5 +1,5 @@
-[
-  {
+{
+  "markus": {
     "name": "Markus",
     "twitter": "MarkusTurm",
     "mastodon": "https://bitcoinhackers.org/@markusturm",
@@ -7,7 +7,7 @@
     "text": "Bester Mann. Toxic ☣️ aber fair. Sorgt für die Bitcoin Mass-Adoption \"one [Currywurstbude](http://www.curry-alm.info/) at a time\" 🌭",
     "image": "/img/team/markus.jpg"
   },
-  {
+  "gigi": {
     "name": "Gigi",
     "twitter": "dergigi",
     "mastodon": "https://bitcoinhackers.org/@dergigi",
@@ -16,7 +16,7 @@
     "text": "Der Gigi leiht dir seine Taschenlampe 🔦 solltest du dich auf deinem Weg im [Kaninchenbau](https://21lessons.com/) mal verlaufen 🕳🐇",
     "image": "/img/team/gigi.jpg"
   },
-  {
+  "fab": {
     "name": "Fab",
     "twitter": "fabthefoxx",
     "mastodon": "https://bitcoinhackers.org/@fabthefox",
@@ -24,19 +24,83 @@
     "text": "The Fox 🦊 verbreitet mit seinem Verlag Aprycot das Bitcoin-Wissen und ist der Wirt an der [Media-Theke](https://aprycot.media/thek/) 📙",
     "image": "/img/team/fab.jpg"
   },
-  {
+  "dennis": {
     "name": "Dennis",
     "twitter": "_d11n_",
     "mastodon": "https://bitcoinhackers.org/@d11n",
     "github": "dennisreimann",
     "url": "https://d11n.net",
     "text": "Mag Open Source und [BTCPay Server](https://btcpayserver.org/) 💚 und schreibt lieber Software als Texte über sich selbst 👨🏻‍💻",
-    "image": "/img/team/dennis.png"
+    "image": "/img/team/dennis.jpg"
   },
-  {
+  "daniel": {
     "name": "Daniel",
     "twitter": "danielwingen",
     "text": "Kennt den [Value Of Bitcoin](https://valueofbitcoin.com/) 🧊 und ist daher nicht nur Sound Money Maximalist, sondern auch Fiat Minimalist 💸",
     "image": "/img/team/daniel.jpg"
+  },
+  "patrick": {
+    "name": "Patrick",
+    "twitter": "PatrickZGW",
+    "github": "PatrickZGW",
+    "text": "Gewinnt als Argumentations-Bazooka jedes Diskussionduell und ist Gastgeber des [Zeit, Geld & Wirtschaft](https://wavve.link/zgw-podcast) Podcasts ⌚₿\uD83D\uDCC8",
+    "image": "/img/team/patrick.jpg"
+  },
+  "egge": {
+    "name": "Egge",
+    "twitter": "egge24_",
+    "github": "Egge7",
+    "text": "Die [Mempool-Wetterfee](https://t.me/BlockReportDisc) der die Nodes vertrauen 🌈",
+    "image": "/img/team/egge.jpg"
+  },
+  "joko": {
+    "name": "Joko",
+    "twitter": "jokoono",
+    "url": "https://btc21.de",
+    "text": "Der Tulpenhändler deines Vertrauens 🌷 hat auch immer die neueste [BTC21](https://btc21.de) Ausgabe auf dem Tresen 📰",
+    "image": "/img/team/joko.png"
+  },
+  "kemal": {
+    "name": "Kemal",
+    "twitter": "_pretyflaco",
+    "url": "https://ideasarelikeflames.com/",
+    "text": "Verbindet Bitcoin und [Bikini](https://bitcoin-turm.de/bturm26/) 👙 und berichtet als Türkei-Korrespondent über Geld in der ganzen Welt 🇹🇷",
+    "image": "/img/team/kemal.jpg"
+  },
+  "lassmiranda": {
+    "name": "Lassmiranda",
+    "twitter": "Lassmiranda21",
+    "text": "Dennsiewillja! Rundum coole Socke 🧦 Wenn er nicht grade bei [Moe](https://www.youtube.com/watch?v=PGvwVo3rR8U) anruft, managed er unseren [YouTube-Kanal](https://www.youtube.com/c/EinundzwanzigPodcast) 📺",
+    "image": "/img/team/lassmiranda.jpg"
+  },
+  "jeff": {
+    "name": "Jeff",
+    "twitter": "fulmolightning",
+    "url": "https://fulmo.org/",
+    "text": "[Potzblitz!](https://www.youtube.com/c/FulmoLightning/videos) ⚡️ Ein fulmonantes Organisationstalent und Lightning Network-Urgestein 🦸‍♂️",
+    "image": "/img/team/jeff.jpg"
+  },
+  "moritz": {
+    "name": "Moritz",
+    "twitter": "MWietersheim",
+    "github": "cryptoadvance",
+    "url": "https://specter.solutions",
+    "text": "Ein Gespenst geht um die Welt 👻 und Moritz trägt es im [Specter-Koffer](https://specter.solutions/#enterprise) immer bei sich 🧳",
+    "image": "/img/team/moritz.jpg"
+  },
+  "ole": {
+    "name": "Ole",
+    "twitter": "DerCheapi",
+    "url": "https://medium.com/@dercheapi",
+    "text": "Kinderzimmerökonom und Junior-Shitposter 💁‍♂️ Senkt unsere Boomer-Quote und findet die [Easter-Eggs](/podcast/der-weg-31-bitcoin-ist-ein-easter-egg/) 🥚",
+    "image": "/img/team/ole.jpg"
+  },
+  "cercatrova": {
+    "name": "Cerca",
+    "twitter": "cercatrova_21",
+    "github": "cercatrova21",
+    "url": "https://bitcoin-mentoring.me",
+    "text": "Der Quoten-Schweizer! 🇨🇭🧀  Sagt jedem zentral gesteuerten Geldinstitut den Kampf an und hilft dir jeden Scammer zu scammen",
+    "image": "/img/team/cercatrova.jpg"
   }
-]
+}

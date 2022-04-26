@@ -3,7 +3,7 @@
     display: inline-flex;
     flex-wrap: wrap;
     list-style: none;
-    margin: 0 0 var(--space-l) 0;
+    margin: var(--space-l) 0 var(--space-xl);
 
     & li {
       margin: 0 var(--space-m) var(--space-m) 0;
@@ -25,17 +25,46 @@
           text-decoration: none;
         }
       }
+
+      &.current {
+        color: var(--color-neutral-0);
+        background-color: var(--color-secondary);
+        text-decoration: none;
+      }
     }
   }
 
-  & .current {
-    margin-bottom: 4rem;
+  & .latest {
+    margin-bottom: var(--space-xxl);
   }
 }
 
 #episode {
   & .player {
     margin-bottom: var(--space-xxl);
+  }
+
+  & .partcipants {
+    margin: 0;
+    list-style: none;
+  }
+
+  & .partcipants li + li {
+    margin-top: var(--space-m);
+  }
+
+  & .partcipants li,
+  & .partcipants li a {
+    display: flex;
+    align-items: center;
+  }
+
+  & .avatar {
+    display: block;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    margin-right: var(--space-m);
   }
 }
 

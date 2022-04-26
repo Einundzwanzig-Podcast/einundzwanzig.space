@@ -19,6 +19,21 @@
     width: 21em;
   }
 
+  & .cover {
+    display: inline-block;
+    width: 9em;
+    max-width: 100%;
+    margin: 0 var(--space-l) var(--space-l) 0;
+    border-radius: var(--space-s);
+  }
+
+  & .flyer {
+    display: inline-block;
+    width: 280px;
+    margin: 0 var(--space-l) var(--space-l) 0;
+    border-radius: var(--space-s);
+  }
+
   & img {
     display: block;
     width: 100%;
@@ -39,7 +54,7 @@
       flex: 0 0 6em;
       height: 6em;
       border-radius: 50%;
-      margin: 0 1em 1em 0;
+      margin: 0 var(--space-l) var(--space-l) 0;
     }
 
     & .orange {
@@ -63,6 +78,7 @@
   & .wallpaper {
     display: inline-block;
     max-width: 21em;
+    margin: 0 var(--space-l) var(--space-l) 0;
 
     & img {
       display: block;

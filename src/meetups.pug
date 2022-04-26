@@ -1,26 +1,61 @@
 extends /template.pug
 
 block vars
-  - const title = 'Meetups'
-  - const description = 'Eine Liste von Einundzwanzig-Treffen im D/A/CH-Raum.'
+  - const title = 'Bitcoin-Meetups'
+  - const description = 'Eine Liste von Bitcoin-Meetups und Einundzwanzig-Treffen im D/A/CH-Raum.'
+  - const cardImage = '/img/card/meetups.png'
+  - const filterOfficial = (list, official) => list.filter(meetup => meetup.name.startsWith('Einundzwanzig') === official)
+  - const filterUnmapped = (list) => list.filter(meetup => !meetup.top || !meetup.left)
+  - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
+  - const clss = m => m.top && m.left ? null : 'unmapped'
+  - let j = 0
 
 block main
   #meetups.wrap
     section
       h1= title
-
       p= description
 
       :markdown-it(html linkify typographer)
         Neue Meetups können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/meetups.json) hinzugefügt werden.
+        Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
+        Die Werte für `top/left` geben prozentual die Position des Ortes auf der Karte an.
 
         Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
 
-      h2 Einundzwanzig Meetups
-      ul.meetups
-        each m in meetups
-          li
-            a(href=m.telegram target="_blank" rel="nofollow noopener")= m.name.replace('Einundzwanzig Meetup ', '')
-            if !m.name.endsWith(m.region)
-              = " - "
-              span.region= m.region
+      #map
+        h2 Einundzwanzig Meetups
+        ul.meetups
+          each m in filterOfficial(meetups, true)
+            li.official(class=clss(m) style=style(m))
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+                = m.name.replace('Einundzwanzig ', '')
+              - j++
+
+        h2 Weitere Meetups
+        ul.meetups
+          each m in filterOfficial(meetups, false)
+            li(class=clss(m) style=style(m))
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+                = m.name.replace('Bitcoin ', '')
+              - j++
+
+        img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
+
+      #unmapped
+        h2 Weitere Meetups
+        ul.meetups
+          each m in filterUnmapped(meetups)
+            li(class=clss(m) style=style(m))
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                = m.name
+
+  script.
+    document.getElementById('dach').onclick = e => {
+      console.log({
+        top: Math.round(e.offsetY / e.target.height * 100) - 2,
+        left: Math.round(e.offsetX / e.target.width * 100) + 1
+      })
+    }

@@ -1,0 +1,88 @@
+@keyframes pulse {
+  0% { transform: scale(.75); }
+  1% { transform: scale(1.5); }
+  3% { transform: scale(.75);  }
+}
+
+#meetups {
+  & #map {
+    @media (--up_to_L) {
+      margin-top: var(--space-xl);
+
+      & img,
+      & .dot {
+        display: none;
+      }
+    }
+
+    @media (--L_and_up) {
+      position: relative;
+      margin-top: var(--space-xxl);
+
+      & h2 {
+        display: none;
+      }
+
+      & img {
+        display: block;
+        width: 100%;
+        opacity: .5;
+      }
+
+      & ul {
+        margin: 0;
+        list-style: none;
+      }
+
+      & li {
+        position: absolute;
+        z-index: 1;
+        font-size: var(--font-size-xs);
+
+        &.unmapped {
+          display: none;
+        }
+
+        &.official {
+          color: var(--color-accent);
+        }
+
+        &:not(.official) {
+          color: var(--color-secondary);
+        }
+
+        & a {
+          color: inherit;
+          display: inline-block;
+          margin-top: .2rem;
+        }
+
+        & .dot {
+          content: '';
+          position: absolute;
+          top: .275rem;
+          left: -1.25rem;
+          background: radial-gradient(currentColor 0%, rgba(255, 255, 255, 0) 100%);
+          animation-timing-function: linear;
+          animation-iteration-count: infinite;
+          will-change: transform;
+          transform-origin: 50%;
+          border-radius: 50%;
+          width: 1rem;
+          height: 1rem;
+          transform: scale(.75);
+          animation-name: pulse;
+        }
+      }
+    }
+  }
+
+  & #unmapped {
+    @media (--up_to_L) {
+      display: none;
+    }
+    @media (--L_and_up) {
+      margin-top: var(--space-xxl);
+    }
+  }
+}

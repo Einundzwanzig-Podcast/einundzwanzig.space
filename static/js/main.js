@@ -43,12 +43,15 @@ document.addEventListener("DOMContentLoaded", () => {
     "IntersectionObserverEntry" in window &&
     "intersectionRatio" in window.IntersectionObserverEntry.prototype
   ) {
-    const headerObserver = new IntersectionObserver(entries => {
-      const { boundingClientRect: { y, height } } = entries[0]
-      const fn = Math.abs(y) > height ? 'add' : 'remove'
-      document.body.classList[fn]('topbar')
-    })
-    headerObserver.observe(document.getElementById('header-anchor'))
+    const headerAnchor = document.getElementById('header-anchor')
+    if (headerAnchor) {
+      const headerObserver = new IntersectionObserver(entries => {
+        const { boundingClientRect: { y, height } } = entries[0]
+        const fn = Math.abs(y) > height ? 'add' : 'remove'
+        document.body.classList[fn]('topbar')
+      })
+      headerObserver.observe(headerAnchor)
+    }
   }
 
   // List shuffling
@@ -83,5 +86,25 @@ document.addEventListener("DOMContentLoaded", () => {
   // Copy to clipboard
   document.querySelectorAll('[data-clipboard]').forEach(link => {
     link.addEventListener('click', copyToClipboard)
+  })
+
+  // Show more
+  document.querySelectorAll('.showMore').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault()
+      link.parentNode.parentNode.classList.add('expanded')
+    })
+  })
+
+  // Video
+  document.querySelectorAll('.ytEmbed').forEach(video => {
+    video.addEventListener('click', e => {
+      e.preventDefault()
+      const lazyAttr = 'data-src'
+      const iframe = e.target.querySelector(`iframe[${lazyAttr}]`)
+      if (iframe) {
+        const src = iframe.setAttribute('src', iframe.getAttribute(lazyAttr))
+      }
+    })
   })
 })

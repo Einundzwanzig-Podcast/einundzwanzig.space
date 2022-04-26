@@ -1,0 +1,37 @@
+extends /template.pug
+
+block vars
+  - const title = 'Verein EINUNDZWANZIG'
+  - const description = 'EINUNDZWANZIG ist ein in Zug (Schweiz) ansässiger Verein, mit dem Zweck ein optimales Umfeld für die bevorstehende Hyperbitcoinization, in der Schweiz und dem deutschsprachigen Raum zu begünstigen.'
+
+block main
+  #verein.wrap
+    section
+      h1= title
+      p= description
+
+      :markdown-it(html linkify typographer)
+        ## Gründungsgeschichte
+
+        Gestartet wurde EINUNDZWANZIG 2019 als Podcast durch den weltbekannten Bitcoin Prediger Gigi
+        zusammen mit dem heiligen Markus im Turm. Fab, Dennis und Daniel ergänzten [das Team](/team/)
+        und EINUNDZWANZIG entwickelte sich zur wichtigsten deutschsprachigen Anlaufstelle für Bitcoin.
+        Es musste eine Gesellschaftsform her, bei der nicht das Kapital, sondern der Mensch zählt und
+        die dabei so sozial inklusive wie möglich ist – ein Verein.
+
+        ## Wichtigste Fakten des Vereins im Überblick
+
+        - Post-Adresse: Verein Einundzwanzig, 6300 Zug, Schweiz
+        - Gründungsdatum: 21. April 2021
+        - Zweck: Vorbereitung der Gesellschaft auf die Hyperbitcoinization
+        - Kontoführung: Bitcoin-only via Multisig und Lightning Node
+        - Präsidenten: Daniel und Fab
+
+        ## Mitgliedschaften
+
+        Wenn Du Mitglied im Verein EINUNDZWANZIG werden möchtest, bitten wir Dich noch um etwas Geduld.
+        Aktuell befinden wir uns im Aufbau der notwendigen Infrastruktur, um das Vereinsleben digital
+        regeln und automatisieren zu können. Wir möchten uns weiterhin alle dem Wesentlichen widmen,
+        statt unter Verwaltungsaufgaben zu ersticken.
+
+        Hier findest du schon mal die [Vereins-Satzung/Statuten](/files/EINUNDZWANZIG-Statuten.pdf).

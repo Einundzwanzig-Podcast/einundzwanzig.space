@@ -1,5 +1,9 @@
 extends /template.pug
 
+block vars
+  - const title = site.meta.title
+  - const description = site.meta.description
+
 block main
   - const ticker = shuffle(site.meta.ticker).join(" +++ ") + " +++ "
   - const duration = ticker.length / 4
@@ -9,11 +13,10 @@ block main
 
   .wrap
     section
+      h1= title
+      h2= description
+
       :markdown-it(html linkify typographer)
-        # Einundzwanzig, der Bitcoin Podcast
-
-        ## Toximalistisches Infotainment für bullishe Bitcoiner
-
         [Bitcoin](https://bitcoin.org/bitcoin.pdf), und sonst nichts.
         Einmal die Woche sitzen die Jungs zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt.
 
@@ -52,13 +55,23 @@ block main
 
     //-   a.button(href=site.meta.shopUrl target="_blank" rel="nofollow noopener") Zum Shop
 
-    section#sponsor
+    section#pocket
+      :markdown-it(html linkify typographer)
+        ## 💰 Sats in der Tasche
+
+        Mit Pocket Bitcoin kannst du Satoshis stapeln und diese direkt in deiner eigenen Wallet empfangen.
+        Das Einrichten regelmäßiger Käufe ist sehr leicht und schnell gemacht, ideal für deinen Bitcoin-Sparplan.
+        Und wenn du spontan den Dip kaufen möchtest, dann geht natürlich auch das.
+
+      a.button(href="https://pocketbitcoin.com/einundzwanzig/" target="_blank" rel="nofollow noopener") Mehr zu Pocket Bitcoin
+
+    section#shiftcrypto
       :markdown-it(html linkify typographer)
         ## 🔐 Auf der sicheren Seite
 
         Unser Sponsor ShiftCrypto hat mit der BitBox02 bitcoin-only Edition eine Hardware Wallet geschaffen,
         die Sicherheit gut nutzbar macht: Ob Einsteiger oder fortgeschritten, hier findest du die Features,
-        mit denen du deine Sats sicher verwahren kannst.  Unsere Empfehlung, auch schon vor dem Sponsoring.
+        mit denen du deine Sats sicher verwahren kannst. Unsere Empfehlung, auch schon vor dem Sponsoring.
 
       a.button(href="https://shiftcrypto.ch/einundzwanzig/" target="_blank" rel="nofollow noopener") BitBox02 Bitcoin-only Edition
 
@@ -69,7 +82,7 @@ block main
         Wenn du möchtest, dass wir im Podcast deinen "Shout-Out" vorlesen, dann bist du mit 21.000 Sats dabei!
         Wir sammeln alle Einnahmen bis die 1.000.000 Sats voll sind. Dann lassen wir in unserer Telegram-Gruppe
         darüber abstimmen welches Bitcoin-Projekt aus Deutschland diese kostbaren Sats bekommen soll.
-        Wenn du also einen Shout-Out in unserem Podcast kaufst, unterstützt du damit auch ein Bitcoin Projekt.
+        Wenn du also einen Shout-Out in unserem Podcast kaufst, [unterstützt](/spenden/) du damit auch ein Bitcoin Projekt.
 
       a.button(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Shout-Out senden
 

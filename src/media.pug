@@ -1,7 +1,7 @@
 extends /template.pug
 
 block vars
-  - const title = 'Media'
+  - const title = 'Unser Media Kit'
   - const description = 'Damit wir mal groß und berühmt werden, kannst du dieses Media Kit gerne nutzen, um allen von uns zu erzählen.'
 
 block main
@@ -25,9 +25,44 @@ block main
           img(src=assetPath("/img/media/einundzwanzig-telegram.png") alt="Telegram")
 
       article
+        h2 Cover Vorlage
+        a.cover(href=assetPath("/img/media/einundzwanzig-cover-interview.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-cover-interview.png") alt="Cover Interview")
+
+        a.cover(href=assetPath("/img/media/einundzwanzig-cover-lesestunde.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-cover-lesestunde.png") alt="Cover Lesestunde")
+
+      article
+        h2 Meetup Flyer Vorlage
+
+        p
+          = "Von "
+          a(href="https://twitter.com/Niklvs03/status/1459629529731903495?s=20" target="_blank" rel="noopener noreferrer") SATNIK
+          = ": "
+          a(href="https://drive.google.com/file/d/1FUv7WfCgwOp-5aAB3gPl_hSPEm3eXkmH/view" target="_blank" rel="noopener noreferrer") Photoshop
+          = " und "
+          a(href="https://www.canva.com/design/DAEvn3g1ycs/cJ-4MfDZBvLHZN3SKRu5Cg/view?utm_content=DAEvn3g1ycs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview" target="_blank" rel="noopener noreferrer") Canva
+        img.flyer(src=assetPath("/img/media/einundzwanzig-meetup-flyer-preview.jpg") alt="Einundzwanzig Meetup Flyer Vorlage")
+
+      article
         h2 Wallpaper
         a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
-          img(src=assetPath("/img/media/einundzwanzig-wallpaper-preview.png") alt="Wallpaper")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-preview.jpg") alt="Wallpaper")
+
+        a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper-owl.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-owl-preview.jpg") alt="Wallpaper Meetup OWL")
+
+        a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper-benrath.png") target="_blank")
+          img(src=assetPath("/img/media/einundzwanzig-wallpaper-benrath-preview.jpg") alt="Wallpaper Meetup Düsseldorf")
+
+        each i in [1, 2, 3, 4, 5]
+          a.wallpaper(href=assetPath(`/img/media/einundzwanzig-wallpaper-dezentralschweiz-0${i}.jpg`) target="_blank")
+            img(src=assetPath(`/img/media/einundzwanzig-wallpaper-dezentralschweiz-0${i}-preview.jpg`) alt=`Wallpaper Meetup Schweiz ${1}`)
+
+        p
+          a(href="https://drive.google.com/drive/folders/1SWZfGja8DoYuXsV5shCPm67Bthgmgtl2" target="_blank" rel="noopener noreferrer"
+
+          ) Weitere Wallpaper
 
       article
         h2 Schriften
@@ -43,3 +78,8 @@ block main
           li.orange #F7931A
           li.derweg #00B4CF
           li.interview #151515
+
+      article
+        h2 Dokumente
+        ul
+          li: a(href="/files/EINUNDZWANZIG-WhatWorkedForUs.pdf") What Worked For Us

@@ -2,7 +2,7 @@ include mixins
 
 block vars
 
-- const pageTitle = title ? `${title} · ${site.meta.title}` : site.meta.title
+- const pageTitle = title && title !== site.meta.title ? `${title} · ${site.meta.title}` : site.meta.title
 - const pageDescription = description || site.meta.description
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
@@ -12,41 +12,7 @@ block vars
 <!DOCTYPE html>
 html(lang="en")
   head
-    meta(charset="UTF-8")
-    meta(http-equiv="X-UA-Compatible" content="ie=edge")
-    meta(name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover")
-    meta(name="keywords" content=pageKeywords)
-    meta(name="description" content=pageDescription)
-    meta(property="og:locale" content="de_DE")
-    meta(property="og:site_name" content=site.title)
-    meta(property="og:title" content=pageTitle)
-    meta(property="og:description" content=pageDescription)
-    meta(property="og:image" content=assetUrl(pageCard, "http"))
-    meta(property="og:image:secure_url" content=assetUrl(pageCard))
-    meta(property="og:image:width" content=pageCardSize)
-    meta(property="og:image:height" content=pageCardSize)
-    block og
-      meta(property="og:type" content="website")
-    meta(property="twitter:card" content="summary")
-    meta(property="twitter:title" content=pageTitle)
-    meta(property="twitter:description" content=pageDescription)
-    meta(property="twitter:image" content=assetUrl(pageCard))
-    meta(name="msapplication-TileColor" content=themeColor)
-    meta(name="theme-color" content=themeColor)
-    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))
-    link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-700.woff2"))
-    link(rel="apple-touch-icon" href=assetPath("/img/favicon/apple-touch-icon.png"))
-    link(rel="icon" href=assetPath("/img/favicon/favicon.svg"))
-    link(rel="manifest" href="/site.webmanifest")
-    link(rel="mask-icon" href=assetPath("/img/favicon/safari-pinned-tab.svg") color=themeColor)
-    link(rel="stylesheet" href=assetPath("/css/main.css"))
-    link(rel="alternate" type="application/rss+xml" title="Podcast Feed" href=site.meta.publicFeedUrl)
-    script(src=assetPath("/js/player.js") defer)
-    script(src=assetPath("/js/main.js"))
-    title= pageTitle
-    noscript
-      style.
-        .theme { display: none; }
+    include _head
   body
     header.header#header
       .wrap
@@ -54,12 +20,27 @@ html(lang="en")
           +sprite("logo-horizontal").logo
         .nav
           nav
-            a.navItem(href="/podcast/" class=(navCurrent === 'podcast' && 'current')) Podcast
-            a.navItem(href="/soundboard/" class=(navCurrent === 'soundboard' && 'current')) Sounds
-            a.navItem(href="/team/" class=(navCurrent === 'team' && 'current')) Team
-            a.navItem#navItemMeetups(href="/meetups/" class=(navCurrent === 'meetups' && 'current')) Meetups
-            a.navItem#navItemMedia(href="/media/" class=(navCurrent === 'media' && 'current')) Media
-            //- a.navItem(href=site.meta.shopUrl target="_blank") Shop
+            .navItem
+              a(href="/podcast/" class=(navCurrent === 'podcast' && 'current')) Podcast
+            .navItem
+              a(href="#" onclick="return false;") Community
+              .more
+                a(href="/meetups/" class=(navCurrent === 'meetups' && 'current')) Meetups
+                a(href="/events/" class=(navCurrent === 'events' && 'current')) Events
+                a(href="/spenden/" class=(navCurrent === 'spenden' && 'current')) Spenden
+                a(href="/telegram/" class=(navCurrent === 'telegram' && 'current')) Telegram
+                a(href=site.meta.youtubeUrl target="_blank" rel="nofollow noopener") YouTube
+                a(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Shout-Out
+            .navItem
+              a(href="#" onclick="return false;") Mehr
+              .more
+                a(href="/media/" class=(navCurrent === 'media' && 'current')) Media
+                a(href="/soundboard/" class=(navCurrent === 'soundboard' && 'current')) Sounds
+                a(href="/team/" class=(navCurrent === 'team' && 'current')) Team
+                a(href="/verein/" class=(navCurrent === 'verein' && 'current')) Verein
+                a(href="/kontakt/" class=(navCurrent === 'kontakt' && 'current')) Kontakt
+            //- .navItem
+            //-   a(href=site.meta.shopUrl target="_blank") Shop
           button(type="button").theme
             +sprite("theme")
 
@@ -68,30 +49,4 @@ html(lang="en")
     main.main
       block main
 
-    footer#footer.footer
-      .wrap
-        if site.block
-          p
-            | Aktualisiert um
-            = " "
-            a(href=`https://www.blockstream.info/block-height/${site.block}`)
-              time(datetime=site.date)= site.block
-            |.
-        p.social
-          a(href=site.meta.twitterUrl rel="me nofollow noopener" target="_blank" title="Twitter")
-            +sprite("twitter")
-          a(href=site.meta.telegramUrl rel="me nofollow noopener" target="_blank" title="Telegram")
-            +sprite("telegram")
-          a(href=site.meta.youtubeUrl rel="me nofollow noopener" target="_blank" title="YouTube")
-            +sprite("youtube")
-          a(href=site.meta.instagramUrl rel="me nofollow noopener" target="_blank" title="Instagram")
-            +sprite("instagram")
-          a(href=site.meta.sphinxUrl rel="me nofollow noopener" target="_blank" title="Sphinx")
-            +sprite("sphinx")
-          a(href=site.meta.mastodonUrl rel="me nofollow noopener" target="_blank" title="Mastodon")
-            +sprite("mastodon")
-        p
-          | Made with 💛 by
-          = " "
-          a(href="https://d11n.net" target="_blank" rel="nofollow noopener") d11n
-          |.
+    include _footer
