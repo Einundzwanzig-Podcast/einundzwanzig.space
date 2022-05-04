@@ -4,12 +4,32 @@ const request = require('sync-request')
 
 const meta = require('../content/meta.json')
 const meetups = require('../content/meetups.json')
+const telegram = require('../content/telegram.json')
 const soundboard = require('../content/soundboard.json')
 
 const { TELEGRAM_BOT_TOKEN } = process.env
 
 const dir = (...path) => resolve(__dirname, '..', ...path)
 const writeJSON = (file, data) => writeFileSync(file, JSON.stringify(data, null, 2))
+const getTelegramMembersCount = url => {
+  if (TELEGRAM_BOT_TOKEN) {
+    if (url.startsWith('https://t.me/')) {
+      [, , telegramId] = url.match(/:\/\/t\.me\/(?!(\+|joinchat))(.*)/) || []
+      if (telegramId) {
+        try {
+          const jsonBody = request(
+            'GET',
+            `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getChatMemberCount?chat_id=@${telegramId}`
+          ).getBody('utf8')
+          const { ok, result } = JSON.parse(jsonBody)
+          if (ok) {
+            return result
+          }
+        } catch (err) {}
+      }
+    }
+  }
+}
 
 let recentBlocks = []
 try {
@@ -22,41 +42,26 @@ try {
 const block = recentBlocks.length && recentBlocks[0].height
 const date = (new Date()).toJSON().split('T')[0]
 
+// Telegram
+const telegramData = telegram.map(t =>
+  Object.assign(t, {
+    members: getTelegramMembersCount(t.url),
+  })
+)
+
 // Meetups
-const meetup = meetups.map(m => {
-  const copy = Object.assign({}, m)
+const meetupsData = meetups.map(m => Object.assign(m, {
+  members: getTelegramMembersCount(m.url)
+}))
 
-  if (TELEGRAM_BOT_TOKEN) {
-    let { telegramId } = m
-    if (!telegramId && m.url.startsWith('https://t.me/')) {
-      [,, telegramId] = m.url.match(/:\/\/t\.me\/(?!(\+|joinchat))(.*)/) || []
-      if (telegramId) {
-        try {
-          const jsonBody = request(
-            'GET',
-            `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getChatMemberCount?chat_id=@${telegramId}`
-          ).getBody('utf8')
-          const { ok, result } = JSON.parse(jsonBody)
-          if (ok) {
-            copy.telegramId = telegramId
-            copy.members = result
-          }
-        } catch (err) {
-        }
-      }
-    }
-  }
-
-  return copy
-})
-
-writeJSON(dir('dist', 'meetups.json'), meetup)
+writeJSON(dir('dist', 'meetups.json'), meetupsData)
 
 writeJSON(dir('generated', 'site-data.json'), {
   date,
   block,
   meta,
-  meetups: meetup,
+  meetups: meetupsData,
+  telegram: telegramData
 })
 
 // Soundboard

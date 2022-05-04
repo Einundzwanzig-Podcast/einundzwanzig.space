@@ -21,6 +21,10 @@ block main
         Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
         Die Werte für `top/left` geben prozentual die Position des Ortes auf der Karte an.
 
+        Wir können auch die Anzahl der Gruppenmitglieder hier anzeigen lassen.
+        Voraussetzung dafür ist, dass die Gruppe öffentlich ist und einen Linknamen hat (a la `t.me/Einundzwanzig_ORT`, kann nur vom Ersteller der Gruppe angepasst werden).
+        Tipp: Mit Bots wie [Shieldy](https://t.me/shieldy_bot) kann man die Spammer draußen halten.
+
         Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
 
       #map
@@ -28,24 +32,24 @@ block main
         ul.meetups
           each m in filterOfficial(meetups, true)
             li.official(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
+              a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Einundzwanzig ', '')
-                if m.members
-                  = ' '
-                  span.members= `(${m.members} Mitglieder)`
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
               - j++
 
         h2 Weitere Meetups
         ul.meetups
           each m in filterOfficial(meetups, false)
             li(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
+              a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Bitcoin ', '')
-                if m.members
-                  = ' '
-                  span.members= `(${m.members} Mitglieder)`
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
               - j++
 
         img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
@@ -55,11 +59,11 @@ block main
         ul.meetups
           each m in filterUnmapped(meetups)
             li(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
+              a(href=m.url target="_blank" rel="nofollow noopener")
                 = m.name
-                if m.members
-                  = ' '
-                  span.members= `(${m.members} Mitglieder)`
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
 
   script.
     document.getElementById('dach').onclick = e => {

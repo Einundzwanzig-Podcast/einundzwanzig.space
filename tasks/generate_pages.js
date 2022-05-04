@@ -37,7 +37,7 @@ renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: meetupsSorted
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
 renderPage('media', 'media', { navCurrent: 'media' })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
-renderPage('telegram', 'telegram', { navCurrent: 'telegram', telegram })
+renderPage('telegram', 'telegram', { navCurrent: 'telegram', telegram: site.telegram })
 renderPage('events', 'events', { navCurrent: 'events' })
 renderPage('events/satoshis-bleibe-2022', 'events/satoshis-bleibe-2022', { navCurrent: 'events'})
 renderPage('events/bitcoin-im-laendle-2022', 'events/bitcoin-im-laendle-2022', { navCurrent: 'events' })
