@@ -8,7 +8,6 @@ const episodes = require('../generated/episodes.json')
 const spendenregister = require('../generated/spendenregister.json')
 const spendenuebersicht = require('../content/spendenuebersicht.json')
 const team = require('../content/team.json')
-const meetups = require('../content/meetups.json')
 const telegram = require('../content/telegram.json')
 const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
@@ -27,7 +26,7 @@ const renderPage = (template, out, data = {}) => {
 }
 
 const sortId = m => `${m.country === 'DE' ? '0' : m.country}-${m.name}`
-const meetupsSorted = meetups.sort((a, b) => {
+const meetupsSorted = site.meetups.sort((a, b) => {
   return sortId(a) > sortId(b) ? 1 : -1
 })
 

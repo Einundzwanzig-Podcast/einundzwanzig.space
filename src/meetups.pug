@@ -28,18 +28,24 @@ block main
         ul.meetups
           each m in filterOfficial(meetups, true)
             li.official(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener")
+              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Einundzwanzig ', '')
+                if m.members
+                  = ' '
+                  span.members= `(${m.members} Mitglieder)`
               - j++
 
         h2 Weitere Meetups
         ul.meetups
           each m in filterOfficial(meetups, false)
             li(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener")
+              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Bitcoin ', '')
+                if m.members
+                  = ' '
+                  span.members= `(${m.members} Mitglieder)`
               - j++
 
         img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
@@ -49,8 +55,11 @@ block main
         ul.meetups
           each m in filterUnmapped(meetups)
             li(class=clss(m) style=style(m))
-              a(href=m.url target="_blank" rel="nofollow noopener")
+              a(href=m.url target="_blank" rel="nofollow noopener" title=m.members ? `${m.members} Mitglieder` : null)
                 = m.name
+                if m.members
+                  = ' '
+                  span.members= `(${m.members} Mitglieder)`
 
   script.
     document.getElementById('dach').onclick = e => {

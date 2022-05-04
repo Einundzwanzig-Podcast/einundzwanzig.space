@@ -73,6 +73,10 @@
           transform: scale(.75);
           animation-name: pulse;
         }
+
+        & .members {
+          display: none;
+        }
       }
     }
   }
