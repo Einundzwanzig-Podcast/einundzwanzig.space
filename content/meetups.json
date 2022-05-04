@@ -21,6 +21,14 @@
     "top": 11,
     "left": 45,
     "country": "DE",
+    "state": ["Hamburg"]
+  },
+  {
+    "name": "Bitcoin Hamburg",
+    "url": "https://t.me/hamburgerbitcoinstammtisch",
+    "top": 16,
+    "left": 38,
+    "country": "DE",
     "state": ["Hamburg", "Bremen", "Niedersachsen"]
   },
   {
@@ -417,7 +425,7 @@
   },
   {
     "name": "Einundzwanzig Basel",
-    "url": "https://t.me/+WXOsBh5Y-yU4ZGY0",
+    "url": "https://t.me/EinundzwanzigBS",
     "top": 80,
     "left": 19,
     "country": "CH",
