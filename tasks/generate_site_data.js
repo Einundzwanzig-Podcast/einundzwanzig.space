@@ -11,8 +11,9 @@ const { TELEGRAM_BOT_TOKEN } = process.env
 
 const dir = (...path) => resolve(__dirname, '..', ...path)
 const writeJSON = (file, data) => writeFileSync(file, JSON.stringify(data, null, 2))
-const getTelegramMembersCount = url => {
+const getTelegramMembersCount = group => {
   if (TELEGRAM_BOT_TOKEN) {
+    const { name, url } = group
     if (url.startsWith('https://t.me/')) {
       [, , telegramId] = url.match(/:\/\/t\.me\/(?!(\+|joinchat))(.*)/) || []
       if (telegramId) {
@@ -25,7 +26,12 @@ const getTelegramMembersCount = url => {
           if (ok) {
             return result
           }
-        } catch (err) {}
+        } catch (err) {
+          const [, description] = err.message.match(/"description":"(.*?)"/) || []
+          console.error('Failed to get mebers count for', name, ' - ', description)
+        }
+      } else {
+        console.log('No Telegram ID for', name, url)
       }
     }
   }
@@ -45,13 +51,13 @@ const date = (new Date()).toJSON().split('T')[0]
 // Telegram
 const telegramData = telegram.map(t =>
   Object.assign(t, {
-    members: getTelegramMembersCount(t.url),
+    members: getTelegramMembersCount(t),
   })
 )
 
 // Meetups
 const meetupsData = meetups.map(m => Object.assign(m, {
-  members: getTelegramMembersCount(m.url)
+  members: getTelegramMembersCount(m)
 }))
 
 writeJSON(dir('dist', 'meetups.json'), meetupsData)
