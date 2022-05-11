@@ -34,7 +34,7 @@ block main
             li.official(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
-                = m.name.replace('Einundzwanzig ', '')
+                = m.name.replace('Einundzwanzig ', '').replace('Einezwänzg ', '')
               if m.members
                 = ' '
                 small.members= `(${m.members})`
