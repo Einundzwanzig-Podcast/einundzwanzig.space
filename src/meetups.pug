@@ -4,7 +4,7 @@ block vars
   - const title = 'Bitcoin-Meetups'
   - const description = 'Eine Liste von Bitcoin-Meetups und Einundzwanzig-Treffen im D/A/CH-Raum.'
   - const cardImage = '/img/card/meetups.png'
-  - const filterOfficial = (list, official) => list.filter(meetup => meetup.name.startsWith('Einundzwanzig') === official)
+  - const filterOfficial = (list, official) => list.filter(meetup => (meetup.name.startsWith('Einundzwanzig') || meetup.name.startsWith('Einezwänzg')) === official)
   - const filterUnmapped = (list) => list.filter(meetup => !meetup.top || !meetup.left)
   - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
   - const clss = m => m.top && m.left ? null : 'unmapped'
@@ -21,6 +21,10 @@ block main
         Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
         Die Werte für `top/left` geben prozentual die Position des Ortes auf der Karte an.
 
+        Wir können auch die Anzahl der Gruppenmitglieder hier anzeigen lassen.
+        Voraussetzung dafür ist, dass die Gruppe öffentlich ist und einen Linknamen hat (a la `t.me/Einundzwanzig_ORT`, kann nur vom Ersteller der Gruppe angepasst werden).
+        Tipp: Mit Bots wie [Shieldy](https://t.me/shieldy_bot) kann man die Spammer draußen halten.
+
         Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
 
       #map
@@ -30,7 +34,10 @@ block main
             li.official(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
-                = m.name.replace('Einundzwanzig ', '')
+                = m.name.replace('Einundzwanzig ', '').replace('Einezwänzg ', '')
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
               - j++
 
         h2 Weitere Meetups
@@ -40,6 +47,9 @@ block main
               a(href=m.url target="_blank" rel="nofollow noopener")
                 .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
                 = m.name.replace('Bitcoin ', '')
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
               - j++
 
         img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
@@ -51,6 +61,9 @@ block main
             li(class=clss(m) style=style(m))
               a(href=m.url target="_blank" rel="nofollow noopener")
                 = m.name
+              if m.members
+                = ' '
+                small.members= `(${m.members})`
 
   script.
     document.getElementById('dach').onclick = e => {

@@ -4,10 +4,38 @@ const request = require('sync-request')
 
 const meta = require('../content/meta.json')
 const meetups = require('../content/meetups.json')
+const telegram = require('../content/telegram.json')
 const soundboard = require('../content/soundboard.json')
+
+const { TELEGRAM_BOT_TOKEN } = process.env
 
 const dir = (...path) => resolve(__dirname, '..', ...path)
 const writeJSON = (file, data) => writeFileSync(file, JSON.stringify(data, null, 2))
+const getTelegramMembersCount = group => {
+  if (TELEGRAM_BOT_TOKEN) {
+    const { name, url } = group
+    if (url.startsWith('https://t.me/')) {
+      [, , telegramId] = url.match(/:\/\/t\.me\/(?!(\+|joinchat))(.*)/) || []
+      if (telegramId) {
+        try {
+          const jsonBody = request(
+            'GET',
+            `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getChatMemberCount?chat_id=@${telegramId}`
+          ).getBody('utf8')
+          const { ok, result } = JSON.parse(jsonBody)
+          if (ok) {
+            return result
+          }
+        } catch (err) {
+          const [, description] = err.message.match(/"description":"(.*?)"/) || []
+          console.error('Failed to get mebers count for', name, ' - ', description)
+        }
+      } else {
+        console.log('No Telegram ID for', name, url)
+      }
+    }
+  }
+}
 
 let recentBlocks = []
 try {
@@ -20,17 +48,27 @@ try {
 const block = recentBlocks.length && recentBlocks[0].height
 const date = (new Date()).toJSON().split('T')[0]
 
-writeJSON(dir('generated', 'site-data.json'), { date, block, meta })
+// Telegram
+const telegramData = telegram.map(t =>
+  Object.assign(t, {
+    members: getTelegramMembersCount(t),
+  })
+)
 
 // Meetups
-const meetup = meetups.map(m => {
-  const copy = Object.assign({}, m)
-  delete copy.top
-  delete copy.left
-  return copy
-})
+const meetupsData = meetups.map(m => Object.assign(m, {
+  members: getTelegramMembersCount(m)
+}))
 
-writeJSON(dir('dist', 'meetups.json'), meetup)
+writeJSON(dir('dist', 'meetups.json'), meetupsData)
+
+writeJSON(dir('generated', 'site-data.json'), {
+  date,
+  block,
+  meta,
+  meetups: meetupsData,
+  telegram: telegramData
+})
 
 // Soundboard
 const sounds = soundboard.map(group => {

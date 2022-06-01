@@ -46,7 +46,6 @@
   --font-weight-regular: 400;
   --font-weight-bold: 700;
 
-  --font-size-base: 18px;
   --font-size-xs: .75rem;
   --font-size-s: .85rem;
   --font-size-m: 1rem;
@@ -55,12 +54,15 @@
   --font-size-xxl: 2.25rem;
 
   @media (--up_to_M) {
+    --font-size-base: 16px;
     --wrap-padding-horizontal: var(--space-l);
   }
   @media (--M_to_L) {
+    --font-size-base: 18px;
     --wrap-padding-horizontal: var(--space-xl);
   }
   @media (--L_and_up) {
+    --font-size-base: 20px;
     --wrap-padding-horizontal: var(--space-xxl);
   }
 

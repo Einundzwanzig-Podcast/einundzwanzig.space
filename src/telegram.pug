@@ -18,3 +18,6 @@ block main
         each group in telegram
           li
             a(href=group.url rel="nofollow noopener" target="_blank")= group.name
+            if group.members
+              = ' '
+              small.members= `(${group.members} Mitglieder)`

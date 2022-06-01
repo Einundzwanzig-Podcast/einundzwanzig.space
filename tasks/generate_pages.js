@@ -8,8 +8,8 @@ const episodes = require('../generated/episodes.json')
 const spendenregister = require('../generated/spendenregister.json')
 const spendenuebersicht = require('../content/spendenuebersicht.json')
 const team = require('../content/team.json')
-const meetups = require('../content/meetups.json')
 const telegram = require('../content/telegram.json')
+const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
 const adventskalender = require('../content/adventskalender.json')
 
@@ -26,7 +26,7 @@ const renderPage = (template, out, data = {}) => {
 }
 
 const sortId = m => `${m.country === 'DE' ? '0' : m.country}-${m.name}`
-const meetupsSorted = meetups.sort((a, b) => {
+const meetupsSorted = site.meetups.sort((a, b) => {
   return sortId(a) > sortId(b) ? 1 : -1
 })
 
@@ -37,12 +37,13 @@ renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: meetupsSorted
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
 renderPage('media', 'media', { navCurrent: 'media' })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
-renderPage('telegram', 'telegram', { navCurrent: 'telegram', telegram })
+renderPage('telegram', 'telegram', { navCurrent: 'telegram', telegram: site.telegram })
 renderPage('events', 'events', { navCurrent: 'events' })
 renderPage('events/satoshis-bleibe-2022', 'events/satoshis-bleibe-2022', { navCurrent: 'events'})
 renderPage('events/bitcoin-im-laendle-2022', 'events/bitcoin-im-laendle-2022', { navCurrent: 'events' })
 renderPage('events/sommerfest-hodler-heide-2022', 'events/sommerfest-hodler-heide-2022', { navCurrent: 'events'})
 renderPage('events/satoshis-beach-2022', 'events/satoshis-beach-2022', { navCurrent: 'events'})
+renderPage('shops', 'shops', { navCurrent: 'shops', shops })
 renderPage('verein', 'verein', { navCurrent: 'verein' })
 renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
 renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
