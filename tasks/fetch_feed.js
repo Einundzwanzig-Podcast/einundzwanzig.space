@@ -31,8 +31,7 @@ const xml2jsonOpts = {
 
 const json2xmlOpts = {
   ...commonOpts,
-  indentBy: '  ',
-  processEntities: false
+  indentBy: '  '
 }
 
 const parser = new XMLParser(xml2jsonOpts, true)
