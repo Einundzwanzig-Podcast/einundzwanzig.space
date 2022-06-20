@@ -174,7 +174,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 47
+    "members": 48
   },
   {
     "name": "Einundzwanzig Essen",
@@ -249,7 +249,7 @@
     "state": [
       "Thüringen"
     ],
-    "members": 24
+    "members": 25
   },
   {
     "name": "Einundzwanzig Köln",
@@ -293,7 +293,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 57
+    "members": 58
   },
   {
     "name": "Einundzwanzig Fulda",
@@ -314,7 +314,8 @@
     "country": "DE",
     "state": [
       "Rheinland-Pfalz"
-    ]
+    ],
+    "members": 22
   },
   {
     "name": "Einundzwanzig Wiesbaden",
@@ -554,7 +555,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 110
   },
   {
     "name": "Einundzwanzig Salzburg",
@@ -564,7 +566,8 @@
     "country": "AT",
     "state": [
       "Salzburg"
-    ]
+    ],
+    "members": 48
   },
   {
     "name": "Einundzwanzig Vorarlberg",
@@ -574,7 +577,8 @@
     "country": "AT",
     "state": [
       "Vorarlberg"
-    ]
+    ],
+    "members": 27
   },
   {
     "name": "Einundzwanzig Tirol",
@@ -584,7 +588,8 @@
     "country": "AT",
     "state": [
       "Tirol"
-    ]
+    ],
+    "members": 109
   },
   {
     "name": "Bitcoin Graz",
@@ -614,7 +619,8 @@
     "country": "CH",
     "state": [
       "Basel"
-    ]
+    ],
+    "members": 58
   },
   {
     "name": "Bitcoin Bern",
@@ -704,7 +710,8 @@
     "country": "IT",
     "state": [
       "Südtirol"
-    ]
+    ],
+    "members": 42
   },
   {
     "name": "Einundzwanzig Gran Canaria",
@@ -712,7 +719,8 @@
     "country": "ES",
     "state": [
       "Canaria"
-    ]
+    ],
+    "members": 5
   },
   {
     "name": "Yirmibir Istanbul",
@@ -720,7 +728,8 @@
     "country": "TR",
     "state": [
       "Istanbul"
-    ]
+    ],
+    "members": 103
   },
   {
     "name": "Einundzwanzig Styria",
@@ -730,7 +739,8 @@
     "country": "AT",
     "state": [
       "Steiermark"
-    ]
+    ],
+    "members": 29
   },
   {
     "name": "Einundzwanzig Regensburg",
@@ -750,6 +760,7 @@
     "country": "AT",
     "state": [
       "Burgenland"
-    ]
+    ],
+    "members": 19
   }
 ]
