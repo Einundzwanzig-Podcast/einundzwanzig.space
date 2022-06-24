@@ -6,7 +6,8 @@ const redirects = [
   ['/podcast/der-wer-33-bitcoin-hat-mich-umgepolt/', '/podcast/der-weg-33-bitcoin-hat-mich-umgepolt/'],
   ['/podcast/lesestunde-16-monetaeren-kolonialismus-mit-open-source-code-bekmpfen/', '/podcast/lesestunde-16-monetaeren-kolonialismus-mit-open-source-code-bekaempfen/'],
   ['/podcast/news-93-die-legislatoren-muessen-verrckt-sein/', '/podcast/news-93-die-legislatoren-muessen-verrueckt-sein/'],
-  ['/podcast/verschiedenes-buchclub-9-ludwig-von-mises-der-freie-markt-und-seine-feinde/', '/podcast/lesestunde-23-der-freie-markt-und-seine-feinde-ludwig-von-mises/']
+  ['/podcast/verschiedenes-buchclub-9-ludwig-von-mises-der-freie-markt-und-seine-feinde/', '/podcast/lesestunde-23-der-freie-markt-und-seine-feinde-ludwig-von-mises/'],
+  ['/podcast/verschiedenes-interview-79-probleme-in-der-pflege-und-bitcoin-als-loesung/', '/podcast/interview-79-probleme-in-der-pflege-und-bitcoin-als-loesung/']
 ]
 
 const dist = resolve(__dirname, '..', 'dist')
