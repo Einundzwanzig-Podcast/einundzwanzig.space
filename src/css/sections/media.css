@@ -6,9 +6,13 @@
   & .logo {
     display: inline-block;
     max-width: 100%;
-    background: #FFF;
+    background: var(--color-neutral-0);
     border-radius: var(--space-s);
     padding: var(--space-m);
+  }
+
+  & .logo.inverted {
+    background: var(--color-interview);
   }
 
   & .logo-square {
