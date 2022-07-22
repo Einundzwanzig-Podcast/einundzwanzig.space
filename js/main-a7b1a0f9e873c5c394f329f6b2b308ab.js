@@ -107,4 +107,15 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     })
   })
+
+  // Map
+  const map = document.getElementById('dach')
+  if (map) {
+    map.onclick = e => {
+      console.log({
+        top: Math.round((e.offsetY / e.target.height) * 100) - 2,
+        left: Math.round((e.offsetX / e.target.width) * 100) + 1,
+      })
+    }
+  }
 })
