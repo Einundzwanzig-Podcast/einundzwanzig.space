@@ -64,11 +64,3 @@ block main
               if m.members
                 = ' '
                 small.members= `(${m.members})`
-
-  script.
-    document.getElementById('dach').onclick = e => {
-      console.log({
-        top: Math.round(e.offsetY / e.target.height * 100) - 2,
-        left: Math.round(e.offsetX / e.target.width * 100) + 1
-      })
-    }

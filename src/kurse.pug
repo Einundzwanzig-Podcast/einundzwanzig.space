@@ -1,0 +1,42 @@
+extends /template.pug
+
+block vars
+  - const title = 'Bitcoin-Kurse'
+  - const description = 'Eine Liste von Bitcoin-Kursen und Lehrveranstaltungen im D/A/CH-Raum.'
+  - const filterUnmapped = (list) => list.filter(kurs => !kurs.top || !kurs.left)
+  - const unmapped = filterUnmapped(kurse)
+  - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
+  - const clss = m => m.top && m.left ? null : 'unmapped'
+  - let j = 0
+
+block main
+  #kurse.wrap
+    section
+      h1= title
+      p= description
+
+      :markdown-it(html linkify typographer)
+        Neue Kurse können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/kurse.json) hinzugefügt werden.
+        Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
+        Die Werte für `top/left` geben prozentual die Position des Ortes auf der Karte an.
+
+      #map
+        h2 Lehrveranstaltungen im D/A/CH-Raum
+        ul.kurse
+          each m in kurse
+            li.official(class=clss(m) style=style(m))
+              a(href=m.url target="_blank" rel="nofollow noopener")
+                .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${kurse.length*2}s;`)
+                = m.name
+              - j++
+
+        img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
+
+      if unmapped.length
+        #unmapped
+          h2 Weitere Kurse
+          ul.kurse
+            each m in unmapped
+              li(class=clss(m) style=style(m))
+                a(href=m.url target="_blank" rel="nofollow noopener")
+                  = m.name

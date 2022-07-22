@@ -4,7 +4,8 @@
   3% { transform: scale(.75);  }
 }
 
-#meetups {
+#meetups,
+#kurse {
   & #map {
     @media (--up_to_L) {
       margin-top: var(--space-xl);
