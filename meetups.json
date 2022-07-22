@@ -77,7 +77,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 255
+    "members": 256
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -88,7 +88,7 @@
     "state": [
       "Bremen"
     ],
-    "members": 255
+    "members": 256
   },
   {
     "name": "Einundzwanzig Oldenburg",
@@ -152,7 +152,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 69
+    "members": 70
   },
   {
     "name": "Einundzwanzig Oelde",
@@ -293,7 +293,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 198
+    "members": 197
   },
   {
     "name": "Einundzwanzig Aachen",
@@ -824,5 +824,16 @@
       "Burgenland"
     ],
     "members": 19
+  },
+  {
+    "name": "Einundzwanzig Linz",
+    "url": "https://t.me/Einundzwanzig_Linz",
+    "top": 69,
+    "left": 77,
+    "country": "AT",
+    "state": [
+      "Oberösterreich"
+    ],
+    "members": 23
   }
 ]
