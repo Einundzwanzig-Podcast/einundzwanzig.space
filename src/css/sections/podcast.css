@@ -88,13 +88,6 @@
   transition-property: background-color;
   transition-duration: var(--transition-duration-fast);
 
-  @media (--up_to_M) {
-    padding: var(--space-l);
-  }
-  @media (--M_and_up) {
-    padding: var(--space-xl);
-  }
-
   & a {
     display: flex;
 
@@ -105,21 +98,22 @@
     }
   }
 
-  & .media {
-    margin-right: var(--space-l);
+  & .title {
+    word-break: break-word;
+  }
 
+  & .media {
     & a,
     & img {
       display: block;
       border-radius: var(--space-s);
 
       @media (--up_to_M) {
-        height: 60px;
-        width: 60px;
+        width: 20vw;
       }
       @media (--M_and_up) {
-        height: 100px;
-        width: 100px;
+        width: 15vw;
+        max-width: 7rem;
       }
     }
   }
@@ -133,6 +127,13 @@
 
   & .content {
     flex: 1;
+
+    @media (--up_to_M) {
+      padding: var(--space-m) var(--space-l);
+    }
+    @media (--M_and_up) {
+      padding: var(--space-l);
+    }
 
     & > *:last-child {
       margin-bottom: 0;
