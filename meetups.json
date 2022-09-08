@@ -75,7 +75,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 59
+    "members": 61
   },
   {
     "name": "Bitcoin Hamburg",
@@ -328,7 +328,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 227
+    "members": 228
   },
   {
     "name": "Einundzwanzig Aachen",
@@ -449,7 +449,7 @@
     "state": [
       "Saarland"
     ],
-    "members": 103
+    "members": 104
   },
   {
     "name": "Einundzwanzig Pfalz",
@@ -460,7 +460,7 @@
     "state": [
       "Rheinland-Pfalz"
     ],
-    "members": 44
+    "members": 45
   },
   {
     "name": "Einundzwanzig Unterfranken",
@@ -652,7 +652,7 @@
     "state": [
       "Bayern"
     ],
-    "members": 126
+    "members": 127
   },
   {
     "name": "Einundzwanzig Salzburg",
@@ -898,6 +898,18 @@
     "country": "PT",
     "state": [
       "Portugal"
-    ]
+    ],
+    "members": 7
+  },
+  {
+    "name": "Einundzwanzig Luxembourg",
+    "url": "https://t.me/einundzwanzigLU",
+    "top": 56,
+    "left": 5,
+    "country": "LU",
+    "state": [
+      "Luxembourg"
+    ],
+    "members": 9
   }
 ]
