@@ -14,7 +14,7 @@
     "left": 30,
     "country": "DE",
     "state": ["Baden-Württemberg"]
-  },  
+  },
   {
     "name": "Einundzwanzig Lübeck",
     "url": "https://www.bitcoin-luebeck.de/",
@@ -46,6 +46,14 @@
     "left": 20,
     "country": "DE",
     "state": ["Niedersachsen"]
+  },
+  {
+    "name": "Einundzwanzig Hamburg",
+    "url": "https://t.me/Einundzwanzig_HH",
+    "top": 17,
+    "left": 38,
+    "country": "DE",
+    "state": ["Hamburg", "Bremen", "Niedersachsen"]
   },
   {
     "name": "Bitcoin Hamburg",
@@ -542,7 +550,8 @@
     "left": 27,
     "country": "CH",
     "state": ["Zürich"]
-  },{
+  },
+  {
     "name": "Bitcoin Zürich (Beginners)",
     "url": "https://www.meetup.com/de-DE/bitcoin-4-beginners-meetup-zurich/",
     "top": 82.5,
@@ -556,7 +565,7 @@
     "top": 87,
     "left": 23,
     "country": "CH",
-    "state": ["Bern" ,"Luzern", "Nidwalden", "Zürich", "Zug", "Solothurn"]
+    "state": ["Bern", "Luzern", "Nidwalden", "Zürich", "Zug", "Solothurn"]
   },
   {
     "name": "Einundzwanzig Ostschweiz",
@@ -564,7 +573,14 @@
     "top": 80,
     "left": 31,
     "country": "CH",
-    "state": ["St.Gallen", "Graubünden", "Glarus", "Thurgau", "Appenzell Ausserrhoden", "Appenzell Innerrhoden" ]
+    "state": [
+      "St.Gallen",
+      "Graubünden",
+      "Glarus",
+      "Thurgau",
+      "Appenzell Ausserrhoden",
+      "Appenzell Innerrhoden"
+    ]
   },
   {
     "name": "Einundzwanzig Liechtenstein",
@@ -617,7 +633,7 @@
     "left": 62,
     "country": "DE",
     "state": ["Bayern"]
-  }, 
+  },
   {
     "name": "Einundzwanzig Nordburgenland",
     "url": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
@@ -633,5 +649,27 @@
     "left": 77,
     "country": "AT",
     "state": ["Oberösterreich"]
+  },
+  {
+    "name": "Einundzwanzig Trier",
+    "url": "https://t.me/Einundzwanzig_Trier",
+    "top": 55,
+    "left": 10,
+    "country": "DE",
+    "state": ["Rheinland-Pfalz"]
+  },
+  {
+    "name": "Einundzwanzig Portugal",
+    "url": "https://t.me/EinundzwanzigPortugal",
+    "country": "PT",
+    "state": ["Portugal"]
+  },
+  {
+    "name": "Einundzwanzig Luxembourg",
+    "url": "https://t.me/einundzwanzigLU",
+    "top": 56,
+    "left": 5,
+    "country": "LU",
+    "state": ["Luxembourg"]
   }
 ]

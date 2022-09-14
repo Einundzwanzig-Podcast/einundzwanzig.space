@@ -45,6 +45,7 @@ const parseEpisode = e => {
   let [, categoryName = 'News', number, titlePlain] = title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/) || [, , , title]
   if (!number) categoryName = 'Verschiedenes'
   if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
+  if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
   const firstLine = description.split('\n')[0]
   const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
