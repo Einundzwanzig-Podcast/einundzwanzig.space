@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 14 Sep 2022 21:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Sep 2022 13:51:44 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,7 +38,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[#150 Bitcoin die Dampfwalze]]></title>
-      <description><![CDATA[<p>Episode 150 - Blockzeit 754101 - von und mit <a href="https://twitter.com/MarkusTurm"><u>markus</u></a> <a href="https://twitter.com/_d11n_"><u>dennis</u></a> <a href="https://twitter.com/Lassmiranda21"><u>lassmiranda</u></a></p>
+      <description><![CDATA[<p><strong>Episode 150 - Blockzeit 754101</strong> - von und mit <a href="https://twitter.com/MarkusTurm">Markus</a>, <a href="https://twitter.com/Lassmiranda21">Lassmiranda</a> und <a href="https://twitter.com/_d11n_">Dennis</a></p>
 <p><a href="https://www.btc-echo.de/schlagzeilen/kryptosteuern-auf-rekordhoch-150286/"><u>Brasilien &amp; Steuern</u></a><u><br>
 </u><a href="https://bitcoinfax.net/"><u>Bitcoinfax.net</u></a><u><br>
 </u><a href="https://www.businessinsider.com/jay-z-jack-dorsey-bitcoin-academy-marcy-houses-2022-9"><u>Bitcoin Programm in Brooklyn<br>
@@ -68,7 +68,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 14 Sep 2022 21:30:09 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/57580986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-14%2F25dcfc44-e383-706c-6c48-1a15d7a99029.mp3" length="275925499" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 150 - Blockzeit 754101 - von und mit markus dennis lassmiranda
+      <itunes:summary>Episode 150 - Blockzeit 754101 - von und mit Markus, Lassmiranda und Dennis
 Brasilien &amp;amp; Steuern
 Bitcoinfax.net
 Bitcoin Programm in Brooklyn
@@ -95,6 +95,14 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu</itunes:summary>
       <itunes:duration>01:54:58</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="0320dbad5f3f70b095374fc609474f46393ba2c8b216dd7f69b325b482749ae538" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
+      <podcast:person href="https://twitter.com/Lassmiranda21">Lassmiranda</podcast:person>
+      <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
     </item>
     <item>
       <title><![CDATA[Interview #82 - Lugano’s Plan B]]></title>
