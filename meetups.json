@@ -372,7 +372,7 @@
     "state": [
       "Hessen"
     ],
-    "members": 24
+    "members": 25
   },
   {
     "name": "Einundzwanzig Koblenz",
@@ -438,7 +438,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 89
+    "members": 88
   },
   {
     "name": "Einundzwanzig Saarland",
@@ -652,7 +652,7 @@
     "state": [
       "Bayern"
     ],
-    "members": 136
+    "members": 134
   },
   {
     "name": "Einundzwanzig Salzburg",
@@ -662,7 +662,8 @@
     "country": "AT",
     "state": [
       "Salzburg"
-    ]
+    ],
+    "members": 50
   },
   {
     "name": "Einundzwanzig Vorarlberg",
@@ -672,7 +673,8 @@
     "country": "AT",
     "state": [
       "Vorarlberg"
-    ]
+    ],
+    "members": 28
   },
   {
     "name": "Einundzwanzig Tirol",
@@ -682,7 +684,8 @@
     "country": "AT",
     "state": [
       "Tirol"
-    ]
+    ],
+    "members": 116
   },
   {
     "name": "Bitcoin Graz",
@@ -702,7 +705,8 @@
     "country": "AT",
     "state": [
       "Kärnten"
-    ]
+    ],
+    "members": 13
   },
   {
     "name": "Einundzwanzig Basel",
@@ -712,7 +716,8 @@
     "country": "CH",
     "state": [
       "Basel"
-    ]
+    ],
+    "members": 69
   },
   {
     "name": "Bitcoin Bern",
@@ -802,7 +807,8 @@
     "country": "IT",
     "state": [
       "Südtirol"
-    ]
+    ],
+    "members": 49
   },
   {
     "name": "Einundzwanzig Gran Canaria",
@@ -810,7 +816,8 @@
     "country": "ES",
     "state": [
       "Canaria"
-    ]
+    ],
+    "members": 6
   },
   {
     "name": "Yirmibir Istanbul",
@@ -818,7 +825,8 @@
     "country": "TR",
     "state": [
       "Istanbul"
-    ]
+    ],
+    "members": 116
   },
   {
     "name": "Einundzwanzig Styria",
@@ -914,6 +922,6 @@
     "state": [
       "Bayern"
     ],
-    "members": 11
+    "members": 12
   }
 ]
