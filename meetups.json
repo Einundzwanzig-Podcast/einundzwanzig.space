@@ -51,7 +51,7 @@
     "state": [
       "Mecklenburg-Vorpommern"
     ],
-    "members": 32
+    "members": 33
   },
   {
     "name": "Einundzwanzig Ostfriesland",
@@ -88,7 +88,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 101
+    "members": 100
   },
   {
     "name": "Einundzwanzig Norddeutschland",
@@ -101,7 +101,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 259
+    "members": 258
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -112,7 +112,7 @@
     "state": [
       "Bremen"
     ],
-    "members": 259
+    "members": 258
   },
   {
     "name": "Einundzwanzig Oldenburg",
@@ -123,7 +123,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 21
+    "members": 22
   },
   {
     "name": "Bitcoin Berlin",
@@ -231,7 +231,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 50
+    "members": 51
   },
   {
     "name": "Einundzwanzig Göttingen",
@@ -493,7 +493,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 54
+    "members": 53
   },
   {
     "name": "Bitcoin Karlsruhe",
@@ -525,7 +525,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 317
+    "members": 319
   },
   {
     "name": "Einundzwanzig Passau",
@@ -620,7 +620,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 99
+    "members": 100
   },
   {
     "name": "Einundzwanzig Konstanz",
@@ -631,7 +631,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 56
+    "members": 54
   },
   {
     "name": "Einundzwanzig Friedrichshafen",
@@ -663,7 +663,7 @@
     "state": [
       "Salzburg"
     ],
-    "members": 51
+    "members": 52
   },
   {
     "name": "Einundzwanzig Vorarlberg",
@@ -890,7 +890,8 @@
     "country": "DE",
     "state": [
       "Rheinland-Pfalz"
-    ]
+    ],
+    "members": 26
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -898,7 +899,8 @@
     "country": "PT",
     "state": [
       "Portugal"
-    ]
+    ],
+    "members": 9
   },
   {
     "name": "Einundzwanzig Luxembourg",
@@ -908,7 +910,8 @@
     "country": "LU",
     "state": [
       "Luxembourg"
-    ]
+    ],
+    "members": 26
   },
   {
     "name": "Einundzwanzig Oberland",
@@ -918,7 +921,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 16
   },
   {
     "name": "Einundzwanzig Herrsching",
@@ -928,6 +932,7 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 17
   }
 ]
