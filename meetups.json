@@ -101,7 +101,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 258
+    "members": 259
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -112,7 +112,7 @@
     "state": [
       "Bremen"
     ],
-    "members": 258
+    "members": 259
   },
   {
     "name": "Einundzwanzig Oldenburg",
@@ -123,7 +123,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 22
+    "members": 23
   },
   {
     "name": "Bitcoin Berlin",
@@ -580,7 +580,7 @@
     "state": [
       "Bayern"
     ],
-    "members": 105
+    "members": 106
   },
   {
     "name": "Einundzwanzig Wien",
@@ -965,7 +965,8 @@
     "country": "DE",
     "state": [
       "Hessen"
-    ]
+    ],
+    "members": 12
   },
   {
     "name": "Einundzwanzig Gelnhausen",
@@ -975,6 +976,7 @@
     "country": "DE",
     "state": [
       "Hessen"
-    ]
+    ],
+    "members": 8
   }
 ]
