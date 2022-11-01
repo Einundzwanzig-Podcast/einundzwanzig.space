@@ -109,13 +109,18 @@ document.addEventListener("DOMContentLoaded", () => {
   })
 
   // Map
-  const map = document.getElementById('dach')
-  if (map) {
-    map.onclick = e => {
-      console.log({
-        top: Math.round((e.offsetY / e.target.height) * 100) - 2,
-        left: Math.round((e.offsetX / e.target.width) * 100) + 1,
-      })
+  const map = document.getElementById('map')
+  const mapImg = document.getElementById('dach')
+  const tooltip = document.getElementById('tooltip')
+  if (map && mapImg && tooltip) {
+    mapImg.onclick = e => {
+      const top = Math.round((e.offsetY / e.target.height) * 100) - 2
+      const left = Math.round((e.offsetX / e.target.width) * 100) + 1
+      console.log({ top, left }, map)
+      tooltip.innerText = `Top: ${top} / Left: ${left}`
+      tooltip.removeAttribute('hidden')
+      tooltip.style.top = `${top + 1}%`
+      tooltip.style.left = `${left}%`
     }
   }
 })
