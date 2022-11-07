@@ -19,7 +19,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 41
+    "members": 43
   },
   {
     "name": "Einundzwanzig Lübeck",
@@ -75,7 +75,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 86
+    "members": 87
   },
   {
     "name": "Bitcoin Hamburg",
@@ -88,7 +88,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 100
+    "members": 99
   },
   {
     "name": "Einundzwanzig Norddeutschland",
@@ -155,7 +155,7 @@
     "state": [
       "Brandenburg"
     ],
-    "members": 30
+    "members": 31
   },
   {
     "name": "Bitcoin Hannover",
@@ -198,7 +198,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 14
+    "members": 16
   },
   {
     "name": "Einundzwanzig Sachsen-Anhalt",
@@ -220,7 +220,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 151
+    "members": 152
   },
   {
     "name": "Einundzwanzig Sauerland",
@@ -242,7 +242,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 52
+    "members": 54
   },
   {
     "name": "Einundzwanzig Göttingen",
@@ -253,7 +253,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 47
+    "members": 48
   },
   {
     "name": "Einundzwanzig Essen",
@@ -264,7 +264,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 135
+    "members": 136
   },
   {
     "name": "Bitcoin Leipzig",
@@ -597,6 +597,16 @@
     ]
   },
   {
+    "name": "Bitcoin Wien",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ]
+  },
+  {
     "name": "Einundzwanzig Ried i.I.",
     "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
     "top": 70,
@@ -708,7 +718,7 @@
   },
   {
     "name": "Bitcoin Graz",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Austria/",
+    "url": "https://bitcoin-austria.at/events/",
     "top": 83,
     "left": 87,
     "country": "AT",
@@ -918,7 +928,8 @@
     "country": "LU",
     "state": [
       "Luxembourg"
-    ]
+    ],
+    "members": 30
   },
   {
     "name": "Einundzwanzig Oberland",
@@ -928,7 +939,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 18
   },
   {
     "name": "Einundzwanzig Herrsching",
@@ -938,7 +950,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 24
   },
   {
     "name": "Einundzwanzig Kassel",
@@ -949,7 +962,7 @@
     "state": [
       "Hessen"
     ],
-    "members": 22
+    "members": 23
   },
   {
     "name": "Einundzwanzig Gelnhausen",
