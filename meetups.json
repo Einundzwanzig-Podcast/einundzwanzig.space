@@ -101,7 +101,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 264
+    "members": 265
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -112,7 +112,7 @@
     "state": [
       "Bremen"
     ],
-    "members": 264
+    "members": 265
   },
   {
     "name": "Einundzwanzig Oldenburg",
@@ -155,7 +155,7 @@
     "state": [
       "Brandenburg"
     ],
-    "members": 35
+    "members": 36
   },
   {
     "name": "Bitcoin Hannover",
@@ -187,7 +187,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 78
+    "members": 79
   },
   {
     "name": "Einundzwanzig Oelde",
@@ -242,7 +242,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 56
+    "members": 57
   },
   {
     "name": "Einundzwanzig Göttingen",
@@ -350,7 +350,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 266
+    "members": 267
   },
   {
     "name": "Einundzwanzig Aachen",
@@ -427,7 +427,7 @@
     "state": [
       "Hessen"
     ],
-    "members": 222
+    "members": 223
   },
   {
     "name": "Einundzwanzig Langen",
@@ -460,7 +460,7 @@
     "state": [
       "Rheinland-Pfalz"
     ],
-    "members": 69
+    "members": 71
   },
   {
     "name": "Einundzwanzig Mannheim",
@@ -493,7 +493,7 @@
     "state": [
       "Rheinland-Pfalz"
     ],
-    "members": 49
+    "members": 50
   },
   {
     "name": "Einundzwanzig Unterfranken",
@@ -526,7 +526,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 52
+    "members": 53
   },
   {
     "name": "Bitcoin Karlsruhe",
@@ -558,7 +558,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 334
+    "members": 336
   },
   {
     "name": "Einundzwanzig Passau",
@@ -613,7 +613,7 @@
     "state": [
       "Bayern"
     ],
-    "members": 116
+    "members": 117
   },
   {
     "name": "Einundzwanzig Wien",
@@ -685,7 +685,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 103
+    "members": 102
   },
   {
     "name": "Einundzwanzig Konstanz",
@@ -1053,5 +1053,15 @@
       "Rheinland-Pfalz"
     ],
     "members": 11
+  },
+  {
+    "name": "Bitcoin Görlitz",
+    "url": "https://bitcoin-goerlitz.de",
+    "top": 38,
+    "left": 78.5,
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ]
   }
 ]
