@@ -75,7 +75,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 95
+    "members": 96
   },
   {
     "name": "Bitcoin Hamburg",
@@ -144,7 +144,7 @@
     "state": [
       "Berlin"
     ],
-    "members": 230
+    "members": 232
   },
   {
     "name": "Einundzwanzig Potsdam",
@@ -220,7 +220,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 156
+    "members": 157
   },
   {
     "name": "Einundzwanzig Sauerland",
@@ -252,7 +252,8 @@
     "country": "DE",
     "state": [
       "Brandenburg"
-    ]
+    ],
+    "members": 3
   },
   {
     "name": "Einundzwanzig Göttingen",
@@ -274,7 +275,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 135
+    "members": 136
   },
   {
     "name": "Bitcoin Leipzig",
@@ -306,7 +307,7 @@
     "state": [
       "Nordrhein-Westfalen"
     ],
-    "members": 3
+    "members": 4
   },
   {
     "name": "Einundzwanzig Heinsberg",
@@ -923,7 +924,7 @@
     "state": [
       "Steiermark"
     ],
-    "members": 63
+    "members": 64
   },
   {
     "name": "Einundzwanzig Regensburg",
@@ -965,7 +966,8 @@
     "country": "AT",
     "state": [
       "Oberösterreich"
-    ]
+    ],
+    "members": 51
   },
   {
     "name": "Einundzwanzig Trier",
@@ -975,7 +977,8 @@
     "country": "DE",
     "state": [
       "Rheinland-Pfalz"
-    ]
+    ],
+    "members": 35
   },
   {
     "name": "Einundzwanzig Portugal",
@@ -983,7 +986,8 @@
     "country": "PT",
     "state": [
       "Portugal"
-    ]
+    ],
+    "members": 12
   },
   {
     "name": "Einundzwanzig Luxembourg",
@@ -993,7 +997,8 @@
     "country": "LU",
     "state": [
       "Luxembourg"
-    ]
+    ],
+    "members": 36
   },
   {
     "name": "Einundzwanzig Oberland",
@@ -1003,7 +1008,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 20
   },
   {
     "name": "Einundzwanzig Herrsching",
@@ -1013,7 +1019,8 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 34
   },
   {
     "name": "Einundzwanzig Kassel",
@@ -1023,7 +1030,8 @@
     "country": "DE",
     "state": [
       "Hessen"
-    ]
+    ],
+    "members": 30
   },
   {
     "name": "Einundzwanzig Gelnhausen",
@@ -1033,7 +1041,8 @@
     "country": "DE",
     "state": [
       "Hessen"
-    ]
+    ],
+    "members": 8
   },
   {
     "name": "Einundzwanzig Limburg",
@@ -1053,7 +1062,8 @@
     "country": "DE",
     "state": [
       "Hessen"
-    ]
+    ],
+    "members": 9
   },
   {
     "name": "Einundzwanzig Rhoihesse",
@@ -1063,7 +1073,8 @@
     "country": "DE",
     "state": [
       "Rheinland-Pfalz"
-    ]
+    ],
+    "members": 11
   },
   {
     "name": "Bitcoin Görlitz",
@@ -1083,6 +1094,7 @@
     "country": "DE",
     "state": [
       "Bayern"
-    ]
+    ],
+    "members": 4
   }
 ]
