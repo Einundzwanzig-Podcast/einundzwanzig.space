@@ -70,7 +70,7 @@ ul {
   z-index: 1;
 }
 .cube li:nth-child(1) {
-  transform: rotateX(90deg) translateX(0) translateY(0) translateZ(calc(var(--size) / 2));
+  transform: rotateX(90deg) translateX(0) translateY(0) translateZ(calc(var(--size) / 2 - 3px));
 }
 .cube li:nth-child(2) {
   transform: rotateY(-90deg) translateX(0) translateY(0) translateZ(calc(var(--size) / 2));
