@@ -10,7 +10,7 @@ block vars
 - const themeColor = site.meta.themeColor
 
 <!DOCTYPE html>
-html(lang="en")
+html(lang="de")
   head
     include _head
   body
@@ -46,8 +46,6 @@ html(lang="en")
                 a(href="/team/" class=(navCurrent === 'team' && 'current')) Team
                 a(href="/verein/" class=(navCurrent === 'verein' && 'current')) Verein
                 a(href="/kontakt/" class=(navCurrent === 'kontakt' && 'current')) Kontakt
-            //- .navItem
-            //-   a(href=site.meta.shopUrl target="_blank") Shop
           button(type="button").theme
             +sprite("theme")
 

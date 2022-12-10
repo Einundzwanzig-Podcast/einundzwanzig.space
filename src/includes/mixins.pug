@@ -32,6 +32,50 @@ mixin member(m)
     if m.text
       !=markdown(m.text)
 
+mixin map(m)
+  - const filterOfficial = (list, official) => list.filter(meetup => (meetup.name.startsWith('Einundzwanzig') || meetup.name.startsWith('Einezwänzg')) === official)
+  - const filterUnmapped = (list) => list.filter(meetup => !meetup.top || !meetup.left)
+  - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
+  - const clss = m => m.top && m.left ? null : 'unmapped'
+  - let j = 0
+  #map
+    h2 Einundzwanzig Meetups
+    ul.meetups
+      each m in filterOfficial(meetups, true)
+        li.official(class=clss(m) style=style(m))
+          a(href=m.url target="_blank" rel="nofollow noopener")
+            .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+            = m.name.replace('Einundzwanzig ', '').replace('Einezwänzg ', '')
+          if m.members
+            = ' '
+            small.members= `(${m.members})`
+          - j++
+
+    h2 Weitere Meetups
+    ul.meetups
+      each m in filterOfficial(meetups, false)
+        li(class=clss(m) style=style(m))
+          a(href=m.url target="_blank" rel="nofollow noopener")
+            .dot(style=`animation-delay:${((j*2000) + random(3000))}ms;animation-duration:${meetups.length*2}s;`)
+            = m.name.replace('Bitcoin ', '')
+          if m.members
+            = ' '
+            small.members= `(${m.members})`
+          - j++
+
+    img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
+    #tooltip.tooltip(hidden)
+  #unmapped
+    h2 Weitere Meetups
+    ul.meetups
+      each m in filterUnmapped(meetups)
+        li(class=clss(m) style=style(m))
+          a(href=m.url target="_blank" rel="nofollow noopener")
+            = m.name
+          if m.members
+            = ' '
+            small.members= `(${m.members})`
+
 mixin spende(d, trunc = false)
   .spende(id=d.id)&attributes(attributes)
     .inner
