@@ -15,7 +15,9 @@ const setColorMode = mode => {
   }
 }
 
-setColorMode(initialColorMode)
+if (!document.documentElement.hasAttribute(THEME_ATTR)) {
+  setColorMode(initialColorMode)
+}
 
 const copyToClipboard = (e, text) => {
   if (navigator.clipboard) {
