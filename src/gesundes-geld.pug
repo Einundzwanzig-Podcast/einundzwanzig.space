@@ -1,0 +1,61 @@
+include includes/mixins
+
+block vars
+  - const pageTitle = "Bitcoin ist gesundes Geld"
+  - const pageDescription = "Bitcoin? Ja, Bitcoin! Hinter Bitcoin verbirgt sehr weit mehr als du vielleicht denkst."
+  - const pageCard = "/img/card/gesundes-geld.jpg"
+
+<!DOCTYPE html>
+html(lang="de" data-theme="custom")
+  head
+    include includes/_head
+    link(href=assetPath("/css/gesundes-geld.css") rel="stylesheet")
+  body
+    main.main
+      #gesundes-geld.wrap
+        section
+          header
+            .circle
+            h1
+              strong ₿itcoin
+              = " ist #gesundesgeld"
+            h2 Gesundes Geld<br>Bessere Welt
+
+          .lead
+            img#mcgenesis-1(src=assetPath("/img/gesundes-geld/mcgenesis-1.svg"))
+            div
+              p
+                strong Bitcoin? Ja, Bitcoin!
+              p Hinter Bitcoin verbirgt sehr weit mehr als du vielleicht denkst.
+
+          .text
+            :markdown-it(html linkify typographer)
+              ### Schön, dass du unseren Plakaten gefolgt bist!
+
+              Wir leben in turbulenten Zeiten und auf Grund der hohen Inflation spielt das Thema Geld für immer mehr Menschen eine bedeutende Rolle in ihrem Alltag.
+              Deshalb haben wir diese Plakat-Aktion am heutigen 03.01.2023 gestartet, denn heute feiert Bitcoin seinen 14. Geburtstag.
+
+              Bitcoin? Ja, Bitcoin!
+              Hinter Bitcoin verbirgt sehr weit mehr als du vielleicht denkst.
+              Bei Bitcoin geht es um Themen wie:
+              - Ökonomie und Geldpolitik (Was ist Geld eigentlich? Warum wird alles immer teurer?)
+              - Gesellschaft (z.B. raus aus der Konsumgesellschaft, Wohlstand für alle)
+              - Technische Themen (Blockchain, Kryptographie und Co)
+
+              <br>
+
+              Im kompletten deutschsprachigen Raum entstehen seit einiger Zeit "Meet-Ups".
+              In den regionalen Gruppen tauscht man sich über diese und andere Themen via Telegram oder meist auch einmal monatlich bei einem Stammtisch vor Ort aus.
+              Der Austausch ist völlig unentgeltlich und keiner will dir irgendetwas verkaufen oder gar "andrehen".
+              Wir sind einfach ganz normale Leute. 😀
+
+              Du hast Lust mehr über Geld und all seine Facetten zu erfahren?
+              Dann trete deiner regionalen "Einundzwanzig-Community" bei.
+              Suche einfach ein Meet-Up in deiner Umgebung und schon findest du interessierte Leute und interessante Gesprächspartner.
+
+              PS: Bitcoin ist begrenzt und daher nicht von Staaten oder Notenbanken inflationierbar.
+              Es wird niemals mehr als 21 Millionen Bitcoin geben.
+              Daher auch der Name "[Einundzwanzig](/)" 😉
+
+        +map(meetups, true)
+    include includes/_footer

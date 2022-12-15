@@ -42,6 +42,7 @@
   --transition-duration-slow: 1.5s;
 
   --font-family-base: 'Inconsolata', monospace;
+  --font-family-bold: 'TheBoldFont', monospace;
 
   --font-weight-regular: 400;
   --font-weight-bold: 700;
@@ -52,13 +53,16 @@
   --font-size-l: 1.25rem;
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2.25rem;
+  --font-size-xxxl: 4rem;
 
   @media (--up_to_M) {
     --font-size-base: 16px;
+    --font-size-xxxl: 2.25rem;
     --wrap-padding-horizontal: var(--space-l);
   }
   @media (--M_to_L) {
     --font-size-base: 18px;
+    --font-size-xxxl: 3.5rem;
     --wrap-padding-horizontal: var(--space-xl);
   }
   @media (--L_and_up) {
