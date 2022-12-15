@@ -12,7 +12,7 @@
     "dist": "dist",
     "port": "3000",
     "domain": "einundzwanzig.space",
-    "linkcheck": "blc -ro --filter-level 2 --requests 1 --exclude reddit.com --exclude t.me --exclude blog.voltage.cloud --exclude shiftcrypto.shop/en/products/black-friday-bundle-btc-41"
+    "linkcheck": "blc -ro --filter-level 2 --requests 1 --exclude reddit.com --exclude t.me --exclude blog.voltage.cloud --exclude canva.com --exclude cointelegraph.com --exclude shiftcrypto.shop/en/products/black-friday-bundle-btc-41"
   },
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
