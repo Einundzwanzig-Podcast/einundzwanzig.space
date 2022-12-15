@@ -32,7 +32,7 @@ mixin member(m)
     if m.text
       !=markdown(m.text)
 
-mixin map(m)
+mixin map(meetups, hideTooltip)
   - const filterOfficial = (list, official) => list.filter(meetup => (meetup.name.startsWith('Einundzwanzig') || meetup.name.startsWith('Einezwänzg')) === official)
   - const filterUnmapped = (list) => list.filter(meetup => !meetup.top || !meetup.left)
   - const style = m => m.top && m.left ? `top:${m.top}%;left:${m.left}%;` : null
@@ -64,7 +64,8 @@ mixin map(m)
           - j++
 
     img#dach(src=assetPath('/img/dach.svg') alt="DE, AT, CH")
-    #tooltip.tooltip(hidden)
+    if !hideTooltip
+      #tooltip.tooltip(hidden)
   #unmapped
     h2 Weitere Meetups
     ul.meetups
