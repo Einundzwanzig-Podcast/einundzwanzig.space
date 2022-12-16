@@ -3,22 +3,19 @@ name: linkcheck
 on:
   # Run once per day
   schedule:
-    - cron: '* * * * *'
+    - cron: '21 1 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16]
     steps:
       # Checkout and setup
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Setup (Node.js ${{ matrix.node-version }})
-        uses: actions/setup-node@v1
+        uses: actions/checkout@v3
+      - name: Setup
+        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: 16
       # Install and build
       - name: Install
         run: npm ci
