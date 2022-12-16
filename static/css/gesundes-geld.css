@@ -6,12 +6,9 @@
   --color-accent-highlight: #f0881b;
 }
 
-body {
-  overflow-x: hidden;
-}
-
-.main {
+#gesundes-geld .main {
   padding-top: var(--space-xl);
+  overflow-x: hidden;
 }
 
 #gesundes-geld header {
@@ -42,7 +39,7 @@ body {
   background-color: var(--color-yellow);
 }
 
-#gesundes-geld h1 {
+#gesundes-geld header h1 {
   color: var(--color-body-text);
   font-size: var(--font-size-l);
   margin: 0 auto;
@@ -51,7 +48,7 @@ body {
   text-align: center;
 }
 
-#gesundes-geld h2 {
+#gesundes-geld header h2 {
   font-family: var(--font-family-bold);
   font-size: var(--font-size-xxxl);
   margin: var(--space-s) auto 0;
@@ -100,10 +97,33 @@ body {
   line-height: 1.25;
 }
 
-#gesundes-geld .text p:last-child {
+#gesundes-geld .bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-xxl);
+}
+
+#gesundes-geld .bottom img {
+  transform: scaleX(-1);
+  width: 20vw;
+}
+
+@media screen and (max-width: 599px) {
+  #gesundes-geld .bottom img {
+    display: none;
+  }
+}
+
+#gesundes-geld .bottom p:last-child {
   color: var(--color-neutral-75);
+  margin-bottom: 0;
 }
 
 #gesundes-geld #unmapped {
   display: none;
+}
+
+#gesundes-geld section:last-child {
+  text-align: center;
 }
