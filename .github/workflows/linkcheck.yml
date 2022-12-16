@@ -21,4 +21,4 @@ jobs:
         run: npm ci
       # Run linkcheck, propagate linkcheck failure through grep pipe
       - name: Linkcheck
-        run: set -o pipefail; npm run linkcheck 2>/dev/null | grep "Getting links from\|BROKEN"
+        run: set -o pipefail; npm run linkcheck:prod 2>/dev/null | grep "Getting links from\|BROKEN"
