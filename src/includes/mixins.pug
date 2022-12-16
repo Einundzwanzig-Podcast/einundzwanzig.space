@@ -76,6 +76,8 @@ mixin map(meetups, hideTooltip)
           if m.members
             = ' '
             small.members= `(${m.members})`
+      li.unmapped
+        a(href="https://twentyone.world/" target="_blank" rel="nofollow noopener") Einundzwanzig in der ganzen Welt
 
 mixin spende(d, trunc = false)
   .spende(id=d.id)&attributes(attributes)
