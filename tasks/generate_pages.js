@@ -11,7 +11,7 @@ const team = require('../content/team.json')
 const kurse = require('../content/kurse.json')
 const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
-const adventskalender = require('../content/adventskalender.json')
+const adventskalender = require('../content/adventskalender-2022.json')
 
 const renderPage = (template, out, data = {}) => {
   const file = resolve(__dirname, '..', `src/${template}.pug`)
