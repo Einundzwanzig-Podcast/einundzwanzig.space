@@ -75,7 +75,7 @@
       "Bremen",
       "Niedersachsen"
     ],
-    "members": 111
+    "members": 112
   },
   {
     "name": "Bitcoin Hamburg",
@@ -275,7 +275,7 @@
     "state": [
       "Niedersachsen"
     ],
-    "members": 50
+    "members": 51
   },
   {
     "name": "Einundzwanzig Essen",
@@ -361,7 +361,7 @@
     "state": [
       "Thüringen"
     ],
-    "members": 41
+    "members": 42
   },
   {
     "name": "Einundzwanzig Köln",
@@ -449,7 +449,7 @@
     "state": [
       "Hessen"
     ],
-    "members": 237
+    "members": 238
   },
   {
     "name": "Einundzwanzig Langen",
@@ -602,7 +602,7 @@
     "state": [
       "Baden-Württemberg"
     ],
-    "members": 342
+    "members": 341
   },
   {
     "name": "Einundzwanzig Passau",
@@ -660,40 +660,20 @@
     "members": 123
   },
   {
-    "name": "Einundzwanzig Wien",
-    "url": "https://t.me/+kM_-ZHlOS-44YWNk",
-    "top": 70,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
-    ]
-  },
-  {
-    "name": "Bitcoin Wien",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
-    ]
-  },
-  {
-    "name": "Einundzwanzig Ried i.I.",
-    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
-    "top": 70,
-    "left": 69,
-    "country": "AT",
-    "state": [
-      "Oberösterreich"
-    ]
-  },
-  {
     "name": "Bitcoin Ulm",
     "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
     "top": 70,
     "left": 38,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Balingen",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": 71,
+    "left": 27,
     "country": "DE",
     "state": [
       "Baden-Württemberg"
@@ -764,6 +744,36 @@
     "members": 153
   },
   {
+    "name": "Einundzwanzig Wien",
+    "url": "https://t.me/+kM_-ZHlOS-44YWNk",
+    "top": 70,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ]
+  },
+  {
+    "name": "Bitcoin Wien",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ]
+  },
+  {
+    "name": "Einundzwanzig Ried i.I.",
+    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
+    "top": 70,
+    "left": 69,
+    "country": "AT",
+    "state": [
+      "Oberösterreich"
+    ]
+  },
+  {
     "name": "Einundzwanzig Salzburg",
     "url": "https://t.me/BitcoinSalzburg",
     "top": 76,
@@ -772,7 +782,7 @@
     "state": [
       "Salzburg"
     ],
-    "members": 68
+    "members": 67
   },
   {
     "name": "Einundzwanzig Vorarlberg",
@@ -826,7 +836,7 @@
     "state": [
       "Basel"
     ],
-    "members": 82
+    "members": 83
   },
   {
     "name": "Bitcoin Bern",
@@ -1098,7 +1108,7 @@
     "state": [
       "Rheinland-Pfalz"
     ],
-    "members": 15
+    "members": 16
   },
   {
     "name": "Bitcoin Görlitz",
