@@ -290,8 +290,16 @@
   {
     "name": "Einundzwanzig Bonn",
     "url": "https://t.me/einundzwanzig_bonn",
-    "top": 44,
+    "top": 45,
     "left": 18,
+    "country": "DE",
+    "state": ["Nordrhein-Westfalen"]
+  },
+  {
+    "name": "Einundzwanzig Hennef",
+    "url": "https://t.me/einundzwanzig_hennef",
+    "top": 44,
+    "left": 20,
     "country": "DE",
     "state": ["Nordrhein-Westfalen"]
   },
