@@ -10,15 +10,15 @@ meta(property="og:description" content=pageDescription)
 if pageCard
   meta(property="og:image" content=assetUrl(pageCard, "http"))
   meta(property="og:image:secure_url" content=assetUrl(pageCard))
-  meta(property="og:image:width" content=pageCardSize)
-  meta(property="og:image:height" content=pageCardSize)
+  meta(property="og:image:width" content=(cardSize || 1400))
+  meta(property="og:image:height" content=(cardSize || 1400))
 block og
   meta(property="og:type" content="website")
-meta(property="twitter:card" content="summary")
 meta(property="twitter:title" content=pageTitle)
 meta(property="twitter:description" content=pageDescription)
 if pageCard
   meta(property="twitter:image" content=assetUrl(pageCard))
+  meta(property="twitter:card" content=(cardType || "summary"))
 meta(name="msapplication-TileColor" content=themeColor)
 meta(name="theme-color" content=themeColor)
 link(rel="preload" as="font" crossorigin href=assetPath("/fonts/inconsolata-400.woff2"))
