@@ -2,9 +2,7 @@
 const helpers = require('./helpers')
 
 const IS_DEV = process.env.NODE_ENV === 'development'
-const { DEPLOY_PRIME_URL, URL } = process.env
-const BASE = DEPLOY_PRIME_URL || URL || 'https://einundzwanzig.space'
-const HOST = IS_DEV ? 'http://localhost:3000' : BASE
+const HOST = IS_DEV ? 'http://localhost:3000' : getBaseUrl()
 const random = max =>  Math.floor(Math.random() * Math.floor(max))
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
 const formatDate = date => (new Date(date)).toISOString().replace(/T.*/, '').split('-').reverse().join('.')
@@ -21,6 +19,11 @@ const assetUrl = (path, protocol = 'https') => {
   let url = `${base}${assetPath(path)}`
   if (!url.startsWith(`${protocol}:`)) url = url.replace(/^.*:/, `${protocol}:`)
   return url
+}
+function getBaseUrl () {
+  const { DEPLOY_PRIME_URL, URL } = process.env
+  const branchUrl = DEPLOY_PRIME_URL || URL || ''
+  return !branchUrl.match('master--einundzwanzig') ? branchUrl : 'https://einundzwanzig.space'
 }
 
 module.exports = {
