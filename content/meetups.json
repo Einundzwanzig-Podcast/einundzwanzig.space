@@ -56,14 +56,6 @@
     "state": ["Hamburg", "Bremen", "Niedersachsen"]
   },
   {
-    "name": "Bitcoin Hamburg",
-    "url": "https://t.me/hamburgerbitcoinstammtisch",
-    "top": 16,
-    "left": 38,
-    "country": "DE",
-    "state": ["Hamburg", "Bremen", "Niedersachsen"]
-  },
-  {
     "name": "Einundzwanzig Norddeutschland",
     "url": "https://t.me/Einundzwanzig_Norden",
     "top": 19,
@@ -112,7 +104,7 @@
     "state": ["Brandenburg"]
   },
   {
-    "name": "₿ meetup Hannover",
+    "name": "Bitcoin Hannover",
     "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
     "top": 27,
     "left": 37,
@@ -290,8 +282,16 @@
   {
     "name": "Einundzwanzig Bonn",
     "url": "https://t.me/einundzwanzig_bonn",
-    "top": 44,
+    "top": 45,
     "left": 18,
+    "country": "DE",
+    "state": ["Nordrhein-Westfalen"]
+  },
+  {
+    "name": "Einundzwanzig Hennef",
+    "url": "https://t.me/einundzwanzig_hennef",
+    "top": 44,
+    "left": 20,
     "country": "DE",
     "state": ["Nordrhein-Westfalen"]
   },
@@ -480,35 +480,26 @@
     "state": ["Bayern"]
   },
   {
-    "name": "Einundzwanzig Wien",
-    "url": "https://t.me/+kM_-ZHlOS-44YWNk",
-    "top": 70,
-    "left": 93,
-    "country": "AT",
-    "state": ["Wien"]
-  },
-  {
-    "name": "Bitcoin Wien",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": ["Wien"]
-  },
-
-  {
-    "name": "Einundzwanzig Ried i.I.",
-    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
-    "top": 70,
-    "left": 69,
-    "country": "AT",
-    "state": ["Oberösterreich"]
-  },
-  {
     "name": "Bitcoin Ulm",
     "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
     "top": 70,
     "left": 38,
+    "country": "DE",
+    "state": ["Baden-Württemberg"]
+  },
+  {
+    "name": "Einundzwanzig Balingen",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": 71,
+    "left": 27,
+    "country": "DE",
+    "state": ["Baden-Württemberg"]
+  },
+  {
+    "name": "Einundzwanzig Sigmaringen",
+    "url": "https://t.me/+OyyMlOQv-hYwOGIy",
+    "top": 72,
+    "left": 30,
     "country": "DE",
     "state": ["Baden-Württemberg"]
   },
@@ -559,6 +550,39 @@
     "left": 41,
     "country": "DE",
     "state": ["Bayern"]
+  },
+  {
+    "name": "Einundzwanzig Wien",
+    "url": "https://t.me/+eXlL83e7wO0yZjg0",
+    "top": 70,
+    "left": 93,
+    "country": "AT",
+    "state": ["Wien"]
+  },
+  {
+    "name": "Einundzwanzig Wien (Matrix Group)",
+    "url": "https://matrix.to/#/%2321_Wien-Meetup:matrix.org",
+    "top": 72,
+    "left": 93,
+    "country": "AT",
+    "state": ["Wien"]
+  },
+  {
+    "name": "Bitcoin Wien",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": ["Wien"]
+  },
+
+  {
+    "name": "Einundzwanzig Ried i.I.",
+    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
+    "top": 70,
+    "left": 69,
+    "country": "AT",
+    "state": ["Oberösterreich"]
   },
   {
     "name": "Einundzwanzig Salzburg",
@@ -623,6 +647,14 @@
     "left": 16,
     "country": "CH",
     "state": ["Solothurn"]
+  },
+  {
+    "name": "32-Einezwänzg Bitcoin Seeland",
+    "url": "https://t.me/Einundzwanzig_Seeland",
+    "top": 82.5,
+    "left": 15.5,
+    "country": "CH",
+    "state": ["Bern"]
   },
   {
     "name": "Bitcoin Zürich",
@@ -827,6 +859,5 @@
     "left": 52,
     "country": "DE",
     "state": ["Bayern"]
-  },
-
+  }
 ]

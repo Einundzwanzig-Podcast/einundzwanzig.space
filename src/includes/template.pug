@@ -6,7 +6,6 @@ block vars
 - const pageDescription = description || site.meta.description
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
-- const pageCardSize = cardSize || 1400
 - const themeColor = site.meta.themeColor
 
 <!DOCTYPE html>
@@ -14,11 +13,6 @@ html(lang="de")
   head
     include _head
   body
-    .notice
-      .wrap
-        = "🎄 Wir wünschen euch mit unserem "
-        a(href="/adventskalender/") Adventskalender
-        = " bullishe All Time Highnachten! 🎅"
     header.header#header
       .wrap
         a(href="/").brand

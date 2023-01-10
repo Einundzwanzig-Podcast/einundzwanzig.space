@@ -11,15 +11,14 @@
   "config": {
     "dist": "dist",
     "port": "3000",
-    "domain": "einundzwanzig.space",
-    "linkcheck": "blc -ro --filter-level 2 --requests 1 --exclude reddit.com --exclude t.me --exclude blog.voltage.cloud --exclude canva.com --exclude cointelegraph.com --exclude shiftcrypto.shop/en/products/black-friday-bundle-btc-41"
+    "domain": "einundzwanzig.space"
   },
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
     "episodes": "npm run fetch && mkdir -p episodes && node tasks/fetch_episodes.js",
-    "copy": "cp -r static/* dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
-    "init": "npm-run-all clean -p fetch copy build:data",
+    "copy": "cp -rT static dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
+    "init": "npm-run-all clean copy -p fetch build:data",
     "start": "NODE_ENV=development npm-run-all init -p start:*",
     "start:data": "onchange -k 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
     "start:pages": "onchange -i -k 'pug.config.js' 'markdown.js' 'content/**' 'generated/**' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
@@ -34,19 +33,14 @@
     "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/ln/*.svg dist/img/shop/*.jpg dist/img/team/*.jpg dist/img/team/*.png",
     "sitemap": "node tasks/generate_sitemap.js",
     "redirects": "node tasks/generate_redirects.js",
-    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages -p redirects sitemap",
-    "linkcheck": "start-server-and-test linkcheck:serve $npm_package_config_port linkcheck:local",
-    "linkcheck:serve": "serve -p $npm_package_config_port $npm_package_config_dist",
-    "linkcheck:local": "$npm_package_config_linkcheck http://localhost:$npm_package_config_port",
-    "linkcheck:prod": "$npm_package_config_linkcheck https://$npm_package_config_domain"
+    "prod": "NODE_ENV=production npm-run-all build optimize -s build:pages -p redirects sitemap"
   },
   "dependencies": {
     "amplitudejs": "5.3.2"
   },
   "devDependencies": {
     "autoprefixer": "10.4.13",
-    "broken-link-checker": "0.7.8",
-    "browser-sync": "2.27.10",
+    "browser-sync": "2.27.11",
     "csso-cli": "4.0.1",
     "fast-xml-parser": "4.0.12",
     "glob": "8.0.3",
@@ -64,9 +58,7 @@
     "postcss-mixins": "9.0.4",
     "postcss-nesting": "10.2.0",
     "pug": "3.0.2",
-    "serve": "14.1.2",
-    "start-server-and-test": "1.15.2",
     "sync-request": "6.1.0",
-    "xml-formatter": "3.0.2"
+    "xml-formatter": "3.2.0"
   }
 }

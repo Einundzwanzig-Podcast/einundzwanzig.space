@@ -11,7 +11,7 @@ const team = require('../content/team.json')
 const kurse = require('../content/kurse.json')
 const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
-const adventskalender = require('../content/adventskalender.json')
+const adventskalender = require('../content/adventskalender-2022.json')
 
 const renderPage = (template, out, data = {}) => {
   const file = resolve(__dirname, '..', `src/${template}.pug`)
@@ -49,6 +49,7 @@ renderPage('verein', 'verein', { navCurrent: 'verein' })
 renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
 renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
 renderPage('adventskalender', 'adventskalender', { adventskalender })
+renderPage('gesundes-geld', 'gesundes-geld', { meetups: meetupsSorted })
 
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
 renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', category: 'interview', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview') })
