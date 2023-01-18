@@ -124,6 +124,16 @@
   display: none;
 }
 
+#gesundes-geld section:first-child {
+  margin-bottom: 4rem;
+}
+
 #gesundes-geld section:last-child {
   text-align: center;
+}
+
+.vectorMap {
+  width: 100%;
+  height: 60vh;
+  margin-top: var(--space-xxl);
 }

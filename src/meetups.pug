@@ -5,6 +5,15 @@ block vars
   - const description = 'Eine Liste von Bitcoin-Meetups und Einundzwanzig-Treffen im D/A/CH/S/LI/LU-Raum.'
   - const cardImage = '/img/card/meetups.png'
 
+block pageScripts
+  script(src=assetPath("/vendor/jvectormap/jquery.min.js"))
+  script(src=assetPath("/vendor/jvectormap/jquery-jvectormap.js"))
+  script(src=assetPath("/vendor/jvectormap/maps/europe_mill.js"))
+  script(src=assetPath("/vendor/jvectormap/maps/de_mill.js"))
+  script(src=assetPath("/vendor/jvectormap/maps/at_mill.js"))
+  script(src=assetPath("/vendor/jvectormap/maps/ch_mill.js"))
+  link(href=assetPath("/vendor/jvectormap/jquery-jvectormap.css") rel="stylesheet")
+
 block main
   #meetups.wrap
     section
@@ -12,14 +21,10 @@ block main
       p= description
 
       :markdown-it(html linkify typographer)
-        Neue Meetups können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/meetups.json) hinzugefügt werden.
-        Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
-        Die Werte für `top/left` geben prozentual die Position des Ortes auf der Karte an.
+        Neue Meetups können gerne [im Portal](https://portal.einundzwanzig.space/de/meetup/overview) hinzugefügt werden.
 
-        Wir können auch die Anzahl der Gruppenmitglieder hier anzeigen lassen.
-        Voraussetzung dafür ist, dass die Gruppe öffentlich ist und einen Linknamen hat (a la `t.me/Einundzwanzig_ORT`, kann nur vom Ersteller der Gruppe angepasst werden).
+        Telegram: Die Vorlage für das Gruppenbild findest du im [Media Kit](/media).
         Tipp: Mit Bots wie [Shieldy](https://t.me/shieldy_bot) kann man die Spammer draußen halten.
 
-        Die Vorlage für das Telegram-Gruppenbild findest du im [Media Kit](/media).
-
-      +map(meetups)
+  div(style="margin-bottom: calc(var(--space-xxl) * -1)")
+    +meetupMap()

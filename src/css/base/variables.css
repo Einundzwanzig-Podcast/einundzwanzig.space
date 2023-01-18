@@ -19,6 +19,9 @@
   --color-border-light: var(--color-neutral-10);
   --color-border-medium: var(--color-neutral-25);
 
+  --color-map-region: var(--color-border-light);
+  --color-map-outline: var(--color-neutral-50);
+
   --color-overlay-bg: rgba(230, 230, 230, .95);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);

@@ -51,7 +51,6 @@ renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
 renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
 renderPage('adventskalender', 'adventskalender', { adventskalender })
 renderPage('gesundes-geld', 'gesundes-geld', { meetups: meetupsSorted })
-
 renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news') })
 renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', category: 'interview', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview') })
 renderPage('category', 'podcast/lesestunde', { navCurrent: 'podcast', category: 'lesestunde', categoryName: 'Lesestunde', episodes: episodes.filter(e => e.category === 'lesestunde') })
