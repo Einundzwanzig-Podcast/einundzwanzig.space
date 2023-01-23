@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 21 Jan 2023 07:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 05:25:21 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,66 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #87 - Galoy und Bitcoin in El Salvador mit Kemal]]></title>
+      <description><![CDATA[<p><strong>Interview Kemal - Blockzeit 772812</strong> - von und mit <a href="https://twitter.com/_pretyflaco/">Kemal</a>, <a href="https://twitter.com/cercatrova_21/">Cercatrova</a> und <a href="https://twitter.com/_d11n_/">Dennis</a></p>
+<h2>Themen</h2>
+<ul>
+ <li>Mission und Projekte von Galoy</li>
+ <li>Bitcoin-native Banking</li>
+  <li>Stable Sats</li>
+  <li>Status Quo von Bitcoin in El Salvador</li>
+  <li>Status Quo von Bitcoin in der Türkei</li>
+</ul>
+<h2>Links</h2>
+<ul>
+  <li><a href="https://app.powerbi.com/view?r=eyJrIjoiYzJlYWNkNGEtZTcxNy00MGQxLWIxOTYtNTA0NTc2MDE5YjhiIiwidCI6ImVmOGM2MDFmLWM2OGUtNDg5YS1hNmM0LWNkMWE0ZTc4MDg5MiIsImMiOjR9&amp;pageName=ReportSection9629c9435b278477207e"><u>Link zur Umfrage</u></a></li>
+  <li><a href="https://blog.bitmex.com/in-depth-creating-synthetic-usd/"><u>Arthur Heyes Artikel</u></a></li>
+  <li>Research Paper: <a href="https://galoy.io/research-self-balancing-fee-structures-for-inbound-liquidity/"><u>Pricing Liquidity for Lightning wallets</u></a></li>
+</ul>
+<h2>Weitere Links</h2>
+<ul>
+  <li>Besuche unsere <a href="https://einundzwanzig.space/"><u>Website</u></a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast"><u>Telegram-Community</u></a>.</li>
+  <li>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin"><u>Newsfeed</u></a>.</li>
+  <li>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast"><u>Community-Tutorials auf YouTube</u></a>.</li>
+  <li>Lass uns einen <a href="https://tallyco.in/s/zfxqtu"><u>Shoutout</u></a> da.</li>
+</ul>
+]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-87-galoy-und-bitcoin-in-el-salvador-mit-kemal</link>
+      <guid isPermaLink="false">5ce4421f-7798-4bf2-986e-d2698dc14d32</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 23 Jan 2023 05:21:52 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/63784358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2Fd7daf896-2077-2695-5bde-04aa26b43c3a.mp3" length="80219223" type="audio/mpeg"></enclosure>
+      <itunes:summary>Interview Kemal - Blockzeit 772812 - von und mit Kemal, Cercatrova und Dennis
+Themen
+Mission und Projekte von Galoy
+Bitcoin-native Banking
+Stable Sats
+Status Quo von Bitcoin in El Salvador
+Status Quo von Bitcoin in der Türkei
+Links
+Link zur Umfrage
+Arthur Heyes Artikel
+Research Paper: Pricing Liquidity for Lightning wallets
+Weitere Links
+Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
+Verfolge die neusten Schlagzeilen im Newsfeed.
+Die Community-Tutorials auf YouTube.
+Lass uns einen Shoutout da.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:23:02</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1674239548972-f9d1a44c7ede2.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #87">87</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="02e1f391c9f3420fcaf65d45b615ab53034bd4a090036ddfb5703f6825b3b2bb4c" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/_pretyflaco">Kemal</podcast:person>
+      <podcast:person href="https://twitter.com/cercatrova_21">Cerca</podcast:person>
+      <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #70 - Bitcoin ist ein Glory Hole!]]></title>
       <description><![CDATA[Der Weg 70 - Blockzeit 772693 - von und mit Tanksen
