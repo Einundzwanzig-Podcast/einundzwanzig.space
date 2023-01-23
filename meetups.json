@@ -15,6 +15,21 @@
     "website": null
   },
   {
+    "name": "Bitcoin Austria",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ],
+    "city": "Austria",
+    "longitude": 14.550072,
+    "latitude": 47.516232,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Wiesbaden",
     "url": "https://t.me/einundzwanzigwiesbaden",
     "top": 50,
@@ -298,21 +313,6 @@
     "city": "München",
     "longitude": 11.5753822,
     "latitude": 48.1371079,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Bitcoin Wien",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
-    ],
-    "city": "Wien",
-    "longitude": 16.373819,
-    "latitude": 48.208176,
     "twitter_username": null,
     "website": null
   },
@@ -1319,21 +1319,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Ried i.I.",
-    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
-    "top": 70,
-    "left": 69,
-    "country": "AT",
-    "state": [
-      "Oberösterreich"
-    ],
-    "city": "Wien",
-    "longitude": 16.373819,
-    "latitude": 48.208176,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Vorarlberg",
     "url": "https://t.me/BitcoinVorarlberg",
     "top": 81,
@@ -1446,6 +1431,21 @@
     "longitude": 10.3168835,
     "latitude": 47.7267063,
     "twitter_username": "@MountBitcoin21",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Ried i.I.",
+    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
+    "top": 70,
+    "left": 69,
+    "country": "AT",
+    "state": [
+      "Oberösterreich"
+    ],
+    "city": "Ried i.I.",
+    "longitude": 13.48714,
+    "latitude": 48.20823,
+    "twitter_username": null,
     "website": null
   },
   {
@@ -1668,6 +1668,19 @@
     "latitude": 54.092442,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Einundzwanzig Meetup Pfäffikon SZ",
+    "url": "https://t.me/+sdT8TNEJIMc2Y2U8",
+    "top": null,
+    "left": null,
+    "country": "CH",
+    "state": null,
+    "city": "Pfäffikon SZ",
+    "longitude": 8.795516,
+    "latitude": 47.209298,
+    "twitter_username": null,
+    "website": "https://www.blockzeit.ch/stammtisch"
   },
   {
     "name": "Bitcoin Zürich (Beginners)",
