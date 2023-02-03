@@ -17,9 +17,9 @@ mixin member(m)
     header
       h2=m.name
       .links
-        if m.mastodon
-          a(href=(m.mastodon) target="_blank" rel="nofollow noopener" title=`${m.name} on Mastodon`)
-            +sprite("mastodon")
+        if m.nostr
+          a(href=nostrUrl(m.nostr) target="_blank" rel="nofollow noopener" title=`${m.name} on Nostr`)
+            +sprite("nostr")
         if m.twitter
           a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" rel="nofollow noopener" title=`${m.name} on Twitter`)
             +sprite("twitter")

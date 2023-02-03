@@ -36,10 +36,15 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
+const nostrUrl = pubkey => pubkey
+  ? `https://snort.social/p/${pubkey}`
+  : null
+
 module.exports = {
   markdown: mdTransformer.render,
   replacements,
   slugify,
   stripHTML,
-  truncate
+  truncate,
+  nostrUrl
 }

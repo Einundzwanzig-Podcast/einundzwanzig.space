@@ -2,7 +2,7 @@
   "markus": {
     "name": "Markus",
     "twitter": "MarkusTurm",
-    "mastodon": "https://bitcoinhackers.org/@markusturm",
+    "nostr": "npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y",
     "github": "MarkusTurm",
     "text": "Bester Mann. Toxic ☣️ aber fair. Sorgt für die Bitcoin Mass-Adoption \"one [Currywurstbude](http://www.curry-alm.info/) at a time\" 🌭",
     "image": "/img/team/markus.jpg"
@@ -10,7 +10,7 @@
   "gigi": {
     "name": "Gigi",
     "twitter": "dergigi",
-    "mastodon": "https://bitcoinhackers.org/@dergigi",
+    "nostr": "npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc",
     "github": "dergigi",
     "url": "https://dergigi.com",
     "text": "Der Gigi leiht dir seine Taschenlampe 🔦 solltest du dich auf deinem Weg im [Kaninchenbau](https://21lessons.com/) mal verlaufen 🕳🐇",
@@ -19,7 +19,7 @@
   "fab": {
     "name": "Fab",
     "twitter": "fabthefoxx",
-    "mastodon": "https://bitcoinhackers.org/@fabthefox",
+    "nostr": "npub1gxdaxg7prcvgcs4pvlr8vac9a93t6uhph0wfuvpjm28q087n5y9qzx69d4",
     "url": "http://fabthefox.com",
     "text": "The Fox 🦊 verbreitet mit seinem Verlag Aprycot das Bitcoin-Wissen und ist der Wirt an der [Media-Theke](https://aprycot.media/thek/) 📙",
     "image": "/img/team/fab.jpg"
@@ -27,7 +27,7 @@
   "dennis": {
     "name": "Dennis",
     "twitter": "_d11n_",
-    "mastodon": "https://bitcoinhackers.org/@d11n",
+    "nostr": "npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf",
     "github": "dennisreimann",
     "url": "https://d11n.net",
     "text": "Mag Open Source und [BTCPay Server](https://btcpayserver.org/) 💚 und schreibt lieber Software als Texte über sich selbst 👨🏻‍💻",
@@ -56,6 +56,7 @@
   "joko": {
     "name": "Joko",
     "twitter": "jokoono",
+    "nostr": "npub1edej30zsgmmla78cmd8q7k4x8ff22ny8w8pvzqln6q0h2h9udneq32fwey",
     "url": "https://btc21.de",
     "text": "Der Tulpenhändler deines Vertrauens 🌷 hat auch immer die neueste [BTC21](https://btc21.de) Ausgabe auf dem Tresen 📰",
     "image": "/img/team/joko.png"
@@ -63,6 +64,7 @@
   "kemal": {
     "name": "Kemal",
     "twitter": "_pretyflaco",
+    "nostr": "npub1r753dq8tl35qd8kpxs3lezumpf6xayn9tp8pdnmaszl844epmehqsxjkkm",
     "url": "https://ideasarelikeflames.com/",
     "text": "Verbindet Bitcoin und [Bikini](https://bitcoin-turm.de/bturm26/) 👙 und berichtet als Türkei-Korrespondent über Geld in der ganzen Welt 🇹🇷",
     "image": "/img/team/kemal.jpg"
@@ -70,6 +72,7 @@
   "lassmiranda": {
     "name": "Lassmiranda",
     "twitter": "Lassmiranda21",
+    "nostr": "npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p",
     "text": "Dennsiewillja! Rundum coole Socke 🧦 Wenn er nicht grade bei [Moe](https://www.youtube.com/watch?v=PGvwVo3rR8U) anruft, managed er unseren [YouTube-Kanal](https://www.youtube.com/c/EinundzwanzigPodcast) 📺",
     "image": "/img/team/lassmiranda.jpg"
   },
@@ -91,6 +94,7 @@
   "ole": {
     "name": "Ole",
     "twitter": "DerCheapi",
+    "nostr": "npub17xc6v7ynma3cw0gq372q6y78zmekyvpkwqpuzuqm8zpydg5m4pkq8v2sts",
     "url": "https://medium.com/@dercheapi",
     "text": "Kinderzimmerökonom und Junior-Shitposter 💁‍♂️ Senkt unsere Boomer-Quote und findet die [Easter-Eggs](/podcast/der-weg-31-bitcoin-ist-ein-easter-egg/) 🥚",
     "image": "/img/team/ole.jpg"
@@ -99,6 +103,7 @@
     "name": "Cerca",
     "twitter": "cercatrova_21",
     "github": "cercatrova21",
+    "nostr": "npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m",
     "url": "https://bitcoin-mentoring.me",
     "text": "Der Quoten-Schweizer! 🇨🇭🧀 Sagt jedem zentral gesteuerten Geldinstitut den Kampf an und hilft dir jeden Scammer zu scammen",
     "image": "/img/team/cercatrova.jpg"
@@ -106,6 +111,7 @@
   "tanksen": {
     "name": "Tanksen",
     "twitter": "tanksen_f",
+    "nostr": "npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5",
     "text": "Unser Wegbegleiter, Tippspiel-Buchmacher, Afrika-Korrespondent und Fußball-Aficionado ⚽",
     "image": "/img/team/tanksen.jpg"
   }
