@@ -59,7 +59,7 @@ try {
   meetups = loadJson('https://portal.einundzwanzig.space/api/meetups')
 } catch (err) {
   console.error('Could not load meetups:', err)
-  meetups = require('../content/soundboard.json')
+  meetups = require('../content/meetups-do-not-edit.json')
 }
 
 writeJSON(dir('dist', 'meetups.json'), meetups)
