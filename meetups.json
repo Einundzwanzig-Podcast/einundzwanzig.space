@@ -41,6 +41,21 @@
     "website": null
   },
   {
+    "name": "Eenanzwanzeg Lëtzebuerg",
+    "url": "https://t.me/einundzwanzigLU",
+    "top": 56,
+    "left": 5,
+    "country": "LU",
+    "state": [
+      "Luxembourg"
+    ],
+    "city": "Luxembourg",
+    "longitude": 6.1296751,
+    "latitude": 49.8158683,
+    "twitter_username": "EinundzwanzigLU",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Dingolfing-Landau",
     "url": "https://t.me/+jtPmx8L1OW84ZDAy",
     "top": null,
@@ -50,7 +65,22 @@
     "city": "Dingolfing",
     "longitude": 12.49782,
     "latitude": 48.628471,
-    "twitter_username": "@Schlimmer0815",
+    "twitter_username": "Schlimmer0815",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Südtirol",
+    "url": "https://t.me/Einundzwanzig_Suedtirol",
+    "top": 88,
+    "left": 51,
+    "country": "IT",
+    "state": [
+      "Südtirol"
+    ],
+    "city": "Südtirol",
+    "longitude": 11.2302129,
+    "latitude": 46.65594557,
+    "twitter_username": "SudtirolBitcoin",
     "website": null
   },
   {
@@ -125,6 +155,19 @@
     "website": "https://twitter.com/TjugoettSthlm08"
   },
   {
+    "name": "Satoshis Coffeeshop",
+    "url": "https://t.me/satoshiscoffeeshop",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "München",
+    "longitude": 11.5753822,
+    "latitude": 48.1371079,
+    "twitter_username": "satoshiscoffee",
+    "website": "https://bitcoinlight.house/events/satoshis-coffeeshop/"
+  },
+  {
     "name": "32-Einezwänzg Seeland",
     "url": "https://t.me/Einundzwanzig_Seeland",
     "top": null,
@@ -136,6 +179,21 @@
     "latitude": 47.074029,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Bitcoin München",
+    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
+    "top": 72,
+    "left": 53,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "München",
+    "longitude": 11.5753822,
+    "latitude": 48.1371079,
+    "twitter_username": "bitcoinmuc",
+    "website": "https://www.meetup.com/Bitcoin-Munich/"
   },
   {
     "name": "Einundzwanzig Passau",
@@ -180,6 +238,21 @@
     "longitude": 7.5943951,
     "latitude": 50.3533278,
     "twitter_username": "EinundzwanzigKo",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Kempten",
+    "url": "https://t.me/EinundzwanzigKempten",
+    "top": 77,
+    "left": 41,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Kempten",
+    "longitude": 10.3168835,
+    "latitude": 47.7267063,
+    "twitter_username": "MountBitcoin21",
     "website": null
   },
   {
@@ -408,21 +481,6 @@
     "longitude": 10.686559,
     "latitude": 53.865467,
     "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Kempten",
-    "url": "https://t.me/EinundzwanzigKempten",
-    "top": 77,
-    "left": 41,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Kempten",
-    "longitude": 10.3168835,
-    "latitude": 47.7267063,
-    "twitter_username": "@MountBitcoin21",
     "website": null
   },
   {
@@ -867,21 +925,6 @@
     "website": null
   },
   {
-    "name": "Bitcoin München",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Munich/",
-    "top": 72,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Bitcoin Bern",
     "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
     "top": 85,
@@ -1058,19 +1101,6 @@
     "latitude": 50.20976,
     "twitter_username": "EinundzwanzigVE",
     "website": null
-  },
-  {
-    "name": "Satoshis Coffeeshop",
-    "url": "https://t.me/satoshiscoffeeshop",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": "satoshiscoffee",
-    "website": "https://bitcoinlight.house/events/satoshis-coffeeshop/"
   },
   {
     "name": "Einundzwanzig Tirol",
@@ -1386,21 +1416,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Südtirol",
-    "url": "https://t.me/Einundzwanzig_Suedtirol",
-    "top": 88,
-    "left": 51,
-    "country": "IT",
-    "state": [
-      "Südtirol"
-    ],
-    "city": "Südtirol",
-    "longitude": 11.2302129,
-    "latitude": 46.65594557,
-    "twitter_username": "@SudtirolBitcoin",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Darmstadt",
     "url": "https://t.me/einundzwanzigda",
     "top": 53,
@@ -1546,21 +1561,6 @@
     "longitude": 6.6441878,
     "latitude": 49.7596208,
     "twitter_username": "EinundzwanzigTR",
-    "website": null
-  },
-  {
-    "name": "Eenanzwanzeg Lëtzebuerg",
-    "url": "https://t.me/einundzwanzigLU",
-    "top": 56,
-    "left": 5,
-    "country": "LU",
-    "state": [
-      "Luxembourg"
-    ],
-    "city": "Luxembourg",
-    "longitude": 6.1296751,
-    "latitude": 49.8158683,
-    "twitter_username": "@EinundzwanzigLU",
     "website": null
   },
   {
