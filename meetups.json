@@ -934,21 +934,6 @@
     "website": null
   },
   {
-    "name": "Bitcoin Dresden",
-    "url": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch",
-    "top": 40,
-    "left": 69,
-    "country": "DE",
-    "state": [
-      "Sachsen"
-    ],
-    "city": "Dresden",
-    "longitude": 13.7381437,
-    "latitude": 51.0493286,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Balingen",
     "url": "https://t.me/+wNgJ6sTsTOljMjFi",
     "top": 71,
@@ -1260,6 +1245,21 @@
     "latitude": 50.20976,
     "twitter_username": "EinundzwanzigVE",
     "website": null
+  },
+  {
+    "name": "Bitcoin Dresden",
+    "url": "https://t.me/BitcoinDresden",
+    "top": 40,
+    "left": 69,
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ],
+    "city": "Dresden",
+    "longitude": 13.7381437,
+    "latitude": 51.0493286,
+    "twitter_username": null,
+    "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch"
   },
   {
     "name": "Einundzwanzig Mainz",
