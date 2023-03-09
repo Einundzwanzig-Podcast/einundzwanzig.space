@@ -1,16 +1,29 @@
 [
   {
-    "name": "Bitcoin Burgdorf",
-    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/291509163/",
+    "name": "Einundzwanzig 3 Länder Eck",
+    "url": "https://t.me/+HuY5FNSKjtpmZDAy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "3 Länder Eck Hessen BaWü Baye",
+    "longitude": 9.10226,
+    "latitude": 49.577193,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Baden Bitcoin Club",
+    "url": "https://bitcoinbaden.ch/",
     "top": null,
     "left": null,
     "country": "CH",
     "state": null,
-    "city": "Burgdorf",
-    "longitude": 7.62881,
-    "latitude": 47.057869,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/bitcoin-bern/events/291509163/"
+    "city": "Baden",
+    "longitude": 9,
+    "latitude": 47,
+    "twitter_username": "bitcoinbaden",
+    "website": "https://bitcoinbaden.ch/"
   },
   {
     "name": "Bitcoin Meetup Halle (Saale)",
@@ -26,17 +39,30 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig 3 Länder Eck",
-    "url": "https://t.me/+HuY5FNSKjtpmZDAy",
+    "name": "Bitcoin Burgdorf",
+    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/291509163/",
     "top": null,
     "left": null,
-    "country": "DE",
+    "country": "CH",
     "state": null,
-    "city": "3 Länder Eck Hessen BaWü Baye",
-    "longitude": 49.5771939,
-    "latitude": 9.1022604,
+    "city": "Burgdorf",
+    "longitude": 7.62881,
+    "latitude": 47.057869,
     "twitter_username": null,
-    "website": null
+    "website": "https://www.meetup.com/de-DE/bitcoin-bern/events/291509163/"
+  },
+  {
+    "name": "Einundzwanzig Meetup Pfäffikon SZ",
+    "url": "https://t.me/+sdT8TNEJIMc2Y2U8",
+    "top": null,
+    "left": null,
+    "country": "CH",
+    "state": null,
+    "city": "Pfäffikon SZ",
+    "longitude": 8.795516,
+    "latitude": 47.209298,
+    "twitter_username": null,
+    "website": "https://www.blockzeit.ch/stammtisch"
   },
   {
     "name": "Bitcoin Austria",
@@ -69,19 +95,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Dingolfing-Landau",
-    "url": "https://t.me/+jtPmx8L1OW84ZDAy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Dingolfing",
-    "longitude": 12.49782,
-    "latitude": 48.628471,
-    "twitter_username": "Schlimmer0815",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Südtirol",
     "url": "https://t.me/Einundzwanzig_Suedtirol",
     "top": 88,
@@ -97,6 +110,32 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Hildesheim",
+    "url": "https://t.me/EinundzwanzigHildesheim",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Hildesheim",
+    "longitude": 9.951,
+    "latitude": 52.150902,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Dingolfing-Landau",
+    "url": "https://t.me/+jtPmx8L1OW84ZDAy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Dingolfing",
+    "longitude": 12.49782,
+    "latitude": 48.628471,
+    "twitter_username": "Schlimmer0815",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Münster",
     "url": "https://t.me/Einundzwanzig_MS",
     "top": null,
@@ -106,6 +145,19 @@
     "city": "Münster",
     "longitude": 7.626135,
     "latitude": 51.960667,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Hennef",
+    "url": "https://t.me/einundzwanzig_hennef",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Hennef",
+    "longitude": 7.346507,
+    "latitude": 50.760273,
     "twitter_username": null,
     "website": null
   },
@@ -149,10 +201,25 @@
       "Niedersachsen"
     ],
     "city": "Hannover",
-    "longitude": 6.8236481,
-    "latitude": 52.035862,
+    "longitude": 9.73201,
+    "latitude": 52.375893,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Einundzwanzig Saarland",
+    "url": "https://t.me/einundzwanzigsaarland",
+    "top": 58,
+    "left": 13,
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ],
+    "city": "Saarland",
+    "longitude": 6.9537369,
+    "latitude": 49.3841872,
+    "twitter_username": "einundzwanzigSL",
+    "website": "https://einundzwanzig.saarland"
   },
   {
     "name": "Tjugoett Stockholm",
@@ -179,6 +246,19 @@
     "latitude": 48.1371079,
     "twitter_username": "satoshiscoffee",
     "website": "https://bitcoinlight.house/events/satoshis-coffeeshop/"
+  },
+  {
+    "name": "Einundzwanzig Heide",
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Handeloh",
+    "longitude": 9.83926,
+    "latitude": 53.24554,
+    "twitter_username": null,
+    "website": null
   },
   {
     "name": "32-Einezwänzg Seeland",
@@ -209,7 +289,48 @@
     "website": "https://www.meetup.com/Bitcoin-Munich/"
   },
   {
-    "name": "Niederrhein einundzwanzig Meetups",
+    "name": "Einundzwanzig Reutlingen",
+    "url": "https://t.me/+JBYyytK2NncyNTYy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Reutlingen",
+    "longitude": 9.203804,
+    "latitude": 48.506939,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Vulkaneifel",
+    "url": "https://t.me/Einundzwanzig_Vulka",
+    "top": 52,
+    "left": 12,
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ],
+    "city": "Ulmen",
+    "longitude": 6.97981,
+    "latitude": 50.20976,
+    "twitter_username": "EinundzwanzigVE",
+    "website": null
+  },
+  {
+    "name": "₿ Meetup Hannover",
+    "url": "https://t.me/+RSXEIZ_xoq1lNDM6 ",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Hannover",
+    "longitude": 9.73201,
+    "latitude": 52.375893,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Niederrhein",
     "url": "https://t.me/niederrheineinundzwanzig",
     "top": null,
     "left": null,
@@ -282,8 +403,8 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Vreden",
-    "url": "https://t.me/Einundzwanzig_VREDEN",
+    "name": "Einundzwanzig Westmünsterland",
+    "url": "https://t.me/Einundzwanzig_Westmuensterland",
     "top": 29,
     "left": 14,
     "country": "DE",
@@ -297,30 +418,17 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Ausserfern",
-    "url": "https://t.me/einundzwanzig_AUSSERFERN",
+    "name": "Einundzwanzig Rostock",
+    "url": "https://t.me/einundzwanzigRostock",
     "top": null,
     "left": null,
-    "country": "AT",
+    "country": "DE",
     "state": null,
-    "city": "Reutte",
-    "longitude": 10.71948,
-    "latitude": 47.48748,
+    "city": "Rostock",
+    "longitude": 12.099147,
+    "latitude": 54.092442,
     "twitter_username": null,
     "website": null
-  },
-  {
-    "name": "Einundzwanzig Meetup Pfäffikon SZ",
-    "url": "https://t.me/+sdT8TNEJIMc2Y2U8",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
-    "city": "Pfäffikon SZ",
-    "longitude": 8.795516,
-    "latitude": 47.209298,
-    "twitter_username": null,
-    "website": "https://www.blockzeit.ch/stammtisch"
   },
   {
     "name": "Einundzwanzig Heilbronn",
@@ -568,15 +676,15 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Rostock",
-    "url": "https://t.me/einundzwanzigRostock",
+    "name": "Einundzwanzig Ausserfern",
+    "url": "https://t.me/einundzwanzig_AUSSERFERN",
     "top": null,
     "left": null,
-    "country": "DE",
+    "country": "AT",
     "state": null,
-    "city": "Rostock",
-    "longitude": 12.099147,
-    "latitude": 54.092442,
+    "city": "Reutte",
+    "longitude": 10.71948,
+    "latitude": 47.48748,
     "twitter_username": null,
     "website": null
   },
@@ -609,6 +717,19 @@
     "latitude": 48.4008273,
     "twitter_username": "einundzwanzigfs",
     "website": "https://einundzwanzig.freising.money"
+  },
+  {
+    "name": "Einundzwanzig Strohgäu",
+    "url": "https://t.me/+mEqPNx7Xx_M4MGQ6",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Region Strohgäu ",
+    "longitude": 48.816685,
+    "latitude": 9.01803,
+    "twitter_username": null,
+    "website": null
   },
   {
     "name": "Einundzwanzig Konstanz",
@@ -671,32 +792,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Nordhausen",
-    "url": "https://t.me/einundzwanzig_nordhausen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Nordhausen",
-    "longitude": 10.795885,
-    "latitude": 51.503171,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Bitburg",
-    "url": "https://t.me/Einundzwanzigbitburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Bitburg",
-    "longitude": 6.52258,
-    "latitude": 49.974018,
-    "twitter_username": "EinundzwanzigBi",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Heinsberg",
     "url": "https://t.me/Einundzwanzig_HEINSBERG",
     "top": 40,
@@ -736,32 +831,6 @@
     "city": "Cham",
     "longitude": 12.66754,
     "latitude": 49.219311,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Ost-Brandenburg",
-    "url": "https://t.me/einundzwanzig_bbost",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Müncheberg",
-    "longitude": 14.13,
-    "latitude": 52.505,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Heide",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Handeloh",
-    "longitude": 9.83926,
-    "latitude": 53.24554,
     "twitter_username": null,
     "website": null
   },
@@ -861,21 +930,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Saarland",
-    "url": "https://t.me/einundzwanzigsaarland",
-    "top": 58,
-    "left": 13,
-    "country": "DE",
-    "state": [
-      "Saarland"
-    ],
-    "city": "Saarland",
-    "longitude": 6.9537369,
-    "latitude": 49.3841872,
-    "twitter_username": "einundzwanzigSL",
-    "website": "https://einundzwanzig.saarland"
-  },
-  {
     "name": "Einundzwanzig Sachsen",
     "url": "https://t.me/einundzwanzigsachsen",
     "top": 38,
@@ -887,19 +941,6 @@
     "city": "Sachsen",
     "longitude": 13.4585052,
     "latitude": 50.9295798,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Süd Niedersachsen",
-    "url": "https://t.me/einundzwanzigsuedniedersachsen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Göttingen",
-    "longitude": 9.9351811,
-    "latitude": 51.5328328,
     "twitter_username": null,
     "website": null
   },
@@ -928,23 +969,47 @@
       "Hessen"
     ],
     "city": "Limburg",
-    "longitude": 5.9046302,
-    "latitude": 51.2015196,
+    "longitude": 8.05944,
+    "latitude": 50.38675,
     "twitter_username": null,
     "website": null
   },
   {
-    "name": "Einundzwanzig Balingen",
-    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "top": 71,
-    "left": 27,
+    "name": "Einundzwanzig Ost-Brandenburg",
+    "url": "https://t.me/einundzwanzig_bbost",
+    "top": null,
+    "left": null,
     "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Balingen",
-    "longitude": 8.85511,
-    "latitude": 48.27549,
+    "state": null,
+    "city": "Müncheberg",
+    "longitude": 14.13,
+    "latitude": 52.505,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Bitburg",
+    "url": "https://t.me/Einundzwanzigbitburg",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Bitburg",
+    "longitude": 6.52258,
+    "latitude": 49.974018,
+    "twitter_username": "EinundzwanzigBi",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Süd Niedersachsen",
+    "url": "https://t.me/einundzwanzigsuedniedersachsen",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Göttingen",
+    "longitude": 9.9351811,
+    "latitude": 51.5328328,
     "twitter_username": null,
     "website": null
   },
@@ -988,8 +1053,8 @@
       "Niedersachsen"
     ],
     "city": "Hannover",
-    "longitude": 6.8236481,
-    "latitude": 52.035862,
+    "longitude": 9.73201,
+    "latitude": 52.375893,
     "twitter_username": null,
     "website": null
   },
@@ -1232,21 +1297,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Vulkaneifel",
-    "url": "https://t.me/Einundzwanzig_Vulka",
-    "top": 52,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
-    ],
-    "city": "Ulmen",
-    "longitude": 6.97981,
-    "latitude": 50.20976,
-    "twitter_username": "EinundzwanzigVE",
-    "website": null
-  },
-  {
     "name": "Bitcoin Dresden",
     "url": "https://t.me/BitcoinDresden",
     "top": 40,
@@ -1260,6 +1310,21 @@
     "latitude": 51.0493286,
     "twitter_username": null,
     "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch"
+  },
+  {
+    "name": "Einundzwanzig Balingen",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": 71,
+    "left": 27,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Balingen",
+    "longitude": 8.85511,
+    "latitude": 48.27549,
+    "twitter_username": null,
+    "website": null
   },
   {
     "name": "Einundzwanzig Mainz",
@@ -1500,19 +1565,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Hennef",
-    "url": "https://t.me/einundzwanzig_hennef",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Hennef",
-    "longitude": 7.346507,
-    "latitude": 50.760273,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Bitcoin Berlin",
     "url": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
     "top": 25,
@@ -1723,64 +1775,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Saarlouis",
-    "url": "https://t.me/EinundzwanzigSaarlouis",
-    "top": 57,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Saarland"
-    ],
-    "city": "Saarlouis",
-    "longitude": 6.75034,
-    "latitude": 49.315681,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Saarland Stammtisch St. Wendel",
-    "url": "https://t.me/+O4QRQXEEo_Y0MTZi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "St. Wendel",
-    "longitude": 7.1725,
-    "latitude": 49.468056,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Sigmaringen",
-    "url": "https://t.me/+OyyMlOQv-hYwOGIy",
-    "top": 72,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Sigmaringen",
-    "longitude": 9.21662,
-    "latitude": 48.085758,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Oberland",
-    "url": "https://t.me/Einundzwanzig_Oberland",
-    "top": 79,
-    "left": 49,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Oberland",
-    "longitude": 11.4038717,
-    "latitude": 48.9467562,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Augsburg",
     "url": "https://t.me/Einundzwanzig_Augsburg",
     "top": 70,
@@ -1826,7 +1820,50 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Pfarrkirchen",
+    "name": "Einundzwanzig Oberland",
+    "url": "https://t.me/Einundzwanzig_Oberland",
+    "top": 79,
+    "left": 49,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Oberland",
+    "longitude": 11.4038717,
+    "latitude": 48.9467562,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Saarlouis",
+    "url": "https://t.me/EinundzwanzigSaarlouis",
+    "top": 57,
+    "left": 12,
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ],
+    "city": "Saarlouis",
+    "longitude": 6.75034,
+    "latitude": 49.315681,
+    "twitter_username": "einundzwanzigSa",
+    "website": "https://twitter.com/einundzwanzigSa"
+  },
+  {
+    "name": "Einundzwanzig Nordhausen",
+    "url": "https://t.me/einundzwanzig_nordhausen",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Nordhausen",
+    "longitude": 10.795885,
+    "latitude": 51.503171,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Pfarrkirchen (Rottal-Inn)",
     "url": "https://t.me/BTCPAN",
     "top": 68,
     "left": 65,
@@ -1837,6 +1874,34 @@
     "city": "Pfarrkirchen",
     "longitude": 12.9386266,
     "latitude": 48.4320329,
+    "twitter_username": "",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Sigmaringen",
+    "url": "https://t.me/+OyyMlOQv-hYwOGIy",
+    "top": 72,
+    "left": 30,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Sigmaringen",
+    "longitude": 9.21662,
+    "latitude": 48.085758,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Saarland Stammtisch St. Wendel",
+    "url": "https://t.me/+O4QRQXEEo_Y0MTZi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "St. Wendel",
+    "longitude": 7.1725,
+    "latitude": 49.468056,
     "twitter_username": null,
     "website": null
   }
