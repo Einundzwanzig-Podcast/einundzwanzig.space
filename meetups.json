@@ -343,6 +343,19 @@
     "website": null
   },
   {
+    "name": "Bitcoin-Alps",
+    "url": "https://t.me/bitcoinalps",
+    "top": null,
+    "left": null,
+    "country": "CH",
+    "state": null,
+    "city": "Berneroberland",
+    "longitude": 7.6217,
+    "latitude": 46.7512,
+    "twitter_username": "bitcoin_alps",
+    "website": "https://www.bitcoin-alps.ch"
+  },
+  {
     "name": "Einundzwanzig Passau",
     "url": "https://t.me/Einundzwanzig_Passau",
     "top": 67,
@@ -676,6 +689,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Cham",
+    "url": "https://t.me/BitcoinMeetupCham",
+    "top": 60,
+    "left": 62,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Cham",
+    "longitude": 12.66754,
+    "latitude": 49.219311,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Ausserfern",
     "url": "https://t.me/einundzwanzig_AUSSERFERN",
     "top": null,
@@ -816,21 +844,6 @@
     "city": "Kassel",
     "longitude": 9.4924096,
     "latitude": 51.3154546,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Cham",
-    "url": "https://t.me/BitcoinMeetupCham",
-    "top": 60,
-    "left": 62,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Cham",
-    "longitude": 12.66754,
-    "latitude": 49.219311,
     "twitter_username": null,
     "website": null
   },
@@ -1835,21 +1848,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Saarlouis",
-    "url": "https://t.me/EinundzwanzigSaarlouis",
-    "top": 57,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Saarland"
-    ],
-    "city": "Saarlouis",
-    "longitude": 6.75034,
-    "latitude": 49.315681,
-    "twitter_username": "einundzwanzigSa",
-    "website": "https://twitter.com/einundzwanzigSa"
-  },
-  {
     "name": "Einundzwanzig Nordhausen",
     "url": "https://t.me/einundzwanzig_nordhausen",
     "top": null,
@@ -1904,5 +1902,20 @@
     "latitude": 49.468056,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Einundzwanzig Saarlouis",
+    "url": "https://t.me/EinundzwanzigSaarlouis",
+    "top": 57,
+    "left": 12,
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ],
+    "city": "Saarlouis",
+    "longitude": 6.75034,
+    "latitude": 49.315681,
+    "twitter_username": "einundzwanzigSa",
+    "website": "https://twitter.com/einundzwanzigSa"
   }
 ]
