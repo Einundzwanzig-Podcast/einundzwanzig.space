@@ -743,6 +743,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Vorarlberg",
+    "url": "https://t.me/BitcoinVorarlberg",
+    "top": 81,
+    "left": 37,
+    "country": "AT",
+    "state": [
+      "Vorarlberg"
+    ],
+    "city": "Vorarlberg",
+    "longitude": 9.9166667,
+    "latitude": 47.25,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Freising",
     "url": "https://t.me/Einundzwanzig_FS",
     "top": 70,
@@ -846,21 +861,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Vorarlberg",
-    "url": "https://t.me/BitcoinVorarlberg",
-    "top": 81,
-    "left": 37,
-    "country": "AT",
-    "state": [
-      "Vorarlberg"
-    ],
-    "city": "Vorarlberg",
-    "longitude": 9.9166667,
-    "latitude": 47.25,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Heinsberg",
     "url": "https://t.me/Einundzwanzig_HEINSBERG",
     "top": 40,
@@ -872,19 +872,6 @@
     "city": "Heinsberg",
     "longitude": 6.0984461,
     "latitude": 51.0654268,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Kassel Bitcoin",
-    "url": "https://t.me/einundzwanzig_kassel",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Kassel",
-    "longitude": 9.4924096,
-    "latitude": 51.3154546,
     "twitter_username": null,
     "website": null
   },
@@ -1064,6 +1051,19 @@
     "city": "Göttingen",
     "longitude": 9.9351811,
     "latitude": 51.5328328,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Kassel Bitcoin",
+    "url": "https://t.me/einundzwanzig_kassel",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Kassel",
+    "longitude": 9.4924096,
+    "latitude": 51.3154546,
     "twitter_username": null,
     "website": null
   },
@@ -1724,21 +1724,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Franken",
-    "url": "https://t.me/Einundzwanzig_FRANKEN",
-    "top": 59,
-    "left": 52,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Franken",
-    "longitude": 10.5722288,
-    "latitude": 49.3028611,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ellwangen",
     "url": "https://t.me/einundzwanzigEllwangen",
     "top": 64,
@@ -1942,6 +1927,21 @@
     "longitude": 8.4673098,
     "latitude": 49.4892913,
     "twitter_username": "EinundzwanzigMA",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Franken",
+    "url": "https://t.me/Einundzwanzig_FRANKEN",
+    "top": 59,
+    "left": 52,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Franken",
+    "longitude": 10.5722288,
+    "latitude": 49.3028611,
+    "twitter_username": "einundzwanzigFR",
     "website": null
   }
 ]
