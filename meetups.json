@@ -80,6 +80,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Saarlouis",
+    "url": "https://t.me/EinundzwanzigSaarlouis",
+    "top": 57,
+    "left": 12,
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ],
+    "city": "Saarlouis",
+    "longitude": 6.75034,
+    "latitude": 49.315681,
+    "twitter_username": "21Saarlouis",
+    "website": "https://twitter.com/21Saarlouis"
+  },
+  {
     "name": "Bitcoin Austria",
     "url": "https://bitcoin-austria.at/events/",
     "top": 69,
@@ -117,6 +132,21 @@
     "city": "Hildesheim",
     "longitude": 9.951,
     "latitude": 52.150902,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Styria",
+    "url": "https://t.me/Einundzwanzig_Styria",
+    "top": 84,
+    "left": 87,
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ],
+    "city": "Styria",
+    "longitude": 15.1666665,
+    "latitude": 47.2500001,
     "twitter_username": null,
     "website": null
   },
@@ -324,6 +354,26 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Ostschweiz",
+    "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
+    "top": 80,
+    "left": 31,
+    "country": "CH",
+    "state": [
+      "St.Gallen",
+      "Graubünden",
+      "Glarus",
+      "Thurgau",
+      "Appenzell Ausserrhoden",
+      "Appenzell Innerrhoden"
+    ],
+    "city": "Ostschweiz",
+    "longitude": 9.0838964,
+    "latitude": 47.2975781,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Bitcoin München",
     "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
     "top": 72,
@@ -376,6 +426,19 @@
     "city": "Mannheim",
     "longitude": 8.4673098,
     "latitude": 49.4892913,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Zoolook ",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Balingen",
+    "longitude": 8.85511,
+    "latitude": 48.27549,
     "twitter_username": null,
     "website": null
   },
@@ -780,8 +843,8 @@
     "country": "DE",
     "state": null,
     "city": "Region Strohgäu ",
-    "longitude": 48.816685,
-    "latitude": 9.01803,
+    "longitude": 9.01803,
+    "latitude": 48.816685,
     "twitter_username": null,
     "website": null
   },
@@ -891,21 +954,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Styria",
-    "url": "https://t.me/Einundzwanzig_Styria",
-    "top": 84,
-    "left": 87,
-    "country": "AT",
-    "state": [
-      "Steiermark"
-    ],
-    "city": "Styria",
-    "longitude": 15.1666665,
-    "latitude": 47.2500001,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Wiesbaden",
     "url": "https://t.me/einundzwanzigwiesbaden",
     "top": 50,
@@ -949,26 +997,6 @@
     "latitude": 48.7784485,
     "twitter_username": "EinundzwanzigS",
     "website": "https://einundzwanzig-stuttg.art/"
-  },
-  {
-    "name": "Einundzwanzig Ostschweiz",
-    "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
-    "top": 80,
-    "left": 31,
-    "country": "CH",
-    "state": [
-      "St.Gallen",
-      "Graubünden",
-      "Glarus",
-      "Thurgau",
-      "Appenzell Ausserrhoden",
-      "Appenzell Innerrhoden"
-    ],
-    "city": "Ostschweiz",
-    "longitude": 9.0838964,
-    "latitude": 47.2975781,
-    "twitter_username": null,
-    "website": null
   },
   {
     "name": "Einundzwanzig Sachsen",
@@ -1898,21 +1926,6 @@
     "latitude": 49.468056,
     "twitter_username": null,
     "website": null
-  },
-  {
-    "name": "Einundzwanzig Saarlouis",
-    "url": "https://t.me/EinundzwanzigSaarlouis",
-    "top": 57,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Saarland"
-    ],
-    "city": "Saarlouis",
-    "longitude": 6.75034,
-    "latitude": 49.315681,
-    "twitter_username": "einundzwanzigSa",
-    "website": "https://twitter.com/einundzwanzigSa"
   },
   {
     "name": "Einundzwanzig Mannheim",
