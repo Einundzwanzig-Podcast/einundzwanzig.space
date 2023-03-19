@@ -495,6 +495,21 @@
     "website": ""
   },
   {
+    "name": "Bitcoin Bern",
+    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
+    "top": 85,
+    "left": 17,
+    "country": "CH",
+    "state": [
+      "Bern"
+    ],
+    "city": "Bern",
+    "longitude": 7.4514512,
+    "latitude": 46.9482713,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Passau",
     "url": "https://t.me/Einundzwanzig_Passau",
     "top": 67,
@@ -1029,21 +1044,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Limburg",
-    "url": "https://t.me/+dXengs7l2Y8yNDA6",
-    "top": 49,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Hessen"
-    ],
-    "city": "Limburg",
-    "longitude": 8.05944,
-    "latitude": 50.38675,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ost-Brandenburg",
     "url": "https://t.me/einundzwanzig_bbost",
     "top": null,
@@ -1096,17 +1096,17 @@
     "website": null
   },
   {
-    "name": "Bitcoin Bern",
-    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
-    "top": 85,
-    "left": 17,
-    "country": "CH",
+    "name": "Einundzwanzig Limburg",
+    "url": "https://t.me/+dXengs7l2Y8yNDA6",
+    "top": 49,
+    "left": 30,
+    "country": "DE",
     "state": [
-      "Bern"
+      "Hessen"
     ],
-    "city": "Bern",
-    "longitude": 7.4514512,
-    "latitude": 46.9482713,
+    "city": "Limburg",
+    "longitude": 8.05944,
+    "latitude": 50.38675,
     "twitter_username": null,
     "website": null
   },
