@@ -65,6 +65,21 @@
     "website": "https://www.blockzeit.ch/stammtisch"
   },
   {
+    "name": "Einundzwanzig Basel",
+    "url": "https://t.me/EinundzwanzigBS",
+    "top": 80,
+    "left": 19,
+    "country": "CH",
+    "state": [
+      "Basel"
+    ],
+    "city": "Basel",
+    "longitude": 7.5878261,
+    "latitude": 47.5581077,
+    "twitter_username": "einundzwanzigBS",
+    "website": "https://bitcoin-basel.ch/"
+  },
+  {
     "name": "Einundzwanzig Regensburg",
     "url": "https://t.me/+2s5SRFj8khYwYzNi",
     "top": 62,
@@ -969,6 +984,19 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Marburg",
+    "url": "https://t.me/+jMuRB6BGTPdiYzQy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Marburg",
+    "longitude": -41.958351,
+    "latitude": -18.90221,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Konstanz",
     "url": "https://t.me/Einundzwanzig_Konstanz",
     "top": 77,
@@ -1649,21 +1677,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Trier",
-    "url": "https://t.me/Einundzwanzig_Trier",
-    "top": 55,
-    "left": 10,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
-    ],
-    "city": "Trier",
-    "longitude": 6.6441878,
-    "latitude": 49.7596208,
-    "twitter_username": "EinundzwanzigTR",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Oldenburg",
     "url": "https://t.me/einundzwanzig_OL",
     "top": 18,
@@ -1677,21 +1690,6 @@
     "latitude": 53.1389753,
     "twitter_username": null,
     "website": null
-  },
-  {
-    "name": "Einundzwanzig Basel",
-    "url": "https://t.me/EinundzwanzigBS",
-    "top": 80,
-    "left": 19,
-    "country": "CH",
-    "state": [
-      "Basel"
-    ],
-    "city": "Basel",
-    "longitude": 7.5878261,
-    "latitude": 47.5581077,
-    "twitter_username": "einundzwanzigBS",
-    "website": "https://bitcoin-basel.ch/"
   },
   {
     "name": "Yirmibir Istanbul",
@@ -1719,6 +1717,21 @@
     "longitude": 13.0464806,
     "latitude": 47.7981346,
     "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Trier",
+    "url": "https://t.me/Einundzwanzig_Trier",
+    "top": 55,
+    "left": 10,
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ],
+    "city": "Trier",
+    "longitude": 6.6441878,
+    "latitude": 49.7596208,
+    "twitter_username": "EinundzwanzigTR",
     "website": null
   },
   {
