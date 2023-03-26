@@ -503,6 +503,21 @@
     "website": null
   },
   {
+    "name": "Bitcoin Graz",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 83,
+    "left": 87,
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ],
+    "city": "Graz",
+    "longitude": 15.4382786,
+    "latitude": 47.0708678,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Hochtaunuskreis",
     "url": "https://t.me/bitcoin_hochtaunuskreis",
     "top": 50,
@@ -583,6 +598,19 @@
     "latitude": 49.300652,
     "twitter_username": "BTC_Ansbach",
     "website": "https://www.btc-ansbach.org"
+  },
+  {
+    "name": "Bitcoin Sonnenkinder Fehmarn",
+    "url": "https://t.me/+zghMbx0siOgzYWUy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Fehmarn",
+    "longitude": 11.19668,
+    "latitude": 54.43562,
+    "twitter_username": null,
+    "website": null
   },
   {
     "name": "Einundzwanzig Passau",
@@ -995,6 +1023,19 @@
     "latitude": -18.90221,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "BTC_Ansbach",
+    "url": "https://t.me/BTCansbach",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Ansbach",
+    "longitude": 10.57146,
+    "latitude": 49.300652,
+    "twitter_username": "BTC_Ansbach",
+    "website": "https://www.btc-ansbach.org"
   },
   {
     "name": "Einundzwanzig Konstanz",
@@ -1750,21 +1791,6 @@
     "website": null
   },
   {
-    "name": "Bitcoin Graz",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 83,
-    "left": 87,
-    "country": "AT",
-    "state": [
-      "Steiermark"
-    ],
-    "city": "Graz",
-    "longitude": 15.4382786,
-    "latitude": 47.0708678,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ellwangen",
     "url": "https://t.me/einundzwanzigEllwangen",
     "top": 64,
@@ -1776,21 +1802,6 @@
     "city": "Ellwangen",
     "longitude": 10.131975,
     "latitude": 48.9615975,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Thurgau",
-    "url": "https://t.me/Einundzwanzig_Thurgau",
-    "top": 79,
-    "left": 29,
-    "country": "CH",
-    "state": [
-      "Thurgau"
-    ],
-    "city": "Thurgau",
-    "longitude": 9.1428769,
-    "latitude": 47.5859649,
     "twitter_username": null,
     "website": null
   },
@@ -1982,5 +1993,20 @@
     "latitude": 47.5581077,
     "twitter_username": "einundzwanzigBS",
     "website": "https://bitcoin-basel.ch"
+  },
+  {
+    "name": "Einundzwanzig Thurgau",
+    "url": "https://t.me/Einundzwanzig_Thurgau",
+    "top": 79,
+    "left": 29,
+    "country": "CH",
+    "state": [
+      "Thurgau"
+    ],
+    "city": "Thurgau",
+    "longitude": 9.1428769,
+    "latitude": 47.5859649,
+    "twitter_username": null,
+    "website": null
   }
 ]
