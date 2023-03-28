@@ -125,21 +125,6 @@
     "website": null
   },
   {
-    "name": "Bitcoin Austria",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
-    ],
-    "city": "Austria",
-    "longitude": 14.550072,
-    "latitude": 47.516232,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Dingolfing-Landau",
     "url": "https://t.me/+jtPmx8L1OW84ZDAy",
     "top": null,
@@ -533,6 +518,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Herrsching",
+    "url": "https://t.me/Einundzwanzig_Herrsching",
+    "top": 73,
+    "left": 50,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Herrsching",
+    "longitude": 11.1703947,
+    "latitude": 47.9984622,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Hochtaunuskreis",
     "url": "https://t.me/bitcoin_hochtaunuskreis",
     "top": 50,
@@ -624,6 +624,21 @@
     "city": "Fehmarn",
     "longitude": 11.19668,
     "latitude": 54.43562,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Bitcoin Austria",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ],
+    "city": "Austria",
+    "longitude": 14.550072,
+    "latitude": 47.516232,
     "twitter_username": null,
     "website": null
   },
@@ -1851,36 +1866,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Gelnhausen",
-    "url": "https://t.me/einundzwanzig_gelnhausen",
-    "top": 48,
-    "left": 31,
-    "country": "DE",
-    "state": [
-      "Hessen"
-    ],
-    "city": "Gelnhausen",
-    "longitude": 9.190486,
-    "latitude": 50.2028622,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Herrsching",
-    "url": "https://t.me/Einundzwanzig_Herrsching",
-    "top": 73,
-    "left": 50,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Herrsching",
-    "longitude": 11.1703947,
-    "latitude": 47.9984622,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Oberland",
     "url": "https://t.me/Einundzwanzig_Oberland",
     "top": 79,
@@ -2006,6 +1991,21 @@
     "city": "Thurgau",
     "longitude": 9.1428769,
     "latitude": 47.5859649,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Gelnhausen",
+    "url": "https://t.me/einundzwanzig_gelnhausen",
+    "top": 48,
+    "left": 31,
+    "country": "DE",
+    "state": [
+      "Hessen"
+    ],
+    "city": "Gelnhausen",
+    "longitude": 9.190486,
+    "latitude": 50.2028622,
     "twitter_username": null,
     "website": null
   }
