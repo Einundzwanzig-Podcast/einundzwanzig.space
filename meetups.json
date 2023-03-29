@@ -302,21 +302,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Saarland",
-    "url": "https://t.me/einundzwanzigsaarland",
-    "top": 58,
-    "left": 13,
-    "country": "DE",
-    "state": [
-      "Saarland"
-    ],
-    "city": "Saarland",
-    "longitude": 6.9537369,
-    "latitude": 49.3841872,
-    "twitter_username": "einundzwanzigSL",
-    "website": "https://einundzwanzig.saarland"
-  },
-  {
     "name": "Tjugoett Stockholm",
     "url": "https://t.me/TjugoettStockholm",
     "top": null,
@@ -417,21 +402,6 @@
     "latitude": 47.31874,
     "twitter_username": null,
     "website": null
-  },
-  {
-    "name": "Bitcoin München",
-    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
-    "top": 72,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": "bitcoinmuc",
-    "website": "https://www.meetup.com/Bitcoin-Munich/"
   },
   {
     "name": "Einundzwanzig Reutlingen",
@@ -1066,6 +1036,19 @@
     "latitude": 49.300652,
     "twitter_username": "BTC_Ansbach",
     "website": "https://www.btc-ansbach.org"
+  },
+  {
+    "name": "Bitcoin Kiel",
+    "url": "https://t.me/+JY8hlczH7G4wMWYy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Kiel",
+    "longitude": 10.122765,
+    "latitude": 54.323292,
+    "twitter_username": null,
+    "website": null
   },
   {
     "name": "Einundzwanzig Konstanz",
@@ -2008,5 +1991,35 @@
     "latitude": 50.2028622,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Einundzwanzig Saarland",
+    "url": "https://t.me/einundzwanzigsaarland",
+    "top": 58,
+    "left": 13,
+    "country": "DE",
+    "state": [
+      "Saarland"
+    ],
+    "city": "Saarland",
+    "longitude": 6.9537369,
+    "latitude": 49.3841872,
+    "twitter_username": "einundzwanzigSL",
+    "website": "https://einundzwanzig.saarland"
+  },
+  {
+    "name": "Bitcoin München",
+    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
+    "top": 72,
+    "left": 53,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "München",
+    "longitude": 11.5753822,
+    "latitude": 48.1371079,
+    "twitter_username": "bitcoinmuc",
+    "website": "https://www.meetup.com/Bitcoin-Munich/"
   }
 ]
