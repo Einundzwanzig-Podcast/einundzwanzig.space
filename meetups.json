@@ -125,19 +125,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Dingolfing-Landau",
-    "url": "https://t.me/+jtPmx8L1OW84ZDAy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Dingolfing",
-    "longitude": 12.49782,
-    "latitude": 48.628471,
-    "twitter_username": "Schlimmer0815",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Hildesheim",
     "url": "https://t.me/EinundzwanzigHildesheim",
     "top": null,
@@ -404,6 +391,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Karlsruhe",
+    "url": "https://t.me/BitcoinKarlsruhe",
+    "top": 64,
+    "left": 25,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Karlsruhe",
+    "longitude": 8.4034195,
+    "latitude": 49.0068705,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Reutlingen",
     "url": "https://t.me/+JBYyytK2NncyNTYy",
     "top": null,
@@ -585,6 +587,21 @@
     "website": "https://www.btc-ansbach.org"
   },
   {
+    "name": "Einundzwanzig Passau",
+    "url": "https://t.me/Einundzwanzig_Passau",
+    "top": 67,
+    "left": 68,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Passau",
+    "longitude": 13.4609744,
+    "latitude": 48.5748229,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Bitcoin Sonnenkinder Fehmarn",
     "url": "https://t.me/Bitcoin_Sonnenkinder_Fehmarn",
     "top": null,
@@ -609,21 +626,6 @@
     "city": "Austria",
     "longitude": 14.550072,
     "latitude": 47.516232,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Passau",
-    "url": "https://t.me/Einundzwanzig_Passau",
-    "top": 67,
-    "left": 68,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Passau",
-    "longitude": 13.4609744,
-    "latitude": 48.5748229,
     "twitter_username": null,
     "website": null
   },
@@ -727,21 +729,6 @@
     "city": "Schwerin",
     "longitude": 11.40125,
     "latitude": 53.635502,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Karlsruhe",
-    "url": "https://t.me/BitcoinKarlsruhe",
-    "top": 64,
-    "left": 25,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Karlsruhe",
-    "longitude": 8.4034195,
-    "latitude": 49.0068705,
     "twitter_username": null,
     "website": null
   },
@@ -2021,5 +2008,18 @@
     "latitude": 48.1371079,
     "twitter_username": "bitcoinmuc",
     "website": "https://www.meetup.com/Bitcoin-Munich/"
+  },
+  {
+    "name": "Einundzwanzig Dingolfing-Landau",
+    "url": "https://t.me/einundzwanzig_dgf",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Dingolfing",
+    "longitude": 12.49782,
+    "latitude": 48.628471,
+    "twitter_username": "Schlimmer0815",
+    "website": null
   }
 ]
