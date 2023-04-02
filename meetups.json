@@ -1023,21 +1023,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Konstanz",
-    "url": "https://t.me/Einundzwanzig_Konstanz",
-    "top": 77,
-    "left": 29,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Konstanz",
-    "longitude": 9.1750718,
-    "latitude": 47.659216,
-    "twitter_username": "EinundzwanzigKN",
-    "website": "https://sites.google.com/view/21-meetup-kn/startseite"
-  },
-  {
     "name": "Einundzwanzig Sauerland",
     "url": "https://t.me/einundzwanzig_sauerland",
     "top": 35,
@@ -2021,5 +2006,20 @@
     "latitude": 48.4008273,
     "twitter_username": "einundzwanzigfs",
     "website": "https://einundzwanzig.freising.money"
+  },
+  {
+    "name": "Einundzwanzig Konstanz",
+    "url": "https://t.me/Einundzwanzig_Konstanz",
+    "top": 77,
+    "left": 29,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Konstanz",
+    "longitude": 9.1750718,
+    "latitude": 47.659216,
+    "twitter_username": "EinundzwanzigKN",
+    "website": "https://sites.google.com/view/21-meetup-kn/startseite"
   }
 ]
