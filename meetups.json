@@ -808,21 +808,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Köln",
-    "url": "https://t.me/einundzwanzig_koeln",
-    "top": 42,
-    "left": 17,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Köln",
-    "longitude": 6.959974,
-    "latitude": 50.938361,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ostwestfalen-Lippe",
     "url": "https://t.me/einundzwanzig_owl",
     "top": null,
@@ -833,21 +818,6 @@
     "longitude": 8.6457839,
     "latitude": 51.9867058,
     "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Siegen",
-    "url": "https://t.me/einundzwanzig_siegen",
-    "top": 43,
-    "left": 23,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Siegen",
-    "longitude": 8.0227233,
-    "latitude": 50.8749804,
-    "twitter_username": "Bitcoinizer",
     "website": null
   },
   {
@@ -2085,6 +2055,36 @@
     "longitude": 7.5943951,
     "latitude": 50.3533278,
     "twitter_username": "EinundzwanzigKo",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Köln",
+    "url": "https://t.me/einundzwanzig_koeln",
+    "top": 42,
+    "left": 17,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Köln",
+    "longitude": 6.959974,
+    "latitude": 50.938361,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Siegen",
+    "url": "https://t.me/einundzwanzig_siegen",
+    "top": 43,
+    "left": 23,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Siegen",
+    "longitude": 8.0227233,
+    "latitude": 50.8749804,
+    "twitter_username": "Bitcoinizer",
     "website": null
   }
 ]
