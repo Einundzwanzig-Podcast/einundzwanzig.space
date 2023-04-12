@@ -718,21 +718,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Koblenz",
-    "url": "https://t.me/Einundzwanzig_Ko",
-    "top": 48,
-    "left": 21,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
-    ],
-    "city": "Koblenz",
-    "longitude": 7.5943951,
-    "latitude": 50.3533278,
-    "twitter_username": "EinundzwanzigKo",
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Gran Canaria",
     "url": "https://t.me/GranCanaria21",
     "top": null,
@@ -802,21 +787,6 @@
     "city": "Schwerin",
     "longitude": 11.40125,
     "latitude": 53.635502,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Bonn",
-    "url": "https://t.me/einundzwanzig_bonn",
-    "top": 45,
-    "left": 18,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Bonn",
-    "longitude": 7.10066,
-    "latitude": 50.735851,
     "twitter_username": null,
     "website": null
   },
@@ -965,6 +935,21 @@
     "city": "Memmingen",
     "longitude": 10.181319,
     "latitude": 47.9867696,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Bonn",
+    "url": "https://t.me/einundzwanzig_bonn",
+    "top": 45,
+    "left": 18,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Bonn",
+    "longitude": 7.10066,
+    "latitude": 50.735851,
     "twitter_username": null,
     "website": null
   },
@@ -1813,36 +1798,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Mannheim",
-    "url": "https://t.me/Einundzwanzig_MANNHEIM",
-    "top": 58,
-    "left": 25,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Mannheim",
-    "longitude": 8.4673098,
-    "latitude": 49.4892913,
-    "twitter_username": "EinundzwanzigMA",
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Franken",
-    "url": "https://t.me/Einundzwanzig_FRANKEN",
-    "top": 59,
-    "left": 52,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "Franken",
-    "longitude": 10.5722288,
-    "latitude": 49.3028611,
-    "twitter_username": "einundzwanzigFR",
-    "website": null
-  },
-  {
     "name": "EINUNDZWANZIG BASEL  - BITCOIN BASEL",
     "url": "https://t.me/EinundzwanzigBS",
     "top": null,
@@ -1898,6 +1853,21 @@
     "longitude": 10.8986971,
     "latitude": 48.3668041,
     "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Mannheim",
+    "url": "https://t.me/Einundzwanzig_MANNHEIM",
+    "top": 58,
+    "left": 25,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Mannheim",
+    "longitude": 8.4673098,
+    "latitude": 49.4892913,
+    "twitter_username": "EinundzwanzigMA",
     "website": null
   },
   {
@@ -2082,9 +2052,39 @@
     "country": "AT",
     "state": null,
     "city": "Schärding",
-    "longitude": 13.43194,
-    "latitude": 48.45668,
+    "longitude": 13.449814,
+    "latitude": 48.456575,
     "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Franken",
+    "url": "https://t.me/Einundzwanzig_FRANKEN",
+    "top": 59,
+    "left": 52,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "Franken",
+    "longitude": 10.5722288,
+    "latitude": 49.3028611,
+    "twitter_username": "einundzwanzigFR",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Koblenz",
+    "url": "https://t.me/Einundzwanzig_Ko",
+    "top": 48,
+    "left": 21,
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ],
+    "city": "Koblenz",
+    "longitude": 7.5943951,
+    "latitude": 50.3533278,
+    "twitter_username": "EinundzwanzigKo",
     "website": null
   }
 ]
