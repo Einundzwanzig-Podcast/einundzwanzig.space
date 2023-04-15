@@ -1079,21 +1079,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Wiesbaden",
-    "url": "https://t.me/einundzwanzigwiesbaden",
-    "top": 50,
-    "left": 20,
-    "country": "DE",
-    "state": [
-      "Hessen"
-    ],
-    "city": "Wiesbaden",
-    "longitude": 8.2416556,
-    "latitude": 50.0820384,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Nordfriesland",
     "url": "https://t.me/Einundzwanzig_NF",
     "top": 1,
@@ -1105,36 +1090,6 @@
     "city": "Husum",
     "longitude": 9.05362,
     "latitude": 54.485378,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Sachsen",
-    "url": "https://t.me/einundzwanzigsachsen",
-    "top": 38,
-    "left": 70,
-    "country": "DE",
-    "state": [
-      "Sachsen"
-    ],
-    "city": "Sachsen",
-    "longitude": 13.4585052,
-    "latitude": 50.9295798,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Bitcoin Leipzig",
-    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
-    "top": 37,
-    "left": 60,
-    "country": "DE",
-    "state": [
-      "Sachsen"
-    ],
-    "city": "Leipzig",
-    "longitude": 12.3747329,
-    "latitude": 51.3406321,
     "twitter_username": null,
     "website": null
   },
@@ -1247,6 +1202,21 @@
     "city": "Fulda",
     "longitude": 9.6770448,
     "latitude": 50.5542328,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Sachsen",
+    "url": "https://t.me/einundzwanzigsachsen",
+    "top": 38,
+    "left": 70,
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ],
+    "city": "Sachsen",
+    "longitude": 13.4585052,
+    "latitude": 50.9295798,
     "twitter_username": null,
     "website": null
   },
@@ -1605,21 +1575,6 @@
     "city": "Oldenburg",
     "longitude": 8.2146017,
     "latitude": 53.1389753,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Mainz",
-    "url": "https://t.me/Einundzwanzig_MAINZ",
-    "top": 55,
-    "left": 24,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
-    ],
-    "city": "Mainz",
-    "longitude": 8.2762513,
-    "latitude": 50.0012314,
     "twitter_username": null,
     "website": null
   },
@@ -2085,6 +2040,51 @@
     "longitude": 8.0227233,
     "latitude": 50.8749804,
     "twitter_username": "Bitcoinizer",
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Wiesbaden",
+    "url": "https://t.me/einundzwanzigwiesbaden",
+    "top": 50,
+    "left": 20,
+    "country": "DE",
+    "state": [
+      "Hessen"
+    ],
+    "city": "Wiesbaden",
+    "longitude": 8.2416556,
+    "latitude": 50.0820384,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Bitcoin Leipzig",
+    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
+    "top": 37,
+    "left": 60,
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ],
+    "city": "Leipzig",
+    "longitude": 12.3747329,
+    "latitude": 51.3406321,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Mainz",
+    "url": "https://t.me/Einundzwanzig_MAINZ",
+    "top": 55,
+    "left": 24,
+    "country": "DE",
+    "state": [
+      "Rheinland-Pfalz"
+    ],
+    "city": "Mainz",
+    "longitude": 8.2762513,
+    "latitude": 50.0012314,
+    "twitter_username": "@EinundzwanzigMZ",
     "website": null
   }
 ]
