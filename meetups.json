@@ -125,6 +125,19 @@
     "website": null
   },
   {
+    "name": "TWENTY-ONE USA",
+    "url": "https://t.me/+YChlvzkBt1xkYjRi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "United-States",
+    "longitude": -101.905937,
+    "latitude": 39.89288,
+    "twitter_username": "twentyone_usa",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Hildesheim",
     "url": "https://t.me/EinundzwanzigHildesheim",
     "top": null,
@@ -578,6 +591,19 @@
     "website": null
   },
   {
+    "name": "Charleston Bitcoin Meetup",
+    "url": null,
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Charleston",
+    "longitude": -79.931053,
+    "latitude": 32.776474,
+    "twitter_username": "bitcoin_CHS",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Hochtaunuskreis",
     "url": "https://t.me/bitcoin_hochtaunuskreis",
     "top": 50,
@@ -745,6 +771,19 @@
     "longitude": 6.82741,
     "latitude": 52.03582,
     "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Asheville Bitcoiners",
+    "url": null,
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Asheville",
+    "longitude": -82.550041,
+    "latitude": 35.595909,
+    "twitter_username": "avlbitcoiners",
     "website": null
   },
   {
@@ -1266,21 +1305,6 @@
     "website": null
   },
   {
-    "name": "Bitcoin Dresden",
-    "url": "https://t.me/BitcoinDresden",
-    "top": 40,
-    "left": 69,
-    "country": "DE",
-    "state": [
-      "Sachsen"
-    ],
-    "city": "Dresden",
-    "longitude": 13.7381437,
-    "latitude": 51.0493286,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch"
-  },
-  {
     "name": "Einundzwanzig Balingen",
     "url": "https://t.me/+wNgJ6sTsTOljMjFi",
     "top": 71,
@@ -1395,21 +1419,6 @@
     "city": "Langen",
     "longitude": 8.6671682,
     "latitude": 49.9927036,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Solingen",
-    "url": "https://t.me/einundzwanzig_solingen",
-    "top": 39,
-    "left": 18,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Solingen",
-    "longitude": 7.0845893,
-    "latitude": 51.1721629,
     "twitter_username": null,
     "website": null
   },
@@ -1560,6 +1569,21 @@
     "city": "Oldenburg",
     "longitude": 8.2146017,
     "latitude": 53.1389753,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Solingen",
+    "url": "https://t.me/einundzwanzig_solingen",
+    "top": 39,
+    "left": 18,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Solingen",
+    "longitude": 7.0845893,
+    "latitude": 51.1721629,
     "twitter_username": null,
     "website": null
   },
@@ -2085,6 +2109,60 @@
     "longitude": 8.2762513,
     "latitude": 50.0012314,
     "twitter_username": "@EinundzwanzigMZ",
+    "website": null
+  },
+  {
+    "name": "einundzwanzig Ludwigsburg ",
+    "url": "https://t.me/einundzwanzigLudwigsburg",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Ludwigsburg ",
+    "longitude": 9.19161,
+    "latitude": 48.89731,
+    "twitter_username": "einundzwanzigLB",
+    "website": null
+  },
+  {
+    "name": "Bitcoin Dresden",
+    "url": "https://t.me/BitcoinDresden",
+    "top": 40,
+    "left": 69,
+    "country": "DE",
+    "state": [
+      "Sachsen"
+    ],
+    "city": "Dresden",
+    "longitude": 13.7381437,
+    "latitude": 51.0493286,
+    "twitter_username": null,
+    "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch"
+  },
+  {
+    "name": "Einundzwanzig Pforzheim",
+    "url": "https://t.me/EinundzwanzigPforzheim",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Pforzheim",
+    "longitude": 8.70493,
+    "latitude": 48.893379,
+    "twitter_username": "EinundzwanzigP",
+    "website": "https://t.me/EinundzwanzigPforzheim"
+  },
+  {
+    "name": "Einundzwanzig Bremerhaven",
+    "url": "https://t.me/+SyB9Juv1onk2MjMy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Bremerhaven",
+    "longitude": 8.58338,
+    "latitude": 53.538792,
+    "twitter_username": null,
     "website": null
   }
 ]
