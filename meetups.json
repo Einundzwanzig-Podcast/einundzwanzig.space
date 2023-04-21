@@ -138,6 +138,23 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Norddeutschland",
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "top": 19,
+    "left": 37,
+    "country": "DE",
+    "state": [
+      "Hamburg",
+      "Bremen",
+      "Niedersachsen"
+    ],
+    "city": "Hannover",
+    "longitude": 9.73201,
+    "latitude": 52.375893,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Hildesheim",
     "url": "https://t.me/EinundzwanzigHildesheim",
     "top": null,
@@ -266,23 +283,6 @@
     "city": "Schweiz",
     "longitude": 8.2319736,
     "latitude": 46.7985624,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Norddeutschland",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 19,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Hamburg",
-      "Bremen",
-      "Niedersachsen"
-    ],
-    "city": "Hannover",
-    "longitude": 9.73201,
-    "latitude": 52.375893,
     "twitter_username": null,
     "website": null
   },
@@ -725,21 +725,6 @@
     "city": "Austria",
     "longitude": 14.550072,
     "latitude": 47.516232,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Oelde",
-    "url": "https://t.me/EinundzwanzigOelde",
-    "top": 31,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Osnabrück",
-    "longitude": 8.1453352,
-    "latitude": 51.8260823,
     "twitter_username": null,
     "website": null
   },
@@ -1672,6 +1657,21 @@
     "city": "Aachen",
     "longitude": 6.083862,
     "latitude": 50.776351,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Oelde",
+    "url": "https://t.me/EinundzwanzigOelde",
+    "top": 31,
+    "left": 27,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Osnabrück",
+    "longitude": 8.1453352,
+    "latitude": 51.8260823,
     "twitter_username": null,
     "website": null
   },
