@@ -1030,36 +1030,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Sachsen-Anhalt",
-    "url": "https://t.me/Meetup21SA",
-    "top": 31,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Sachsen-Anhalt"
-    ],
-    "city": "Magdeburg",
-    "longitude": 11.6399609,
-    "latitude": 52.1315889,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Nordfriesland",
-    "url": "https://t.me/Einundzwanzig_NF",
-    "top": 1,
-    "left": 34,
-    "country": "DE",
-    "state": [
-      "Schleswig-Holstein"
-    ],
-    "city": "Husum",
-    "longitude": 9.05362,
-    "latitude": 54.485378,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ost-Brandenburg",
     "url": "https://t.me/einundzwanzig_bbost",
     "top": null,
@@ -1198,21 +1168,6 @@
     "city": "Frankfurt am Main",
     "longitude": 8.6820917,
     "latitude": 50.1106444,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Bitcoin Hannover",
-    "url": "https://t.me/joinchat/CE-3VDEiVBVmMjNi",
-    "top": 27,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Niedersachsen"
-    ],
-    "city": "Hannover",
-    "longitude": 9.73201,
-    "latitude": 52.375893,
     "twitter_username": null,
     "website": null
   },
@@ -1906,6 +1861,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Sachsen-Anhalt",
+    "url": "https://t.me/Meetup21SA",
+    "top": 31,
+    "left": 53,
+    "country": "DE",
+    "state": [
+      "Sachsen-Anhalt"
+    ],
+    "city": "Magdeburg",
+    "longitude": 11.6399609,
+    "latitude": 52.1315889,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Mostviertel ",
     "url": "https://t.me/+t08TLbdRTj1iMmU0",
     "top": null,
@@ -2097,6 +2067,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Nordfriesland",
+    "url": "https://t.me/Einundzwanzig_NF",
+    "top": 1,
+    "left": 34,
+    "country": "DE",
+    "state": [
+      "Schleswig-Holstein"
+    ],
+    "city": "Husum",
+    "longitude": 9.05362,
+    "latitude": 54.485378,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Mainz",
     "url": "https://t.me/Einundzwanzig_MAINZ",
     "top": 55,
@@ -2140,6 +2125,21 @@
     "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch"
   },
   {
+    "name": "Bitcoin Hannover",
+    "url": "https://t.me/joinchat/CE-3VDEiVBVmMjNi",
+    "top": 27,
+    "left": 37,
+    "country": "DE",
+    "state": [
+      "Niedersachsen"
+    ],
+    "city": "Hannover",
+    "longitude": 9.73201,
+    "latitude": 52.375893,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Pforzheim",
     "url": "https://t.me/EinundzwanzigPforzheim",
     "top": null,
@@ -2162,6 +2162,19 @@
     "city": "Bremerhaven",
     "longitude": 8.58338,
     "latitude": 53.538792,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "BTC Celle - Residenzstadt Meetup",
+    "url": "https://t.me/BTC_Celle",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Celle",
+    "longitude": 10.07858,
+    "latitude": 52.62192,
     "twitter_username": null,
     "website": null
   }
