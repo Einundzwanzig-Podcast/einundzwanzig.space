@@ -341,19 +341,6 @@
     "website": null
   },
   {
-    "name": "32-Einezwänzg Seeland",
-    "url": "https://t.me/Einundzwanzig_Seeland",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
-    "city": "Lyss",
-    "longitude": 7.306577,
-    "latitude": 47.074029,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ostschweiz",
     "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
     "top": 80,
@@ -729,6 +716,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Bremen",
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "top": 20,
+    "left": 29,
+    "country": "DE",
+    "state": [
+      "Bremen"
+    ],
+    "city": "Bremen",
+    "longitude": 8.8071646,
+    "latitude": 53.0758196,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Gran Canaria",
     "url": "https://t.me/GranCanaria21",
     "top": null,
@@ -989,19 +991,6 @@
     "website": "https://www.btc-ansbach.org"
   },
   {
-    "name": "Bitcoin Kiel",
-    "url": "https://t.me/+JY8hlczH7G4wMWYy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Kiel",
-    "longitude": 10.122765,
-    "latitude": 54.323292,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Amstetten",
     "url": "https://t.me/+t08TLbdRTj1iMmU0",
     "top": null,
@@ -1026,6 +1015,21 @@
     "city": "Sauerland",
     "longitude": 8.0475484,
     "latitude": 51.2609835,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Elbe-Elster",
+    "url": "https://t.me/Einundzwanzig_EE",
+    "top": 33,
+    "left": 64,
+    "country": "DE",
+    "state": [
+      "Brandenburg"
+    ],
+    "city": "Elbe-Elster",
+    "longitude": 13.4804916,
+    "latitude": 51.6273649,
     "twitter_username": null,
     "website": null
   },
@@ -1172,17 +1176,15 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Bremen",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 20,
-    "left": 29,
+    "name": "Einundzwanzig Kiel",
+    "url": "https://t.me/einundzwanzigkiel",
+    "top": null,
+    "left": null,
     "country": "DE",
-    "state": [
-      "Bremen"
-    ],
-    "city": "Bremen",
-    "longitude": 8.8071646,
-    "latitude": 53.0758196,
+    "state": null,
+    "city": "Kiel",
+    "longitude": 10.122765,
+    "latitude": 54.323292,
     "twitter_username": null,
     "website": null
   },
@@ -1350,21 +1352,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Elbe-Elster",
-    "url": "https://t.me/Einundzwanzig_EE",
-    "top": 33,
-    "left": 64,
-    "country": "DE",
-    "state": [
-      "Brandenburg"
-    ],
-    "city": "Elbe-Elster",
-    "longitude": 13.4804916,
-    "latitude": 51.6273649,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Berlin",
     "url": "https://t.me/Einundzwanzig_Berlin",
     "top": 26,
@@ -1376,36 +1363,6 @@
     "city": "Berlin",
     "longitude": 13.3888599,
     "latitude": 52.5170365,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Recklinghausen",
-    "url": "https://t.me/Einundzwanzig_Recklinghausen",
-    "top": 33,
-    "left": 22,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Recklinghausen",
-    "longitude": 7.1978546,
-    "latitude": 51.6143815,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Potsdam",
-    "url": "https://t.me/Einundzwanzig_Potsdam",
-    "top": 27,
-    "left": 63,
-    "country": "DE",
-    "state": [
-      "Brandenburg"
-    ],
-    "city": "Potsdam",
-    "longitude": 13.0591397,
-    "latitude": 52.4009309,
     "twitter_username": null,
     "website": null
   },
@@ -1732,6 +1689,19 @@
     "website": null
   },
   {
+    "name": "32-Einezwänzg Seeland",
+    "url": "https://t.me/Einundzwanzig_Seeland",
+    "top": null,
+    "left": null,
+    "country": "CH",
+    "state": null,
+    "city": "Lyss",
+    "longitude": 7.306577,
+    "latitude": 47.074029,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Bitcoin München",
     "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
     "top": 72,
@@ -1762,6 +1732,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Recklinghausen",
+    "url": "https://t.me/Einundzwanzig_Recklinghausen",
+    "top": 33,
+    "left": 22,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Recklinghausen",
+    "longitude": 7.1978546,
+    "latitude": 51.6143815,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Dingolfing-Landau",
     "url": "https://t.me/einundzwanzig_dgf",
     "top": null,
@@ -1784,6 +1769,21 @@
     "city": "OWL",
     "longitude": 8.6457839,
     "latitude": 51.9867058,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Potsdam",
+    "url": "https://t.me/Einundzwanzig_Potsdam",
+    "top": 27,
+    "left": 63,
+    "country": "DE",
+    "state": [
+      "Brandenburg"
+    ],
+    "city": "Potsdam",
+    "longitude": 13.0591397,
+    "latitude": 52.4009309,
     "twitter_username": null,
     "website": null
   },
