@@ -155,21 +155,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Styria",
-    "url": "https://t.me/Einundzwanzig_Styria",
-    "top": 84,
-    "left": 87,
-    "country": "AT",
-    "state": [
-      "Steiermark"
-    ],
-    "city": "Styria",
-    "longitude": 15.1666665,
-    "latitude": 47.2500001,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Münster",
     "url": "https://t.me/Einundzwanzig_MS",
     "top": null,
@@ -684,21 +669,6 @@
     "city": "Fehmarn",
     "longitude": 11.19668,
     "latitude": 54.43562,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Bitcoin Austria",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
-    ],
-    "city": "Austria",
-    "longitude": 14.550072,
-    "latitude": 47.516232,
     "twitter_username": null,
     "website": null
   },
@@ -1717,6 +1687,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Styria",
+    "url": "https://t.me/Einundzwanzig_Styria",
+    "top": 84,
+    "left": 87,
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ],
+    "city": "Styria",
+    "longitude": 15.1666665,
+    "latitude": 47.2500001,
+    "twitter_username": "EinundzwanzigSt",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Dingolfing-Landau",
     "url": "https://t.me/einundzwanzig_dgf",
     "top": null,
@@ -1769,6 +1754,21 @@
     "latitude": 42.497681,
     "twitter_username": null,
     "website": null
+  },
+  {
+    "name": "Bitcoin Austria",
+    "url": "https://bitcoin-austria.at/events/",
+    "top": 69,
+    "left": 93,
+    "country": "AT",
+    "state": [
+      "Wien"
+    ],
+    "city": "Austria",
+    "longitude": 14.550072,
+    "latitude": 47.516232,
+    "twitter_username": "bitcoin_at",
+    "website": "https://bitcoin-austria.at/"
   },
   {
     "name": "Einundzwanzig Freising",
@@ -1827,6 +1827,19 @@
     "city": "Aurich",
     "longitude": 7.3915287,
     "latitude": 53.5122853,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Starnberg - Bitcoin Meetup",
+    "url": "https://t.me/Bitcoin_Starnberg",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Starnberg",
+    "longitude": 11.34286,
+    "latitude": 48.000542,
     "twitter_username": null,
     "website": null
   },
