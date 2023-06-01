@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 01 Jun 2023 10:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 10:37:38 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,7 +38,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[#185 - Das Fiat Monster aus Stuttgart]]></title>
-      <description><![CDATA[<p><strong>Episode 185 - Blockzeit 792275</strong> - von und mit Loddi, Marc und Sunny Decree.</p>
+      <description><![CDATA[<p><strong>Episode 185 - Blockzeit 792275</strong> - von und mit Loddi, Marc und Sunny Decree</p>
 <p><br></p>
 <ul>
  <li>Intro: Element Zero ft. Knut Svanholm</li>
@@ -76,7 +76,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Thu, 01 Jun 2023 10:24:41 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/71408569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-1%2Fac747735-d31a-c5df-592c-bbef282d9992.mp3" length="97866120" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 185 - Blockzeit 792275 - von und mit Loddi, Marc und Sunny Decree.
+      <itunes:summary>Episode 185 - Blockzeit 792275 - von und mit Loddi, Marc und Sunny Decree
 Intro: Element Zero ft. Knut Svanholm
 Outro: Orange Pill ‚o‘ Sophie – TooBitToFail
 Sponsoren und Freunde
@@ -151,7 +151,7 @@ Social Sats Projekt</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#184 - Der Gipser in der Gärtnerei]]></title>
-      <description><![CDATA[<p><strong>Episode 184 - Blockzeit 791209 - von und mit </strong><a href="https://twitter.com/cercatrova_21" target="_blank" rel="noopener noreferer"><strong>Cercatrova</strong></a><strong>, </strong><a href="https://twitter.com/seedor_io" target="_blank" rel="noopener noreferer"><strong>Chris</strong></a><strong> und </strong><a href="https://twitter.com/gmblr247" target="_blank" rel="noopener noreferer"><strong>gambler</strong></a><strong></strong></p>
+      <description><![CDATA[<p><strong>Episode 184 - Blockzeit 791209 - von und mit </strong><a href="https://twitter.com/cercatrova_21" target="_blank" rel="noopener noreferer"><strong>Cercatrova</strong></a><strong>, </strong><a href="https://twitter.com/seedor_io" target="_blank" rel="noopener noreferer"><strong>Chris</strong></a><strong> und </strong><a href="https://twitter.com/gmblr247" target="_blank" rel="noopener noreferer"><strong>gmblr247</strong></a><strong></strong></p>
 <p><a href="https://www.btcprague.com/">Prague Ticket</a> mit Code &quot;einundzwanzig&quot; mit 21% Rabatt</p>
 <p><br></p>
 <ul>
@@ -205,7 +205,7 @@ Social Sats Projekt</itunes:summary>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 24 May 2023 19:53:15 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/70986608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F353018b2-3ca6-b6a2-adce-0b9b7c664343.mp3" length="181138957" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 184 - Blockzeit 791209 - von und mit Cercatrova, Chris und gambler
+      <itunes:summary>Episode 184 - Blockzeit 791209 - von und mit Cercatrova, Chris und gmblr247
 Prague Ticket mit Code &amp;quot;einundzwanzig&amp;quot; mit 21% Rabatt
 Strike App - Expansion in 65 Länder
 Bitcoin Pizza Day - Pizza for bitcoins?
@@ -233,7 +233,8 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #184">184</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Cercatrova" address="02e1f391c9f3420fcaf65d45b615ab53034bd4a090036ddfb5703f6825b3b2bb4c" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="02e1f391c9f3420fcaf65d45b615ab53034bd4a090036ddfb5703f6825b3b2bb4c" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="03b33aa7b3416fc7ccc50da498386a16e2577494269ec945177734e5684385cd00" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/cercatrova_21">Cerca</podcast:person>
     </item>
@@ -345,31 +346,29 @@ Lass uns einen Shoutout da.</itunes:summary>
     </item>
     <item>
       <title><![CDATA[Interview #92 - btcprague w/ Matyas Kuchar]]></title>
-      <description><![CDATA[Interview btcprague - Blockzeit 789887 - von und mit Tanksen, Gmblr247 und Matyas Kuchar
-Wir sprechen ausführlich über die anstehende btcprague Konferenz vom 08-10. Juni in Prag, die zahlreichen Side Events, über die Entstehung, die Vision und wie Michael Saylor dazu gebracht wurde, ebenfalls ein Sprecher auf der Konferenz zu sein. 
+      <description><![CDATA[<p><strong>Interview btcprague - Blockzeit 789887</strong> - von und mit Tanksen, Gmblr247 und Matyas Kuchar
+</p>
+<p>Wir sprechen ausführlich über die anstehende btcprague Konferenz vom 08-10. Juni in Prag, die zahlreichen Side Events, über die Entstehung, die Vision und wie Michael Saylor dazu gebracht wurde, ebenfalls ein Sprecher auf der Konferenz zu sein. 
 
 Links
 
-
- Ref Code: "Einundzwanzig" für 21% Discount bei euren Ticketbestellungen!!! (Wenn Bezahlung mit Bitcoin - sonst 16%, verfügbar ab 16.05)
+ Ref Code: &quot;Einundzwanzig&quot; für 21% Discount bei euren Ticketbestellungen!!! (Wenn Bezahlung mit Bitcoin - sonst 16%, verfügbar ab 16.05)
  Konferenz-Website mit Programm, Ticket Sales und allen Details: https://www.btcprague.com/
  Telegram-Gruppe zur Pleb Koordination und Absprache vor Ort: https://t.me/+w3ugNucjgAUwOWY0
  Blocktrainer Bitcoin MeetUp vor Ort am Donnerstagabend, 08. Juni.
-  btcprague auf Nostr: npub167n5w6cj2wseqtmk26zllc7n28uv9c4vw28k2kht206vnghe5a7stgzu3r
+ btcprague auf Nostr: npub167n5w6cj2wseqtmk26zllc7n28uv9c4vw28k2kht206vnghe5a7stgzu3r
 
 
 Weitere Links
 
-    Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
+   Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
 
     Verfolge die neusten Schlagzeilen im Newsfeed.
 
     Die Community-Tutorials auf YouTube.
 
-  Lass uns einen Shoutout da.
-
-
-
+  Lass uns einen Shoutout da.</p>
+<p><br></p>
 ]]></description>
       <link>https://einundzwanzig.space/podcast/interview-92-btcprague-w-matyas-kuchar</link>
       <guid isPermaLink="false">08c9c0d8-28d2-4663-a181-c047d33e11cf</guid>
@@ -450,16 +449,15 @@ Social Sats Projekt</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#182 - FOSS Gruß aus dem Mempool]]></title>
-      <description><![CDATA[<p><br></p>
-<p>Episode 182 - Blockzeit 789125 - von und mit <a href="@gmblr247" target="_blank" rel="noopener noreferer">Gambler</a>, <a href="@quilloughbee" target="_blank" rel="noopener noreferer">Quillie</a> und <a href="@michael1011at" target="_blank" rel="noopener noreferer">Michael1011</a></p>
+      <description><![CDATA[<p><strong>Episode 182 - Blockzeit 789125</strong> - von und mit <a href="@gmblr247" target="_blank" rel="noopener noreferer">gmblr247</a>, <a href="@quilloughbee" target="_blank" rel="noopener noreferer">Quillie</a> und <a href="@michael1011at" target="_blank" rel="noopener noreferer">Michael1011</a></p>
 <ul>
  <li><p>Gesundes Geld <a href="https://gesundes-geld.info/">https://gesundes-geld.info/</a></p>
 </li>
  <li><p>OpenSats Statement <a href="https://opensats.org/blog">https://opensats.org/blog</a></p>
 </li>
- <li><p>Einundzwanzig Bundle <a href="https://copiaro.de/einundzwanzig">https://copiaro.de/einundzwanzig</a></p>
+  <li><p>Einundzwanzig Bundle <a href="https://copiaro.de/einundzwanzig">https://copiaro.de/einundzwanzig</a></p>
 </li>
- <li><p>LNbits Update <a href="https://twitter.com/lnbits/status/1654416778804580352">https://twitter.com/lnbits/status/1654416778804580352</a></p>
+  <li><p>LNbits Update <a href="https://twitter.com/lnbits/status/1654416778804580352">https://twitter.com/lnbits/status/1654416778804580352</a></p>
 </li>
   <li><p>Human Rights Foundation grants https://hrf.org/devfund2023q2</p>
 </li>
@@ -493,7 +491,7 @@ Social Sats Projekt</itunes:summary>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Thu, 11 May 2023 05:49:44 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/70179100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-11%2F44b593ce-97e1-7276-8a18-e4559ea1ed3f.mp3" length="54873888" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 182 - Blockzeit 789125 - von und mit Gambler, Quillie und Michael1011
+      <itunes:summary>Episode 182 - Blockzeit 789125 - von und mit gmblr247, Quillie und Michael1011
 Gesundes Geld https://gesundes-geld.info/
 OpenSats Statement https://opensats.org/blog
 Einundzwanzig Bundle https://copiaro.de/einundzwanzig
@@ -515,7 +513,8 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #182">182</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="03b33aa7b3416fc7ccc50da498386a16e2577494269ec945177734e5684385cd00" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
     </item>
     <item>
@@ -565,8 +564,8 @@ Social Sats Projekt</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#181 - Bäcker Lutze lebt!]]></title>
-      <description><![CDATA[<p>Shownotes</p>
-<p>Episode 181 - Blockzeit 788120 - von und mit <a href="https://twitter.com/Lassmiranda21">Lassmiranda</a>, <a href="https://twitter.com/MarkusTurm">Markus</a>, <a href="https://twitter.com/21isenough">Matt</a>, <a href="https://twitter.com/18loddi">Loddi</a>, <a href="https://twitter.com/seedor_io">Chris</a></p>
+      <description><![CDATA[<p><strong>Episode 181 - Blockzeit 788120</strong> - von und mit <a href="https://twitter.com/Lassmiranda21">Lassmiranda</a>, <a href="https://twitter.com/MarkusTurm">Markus</a>, <a href="https://twitter.com/21isenough">Matt</a>, <a href="https://twitter.com/18loddi">Loddi</a> und <a href="https://twitter.com/seedor_io">Chris</a></p>
+<p><br></p>
 <ul>
  <li><p><a href="https://twitter.com/w_s_bitcoin">Wicked Seed Phrase</a></p>
 </li>
@@ -615,8 +614,7 @@ Social Sats Projekt</itunes:summary>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 03 May 2023 20:59:42 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/69742381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-3%2Fa656e29f-7684-fb0f-fb1b-51fabea88cc1.mp3" length="105256597" type="audio/mpeg"></enclosure>
-      <itunes:summary>Shownotes
-Episode 181 - Blockzeit 788120 - von und mit Lassmiranda, Markus, Matt, Loddi, Chris
+      <itunes:summary>Episode 181 - Blockzeit 788120 - von und mit Lassmiranda, Markus, Matt, Loddi und Chris
 Wicked Seed Phrase
 Ein Königreich für Miner
 Satskeeper
@@ -641,6 +639,12 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #181">181</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/Lassmiranda21">Lassmiranda</podcast:person>
+      <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
     </item>
     <item>
       <title><![CDATA[#180 - Du Hund]]></title>
