@@ -942,11 +942,12 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #178">178</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Cercatrova" address="02e1f391c9f3420fcaf65d45b615ab53034bd4a090036ddfb5703f6825b3b2bb4c" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="0231f73aef9bbdbf69e840640255946264026b56e17701f2d410b08b8b6e5d637a" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="02e1f391c9f3420fcaf65d45b615ab53034bd4a090036ddfb5703f6825b3b2bb4c" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="17"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
       <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
@@ -1566,8 +1567,9 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #173">173</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/fabthefoxx">Fab</podcast:person>
       <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
@@ -3514,8 +3516,9 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #156">156</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
     </item>
@@ -4295,8 +4298,9 @@ Lass uns einen Shoutout da: https://tallyco.in/s/zfxqtu</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #149">149</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/jokoono">Joko</podcast:person>
       <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
