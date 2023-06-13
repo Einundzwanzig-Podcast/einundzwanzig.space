@@ -6,7 +6,7 @@
   "repository": "git@github.com:Einundzwanzig-Podcast/einundzwanzig.space.git",
   "license": "MIT",
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=18.16.0"
   },
   "config": {
     "dist": "dist",
@@ -43,9 +43,9 @@
     "browser-sync": "2.29.3",
     "cross-env": "7.0.3",
     "csso-cli": "4.0.2",
-    "fast-xml-parser": "4.2.2",
-    "glob": "10.2.6",
-    "html-entities": "2.3.3",
+    "fast-xml-parser": "4.2.4",
+    "glob": "10.2.7",
+    "html-entities": "2.3.6",
     "jstransformer-markdown-it": "3.0.0",
     "markdown-it": "13.0.1",
     "node-file-rev": "1.1.4",
