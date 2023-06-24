@@ -125,23 +125,6 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Norddeutschland",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 19,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Hamburg",
-      "Bremen",
-      "Niedersachsen"
-    ],
-    "city": "Hannover",
-    "longitude": 9.73201,
-    "latitude": 52.375893,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Hildesheim",
     "url": "https://t.me/EinundzwanzigHildesheim",
     "top": null,
@@ -255,6 +238,23 @@
     "city": "Schweiz",
     "longitude": 8.2319736,
     "latitude": 46.7985624,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Norddeutschland",
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "top": 19,
+    "left": 37,
+    "country": "DE",
+    "state": [
+      "Hamburg",
+      "Bremen",
+      "Niedersachsen"
+    ],
+    "city": "Norddeutschland",
+    "longitude": 6.55449,
+    "latitude": 51.48128,
     "twitter_username": null,
     "website": null
   },
