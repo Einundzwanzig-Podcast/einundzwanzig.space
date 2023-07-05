@@ -147,7 +147,7 @@
     "city": "Münster",
     "longitude": 7.626135,
     "latitude": 51.960667,
-    "twitter_username": null,
+    "twitter_username": "einundzwanzigMS",
     "website": null
   },
   {
@@ -313,6 +313,21 @@
     "website": null
   },
   {
+    "name": "Einundzwanzig Nordburgenland",
+    "url": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
+    "top": 73,
+    "left": 97,
+    "country": "AT",
+    "state": [
+      "Burgenland"
+    ],
+    "city": "Nordburgenland",
+    "longitude": 16.60317,
+    "latitude": 47.84248,
+    "twitter_username": "21_nordbgld",
+    "website": null
+  },
+  {
     "name": "Einundzwanzig Ostschweiz",
     "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
     "top": 80,
@@ -329,21 +344,6 @@
     "city": "Ostschweiz",
     "longitude": 9.0838964,
     "latitude": 47.2975781,
-    "twitter_username": null,
-    "website": null
-  },
-  {
-    "name": "Einundzwanzig Nordburgenland",
-    "url": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
-    "top": 73,
-    "left": 97,
-    "country": "AT",
-    "state": [
-      "Burgenland"
-    ],
-    "city": "Nordburgenland",
-    "longitude": 16.60317,
-    "latitude": 47.84248,
     "twitter_username": null,
     "website": null
   },
@@ -585,6 +585,19 @@
     "city": "Niederrhein",
     "longitude": 6.69385,
     "latitude": 51.599411,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Einundzwanzig Gummersbach",
+    "url": "https://t.me/Einundzwanzig_Gummersbach",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Gummersbach",
+    "longitude": 7.56543,
+    "latitude": 51.028351,
     "twitter_username": null,
     "website": null
   },
@@ -1814,19 +1827,6 @@
     "website": "https://sites.google.com/view/21-meetup-kn/startseite"
   },
   {
-    "name": "Einundzwanzig Gummersbach",
-    "url": "t.me/Einundzwanzig_Gummersbach",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Gummersbach",
-    "longitude": 7.56543,
-    "latitude": 51.028351,
-    "twitter_username": null,
-    "website": null
-  },
-  {
     "name": "Einundzwanzig Ortenaukreis",
     "url": null,
     "top": null,
@@ -2266,6 +2266,21 @@
     "website": "https://www.instagram.com/bergbeiz_adlerhorst_oberiberg/"
   },
   {
+    "name": "Einundzwanzig Hannover ₿",
+    "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
+    "top": 27,
+    "left": 37,
+    "country": "DE",
+    "state": [
+      "Niedersachsen"
+    ],
+    "city": "Hannover",
+    "longitude": 9.73201,
+    "latitude": 52.375893,
+    "twitter_username": null,
+    "website": null
+  },
+  {
     "name": "21 Zitadelle Uckermark",
     "url": null,
     "top": null,
@@ -2279,17 +2294,15 @@
     "website": null
   },
   {
-    "name": "Einundzwanzig Hannover ₿",
-    "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
-    "top": 27,
-    "left": 37,
+    "name": "Aschaffenburg",
+    "url": "https://t.me/einundzwanzig_aschaffenburg",
+    "top": null,
+    "left": null,
     "country": "DE",
-    "state": [
-      "Niedersachsen"
-    ],
-    "city": "Hannover",
-    "longitude": 9.73201,
-    "latitude": 52.375893,
+    "state": null,
+    "city": "Aschaffenburg",
+    "longitude": 9.14901,
+    "latitude": 49.973019,
     "twitter_username": null,
     "website": null
   },
@@ -2316,6 +2329,19 @@
     "city": "Bremerhaven",
     "longitude": 8.58338,
     "latitude": 53.538792,
+    "twitter_username": null,
+    "website": null
+  },
+  {
+    "name": "Würzburg ",
+    "url": "https://t.me/einundzwanzig_wuerzburg",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Würzburg ",
+    "longitude": 9.953355,
+    "latitude": 49.791306,
     "twitter_username": null,
     "website": null
   }
