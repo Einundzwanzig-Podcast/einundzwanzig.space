@@ -6,20 +6,18 @@ block vars
   - const pageCard = "/img/card/gesundes-geld.jpg"
   - const cardType = "summary_large_image"
 
-block pageScripts
-  script(src=assetPath("/vendor/jvectormap/jquery.min.js"))
-  script(src=assetPath("/vendor/jvectormap/jquery-jvectormap.js"))
-  script(src=assetPath("/vendor/jvectormap/maps/europe_mill.js"))
-  script(src=assetPath("/vendor/jvectormap/maps/de_mill.js"))
-  script(src=assetPath("/vendor/jvectormap/maps/at_mill.js"))
-  script(src=assetPath("/vendor/jvectormap/maps/ch_mill.js"))
-  link(href=assetPath("/vendor/jvectormap/jquery-jvectormap.css") rel="stylesheet")
-  link(href=assetPath("/css/gesundes-geld.css") rel="stylesheet")
-
 <!DOCTYPE html>
 html(lang="de" data-theme="custom")
   head
     include includes/_head
+    script(src=assetPath("/vendor/jvectormap/jquery.min.js"))
+    script(src=assetPath("/vendor/jvectormap/jquery-jvectormap.js"))
+    script(src=assetPath("/vendor/jvectormap/maps/europe_mill.js"))
+    script(src=assetPath("/vendor/jvectormap/maps/de_mill.js"))
+    script(src=assetPath("/vendor/jvectormap/maps/at_mill.js"))
+    script(src=assetPath("/vendor/jvectormap/maps/ch_mill.js"))
+    link(href=assetPath("/vendor/jvectormap/jquery-jvectormap.css") rel="stylesheet")
+    link(href=assetPath("/css/gesundes-geld.css") rel="stylesheet")
   body#gesundes-geld
     main.main
       .wrap
@@ -74,5 +72,5 @@ html(lang="de" data-theme="custom")
       section
         +meetupMap()
 
-      section
+      section.cta
         a.button(href="/") Zur Einundzwanzig Website

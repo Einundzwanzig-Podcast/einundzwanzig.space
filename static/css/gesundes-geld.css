@@ -128,7 +128,7 @@
   margin-bottom: 4rem;
 }
 
-#gesundes-geld section:last-child {
+#gesundes-geld section.cta {
   text-align: center;
 }
 
