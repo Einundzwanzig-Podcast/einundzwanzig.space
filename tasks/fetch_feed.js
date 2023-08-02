@@ -130,14 +130,21 @@ const parseEpisode = e => {
   }
 
   // episodes
-  feed.rss.channel.item = feed.rss.channel.item.map(item => {
+  feed.rss.channel.item = feed.rss.channel.item.map((item, index) => {
     const episode = parseEpisode(item)
     episodes.push(episode)
 
+    const link = `https://einundzwanzig.space/podcast/${episode.slug}`
+    let description = episode.description
+    if (index > 20) {
+      description = `Shownotes: ${link}`
+    }
+
     const updated = {
       ...item,
-      link: `https://einundzwanzig.space/podcast/${episode.slug}`, // replace Anchor link
-      'itunes:summary': episode.description // please the validator, Anchor's itunes:summary contains HTML
+      link, // replace Anchor link
+      description,
+      'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
     }
 
     if (episode.number) {
@@ -202,8 +209,6 @@ const parseEpisode = e => {
 
     return updated
   })
-
-  writeJSON('feed', feed)
 
   const outputXML = builder.build(feed)
 
