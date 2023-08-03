@@ -46,7 +46,9 @@
     "address": "02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794"
   },
   "molo": {
-    "address": "0355da86ca66c4b41d97b555a0eebb38c2a968b577ab920733aa91a0560751bac8"
+    "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+    "customKey": "696969",
+    "customValue": "MvJVAFYbDTN3K6gvvGhj"
   },
   "zerofeerouting": {
     "address": "038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5"
@@ -62,5 +64,10 @@
   },
   "fichte": {
     "address": "022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57"
+  },
+  "el bitcoin ambassador": {
+    "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+    "customKey": "696969",
+    "customValue": "n034BHJnap8E2ab1phMS"
   }
 }
