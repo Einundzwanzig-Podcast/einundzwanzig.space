@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 04 Aug 2023 08:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:17 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,78 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#195 - Escape to 21 World]]></title>
+      <description>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, Gambler &amp;amp; Michael1011
+PayPal Stablecoin
+Coinfinity Lightning ATMs gehen in Pilotphase
+Bitcoin Blinks von Coinfinity
+Australische Banken Stoppen Bargeld Auszahlungen
+Nostr Apps
+Bitrefill eSIMs
+Silent.Link Episode bei Stephan Livera
+Futurama Bitcoin Episode
+SimpleX Messenger
+Atomic.finance
+Mempool Party Tirol
+Sommerfest auf der Heide
+El Presidente ist ein Hochstapler
+Achtung: Samourai Fake Wallet im iOS AppStore - Offizielle Infos und Downloads unter samouraiwallet.com
+Samourai Wallet Update
+Schwerwiegende Libbitcoin-Schwachstelle Milk Sad
+Sponsoren und Freunde
+BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
+Stack Deine Sats mit Pocket Bitcoin.
+Einundzwanzig Merch bei Copiaro.
+Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
+Weitere Links
+Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
+Verfolge die neusten Schlagzeilen im Newsfeed.
+Die Community-Tutorials auf YouTube.
+Lass uns einen Shoutout da.</description>
+      <link>https://einundzwanzig.space/podcast/news-195-escape-to-21-world</link>
+      <guid isPermaLink="false">37406576-5d1e-4bce-8419-26968602013d</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 09 Aug 2023 23:57:07 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74448855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F7d703c96-3979-250c-4c41-276aec846f31.mp3" length="100298198" type="audio/mpeg"></enclosure>
+      <itunes:summary>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, Gambler &amp;amp; Michael1011
+PayPal Stablecoin
+Coinfinity Lightning ATMs gehen in Pilotphase
+Bitcoin Blinks von Coinfinity
+Australische Banken Stoppen Bargeld Auszahlungen
+Nostr Apps
+Bitrefill eSIMs
+Silent.Link Episode bei Stephan Livera
+Futurama Bitcoin Episode
+SimpleX Messenger
+Atomic.finance
+Mempool Party Tirol
+Sommerfest auf der Heide
+El Presidente ist ein Hochstapler
+Achtung: Samourai Fake Wallet im iOS AppStore - Offizielle Infos und Downloads unter samouraiwallet.com
+Samourai Wallet Update
+Schwerwiegende Libbitcoin-Schwachstelle Milk Sad
+Sponsoren und Freunde
+BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
+Stack Deine Sats mit Pocket Bitcoin.
+Einundzwanzig Merch bei Copiaro.
+Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
+Weitere Links
+Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
+Verfolge die neusten Schlagzeilen im Newsfeed.
+Die Community-Tutorials auf YouTube.
+Lass uns einen Shoutout da.</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:30:21</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #195">195</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#194 - Lightning Löwe entlaufen]]></title>
       <description>Episode 194 - Blockzeit 801553 - von und mit Quillie, Dennis, El Bitcoin Ambassador, Molo und PaddePadde
@@ -1123,43 +1195,13 @@ Social Sats Projekt</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#182 - FOSS Gruß aus dem Mempool]]></title>
-      <description>Episode 182 - Blockzeit 789125 - von und mit gmblr247, Quillie und Michael1011
-Gesundes Geld https://gesundes-geld.info/
-OpenSats Statement https://opensats.org/blog
-Einundzwanzig Bundle https://copiaro.de/einundzwanzig
-LNbits Update https://twitter.com/lnbits/status/1654416778804580352
-Human Rights Foundation grants https://hrf.org/devfund2023q2
-Sponsoren und Freunde
-BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
-Stack Deine Sats mit Pocket Bitcoin.
-Einundzwanzig Merch bei Copiaro.
-Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
-Weitere Links
-Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
-Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</description>
+      <description>Shownotes: https://einundzwanzig.space/podcast/news-182-foss-gru-aus-dem-mempool</description>
       <link>https://einundzwanzig.space/podcast/news-182-foss-gru-aus-dem-mempool</link>
       <guid isPermaLink="false">8db989e7-a21d-4f73-a251-c738f811c84a</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Thu, 11 May 2023 05:49:44 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/70179100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-11%2F44b593ce-97e1-7276-8a18-e4559ea1ed3f.mp3" length="54873888" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 182 - Blockzeit 789125 - von und mit gmblr247, Quillie und Michael1011
-Gesundes Geld https://gesundes-geld.info/
-OpenSats Statement https://opensats.org/blog
-Einundzwanzig Bundle https://copiaro.de/einundzwanzig
-LNbits Update https://twitter.com/lnbits/status/1654416778804580352
-Human Rights Foundation grants https://hrf.org/devfund2023q2
-Sponsoren und Freunde
-BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
-Stack Deine Sats mit Pocket Bitcoin.
-Einundzwanzig Merch bei Copiaro.
-Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
-Weitere Links
-Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
-Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</itunes:summary>
+      <itunes:summary>Shownotes: https://einundzwanzig.space/podcast/news-182-foss-gru-aus-dem-mempool</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>00:54:47</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
