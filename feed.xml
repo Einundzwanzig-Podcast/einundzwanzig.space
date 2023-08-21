@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 21 Aug 2023 09:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 09:38:08 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -1535,6 +1535,10 @@ Lass uns einen ⁠Shoutout⁠ da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1681057162359-3a80f2f19d02d.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Lesestunde #27">27</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title><![CDATA[Der Weg #74 - Bitcoin ist Stoizismus]]></title>
@@ -5245,6 +5249,11 @@ Lass uns einen ⁠Shoutout⁠ da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1632738374483-29c910ec51fc6.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #60">60</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
+      <podcast:person href="https://twitter.com/fulmolightning">Jeff</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #23 - Bitcoin ist ein Fundament]]></title>
