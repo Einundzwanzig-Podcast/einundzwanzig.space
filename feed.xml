@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 19 Aug 2023 09:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 09:35:09 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,12 +38,12 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[Interview #93 - Es geht um die Sache! - mit Joana Cotar über Bitcoin im Bundestag. ]]></title>
-      <description>Bitcoin im Bundestag - Stefan und Joana im Gespräch - Blockzeit 803448 - von und mit Daniel
+      <description>Bitcoin im Bundestag - Stephan und Joana im Gespräch - Blockzeit 803448 - von und mit Daniel
 Bitcoin im Bundestag
 Website: bitcoin-im-bundestag.de
 Interview mit Roman: youtu.be/oMW185SdM7o
 SimpleX Adresse
-Triff Johanna in:
+Triff Joana in:
 Innsbruck am 14.-17. September: bconf.de (mit &amp;quot;EINUNDZWANZIG&amp;quot; 5% sparen und Sats für den Verein spenden)
 Berlin am 7. Oktober: berlinbitcoinspace.io (mit &amp;quot;EINUNDZWANZIG10&amp;quot; 10% sparen und Sats für den Verein spenden)
 Links
@@ -64,12 +64,12 @@ Lass uns einen ⁠Shoutout⁠ da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Sat, 19 Aug 2023 04:00:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74705561/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-16%2F91371b4a-1961-1be2-ea5b-2bba7166db70.mp3" length="129921939" type="audio/mpeg"></enclosure>
-      <itunes:summary>Bitcoin im Bundestag - Stefan und Joana im Gespräch - Blockzeit 803448 - von und mit Daniel
+      <itunes:summary>Bitcoin im Bundestag - Stephan und Joana im Gespräch - Blockzeit 803448 - von und mit Daniel
 Bitcoin im Bundestag
 Website: bitcoin-im-bundestag.de
 Interview mit Roman: youtu.be/oMW185SdM7o
 SimpleX Adresse
-Triff Johanna in:
+Triff Joana in:
 Innsbruck am 14.-17. September: bconf.de (mit &amp;quot;EINUNDZWANZIG&amp;quot; 5% sparen und Sats für den Verein spenden)
 Berlin am 7. Oktober: berlinbitcoinspace.io (mit &amp;quot;EINUNDZWANZIG10&amp;quot; 10% sparen und Sats für den Verein spenden)
 Links
@@ -230,7 +230,7 @@ Lass uns einen Shoutout da.</itunes:summary>
     </item>
     <item>
       <title><![CDATA[GrapheneOS Special]]></title>
-      <description>Graphene OS Special - Blockzeit 802654 - von und mit Quillie, Dennis, Ben &amp;amp; Tobo
+      <description>Graphene OS Special - Blockzeit 802654 - von und mit Quillie, Dennis, Ben &amp;amp; Tobo
 Übersicht an Privacy Mobile Apps von TrustBTC
 Graphene OS vs CalyxOS Vergleich
 Graphene OS Features
@@ -257,7 +257,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Sun, 13 Aug 2023 20:22:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74515519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-12%2F89f49d22-096c-6eb0-1184-1738150b8703.mp3" length="206874121" type="audio/mpeg"></enclosure>
-      <itunes:summary>Graphene OS Special - Blockzeit 802654 - von und mit Quillie, Dennis, Ben &amp;amp; Tobo
+      <itunes:summary>Graphene OS Special - Blockzeit 802654 - von und mit Quillie, Dennis, Ben &amp;amp; Tobo
 Übersicht an Privacy Mobile Apps von TrustBTC
 Graphene OS vs CalyxOS Vergleich
 Graphene OS Features
@@ -283,10 +283,17 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:duration>01:26:11</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1691767385748-93258bdb018ca.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Tobo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="QgZTULTtllSKL3W3E6mY" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
     </item>
     <item>
       <title><![CDATA[Einundzwanzig on Tour: Sommerfest in der Heide 2023]]></title>
-      <description>Special vom Sommerfest in der Heide 2023 - Blockzeit 801842 - von und mit BenMitFleck.
+      <description>Special vom Sommerfest in der Heide 2023 - Blockzeit 801842 - von und mit BenMitFleck.
 Einundzwanzig on Tour auf dem legendären Bitcoin Sommerfest in der Heide - von und mit BenMitFleck (Lieblingswort &amp;quot;mega&amp;quot;) sowie einer Vielzahl weiterer Plebs. #plebstogetherstrong
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -303,7 +310,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Fri, 11 Aug 2023 04:21:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74460140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2Fdac87502-edba-cbdc-9642-9f26c98224b6.mp3" length="39414793" type="audio/mpeg"></enclosure>
-      <itunes:summary>Special vom Sommerfest in der Heide 2023 - Blockzeit 801842 - von und mit BenMitFleck.
+      <itunes:summary>Special vom Sommerfest in der Heide 2023 - Blockzeit 801842 - von und mit BenMitFleck.
 Einundzwanzig on Tour auf dem legendären Bitcoin Sommerfest in der Heide - von und mit BenMitFleck (Lieblingswort &amp;quot;mega&amp;quot;) sowie einer Vielzahl weiterer Plebs. #plebstogetherstrong
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -319,10 +326,13 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:duration>00:42:47</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1691669471555-c52ccbace3211.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="BenMitFleck" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="FEdg3yD1HsyTbFUIjVHh" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title><![CDATA[#195 - Escape to 21 World]]></title>
-      <description>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, Gambler &amp;amp; Michael1011
+      <description>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, gmblr247 &amp;amp; Michael1011
 PayPal Stablecoin
 Coinfinity Lightning ATMs gehen in Pilotphase
 Bitcoin Blinks von Coinfinity
@@ -354,7 +364,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 09 Aug 2023 23:57:07 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74448855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F7d703c96-3979-250c-4c41-276aec846f31.mp3" length="100298198" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, Gambler &amp;amp; Michael1011
+      <itunes:summary>Episode 195 - Blockzeit 801952 - von und mit Quillie, Dennis, gmblr247 &amp;amp; Michael1011
 PayPal Stablecoin
 Coinfinity Lightning ATMs gehen in Pilotphase
 Bitcoin Blinks von Coinfinity
@@ -387,8 +397,9 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #195">195</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="03b33aa7b3416fc7ccc50da498386a16e2577494269ec945177734e5684385cd00" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
     </item>
@@ -510,7 +521,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#193 - Lightning mit PocketBitcoin]]></title>
-      <description>Episode 193 - Blockzeit 800387 -  von und mit Tobi, David, Markus und Kemal
+      <description>Episode 193 - Blockzeit 800387 - von und mit Tobi, David, Markus und Kemal
 Lightning, wie weit ist es gekomme?
 Rückblick:
 2018 Dryja/Poon channel&amp;amp;routing
@@ -544,7 +555,7 @@ Lass uns einen ⁠Shoutout⁠ da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Fri, 28 Jul 2023 07:23:51 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/73900718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-28%2Fb9910ae5-b687-5d26-1ac9-e2f28c248f4c.mp3" length="96305318" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 193 - Blockzeit 800387 -  von und mit Tobi, David, Markus und Kemal
+      <itunes:summary>Episode 193 - Blockzeit 800387 - von und mit Tobi, David, Markus und Kemal
 Lightning, wie weit ist es gekomme?
 Rückblick:
 2018 Dryja/Poon channel&amp;amp;routing
@@ -578,6 +589,12 @@ Lass uns einen ⁠Shoutout⁠ da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #193">193</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/MarkusTurm">Markus</podcast:person>
+      <podcast:person href="https://twitter.com/_pretyflaco">Kemal</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #81 - Bitcoin ist unfassbar]]></title>
@@ -628,7 +645,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#192 - Lightning Zahlung im Geschäft]]></title>
-      <description>Episode 192 - Blockzeit 799.416 -  von und mit Daniel, Michael, Michael und Dirk
+      <description>Episode 192 - Blockzeit 799416  - von und mit Daniel, Michael, Michael und Dirk
 Zitadelle Rückblick
 Robert F. Kennedy will US Dollar mit Bitcoin unterlegen
 Einundzwanzig magazine im Bundestag
@@ -659,14 +676,13 @@ Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
 Weitere Links
 Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
 Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</description>
+Die Community-Tutorials auf YouTube.</description>
       <link>https://einundzwanzig.space/podcast/news-192-lightning-zahlung-im-geschaeft</link>
       <guid isPermaLink="false">4f2f3bd1-e0e6-4e19-bae8-db147ba50967</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 19 Jul 2023 21:07:33 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/73614435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-19%2F0fe05fef-e301-078e-1ce3-950091b29ad8.mp3" length="160161635" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 192 - Blockzeit 799.416 -  von und mit Daniel, Michael, Michael und Dirk
+      <itunes:summary>Episode 192 - Blockzeit 799416  - von und mit Daniel, Michael, Michael und Dirk
 Zitadelle Rückblick
 Robert F. Kennedy will US Dollar mit Bitcoin unterlegen
 Einundzwanzig magazine im Bundestag
@@ -697,18 +713,21 @@ Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
 Weitere Links
 Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
 Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</itunes:summary>
+Die Community-Tutorials auf YouTube.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:51:13</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episode>192</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #192">192</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/danielwingen">Daniel</podcast:person>
     </item>
     <item>
       <title><![CDATA[Zitadelle 2023 - Miteinander Bullish Samma! (On-Tour)]]></title>
-      <description>Episode #192 aus Österreich von der Zitadelle 2023 - von und mit Gambler und Loddi.
+      <description>Episode #192 aus Österreich von der Zitadelle 2023 - von und mit gmblr247 und Loddi.
 Hier erfahrt ihr direkt alles rund um die vergangene Zitadelle 2023. Noch sind die letzten nicht daheim, nehmen euch der gmblr247 und Loddi auch schon mit über die Zitadelle. Hört rein, egal ob ihr dabei wart oder nicht. Es hat wie immer richtig Bock gemacht und war eine super Pleb Veranstaltung!
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -725,7 +744,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Mon, 17 Jul 2023 04:52:50 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/73493181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-17%2Fded1ca2e-10da-76a5-a957-99b02ff84eb0.mp3" length="49771668" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode #192 aus Österreich von der Zitadelle 2023 - von und mit Gambler und Loddi.
+      <itunes:summary>Episode #192 aus Österreich von der Zitadelle 2023 - von und mit gmblr247 und Loddi.
 Hier erfahrt ihr direkt alles rund um die vergangene Zitadelle 2023. Noch sind die letzten nicht daheim, nehmen euch der gmblr247 und Loddi auch schon mit über die Zitadelle. Hört rein, egal ob ihr dabei wart oder nicht. Es hat wie immer richtig Bock gemacht und war eine super Pleb Veranstaltung!
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -741,6 +760,9 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:duration>00:47:54</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1689569214295-4e9f1b2805fbc.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="gmblr247" address="03b33aa7b3416fc7ccc50da498386a16e2577494269ec945177734e5684385cd00" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
     </item>
     <item>
       <title><![CDATA[#191 - Miteinander Bullish Samma!]]></title>
@@ -1081,7 +1103,7 @@ Lass uns einen Shoutout da.</itunes:summary>
     </item>
     <item>
       <title><![CDATA[Einundzwanzig on Tour: btcprague 2023]]></title>
-      <description>Sonderepisode 187 - Blockzeit 793761 - von und mit Tanksen, Fab, Dennis, Marc, Leo, Flashman, Jesse und der Janine.
+      <description>Sonderepisode von der BTCPrague - Blockzeit 793761 - von und mit Tanksen, Fab, Dennis, Marc, Leo, Flashman, Jesse und Janine.
 Hier erfahrt ihr heute alles rund um die vergangene btcprague 2023. Mit dem neuen Format versuchen wir euch ein wenig mitzunehmen nach Prag, wie wir es vor Ort empfunden haben und was es für spannende Themen gab rund um die Konferenz. Quasi Live- Eindrücke von vor Ort. Spoiler: Es hat richtig Bock gemacht!
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -1098,7 +1120,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Sun, 11 Jun 2023 04:00:26 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/71937294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-10%2F2d1a28dc-e95d-14da-8be9-c326f6831ec4.mp3" length="82844223" type="audio/mpeg"></enclosure>
-      <itunes:summary>Sonderepisode 187 - Blockzeit 793761 - von und mit Tanksen, Fab, Dennis, Marc, Leo, Flashman, Jesse und der Janine.
+      <itunes:summary>Sonderepisode von der BTCPrague - Blockzeit 793761 - von und mit Tanksen, Fab, Dennis, Marc, Leo, Flashman, Jesse und Janine.
 Hier erfahrt ihr heute alles rund um die vergangene btcprague 2023. Mit dem neuen Format versuchen wir euch ein wenig mitzunehmen nach Prag, wie wir es vor Ort empfunden haben und was es für spannende Themen gab rund um die Konferenz. Quasi Live- Eindrücke von vor Ort. Spoiler: Es hat richtig Bock gemacht!
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
@@ -1114,6 +1136,15 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:duration>00:57:40</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1686429419835-1cac0576ae7ab.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://twitter.com/tanksen_f">Tanksen</podcast:person>
+      <podcast:person href="https://twitter.com/fabthefoxx">Fab</podcast:person>
+      <podcast:person href="https://twitter.com/_d11n_">Dennis</podcast:person>
     </item>
     <item>
       <title><![CDATA[#186 - Fiat talk is cheap]]></title>
