@@ -26,6 +26,7 @@
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
     "build": "npm run init && run-p build:*",
     "build:data": "node tasks/generate_site_data.js",
+    "build:nostr": "node tasks/generate_nostr.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
     "optimize": "run-p optimize:* && run-s rev",
@@ -38,6 +39,7 @@
     "amplitudejs": "5.3.2"
   },
   "devDependencies": {
+    "@nostr-dev-kit/ndk": "0.8.21",
     "autoprefixer": "10.4.15",
     "browser-sync": "2.29.3",
     "cross-env": "7.0.3",
