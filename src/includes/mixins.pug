@@ -13,18 +13,18 @@ mixin categories(current)
 
 mixin member(m)
   li.member(id=m.name)
-    img(src=assetPath(m.image) alt=m.name loading="lazy")
+    img(src=assetPath(m.image || "/img/avatar.svg") alt=m.name loading="lazy")
     header
       h2=m.name
       .links
         if m.nostr
-          a(href=nostrUrl(m.nostr) target="_blank" rel="nofollow noopener" title=`${m.name} on Nostr`)
+          a(href=`https://snort.social/p/${m.nostr}` target="_blank" rel="nofollow noopener" title=`${m.name} on Nostr`)
             +sprite("nostr")
         if m.twitter
-          a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" rel="nofollow noopener" title=`${m.name} on Twitter`)
+          a(href=`https://twitter.com/${m.twitter}` target="_blank" rel="nofollow noopener" title=`${m.name} on Twitter`)
             +sprite("twitter")
         if m.github
-          a(href=(m.github.startsWith('https://') ? m.github : `https://github.com/${m.github}`) target="_blank" rel="nofollow noopener" title=`${m.name} on GitHub`)
+          a(href=`https://github.com/${m.github}` target="_blank" rel="nofollow noopener" title=`${m.name} on GitHub`)
             +sprite("github")
         if m.url
           a(href=m.url target="_blank" rel="nofollow noopener")

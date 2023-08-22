@@ -32,7 +32,6 @@ const meetupsSorted = site.meetups.sort((a, b) => {
 
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0] })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes] })
-renderPage('team', 'team', { navCurrent: 'team', team })
 renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: meetupsSorted })
 renderPage('kurse', 'kurse', { navCurrent: 'kurse', kurse })
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })

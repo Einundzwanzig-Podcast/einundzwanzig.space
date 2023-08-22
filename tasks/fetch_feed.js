@@ -1,9 +1,8 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML } = require('../helpers')
+const { replacements, slugify, stripHTML, memberUrl } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const team = require('../content/team.json')
-const nodes = require('../content/nodes.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
 const xmlFormat = require('xml-formatter')
@@ -104,11 +103,11 @@ const parseEpisode = e => {
   const _noParticipants = [],
     _noNode = []
   const members = [
-    { name: 'Dennis', ...nodes.dennis },
-    { name: 'Fab', ...nodes.fab },
-    { name: 'Gigi', ...nodes.gigi },
-    { name: 'Markus', ...nodes.markus },
-    { name: 'Daniel', ...nodes.daniel }
+    { name: 'Dennis', ...team.dennis.v4v },
+    { name: 'Fab', ...team.fab.v4v },
+    { name: 'Gigi', ...team.gigi.v4v },
+    { name: 'Markus', ...team.markus.v4v },
+    { name: 'Daniel', ...team.daniel.v4v }
   ]
 
   // remove invalid tag
@@ -158,9 +157,9 @@ const parseEpisode = e => {
 
     const value = episode.participants.reduce((result, name) => {
       const id = name.toLowerCase()
-      const node = nodes[id]
-      if (node) {
-        result.push({ name, ...node })
+      const v4v = team[id] && team[id].v4v
+      if (v4v) {
+        result.push({ name, ...v4v })
       } else if (debug) {
         _noNode.push({ episode: episode.slug, name })
       }
@@ -198,10 +197,9 @@ const parseEpisode = e => {
       updated['podcast:person'] = []
 
       people.forEach(p => {
+        const href = p.url || p.nostr ? `https://snort.social/p/${p.nostr}` : `https://twitter.com/${p.twitter}`
         updated['podcast:person'].push({
-          __attr: {
-            href: `https://twitter.com/${p.twitter}`
-          },
+          __attr: { href },
           '#text': p.name
         })
       })

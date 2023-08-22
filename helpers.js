@@ -36,9 +36,8 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
-const nostrUrl = pubkey => pubkey
-  ? `https://snort.social/p/${pubkey}`
-  : null
+const memberUrl = member =>
+  member.url || member.nostr ? `https://snort.social/p/${member.nostr}` : `https://twitter.com/${member.twitter}`
 
 module.exports = {
   markdown: mdTransformer.render,
@@ -46,5 +45,5 @@ module.exports = {
   slugify,
   stripHTML,
   truncate,
-  nostrUrl
+  memberUrl
 }

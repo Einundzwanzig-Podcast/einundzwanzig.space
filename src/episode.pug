@@ -34,7 +34,7 @@ block main
               - const member = team[participant.toLowerCase()]
               li
                 if member
-                  a(href=`/team/#${member.name}`)
+                  a(href=memberUrl(member))
                     img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
                     = member.name
                 else
