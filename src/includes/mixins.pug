@@ -125,7 +125,7 @@ mixin episodeItem(e)
 mixin episodePlayer(e)
   .player.player--single&attributes(attributes)
     a.player__coverlink(href=`/podcast/${e.slug}/`)
-      img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true")
+      img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true" alt=e.titlePlain loading="lazy")
     .player__bottom
       progress.player__progress.amplitude-song-played-progress(data-amplitude-main-song-played-progress="true")
 

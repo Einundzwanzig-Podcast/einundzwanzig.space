@@ -19,7 +19,7 @@
     "episodes": "npm run fetch && mkdir -p episodes && node tasks/fetch_episodes.js",
     "copy": "cp -rT static dist && cp node_modules/amplitudejs/dist/amplitude.min.js dist/js/player.js",
     "init": "run-s clean copy && run-p fetch build:data",
-    "start": "cross-env NODE_ENV=development npm run init && run-p start:*",
+    "start": "cross-env NODE_ENV=development npm run init && cross-env NODE_ENV=development run-p start:*",
     "start:data": "onchange -k 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
     "start:pages": "onchange -i -k 'pug.config.js' 'markdown.js' 'content/**' 'generated/**' 'src/**/*.pug' 'src/**/*.svg' 'tasks/generate_pages.js' -- npm run build:pages",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
