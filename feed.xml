@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 12:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 07:50:59 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,7 +38,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[#198 - Harald Schmidt und die Holz-Abschneider]]></title>
-      <description>Episode 198 - Blockzeit 805486- von und mit Olaf, Markus und Chris
+      <description>Episode 198 - Blockzeit 805486 - von und mit Olaf, Markus und Chris
 https://twitter.com/CHeducationBTC/status/1696389976747827489?s=20
 River To Reduce Its Lightning Node Capacity Further by 48%
 “Powell is winning in so many places, from homes to job openings to starting salaries. That&amp;apos;s one of the reasons this market can go higher so easily”
@@ -58,7 +58,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Thu, 31 Aug 2023 12:53:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/75305137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2Fc6984556-7b37-a149-535b-ecbc5ea04ec6.mp3" length="245096677" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 198 - Blockzeit 805486- von und mit Olaf, Markus und Chris
+      <itunes:summary>Episode 198 - Blockzeit 805486 - von und mit Olaf, Markus und Chris
 https://twitter.com/CHeducationBTC/status/1696389976747827489?s=20
 River To Reduce Its Lightning Node Capacity Further by 48%
 “Powell is winning in so many places, from homes to job openings to starting salaries. That&amp;apos;s one of the reasons this market can go higher so easily”
@@ -78,6 +78,12 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #198">198</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #83 - Bitcoin ist Zukunft]]></title>
