@@ -47,6 +47,7 @@ const parseEpisode = e => {
   ) || [, , , title]
   if (!number) categoryName = 'Verschiedenes'
   if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
+  if (categoryName === 'On-Tour') categoryName = 'On Tour'
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
   const firstLine = description.split('\n')[0]
   const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
@@ -55,7 +56,7 @@ const parseEpisode = e => {
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
   const date = new Date(e.pubDate)
   const img = e['itunes:image'].__attr.href
-  const image = ['interview', 'lesestunde', 'verschiedenes'].includes(category)
+  const image = ['interview', 'lesestunde', 'on-tour', 'verschiedenes'].includes(category)
     ? img
     : `/img/cover/${category}.png`
   const duration = e['itunes:duration']

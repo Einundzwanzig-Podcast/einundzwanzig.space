@@ -4,12 +4,13 @@ mixin sprite(id)
 
 mixin categories(current)
   ul.categories
-    li: a(href="/podcast/" class=(!current && 'current')) Alles
-    li: a(href="/podcast/news/" class=(current === 'News' && 'current')) News
-    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')) Interviews
-    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')) Lesestunde
-    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')) Der Weg
-    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')) Verschiedenes
+    li: a(href="/podcast/" class=(!current && 'current')).alles Alles
+    li: a(href="/podcast/news/" class=(current === 'News' && 'current')).news News
+    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')).interviews Interviews
+    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')).lesestunde Lesestunde
+    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')).der-weg Der Weg
+    li: a(href="/podcast/on-tour/" class=(current === 'On Tour' && 'current')).on-tour On Tour
+    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')).verschiedenes Verschiedenes
 
 mixin member(m)
   li.member(id=m.name)

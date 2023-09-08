@@ -4,12 +4,25 @@
     flex-wrap: wrap;
     list-style: none;
     margin: var(--space-l) 0 var(--space-xl);
+    font-size: var(--font-size-s);
 
     & li {
       margin: 0 var(--space-m) var(--space-m) 0;
     }
 
     & a {
+      --category-accent-fg : var(--color-neutral-0);
+      --category-accent-bg : var(--color-accent);
+
+      &.interviews,
+      &.on-tour,
+      &.verschiedenes {
+        --category-accent-bg : var(--color-special);
+      }
+      &.der-weg {
+        --category-accent-bg : var(--color-derweg);
+      }
+
       display: inline-block;
       text-align: center;
       padding: var(--space-s) var(--space-l);
@@ -20,16 +33,19 @@
 
       &:hover {
         @media not all and (hover: none) {
-          color: var(--color-neutral-0);
-          background-color: var(--color-secondary);
+          color: var(--category-accent-fg);
+          border-color: var(--category-accent-bg);
+          background-color: var(--category-accent-bg);
           text-decoration: none;
         }
       }
 
       &.current {
-        color: var(--color-neutral-0);
-        background-color: var(--color-secondary);
+        color: var(--category-accent-fg);
+        border-color: var(--category-accent-bg);
+        background-color: var(--category-accent-bg);
         text-decoration: none;
+        font-weight: var(--font-weight-bold);
       }
     }
   }
