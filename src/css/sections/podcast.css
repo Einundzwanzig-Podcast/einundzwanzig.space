@@ -75,13 +75,16 @@
     align-items: center;
   }
 
-  & .avatar {
-    display: block;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 50%;
-    margin-right: var(--space-m);
+  & .partcipants li span {
+    margin-left: var(--space-m);
   }
+}
+
+.avatar {
+  display: block;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
 }
 
 .episodes {
@@ -158,6 +161,9 @@
 }
 
 .player {
+  --player-button-size: 3rem;
+  --player-button-margin: var(--space-l);
+
   display: flex;
   border-radius: var(--space-m);
   overflow: hidden;
@@ -225,16 +231,24 @@
   content: '2.0x';
 }
 
-.player__controls {
+.player__participants {
+  flex-wrap: wrap;
+  gap: var(--space-m);
+  margin: 0 0 0 calc(var(--player-button-size) + var(--player-button-margin));
+  list-style: none;
+}
+
+.player__controls,
+.player__participants {
   display: flex;
   align-items: center;
   padding: var(--space-m) var(--space-l);
 }
 
 .player__button {
-  width: 70px;
-  height: 70px;
-  margin-right: var(--space-l);
+  width: var(--player-button-size);
+  height: var(--player-button-size);
+  margin-right: var(--player-button-margin);
   cursor: pointer;
 }
 

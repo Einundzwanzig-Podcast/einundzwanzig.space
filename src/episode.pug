@@ -36,7 +36,7 @@ block main
                 if member
                   a(href=memberUrl(member))
                     img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
-                    = member.name
+                    span= member.name
                 else
                   img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
-                  = participant
+                  span= participant

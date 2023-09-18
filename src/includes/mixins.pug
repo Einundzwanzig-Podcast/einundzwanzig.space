@@ -153,6 +153,17 @@ mixin episodePlayer(e)
             .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 
+      if e.participants.length
+        ul.player__participants
+          for participant in e.participants
+            - const member = team[participant.toLowerCase()]
+            li
+              if member
+                a(href=memberUrl(member))
+                  img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+              else
+                img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
+
       .player__links
         a.player__download(href=e.enclosure.url)
           +sprite("download")
