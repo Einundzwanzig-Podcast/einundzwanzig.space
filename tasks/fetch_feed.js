@@ -34,6 +34,11 @@ const json2xmlOpts = {
   indentBy: '  '
 }
 
+Object.values(team).forEach(member => {
+  const alias = member.name.toLowerCase()
+  if (!team[alias]) team[alias] = member
+})
+
 const parser = new XMLParser(xml2jsonOpts, true)
 const builder = new XMLBuilder(json2xmlOpts)
 
