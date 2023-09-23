@@ -1,4 +1,5 @@
 const { decode, encode } = require('html-entities')
+const meta = require('./content/meta.json')
 
 // configure markdown-it
 const transformer = require('jstransformer')
@@ -16,7 +17,7 @@ mdTransformer.render = str => renderMd(str, config)
 
 // replacements
 const replacements = str => {
-  return str && str.replace(/<\/?u>/g, '')
+  return str && str.replace(/<\/?u>/g, '').replace(meta.tallycoinUrl, meta.shoutoutUrl)
 }
 
 const stripHTML = str => {
