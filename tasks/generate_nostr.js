@@ -2,12 +2,14 @@ const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
 const { NDKUser } = require('@nostr-dev-kit/ndk')
 const team = require('../content/team.json')
-const { nostr: einundzwanzigNpub } = require('../content/meta.json')
+const { nostr: einundzwanzigNpub, nostrTalk: nostrTalkNpub } = require('../content/meta.json')
 
 const einundzwanzigHex = new NDKUser({ npub: einundzwanzigNpub }).hexpubkey
+const nostrTalkHex = new NDKUser({ npub: nostrTalkNpub }).hexpubkey
 const names = {
   "_": einundzwanzigHex,
-  "einundzwanzig": einundzwanzigHex
+  "einundzwanzig": einundzwanzigHex,
+  "nostrtalk": nostrTalkHex
 }
 const relays = {
   [einundzwanzigHex]: [
