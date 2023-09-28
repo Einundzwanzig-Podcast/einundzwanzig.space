@@ -67,7 +67,7 @@ const parseEpisode = e => {
   const duration = e['itunes:duration']
   const enclosure = e.enclosure.__attr
   const [, participantsString] =
-    firstLine.match(/\s-\s(?:(?:von\sund\s)?mit\s)([^.]*)/i) || []
+    firstLine.match(/(?:(?:von\sund\s)?mit\s)([^.]*)$/i) || []
   const participants = participantsString
     ? participantsString
         .replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/gi, '%')
