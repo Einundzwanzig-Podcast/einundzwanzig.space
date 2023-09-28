@@ -88,8 +88,20 @@
       font-size: .65rem;
       padding: var(--space-xs) var(--space-m);
       background: var(--color-overlay-bg);
-      border-radius: var(--space-m);
+      border-radius: var(--border-radius);
     }
+  }
+}
+
+#modal-meetupMap {
+  & #meeptupDetails :last-child {
+    margin-bottom: 0;
+  }
+
+  & .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xl);
   }
 }
 

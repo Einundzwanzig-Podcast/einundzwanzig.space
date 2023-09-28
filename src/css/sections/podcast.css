@@ -165,7 +165,7 @@
   --player-button-margin: var(--space-l);
 
   display: flex;
-  border-radius: var(--space-m);
+  border-radius: var(--border-radius);
   overflow: hidden;
 
   @media (--up_to_M) {

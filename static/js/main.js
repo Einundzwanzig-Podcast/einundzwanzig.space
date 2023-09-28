@@ -1,4 +1,8 @@
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
+const formatDate = date => {
+  const [day, time] = date.toISOString().split('T')
+  return day.split('-').reverse().join('.') + (time ? ` um ${time.replace(':00.000Z', ' Uhr')}` : '')
+}
 
 // Theme Switch
 const COLOR_MODES = ["light", "dark"]
@@ -35,6 +39,19 @@ const copyToClipboard = (e, text) => {
       setTimeout(() => { confirm.innerText = confirm.dataset.clipboardInitialText; }, 2500)
     })
     item.blur()
+  }
+}
+
+const toggleModal = modalId => {
+  const $modal = document.getElementById(modalId)
+  console.log($modal, modalId)
+  const isVisible = $modal.classList.contains('modal--visible')
+  if (isVisible) {
+    $modal.addEventListener('transitionend', () => { $modal.classList.toggle('modal--visible') }, { once: true })
+    $modal.classList.toggle('modal--appear')
+  } else {
+    $modal.classList.toggle('modal--visible')
+    window.setTimeout(() => { $modal.classList.toggle('modal--appear') }, 25)
   }
 }
 
@@ -108,6 +125,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const src = iframe.setAttribute('src', iframe.getAttribute(lazyAttr))
       }
     })
+  })
+
+  // Modal
+  document.querySelectorAll('[data-modal]').forEach(modalLink => {
+    modalLink.addEventListener('click', e => toggleModal(modalLink.dataset.modal))
   })
 
   // Map

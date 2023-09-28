@@ -201,7 +201,7 @@ img:-moz-loading {
   background-color: var(--color-accent);
   text-decoration: none;
   text-transform: uppercase;
-  border-radius: var(--space-m);
+  border-radius: var(--border-radius);
   transition-property: color, background;
   transition-duration: var(--transition-duration-fast);
 
@@ -216,7 +216,7 @@ img:-moz-loading {
 
 .podlove-subscribe-button-iframe {
   margin-top: var(--space-m);
-  border-radius: var(--space-m);
+  border-radius: var(--border-radius);
 }
 
 #podlove-subscribe-popup {

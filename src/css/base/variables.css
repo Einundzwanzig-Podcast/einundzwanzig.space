@@ -74,6 +74,7 @@
   }
 
   --logo-height: calc((100vw - var(--wrap-padding-horizontal) * 2) / 134 * 12);
+  --border-radius: var(--space-m);
 }
 
 @define-mixin dark-theme {

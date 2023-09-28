@@ -54,7 +54,7 @@
   & img {
     display: block;
     width: 100%;
-    border-radius: var(--space-m);
+    border-radius: var(--border-radius);
   }
 }
 
@@ -80,7 +80,7 @@
     display: block;
     width: 240px;
     height: 240px;
-    border-radius: var(--space-m);
+    border-radius: var(--border-radius);
     margin: var(--space-l) 0;
   }
 

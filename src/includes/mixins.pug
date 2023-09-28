@@ -2,6 +2,12 @@ mixin sprite(id)
   svg(role="img" title=id)&attributes(attributes)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
+mixin modal(id)
+  div(id=id).modal&attributes(attributes)
+    .inner
+      button.modal-close(type="button" data-modal=id): +sprite("close")
+      block
+
 mixin categories(current)
   ul.categories
     li: a(href="/podcast/" class=(!current && 'current')).alles Alles
@@ -35,8 +41,11 @@ mixin member(m)
 
 mixin map(id, markers)
   .vectorMap(id=id)
+  +modal(`modal-${id}`): #meeptupDetails
   script.
     const markers = [!{markers}];
+    const modalId = 'modal-meetupMap';
+    const $modal = document.getElementById(modalId);
     // https://jvectormap.com/documentation/javascript-api/jvm-map/
     new jvm.MultiMap({
       container: $(`#!{id}`),
@@ -58,8 +67,34 @@ mixin map(id, markers)
           }
         },
         onMarkerClick(event, index) {
-          const marker = markers[index]
-          if (marker.url) window.open(marker.url, '_blank');
+          const m = markers[index]
+          const city = m.city ? m.city.trim() : ''
+          const date = m.event ? new Date(`${m.event.start}Z`) : null
+          const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
+          const twitterUrl = m.twitter ? `https://twitter.com/${m.twitter}` : null
+          const title = m.name + (city && !m.name.includes(city) ? ` (${city})` : '')
+          const urlTitle = m.url.includes('t.me/')
+            ? 'Telegram'
+            : m.url.includes('meetup.com/') ? 'Meetup.com' : 'Website'
+          const link = (url, title) => url ? `<a href="${url}" target="_blank" rel="nofollow noopener">${title}</a>` : ''
+          document.getElementById('meeptupDetails').innerHTML = `
+            <h2>${title}</h2>
+            <p class="links">
+              ${link(m.portalUrl, 'Portal')}
+              ${link(m.url, urlTitle)}
+              ${link(webUrl, 'Website')}
+              ${link(twitterUrl, 'Twitter')}
+            </p>` + (m.event ? `
+            <h3>Nächstes Treffen</h3>
+            <p class="date">${formatDate(date)}${m.event.location ? ` @ ${m.event.location}` : ''}</p>
+            ${m.event.description ? `<p>${m.event.description.replace('\n', '<br />')}</p>` : ''}
+            <p class="links">
+              ${link(m.event.portalLink, 'Portal')}
+              ${link(m.event.link, 'Website')}
+              ${link(m.event.nostr_note ? `https://snort.social/e/${m.event.nostr_note}` : null, 'Nostr')}
+            </p>` : '')
+
+          toggleModal(modalId)
         }
       },
       mapUrlByCode(code, multiMap) {
@@ -75,6 +110,11 @@ mixin meetupMap()
         name: m.name,
         latLng: [m.latitude, m.longitude],
         url: m.url,
+        city: m.city,
+        portalUrl: m.portalLink,
+        websiteUrl: m.websiteUrl,
+        twitter: m.twitter_username,
+        event: m.next_event,
         style: {
           fill: m.name.startsWith('Einundzwanzig') || m.name.includes('Einezwänzg') || m.name.includes('Eenanzwanzeg') || m.name.includes('Yirmibir') ? 'var(--color-accent)' : 'var(--color-neutral-50)'
         }
