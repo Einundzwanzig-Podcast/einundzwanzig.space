@@ -40,12 +40,12 @@ mixin member(m)
       !=markdown(m.text)
 
 mixin map(id, markers)
+  - const modalId = `modal-${id}`
   .vectorMap(id=id)
-  +modal(`modal-${id}`): #meeptupDetails
+  +modal(modalId): #meeptupDetails
   script.
     const markers = [!{markers}];
-    const modalId = 'modal-meetupMap';
-    const $modal = document.getElementById(modalId);
+    const modalId = "!{modalId}";
     // https://jvectormap.com/documentation/javascript-api/jvm-map/
     new jvm.MultiMap({
       container: $(`#!{id}`),
@@ -67,34 +67,7 @@ mixin map(id, markers)
           }
         },
         onMarkerClick(event, index) {
-          const m = markers[index]
-          const city = m.city ? m.city.trim() : ''
-          const date = m.event ? new Date(`${m.event.start}Z`) : null
-          const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
-          const twitterUrl = m.twitter ? `https://twitter.com/${m.twitter}` : null
-          const title = m.name + (city && !m.name.includes(city) ? ` (${city})` : '')
-          const urlTitle = m.url.includes('t.me/')
-            ? 'Telegram'
-            : m.url.includes('meetup.com/') ? 'Meetup.com' : 'Website'
-          const link = (url, title) => url ? `<a href="${url}" target="_blank" rel="nofollow noopener">${title}</a>` : ''
-          document.getElementById('meeptupDetails').innerHTML = `
-            <h2>${title}</h2>
-            <p class="links">
-              ${link(m.portalUrl, 'Portal')}
-              ${link(m.url, urlTitle)}
-              ${link(webUrl, 'Website')}
-              ${link(twitterUrl, 'Twitter')}
-            </p>` + (m.event ? `
-            <h3>Nächstes Treffen</h3>
-            <p class="date">${formatDate(date)}${m.event.location ? ` @ ${m.event.location}` : ''}</p>
-            ${m.event.description ? `<p>${m.event.description.replace('\n', '<br />')}</p>` : ''}
-            <p class="links">
-              ${link(m.event.portalLink, 'Portal')}
-              ${link(m.event.link, 'Website')}
-              ${link(m.event.nostr_note ? `https://snort.social/e/${m.event.nostr_note}` : null, 'Nostr')}
-            </p>` : '')
-
-          toggleModal(modalId)
+          onMeetupMapMarkerClick(markers[index], modalId)
         }
       },
       mapUrlByCode(code, multiMap) {

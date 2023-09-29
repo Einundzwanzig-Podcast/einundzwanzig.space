@@ -101,7 +101,7 @@
   & .links {
     display: flex;
     flex-wrap: wrap;
-    gap: var(--space-xl);
+    gap: var(--space-l);
   }
 }
 
