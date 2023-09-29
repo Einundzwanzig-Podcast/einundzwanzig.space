@@ -441,13 +441,13 @@
     "twitter_username": "21_nordbgld",
     "website": null,
     "next_event": {
-      "start": "2023-09-29 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/56",
-      "location": "La Takeria, Neusiedl am See, Am Hafen 1/2",
-      "description": "Gesundes Geld - Gesunde Welt",
+      "start": "2023-12-01 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/57",
+      "location": "Joe´s Pub, Neusiedl am See, Untere Hauptstraße 15",
+      "description": "spread the word - fix the money, fix the world",
       "link": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
-      "attendees": 1,
-      "nostr_note": "6b9e723b92acbbcd03fcad41b0744b3b8f0e92e1d154fbb358645562d7c5b46c"
+      "attendees": 0,
+      "nostr_note": "cb4197f775fac8524b06fb1de8fa868daed8fd952e9c3a16c32a3f11d4c5a94f"
     }
   },
   {
@@ -836,9 +836,9 @@
     "next_event": {
       "start": "2023-10-25 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/626",
-      "location": "Bremen",
-      "description": null,
-      "link": null,
+      "location": "Lagerhaus, Bremen",
+      "description": "",
+      "link": "https://kulturzentrum-lagerhaus.de/",
       "attendees": 1,
       "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
     }
@@ -2683,15 +2683,7 @@
     "latitude": 48.570985,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-09-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/811",
-      "location": "Stiftskell Schlägl",
-      "description": "Erstes Meetup",
-      "link": "https://www.stift-schlaegl.at/essen-trinken/stiftskeller/",
-      "attendees": 1,
-      "nostr_note": "f1b3cf9c747e04331008d7654415b5da8753da940c6a9da549c3030555dcabd2"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Ortenaukreis",
