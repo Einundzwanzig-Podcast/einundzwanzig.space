@@ -1,8 +1,6 @@
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
 const dateFormat = new Intl.DateTimeFormat('de-DE', { dateStyle: 'full', timeStyle: 'short', timeZone: 'Europe/Berlin' })
-const formatDate = date => {
-  return dateFormat.format(date) + ' Uhr'
-}
+const formatDate = date => dateFormat.format(date) + ' Uhr'
 
 // Theme Switch
 const COLOR_MODES = ["light", "dark"]
@@ -68,6 +66,7 @@ const onMeetupMapMarkerClick = (m, modalId) => {
   document.getElementById('meeptupDetails').innerHTML = `
     <h2>${title}</h2>
     <p class="links">
+      Meetup-Links:
       ${link(m.portalUrl, 'Portal')}
       ${link(m.url, urlTitle)}
       ${link(webUrl, 'Website')}
@@ -77,6 +76,7 @@ const onMeetupMapMarkerClick = (m, modalId) => {
     <p class="date">${formatDate(date)}${m.event.location ? ` @ ${m.event.location}` : ''}</p>
     ${m.event.description ? `<p>${m.event.description.replace('\n', '<br />')}</p>` : ''}
     <p class="links">
+      Links zum Treffen:
       ${link(m.event.portalLink, 'Portal')}
       ${link(m.event.link, 'Website')}
       ${link(m.event.nostr_note ? `https://snort.social/e/${m.event.nostr_note}` : null, 'Nostr')}
