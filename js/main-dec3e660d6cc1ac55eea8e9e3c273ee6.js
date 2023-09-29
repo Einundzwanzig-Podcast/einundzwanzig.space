@@ -1,7 +1,7 @@
 const shuffle = arr => { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * i); const temp = arr[i]; arr[i] = arr[j]; arr[j] = temp; }; return arr }
+const dateFormat = new Intl.DateTimeFormat('de-DE', { dateStyle: 'full', timeStyle: 'short', timeZone: 'Europe/Berlin' })
 const formatDate = date => {
-  const [day, time] = date.toISOString().split('T')
-  return day.split('-').reverse().join('.') + (time ? ` um ${time.replace(':00.000Z', ' Uhr')}` : '')
+  return dateFormat.format(date) + ' Uhr'
 }
 
 // Theme Switch
@@ -44,7 +44,6 @@ const copyToClipboard = (e, text) => {
 
 const toggleModal = modalId => {
   const $modal = document.getElementById(modalId)
-  console.log($modal, modalId)
   const isVisible = $modal.classList.contains('modal--visible')
   if (isVisible) {
     $modal.addEventListener('transitionend', () => { $modal.classList.toggle('modal--visible') }, { once: true })
@@ -53,6 +52,37 @@ const toggleModal = modalId => {
     $modal.classList.toggle('modal--visible')
     window.setTimeout(() => { $modal.classList.toggle('modal--appear') }, 25)
   }
+}
+
+const onMeetupMapMarkerClick = (m, modalId) => {
+  console.log(modalId, m)
+  const city = m.city ? m.city.trim() : ''
+  const date = m.event ? new Date(`${m.event.start}Z`) : null
+  const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
+  const twitterUrl = m.twitter ? `https://twitter.com/${m.twitter}` : null
+  const title = m.name + (city && !m.name.includes(city) ? ` (${city})` : '')
+  const urlTitle = m.url.includes('t.me/')
+    ? 'Telegram'
+    : m.url.includes('meetup.com/') ? 'Meetup.com' : 'Website'
+  const link = (url, title) => url ? `<a href="${url}" target="_blank" rel="nofollow noopener">${title}</a>` : ''
+  document.getElementById('meeptupDetails').innerHTML = `
+    <h2>${title}</h2>
+    <p class="links">
+      ${link(m.portalUrl, 'Portal')}
+      ${link(m.url, urlTitle)}
+      ${link(webUrl, 'Website')}
+      ${link(twitterUrl, 'Twitter')}
+    </p>` + (m.event ? `
+    <h3>Nächstes Treffen</h3>
+    <p class="date">${formatDate(date)}${m.event.location ? ` @ ${m.event.location}` : ''}</p>
+    ${m.event.description ? `<p>${m.event.description.replace('\n', '<br />')}</p>` : ''}
+    <p class="links">
+      ${link(m.event.portalLink, 'Portal')}
+      ${link(m.event.link, 'Website')}
+      ${link(m.event.nostr_note ? `https://snort.social/e/${m.event.nostr_note}` : null, 'Nostr')}
+    </p>` : '')
+
+  toggleModal(modalId)
 }
 
 document.addEventListener("DOMContentLoaded", () => {
