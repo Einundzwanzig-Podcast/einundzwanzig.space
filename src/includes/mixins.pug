@@ -125,6 +125,19 @@ mixin spende(d, trunc = false)
         else if d.info
           p.info= d.info
 
+mixin participants(ps, link)
+  .participants
+    for participant in ps
+      - const member = team[participant.toLowerCase()]
+      if member
+        if link
+          a(href=memberUrl(member))
+            img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+        else
+          img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+      else
+        img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
+
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
     a.plain(href=`/podcast/${e.slug}/`)
@@ -135,6 +148,8 @@ mixin episodeItem(e)
           span= e.categoryName + (e.number ? ` #${e.number}` : '')
           time(datetime=e.date)= e.block || formatDate(e.date)
         .title=e.titlePlain
+        if e.participants.length
+          +participants(e.participants, false)
 
 mixin episodePlayer(e)
   .player.player--single&attributes(attributes)
@@ -167,15 +182,7 @@ mixin episodePlayer(e)
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
 
       if e.participants.length
-        ul.player__participants
-          for participant in e.participants
-            - const member = team[participant.toLowerCase()]
-            li
-              if member
-                a(href=memberUrl(member))
-                  img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
-              else
-                img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
+        +participants(e.participants, true)
 
       .player__links
         a.player__download(href=e.enclosure.url)

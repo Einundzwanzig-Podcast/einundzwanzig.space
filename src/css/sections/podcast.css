@@ -82,8 +82,8 @@
 
 .avatar {
   display: block;
-  height: 2rem;
-  width: 2rem;
+  height: var(--avatar-size, 2rem);
+  width: var(--avatar-size, 2rem);
   border-radius: 50%;
 }
 
@@ -101,13 +101,14 @@
 }
 
 .episodeItem {
+  --avatar-size: 1rem;
   margin: 0;
   border-radius: var(--space-l);
   background-color: var(--color-card-bg);
   transition-property: background-color;
   transition-duration: var(--transition-duration-fast);
 
-  & a {
+  & a.plain {
     display: flex;
 
     &:hover .meta {
@@ -146,18 +147,25 @@
 
   & .content {
     flex: 1;
-
-    @media (--up_to_M) {
-      padding: var(--space-m) var(--space-l);
-    }
-    @media (--M_and_up) {
-      padding: var(--space-l);
-    }
+    padding: var(--space-m) var(--space-l);
 
     & > *:last-child {
       margin-bottom: 0;
     }
   }
+
+  & .participants {
+    margin-top: var(--space-m);
+  }
+}
+
+.player .participants,
+.episodeItem .participants {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-m);
+  list-style: none;
 }
 
 .player {
@@ -166,12 +174,17 @@
 
   display: flex;
   border-radius: var(--border-radius);
+  background-color: var(--color-card-bg);
   overflow: hidden;
 
   @media (--up_to_M) {
     flex-direction: column;
     min-width: 300px;
     max-width: 400px;
+  }
+
+  & .participants {
+    margin: var(--space-m) var(--space-l) var(--space-m) calc(var(--player-button-size) + var(--player-button-margin) + var(--space-l));
   }
 }
 
@@ -194,7 +207,6 @@
   flex-direction: column;
   flex: 1;
   color: var(--color-body-text);
-  background-color: var(--color-card-bg);
   transition-property: color, background-color;
   transition-duration: var(--transition-duration-fast);
 }
@@ -231,15 +243,7 @@
   content: '2.0x';
 }
 
-.player__participants {
-  flex-wrap: wrap;
-  gap: var(--space-m);
-  margin: 0 0 0 calc(var(--player-button-size) + var(--player-button-margin));
-  list-style: none;
-}
-
-.player__controls,
-.player__participants {
+.player__controls {
   display: flex;
   align-items: center;
   padding: var(--space-m) var(--space-l);
