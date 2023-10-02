@@ -1147,7 +1147,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Memminger Straße 68 87439 Kempten",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "4cf4f922a6da90f4bf061da2c3db8ca2515f4849e5e2a1be9da575e3ca527672"
     }
   },
@@ -2259,7 +2259,15 @@
     "latitude": 51.6143815,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/831",
+      "location": "The Italian Recklinghausen",
+      "description": "Tisch ist auf \"Bitcoin Stammtisch\" reserviert",
+      "link": "https://maps.app.goo.gl/1BkwjNgtaENDH9vd7",
+      "attendees": 0,
+      "nostr_note": "cbb3e17d432920d968093911465f740a59e3b936298c57b7efccac990eee31f3"
+    }
   },
   {
     "name": "Bitcoiners Bulgaria",
@@ -2929,7 +2937,7 @@
       "location": "Bamberg, Café Esspress",
       "description": "Location:\nCafé Esspress\nAu Straße 33\n96047 Bamberg",
       "link": "https://goo.gl/maps/uVGTaivtQ3t1znU97",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "7004474c67419619a88a61c334f437d40b3100f8a9441b76934c5aba4d73392f"
     }
   },
@@ -3327,7 +3335,15 @@
     "latitude": 50.1106444,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/818",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
+    }
   },
   {
     "name": "Einundzwanzig Odenwald",
