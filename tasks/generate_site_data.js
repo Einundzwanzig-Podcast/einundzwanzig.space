@@ -62,6 +62,9 @@ try {
   meetups = require('../content/meetups-do-not-edit.json')
 }
 
+const sortId = m => `${m.country === 'DE' ? '0' : m.country}-${m.name}`
+meetups = meetups.sort((a, b) => sortId(a) > sortId(b) ? 1 : -1)
+
 writeJSON(dir('dist', 'meetups.json'), meetups)
 
 writeJSON(dir('generated', 'site-data.json'), {
