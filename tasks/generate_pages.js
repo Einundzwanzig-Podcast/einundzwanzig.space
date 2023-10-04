@@ -13,10 +13,23 @@ const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
 const adventskalender = require('../content/adventskalender-2022.json')
 
+const categories = {
+  'news': 'News',
+  'interview': 'Interviews',
+  'lesestunde': 'Lesestunde',
+  'der-weg': 'Der Weg',
+  'on-tour': 'On Tour',
+  'verschiedenes': 'Verschiedenes'
+}
+
 const changedFile = process.argv.length > 2 && process.argv[2]
 
 const renderPage = (template, out, data = {}) => {
-  const file = resolve(__dirname, '..', `src/${template}.pug`)
+  const templateFile = `src/${template}.pug`
+  const needsRender = !changedFile || changedFile === templateFile || changedFile.startsWith('src/includes') || changedFile.endsWith('.js') || changedFile.endsWith('.json')
+  if (!needsRender) return
+
+  const file = resolve(__dirname, '..', templateFile)
   const options = Object.assign({}, config, { site }, data)
   const rendered = pug.renderFile(file, options)
   const dest = out === 'index' ? 'index.html' : `${out}/index.html`
@@ -29,6 +42,7 @@ const renderPage = (template, out, data = {}) => {
 
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0], team })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes], team })
+renderPage('adventskalender', 'adventskalender', { adventskalender })
 renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: site.meetups })
 renderPage('kurse', 'kurse', { navCurrent: 'kurse', kurse })
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
@@ -40,11 +54,6 @@ renderPage('verein', 'verein', { navCurrent: 'verein' })
 renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
 renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
 renderPage('adventskalender', 'adventskalender', { adventskalender })
-renderPage('gesundes-geld', 'gesundes-geld', { meetups: site.meetups })
-renderPage('category', 'podcast/news', { navCurrent: 'podcast', category: 'news', categoryName: 'News', episodes: episodes.filter(e => e.category === 'news'), team })
-renderPage('category', 'podcast/interviews', { navCurrent: 'podcast', category: 'interview', categoryName: 'Interviews', episodes: episodes.filter(e => e.category === 'interview'), team })
-renderPage('category', 'podcast/lesestunde', { navCurrent: 'podcast', category: 'lesestunde', categoryName: 'Lesestunde', episodes: episodes.filter(e => e.category === 'lesestunde'), team })
-renderPage('category', 'podcast/der-weg', { navCurrent: 'podcast', category: 'der-weg', categoryName: 'Der Weg', episodes: episodes.filter(e => e.category === 'der-weg'), team })
-renderPage('category', 'podcast/on-tour', { navCurrent: 'podcast', category: 'on-tour', categoryName: 'On Tour', episodes: episodes.filter(e => e.category === 'on-tour'), team })
-renderPage('category', 'podcast/verschiedenes', { navCurrent: 'podcast', category: 'verschiedenes', categoryName: 'Verschiedenes', episodes: episodes.filter(e => e.category === 'verschiedenes'), team })
+
 episodes.forEach(episode => renderPage('episode', `podcast/${episode.slug}`, { navCurrent: 'podcast', episode, team }))
+Object.keys(categories).forEach(category => renderPage('category', `podcast/${category}`, { navCurrent: 'podcast', category, categoryName: categories[category], episodes: episodes.filter(e => e.category === category), team }))
