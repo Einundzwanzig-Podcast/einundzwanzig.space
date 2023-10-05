@@ -1,6 +1,6 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML, memberUrl } = require('../helpers')
+const { replacements, slugify, stripHTML } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const team = require('../content/team.json')
 const request = require('sync-request')
@@ -67,7 +67,7 @@ const parseEpisode = e => {
   const duration = e['itunes:duration']
   const enclosure = e.enclosure.__attr
   const [, participantsString] =
-    firstLine.match(/(?:(?:von\sund\s)?mit\s)([^.]*)/i) || []
+    firstLine.match(/[-–—]\s?(?:(?:von\sund\s)?mit\s)([^.]*)/i) || []
   const participants = participantsString
     ? participantsString
         .replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/gi, '%')
@@ -107,15 +107,8 @@ const parseEpisode = e => {
 
   const feed = parser.parse(xml)
   const episodes = []
-  const _noParticipants = [],
-    _noNode = []
-  const members = [
-    { name: 'Dennis', ...team.dennis.v4v },
-    { name: 'Fab', ...team.fab.v4v },
-    { name: 'Gigi', ...team.gigi.v4v },
-    { name: 'Markus', ...team.markus.v4v },
-    { name: 'Daniel', ...team.daniel.v4v }
-  ]
+  const _noParticipants = [], _noNode = []
+  const members = [team.dennis, team.fab, team.gigi, team.markus, team.daniel]
 
   // remove invalid tag
   delete feed.rss.channel.author
@@ -128,9 +121,10 @@ const parseEpisode = e => {
     },
     'podcast:valueRecipient': members.map(p => ({
       __attr: {
-        ...p,
+        name: p.name,
         type: 'node',
-        split: Math.round(100 / members.length)
+        split: Math.round(100 / members.length),
+        ...p.v4v
       }
     }))
   }

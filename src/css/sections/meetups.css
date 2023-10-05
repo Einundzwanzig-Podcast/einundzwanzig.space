@@ -15,8 +15,7 @@
     margin-top: var(--space-xl);
 
     & img,
-    & .dot,
-    & .tooltip {
+    & .dot {
       display: none;
     }
   }
@@ -79,16 +78,6 @@
         transform: scale(.75);
         animation-name: pulse;
       }
-    }
-
-    & .tooltip {
-      position: absolute;
-      z-index: 2;
-      min-width: 7rem;
-      font-size: .65rem;
-      padding: var(--space-xs) var(--space-m);
-      background: var(--color-overlay-bg);
-      border-radius: var(--border-radius);
     }
   }
 }

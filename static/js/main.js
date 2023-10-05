@@ -161,20 +161,4 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll('[data-modal]').forEach(modalLink => {
     modalLink.addEventListener('click', e => toggleModal(modalLink.dataset.modal))
   })
-
-  // Map
-  const map = document.getElementById('map')
-  const mapImg = document.getElementById('dach')
-  const tooltip = document.getElementById('tooltip')
-  if (map && mapImg && tooltip) {
-    mapImg.onclick = e => {
-      const top = Math.round((e.offsetY / e.target.height) * 100) - 2
-      const left = Math.round((e.offsetX / e.target.width) * 100) + 1
-      console.log({ top, left }, map)
-      tooltip.innerText = `Top: ${top} / Left: ${left}`
-      tooltip.removeAttribute('hidden')
-      tooltip.style.top = `${top + 1}%`
-      tooltip.style.left = `${left}%`
-    }
-  }
 })

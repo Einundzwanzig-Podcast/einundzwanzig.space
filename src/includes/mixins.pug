@@ -18,27 +18,6 @@ mixin categories(current)
     li: a(href="/podcast/on-tour/" class=(current === 'On Tour' && 'current')).on-tour On Tour
     li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')).verschiedenes Verschiedenes
 
-mixin member(m)
-  li.member(id=m.name)
-    img(src=assetPath(m.image || "/img/avatar.svg") alt=m.name loading="lazy")
-    header
-      h2=m.name
-      .links
-        if m.nostr
-          a(href=`https://snort.social/p/${m.nostr}` target="_blank" rel="nofollow noopener" title=`${m.name} on Nostr`)
-            +sprite("nostr")
-        if m.twitter
-          a(href=`https://twitter.com/${m.twitter}` target="_blank" rel="nofollow noopener" title=`${m.name} on Twitter`)
-            +sprite("twitter")
-        if m.github
-          a(href=`https://github.com/${m.github}` target="_blank" rel="nofollow noopener" title=`${m.name} on GitHub`)
-            +sprite("github")
-        if m.url
-          a(href=m.url target="_blank" rel="nofollow noopener")
-            +sprite("url")
-    if m.text
-      !=markdown(m.text)
-
 mixin map(id, markers)
   - const modalId = `modal-${id}`
   .vectorMap(id=id)
@@ -127,16 +106,17 @@ mixin spende(d, trunc = false)
 
 mixin participants(ps, link)
   .participants
-    for participant in ps
-      - const member = team[participant.toLowerCase()]
+    for name in ps
+      - const id = name.toLowerCase()
+      - const member = team[id]
       if member
         if link
-          a(href=memberUrl(member))
+          a(href=`/team/${slugify(id)}` title=member.name)
             img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
         else
           img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
       else
-        img.avatar(src=assetPath("/img/avatar.svg") alt=participant)
+        img.avatar(src=assetPath("/img/avatar.svg") alt=name)
 
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)

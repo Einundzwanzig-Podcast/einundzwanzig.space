@@ -37,17 +37,10 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
-const memberUrl = member => {
-  if (member.url) return member.url
-  else if (member.nostr) return `https://snort.social/p/${member.nostr}`
-  else if (member.twitter) return `https://twitter.com/${member.twitter}`
-}
-
 module.exports = {
   markdown: mdTransformer.render,
   replacements,
   slugify,
   stripHTML,
-  truncate,
-  memberUrl
+  truncate
 }
