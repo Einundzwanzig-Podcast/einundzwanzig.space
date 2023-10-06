@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 05 Oct 2023 20:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 07:05:05 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -134,7 +134,7 @@ Lass uns einen Shoutout da: https://shoutout.einundzwanzig.space/</itunes:summar
     </item>
     <item>
       <title><![CDATA[#202 - Wer das liest, ist doof!]]></title>
-      <description>Episode 202 - Blockzeit 809612 – von und mit Markus, PaddePadde, Ben, Chris und Sirius
+      <description>Episode 202 - Blockzeit 809612 – von und mit Markus, PaddePadde, HolgerHatGarKeineNode, Chris und Sirius
 Lightning Network+ Liquidity Pool: https://lightningnetwork.plus/posts/433
 EXIT: https://exit.pub
 Gigasats: https://gigsats.com
@@ -154,7 +154,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 27 Sep 2023 18:00:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/76471320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-27%2Ffd189021-c66e-e2d3-0664-85eb7c1c1f14.mp3" length="60933480" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 202 - Blockzeit 809612 – von und mit Markus, PaddePadde, Ben, Chris und Sirius
+      <itunes:summary>Episode 202 - Blockzeit 809612 – von und mit Markus, PaddePadde, HolgerHatGarKeineNode, Chris und Sirius
 Lightning Network+ Liquidity Pool: https://lightningnetwork.plus/posts/433
 EXIT: https://exit.pub
 Gigasats: https://gigsats.com
@@ -175,15 +175,14 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #202">202</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://snort.social/p/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
-      <podcast:person href="https://snort.social/p/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1pt0kw36ue3w2g4haxq3wgm6a2fhtptmzsjlc2j2vphtcgle72qesgpjyc6">HolgerHatGarKeineNode</podcast:person>
       <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
     </item>
@@ -238,6 +237,7 @@ Lass uns einen Shoutout da.</itunes:summary>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
     </item>
     <item>
@@ -832,7 +832,7 @@ Lass uns einen Shoutout da.</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#196 - Pool Abführmittel]]></title>
-      <description>Episode 196 - Blockzeit 803490 - von und mit Lassmiranda, Markus, Ben, NetDiver, Loddi
+      <description>Episode 196 - Blockzeit 803490 - von und mit Lassmiranda, Markus, HolgerHatGarKeineNode, NetDiver, Loddi
 Intro
 Gewinnspiel
 Mining Chips aus Taiwan
@@ -859,7 +859,7 @@ Lass uns einen Shoutout da.</description>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Wed, 16 Aug 2023 22:13:42 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74714935/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-16%2F2fcabe25-9a90-ff92-4209-e39eef838fe6.mp3" length="56667405" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 196 - Blockzeit 803490 - von und mit Lassmiranda, Markus, Ben, NetDiver, Loddi
+      <itunes:summary>Episode 196 - Blockzeit 803490 - von und mit Lassmiranda, Markus, HolgerHatGarKeineNode, NetDiver, Loddi
 Intro
 Gewinnspiel
 Mining Chips aus Taiwan
@@ -887,13 +887,13 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #196">196</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person href="https://snort.social/p/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1pt0kw36ue3w2g4haxq3wgm6a2fhtptmzsjlc2j2vphtcgle72qesgpjyc6">HolgerHatGarKeineNode</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[GrapheneOS Special]]></title>
@@ -1277,6 +1277,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[#191 - Miteinander Bullish Samma!]]></title>
@@ -1467,6 +1468,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #185">185</podcast:episode>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #79 - Bitcoin ist absolute Entschleunigung]]></title>
@@ -1636,6 +1638,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
       <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
     </item>
     <item>
@@ -1861,6 +1864,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
         <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
       <podcast:person href="https://snort.social/p/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -2146,11 +2150,10 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #168">168</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
-      <podcast:person href="https://snort.social/p/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1pt0kw36ue3w2g4haxq3wgm6a2fhtptmzsjlc2j2vphtcgle72qesgpjyc6">HolgerHatGarKeineNode</podcast:person>
       <podcast:person href="https://snort.social/p/npub17xc6v7ynma3cw0gq372q6y78zmekyvpkwqpuzuqm8zpydg5m4pkq8v2sts">Ole</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
     </item>
@@ -2607,6 +2610,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
       <podcast:person href="https://snort.social/p/npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf">Dennis</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://snort.social/p/npub1mc6arvz2ll8m26f75wj4d2w89ygq229t8h7m6cpfu0lqqa4l5hasp49pnw">zerofeerouting</podcast:person>
     </item>
@@ -5076,6 +5080,7 @@ Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person href="https://snort.social/p/undefined">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #31 - Bitcoin ist ein Easter Egg]]></title>
