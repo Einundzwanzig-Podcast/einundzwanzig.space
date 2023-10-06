@@ -1018,7 +1018,15 @@
     "latitude": 53.24554,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-21 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/834",
+      "location": "Lüneburger Heide",
+      "description": "",
+      "link": "https://der-schafstall.de/",
+      "attendees": 0,
+      "nostr_note": "4c41224284c5a9e0824e8f4ae241ac9557aa8e4465f5d8fc3d20534e628ddf2b"
+    }
   },
   {
     "name": "Einundzwanzig Heidelberg",
