@@ -12,15 +12,7 @@
     "latitude": 50.587222,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/812",
-      "location": "Gießen Jhring's Wirtshaus",
-      "description": "Sechster Termin: 06.10 19 Uhr\nLocation: \nJhring's Wirtshaus\nhttps://goo.gl/maps/Q8rwUNW8WjLwUtSt6",
-      "link": "https://goo.gl/maps/Q8rwUNW8WjLwUtSt6",
-      "attendees": 0,
-      "nostr_note": "d5a90608eea4f571c89c3612ebcadac3d9631574c7dba602f86911ecc682846b"
-    }
+    "next_event": null
   },
   {
     "name": "21 Zitadelle Uckermark",
@@ -245,6 +237,21 @@
     }
   },
   {
+    "name": "Bitcoin Meetup Waldenrath ",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
+    "url": "https://t.me/waldenrath",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Waldenrath",
+    "longitude": 6.06991,
+    "latitude": 51.014389,
+    "twitter_username": null,
+    "website": null,
+    "next_event": null
+  },
+  {
     "name": "Bitcoin München",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
@@ -359,7 +366,15 @@
     "latitude": 48.1371079,
     "twitter_username": "EinundzwanzigM",
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-21 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/837",
+      "location": "Wirtshaus Maximilian",
+      "description": "Das erst einundzwanzig München meetup überhaupt. Wir werden es einfach halten und uns erst mal gemütlich zu Speis und Trank über Bitcoin reden und Idee austauschen.",
+      "link": "https://maps.app.goo.gl/bUPyznPegD72eHX78",
+      "attendees": 0,
+      "nostr_note": "776871b0f908cc6a8350281c25e2c95b00a40b238275e5387f9a3a4943aa1112"
+    }
   },
   {
     "name": "Einundzwanzig 3 Länder Eck",
@@ -776,7 +791,7 @@
   {
     "name": "Einundzwanzig Fehmarn",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
-    "url": "https://t.me/Bitcoin_Sonnenkinder_Fehmarn",
+    "url": "https://t.me/Einundzwanzig_Bitcoin_Fehmarn",
     "top": null,
     "left": null,
     "country": "DE",
@@ -785,15 +800,15 @@
     "longitude": 11.19668,
     "latitude": 54.43562,
     "twitter_username": null,
-    "website": null,
+    "website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn?l=de",
     "next_event": {
-      "start": "2023-10-07 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/815",
-      "location": "Insel Fehmarn; Hofcafe Albertsdorf",
-      "description": "Moin,\n\ndiesmal mit Vorlauf. Vielleicht somit für ein paar Gäste und Interessierte etwas besser planbar.\n\nEs wird ein süßes Meetup, im Hofcafe Albertsdorf. Sollte nach 18:00 noch Interesse bestehen, dann können wir zum Quintings weiter ziehen und noch einen Burger und/oder Bierchen nachschieben.\n\nBis dahin\nLG\n",
-      "link": "https://www.google.de/maps/place/Hofcaf%C3%A9+Albertsdorf/@54.4231974,11.1088618,14.92z/data=!4m6!3m5!1s0x47ad7cea1996cfab:0x5983a0246c3627e3!8m2!3d54.4266713!4d11.1082284!16s%2Fg%2F1tdmtnrq?entry=ttu",
+      "start": "2023-10-14 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/842",
+      "location": "Fehmarn Burgerrestaurant Quintings",
+      "description": "So diesmal an der süd-östlichen Ecke der Insel, in Orth. Das Burgerrestaurant Quintings wird von Sina Quintings betrieben und bietet wirklich leckere handgemachte Burger. Noch ist keine Bitcoinzahlung bei Sina möglich, dass werden wir hoffentlich zeitnah ändern. Mal sehen. Ansonsten seid gern pünktlich, denn im Quintings gibt es nicht so viele Sitzplätze, wir können nicht reservieren und auf das draußen Sitzen würde ich mich nicht verlassen.",
+      "link": "https://www.google.com/maps/place/Quintings/@54.4468357,11.0510883,15z/data=!4m2!3m1!1s0x0:0x7eb1c0ece9890787?sa=X&ved=2ahUKEwj9maH83-SBAxWKRfEDHe1zArAQ_BJ6BQiAARAA&ved=2ahUKEwj9maH83-SBAxWKRfEDHe1zArAQ_BJ6BQiuARAI",
       "attendees": 1,
-      "nostr_note": "2b4fb4f8175778d36d0b42dd3f2ff489f998f4dee7b0f5b116742039201b22f6"
+      "nostr_note": "a336cb473307acb08cd761f8976cdac773c9d56df5c067fe8fabd9930cc551de"
     }
   },
   {
@@ -1547,13 +1562,13 @@
     "twitter_username": "einundzwanzigMS",
     "website": null,
     "next_event": {
-      "start": "2023-10-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/201",
-      "location": "„Kasi's Kling Klang“, Erphostraße 2, 48145 Münster",
+      "start": "2023-11-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/202",
+      "location": "Münster: t.b.a.",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": "https://t.me/Einundzwanzig_MS",
       "attendees": 0,
-      "nostr_note": "646a992060fd92ca431465b9948cc845a45080459a700cab58fb3cd272ac58fb"
+      "nostr_note": "180d5ec24509dbc660e0b6f80cee3d3519670a430c52371680451fa46966ed00"
     }
   },
   {
@@ -1644,12 +1659,12 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/772",
+      "start": "2023-11-03 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/773",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
     }
   },
@@ -1718,12 +1733,12 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/384",
+      "start": "2023-11-03 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/385",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "91a5a87b5c4b8bce5bf9c83376245efcbd24998244eef6b5541777eead1ea057"
     }
   },
@@ -1953,7 +1968,15 @@
     "latitude": 49.0195333,
     "twitter_username": "EinundzwanzigRg",
     "website": "https://www.bitcoin-regensburg.de",
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/839",
+      "location": "Degginger, Wahlenstraße 17, 93047 Regensburg",
+      "description": "Das Meetup für die Leute, die sich gerne während der Woche treffen.",
+      "link": "https://g.co/kgs/FTTtHz",
+      "attendees": 1,
+      "nostr_note": "19ddf167fa3dde0c09d6ea0937f34a361375e239a6d42685214783d695d5ab59"
+    }
   },
   {
     "name": "Einundzwanzig Reutlingen",
@@ -2288,7 +2311,15 @@
     "latitude": 48.816685,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/836",
+      "location": "Gaststätte \"Zum Ochsen\" in Höfingen ",
+      "description": "Meet-Up Nr.8",
+      "link": "https://t.me/+mEqPNx7Xx_M4MGQ6",
+      "attendees": 1,
+      "nostr_note": ""
+    }
   },
   {
     "name": "Einundzwanzig Stuttgart",
@@ -2353,15 +2384,7 @@
     "latitude": 49.7596208,
     "twitter_username": "EinundzwanzigTR",
     "website": null,
-    "next_event": {
-      "start": "2023-10-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/813",
-      "location": "Paulaner in Zurlauben",
-      "description": "Wir sind heiß und bekommen Besuch aus Berlin, also wird ein Meetup reingeschoben.\nWir treffen uns wie immer im Paulaner in Trier ab 18 Uhr. Natürlich könnt ihr auch mit Sats bezahlen.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a0c41d526f68b93dccd2bdea7d6d4d0d43aeb6f89cabf28aecf41d3016f0ea09"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Vulkaneifel",
@@ -2543,7 +2566,15 @@
     "latitude": 49.791306,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/838",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "434cf2d104dda4c881bdc0659b3746f9b67e2c375e1f6f781bfca818ac6d3640"
+    }
   },
   {
     "name": "Zoolook ",
@@ -2693,12 +2724,12 @@
     "twitter_username": "Einundzwanzig_L",
     "website": null,
     "next_event": {
-      "start": "2023-10-31 17:00:00",
+      "start": "2023-10-11 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/82",
       "location": "Josef Linz",
-      "description": "Orange Pump-kin Day",
-      "link": "linz.einundzwanzig.space",
-      "attendees": 1,
+      "description": "",
+      "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/82?l=de",
+      "attendees": 3,
       "nostr_note": "4e04313aa17a220ab8d3a05ff84fdf3208d2b7ae1262aecae0a0b70aee4f087d"
     }
   },
@@ -3177,11 +3208,11 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/749",
-      "location": "Restaurant Brauwerk Bahnhofstrasse 19 · St. Gallen, Schweiz",
-      "description": "6.10.23 Ort Restaurant Brauwerk, St. Gallen\n3.11.23 Ort Restaurant Sonne, Amden\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
-      "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/events/295882882/",
+      "start": "2023-11-03 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/750",
+      "location": "Restaurant Sonne, Amden",
+      "description": "3.11.23 Restaurant Sonne, Amden\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
+      "link": "https://www.meetup.com/einundzwanzig-bitcoin-meetup-schweiz/events/296428776/",
       "attendees": 0,
       "nostr_note": "0a0ba6e5a84bc5aaf864d200b33b59be74b38582f3e5ba886b4cc73053979b68"
     }
