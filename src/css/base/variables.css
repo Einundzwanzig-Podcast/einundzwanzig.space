@@ -22,11 +22,12 @@
   --color-map-region: var(--color-border-light);
   --color-map-outline: var(--color-neutral-50);
 
-  --color-overlay-bg: rgba(230, 230, 230, .95);
+  --color-overlay-rgb: 230, 230, 230;
+  --color-overlay-bg: rgba(var(--color-overlay-rgb), .75);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);
   --color-card-bg: var(--color-neutral-10);
-  --color-flyout-bg: var(--color-overlay-bg);
+  --color-flyout-bg: rgba(var(--color-overlay-rgb), .95);
   --color-accent: #f7931a;
   --color-accent-highlight: #dd7901;
   --color-derweg: #00B4CF;
@@ -81,9 +82,9 @@
   --color-body-text: var(--color-neutral-0);
   --color-body-bg: var(--color-neutral-90);
   --color-card-bg: var(--color-neutral-95);
-  --color-overlay-bg: rgba(20, 20, 20, .95);
   --color-border-light: var(--color-neutral-80);
   --color-border-medium: var(--color-neutral-75);
+  --color-overlay-rgb: 20, 20, 20;
 }
 
 :root[data-theme="dark"] {

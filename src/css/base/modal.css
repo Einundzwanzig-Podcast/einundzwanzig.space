@@ -47,7 +47,7 @@
     width: 32px;
     height: 32px;
     padding: 6px;
-    color: var(--color-neutral-80);
+    color: var(--color-neutral-50);
     cursor: pointer;
 
     & svg {
@@ -70,7 +70,7 @@
     z-index: 100;
     color: var(--color-body-text);
     background: var(--color-flyout-bg);
-    border: 1px solid var(--color-border-light);
+    border: 1px solid var(--color-border-medium);
     border-radius: var(--border-radius);
     padding: var(--modal-space);
     max-width: 720px;

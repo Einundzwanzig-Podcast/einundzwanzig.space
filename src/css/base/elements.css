@@ -220,7 +220,7 @@ img:-moz-loading {
 }
 
 #podlove-subscribe-popup {
-  background-color: var(--color-overlay-bg) !important;
+  background: var(--color-overlay-bg) !important;
 
   & #podlove-subscribe-popup-modal {
     & * {
