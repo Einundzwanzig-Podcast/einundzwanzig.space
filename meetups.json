@@ -478,15 +478,7 @@
     "latitude": 49.70363,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-09 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/833",
-      "location": "Alte Dorfmühle",
-      "description": "Bachgasse 71, 64625 Bensheim",
-      "link": "https://maps.app.goo.gl/WzZcPJu5LS4fdPAA9",
-      "attendees": 0,
-      "nostr_note": "34c014a0f77100c8bc87bacbaccb4be42107e6fac9b6a923ed03c5dede16e738"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Berlin",
@@ -786,7 +778,15 @@
     "latitude": 51.4582235,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/846",
+      "location": "Essen, wird in der Gruppe noch abgestimmt",
+      "description": "Meetup Essen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3048d911570e3bf809faba4ac1dcc878ff54560eaa0d753368fadc4914d598ef"
+    }
   },
   {
     "name": "Einundzwanzig Fehmarn",
@@ -2729,7 +2729,7 @@
       "location": "Josef Linz",
       "description": "",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/82?l=de",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "4e04313aa17a220ab8d3a05ff84fdf3208d2b7ae1262aecae0a0b70aee4f087d"
     }
   },
@@ -2845,7 +2845,15 @@
     "latitude": 47.2500001,
     "twitter_username": "EinundzwanzigSt",
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-17 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/843",
+      "location": "Weinstadl Olarizi, 8321 Entschendorf bei Gleisdorf, Entschendorf 41",
+      "description": "Regulärer Einundzwanzig Styria - Stammtisch, diesmal in Weinstadl Olarizi. Los geht es ab 17 Uhr. Einfach vorbei kommen. Neulinge sind immer willkommen!",
+      "link": "https://www.olarizi.com/olarizi",
+      "attendees": 0,
+      "nostr_note": "dcd94fe3ee9e195ffacca23c9cff82d52bc6c14f02cced0fba1f0e0a501e8494"
+    }
   },
   {
     "name": "Einundzwanzig Tirol",
@@ -3170,7 +3178,15 @@
     "latitude": 47.050933,
     "twitter_username": null,
     "website": "https://instagram.com/bitcoin_luzern?igshid=ZWIzMWE5ZmU3Zg",
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/845",
+      "location": "Restaurant \"Rössli\", Unterdorf 5, 6403 Küssnacht am Rigi",
+      "description": "Heute treffen wir uns für unser Bitcoin Meetup in 6403 Küssnacht am Rigi. Im Lokal, das \"Rössli\" in Unterdorf 5, können wir mit Bitcoin zahlen.   Uhrzeit: Ab 18:00h Ort: Restaurant \"Rössli\" in Unterdorf 5, 6403 Küssnacht am Rigi Kommt gerne vorbei, wir freuen uns auf euch! (Offen für alle Interessierten, auch ohne Vorwissen.)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "beb24fd14efeb1ae8442582d04231e5f7f196c377486461b0b0e3173b209b3f8"
+    }
   },
   {
     "name": "Einundzwanzig Meetup Pfäffikon SZ",
