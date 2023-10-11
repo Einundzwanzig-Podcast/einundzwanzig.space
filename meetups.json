@@ -116,7 +116,7 @@
       "location": "Travemünde Aja Lounge ",
       "description": "Wir treffen uns zum 4.Meetup in der Aja Lounge Travemünde um 19:00.\n\nIhr seit herzlich dazu eingeladen, die Adaption live am ersten Bitcoin Beach Deutschlands mitzuverfolgen. Ihr könnt euch aktiv an Projekten von Pleps für Pleps beteiligen, egal ob Bücher, Code oder Hardware. Jeder ist willkommen - egal welchen Alters. Wir garantieren einen einmaligen Ausblick und Menschen mit Weitblick. Wir sind ein Open Source Meetup. Komm vorbei und werde ein Teil davon. Bringe dein\" Proof of Work \" mit ein.\n\nBitcoin Beach Travemünde ",
       "link": "https://www.aja.de/standorte/travemuende.html",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "1a95a1cdfe510e30917d31b1c408f0e33d42d5a7f831d71320bf09a31e9086c9"
     }
   },
@@ -782,9 +782,9 @@
       "start": "2023-10-11 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/846",
       "location": "Essen, wird in der Gruppe noch abgestimmt",
-      "description": "Meetup Essen",
-      "link": null,
-      "attendees": 0,
+      "description": "Meetup Essen, am 11.10.23 in der Ampütte ab 19 Uhr",
+      "link": "https://ampuette-essen.de/kontakt",
+      "attendees": 1,
       "nostr_note": "3048d911570e3bf809faba4ac1dcc878ff54560eaa0d753368fadc4914d598ef"
     }
   },
@@ -832,7 +832,7 @@
       "location": "Bamberg, Café Esspress",
       "description": "Location:\nCafé Esspress\nAu Straße 33\n96047 Bamberg",
       "link": "https://goo.gl/maps/uVGTaivtQ3t1znU97",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "7004474c67419619a88a61c334f437d40b3100f8a9441b76934c5aba4d73392f"
     }
   },
@@ -1075,7 +1075,15 @@
     "latitude": 49.142693,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-10-14 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/847",
+      "location": "Heilbronn",
+      "description": "Servus Mitstreiter,\nwir treffen uns am kommenden Samstag - 14.10 - mal wieder im Da Lisas (https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8) zum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten. Bis dene",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "179b1d661e4c21b425cd3cc609675fd5ea965bc581d01434d497a4403129031f"
+    }
   },
   {
     "name": "Einundzwanzig Heinsberg",
@@ -1108,8 +1116,8 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/310",
+      "start": "2023-11-14 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/311",
       "location": "Dorfschänke",
       "description": null,
       "link": "https://gasthaus-dorfschaenke.eatbu.com/?lang=de",
@@ -1391,8 +1399,8 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/370",
+      "start": "2023-11-14 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/371",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
       "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
       "link": "",
@@ -2177,15 +2185,7 @@
     "latitude": 51.2609835,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/611",
-      "location": "Altenbühren, Destan-Schnellrestaurant",
-      "description": "Aktuelle Infos zu dem Meetup immer spätestens ein Tag vor dem Termin in der Telegramgruppe",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a995b3987b9addab7f8e02481a145009618f277d5db96e5403665ddc47cb591d"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Schwarzwald-Baar",
@@ -2729,7 +2729,7 @@
       "location": "Josef Linz",
       "description": "",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/82?l=de",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "4e04313aa17a220ab8d3a05ff84fdf3208d2b7ae1262aecae0a0b70aee4f087d"
     }
   },
@@ -3178,15 +3178,7 @@
     "latitude": 47.050933,
     "twitter_username": null,
     "website": "https://instagram.com/bitcoin_luzern?igshid=ZWIzMWE5ZmU3Zg",
-    "next_event": {
-      "start": "2023-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/845",
-      "location": "Restaurant \"Rössli\", Unterdorf 5, 6403 Küssnacht am Rigi",
-      "description": "Heute treffen wir uns für unser Bitcoin Meetup in 6403 Küssnacht am Rigi. Im Lokal, das \"Rössli\" in Unterdorf 5, können wir mit Bitcoin zahlen.   Uhrzeit: Ab 18:00h Ort: Restaurant \"Rössli\" in Unterdorf 5, 6403 Küssnacht am Rigi Kommt gerne vorbei, wir freuen uns auf euch! (Offen für alle Interessierten, auch ohne Vorwissen.)",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "beb24fd14efeb1ae8442582d04231e5f7f196c377486461b0b0e3173b209b3f8"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Meetup Pfäffikon SZ",
