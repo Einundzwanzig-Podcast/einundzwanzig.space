@@ -98,6 +98,9 @@ const parseEpisode = e => {
   // Load and adapt feed
   const anchorXML = request('GET', masterFeedUrl).getBody('utf8')
   const xml = anchorXML
+    .replace(/\u2060/g, '')
+    .replace(/\u00A0/g, ' ')
+    .replace(/\u2019/g, "'")
     .replace(`"${masterFeedUrl}"`, `"${publicFeedUrl}"`)
     .replace(
       'xmlns:anchor="https://anchor.fm/xmlns"',
@@ -198,7 +201,9 @@ const parseEpisode = e => {
       updated['podcast:person'] = []
 
       people.forEach(p => {
-        const href = p.url || p.nostr ? `https://snort.social/p/${p.nostr}` : `https://twitter.com/${p.twitter}`
+        let href = p.url
+        if (!href && p.nostr) href = `https://snort.social/p/${p.nostr}`
+        if (!href && p.twitter) href = `https://twitter.com/${p.twitter}`
         updated['podcast:person'].push({
           __attr: { href },
           '#text': p.name
