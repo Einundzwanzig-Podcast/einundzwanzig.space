@@ -449,23 +449,6 @@
     "next_event": null
   },
   {
-    "name": "Einundzwanzig Balingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-balingen",
-    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "top": 71,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Balingen",
-    "longitude": 8.85511,
-    "latitude": 48.27549,
-    "twitter_username": null,
-    "website": null,
-    "next_event": null
-  },
-  {
     "name": "Einundzwanzig Bensheim",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
     "url": "https://t.me/einundzwanzigbensheim",
@@ -1584,15 +1567,7 @@
     "latitude": 51.599411,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/832",
-      "location": "Berliner-Tor-Platz 4, 46483 Wesel",
-      "description": "Weseler Wirtshaus \nTischreservierung auf:\nNiederrheineinundzwanzig ",
-      "link": "https://maps.app.goo.gl/A9zpzeCKkHLQAEi2A",
-      "attendees": 4,
-      "nostr_note": "f0fe531fae3399a934367c594be93d7ce28c95c2efdc0e0ff425dd01115b4502"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Norddeutschland",
@@ -2329,12 +2304,12 @@
     "twitter_username": "EinundzwanzigS",
     "website": "https://einundzwanzig-stuttg.art/",
     "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/685",
+      "start": "2023-11-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/686",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     }
   },
@@ -2352,8 +2327,8 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/294",
+      "start": "2023-11-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/297",
       "location": "Dons-Diner, 37154 Höckelheim",
       "description": null,
       "link": "https://www.dons-diner.de",
@@ -2493,6 +2468,23 @@
     }
   },
   {
+    "name": "Einundzwanzig Zollern-Alb-Kreis (Balingen)",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": 71,
+    "left": 27,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Balingen",
+    "longitude": 8.85511,
+    "latitude": 48.27549,
+    "twitter_username": null,
+    "website": null,
+    "next_event": null
+  },
+  {
     "name": "Ellwangen ",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/ellwangen",
     "url": "https://t.me/einundzwanzigEllwangen",
@@ -2520,15 +2512,7 @@
     "latitude": 54.792313,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/736",
-      "location": "Flensburg",
-      "description": "Genauere Infos gibt es in der Telegramgruppe. Bitte schaue dort, wo und wann genau wir uns treffen.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b67d4b27cb507616377b512af5b90f46a1249f51ea06d6f79aaa0285749fca2a"
-    }
+    "next_event": null
   },
   {
     "name": "Satoshis Coffeeshop",
@@ -2573,15 +2557,7 @@
     "latitude": 49.791306,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/838",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "434cf2d104dda4c881bdc0659b3746f9b67e2c375e1f6f781bfca818ac6d3640"
-    }
+    "next_event": null
   },
   {
     "name": "Zoolook ",
