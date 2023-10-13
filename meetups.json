@@ -799,7 +799,7 @@
       "location": "Fehmarn Burgerrestaurant Quintings",
       "description": "So diesmal an der süd-östlichen Ecke der Insel, in Orth. Das Burgerrestaurant Quintings wird von Sina Quintings betrieben und bietet wirklich leckere handgemachte Burger. Noch ist keine Bitcoinzahlung bei Sina möglich, dass werden wir hoffentlich zeitnah ändern. Mal sehen. Ansonsten seid gern pünktlich, denn im Quintings gibt es nicht so viele Sitzplätze, wir können nicht reservieren und auf das draußen Sitzen würde ich mich nicht verlassen.",
       "link": "https://www.google.com/maps/place/Quintings/@54.4468357,11.0510883,15z/data=!4m2!3m1!1s0x0:0x7eb1c0ece9890787?sa=X&ved=2ahUKEwj9maH83-SBAxWKRfEDHe1zArAQ_BJ6BQiAARAA&ved=2ahUKEwj9maH83-SBAxWKRfEDHe1zArAQ_BJ6BQiuARAI",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "a336cb473307acb08cd761f8976cdac773c9d56df5c067fe8fabd9930cc551de"
     }
   },
@@ -824,7 +824,7 @@
       "location": "Bamberg, Café Esspress",
       "description": "Location:\nCafé Esspress\nAu Straße 33\n96047 Bamberg",
       "link": "https://goo.gl/maps/uVGTaivtQ3t1znU97",
-      "attendees": 11,
+      "attendees": 12,
       "nostr_note": "7004474c67419619a88a61c334f437d40b3100f8a9441b76934c5aba4d73392f"
     }
   },
@@ -1565,7 +1565,7 @@
       "start": "2023-11-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/202",
       "location": "Münster: t.b.a.",
-      "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
+      "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig auf unserem Telegramkanal bekannt gegeben.",
       "link": "https://t.me/Einundzwanzig_MS",
       "attendees": 0,
       "nostr_note": "180d5ec24509dbc660e0b6f80cee3d3519670a430c52371680451fa46966ed00"
@@ -1969,13 +1969,13 @@
     "twitter_username": "EinundzwanzigRg",
     "website": "https://www.bitcoin-regensburg.de",
     "next_event": {
-      "start": "2023-10-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/839",
-      "location": "Degginger, Wahlenstraße 17, 93047 Regensburg",
-      "description": "Das Meetup für die Leute, die sich gerne während der Woche treffen.",
-      "link": "https://g.co/kgs/FTTtHz",
-      "attendees": 1,
-      "nostr_note": "19ddf167fa3dde0c09d6ea0937f34a361375e239a6d42685214783d695d5ab59"
+      "start": "2023-11-05 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/840",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Das monatliche Treffen findet jeden ERSTEN Sonntag im Monat statt.",
+      "link": "https://g.co/kgs/L3aBHz",
+      "attendees": 0,
+      "nostr_note": "2524fbb95abb8e7175f1a5ff0926cf7cfd430c91f08a556fb2f0fbd2b67d203c"
     }
   },
   {
@@ -2379,6 +2379,21 @@
     "next_event": null
   },
   {
+    "name": "Einundzwanzig Villingen-Schwenningen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-villingen-schwenningen",
+    "url": "https://t.me/+z8CNwSG7M38xOThi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Villingen-Schwenningen",
+    "longitude": 8.464087,
+    "latitude": 48.059402,
+    "twitter_username": null,
+    "website": null,
+    "next_event": null
+  },
+  {
     "name": "Einundzwanzig Vulkaneifel",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "url": "https://t.me/Einundzwanzig_Vulka",
@@ -2721,7 +2736,7 @@
       "location": "Josef Linz",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "ca689af1211af80e8ac11e7129f27ee3ecac390a1f29b902759918a6bad7b743"
     }
   },
