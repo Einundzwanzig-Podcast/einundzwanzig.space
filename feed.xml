@@ -242,10 +242,12 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #205">205</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
       <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
@@ -1986,9 +1988,11 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #177">177</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
     </item>
     <item>
       <title><![CDATA[#176 - Rendez-vous am Trampolin]]></title>
@@ -3415,9 +3419,11 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #143">143</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
+      <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
     </item>
     <item>
       <title><![CDATA[Buchclub #24 - "Der Antikapitalist" von Thorsten Polleit (Teil 1)]]></title>
