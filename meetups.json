@@ -98,21 +98,6 @@
     "next_event": null
   },
   {
-    "name": "Bitcoin Beach Lübeck Travemünde",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
-    "url": "https://t.me/BitcoinBeachMeetupTravemuende",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Travemünde ",
-    "longitude": 10.86834,
-    "latitude": 53.961788,
-    "twitter_username": null,
-    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
-    "next_event": null
-  },
-  {
     "name": "Bitcoin Berlin",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "url": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
@@ -495,6 +480,29 @@
     "next_event": null
   },
   {
+    "name": "Einundzwanzig Bitcoin Beach Travemünde Meetup",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup",
+    "url": "https://t.me/BitcoinBeachMeetupTravemuende",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Travemünde ",
+    "longitude": 10.86834,
+    "latitude": 53.961788,
+    "twitter_username": null,
+    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
+    "next_event": {
+      "start": "2023-10-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/853",
+      "location": "Granat Grillhouse, Kurgartenstr. 133, Lübeck-Travemünde",
+      "description": "TECH-MEETUP #2 (tech/dev topics only!!)\n\nThemen: \n\n- 2. Buch von KahnsisDeVillain (GitHub)\n- Bitcoin-Spiel \"Spirale\": Entwicklungsprotokoll (GitHub) + nächste Schritte\n- Offener Austausch\n",
+      "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
+      "attendees": 2,
+      "nostr_note": "8b6e7cdcef9f41fe2d30e3550c5140bd70e74058baf2a4b477ac5842491ea467"
+    }
+  },
+  {
     "name": "Einundzwanzig Bonn",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "url": "https://t.me/einundzwanzig_bonn",
@@ -803,8 +811,8 @@
     "twitter_username": "BTCFFM",
     "website": null,
     "next_event": {
-      "start": "2023-10-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/818",
+      "start": "2023-11-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/819",
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
       "description": null,
       "link": null,
@@ -1188,8 +1196,8 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/600",
+      "start": "2023-11-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/601",
       "location": "Greek Cuisine, Auedamm 23, 34121 Kassel. ",
       "description": "Wir können einen Nebenraum nutzen, oder uns bei schönem Wetter auf die Terrasse mit Blick auf die Fulda setzen.",
       "link": null,
@@ -2533,7 +2541,15 @@
     "latitude": 49.791306,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-17 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/854",
+      "location": "Blauer Adler",
+      "description": "Wer ein halbes Hähnchen will, muß ein Tag vorher anrufen und vorbestellen.",
+      "link": "https://maps.app.goo.gl/MEkeg3QRcQR6bJEi8",
+      "attendees": 1,
+      "nostr_note": "c2d60fd5bc8eef451b3c4dff55fa75dcd550becd8070602ef98e61bc37c08f33"
+    }
   },
   {
     "name": "Zoolook ",
