@@ -100,18 +100,18 @@
   {
     "name": "Bitcoin Berlin",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
+    "url": "https://t.me/Einundzwanzig_Berlin",
     "top": 25,
     "left": 65,
     "country": "DE",
     "state": [
       "Berlin"
     ],
-    "city": "Berlin",
-    "longitude": 13.3888599,
-    "latitude": 52.5170365,
+    "city": "Bitcoin Berlin",
+    "longitude": 13.411951,
+    "latitude": 52.404765,
     "twitter_username": null,
-    "website": null,
+    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
     "next_event": {
       "start": "2023-11-02 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/234",
@@ -392,15 +392,7 @@
     "latitude": 48.3668041,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/814",
-      "location": "Augsburg/Innenstadt, Thing",
-      "description": "Augsburg Plebs Treffen, kommt vorbei...",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "20955519faca9d8404ed1d1d19fa713fab2e6e6e56176ea1911ab90a11ea8aa7"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Bad Iburg",
@@ -446,7 +438,7 @@
     "longitude": 13.3888599,
     "latitude": 52.5170365,
     "twitter_username": null,
-    "website": null,
+    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
     "next_event": null
   },
   {
@@ -457,11 +449,11 @@
     "left": null,
     "country": "DE",
     "state": null,
-    "city": "Berlin",
-    "longitude": 13.3888599,
-    "latitude": 52.5170365,
+    "city": "Berlin Nord",
+    "longitude": 13.389964,
+    "latitude": 52.62206,
     "twitter_username": null,
-    "website": null,
+    "website": "https://www.meetup.com/Bitcoin-Lab-Berlin/events/",
     "next_event": null
   },
   {
@@ -1442,13 +1434,13 @@
     "twitter_username": "EinundzwanzigMA",
     "website": null,
     "next_event": {
-      "start": "2023-10-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/411",
+      "start": "2023-11-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/412",
       "location": "Wird noch bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "b3e79b0758aaf7c431412ff184d075c4e79b23898e69129cc4f99411e8be1abe"
+      "nostr_note": "27bf44609e72012786cafa684a53face4dc7f38cb1e86c0c341e3c126e67203b"
     }
   },
   {
@@ -1779,13 +1771,13 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-20 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/37",
+      "start": "2023-11-17 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/38",
       "location": "Paderborn/Bielefeld",
       "description": "Monatlich wechselt das Meetup zwischen Bielefeld und Paderborn. die genaue Location wird in der Telegram-Gruppe abgestimmt und auch über Twitter veröffentlicht.",
       "link": "https://t.me/einundzwanzig_owl",
       "attendees": 0,
-      "nostr_note": "e4a0027933f50bd3ca136c0295867244586bb579ad6b58d3bd992c47fcd034e8"
+      "nostr_note": "f686a0b86ba640ab7235458108b4888b680b8fa864f3852297e637c57c016ad6"
     }
   },
   {
@@ -2247,10 +2239,10 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-25 18:00:00",
+      "start": "2023-10-26 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/836",
       "location": "Gaststätte \"Zum Ochsen\" in Höfingen ",
-      "description": "Meet-Up Nr.8",
+      "description": "Meet-Up Nr.9",
       "link": "https://t.me/+mEqPNx7Xx_M4MGQ6",
       "attendees": 1,
       "nostr_note": ""
@@ -2319,15 +2311,7 @@
     "latitude": 49.7596208,
     "twitter_username": "EinundzwanzigTR",
     "website": null,
-    "next_event": {
-      "start": "2023-10-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/851",
-      "location": "Paulaner in Zurlauben",
-      "description": "Schon das zweite Meetup diesen Monat🔥\nZahlung mit Sats Onchain/Lightning wird bevorzugt.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "859a66af45f40258bc56d24686542a73e96116476ad209e58e0daf4c7fc63fa7"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Villingen-Schwenningen",
@@ -2458,15 +2442,7 @@
     "latitude": 48.27549,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/849",
-      "location": "Schiefererlebnis Dormettingen",
-      "description": "Meetup Einundzwanzig Zollernalb",
-      "link": "https://maps.app.goo.gl/nbG99fUnN4F15HAT9",
-      "attendees": 1,
-      "nostr_note": "5eac41a467908931451e5f41ca66f83094b3e7d4f858f17f34a67cbcccb08ea7"
-    }
+    "next_event": null
   },
   {
     "name": "Ellwangen ",
@@ -2627,13 +2603,13 @@
     "twitter_username": null,
     "website": null,
     "next_event": {
-      "start": "2023-10-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/543",
+      "start": "2023-11-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/544",
       "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
       "description": "„Easy Meetup“ - ein ungezwungenes Treffen für Bitcoin Interessierte in lockerer Atmosphäre. Es gibt viel zu besprechen… ab ins Rabbithole 🐇",
       "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
-      "attendees": 1,
-      "nostr_note": "ccac12dae2e9b834255aaede16d67e32cf79629bd29974e25b9cbae418491964"
+      "attendees": 0,
+      "nostr_note": "d8244b79bd4e011dba528debc31c03fccd4b9bd9adc36d4e10ee871c27ca9a61"
     }
   },
   {
