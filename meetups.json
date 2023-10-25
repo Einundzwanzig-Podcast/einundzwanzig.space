@@ -243,7 +243,15 @@
     "latitude": 48.1371079,
     "twitter_username": "bitcoinmuc",
     "website": "https://www.meetup.com/Bitcoin-Munich/",
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/856",
+      "location": "₿🍻 Bitcoin Munich Stammtisch – Romina’s",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Diesmal neue Location: “Romina’s” am Westpark in Sendling. “Support your local Boazn with a better money!”** Auf Initiative von [zeitsprungbitcoin.de](https://zeitsprungbitcoin.de/)\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Sprache:** Meist deutsch, aber wir haben oft auch Teilnehmer, die englisch sprechen. Bitte gruppiert euch entsprechend, wenn nötig!\n\n**Zielgruppe:** Alle sind willkommen, Neuankömmlinge sowie alte Veteranen. Es gibt meist Gespräche über sowohl Bitcoin-Grundlagen als auch Insider- und Tech-News, außerdem Wirtschaftliches, Politisches und so weiter. Beachtet aber bitte unser Mission Statement vorne auf der Hauptseite!\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Mittwoch, 01. November 2023, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~814.670\n\n**Ort diesmal:** Romina’s (am Westpark in Sendling), Garmischer Straße 236\n\n* [https://www.rominas.de/](https://www.rominas.de/)\n* [https://maps.app.goo.gl/4Q57i3N2Bx6NvhYj7](https://maps.app.goo.gl/4Q57i3N2Bx6NvhYj7)\n* [https://www.osm.org/node/822815495](https://www.osm.org/node/822815495)\n\n**Mitbringen:** —\n\n**Parken:** in der Nähe mit Suchaufwand möglich\n\n**ÖPNV:** U6 Westpark\n\n**Anmeldung:** nicht notwendig, einfach vorbeikommen\n\n**Teilnahmegebühr:** frei\n\n**Wie ihr uns findet:** Fragt das Personal nach dem Bitcoin-Tisch, oder haltet Ausschau nach Swag und Gimmicks wie (gratis!) Stickers mit dem ₿-Logo!\n\n**Essen und Trinken:** à la carte und auf eure eigene Rechnung.\n\n**Bezahlen mit Bitcoin möglich:** ja, fast bereits “offiziell”\n\n**Wie komm ich an Bitcoin?** Wir verschenken Kleinstbeträge (Satoshis), wenn ihr ein Lightning-fähiges Wallet bereit habt. Ferner könnte es Leute geben, die rote Bändchen tragen, die signalisieren, dass sie Bitcoin gegen Euro tauschen würden, bzw grüne Bändchen für umgekehrt. Oder ihr müsst einfach rumfragen.\n\n**Medienrichtlinie:** Viele Teilnehmer schätzen ihre Privatsphäre, bitte individuell fragen, bevor ihr Fotos oder Aufnahmen macht!\n\nBis demnächst!",
+      "link": "https://www.bitcoinerevents.com/event/%E2%82%BF%F0%9F%8D%BB-bitcoin-munich-stammtisch-rominas/",
+      "attendees": 0,
+      "nostr_note": "560615b0125b2314f2f02ad3841f1b33129ccf038d7242121fe8df7a3d9c82f5"
+    }
   },
   {
     "name": "Bitcoin Ulm",
@@ -1901,7 +1909,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Das monatliche Treffen findet jeden ERSTEN Sonntag im Monat statt.",
       "link": "https://g.co/kgs/L3aBHz",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "2524fbb95abb8e7175f1a5ff0926cf7cfd430c91f08a556fb2f0fbd2b67d203c"
     }
   },
@@ -2830,7 +2838,15 @@
     "latitude": 47.25,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/858",
+      "location": "Wird in der Telegram-Gruppe bekanntgegeben",
+      "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "0012f195486b4e68e60c5dd1dd589b89b1c657c6aa30afe75142cb7e832d3563"
+    }
   },
   {
     "name": "Einundzwanzig Wien",
