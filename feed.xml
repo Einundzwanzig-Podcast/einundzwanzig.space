@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 27 Oct 2023 06:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 20:51:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -37,15 +37,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
-      <title><![CDATA[#206 - Markus sei Mudda]]></title>
-      <description>Episode 206 - Blockzeit 813958 - von und mit Markus, SeedorChris und Sirius
-Relai Lighnting Beta Blog Post
-Pocket Bitcoin Lightning
-BTC-Solo-Mining Telegramgruppe
-BTC-Solo-Mining Pool
-twnty.one Lightning Address mit Nostr support
-Hayek-Club Trier-Luxembourg
-@satsworkers
+      <title><![CDATA[#207 - Bitcoin im Ländle ist nur 12 mal im Jahr]]></title>
+      <description>Episode 207 - Blockzeit 814866- von und mit Loddi, Seedor, Marc und Leo Mattes
+Pocket App Androidhttps://play.google.com/store/apps/details?id=com.pocketbitcoin.appPocket App Blogbeitraghttps://pocketbitcoin.com/de/learn/pocket-app/restore-wallet-backupWallet-Migration Pocket Apphttps://pocketbitcoin.com/de/blog/posts/pocket-app-available-on-android
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
 Stack Deine Sats mit Pocket Bitcoin.
@@ -56,19 +50,13 @@ Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
 Verfolge die neusten Schlagzeilen im Newsfeed.
 Die Community-Tutorials auf YouTube.
 Lass uns einen Shoutout da.</description>
-      <link>https://einundzwanzig.space/podcast/news-206-markus-sei-mudda</link>
-      <guid isPermaLink="false">ca70bd9d-b311-4092-a27f-ccfe53a4edde</guid>
+      <link>https://einundzwanzig.space/podcast/news-207-bitcoin-im-laendle-ist-nur-12-mal-im-jahr</link>
+      <guid isPermaLink="false">0e8b5e3c-8921-4e93-bbee-3d4f02839a51</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 27 Oct 2023 06:19:01 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/77770257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-27%2F66411e53-1ed8-c881-35ff-a94df9b10e86.mp3" length="82897605" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 206 - Blockzeit 813958 - von und mit Markus, SeedorChris und Sirius
-Relai Lighnting Beta Blog Post
-Pocket Bitcoin Lightning
-BTC-Solo-Mining Telegramgruppe
-BTC-Solo-Mining Pool
-twnty.one Lightning Address mit Nostr support
-Hayek-Club Trier-Luxembourg
-@satsworkers
+      <pubDate>Wed, 01 Nov 2023 20:48:11 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/78040849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-1%2F8712dc78-6b94-a886-0884-733964aeefd3.mp3" length="68910149" type="audio/mpeg"></enclosure>
+      <itunes:summary>Episode 207 - Blockzeit 814866- von und mit Loddi, Seedor, Marc und Leo Mattes
+Pocket App Androidhttps://play.google.com/store/apps/details?id=com.pocketbitcoin.appPocket App Blogbeitraghttps://pocketbitcoin.com/de/learn/pocket-app/restore-wallet-backupWallet-Migration Pocket Apphttps://pocketbitcoin.com/de/blog/posts/pocket-app-available-on-android
 Sponsoren und Freunde
 BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
 Stack Deine Sats mit Pocket Bitcoin.
@@ -80,16 +68,11 @@ Verfolge die neusten Schlagzeilen im Newsfeed.
 Die Community-Tutorials auf YouTube.
 Lass uns einen Shoutout da.</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>01:26:21</itunes:duration>
+      <itunes:duration>01:17:00</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #206">206</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:episode display="News #207">207</podcast:episode>
+      <podcast:person href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[Interview #95 - Bestimmen Soziale Medien den Bitcoin Preis?]]></title>
