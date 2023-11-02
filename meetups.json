@@ -102,6 +102,31 @@
     "next_event": null
   },
   {
+    "name": "Bitcoin Beach Lübeck-Travemünde",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
+    "url": "",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Travemünde ",
+    "longitude": 10.86834,
+    "latitude": 53.961788,
+    "twitter_username": null,
+    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fm4o-ekRplg37xXDzJNYN84fI_N7L82t5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuXFeBQtzFr8LlpOzrXin9xahMsO7sMnK-0Gd-QPX5Eo%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jczQHOdNFT56DLY89l29Wg%3D%3D%22%7D",
+    "nostr": "npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
+    "next_event": {
+      "start": "2023-11-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/852",
+      "location": "aja Hotel Lounge - Am Leuchtenfeld 7 - 23570 Lübeck - Travemünde ",
+      "description": "Wir feiern den #NostrNovember\n04. November 2023, 18:00 Uhr (Eisbaden 17:30 Uhr)\naja Hotel Lounge (1. Stock), Lübeck-Travemünde",
+      "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
+      "attendees": 3,
+      "nostr_note": "fb7917fa00bfaa90bc0e75d9636b4210247773940110a1d73ac7859edb6f1885"
+    }
+  },
+  {
     "name": "Bitcoin Berlin",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "url": "https://t.me/Einundzwanzig_Berlin",
@@ -518,31 +543,6 @@
     "simplex": null,
     "nostr": null,
     "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Bitcoin Beach Travemünde Meetup",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitcoin-beach-travemuende-meetup",
-    "url": "",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Travemünde ",
-    "longitude": 10.86834,
-    "latitude": 53.961788,
-    "twitter_username": null,
-    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
-    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fm4o-ekRplg37xXDzJNYN84fI_N7L82t5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuXFeBQtzFr8LlpOzrXin9xahMsO7sMnK-0Gd-QPX5Eo%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jczQHOdNFT56DLY89l29Wg%3D%3D%22%7D",
-    "nostr": "npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
-    "next_event": {
-      "start": "2023-11-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/852",
-      "location": "aja Hotel Lounge - Am Leuchtenfeld 7 - 23570 Lübeck - Travemünde ",
-      "description": "Wir feiern den #NostrNovember\n04. November 2023, 18:00 Uhr (Eisbaden 17:30 Uhr)\naja Hotel Lounge (1. Stock), Lübeck-Travemünde",
-      "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
-      "attendees": 3,
-      "nostr_note": "fb7917fa00bfaa90bc0e75d9636b4210247773940110a1d73ac7859edb6f1885"
-    }
   },
   {
     "name": "Einundzwanzig Bonn",
