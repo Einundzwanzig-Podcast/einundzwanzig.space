@@ -117,10 +117,10 @@
     "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fm4o-ekRplg37xXDzJNYN84fI_N7L82t5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuXFeBQtzFr8LlpOzrXin9xahMsO7sMnK-0Gd-QPX5Eo%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jczQHOdNFT56DLY89l29Wg%3D%3D%22%7D",
     "nostr": "npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
     "next_event": {
-      "start": "2023-11-04 17:00:00",
+      "start": "2023-11-04 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/852",
-      "location": "aja Hotel Lounge - Am Leuchtenfeld 7 - 23570 Lübeck - Travemünde ",
-      "description": "Wir feiern den #NostrNovember\n04. November 2023, 18:00 Uhr (Eisbaden 17:30 Uhr)\naja Hotel Lounge (1. Stock), Lübeck-Travemünde",
+      "location": "Konzertmuschel Brügmanngarten bzw. aja Hotel Lounge (Am Leuchtenfeld), 23570 Lübeck-Travemünde ",
+      "description": "Wir starten erstmalig das Bitcoin Open-Air Kino und feiern danach den #NostrNovember! Optional: Kurzes Eintauchen zuvor in die Ostsee. Alle angegebenenen Orte befinden sich direkt an der Promenade und sind nur wenige Schritte voneinander entfernt.\n\nAgenda:\n\n- 17:30 Uhr Eisbaden, Treffem Eingang aja Bar, Lübeck-Travemünde\n- 17:45 Open-Air Kino \"Who is Bitcoin\", Konzertmuschel Brügmanngarten, Lübeck-Travemünde\n- 18:00 Meetup mit Vortrag \"Was ist Nostr?\", aja Hotel Lounge (1. Stock), Lübeck-Travemünde",
       "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
       "attendees": 3,
       "nostr_note": "fb7917fa00bfaa90bc0e75d9636b4210247773940110a1d73ac7859edb6f1885"
@@ -144,13 +144,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-02 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/234",
-      "location": "Berlin",
-      "description": "Friedel Richter Restaurant, Torstraße 199, Berlin, BE",
+      "start": "2023-11-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/421",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "nostr_note": "b3627f651cf9bc479e5135a2e8158b60025f9453195ec64d0e6112eeb3ecd31c"
+      "nostr_note": "1b924aef756aa45a39e25713e397e071bdf0a4f79740bdf2ba59b5a9dd19ad12"
     }
   },
   {
@@ -489,7 +489,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-12 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/863",
+      "location": "Gaststätte Weiherhaus",
+      "description": "Saarstraße 56, 64625 Bensheim",
+      "link": "https://maps.app.goo.gl/NVa5uyxoYJUsvbKd8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "b7d061e48762adf2a801a0912dd6c97e5948b53f7b78addc3a89fa29177212ad"
+    }
   },
   {
     "name": "Einundzwanzig Berlin",
@@ -561,15 +569,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-02 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/527",
-      "location": "wechselnd",
-      "description": "Bitcoin/Einundzwanzig Meetup in Bonn. Im Herbst/Winter findet das Meetup in der Craftbeer Bar Balthasar, Brüdergasse 6 statt. Im Frühling/Sommer am Alten Zoll.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "2a47072c93181f15991cc064da2f9a8d1831c1e56f8886e9bf521b7527890d2c"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -1336,7 +1336,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Meetup November 23\nPlebs together strong... \nSatoshi Millionair, es kann nur einen geben!",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 10,
       "nostr_note": "17dcae65ef4d4cfb3cb5db40c98456fbad665c0f7b43d98ac397d8e5c89c6fa2"
     }
   },
