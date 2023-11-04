@@ -999,6 +999,31 @@
     "next_event": null
   },
   {
+    "name": "Einundzwanzig Grenzland",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
+    "url": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Grenzland DE/NL",
+    "longitude": 6.213012,
+    "latitude": 51.401305,
+    "twitter_username": null,
+    "website": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FxmfySIx-1_vqiiM4nnrnggjMPNrLN8v_%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAYz4_dQeiftra0BbZjc49Lm044Cck0yfUpLdwbLRYUUw%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22-KzDXf_fRKyZOa0R2ji8jw%3D%3D%22%7D",
+    "nostr": "npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "next_event": {
+      "start": "2023-11-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/866",
+      "location": "Stadtgarten Straelen",
+      "description": "",
+      "link": "https://www.google.de/maps/place/Stadtgarten,+Beethovenstra%C3%9Fe+5,+47638+Straelen/@51.4395996,6.2609385,17z/data=!4m9!1m2!2m1!1s+!3m5!1s0x47c75c047600675b:0x17dbe307cb7f1c0a!8m2!3d51.4387509!4d6.2646606!16s%2Fg%2F11b8tcpj2s?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "4a240c85c8a030bf7a6d0dcade4df630d0aec2b3d6e7a60e36f664bf844b8ba0"
+    }
+  },
+  {
     "name": "Einundzwanzig Gummersbach",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gummersbach",
     "url": "https://t.me/Einundzwanzig_Gummersbach",
@@ -1330,15 +1355,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-03 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/850",
-      "location": "Alte Schmiede Kempten",
-      "description": "Meetup November 23\nPlebs together strong... \nSatoshi Millionair, es kann nur einen geben!",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 10,
-      "nostr_note": "17dcae65ef4d4cfb3cb5db40c98456fbad665c0f7b43d98ac397d8e5c89c6fa2"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Kiel",
@@ -1770,8 +1787,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-03 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/773",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/774",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
@@ -1852,8 +1869,8 @@
     "simplex": null,
     "nostr": "npub10ldent6aecfgy74ayd65qad5c4ryyam9fv7e8w5xyjfy5zrnlm2qtc8vj0",
     "next_event": {
-      "start": "2023-11-03 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/385",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/386",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -1981,7 +1998,7 @@
       "location": "Passau, Schärding oder mal wo anders?",
       "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
     }
   },
@@ -2584,7 +2601,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/865",
+      "location": "Gillenfeld",
+      "description": "Meetup im Irish Pub in Gillenfeld",
+      "link": "https://maps.app.goo.gl/QdTmpoLszrNHtCNL6",
+      "attendees": 0,
+      "nostr_note": "d868e53eb69b876bc08152ae6e35b5d1d9bd0a4686958ffdcdc65665884ab1bf"
+    }
   },
   {
     "name": "Einundzwanzig Wacken",
@@ -3517,11 +3542,11 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-03 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/750",
-      "location": "Restaurant Sonne, Amden",
-      "description": "3.11.23 Restaurant Sonne, Amden\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
-      "link": "https://www.meetup.com/einundzwanzig-bitcoin-meetup-schweiz/events/296428776/",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/751",
+      "location": "Ostschweiz",
+      "description": "1.9.23 in der Trattoria Walensee um 19 Uhr\n6.10.23 Ort noch nicht bekannt\n3.11.23 Ort noch nicht bekannt\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
+      "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
       "attendees": 0,
       "nostr_note": "0a0ba6e5a84bc5aaf864d200b33b59be74b38582f3e5ba886b4cc73053979b68"
     }
