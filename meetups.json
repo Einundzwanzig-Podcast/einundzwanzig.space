@@ -1149,7 +1149,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/870",
+      "location": "Heilbronn",
+      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 18.11 mal wieder im Da Lisas (https://maps.app.goo.gl/WC5Wdid1n4qVb33o9) zum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten.",
+      "link": "https://maps.app.goo.gl/WC5Wdid1n4qVb33o9",
+      "attendees": 0,
+      "nostr_note": "4aed1ffff4ac41ed035843062eb5aa97ed03ac1e290269fa8e13cd757df1609a"
+    }
   },
   {
     "name": "Einundzwanzig Heinsberg",
