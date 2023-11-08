@@ -253,13 +253,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/266",
+      "start": "2023-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/267",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "d8bb9901d98815b35c30d2212b013c4dc1defeaeb5d5b7dbf9f1f383585ac05d"
+      "nostr_note": "12c9835eec5b484966487831d029bc1aa6da946767882335edde3c7273f14e27"
     }
   },
   {
@@ -630,15 +630,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-08 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/869",
-      "location": "Hatti",
-      "description": "Orientalische Spezialitäten\n\nZöllnerstraße 22\t\n29221 Celle",
-      "link": "https://hattis-restaurant.de/html/content/view.php?page=home&navigation=&layout=www-hattis-restaurant-de&lang=de&language=de",
-      "attendees": 1,
-      "nostr_note": "77c997ac374a1b48c914d34aee7e711aa5df52ef3e4327a308a3a59a318c8b68"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Cham",
@@ -863,7 +855,7 @@
       "location": "Nürnberg",
       "description": "Location:\ntbd",
       "link": null,
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
   },
@@ -1715,7 +1707,7 @@
       "start": "2023-12-02 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/203",
       "location": "Münster: t.b.a.",
-      "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig auf unserem Telegramkanal bekannt gegeben.",
+      "description": "Wir treffen uns Samstag, 02. Dezember ab 19 Uhr wieder im „Kasi's Kling Klang“ https://www.muenster-geht-aus.de/kling-klang. (Innenstadt von Münster und in Bahnhofsnähe (1.5 km) zu finden: PlusCode für GoogleMaps: XJ7R+GM Münster.) ",
       "link": "https://t.me/Einundzwanzig_MS",
       "attendees": 0,
       "nostr_note": "a0bddb2f407a08a6d5b03eccb788e690b9d53d8b5c84f26fe54072fa448fe980"
@@ -2774,7 +2766,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/877",
+      "location": "Dotternhausen Schiefererlebnis ",
+      "description": null,
+      "link": "https://t.me/+wuv9pbgJqi01MjIy",
+      "attendees": 1,
+      "nostr_note": "0dbae81528aa85177b5e6c64ad2564e13e40ebb3f378fc1c3d2672d59ed01a50"
+    }
   },
   {
     "name": "Ellwangen ",
