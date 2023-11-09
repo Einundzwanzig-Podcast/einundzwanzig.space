@@ -649,7 +649,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-26 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/878",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "b9e2326df0f9b001d5bbb5cd5ee7e933ce06e35d3951c8b99b89659d46279fe6"
+    }
   },
   {
     "name": "Einundzwanzig Darmstadt",
@@ -855,7 +863,7 @@
       "location": "Nürnberg",
       "description": "Location:\ntbd",
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
   },
@@ -1537,6 +1545,23 @@
     "city": "Limburg",
     "longitude": 8.05944,
     "latitude": 50.38675,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Lingen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lingen",
+    "url": "https://t.me/+9cxpb5YyGAg1NDNi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Lingen",
+    "longitude": 7.32328,
+    "latitude": 52.52306,
     "twitter_username": null,
     "website": null,
     "simplex": null,
