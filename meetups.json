@@ -863,7 +863,7 @@
       "location": "Nürnberg",
       "description": "Location:\ntbd",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
   },
@@ -1415,7 +1415,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/879",
+      "location": "Koblenz",
+      "description": "Genaue Location wird in der Telegram Gruppe bekannt gegeben. ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "82beb5ec7bc361b586148f5d03cc7b54d9e91acc3956200f2b1d24cefc178179"
+    }
   },
   {
     "name": "Einundzwanzig Konstanz",
