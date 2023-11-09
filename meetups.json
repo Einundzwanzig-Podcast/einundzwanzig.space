@@ -655,7 +655,7 @@
       "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
       "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
       "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "b9e2326df0f9b001d5bbb5cd5ee7e933ce06e35d3951c8b99b89659d46279fe6"
     }
   },
@@ -968,15 +968,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-09 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/875",
-      "location": "Wiesenmühle Fulda",
-      "description": "Gemütliches Beisammensein im Brauhaus der Wiesenmühle in Fulda. ",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "52ed9ad4b6ff5d0889270e10becae84228d3396b24a5c8e066ca4c5e9b72be23"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Gelnhausen",
@@ -2183,7 +2175,7 @@
       "location": "Musikkneipe Klappe, Stadtamhof 13, 93059 Regensburg",
       "description": "Das Meetup des Regenburger Bitcoin Stammtisches jeden zweiten Dienstag im Monat.",
       "link": "https://g.co/kgs/w8tLZq",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "23170e196211a43cd896f32a35c6af4797be746531f0127e0ff8cc66fec3361c"
     }
   },
@@ -2417,7 +2409,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-17 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/880",
+      "location": "Färberstraße 51 78050 Villingen-Schwenningen",
+      "description": "Einundzwanzig Schwarzwald Baar\n2. Bitcoin-Meetup im im \"Zum Kuckuck\" in Villingen-Schwenningen. \nSchaut gerne vorbei ;)",
+      "link": "https://zumkuckuck-vs.eatbu.com/?lang=de",
+      "attendees": 1,
+      "nostr_note": "cad353ba2ff45235a019c7f2b7bbb4305e7689f96bd3b4fb74c0a81ef4805b0d"
+    }
   },
   {
     "name": "Einundzwanzig Schwerin ",
@@ -3090,7 +3090,7 @@
       "location": "Cafe Froschberg",
       "description": "Infinity-Meetup",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/83?l=de",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "88c9185413d5c36cc9c6686222bc315625d72fd6bc514217f9ea5fbbdef9020b"
     }
   },
