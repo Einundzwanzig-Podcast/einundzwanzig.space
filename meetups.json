@@ -454,7 +454,7 @@
       "description": "21er Meetup. Komm vorbei :)",
       "link": null,
       "attendees": 1,
-      "nostr_note": ""
+      "nostr_note": "7e1f36d8ba1b881efec7e8dfa7f7f752ec0c9621beafa257f5bce9da7eb737af"
     }
   },
   {
@@ -2674,15 +2674,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/865",
-      "location": "Gillenfeld",
-      "description": "Meetup im Irish Pub in Gillenfeld",
-      "link": "https://maps.app.goo.gl/QdTmpoLszrNHtCNL6",
-      "attendees": 0,
-      "nostr_note": "d868e53eb69b876bc08152ae6e35b5d1d9bd0a4686958ffdcdc65665884ab1bf"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Wacken",
@@ -3079,10 +3071,10 @@
     "next_event": {
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84",
-      "location": "wird noch bekanntgegeben",
+      "location": "Cafe Froschberg",
       "description": "Jahresrückblick & Weihnachtsfeier",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84?l=de",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "848356f42e17faaf8b0ad095ee0c03655341970eddb34472f1971c70e3e8d20e"
     }
   },
@@ -3213,7 +3205,7 @@
     "next_event": {
       "start": "2023-11-23 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/884",
-      "location": "Ligist",
+      "location": "Gasthaus Gangl, 8563 Ligist 55",
       "description": "Einundzwanzig Stammtisch beim \"weststeierischen Bitcoin-Wirten\" im Gasthaus Gangl, 8563 Ligist 55. Bitcoin accepted!    \n\nU.a. mit frischen Eindrücken aus El Salvador und von der Adopting Bitcoin Konferenz\n\nKommt vorbei, bringt Freunde mit!  Neulinge immer willlkommen!",
       "link": "https://www.gasthaus-gangl.at/",
       "attendees": 0,
