@@ -392,7 +392,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/885",
+      "location": "Augustiner Haidhausen Wörthstraße 34, 81667 München",
+      "description": "Also Dienstag 21.November um 18:00h im Augustiner in Haushausen am Bordeauxplatz.\n",
+      "link": "https://g.co/kgs/CTBKy5",
+      "attendees": 1,
+      "nostr_note": "5488cd7f3754dd3d9bfa95456dc74ce18fa3e55ffab7f9fdb1fae28b3ca9c812"
+    }
   },
   {
     "name": "Einundzwanzig 3 Länder Eck",
@@ -489,15 +497,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-13 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/863",
-      "location": "Gaststätte Weiherhaus",
-      "description": "Saarstraße 56, 64625 Bensheim",
-      "link": "https://maps.app.goo.gl/NVa5uyxoYJUsvbKd8?g_st=ic",
-      "attendees": 0,
-      "nostr_note": "b7d061e48762adf2a801a0912dd6c97e5948b53f7b78addc3a89fa29177212ad"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Berlin",
