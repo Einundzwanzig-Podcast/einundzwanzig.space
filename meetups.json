@@ -398,7 +398,7 @@
       "location": "Augustiner Haidhausen Wörthstraße 34, 81667 München",
       "description": "Also Dienstag 21.November um 18:00h im Augustiner in Haushausen am Bordeauxplatz.\n",
       "link": "https://g.co/kgs/CTBKy5",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "5488cd7f3754dd3d9bfa95456dc74ce18fa3e55ffab7f9fdb1fae28b3ca9c812"
     }
   },
@@ -1112,7 +1112,7 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-18 14:00:00",
+      "start": "2023-11-25 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/835",
       "location": "Lüneburger Heide",
       "description": null,
@@ -1202,8 +1202,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/311",
+      "start": "2023-12-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/312",
       "location": "Dorfschänke",
       "description": null,
       "link": "https://gasthaus-dorfschaenke.eatbu.com/?lang=de",
@@ -1377,7 +1377,7 @@
       "location": "Kempten Alte Schmiede",
       "description": "Allgäuer Bitcoin-Stammtisch mit Infos und Themen rund um Bitcoin.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "68dc0bd3d598bbbed9913e4899b2e9ad3bf82df6b9d52f5d63ca867053a7c1b7"
     }
   },
@@ -1531,8 +1531,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/371",
+      "start": "2023-12-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/372",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
       "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
       "link": "",
@@ -2169,15 +2169,7 @@
     "website": "https://www.bitcoin-regensburg.de",
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/873",
-      "location": "Musikkneipe Klappe, Stadtamhof 13, 93059 Regensburg",
-      "description": "Das Meetup des Regenburger Bitcoin Stammtisches jeden zweiten Dienstag im Monat.",
-      "link": "https://g.co/kgs/w8tLZq",
-      "attendees": 3,
-      "nostr_note": "23170e196211a43cd896f32a35c6af4797be746531f0127e0ff8cc66fec3361c"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Reutlingen",
@@ -2415,7 +2407,7 @@
       "location": "Färberstraße 51 78050 Villingen-Schwenningen",
       "description": "Einundzwanzig Schwarzwald Baar\n2. Bitcoin-Meetup im im \"Zum Kuckuck\" in Villingen-Schwenningen. \nSchaut gerne vorbei ;)",
       "link": "https://zumkuckuck-vs.eatbu.com/?lang=de",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "cad353ba2ff45235a019c7f2b7bbb4305e7689f96bd3b4fb74c0a81ef4805b0d"
     }
   },
