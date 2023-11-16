@@ -976,7 +976,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/914",
+      "location": "Wiesenmühle Fulda",
+      "description": "Treffen uns ab 18:30 Uhr im Brauhaus der Wiesenmühle in Fulda. Tisch ist reserviert auf Reher. Am besten vorher in der Gruppe abstimmen, damit genug Platz vorhanden ist ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8a3999e9fef5f86d33ff8419f01d62e8cf678ba0a88295e2551e9c1da0d59b6f"
+    }
   },
   {
     "name": "Einundzwanzig Gelnhausen",
@@ -2103,7 +2111,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-17 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/913",
+      "location": "Samurai Sushi Pfarrkirchen",
+      "description": null,
+      "link": "https://g.co/kgs/FDCBf4",
+      "attendees": 1,
+      "nostr_note": "fc67b7ea98d1ae584c95660082661a9d80c786dd4f05488bb95258d8927fd463"
+    }
   },
   {
     "name": "Einundzwanzig Pforzheim",
@@ -2846,6 +2862,23 @@
     "city": "Kirchheim Teck ",
     "longitude": 9.45394,
     "latitude": 48.64769,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Meetup Düsseldorf",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
+    "url": "https://t.me/einundzwanzig_duesseldorf",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Düsseldorf",
+    "longitude": 6.7763137,
+    "latitude": 51.2254018,
     "twitter_username": null,
     "website": null,
     "simplex": null,
