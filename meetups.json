@@ -358,7 +358,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/886",
+      "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
+      "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": ""
+    }
   },
   {
     "name": "EINUNDZWANZIG Mannheim",
@@ -723,10 +731,10 @@
     "next_event": {
       "start": "2023-12-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/717",
-      "location": "Central Bar, Markt 6-8, Dortmund",
+      "location": "Glorious Café, Kleppingstraße 2, 44135 Dortmund",
       "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Central.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
       "link": "https://goo.gl/maps/V6XjU25W7fbtp7gp8",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2da0ef34fd7e576c0d4166585243dfa9c22c506f9faf19d5ab550425f6480eb0"
     }
   },
@@ -1421,7 +1429,7 @@
       "location": "Maximilians-Brauwiesen GmbH",
       "description": "Didierstrasse 25\n56112 Niederlahnstein/Industriegebiet Nord",
       "link": "https://www.maximilians-brauwiesen.de/kontakt-anfahrt",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "82beb5ec7bc361b586148f5d03cc7b54d9e91acc3956200f2b1d24cefc178179"
     }
   },
@@ -2150,7 +2158,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/899",
+      "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
+      "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7aded67a012a2f24f2eabc7fbe1ba2e65205d3f6b5a152eb0834f44f53751086"
+    }
   },
   {
     "name": "Einundzwanzig Regensburg",
