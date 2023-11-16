@@ -51,6 +51,7 @@ const parseEpisode = e => {
   if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
   if (categoryName === 'On-Tour') categoryName = 'On Tour'
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
+  if (categoryName === 'reCATion') categoryName = 'Verschiedenes'
   const firstLine = description.split('\n')[0]
   const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
