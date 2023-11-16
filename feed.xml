@@ -85,9 +85,11 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #209">209</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="MarkusTurm" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
     </item>
@@ -213,7 +215,7 @@ Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
 Verfolge die neusten Schlagzeilen im Newsfeed.
 Die Community-Tutorials auf YouTube.
 Lass uns einen Shoutout da.</description>
-      <link>https://einundzwanzig.space/podcast/recation-01-traditionsclub-admira-sieht-orange</link>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-01-traditionsclub-admira-sieht-orange</link>
       <guid isPermaLink="false">f4ac2e05-ddb8-4b35-b9b2-72b5175b393c</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Sat, 04 Nov 2023 23:36:12 GMT</pubDate>
@@ -237,7 +239,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:duration>00:16:56</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1699140024302-30fe3ca990896.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="reCATion #01">01</podcast:episode>
+      <podcast:episode display="Verschiedenes #01">01</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
