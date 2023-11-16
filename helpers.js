@@ -37,10 +37,25 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
+// team
+const teamWithAliases = team => {
+  const withAliases = {}
+  Object.entries(team).forEach(([id, member]) => {
+    withAliases[id] = member
+    const aliases = (member.aliases || []).concat(member.name.toLowerCase())
+    aliases.forEach(alias => {
+      const aliasId = alias.toLowerCase()
+      if (!withAliases[aliasId]) withAliases[aliasId] = member
+    })
+  })
+  return withAliases
+}
+
 module.exports = {
   markdown: mdTransformer.render,
   replacements,
   slugify,
   stripHTML,
-  truncate
+  truncate,
+  teamWithAliases
 }

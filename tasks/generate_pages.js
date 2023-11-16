@@ -1,13 +1,13 @@
 const pug = require('pug')
 const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
-const { slugify } = require('../helpers')
+const { slugify, teamWithAliases } = require('../helpers')
 const config = require('../pug.config')
 const site = require('../generated/site-data.json')
 const episodes = require('../generated/episodes.json')
 const spendenregister = require('../generated/spendenregister.json')
 const spendenuebersicht = require('../content/spendenuebersicht.json').reverse()
-const team = require('../content/team.json')
+const teamRaw = require('../content/team.json')
 const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
 const adventskalender = require('../content/adventskalender-2022.json')
@@ -20,6 +20,8 @@ const categories = {
   'on-tour': 'On Tour',
   'verschiedenes': 'Verschiedenes'
 }
+
+const team = teamWithAliases(teamRaw)
 
 const changedFile = process.argv.length > 2 && process.argv[2]
 
@@ -55,9 +57,9 @@ renderPage('adventskalender', 'adventskalender', { adventskalender })
 
 episodes.forEach(episode => renderPage('episode', `podcast/${episode.slug}`, { navCurrent: 'podcast', episode, team }))
 Object.keys(categories).forEach(category => renderPage('category', `podcast/${slugify(categories[category])}`, { navCurrent: 'podcast', category, categoryName: categories[category], episodes: episodes.filter(e => e.category === category), team }))
-Object.keys(team).forEach(id => {
-  const member = team[id]
-  const alias = member.name.toLowerCase()
-  const eps = episodes.filter(e => e.participants.find(p => [id, alias].includes(p.toLowerCase())))
+Object.keys(teamRaw).forEach(id => {
+  const member = teamRaw[id]
+  const aliases = (member.aliases || []).map(m => m.toLowerCase()).concat(member.name.toLowerCase())
+  const eps = episodes.filter(e => e.participants.find(p => [id, ...aliases].includes(p.toLowerCase())))
   renderPage('member', `team/${slugify(id)}`, { navCurrent: 'podcast', member, episodes: eps, team })
 })

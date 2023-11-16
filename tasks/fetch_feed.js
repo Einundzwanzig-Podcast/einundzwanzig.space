@@ -1,8 +1,8 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML } = require('../helpers')
+const { replacements, slugify, stripHTML, teamWithAliases } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
-const team = require('../content/team.json')
+const teamRaw = require('../content/team.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
 const xmlFormat = require('xml-formatter')
@@ -12,6 +12,8 @@ const dir = resolve(__dirname, '..')
 const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) =>
   write(`generated/${name}.json`, JSON.stringify(data, null, 2))
+
+const team = teamWithAliases(teamRaw)
 
 const commonOpts = {
   attributeNamePrefix: '',
@@ -33,11 +35,6 @@ const json2xmlOpts = {
   ...commonOpts,
   indentBy: '  '
 }
-
-Object.values(team).forEach(member => {
-  const alias = member.name.toLowerCase()
-  if (!team[alias]) team[alias] = member
-})
 
 const parser = new XMLParser(xml2jsonOpts, true)
 const builder = new XMLBuilder(json2xmlOpts)
