@@ -359,13 +359,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/886",
+      "start": "2023-12-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/887",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
-      "attendees": 1,
-      "nostr_note": ""
+      "attendees": 0,
+      "nostr_note": "883e2e14fe817389fa51b948da78f897332e65b73db30d0b56ffb8fe5ea4cd9c"
     }
   },
   {
@@ -2169,7 +2169,15 @@
     "website": "https://www.bitcoin-regensburg.de",
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-03 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/918",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Monatliches Meetup.\nJeden ersten Sonntag im Monat.\nBitcoin Treffen Regensburg",
+      "link": "https://g.co/kgs/4Ed9iN",
+      "attendees": 1,
+      "nostr_note": ""
+    }
   },
   {
     "name": "Einundzwanzig Reutlingen",
