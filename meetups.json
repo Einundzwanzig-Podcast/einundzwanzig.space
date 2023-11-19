@@ -1165,15 +1165,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/870",
-      "location": "Heilbronn",
-      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 18.11 mal wieder im Da Lisas (https://maps.app.goo.gl/WC5Wdid1n4qVb33o9) zum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten.",
-      "link": "https://maps.app.goo.gl/WC5Wdid1n4qVb33o9",
-      "attendees": 2,
-      "nostr_note": "4aed1ffff4ac41ed035843062eb5aa97ed03ac1e290269fa8e13cd757df1609a"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Heinsberg",
@@ -2050,13 +2042,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/325",
-      "location": "Passau, Schärding oder mal wo anders?",
-      "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
+      "start": "2023-12-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/864",
+      "location": "94124 Büchlberg - auf der Stoabruch Weihnacht",
+      "description": "Zum Jahresabschluss treffen wir uns auf der Steinbruch Weihnacht in Büchlberg (15km nördlich von Passau)\n",
       "link": null,
       "attendees": 1,
-      "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
+      "nostr_note": "3ff3822bba944423d007200f58eac93d4f7fb13449dc6a3f290d9d7042058b44"
     }
   },
   {
@@ -2886,7 +2878,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/916",
+      "location": "Blauer Adler",
+      "description": "Wer ein gutes, in Spezialsosse eingelegtes, Halbes Hähnchen essen will muss es ein Tag vorher vorbestellen 093180414605. ",
+      "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "6aae926d38136cd6104269d0008f7d8031580762a48a3a741b4a62ff8289daac"
+    }
   },
   {
     "name": "Zoolook ",
@@ -3169,10 +3169,10 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/481",
+      "start": "2023-12-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/482",
       "location": "Passau oder Schärding",
-      "description": "25. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "26. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "nostr_note": "80a816e21a3dfc83e4aec6d732a162016b28e7f4e76cf60cb2c2e53d50329913"
