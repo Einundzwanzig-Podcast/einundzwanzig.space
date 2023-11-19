@@ -860,9 +860,9 @@
     "next_event": {
       "start": "2023-11-25 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/253",
-      "location": "Nürnberg",
-      "description": "Location:\ntbd",
-      "link": null,
+      "location": "Nürnberg, Palais Schaumburg",
+      "description": "Location:\nPalais Schaumburg\nKernstraße 46, 90429 Nürnberg\n",
+      "link": "https://maps.app.goo.gl/DdDe4x1TEkg7RSam9",
       "attendees": 6,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
@@ -2308,7 +2308,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-30 18:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/917",
+      "location": "St. Wendel, Café Journal",
+      "description": "Nach längerer Zeit endlich mal wieder ein Stammtisch in St. Wendel. Egal ob Anfänger, Fortgeschritten oder Maxi, jeder ist willkommen. ;-)",
+      "link": "https://t.me/einundzwanzigsaarland_stwendel",
+      "attendees": 1,
+      "nostr_note": "27628492aae4ef5b6b2cf28fd80ea534013b925ef216d2a3c87c33443eb294a8"
+    }
   },
   {
     "name": "Einundzwanzig Saarlouis",
