@@ -863,7 +863,7 @@
       "location": "Nürnberg, Palais Schaumburg",
       "description": "Location:\nPalais Schaumburg\nKernstraße 46, 90429 Nürnberg\n",
       "link": "https://maps.app.goo.gl/DdDe4x1TEkg7RSam9",
-      "attendees": 6,
+      "attendees": 8,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
   },
@@ -1377,7 +1377,7 @@
       "location": "Kempten Alte Schmiede",
       "description": "Allgäuer Bitcoin-Stammtisch mit Infos und Themen rund um Bitcoin.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "68dc0bd3d598bbbed9913e4899b2e9ad3bf82df6b9d52f5d63ca867053a7c1b7"
     }
   },
@@ -1486,7 +1486,15 @@
     "website": null,
     "simplex": null,
     "nostr": "npub1s40yqu44c4tu355kkkjx2cvjs2uhvgaceqchyhdm45jfpq3dh03q3ytdxj",
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-19 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/919",
+      "location": "Landau in der Pfalz",
+      "description": "Erst Weihnachtsmarkt bei schönem Wetter und dann Bar/Restaurantbesuch.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3b3598b56d5dc7af81232bf0f3d5948a9868fd30edc896ff4f6bb33a10750d6d"
+    }
   },
   {
     "name": "Einundzwanzig Landshut",
@@ -2143,8 +2151,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/899",
+      "start": "2023-12-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/900",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
@@ -2176,7 +2184,7 @@
       "description": "Monatliches Meetup.\nJeden ersten Sonntag im Monat.\nBitcoin Treffen Regensburg",
       "link": "https://g.co/kgs/4Ed9iN",
       "attendees": 2,
-      "nostr_note": ""
+      "nostr_note": "c5f5f62115d267b033330f655767a78c83d7197113577f3f0849018331509a9e"
     }
   },
   {
@@ -2613,7 +2621,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/920",
+      "location": "Paulaner in Zurlauben",
+      "description": "Wie immer treffen wir uns im Paulaner. Ihr könnt hier natürlich mit Bitcoin onchain/lightning bezahlen und bekommt dann sogar noch Rabatt🔥",
+      "link": "https://paulaner-tr.de",
+      "attendees": 0,
+      "nostr_note": "13f471baba562cf07ad142d54e7405441e84be4ae675e71a22aa614eef343959"
+    }
   },
   {
     "name": "Einundzwanzig Ulm",
@@ -2995,7 +3011,7 @@
       "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
       "description": "„Easy Meetup“ - ein ungezwungenes Treffen für Bitcoin Interessierte in lockerer Atmosphäre. Es gibt viel zu besprechen… ab ins Rabbithole 🐇",
       "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "d8244b79bd4e011dba528debc31c03fccd4b9bd9adc36d4e10ee871c27ca9a61"
     }
   },
@@ -3510,7 +3526,15 @@
     "website": "https://bitcoin-basel.ch",
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/921",
+      "location": "Markthalle Basel / Steinentorberg 20",
+      "description": "Am Samstag ist Meetup-time 🥳\nTisch in der Markthalle ist reserviert. Treffen uns um 18:00 bei der HausBar oder nacher direkt an einem Tisch (gebe dann bekannt welchen Tisch).",
+      "link": "https://wwww.bitcoin-basel.ch",
+      "attendees": 1,
+      "nostr_note": "b9d61a46d2570ac7d4b0b37f110b88e960fcf7541a9a941d00115105e17b46d3"
+    }
   },
   {
     "name": "Einezwänzg Solothurn",
