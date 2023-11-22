@@ -400,15 +400,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/885",
-      "location": "Augustiner Haidhausen Wörthstraße 34, 81667 München",
-      "description": "Also Dienstag 21.November um 18:00h im Augustiner in Haushausen am Bordeauxplatz.\n",
-      "link": "https://g.co/kgs/CTBKy5",
-      "attendees": 5,
-      "nostr_note": "5488cd7f3754dd3d9bfa95456dc74ce18fa3e55ffab7f9fdb1fae28b3ca9c812"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig 3 Länder Eck",
@@ -863,7 +855,7 @@
       "location": "Nürnberg, Palais Schaumburg",
       "description": "Location:\nPalais Schaumburg\nKernstraße 46, 90429 Nürnberg\n",
       "link": "https://maps.app.goo.gl/DdDe4x1TEkg7RSam9",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
     }
   },
@@ -2183,7 +2175,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Monatliches Meetup.\nJeden ersten Sonntag im Monat.\nBitcoin Treffen Regensburg",
       "link": "https://g.co/kgs/4Ed9iN",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "c5f5f62115d267b033330f655767a78c83d7197113577f3f0849018331509a9e"
     }
   },
@@ -2281,8 +2273,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/451",
+      "start": "2023-12-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/452",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
@@ -2425,7 +2417,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/922",
+      "location": "Zum Wilden Michel, 78120 Furtwangen, Linach 6",
+      "description": "Wer: Einundzwanzig Schwarzwald Baar - 3.Meetup\n\nWann: 16.12.2023 un 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\n",
+      "link": "https://g.co/kgs/v7Tsct",
+      "attendees": 1,
+      "nostr_note": "3fb6eb9ebdb286789d554481b1e31829d073c2c4abe7c76484313f848b9edf1a"
+    }
   },
   {
     "name": "Einundzwanzig Schwerin ",
@@ -2791,7 +2791,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/923",
+      "location": "Dotternhausen Schiefererlebnis ",
+      "description": "Furchtlos und Trew",
+      "link": "https://maps.app.goo.gl/xWw8ULvXSmnW13BA8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "b14e10f36c23bdd547e1088ec78f825f1343103742daf42303ec6ee47f444bdd"
+    }
   },
   {
     "name": "Ellwangen ",
@@ -3006,13 +3014,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/544",
+      "start": "2023-12-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/545",
       "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
       "description": "„Easy Meetup“ - ein ungezwungenes Treffen für Bitcoin Interessierte in lockerer Atmosphäre. Es gibt viel zu besprechen… ab ins Rabbithole 🐇",
       "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
-      "attendees": 2,
-      "nostr_note": "d8244b79bd4e011dba528debc31c03fccd4b9bd9adc36d4e10ee871c27ca9a61"
+      "attendees": 0,
+      "nostr_note": "d0e4e9089534a11a23959c728aaef583a2a436f722aff4f1b0dc330b4c00976a"
     }
   },
   {
@@ -3181,7 +3189,7 @@
       "location": "Pizzeria Al Dente",
       "description": null,
       "link": "https://maps.app.goo.gl/rofHMTyYiz4mwWqG9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "47f9fd243dda695f8c4eeaa289229e339b8090dff9d7fb8debe83a2ae6e7c5fb"
     }
   },
@@ -3282,8 +3290,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/858",
+      "start": "2023-12-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/859",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": null,
