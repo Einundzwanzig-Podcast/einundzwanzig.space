@@ -2068,7 +2068,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-11-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/924",
+      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern",
+      "description": "Meetup der Pfälzer Plebs, oft auch gekapert von den Saarländern und Rheinhessen.",
+      "link": "https://t.me/einundzwanzigPfalz",
+      "attendees": 1,
+      "nostr_note": "77e5c946852086b7a127385dc4f28b6abee97d78c3c72317205cbadfaeec851a"
+    }
   },
   {
     "name": "Einundzwanzig Pfarrkirchen (Rottal-Inn)",
