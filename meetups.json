@@ -561,7 +561,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-07 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/925",
+      "location": "Bonn",
+      "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "297fb316975c568297217dfbea7ac735fe6e67a1f7e918ee856b5f492e2583a7"
+    }
   },
   {
     "name": "Einundzwanzig Bremen",
@@ -3243,15 +3251,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/884",
-      "location": "Gasthaus Gangl, 8563 Ligist 55",
-      "description": "Einundzwanzig Stammtisch beim \"weststeierischen Bitcoin-Wirten\" im Gasthaus Gangl, 8563 Ligist 55. Bitcoin accepted!    \n\nU.a. mit frischen Eindrücken aus El Salvador und von der Adopting Bitcoin Konferenz\n\nKommt vorbei, bringt Freunde mit!  Neulinge immer willlkommen!",
-      "link": "https://www.gasthaus-gangl.at/",
-      "attendees": 0,
-      "nostr_note": "bab16a41f3aa9676fe6b0c65d04be6c56473eb1b163807ebf996d082d4f4dbd1"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Tirol",
