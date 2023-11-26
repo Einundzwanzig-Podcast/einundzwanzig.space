@@ -255,6 +255,31 @@
     }
   },
   {
+    "name": "Bitcoin Meetup Harz",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
+    "url": "https://t.me/BTCMeetupHarz",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Harz",
+    "longitude": 10.974099,
+    "latitude": 51.816475,
+    "twitter_username": "MeetupHarz",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2024-01-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/939",
+      "location": "Felsenkeller Bad Suderode",
+      "description": "Gemütliches Beisammensein, lecker essen und über Bitcoin reden :)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "a13f25b25966f7797cc98a9ec07e107f5d236e9402a03b7e6415649b9ca52379"
+    }
+  },
+  {
     "name": "Bitcoin Meetup Waldenrath ",
     "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
     "url": "https://t.me/waldenrath",
@@ -489,7 +514,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-11 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/938",
+      "location": "Restaurant & Cocktailbar Habanero",
+      "description": "Obergasse 16, 64673 Zwingenberg",
+      "link": "https://maps.app.goo.gl/nowKgE1xEMWxbBkM8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "702c643f09bd97539f46566f344c21017aaeb4c7d2d1421adbfe20be65d7c0f5"
+    }
   },
   {
     "name": "Einundzwanzig Berlin",
@@ -802,7 +835,15 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2024-01-18 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/940",
+      "location": "Double B Erfurt ",
+      "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
+      "link": "https://www.doubleb-erfurt.de/",
+      "attendees": 0,
+      "nostr_note": "5126c76f38ef20752808495bf7c77a090007734208c506ce0a655c1c7be50c74"
+    }
   },
   {
     "name": "Einundzwanzig Essen",
@@ -858,13 +899,13 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-25 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/253",
-      "location": "Nürnberg, Palais Schaumburg",
-      "description": "Location:\nPalais Schaumburg\nKernstraße 46, 90429 Nürnberg\n",
-      "link": "https://maps.app.goo.gl/DdDe4x1TEkg7RSam9",
-      "attendees": 11,
-      "nostr_note": "53a36e736dd579f8d4ced6f300bf40ab0b36bf6f4b9f850b8e3430057f53e216"
+      "start": "2023-12-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/249",
+      "location": "Fürth, Cafe Zanetta",
+      "description": "Location:\nCafe Zanetta\nNeumannstraße 28, 90763 Fürth",
+      "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
+      "attendees": 3,
+      "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
     }
   },
   {
@@ -1029,15 +1070,7 @@
     "website": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
     "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FU8qH6SNLyo_yAy88bJZpEJE9rW3GL36i%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1dwpAK1iYpdUfdPKzEzfgjB1Ebh9ouHtGjc2Mc3uvj0%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22P6H1G3RadnLvt2qaTSMMKw%3D%3D%22%7D",
     "nostr": "npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
-    "next_event": {
-      "start": "2023-11-25 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/866",
-      "location": "Stadtgarten Straelen",
-      "description": "",
-      "link": "https://www.google.de/maps/place/Stadtgarten,+Beethovenstra%C3%9Fe+5,+47638+Straelen/@51.4395996,6.2609385,17z/data=!4m9!1m2!2m1!1s+!3m5!1s0x47c75c047600675b:0x17dbe307cb7f1c0a!8m2!3d51.4387509!4d6.2646606!16s%2Fg%2F11b8tcpj2s?entry=ttu",
-      "attendees": 0,
-      "nostr_note": "4a240c85c8a030bf7a6d0dcade4df630d0aec2b3d6e7a60e36f664bf844b8ba0"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Gummersbach",
@@ -1119,15 +1152,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-25 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/835",
-      "location": "Lüneburger Heide",
-      "description": null,
-      "link": "https://der-schafstall.de/",
-      "attendees": 0,
-      "nostr_note": "c5d4814fffc0618cfe57db8e444289d9453a1ed6a8380d4a8a815200d31233ba"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Heidelberg",
@@ -1435,8 +1460,8 @@
     "simplex": null,
     "nostr": null,
     "next_event": {
-      "start": "2023-11-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/431",
+      "start": "2023-12-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/432",
       "location": "Bitte in Telegram schauen",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": null,
