@@ -12,6 +12,8 @@
     "latitude": 49.577193,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -27,14 +29,16 @@
     "latitude": 51.48217,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/265",
+      "start": "2023-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/267",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "aac9114abcd0d490fed19ebe504354accdad215dffdc21efaa704c40b0926354"
+      "nostr_note": "12c9835eec5b484966487831d029bc1aa6da946767882335edde3c7273f14e27"
     }
   },
   {
@@ -50,6 +54,8 @@
     "latitude": 47.47438,
     "twitter_username": "bitcoinbaden",
     "website": "https://bitcoinbaden.ch/",
+    "simplex": null,
+    "nostr": "npub1pa2ap3wluzefx9dpyyafxj646lk5qj4xtvw0wa48msx8nnhrn4mq72lxqs",
     "next_event": null
   },
   {
@@ -65,6 +71,8 @@
     "latitude": 47.209298,
     "twitter_username": null,
     "website": "https://www.blockzeit.ch/stammtisch",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -82,6 +90,8 @@
     "latitude": 47.5581077,
     "twitter_username": "einundzwanzigBS",
     "website": "https://bitcoin-basel.ch/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -97,15 +107,9 @@
     "latitude": 50.991772,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-26 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/810",
-      "location": "Bistro Magnolia, Kölner Str. 420 - 51515 Kürten",
-      "description": "Rheinisch-Bergischer Kreis\n\n*Bergisch Gladbach \n*Kürten\n*Odenthal\n*Wermelskirchen\n*Burscheid\n*Leichlingen\n*Overath",
-      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinberg?l=de",
-      "attendees": 0,
-      "nostr_note": "3b8d2fbdf6a26a02eaad0d57d69a6d9a87c7fef75dcf28ca6ab5e3c8c4f351e1"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Saarlouis",
@@ -122,6 +126,8 @@
     "latitude": 49.315681,
     "twitter_username": "21Saarlouis",
     "website": "https://twitter.com/21Saarlouis",
+    "simplex": null,
+    "nostr": "npub1qhjtcfcreannyfvfv8yzmz0krzpgep7tyv0tvm9cldw5jeqes6fqeks79t",
     "next_event": null
   },
   {
@@ -139,6 +145,8 @@
     "latitude": 39.6621648,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -154,15 +162,34 @@
     "latitude": 47.133082805085,
     "twitter_username": "YenaTattoo",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-01 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/729",
-      "location": "Biel/Bienne",
-      "description": "Jeden ersten Sonntag im Monat treffen wir uns zum Apéro in \"s'Lädeli\" in Untergasse 35, 2501 Biel.\n\nChaque premier dimanche du mois, nous nous retrouvons pour un apéro dans \"s'Lädeli\" à la Untergasse 35, 2501 Bienne.",
-      "link": "https://goo.gl/maps/yjSwf7a2t2ZaJAsD8",
+      "start": "2023-12-02 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/844",
+      "location": "Untergasse 35, 2502 Biel/Bienne",
+      "description": "Wie jeden 1. Sonntag im Monat treffen wir uns heute zu unserer Bitcoin Orangepilling Party in Biel. Es gibt Apéro mit Snacks und Getränken. Das Meetup ist für alle, Bitcoin-Interessierte sowie Bitcoin-Erfahrene. Bringt gerne eure Freunde, Familie oder Kinder mit – Wir freuen uns auf euch! Zeit: 16:00 Uhr Ort: Yena’s Tattoo Lädeli, Untergasse 35, 2502 Biel\n\n|| \nComme chaque premier dimanche du mois, nous nous retrouvons aujourd’hui pour notre Bitcoin Orangepilling Party à Bienne. Il y aura un apéro avec des snacks et des boissons. Le meetup est ouvert à tous, aux personnes intéressées par le bitcoin comme aux personnes expérimentées dans ce domaine. N’hésitez pas à venir avec vos amis, votre famille ou vos enfants – nous nous réjouissons de vous accueillir ! Heure : 16:00 heures Lieu : Yena’s Tattoo Lädeli, rue Basse 35, 2502 Bienne",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "05531ea3ed2d5ef9770e4e7f09cbd2aaeb0d44700725f04c11d07e9c439c6299"
+      "nostr_note": "56862e1d5611a1540c872741973f55ff9941af524f831fb16219cb2db7b8e791"
     }
+  },
+  {
+    "name": "Kirchheim Teck ",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/kirchheim-teck",
+    "url": "https://t.me/einundzwanzigStuttgart",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Kirchheim Teck ",
+    "longitude": 9.45394,
+    "latitude": 48.64769,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "TWENTY-ONE USA",
@@ -177,7 +204,34 @@
     "latitude": 39.89288,
     "twitter_username": "twentyone_usa",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
+  },
+  {
+    "name": "Bitcoin Meetup Harz",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
+    "url": "https://t.me/BTCMeetupHarz",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Harz",
+    "longitude": 10.974099,
+    "latitude": 51.816475,
+    "twitter_username": "MeetupHarz",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2024-01-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/939",
+      "location": "Felsenkeller Bad Suderode",
+      "description": "Gemütliches Beisammensein, lecker essen und über Bitcoin reden :)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "a13f25b25966f7797cc98a9ec07e107f5d236e9402a03b7e6415649b9ca52379"
+    }
   },
   {
     "name": "Einundzwanzig Hildesheim",
@@ -192,6 +246,8 @@
     "latitude": 52.150902,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -207,14 +263,16 @@
     "latitude": 51.960667,
     "twitter_username": "einundzwanzigMS",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/201",
-      "location": "„Kasi's Kling Klang“, Erphostraße 2, 48145 Münster",
-      "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
+      "start": "2023-12-02 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/203",
+      "location": "Münster: t.b.a.",
+      "description": "Wir treffen uns Samstag, 02. Dezember ab 19 Uhr wieder im „Kasi's Kling Klang“ https://www.muenster-geht-aus.de/kling-klang. (Innenstadt von Münster und in Bahnhofsnähe (1.5 km) zu finden: PlusCode für GoogleMaps: XJ7R+GM Münster.) ",
       "link": "https://t.me/Einundzwanzig_MS",
       "attendees": 0,
-      "nostr_note": "646a992060fd92ca431465b9948cc845a45080459a700cab58fb3cd272ac58fb"
+      "nostr_note": "a0bddb2f407a08a6d5b03eccb788e690b9d53d8b5c84f26fe54072fa448fe980"
     }
   },
   {
@@ -230,9 +288,11 @@
     "latitude": 50.760273,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/310",
+      "start": "2023-12-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/312",
       "location": "Dorfschänke",
       "description": null,
       "link": "https://gasthaus-dorfschaenke.eatbu.com/?lang=de",
@@ -253,6 +313,8 @@
     "latitude": 39.56945,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -270,6 +332,8 @@
     "latitude": 51.1563185,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -287,6 +351,8 @@
     "latitude": 49.8158683,
     "twitter_username": "EinundzwanzigLU",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -304,14 +370,16 @@
     "latitude": 46.65594557,
     "twitter_username": "SudtirolBitcoin",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-21 11:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/160",
+      "start": "2023-12-16 12:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/162",
       "location": "Südtirol/TBA",
       "description": "Genaue Zeit und Ort wird in Telegram Gruppe bekannt gegeben",
       "link": "https://t.me/Einundzwanzig_Suedtirol",
       "attendees": 0,
-      "nostr_note": "8573bd99c06fe3e0dab3ade69a65f37a0bf01ac27327de09a1fa920d5cdbea2c"
+      "nostr_note": "805b9288a7db26bb663659ee8902a0c4c3bac0204481d93ed8e44a89b5a93f73"
     }
   },
   {
@@ -334,6 +402,8 @@
     "latitude": 46.7985624,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -353,6 +423,8 @@
     "latitude": 51.48128,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -370,7 +442,36 @@
     "latitude": 49.219311,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Heilbronn",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
+    "url": "https://t.me/einundzwanzigHeilbronn",
+    "top": 62,
+    "left": 30,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Heilbronn",
+    "longitude": 9.210879,
+    "latitude": 49.142693,
+    "twitter_username": "EinundzwanzigHN",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/945",
+      "location": "Heilbronn Weihnachtsmarkt",
+      "description": "Wir treffen uns erst dort und danach kehren wir noch ein (Location wird noch gesucht)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "d695545d09588f0902c63670b1be66cbed33f18d433ce9ca6decbf6122f6abbb"
+    }
   },
   {
     "name": "Tjugoett Stockholm",
@@ -385,6 +486,8 @@
     "latitude": 59.329323,
     "twitter_username": "TjugoettSthlm08",
     "website": "https://twitter.com/TjugoettSthlm08",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -400,6 +503,8 @@
     "latitude": 48.1371079,
     "twitter_username": "satoshiscoffee",
     "website": "https://bitcoinlight.house/events/satoshis-coffeeshop/",
+    "simplex": null,
+    "nostr": "npub1vwpcguqfrrn2guj8wpzahnpzjd32crny5jxeylzg4asf49ttjdyqurc6p8",
     "next_event": null
   },
   {
@@ -415,6 +520,8 @@
     "latitude": 53.24554,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -432,14 +539,16 @@
     "latitude": 47.84248,
     "twitter_username": "21_nordbgld",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-09-29 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/56",
-      "location": "La Takeria, Neusiedl am See, Am Hafen 1/2",
-      "description": "Gesundes Geld - Gesunde Welt",
+      "start": "2023-12-01 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/57",
+      "location": "Joe´s Pub, Neusiedl am See, Untere Hauptstraße 15",
+      "description": "spread the word - fix the money, fix the world",
       "link": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
-      "attendees": 1,
-      "nostr_note": "6b9e723b92acbbcd03fcad41b0744b3b8f0e92e1d154fbb358645562d7c5b46c"
+      "attendees": 0,
+      "nostr_note": "cb4197f775fac8524b06fb1de8fa868daed8fd952e9c3a16c32a3f11d4c5a94f"
     }
   },
   {
@@ -462,9 +571,11 @@
     "latitude": 47.2975781,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/749",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/751",
       "location": "Ostschweiz",
       "description": "1.9.23 in der Trattoria Walensee um 19 Uhr\n6.10.23 Ort noch nicht bekannt\n3.11.23 Ort noch nicht bekannt\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
       "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
@@ -487,6 +598,8 @@
     "latitude": 47.31874,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -504,6 +617,8 @@
     "latitude": 49.0068705,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -521,6 +636,8 @@
     "latitude": 47.9960901,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -536,6 +653,8 @@
     "latitude": 48.506939,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -553,6 +672,8 @@
     "latitude": 50.20976,
     "twitter_username": "EinundzwanzigVE",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -568,6 +689,8 @@
     "latitude": 49.4892913,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -583,6 +706,8 @@
     "latitude": 48.27549,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -600,6 +725,8 @@
     "latitude": 46.623943,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -617,6 +744,8 @@
     "latitude": 47.9984622,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -632,6 +761,8 @@
     "latitude": 53.6735,
     "twitter_username": "Jonas21Bitcoin",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -649,6 +780,8 @@
     "latitude": 48.20823,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -666,6 +799,8 @@
     "latitude": 47.8539273,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -681,6 +816,8 @@
     "latitude": 32.776474,
     "twitter_username": "bitcoin_CHS",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -698,6 +835,8 @@
     "latitude": 50.2853755,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -713,9 +852,11 @@
     "latitude": 46.7512,
     "twitter_username": "bitcoin_alps",
     "website": "https://www.bitcoin-alps.ch",
+    "simplex": null,
+    "nostr": "npub1ur0jtnmrm67zr4xka8hhfluj0uk40l3gwhwzfzfy8nuem29ffg7qgszmps",
     "next_event": {
-      "start": "2023-10-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/637",
+      "start": "2023-12-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/639",
       "location": null,
       "description": null,
       "link": null,
@@ -736,6 +877,8 @@
     "latitude": 51.599411,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -751,6 +894,8 @@
     "latitude": 51.028351,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -768,6 +913,8 @@
     "latitude": 46.9482713,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -783,6 +930,8 @@
     "latitude": 49.300652,
     "twitter_username": "BTC_Ansbach",
     "website": "https://www.btc-ansbach.org",
+    "simplex": null,
+    "nostr": "npub1qvc2e83wk0pemukgutkhjz77zp58hcd9vp0wjj5kntkrkhde75wq2qs6g0",
     "next_event": null
   },
   {
@@ -800,39 +949,16 @@
     "latitude": 48.5748229,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/324",
-      "location": "Passau, Schärding oder mal wo anders?",
-      "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
+      "start": "2023-12-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/864",
+      "location": "94124 Büchlberg - auf der Stoabruch Weihnacht",
+      "description": "Zum Jahresabschluss treffen wir uns auf der Steinbruch Weihnacht in Büchlberg (15km nördlich von Passau)\n",
       "link": null,
-      "attendees": 0,
-      "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
-    }
-  },
-  {
-    "name": "Einundzwanzig Bremen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 20,
-    "left": 29,
-    "country": "DE",
-    "state": [
-      "Bremen"
-    ],
-    "city": "Bremen",
-    "longitude": 8.8071646,
-    "latitude": 53.0758196,
-    "twitter_username": "Einundzwanzig_N",
-    "website": null,
-    "next_event": {
-      "start": "2023-10-25 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/626",
-      "location": "Bremen",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
+      "attendees": 1,
+      "nostr_note": "3ff3822bba944423d007200f58eac93d4f7fb13449dc6a3f290d9d7042058b44"
     }
   },
   {
@@ -848,6 +974,8 @@
     "latitude": 48.1371079,
     "twitter_username": "EinundzwanzigM",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -865,23 +993,8 @@
     "latitude": 27.931,
     "twitter_username": null,
     "website": null,
-    "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Heilbronn",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
-    "url": "https://t.me/einundzwanzigHeilbronn",
-    "top": 62,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Heilbronn",
-    "longitude": 9.210879,
-    "latitude": 49.142693,
-    "twitter_username": null,
-    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -897,6 +1010,8 @@
     "latitude": 35.595909,
     "twitter_username": "avlbitcoiners",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -916,9 +1031,11 @@
     "latitude": 53.551086,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/794",
+      "start": "2023-11-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/795",
       "location": "Hamburg-Sternschanze",
       "description": "Absinth Bar",
       "link": "https://absinth-bar.com/",
@@ -939,9 +1056,11 @@
     "latitude": 54.092442,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/450",
+      "start": "2023-12-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/452",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
@@ -964,6 +1083,8 @@
     "latitude": 51.8260823,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -979,6 +1100,8 @@
     "latitude": 47.499882,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -994,14 +1117,16 @@
     "latitude": 47.48748,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/543",
+      "start": "2023-12-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/545",
       "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
       "description": "„Easy Meetup“ - ein ungezwungenes Treffen für Bitcoin Interessierte in lockerer Atmosphäre. Es gibt viel zu besprechen… ab ins Rabbithole 🐇",
       "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
       "attendees": 0,
-      "nostr_note": "ccac12dae2e9b834255aaede16d67e32cf79629bd29974e25b9cbae418491964"
+      "nostr_note": "d0e4e9089534a11a23959c728aaef583a2a436f722aff4f1b0dc330b4c00976a"
     }
   },
   {
@@ -1019,6 +1144,8 @@
     "latitude": 47.1416307,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1036,6 +1163,8 @@
     "latitude": 47.9867696,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1053,14 +1182,16 @@
     "latitude": 50.735851,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-05 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/526",
-      "location": "wechselnd",
-      "description": "Bitcoin/Einundzwanzig Meetup in Bonn. Im Herbst/Winter findet das Meetup in der Craftbeer Bar Balthasar, Brüdergasse 6 statt. Im Frühling/Sommer am Alten Zoll.",
+      "start": "2023-12-07 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/925",
+      "location": "Bonn",
+      "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "2a47072c93181f15991cc064da2f9a8d1831c1e56f8886e9bf521b7527890d2c"
+      "nostr_note": "297fb316975c568297217dfbea7ac735fe6e67a1f7e918ee856b5f492e2583a7"
     }
   },
   {
@@ -1078,7 +1209,17 @@
     "latitude": 47.25,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/859",
+      "location": "Wird in der Telegram-Gruppe bekanntgegeben",
+      "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "0012f195486b4e68e60c5dd1dd589b89b1c657c6aa30afe75142cb7e832d3563"
+    }
   },
   {
     "name": "Einundzwanzig Jena",
@@ -1093,30 +1234,17 @@
     "latitude": 50.92696,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/743",
+      "start": "2023-12-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/745",
       "location": "Jena, Grünowski",
       "description": null,
       "link": null,
       "attendees": 0,
       "nostr_note": "147bfd85032fb6029d62b4f60c409bb14781c464164da760fb2c9c6cb38aa37f"
     }
-  },
-  {
-    "name": "Einundzwanzig Strohgäu",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
-    "url": "https://t.me/+mEqPNx7Xx_M4MGQ6",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Region Strohgäu ",
-    "longitude": 9.01803,
-    "latitude": 48.816685,
-    "twitter_username": null,
-    "website": null,
-    "next_event": null
   },
   {
     "name": "Einundzwanzig Kempten",
@@ -1133,14 +1261,16 @@
     "latitude": 47.7267063,
     "twitter_username": "MountBitcoin21",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-02 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/807",
-      "location": "Alte Schmiede Kempten",
-      "description": "Memminger Straße 68 87439 Kempten",
+      "start": "2023-12-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/882",
+      "location": "Kempten Alte Schmiede",
+      "description": "Allgäuer Bitcoin-Stammtisch mit Infos und Themen rund um Bitcoin.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
-      "nostr_note": "4cf4f922a6da90f4bf061da2c3db8ca2515f4849e5e2a1be9da575e3ca527672"
+      "attendees": 5,
+      "nostr_note": "68dc0bd3d598bbbed9913e4899b2e9ad3bf82df6b9d52f5d63ca867053a7c1b7"
     }
   },
   {
@@ -1158,6 +1288,8 @@
     "latitude": 47.3744489,
     "twitter_username": null,
     "website": "https://www.meetup.com/de-DE/bitcoin-4-beginners-meetup-zurich/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1175,14 +1307,16 @@
     "latitude": 47.223193,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-18 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/50",
+      "start": "2023-12-20 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/52",
       "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
-      "description": "21. Bitcoin-Stammtisch Innsbruck",
+      "description": "23. Bitcoin-Stammtisch Innsbruck",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
-      "nostr_note": "11da60e4e2aa599bfa25849e1a9b18aad7b4bb086781ec0a3256e17cbc7c8343"
+      "nostr_note": "01f92a910509490a90d13d592725e19efda64cd0b80db04c9539f7bd56c5e5aa"
     }
   },
   {
@@ -1198,6 +1332,8 @@
     "latitude": 50.81478,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1213,6 +1349,8 @@
     "latitude": 49.300652,
     "twitter_username": "BTC_Ansbach",
     "website": "https://www.btc-ansbach.org",
+    "simplex": null,
+    "nostr": "npub1qvc2e83wk0pemukgutkhjz77zp58hcd9vp0wjj5kntkrkhde75wq2qs6g0",
     "next_event": null
   },
   {
@@ -1228,6 +1366,8 @@
     "latitude": 48.123341,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1245,15 +1385,9 @@
     "latitude": 51.2609835,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/611",
-      "location": "Altenbühren, Destan-Schnellrestaurant",
-      "description": "Aktuelle Infos zu dem Meetup immer spätestens ein Tag vor dem Termin in der Telegramgruppe",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a995b3987b9addab7f8e02481a145009618f277d5db96e5403665ddc47cb591d"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Elbe-Elster",
@@ -1270,6 +1404,8 @@
     "latitude": 51.6273649,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1285,7 +1421,17 @@
     "latitude": 50.984768,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2024-01-18 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/940",
+      "location": "Double B Erfurt ",
+      "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
+      "link": "https://www.doubleb-erfurt.de/",
+      "attendees": 0,
+      "nostr_note": "5126c76f38ef20752808495bf7c77a090007734208c506ce0a655c1c7be50c74"
+    }
   },
   {
     "name": "Einundzwanzig Ost-Brandenburg",
@@ -1300,15 +1446,9 @@
     "latitude": 52.505,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-16 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/798",
-      "location": "Restaurant zur Mühle (Altlandsberg 15345)",
-      "description": "Der Auftakt zum Einundzwanzig Ost-Brandenburg Meetup findet am 16.10.23 ab 18:30 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch für 10 Reserviert und erwarten in etwa 4 bis 7 Plebs. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen. ",
-      "link": "https://goo.gl/maps/LDUHDV63kzSmKC5x6",
-      "attendees": 2,
-      "nostr_note": "6864e206e2bc56c1f6131a976388fcf586f3dc8fa09531b760711267d40c3e07"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Bitburg",
@@ -1323,6 +1463,8 @@
     "latitude": 49.974018,
     "twitter_username": "EinundzwanzigBi",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1338,15 +1480,9 @@
     "latitude": 51.5328328,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/294",
-      "location": "Dons-Diner, 37154 Höckelheim",
-      "description": null,
-      "link": "https://www.dons-diner.de",
-      "attendees": 0,
-      "nostr_note": "ce75448a2083b824fb84699466f51f072a0110df87e8f513e7bf5df3c2098497"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Kassel Bitcoin",
@@ -1361,9 +1497,11 @@
     "latitude": 51.3154546,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/600",
+      "start": "2023-12-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/602",
       "location": "Greek Cuisine, Auedamm 23, 34121 Kassel. ",
       "description": "Wir können einen Nebenraum nutzen, oder uns bei schönem Wetter auf die Terrasse mit Blick auf die Fulda setzen.",
       "link": null,
@@ -1386,6 +1524,8 @@
     "latitude": 50.38675,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1403,9 +1543,11 @@
     "latitude": 48.7784485,
     "twitter_username": "EinundzwanzigS",
     "website": "https://einundzwanzig-stuttg.art/",
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/685",
+      "start": "2023-12-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/687",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -1428,6 +1570,8 @@
     "latitude": 51.0654268,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1445,6 +1589,8 @@
     "latitude": 50.9295798,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1460,7 +1606,36 @@
     "latitude": 54.323292,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Frankfurt am Main",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
+    "url": "https://t.me/btcffm",
+    "top": 51,
+    "left": 26,
+    "country": "DE",
+    "state": [
+      "Hessen"
+    ],
+    "city": "Frankfurt am Main",
+    "longitude": 8.6820917,
+    "latitude": 50.1106444,
+    "twitter_username": "BTCFFM",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/820",
+      "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
+    }
   },
   {
     "name": "Einundzwanzig Ingolstadt",
@@ -1477,23 +1652,8 @@
     "latitude": 48.7630165,
     "twitter_username": null,
     "website": null,
-    "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Balingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-balingen",
-    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "top": 71,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
-    ],
-    "city": "Balingen",
-    "longitude": 8.85511,
-    "latitude": 48.27549,
-    "twitter_username": null,
-    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1509,13 +1669,15 @@
     "latitude": 49.7842147,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/566",
+      "start": "2023-12-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/568",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "f523e31f9feef4a4a85d20a72004f5ac9d370ae80e745c479959c403fe68a3a6"
     }
   },
@@ -1534,14 +1696,16 @@
     "latitude": 48.306938,
     "twitter_username": "Einundzwanzig_L",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-31 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/82",
-      "location": "Josef Linz",
-      "description": "Orange Pump-kin Day",
-      "link": "linz.einundzwanzig.space",
-      "attendees": 1,
-      "nostr_note": "4e04313aa17a220ab8d3a05ff84fdf3208d2b7ae1262aecae0a0b70aee4f087d"
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84",
+      "location": "Cafe Froschberg",
+      "description": "Jahresrückblick & Weihnachtsfeier",
+      "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84?l=de",
+      "attendees": 2,
+      "nostr_note": "848356f42e17faaf8b0ad095ee0c03655341970eddb34472f1971c70e3e8d20e"
     }
   },
   {
@@ -1559,6 +1723,8 @@
     "latitude": 47.3744489,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1576,6 +1742,8 @@
     "latitude": 48.208176,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1593,6 +1761,8 @@
     "latitude": 49.4093582,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1610,6 +1780,8 @@
     "latitude": 49.9531599,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1627,9 +1799,11 @@
     "latitude": 49.9927036,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/370",
+      "start": "2023-12-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/372",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
       "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
       "link": "",
@@ -1652,6 +1826,8 @@
     "latitude": 51.2254018,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1667,6 +1843,8 @@
     "latitude": 33.518589,
     "twitter_username": "BtcBirmingham",
     "website": "https://www.meetup.com/members/361882918/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1683,33 +1861,10 @@
     "longitude": 13.3888599,
     "latitude": 52.5170365,
     "twitter_username": null,
-    "website": null,
+    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
-  },
-  {
-    "name": "Bitcoin Berlin",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
-    "top": 25,
-    "left": 65,
-    "country": "DE",
-    "state": [
-      "Berlin"
-    ],
-    "city": "Berlin",
-    "longitude": 13.3888599,
-    "latitude": 52.5170365,
-    "twitter_username": null,
-    "website": null,
-    "next_event": {
-      "start": "2023-10-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/233",
-      "location": "Berlin",
-      "description": "Friedel Richter Restaurant, Torstraße 199, Berlin, BE",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 0,
-      "nostr_note": "468276e71f375468ec1e2d9a71b64fb30e358b3a5b7df258d25792f036178151"
-    }
   },
   {
     "name": "Einundzwanzig Wacken",
@@ -1726,6 +1881,8 @@
     "latitude": 54.020012,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1741,6 +1898,8 @@
     "latitude": 41.0091982,
     "twitter_username": null,
     "website": "https://yirmibir.org",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1756,6 +1915,8 @@
     "latitude": 51.850361,
     "twitter_username": "schlabendorf",
     "website": "https://www.einundzwanzig.space",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1773,6 +1934,8 @@
     "latitude": 51.1721629,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1790,6 +1953,8 @@
     "latitude": 47.7981346,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1807,14 +1972,16 @@
     "latitude": 49.7596208,
     "twitter_username": "EinundzwanzigTR",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/813",
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/920",
       "location": "Paulaner in Zurlauben",
-      "description": "Wir sind heiß und bekommen Besuch aus Berlin, also wird ein Meetup reingeschoben.\nWir treffen uns wie immer im Paulaner in Trier ab 18 Uhr. Natürlich könnt ihr auch mit Sats bezahlen.",
-      "link": null,
+      "description": "Wie immer treffen wir uns im Paulaner. Ihr könnt hier natürlich mit Bitcoin onchain/lightning bezahlen und bekommt dann sogar noch Rabatt🔥",
+      "link": "https://paulaner-tr.de",
       "attendees": 0,
-      "nostr_note": "a0c41d526f68b93dccd2bdea7d6d4d0d43aeb6f89cabf28aecf41d3016f0ea09"
+      "nostr_note": "13f471baba562cf07ad142d54e7405441e84be4ae675e71a22aa614eef343959"
     }
   },
   {
@@ -1832,6 +1999,8 @@
     "latitude": 48.3974003,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1849,6 +2018,8 @@
     "latitude": 50.776351,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1866,6 +2037,8 @@
     "latitude": 51.8260823,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1883,6 +2056,8 @@
     "latitude": 48.9467562,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1898,13 +2073,15 @@
     "latitude": 51.503171,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/772",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/774",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
     }
   },
@@ -1921,7 +2098,17 @@
     "latitude": 49.468056,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-11-30 18:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/917",
+      "location": "St. Wendel, Café Journal",
+      "description": "Nach längerer Zeit endlich mal wieder ein Stammtisch in St. Wendel. Egal ob Anfänger, Fortgeschritten oder Maxi, jeder ist willkommen. ;-)",
+      "link": "https://t.me/einundzwanzigsaarland_stwendel",
+      "attendees": 1,
+      "nostr_note": "27628492aae4ef5b6b2cf28fd80ea534013b925ef216d2a3c87c33443eb294a8"
+    }
   },
   {
     "name": "EINUNDZWANZIG BASEL  - BITCOIN BASEL",
@@ -1936,6 +2123,8 @@
     "latitude": 47.5581077,
     "twitter_username": "einundzwanzigBS",
     "website": "https://bitcoin-basel.ch",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1953,6 +2142,8 @@
     "latitude": 47.5859649,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1970,6 +2161,8 @@
     "latitude": 50.2028622,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -1987,15 +2180,9 @@
     "latitude": 48.3668041,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/814",
-      "location": "Augsburg/Innenstadt, Thing",
-      "description": "Augsburg Plebs Treffen, kommt vorbei...",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "20955519faca9d8404ed1d1d19fa713fab2e6e6e56176ea1911ab90a11ea8aa7"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Mannheim",
@@ -2012,14 +2199,16 @@
     "latitude": 49.4892913,
     "twitter_username": "EinundzwanzigMA",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/411",
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/413",
       "location": "Wird noch bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "b3e79b0758aaf7c431412ff184d075c4e79b23898e69129cc4f99411e8be1abe"
+      "nostr_note": "f44961cea247bfa1c577e9f21bbb2f183583f936a8d36877dcfa1aa6198d0ec8"
     }
   },
   {
@@ -2037,6 +2226,8 @@
     "latitude": 49.3841872,
     "twitter_username": "einundzwanzigSL",
     "website": "https://einundzwanzig.saarland",
+    "simplex": null,
+    "nostr": "npub1jaff4nnja4jhvntk22crt9axtl3n9vrrnxj5hgg2zsezrlp5jxyqexhtrt",
     "next_event": null
   },
   {
@@ -2054,6 +2245,8 @@
     "latitude": 52.03582,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2069,6 +2262,8 @@
     "latitude": 47.074029,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2084,6 +2279,8 @@
     "latitude": 51.199272,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2099,6 +2296,8 @@
     "latitude": 32.666931,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2114,15 +2313,9 @@
     "latitude": 54.792313,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-13 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/736",
-      "location": "Flensburg",
-      "description": "Genauere Infos gibt es in der Telegramgruppe. Bitte schaue dort, wo und wann genau wir uns treffen.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b67d4b27cb507616377b512af5b90f46a1249f51ea06d6f79aaa0285749fca2a"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Gastein",
@@ -2137,6 +2330,8 @@
     "latitude": 47.114349,
     "twitter_username": "BtcGastein",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2154,14 +2349,16 @@
     "latitude": 49.0195333,
     "twitter_username": "EinundzwanzigRg",
     "website": "https://www.bitcoin-regensburg.de",
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-01 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/787",
+      "start": "2023-12-03 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/918",
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
-      "description": null,
-      "link": "https://g.co/kgs/1Lq3Mv",
-      "attendees": 0,
-      "nostr_note": "8f20c9636b4dc4e4802d447dfedb290165c55499d445dd860f5904751749c227"
+      "description": "Monatliches Meetup.\nJeden ersten Sonntag im Monat.\nBitcoin Treffen Regensburg",
+      "link": "https://g.co/kgs/4Ed9iN",
+      "attendees": 4,
+      "nostr_note": "c5f5f62115d267b033330f655767a78c83d7197113577f3f0849018331509a9e"
     }
   },
   {
@@ -2177,6 +2374,8 @@
     "latitude": 54.95,
     "twitter_username": "@Steffux75",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2192,40 +2391,9 @@
     "latitude": 50.336731,
     "twitter_username": "EinundzwanzigFB",
     "website": null,
-    "next_event": {
-      "start": "2023-11-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/799",
-      "location": "Musikbistro",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://maps.app.goo.gl/KkYQMoxLi5r3ktvU6?g_st=ic",
-      "attendees": 0,
-      "nostr_note": "25710572cb867c96049aaf545abdb151f3be2d97c9748bd10c1c8ee3a72a8350"
-    }
-  },
-  {
-    "name": "Bitcoin München",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
-    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
-    "top": 72,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Bayern"
-    ],
-    "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": "bitcoinmuc",
-    "website": "https://www.meetup.com/Bitcoin-Munich/",
-    "next_event": {
-      "start": "2023-10-01 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/802",
-      "location": "₿☕ Satoshis Coffeeshop Open House",
-      "description": "Jeden ersten Sonntag im Monat ist zukünftig Open House in Satoshis Coffeeshop ab 16 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Diskutiere mit anderen Teilnehmern über die neuesten Entwicklungen, Trends und Herausforderungen in der Bitcoin-Welt.\n\nKnüpfe Kontakte zu anderen Bitcoin-Enthusiasten, Investoren, Unternehmern und Entwicklern. Teile deine Erfahrungen und finde potenzielle Kooperationspartner für zukünftige Projekte.\n\nBring gerne Freunde und Bekannte mit, um das Bitcoin-Netzwerk weiter zu stärken und die Zukunft des Geldes zu gestalten.\n\nDie Möglichkeit für (Kurz-) Vorträge und Projektvorstellungen ist gegeben, entsprechendes Equipment und Platz dafür ist vorhanden, am besten im Voraus mit den Organisatoren absprechen.\n\nBei Bedarf wird es einen kleinen Einsteiger-Vortrag geben.\n\n**Format:** Möglichkeit zum Co-Working, Hang-out sowie (auch kurzfristig spontan Kurz-) Vorträge, Workshops, Diskussionen, oder einfach nur gemütliches Zusammensein.\n\n**Sprache:** Meist deutsch\n\n**Ablauf:**\n\n16:00 Türen sind offen, geselliges Zusammensein\n\n16:30 Bei Bedarf Bitcoin-Einführungsvortrag/-workshop/-seminar\n\n18:00 Mögliche spezielle Programmpunkte wie Projektvorstellungen oder fortgeschrittene Themen werden eher abends angesetzt\n\n23:59 Offenes Ende\n\n**Zielgruppe:** Anfänger sowie Fortgeschrittene\n\n**Erwartete Anzahl Besucher:** 10-20\n\n**Streaming/Recording:** tbd\n\n**Wann:** Sonntag, 01. Oktober 2023, 16:00 Uhr lokale Zeit (CET), Blockzeit ~810.085\n\n**Ort diesmal:** Satoshis Coffeeshop / Stemmerhof Studios, Plinganserstraße 6, Eingang “THEATER” neben “Restaurant ÖEINS”, 1. Stock\n\n* [https://bitcoinlight.house/satoshis-coffeeshop/](https://bitcoinlight.house/satoshis-coffeeshop/)\n* [https://www.stemmerhofstudios.com/](https://www.stemmerhofstudios.com/)\n* [https://goo.gl/maps/K2kH6sirnj9CSEWg6](https://goo.gl/maps/K2kH6sirnj9CSEWg6)\n* [https://www.osm.org/node/10140387989](https://www.osm.org/node/10140387989)\n\n**Mitbringen:** Bei Bedarf kann eigene Verpflegung mitgebracht werden. Das Mitbringen eigener Geräte (Laptop, Mobile Phone, etc) ist empfohlen für die Hands-On-Erfahrung.\n\n**Parken:** Vor Ort kostenpflichtig, in der Nähe mit etwas Suchaufwand möglich\n\n**ÖPNV:** BRB/RB/S7 Harras, Ausgang Nord-Ost Margaretenstraße; oder U6 Harras, Ausgang Ost Plinganserstraße; oder Bus 53/153 Sendlinger Kirche\n\n**Teilnahmegebühr:** frei\n\n**Anmeldung:** nicht notwendig, einfach vorbeikommen\n\n**Essen und Trinken:** Frisch gebrühter Kaffee aus der Espressomaschine und andere Getränke sowie eventuell vorhandene Snacks gegen Spende vorzugsweise via Bitcoin/Lightning. Verpflegung kann optional auch mitgebracht oder geholt werden, oder es organisiert sich eine Sammelbestellung, oder wir kehren nach dem Programmteil ein in eine der Lokalitäten auf dem Stemmerhof-Gelände, das entscheidet sich meist spontan vor Ort bzw nach eurer individuellen Präferenz.\n\n**Bezahlen mit Bitcoin möglich:** Vorhandene Verpflegung gegen Spende vorzugsweise via Bitcoin/Lightning, allgemeine Spende für Raummiete auch gern gesehen\n\n**Wie komm ich an Bitcoin?** Wir verschenken Kleinstbeträge (Satoshis), wenn ihr ein Lightning-fähiges Wallet bereit habt. Ferner könnte es Leute geben, die rote Bändchen tragen, die signalisieren, dass sie Bitcoin gegen Euro tauschen würden, bzw grüne Bändchen für umgekehrt. Oder ihr müsst einfach rumfragen.\n\n**Medienrichtlinie:** Viele Teilnehmer schätzen ihre Privatsphäre, bitte individuell fragen, bevor ihr Fotos oder Aufnahmen macht! Falls offiziell aufgenommen wird, bitte achtet wenn nötig selbst drauf, außerhalb der Schusslinie zu bleiben.\n\n**Kontaktiert uns:**\n\n* Twitter: [https://twitter.com/bitcoinmuc](https://twitter.com/bitcoinmuc)\n* Telegram: [https://t.me/joinchat/CYllaksSLloRHorac85fIQ](https://t.me/joinchat/CYllaksSLloRHorac85fIQ)\n\nBis demnächst!",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house-2/",
-      "attendees": 0,
-      "nostr_note": "d339ff8b4f0abedd3fdb94f7c07a2105b7a06607f75cb907da86045fedd14775"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Mecklenburg-Vorpommern",
@@ -2242,23 +2410,8 @@
     "latitude": 53.635502,
     "twitter_username": null,
     "website": null,
-    "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Recklinghausen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
-    "url": "https://t.me/Einundzwanzig_Recklinghausen",
-    "top": 33,
-    "left": 22,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
-    ],
-    "city": "Recklinghausen",
-    "longitude": 7.1978546,
-    "latitude": 51.6143815,
-    "twitter_username": null,
-    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2274,23 +2427,8 @@
     "latitude": 42.644661,
     "twitter_username": "@Nackoo2000",
     "website": null,
-    "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Styria",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
-    "url": "https://t.me/Einundzwanzig_Styria",
-    "top": 84,
-    "left": 87,
-    "country": "AT",
-    "state": [
-      "Steiermark"
-    ],
-    "city": "Styria",
-    "longitude": 15.1666665,
-    "latitude": 47.2500001,
-    "twitter_username": "EinundzwanzigSt",
-    "website": null,
+    "simplex": null,
+    "nostr": "npub18jp8mdkytalxyg06zxdevpzwkxjpy9r2rat8gapgwnmmyejp3lps7edjnx",
     "next_event": null
   },
   {
@@ -2306,6 +2444,8 @@
     "latitude": 42.644661,
     "twitter_username": "Nackoo2000",
     "website": null,
+    "simplex": null,
+    "nostr": "npub18jp8mdkytalxyg06zxdevpzwkxjpy9r2rat8gapgwnmmyejp3lps7edjnx",
     "next_event": null
   },
   {
@@ -2323,7 +2463,17 @@
     "latitude": 50.5542328,
     "twitter_username": "einundzwanzigFD",
     "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/914",
+      "location": "Wiesenmühle Fulda",
+      "description": "Treffen uns ab 18:30 Uhr im Brauhaus der Wiesenmühle in Fulda. Tisch ist reserviert auf Reher. Am besten vorher in der Gruppe abstimmen, damit genug Platz vorhanden ist ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8a3999e9fef5f86d33ff8419f01d62e8cf678ba0a88295e2551e9c1da0d59b6f"
+    }
   },
   {
     "name": "Einundzwanzig Sigmaringen",
@@ -2340,6 +2490,8 @@
     "latitude": 48.085758,
     "twitter_username": "EinundzwanzigSi",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2355,6 +2507,8 @@
     "latitude": 50.459821,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2370,15 +2524,9 @@
     "latitude": 50.587222,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/812",
-      "location": "Gießen Jhring's Wirtshaus",
-      "description": "Sechster Termin: 06.10 19 Uhr\nLocation: \nJhring's Wirtshaus\nhttps://goo.gl/maps/Q8rwUNW8WjLwUtSt6",
-      "link": "https://goo.gl/maps/Q8rwUNW8WjLwUtSt6",
-      "attendees": 0,
-      "nostr_note": "d5a90608eea4f571c89c3612ebcadac3d9631574c7dba602f86911ecc682846b"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "21Bissendorf (est. 798421)",
@@ -2393,7 +2541,55 @@
     "latitude": 51.8260823,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Styria",
+    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
+    "url": "https://t.me/Einundzwanzig_Styria",
+    "top": 84,
+    "left": 87,
+    "country": "AT",
+    "state": [
+      "Steiermark"
+    ],
+    "city": "Styria",
+    "longitude": 15.1666665,
+    "latitude": 47.2500001,
+    "twitter_username": "EinundzwanzigSt",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Recklinghausen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
+    "url": "https://t.me/Einundzwanzig_Recklinghausen",
+    "top": 33,
+    "left": 22,
+    "country": "DE",
+    "state": [
+      "Nordrhein-Westfalen"
+    ],
+    "city": "Recklinghausen",
+    "longitude": 7.1978546,
+    "latitude": 51.6143815,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/900",
+      "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
+      "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7aded67a012a2f24f2eabc7fbe1ba2e65205d3f6b5a152eb0834f44f53751086"
+    }
   },
   {
     "name": "Einundzwanzig Dingolfing-Landau",
@@ -2408,6 +2604,8 @@
     "latitude": 48.628471,
     "twitter_username": "Schlimmer0815",
     "website": null,
+    "simplex": null,
+    "nostr": "npub1ml8m49q8g0j5hkm7rqtszn668raku2htmcq4mfr29vdkg4gcruesdp62nn",
     "next_event": null
   },
   {
@@ -2423,14 +2621,16 @@
     "latitude": 51.9867058,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-20 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/37",
+      "start": "2023-12-15 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/39",
       "location": "Paderborn/Bielefeld",
       "description": "Monatlich wechselt das Meetup zwischen Bielefeld und Paderborn. die genaue Location wird in der Telegram-Gruppe abgestimmt und auch über Twitter veröffentlicht.",
       "link": "https://t.me/einundzwanzig_owl",
       "attendees": 0,
-      "nostr_note": "e4a0027933f50bd3ca136c0295867244586bb579ad6b58d3bd992c47fcd034e8"
+      "nostr_note": "62132832d9154ee37087d259c473ca53dfc6d61c7052bcc364a4cd48b4d9939a"
     }
   },
   {
@@ -2448,6 +2648,8 @@
     "latitude": 52.4009309,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2463,6 +2665,8 @@
     "latitude": 42.497681,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2480,6 +2684,8 @@
     "latitude": 47.516232,
     "twitter_username": "bitcoin_at",
     "website": "https://bitcoin-austria.at/",
+    "simplex": null,
+    "nostr": "npub16tcathdvfgx30ds3fjy8d80kwwdks5pe29ms4yda2ydzqat4uydsyq5jkf",
     "next_event": null
   },
   {
@@ -2495,6 +2701,8 @@
     "latitude": 47.050933,
     "twitter_username": null,
     "website": "https://instagram.com/bitcoin_luzern?igshid=ZWIzMWE5ZmU3Zg",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2510,6 +2718,8 @@
     "latitude": 53.635502,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2525,22 +2735,34 @@
     "latitude": 51.8260823,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
-    "name": "Bussen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bussen",
-    "url": "https://t.me/+Aywy5oJoa4k4N2Qy",
+    "name": "Einundzwanzig Strohgäu",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
+    "url": "https://t.me/+mEqPNx7Xx_M4MGQ6",
     "top": null,
     "left": null,
     "country": "DE",
     "state": null,
-    "city": "Aderzhofen",
-    "longitude": 0,
-    "latitude": 0,
+    "city": "Region Strohgäu ",
+    "longitude": 9.01803,
+    "latitude": 48.816685,
     "twitter_username": null,
-    "website": "https://t.me/+Aywy5oJoa4k4N2Qy",
-    "next_event": null
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-11-30 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/868",
+      "location": "Höfingen",
+      "description": "10. Stammtisch: Do, 30.11. 20Uhr im Ochsen in Höfingen (🚨nur Bargeldzahlung möglich)\n\nStammtisch immer am letzten Donnerstag des Monats.\nBitcoin-only❗\n\nEinladungslink:\nhttps://t.me/+mEqPNx7Xx_M4MGQ6",
+      "link": "https://maps.app.goo.gl/icGAaK2FNJcxst3B6",
+      "attendees": 1,
+      "nostr_note": "4898780f769d4cfcb1c4162e2cf918ec09f7349dca64b2048c875874bf35d103"
+    }
   },
   {
     "name": "Einundzwanzig Freising",
@@ -2557,6 +2779,8 @@
     "latitude": 48.4008273,
     "twitter_username": "einundzwanzigfs",
     "website": "https://einundzwanzig.freising.money",
+    "simplex": null,
+    "nostr": "npub1lj4j5sfj4tpnx6zg9fqpvfa4psst7xdkstystmhnmrgeasfj7h5s437up5",
     "next_event": null
   },
   {
@@ -2574,6 +2798,8 @@
     "latitude": 53.5122853,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2589,6 +2815,8 @@
     "latitude": 48.000542,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2606,9 +2834,11 @@
     "latitude": 47.659216,
     "twitter_username": "einundzwanzigKN",
     "website": "https://sites.google.com/view/21-meetup-kn/startseite",
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-27 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/430",
+      "start": "2023-12-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/432",
       "location": "Bitte in Telegram schauen",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": null,
@@ -2629,38 +2859,9 @@
     "latitude": 52.621922,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-10-02 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/816",
-      "location": "Hatti‘s Restaurant ",
-      "description": "Hatti‘s Restaurant \nZöllnerstraße 22\n29221 Celle\n\nBei gutem Wetter draußen.",
-      "link": "https://hattis-restaurant.eatbu.com/",
-      "attendees": 0,
-      "nostr_note": "32b4c3571a6ea6d29f40ca7f5623a5fcb7b957ca2d9de58be0b32e59fe677b43"
-    }
-  },
-  {
-    "name": "Einundzwanzig Fehmarn",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
-    "url": "https://t.me/Bitcoin_Sonnenkinder_Fehmarn",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
-    "city": "Fehmarn",
-    "longitude": 11.19668,
-    "latitude": 54.43562,
-    "twitter_username": null,
-    "website": null,
-    "next_event": {
-      "start": "2023-10-07 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/815",
-      "location": "Fehmarn; Location folgt noch",
-      "description": "Moin,\n\ndiesmal mit gut 14 Tage vorlauf. Vielleicht somit für ein paar Gäste und Interessierte etwas besser planbar.\nLocation folgt noch. Sofern in den Einundzwanzig Telegramgruppen (Nord; Hamburg; Fehmarn) gewünscht kann die Zeit auch noch etwas nach hinten geschoben werden.\nIch dachte, 16:00 ist für Sonne ganz gut und für ein Stück Kuchen nicht zu späte und für Abendbrot nicht zu früh.\n\nBis dahin\nLG\n",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "2b4fb4f8175778d36d0b42dd3f2ff489f998f4dee7b0f5b116742039201b22f6"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Rohrbach",
@@ -2675,15 +2876,9 @@
     "latitude": 48.570985,
     "twitter_username": null,
     "website": null,
-    "next_event": {
-      "start": "2023-09-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/811",
-      "location": "Stiftskell Schlägl",
-      "description": "Erstes Meetup",
-      "link": "https://www.stift-schlaegl.at/essen-trinken/stiftskeller/",
-      "attendees": 1,
-      "nostr_note": "f1b3cf9c747e04331008d7654415b5da8753da940c6a9da549c3030555dcabd2"
-    }
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Ortenaukreis",
@@ -2698,6 +2893,8 @@
     "latitude": 48.46801,
     "twitter_username": "21ortenaukreis",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2713,6 +2910,33 @@
     "latitude": 49.19368,
     "twitter_username": "einundzwanzigld",
     "website": null,
+    "simplex": null,
+    "nostr": "npub1s40yqu44c4tu355kkkjx2cvjs2uhvgaceqchyhdm45jfpq3dh03q3ytdxj",
+    "next_event": {
+      "start": "2023-12-19 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/919",
+      "location": "Landau in der Pfalz",
+      "description": "Erst Weihnachtsmarkt bei schönem Wetter und dann Bar/Restaurantbesuch.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3b3598b56d5dc7af81232bf0f3d5948a9868fd30edc896ff4f6bb33a10750d6d"
+    }
+  },
+  {
+    "name": "Bitcoin Meetup Waldenrath ",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
+    "url": "https://t.me/waldenrath",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Waldenrath",
+    "longitude": 6.06991,
+    "latitude": 51.014389,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2728,6 +2952,8 @@
     "latitude": 50.587222,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2745,6 +2971,8 @@
     "latitude": 47.6500279,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2762,6 +2990,8 @@
     "latitude": 52.1315889,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2777,30 +3007,34 @@
     "latitude": 49.70363,
     "twitter_username": null,
     "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-11 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/938",
+      "location": "Restaurant & Cocktailbar Habanero",
+      "description": "Obergasse 16, 64673 Zwingenberg",
+      "link": "https://maps.app.goo.gl/nowKgE1xEMWxbBkM8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "702c643f09bd97539f46566f344c21017aaeb4c7d2d1421adbfe20be65d7c0f5"
+    }
   },
   {
-    "name": "Bitcoin Beach Lübeck Travemünde",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
-    "url": "https://t.me/BitcoinBeachMeetupTravemuende",
+    "name": "Einundzwanzig Berlin Nord",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin-nord",
+    "url": "https://t.me/+rEmpixbyvEwwNThi",
     "top": null,
     "left": null,
     "country": "DE",
     "state": null,
-    "city": "Travemünde ",
-    "longitude": 10.86834,
-    "latitude": 53.961788,
+    "city": "Berlin Nord",
+    "longitude": 13.389964,
+    "latitude": 52.62206,
     "twitter_username": null,
-    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
-    "next_event": {
-      "start": "2023-10-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/805",
-      "location": "Lübeck Travemünde Granat Grillhaus Kurgartenstraße 133",
-      "description": " 1# Tech Meetup\nErstellung eines Bitcoin Spiels.\nBrainstorming: Gamedesign, Softwareentwicklung, Embedded Systems, 3D - Printing, Vertrieb, open source.\n",
-      "link": "",
-      "attendees": 0,
-      "nostr_note": "ea8a7c23cd4439554876785c52afb0e349a4a8a9662905527da28342e52631e7"
-    }
+    "website": "https://www.meetup.com/Bitcoin-Lab-Berlin/events/",
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Landshut",
@@ -2815,6 +3049,25 @@
     "latitude": 48.544193,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Villingen-Schwenningen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-villingen-schwenningen",
+    "url": "https://t.me/+z8CNwSG7M38xOThi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Villingen-Schwenningen",
+    "longitude": 8.464087,
+    "latitude": 48.059402,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2832,6 +3085,8 @@
     "latitude": 49.0068705,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2849,9 +3104,11 @@
     "latitude": 49.8851869,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/356",
+      "start": "2023-12-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/358",
       "location": "Nieder-Ramstädter Str. 170, 64285 Darmstadt",
       "description": "Willkommen in der Lilienschänke Sportsbar,\nder offiziellen Vereinsgaststätte des Bundesligisten SV Darmstadt 98. Bei uns sehen Sie alle Spiele der Fußball Bundesliga live und genießen die gutbürgerlichen Speisen des Hauses.\n\nKulinarisch hat die Lilienschänke SportsBar auch einiges zu bieten. Von saftigen Steaks, über knusprige Schnitzel zu XL Burgern bietet die Küche eine große Vielfalt. Die Küche zeichnet sich vor allem darin aus, dass wir nur hochwertige und frische Produkte verwenden. An Heimspielen bieten wir unseren Gästen auch Outdoor zwei Theken mit einer der modernsten Zapfstationen an. So bleibt das Bier immer schön kühl und frisch. Dazu eine leckere Stadionwurst aus dem Lilienschänken-Grillwagen. Überzeugen Sie sich! Fam Menzer und das gesamte Lilienschänken SportsBar Team freuen sich auf Ihren Besuch.",
       "link": "https://www.lilienschaenke-sportsbar.de/",
@@ -2874,6 +3131,8 @@
     "latitude": 48.9615975,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2891,6 +3150,8 @@
     "latitude": 48.4320329,
     "twitter_username": "",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2906,11 +3167,13 @@
     "latitude": 48.456575,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/480",
+      "start": "2023-12-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/482",
       "location": "Passau oder Schärding",
-      "description": "24. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "26. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "nostr_note": "80a816e21a3dfc83e4aec6d732a162016b28e7f4e76cf60cb2c2e53d50329913"
@@ -2931,14 +3194,16 @@
     "latitude": 49.3028611,
     "twitter_username": "einundzwanzigFR",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/252",
-      "location": "Bamberg, Café Esspress",
-      "description": "Location:\nCafé Esspress\nAu Straße 33\n96047 Bamberg",
-      "link": "https://goo.gl/maps/uVGTaivtQ3t1znU97",
-      "attendees": 0,
-      "nostr_note": "7004474c67419619a88a61c334f437d40b3100f8a9441b76934c5aba4d73392f"
+      "start": "2023-12-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/249",
+      "location": "Fürth, Cafe Zanetta",
+      "description": "Location:\nCafe Zanetta\nNeumannstraße 28, 90763 Fürth",
+      "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
+      "attendees": 3,
+      "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
     }
   },
   {
@@ -2956,6 +3221,8 @@
     "latitude": 50.3533278,
     "twitter_username": "EinundzwanzigKo",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -2973,9 +3240,11 @@
     "latitude": 50.938361,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/514",
+      "start": "2023-12-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/516",
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
@@ -2998,6 +3267,8 @@
     "latitude": 50.8749804,
     "twitter_username": "Bitcoinizer",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3015,14 +3286,16 @@
     "latitude": 50.0820384,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-26 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/505",
+      "start": "2023-11-30 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/506",
       "location": "Wiesbaden",
       "description": "Die Gruppe für Bitcoiner aus Wiesbaden & Umgebung",
       "link": "https://t.me/einundzwanzigwiesbaden",
       "attendees": 1,
-      "nostr_note": "9aebcf8781ecec18d60a64eab1d052e14073a2b061f40327573f5b24121c1cd2"
+      "nostr_note": "676f7369e36efcb36452809807d990fcc46e36da95d1d639052de84a75f3ab96"
     }
   },
   {
@@ -3040,6 +3313,8 @@
     "latitude": 51.3406321,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3057,6 +3332,8 @@
     "latitude": 51.4582235,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3074,6 +3351,8 @@
     "latitude": 54.485378,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3091,9 +3370,11 @@
     "latitude": 53.1389753,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": "npub10ldent6aecfgy74ayd65qad5c4ryyam9fv7e8w5xyjfy5zrnlm2qtc8vj0",
     "next_event": {
-      "start": "2023-10-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/384",
+      "start": "2023-12-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/386",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -3114,6 +3395,8 @@
     "latitude": 56.661449,
     "twitter_username": null,
     "website": "https://www.eventbrite.de/e/kalmar-bitcoin-open-blockchain-meetup-tickets-644994053577",
+    "simplex": null,
+    "nostr": "note1m9wc7285ehvy7kjac98c8jzhz0dse60saapkar6f8hfgaq96rjasukpfmu",
     "next_event": null
   },
   {
@@ -3131,47 +3414,26 @@
     "latitude": 50.0012314,
     "twitter_username": "@EinundzwanzigMZ",
     "website": null,
+    "simplex": null,
+    "nostr": "npub16aaqhqyryr3tuyq208whklngdulm754zukpfgf2g34dkd023uysqz6r9kr",
     "next_event": null
   },
   {
-    "name": "Einundzwanzig Berlin Nord",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin-nord",
-    "url": "https://t.me/+rEmpixbyvEwwNThi",
+    "name": "Ellwangen ",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/ellwangen",
+    "url": "https://t.me/einundzwanzigEllwangen",
     "top": null,
     "left": null,
     "country": "DE",
     "state": null,
-    "city": "Berlin",
-    "longitude": 13.3888599,
-    "latitude": 52.5170365,
+    "city": "Ellwangen",
+    "longitude": 10.131975,
+    "latitude": 48.9615975,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Lübeck",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
-    "url": "https://t.me/Einundzwanzig_Luebeck",
-    "top": 11,
-    "left": 45,
-    "country": "DE",
-    "state": [
-      "Hamburg"
-    ],
-    "city": "Lübeck",
-    "longitude": 10.686559,
-    "latitude": 53.865467,
-    "twitter_username": null,
-    "website": "https://www.bitcoin-luebeck.de/",
-    "next_event": {
-      "start": "2023-10-31 18:10:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/340",
-      "location": "Lübeck",
-      "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de",
-      "link": "https://www.bitcoin-luebeck.de/",
-      "attendees": 0,
-      "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
-    }
   },
   {
     "name": "einundzwanzig Ludwigsburg ",
@@ -3186,6 +3448,8 @@
     "latitude": 48.89731,
     "twitter_username": "einundzwanzigLB",
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3203,6 +3467,8 @@
     "latitude": 51.0493286,
     "twitter_username": null,
     "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3218,6 +3484,8 @@
     "latitude": 47.057869,
     "twitter_username": null,
     "website": "https://www.meetup.com/de-DE/bitcoin-bern/events/293293252/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3233,6 +3501,8 @@
     "latitude": 47.04084,
     "twitter_username": "Bitcoin_Chalet",
     "website": "https://www.instagram.com/bergbeiz_adlerhorst_oberiberg/",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3250,6 +3520,8 @@
     "latitude": 52.375893,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3265,15 +3537,9 @@
     "latitude": 53.1175,
     "twitter_username": "zitadelleum",
     "website": null,
-    "next_event": {
-      "start": "2023-10-27 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/647",
-      "location": null,
-      "description": "Erstes Meetup und direkt im Winter, daher nur begrenzte Anzahl an Plätzen ☝🏻",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "6d8f493ca0d384a04be1666d0909b3b883f9dc70fa2a5dfd4388cc5b1e34410f"
-    }
+    "simplex": null,
+    "nostr": "npub13lk6l8tnxfp76x3qxed2h5qlxc3694eha9glc7v2x8mmxtekdlnqcfmax8",
+    "next_event": null
   },
   {
     "name": "Aschaffenburg",
@@ -3288,6 +3554,8 @@
     "latitude": 49.973019,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3303,24 +3571,17 @@
     "latitude": 51.481846,
     "twitter_username": null,
     "website": null,
-    "next_event": null
-  },
-  {
-    "name": "Einundzwanzig Frankfurt am Main",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
-    "url": "https://t.me/btcffm",
-    "top": 51,
-    "left": 26,
-    "country": "DE",
-    "state": [
-      "Hessen"
-    ],
-    "city": "Frankfurt am Main",
-    "longitude": 8.6820917,
-    "latitude": 50.1106444,
-    "twitter_username": null,
-    "website": null,
-    "next_event": null
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/887",
+      "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
+      "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "883e2e14fe817389fa51b948da78f897332e65b73db30d0b56ffb8fe5ea4cd9c"
+    }
   },
   {
     "name": "Einundzwanzig Odenwald",
@@ -3335,6 +3596,8 @@
     "latitude": 49.663979,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3350,6 +3613,8 @@
     "latitude": 48.893379,
     "twitter_username": "EinundzwanzigP",
     "website": "https://t.me/EinundzwanzigPforzheim",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3365,6 +3630,8 @@
     "latitude": 53.538792,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3380,6 +3647,8 @@
     "latitude": 47.0708678,
     "twitter_username": "einundzwanzig_a9",
     "website": "",
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   },
   {
@@ -3397,14 +3666,41 @@
     "latitude": 51.5142273,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": {
-      "start": "2023-10-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/715",
-      "location": "Central Bar, Markt 6-8, Dortmund",
+      "start": "2023-12-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/717",
+      "location": "Glorious Café, Kleppingstraße 2, 44135 Dortmund",
       "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Central.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
       "link": "https://goo.gl/maps/V6XjU25W7fbtp7gp8",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2da0ef34fd7e576c0d4166585243dfa9c22c506f9faf19d5ab550425f6480eb0"
+    }
+  },
+  {
+    "name": "Einundzwanzig Schwarzwald-Baar",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
+    "url": "http://t.me/einundzwanzigsbk",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Schwarzwald-Baar-Kreis",
+    "longitude": 8.493957,
+    "latitude": 47.977421,
+    "twitter_username": "derflx",
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/922",
+      "location": "Zum Wilden Michel, 78120 Furtwangen, Linach 6",
+      "description": "Wer: Einundzwanzig Schwarzwald Baar - 3.Meetup\n\nWann: 16.12.2023 un 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\n",
+      "link": "https://g.co/kgs/v7Tsct",
+      "attendees": 1,
+      "nostr_note": "3fb6eb9ebdb286789d554481b1e31829d073c2c4abe7c76484313f848b9edf1a"
     }
   },
   {
@@ -3420,6 +3716,270 @@
     "latitude": 49.791306,
     "twitter_username": null,
     "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/916",
+      "location": "Blauer Adler",
+      "description": "Wer ein gutes, in Spezialsosse eingelegtes, Halbes Hähnchen essen will muss es ein Tag vorher vorbestellen 093180414605. ",
+      "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "6aae926d38136cd6104269d0008f7d8031580762a48a3a741b4a62ff8289daac"
+    }
+  },
+  {
+    "name": "Einundzwanzig Fehmarn",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
+    "url": "https://t.me/Einundzwanzig_Bitcoin_Fehmarn",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Fehmarn",
+    "longitude": 11.19668,
+    "latitude": 54.43562,
+    "twitter_username": "OH_Bitcoin",
+    "website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn?l=de",
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Zollern-Alb-Kreis (Balingen)",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
+    "top": 71,
+    "left": 27,
+    "country": "DE",
+    "state": [
+      "Baden-Württemberg"
+    ],
+    "city": "Balingen",
+    "longitude": 8.85511,
+    "latitude": 48.27549,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/923",
+      "location": "Dotternhausen Schiefererlebnis ",
+      "description": "Furchtlos und Trew",
+      "link": "https://maps.app.goo.gl/xWw8ULvXSmnW13BA8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "b14e10f36c23bdd547e1088ec78f825f1343103742daf42303ec6ee47f444bdd"
+    }
+  },
+  {
+    "name": "Bussen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bussen",
+    "url": "https://t.me/+Aywy5oJoa4k4N2Qy",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Aderzhofen/Bussen",
+    "longitude": 9.5666667,
+    "latitude": 48.1666667,
+    "twitter_username": null,
+    "website": "https://t.me/+Aywy5oJoa4k4N2Qy",
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Bitcoin Berlin",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
+    "url": "https://t.me/Einundzwanzig_Berlin",
+    "top": 25,
+    "left": 65,
+    "country": "DE",
+    "state": [
+      "Berlin"
+    ],
+    "city": "Bitcoin Berlin",
+    "longitude": 13.411951,
+    "latitude": 52.404765,
+    "twitter_username": null,
+    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
+    "simplex": null,
+    "nostr": null,
+    "next_event": {
+      "start": "2023-12-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/235",
+      "location": "Berlin",
+      "description": "Friedel Richter Restaurant, Torstraße 199, Berlin, BE",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "attendees": 0,
+      "nostr_note": "732fb3ff58bb5e809eaf23d6a313a94fb716b7a987eae37daa0c2a2bdbc5b785"
+    }
+  },
+  {
+    "name": "Bitcoin München",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
+    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
+    "top": 72,
+    "left": 53,
+    "country": "DE",
+    "state": [
+      "Bayern"
+    ],
+    "city": "München (80802)",
+    "longitude": 11.58739,
+    "latitude": 48.163132,
+    "twitter_username": "bitcoinmuc",
+    "website": "https://www.meetup.com/Bitcoin-Munich/",
+    "simplex": null,
+    "nostr": "npub1j067r9nj4hpsw3wk74pjqme4qw7hq485285rytadjq2sd0hcnv4s9naj84",
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Grenzland",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
+    "url": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Grenzland DE/NL",
+    "longitude": 6.213012,
+    "latitude": 51.401305,
+    "twitter_username": null,
+    "website": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FU8qH6SNLyo_yAy88bJZpEJE9rW3GL36i%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1dwpAK1iYpdUfdPKzEzfgjB1Ebh9ouHtGjc2Mc3uvj0%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22P6H1G3RadnLvt2qaTSMMKw%3D%3D%22%7D",
+    "nostr": "npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
+    "next_event": null
+  },
+  {
+    "name": "Einundzwanzig Bremen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "top": 20,
+    "left": 29,
+    "country": "DE",
+    "state": [
+      "Bremen"
+    ],
+    "city": "Bremen",
+    "longitude": 8.8071646,
+    "latitude": 53.0758196,
+    "twitter_username": "Einundzwanzig_N",
+    "website": null,
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FZENAnlo5AMQVPGRBVQMC8jGbBk5XtfS4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1jeKA3zLhP9gqYu5kcmgSptqpZE2EQozzQ7MR7BNVXU%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22wj43zKtow9d0-H-3Oaga1Q%3D%3D%22%7D",
+    "nostr": "npub1qk7quv6gc3faa276gyv3e46ahjxy0ghnmq02ymeeqsljutzue4eqpfsxue",
+    "next_event": {
+      "start": "2023-11-29 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/627",
+      "location": "Lagerhaus, Bremen",
+      "description": null,
+      "link": "https://kulturzentrum-lagerhaus.de/",
+      "attendees": 1,
+      "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
+    }
+  },
+  {
+    "name": "Einundzwanzig Ulm",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm",
+    "url": "https://t.me/Einundzwandig_Ulm",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Ulm",
+    "longitude": 9.9934336,
+    "latitude": 48.3974003,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Bitcoin Beach Lübeck-Travemünde",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
+    "url": "",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Travemünde ",
+    "longitude": 10.86834,
+    "latitude": 53.961788,
+    "twitter_username": null,
+    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fm4o-ekRplg37xXDzJNYN84fI_N7L82t5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuXFeBQtzFr8LlpOzrXin9xahMsO7sMnK-0Gd-QPX5Eo%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jczQHOdNFT56DLY89l29Wg%3D%3D%22%7D",
+    "nostr": "npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
+    "next_event": {
+      "start": "2023-12-02 15:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/881",
+      "location": "Lübeck-Travemünde",
+      "description": "16:30 Uhr Winterbaden in der Ostsee, Treffpunkt: aja Hotel Eingang Bar\n17:00 Uhr Open-Air Kino \"Human B\", Konzertmuschel Brüggmanngarten\n19:00 Uhr Meetup inkl. Votrag: \"MultiSig Basics\", aja Hotel Lounge",
+      "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
+      "attendees": 0,
+      "nostr_note": "0eb122c3224c35ec41ce68b9412da933273eb7cd9e463d09a19bf46bc0ebc6ec"
+    }
+  },
+  {
+    "name": "Einundzwanzig Lübeck",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
+    "url": "https://t.me/Einundzwanzig_Luebeck",
+    "top": 11,
+    "left": 45,
+    "country": "DE",
+    "state": [
+      "Hamburg"
+    ],
+    "city": "Lübeck",
+    "longitude": 10.686559,
+    "latitude": 53.865467,
+    "twitter_username": null,
+    "website": "https://www.bitcoin-luebeck.de/",
+    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2F7SI7Patv9y-N97WhnqTnAjwnbZso8qAq%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAKaRd_gRyZ1gQRKcQNJQnOSdt_R0pxTXyQAHjwKQLFSA%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22MCWSE6e5YeNbUi6Hq_AN5A%3D%3D%22%7D",
+    "nostr": null,
+    "next_event": {
+      "start": "2023-11-28 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/341",
+      "location": "Lübeck, Beckergrube 13-17, Le Theatre Cafe Restaurant Bar",
+      "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de",
+      "link": "https://www.bitcoin-luebeck.de/",
+      "attendees": 1,
+      "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
+    }
+  },
+  {
+    "name": "Einundzwanzig Lingen",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lingen",
+    "url": "https://t.me/+9cxpb5YyGAg1NDNi",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Lingen",
+    "longitude": 7.32328,
+    "latitude": 52.52306,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
+    "next_event": null
+  },
+  {
+    "name": "Meetup Düsseldorf",
+    "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
+    "url": "https://t.me/einundzwanzig_duesseldorf",
+    "top": null,
+    "left": null,
+    "country": "DE",
+    "state": null,
+    "city": "Düsseldorf",
+    "longitude": 6.7763137,
+    "latitude": 51.2254018,
+    "twitter_username": null,
+    "website": null,
+    "simplex": null,
+    "nostr": null,
     "next_event": null
   }
 ]

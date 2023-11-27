@@ -1,7 +1,7 @@
 const { readdirSync, writeFileSync } = require('fs')
 const { basename, join, resolve } = require('path')
 const request = require('sync-request')
-
+const { toMeetupMapInfo } = require('../helpers')
 const meta = require('../content/meta.json')
 const telegram = require('../content/telegram.json')
 const soundboard = require('../content/soundboard.json')
@@ -44,7 +44,8 @@ try {
 }
 
 const block = recentBlocks.length && recentBlocks[0].height
-const date = (new Date()).toJSON().split('T')[0]
+const now = new Date()
+const date = now.toJSON().split('T')[0]
 
 // Telegram
 const telegramData = telegram.map(t =>
@@ -63,7 +64,12 @@ try {
 }
 
 const sortId = m => `${m.country === 'DE' ? '0' : m.country}-${m.name}`
-meetups = meetups.sort((a, b) => sortId(a) > sortId(b) ? 1 : -1)
+meetups = meetups
+  .sort((a, b) => sortId(a) > sortId(b) ? 1 : -1)
+  .map(toMeetupMapInfo)
+
+const upcomingMeetups = meetups.filter(m => m.event && new Date(m.event.start) >= now)
+  .sort((a, b) => new Date(a.event.start) > new Date(b.event.start) ? 1 : -1)
 
 writeJSON(dir('dist', 'meetups.json'), meetups)
 
@@ -72,6 +78,7 @@ writeJSON(dir('generated', 'site-data.json'), {
   block,
   meta,
   meetups,
+  upcomingMeetups,
   telegram: telegramData
 })
 

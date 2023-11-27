@@ -53,7 +53,7 @@ const toggleModal = modalId => {
 }
 
 const onMeetupMapMarkerClick = (m, modalId) => {
-  console.log(modalId, m)
+  console.log(m)
   const city = m.city ? m.city.trim() : ''
   const date = m.event ? new Date(`${m.event.start}Z`) : null
   const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
@@ -160,5 +160,15 @@ document.addEventListener("DOMContentLoaded", () => {
   // Modal
   document.querySelectorAll('[data-modal]').forEach(modalLink => {
     modalLink.addEventListener('click', e => toggleModal(modalLink.dataset.modal))
+  })
+
+  document.querySelectorAll('[data-meetup]').forEach(meetupLink => {
+    meetupLink.addEventListener('click', e => {
+      const meetup = JSON.parse(meetupLink.dataset.meetup)
+      if (meetup) {
+        e.preventDefault()
+        onMeetupMapMarkerClick(meetup, modalId)
+      }
+    })
   })
 })

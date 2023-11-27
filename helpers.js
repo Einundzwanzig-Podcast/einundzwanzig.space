@@ -24,6 +24,23 @@ const stripHTML = str => {
   return str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
 }
 
+// meetups
+const toMeetupMapInfo = m => {
+  return {
+    name: m.name,
+    latLng: [m.latitude, m.longitude],
+    url: m.url,
+    city: m.city,
+    portalUrl: m.portalLink,
+    websiteUrl: m.websiteUrl,
+    twitter: m.twitter_username,
+    event: m.next_event,
+    style: {
+      fill: m.name.startsWith('Einundzwanzig') || m.name.includes('Einezwänzg') || m.name.includes('Eenanzwanzeg') || m.name.includes('Yirmibir') ? 'var(--color-accent)' : 'var(--color-neutral-50)'
+    }
+  }
+}
+
 // slug
 const slugify = str => str.toLowerCase()
   .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
@@ -57,5 +74,6 @@ module.exports = {
   slugify,
   stripHTML,
   truncate,
-  teamWithAliases
+  teamWithAliases,
+  toMeetupMapInfo
 }

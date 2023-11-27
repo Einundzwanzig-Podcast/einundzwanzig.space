@@ -43,8 +43,8 @@ const renderPage = (template, out, data = {}) => {
 
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0], team })
 renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes], team })
-renderPage('gesundes-geld', 'gesundes-geld', { meetups: site.meetups })
-renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: site.meetups })
+renderPage('gesundes-geld', 'gesundes-geld', { meetups: site.meetups, upcomingMeetups: site.upcomingMeetups })
+renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: site.meetups, upcomingMeetups: site.upcomingMeetups })
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
 renderPage('media', 'media', { navCurrent: 'media' })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })

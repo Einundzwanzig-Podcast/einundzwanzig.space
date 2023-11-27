@@ -22,9 +22,18 @@ block main
 
       :markdown-it(html linkify typographer)
         Neue Meetups können gerne [im Portal](https://portal.einundzwanzig.space/de/meetup/overview) hinzugefügt werden.
-
         Telegram: Die Vorlage für das Gruppenbild findest du im [Media Kit](/media).
         Tipp: Mit Bots wie [Shieldy](https://t.me/shieldy_bot) kann man die Spammer draußen halten.
 
-  div(style="margin-bottom: calc(var(--space-xxl) * -1)")
+  section
     +meetupMap()
+
+  section.wrap
+    h2 Nächste Termine
+    ul
+      each m in upcomingMeetups
+        li
+          a(href=m.url data-meetup=JSON.stringify(m))
+            span= formatDate(`${m.event.start}Z`)
+            = " - "
+            span= m.name

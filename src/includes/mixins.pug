@@ -58,19 +58,7 @@ mixin map(id, markers)
     });
 
 mixin meetupMap()
-  +map('meetupMap', meetups.map(m => JSON.stringify({
-        name: m.name,
-        latLng: [m.latitude, m.longitude],
-        url: m.url,
-        city: m.city,
-        portalUrl: m.portalLink,
-        websiteUrl: m.websiteUrl,
-        twitter: m.twitter_username,
-        event: m.next_event,
-        style: {
-          fill: m.name.startsWith('Einundzwanzig') || m.name.includes('Einezwänzg') || m.name.includes('Eenanzwanzeg') || m.name.includes('Yirmibir') ? 'var(--color-accent)' : 'var(--color-neutral-50)'
-        }
-      })).join(','))
+  +map('meetupMap', meetups.map(m => JSON.stringify(m)).join(','))
 
 mixin spende(d, trunc = false)
   .spende(id=d.id)&attributes(attributes)
