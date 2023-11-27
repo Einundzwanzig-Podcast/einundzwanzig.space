@@ -1,122 +1,105 @@
 [
   {
     "name": "21 Gießen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
+    "latLng": [
+      50.587222,
+      8.669722
+    ],
     "url": "https://t.me/einundzwanzig_giessen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Gießen",
-    "longitude": 8.669722,
-    "latitude": 50.587222,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "21 Zitadelle Uckermark",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/21-zitadelle-uckermark",
+    "latLng": [
+      53.1175,
+      13.50449
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Templin",
-    "longitude": 13.50449,
-    "latitude": 53.1175,
-    "twitter_username": "zitadelleum",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub13lk6l8tnxfp76x3qxed2h5qlxc3694eha9glc7v2x8mmxtekdlnqcfmax8",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-zitadelle-uckermark",
+    "twitter": "zitadelleum",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "21Bissendorf (est. 798421)",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/21bissendorf-est-798421",
+    "latLng": [
+      51.8260823,
+      8.1453352
+    ],
     "url": "https://t.me/einundzwanzig_bissendorf",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Osnabrück",
-    "longitude": 8.1453352,
-    "latitude": 51.8260823,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21bissendorf-est-798421",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Aschaffenburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
+    "latLng": [
+      49.973019,
+      9.14901
+    ],
     "url": "https://t.me/einundzwanzig_aschaffenburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Aschaffenburg",
-    "longitude": 9.14901,
-    "latitude": 49.973019,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "BTC_Ansbach",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach",
+    "latLng": [
+      49.300652,
+      10.57146
+    ],
     "url": "https://t.me/BTCansbach",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Ansbach",
-    "longitude": 10.57146,
-    "latitude": 49.300652,
-    "twitter_username": "BTC_Ansbach",
-    "website": "https://www.btc-ansbach.org",
-    "simplex": null,
-    "nostr": "npub1qvc2e83wk0pemukgutkhjz77zp58hcd9vp0wjj5kntkrkhde75wq2qs6g0",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach",
+    "twitter": "BTC_Ansbach",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "BTC_Ansbach - Stammtisch März",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach-stammtisch-maerz",
+    "latLng": [
+      49.300652,
+      10.57146
+    ],
     "url": "https://t.me/BTCansbach",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Ansbach",
-    "longitude": 10.57146,
-    "latitude": 49.300652,
-    "twitter_username": "BTC_Ansbach",
-    "website": "https://www.btc-ansbach.org",
-    "simplex": null,
-    "nostr": "npub1qvc2e83wk0pemukgutkhjz77zp58hcd9vp0wjj5kntkrkhde75wq2qs6g0",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach-stammtisch-maerz",
+    "twitter": "BTC_Ansbach",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Beach Lübeck-Travemünde",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
+    "latLng": [
+      53.961788,
+      10.86834
+    ],
     "url": "",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Travemünde ",
-    "longitude": 10.86834,
-    "latitude": 53.961788,
-    "twitter_username": null,
-    "website": "https://bitcoinbeachtravemuende.github.io/meetup/",
-    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fh--vW7ZSkXPeOUpfxlFGgauQmXNFOzGoizak7Ult7cw%3D%40smp15.simplex.im%2Fm4o-ekRplg37xXDzJNYN84fI_N7L82t5%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAuXFeBQtzFr8LlpOzrXin9xahMsO7sMnK-0Gd-QPX5Eo%253D%26srv%3Doauu4bgijybyhczbnxtlggo6hiubahmeutaqineuyy23aojpih3dajad.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jczQHOdNFT56DLY89l29Wg%3D%3D%22%7D",
-    "nostr": "npub1ftluznzkjgjm9gwxurg0nxyjlxdh2yvl0rhfmey4er3h6ap2jqyqh8areq",
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
+    "twitter": null,
+    "event": {
       "start": "2023-12-02 15:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/881",
       "location": "Lübeck-Travemünde",
@@ -124,26 +107,22 @@
       "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
       "attendees": 0,
       "nostr_note": "0eb122c3224c35ec41ce68b9412da933273eb7cd9e463d09a19bf46bc0ebc6ec"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "Bitcoin Berlin",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
-    "url": "https://t.me/Einundzwanzig_Berlin",
-    "top": 25,
-    "left": 65,
-    "country": "DE",
-    "state": [
-      "Berlin"
+    "latLng": [
+      52.404765,
+      13.411951
     ],
+    "url": "https://t.me/Einundzwanzig_Berlin",
     "city": "Bitcoin Berlin",
-    "longitude": 13.411951,
-    "latitude": 52.404765,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
+    "twitter": null,
+    "event": {
       "start": "2023-12-07 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/235",
       "location": "Berlin",
@@ -151,100 +130,82 @@
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "nostr_note": "732fb3ff58bb5e809eaf23d6a313a94fb716b7a987eae37daa0c2a2bdbc5b785"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "Bitcoin Dresden",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
-    "url": "https://t.me/BitcoinDresden",
-    "top": 40,
-    "left": 69,
-    "country": "DE",
-    "state": [
-      "Sachsen"
+    "latLng": [
+      51.0493286,
+      13.7381437
     ],
+    "url": "https://t.me/BitcoinDresden",
     "city": "Dresden",
-    "longitude": 13.7381437,
-    "latitude": 51.0493286,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/Dresdner-Bitcoin-Stammtisch",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Görlitz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-goerlitz",
-    "url": "https://bitcoin-goerlitz.de",
-    "top": 38,
-    "left": 78.5,
-    "country": "DE",
-    "state": [
-      "Sachsen"
+    "latLng": [
+      51.1563185,
+      14.991018
     ],
+    "url": "https://bitcoin-goerlitz.de",
     "city": "Görlitz",
-    "longitude": 14.991018,
-    "latitude": 51.1563185,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-goerlitz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Karlsruhe",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-karlsruhe",
-    "url": "https://www.meetup.com/BitcoinKarlsruhe/",
-    "top": 63,
-    "left": 25,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      49.0068705,
+      8.4034195
     ],
+    "url": "https://www.meetup.com/BitcoinKarlsruhe/",
     "city": "Karlsruhe",
-    "longitude": 8.4034195,
-    "latitude": 49.0068705,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-karlsruhe",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Leipzig",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-leipzig",
-    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
-    "top": 37,
-    "left": 60,
-    "country": "DE",
-    "state": [
-      "Sachsen"
+    "latLng": [
+      51.3406321,
+      12.3747329
     ],
+    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
     "city": "Leipzig",
-    "longitude": 12.3747329,
-    "latitude": 51.3406321,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-leipzig",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Meetup Halle (Saale)",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
+    "latLng": [
+      51.48217,
+      11.9658
+    ],
     "url": "https://t.me/+TmOgxEh8afc1NWQy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Halle (Saale)",
-    "longitude": 11.9658,
-    "latitude": 51.48217,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
+    "twitter": null,
+    "event": {
       "start": "2023-12-13 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/267",
       "location": null,
@@ -252,24 +213,22 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "12c9835eec5b484966487831d029bc1aa6da946767882335edde3c7273f14e27"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "Bitcoin Meetup Harz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
+    "latLng": [
+      51.816475,
+      10.974099
+    ],
     "url": "https://t.me/BTCMeetupHarz",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Harz",
-    "longitude": 10.974099,
-    "latitude": 51.816475,
-    "twitter_username": "MeetupHarz",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
+    "twitter": "MeetupHarz",
+    "event": {
       "start": "2024-01-26 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/939",
       "location": "Felsenkeller Bad Suderode",
@@ -277,113 +236,97 @@
       "link": null,
       "attendees": 1,
       "nostr_note": "a13f25b25966f7797cc98a9ec07e107f5d236e9402a03b7e6415649b9ca52379"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "Bitcoin Meetup Waldenrath ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
+    "latLng": [
+      51.014389,
+      6.06991
+    ],
     "url": "https://t.me/waldenrath",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Waldenrath",
-    "longitude": 6.06991,
-    "latitude": 51.014389,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin München",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
-    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
-    "top": 72,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.163132,
+      11.58739
     ],
+    "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
     "city": "München (80802)",
-    "longitude": 11.58739,
-    "latitude": 48.163132,
-    "twitter_username": "bitcoinmuc",
-    "website": "https://www.meetup.com/Bitcoin-Munich/",
-    "simplex": null,
-    "nostr": "npub1j067r9nj4hpsw3wk74pjqme4qw7hq485285rytadjq2sd0hcnv4s9naj84",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
+    "twitter": "bitcoinmuc",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Ulm",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-ulm",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
-    "top": 70,
-    "left": 38,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      48.3974003,
+      9.9934336
     ],
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
     "city": "Ulm",
-    "longitude": 9.9934336,
-    "latitude": 48.3974003,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-ulm",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Westerwald",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
+    "latLng": [
+      50.459821,
+      7.766488
+    ],
     "url": "https://t.me/+Fuf31eYpKh1kYTIy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Westerwald",
-    "longitude": 7.766488,
-    "latitude": 50.459821,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bussen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/bussen",
+    "latLng": [
+      48.1666667,
+      9.5666667
+    ],
     "url": "https://t.me/+Aywy5oJoa4k4N2Qy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Aderzhofen/Bussen",
-    "longitude": 9.5666667,
-    "latitude": 48.1666667,
-    "twitter_username": null,
-    "website": "https://t.me/+Aywy5oJoa4k4N2Qy",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "EINUNDZWANZIG Bochum",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
+    "latLng": [
+      51.481846,
+      7.216236
+    ],
     "url": "https://t.me/+QjpROn0ZuM5jMTQ6",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Bochum",
-    "longitude": 7.216236,
-    "latitude": 51.481846,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
+    "twitter": null,
+    "event": {
       "start": "2023-12-17 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/887",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
@@ -391,130 +334,112 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "883e2e14fe817389fa51b948da78f897332e65b73db30d0b56ffb8fe5ea4cd9c"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "EINUNDZWANZIG Mannheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim-1",
+    "latLng": [
+      49.4892913,
+      8.4673098
+    ],
     "url": "https://t.me/Einundzwanzig_MANNHEIM",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Mannheim",
-    "longitude": 8.4673098,
-    "latitude": 49.4892913,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim-1",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "EINUNDZWANZIG München",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
+    "latLng": [
+      48.1371079,
+      11.5753822
+    ],
     "url": "https://t.me/EinundzwanzigM",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": "EinundzwanzigM",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
+    "twitter": "EinundzwanzigM",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Einundzwanzig 3 Länder Eck",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-3-laender-eck",
+    "latLng": [
+      49.577193,
+      9.10226
+    ],
     "url": "https://t.me/+HuY5FNSKjtpmZDAy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "3 Länder Eck Hessen BaWü Baye",
-    "longitude": 9.10226,
-    "latitude": 49.577193,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-3-laender-eck",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Aachen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
-    "url": "https://t.me/einundzwanzig_aachen",
-    "top": 43,
-    "left": 8,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      50.776351,
+      6.083862
     ],
+    "url": "https://t.me/einundzwanzig_aachen",
     "city": "Aachen",
-    "longitude": 6.083862,
-    "latitude": 50.776351,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Augsburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
-    "url": "https://t.me/Einundzwanzig_Augsburg",
-    "top": 70,
-    "left": 46,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.3668041,
+      10.8986971
     ],
+    "url": "https://t.me/Einundzwanzig_Augsburg",
     "city": "Augsburg",
-    "longitude": 10.8986971,
-    "latitude": 48.3668041,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Bad Iburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-iburg",
+    "latLng": [
+      51.8260823,
+      8.1453352
+    ],
     "url": "https://t.me/einundzwanzigbadiburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Osnabrück",
-    "longitude": 8.1453352,
-    "latitude": 51.8260823,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-iburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Bensheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
+    "latLng": [
+      49.70363,
+      8.62547
+    ],
     "url": "https://t.me/einundzwanzigbensheim",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Bensheim",
-    "longitude": 8.62547,
-    "latitude": 49.70363,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
+    "twitter": null,
+    "event": {
       "start": "2023-12-11 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/938",
       "location": "Restaurant & Cocktailbar Habanero",
@@ -522,79 +447,67 @@
       "link": "https://maps.app.goo.gl/nowKgE1xEMWxbBkM8?g_st=ic",
       "attendees": 0,
       "nostr_note": "702c643f09bd97539f46566f344c21017aaeb4c7d2d1421adbfe20be65d7c0f5"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Berlin",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin",
-    "url": "https://t.me/Einundzwanzig_Berlin",
-    "top": 26,
-    "left": 65,
-    "country": "DE",
-    "state": [
-      "Berlin"
+    "latLng": [
+      52.5170365,
+      13.3888599
     ],
+    "url": "https://t.me/Einundzwanzig_Berlin",
     "city": "Berlin",
-    "longitude": 13.3888599,
-    "latitude": 52.5170365,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/Bitcoin-Lab-Berlin/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Berlin Nord",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin-nord",
+    "latLng": [
+      52.62206,
+      13.389964
+    ],
     "url": "https://t.me/+rEmpixbyvEwwNThi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Berlin Nord",
-    "longitude": 13.389964,
-    "latitude": 52.62206,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/Bitcoin-Lab-Berlin/events/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-berlin-nord",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Bitburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
+    "latLng": [
+      49.974018,
+      6.52258
+    ],
     "url": "https://t.me/Einundzwanzigbitburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Bitburg",
-    "longitude": 6.52258,
-    "latitude": 49.974018,
-    "twitter_username": "EinundzwanzigBi",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
+    "twitter": "EinundzwanzigBi",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Bonn",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
-    "url": "https://t.me/einundzwanzig_bonn",
-    "top": 45,
-    "left": 18,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      50.735851,
+      7.10066
     ],
+    "url": "https://t.me/einundzwanzig_bonn",
     "city": "Bonn",
-    "longitude": 7.10066,
-    "latitude": 50.735851,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
+    "twitter": null,
+    "event": {
       "start": "2023-12-07 18:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/925",
       "location": "Bonn",
@@ -602,26 +515,22 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "297fb316975c568297217dfbea7ac735fe6e67a1f7e918ee856b5f492e2583a7"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Bremen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 20,
-    "left": 29,
-    "country": "DE",
-    "state": [
-      "Bremen"
+    "latLng": [
+      53.0758196,
+      8.8071646
     ],
+    "url": "https://t.me/Einundzwanzig_Norden",
     "city": "Bremen",
-    "longitude": 8.8071646,
-    "latitude": 53.0758196,
-    "twitter_username": "Einundzwanzig_N",
-    "website": null,
-    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FZENAnlo5AMQVPGRBVQMC8jGbBk5XtfS4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1jeKA3zLhP9gqYu5kcmgSptqpZE2EQozzQ7MR7BNVXU%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22wj43zKtow9d0-H-3Oaga1Q%3D%3D%22%7D",
-    "nostr": "npub1qk7quv6gc3faa276gyv3e46ahjxy0ghnmq02ymeeqsljutzue4eqpfsxue",
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
+    "twitter": "Einundzwanzig_N",
+    "event": {
       "start": "2023-11-29 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/627",
       "location": "Lagerhaus, Bremen",
@@ -629,79 +538,67 @@
       "link": "https://kulturzentrum-lagerhaus.de/",
       "attendees": 1,
       "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Bremerhaven",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremerhaven",
+    "latLng": [
+      53.538792,
+      8.58338
+    ],
     "url": "https://t.me/+SyB9Juv1onk2MjMy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Bremerhaven",
-    "longitude": 8.58338,
-    "latitude": 53.538792,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremerhaven",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Celle - ResidenzstadtMeetup",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
+    "latLng": [
+      52.621922,
+      10.07858
+    ],
     "url": "https://t.me/BTC_Celle",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Celle",
-    "longitude": 10.07858,
-    "latitude": 52.621922,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Cham",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
-    "url": "https://t.me/BitcoinMeetupCham",
-    "top": 60,
-    "left": 62,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      49.219311,
+      12.66754
     ],
+    "url": "https://t.me/BitcoinMeetupCham",
     "city": "Cham",
-    "longitude": 12.66754,
-    "latitude": 49.219311,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Darmstadt",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
-    "url": "https://t.me/einundzwanzigda",
-    "top": 53,
-    "left": 26,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      49.8851869,
+      8.6736295
     ],
+    "url": "https://t.me/einundzwanzigda",
     "city": "Darmstadt",
-    "longitude": 8.6736295,
-    "latitude": 49.8851869,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
+    "twitter": null,
+    "event": {
       "start": "2023-12-05 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/358",
       "location": "Nieder-Ramstädter Str. 170, 64285 Darmstadt",
@@ -709,43 +606,37 @@
       "link": "https://www.lilienschaenke-sportsbar.de/",
       "attendees": 0,
       "nostr_note": "68938f8c01e9e2366c5d406df8b5fb5871bb7d3b35f7164b60e6bc1d873b593f"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Dingolfing-Landau",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
+    "latLng": [
+      48.628471,
+      12.49782
+    ],
     "url": "https://t.me/einundzwanzig_dgf",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Dingolfing",
-    "longitude": 12.49782,
-    "latitude": 48.628471,
-    "twitter_username": "Schlimmer0815",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub1ml8m49q8g0j5hkm7rqtszn668raku2htmcq4mfr29vdkg4gcruesdp62nn",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
+    "twitter": "Schlimmer0815",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Dortmund",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dortmund",
-    "url": "https://t.me/Dortmund_Einundzwanzig_Bitcoin",
-    "top": 34,
-    "left": 24,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.5142273,
+      7.4652789
     ],
+    "url": "https://t.me/Dortmund_Einundzwanzig_Bitcoin",
     "city": "Dortmund",
-    "longitude": 7.4652789,
-    "latitude": 51.5142273,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dortmund",
+    "twitter": null,
+    "event": {
       "start": "2023-12-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/717",
       "location": "Glorious Café, Kleppingstraße 2, 44135 Dortmund",
@@ -753,81 +644,67 @@
       "link": "https://goo.gl/maps/V6XjU25W7fbtp7gp8",
       "attendees": 1,
       "nostr_note": "2da0ef34fd7e576c0d4166585243dfa9c22c506f9faf19d5ab550425f6480eb0"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Düsseldorf",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-duesseldorf",
-    "url": "https://t.me/einundzwanzig_duesseldorf",
-    "top": 38,
-    "left": 16,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.2254018,
+      6.7763137
     ],
+    "url": "https://t.me/einundzwanzig_duesseldorf",
     "city": "Düsseldorf",
-    "longitude": 6.7763137,
-    "latitude": 51.2254018,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-duesseldorf",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Elbe-Elster",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-elbe-elster",
-    "url": "https://t.me/Einundzwanzig_EE",
-    "top": 33,
-    "left": 64,
-    "country": "DE",
-    "state": [
-      "Brandenburg"
+    "latLng": [
+      51.6273649,
+      13.4804916
     ],
+    "url": "https://t.me/Einundzwanzig_EE",
     "city": "Elbe-Elster",
-    "longitude": 13.4804916,
-    "latitude": 51.6273649,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-elbe-elster",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ellwangen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
-    "url": "https://t.me/einundzwanzigEllwangen",
-    "top": 64,
-    "left": 40,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      48.9615975,
+      10.131975
     ],
+    "url": "https://t.me/einundzwanzigEllwangen",
     "city": "Ellwangen",
-    "longitude": 10.131975,
-    "latitude": 48.9615975,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Erfurt",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
+    "latLng": [
+      50.984768,
+      11.02988
+    ],
     "url": "https://t.me/einundzwanzigthueringen/3030",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Erfurt",
-    "longitude": 11.02988,
-    "latitude": 50.984768,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
+    "twitter": null,
+    "event": {
       "start": "2024-01-18 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/940",
       "location": "Double B Erfurt ",
@@ -835,62 +712,52 @@
       "link": "https://www.doubleb-erfurt.de/",
       "attendees": 0,
       "nostr_note": "5126c76f38ef20752808495bf7c77a090007734208c506ce0a655c1c7be50c74"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Essen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
-    "url": "https://t.me/Einundzwanzig_Ruhrgebiet",
-    "top": 35,
-    "left": 20,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.4582235,
+      7.0158171
     ],
+    "url": "https://t.me/Einundzwanzig_Ruhrgebiet",
     "city": "Essen",
-    "longitude": 7.0158171,
-    "latitude": 51.4582235,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Fehmarn",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
+    "latLng": [
+      54.43562,
+      11.19668
+    ],
     "url": "https://t.me/Einundzwanzig_Bitcoin_Fehmarn",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Fehmarn",
-    "longitude": 11.19668,
-    "latitude": 54.43562,
-    "twitter_username": "OH_Bitcoin",
-    "website": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn?l=de",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
+    "twitter": "OH_Bitcoin",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Franken",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
-    "url": "https://t.me/Einundzwanzig_FRANKEN",
-    "top": 59,
-    "left": 52,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      49.3028611,
+      10.5722288
     ],
+    "url": "https://t.me/Einundzwanzig_FRANKEN",
     "city": "Franken",
-    "longitude": 10.5722288,
-    "latitude": 49.3028611,
-    "twitter_username": "einundzwanzigFR",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
+    "twitter": "einundzwanzigFR",
+    "event": {
       "start": "2023-12-09 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/249",
       "location": "Fürth, Cafe Zanetta",
@@ -898,26 +765,22 @@
       "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
       "attendees": 3,
       "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Frankfurt am Main",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
-    "url": "https://t.me/btcffm",
-    "top": 51,
-    "left": 26,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.1106444,
+      8.6820917
     ],
+    "url": "https://t.me/btcffm",
     "city": "Frankfurt am Main",
-    "longitude": 8.6820917,
-    "latitude": 50.1106444,
-    "twitter_username": "BTCFFM",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
+    "twitter": "BTCFFM",
+    "event": {
       "start": "2023-12-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/820",
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
@@ -925,83 +788,67 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Freiburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
-    "url": "https://t.me/Einundzwanzig_Freiburg",
-    "top": 73,
-    "left": 21,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      47.9960901,
+      7.8494005
     ],
+    "url": "https://t.me/Einundzwanzig_Freiburg",
     "city": "Freiburg",
-    "longitude": 7.8494005,
-    "latitude": 47.9960901,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Freising",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freising",
-    "url": "https://t.me/Einundzwanzig_FS",
-    "top": 70,
-    "left": 56,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.4008273,
+      11.7439565
     ],
+    "url": "https://t.me/Einundzwanzig_FS",
     "city": "Freising",
-    "longitude": 11.7439565,
-    "latitude": 48.4008273,
-    "twitter_username": "einundzwanzigfs",
-    "website": "https://einundzwanzig.freising.money",
-    "simplex": null,
-    "nostr": "npub1lj4j5sfj4tpnx6zg9fqpvfa4psst7xdkstystmhnmrgeasfj7h5s437up5",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freising",
+    "twitter": "einundzwanzigfs",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Friedrichshafen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
-    "url": "https://t.me/+i7hOYiYDVagyOWVi",
-    "top": 78,
-    "left": 35,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      47.6500279,
+      9.4800858
     ],
+    "url": "https://t.me/+i7hOYiYDVagyOWVi",
     "city": "Friedrichshafen",
-    "longitude": 9.4800858,
-    "latitude": 47.6500279,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Fulda",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
-    "url": "https://t.me/einundzwanzigFD",
-    "top": 46,
-    "left": 38,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.5542328,
+      9.6770448
     ],
+    "url": "https://t.me/einundzwanzigFD",
     "city": "Fulda",
-    "longitude": 9.6770448,
-    "latitude": 50.5542328,
-    "twitter_username": "einundzwanzigFD",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
+    "twitter": "einundzwanzigFD",
+    "event": {
       "start": "2023-12-07 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/914",
       "location": "Wiesenmühle Fulda",
@@ -1009,98 +856,82 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "8a3999e9fef5f86d33ff8419f01d62e8cf678ba0a88295e2551e9c1da0d59b6f"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Gelnhausen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen",
-    "url": "https://t.me/einundzwanzig_gelnhausen",
-    "top": 48,
-    "left": 31,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.2028622,
+      9.190486
     ],
+    "url": "https://t.me/einundzwanzig_gelnhausen",
     "city": "Gelnhausen",
-    "longitude": 9.190486,
-    "latitude": 50.2028622,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Gießen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-giessen",
+    "latLng": [
+      50.587222,
+      8.669722
+    ],
     "url": "https://t.me/einundzwanzig_giessen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Gießen",
-    "longitude": 8.669722,
-    "latitude": 50.587222,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-giessen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Grenzland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
+    "latLng": [
+      51.401305,
+      6.213012
+    ],
     "url": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Grenzland DE/NL",
-    "longitude": 6.213012,
-    "latitude": 51.401305,
-    "twitter_username": null,
-    "website": "https://primal.net/p/npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
-    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FZKe4uxF4Z_aLJJOEsC-Y6hSkXgQS5-oc442JQGkyP8M%3D%40smp17.simplex.im%2FU8qH6SNLyo_yAy88bJZpEJE9rW3GL36i%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA1dwpAK1iYpdUfdPKzEzfgjB1Ebh9ouHtGjc2Mc3uvj0%253D%26srv%3Dogtwfxyi3h2h5weftjjpjmxclhb5ugufa5rcyrmg7j4xlch7qsr5nuqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22P6H1G3RadnLvt2qaTSMMKw%3D%3D%22%7D",
-    "nostr": "npub12dfql00r4rnttt8u683rsq76ydaf7jha5n5hzpshgl6n5mly2rrqvd2ztq",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Gummersbach",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gummersbach",
+    "latLng": [
+      51.028351,
+      7.56543
+    ],
     "url": "https://t.me/Einundzwanzig_Gummersbach",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Gummersbach",
-    "longitude": 7.56543,
-    "latitude": 51.028351,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gummersbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Hamburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
-    "url": "https://t.me/Einundzwanzig_HH",
-    "top": 17,
-    "left": 38,
-    "country": "DE",
-    "state": [
-      "Hamburg",
-      "Bremen",
-      "Niedersachsen"
+    "latLng": [
+      53.551086,
+      9.993682
     ],
+    "url": "https://t.me/Einundzwanzig_HH",
     "city": "Hamburg",
-    "longitude": 9.993682,
-    "latitude": 53.551086,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
+    "twitter": null,
+    "event": {
       "start": "2023-11-30 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/795",
       "location": "Hamburg-Sternschanze",
@@ -1108,81 +939,67 @@
       "link": "https://absinth-bar.com/",
       "attendees": 0,
       "nostr_note": "78576cf7fdae958c2cee4877f2fc42ea8c84fa54a3c40c1bf912342edd4a0084"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Hannover ₿",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
-    "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
-    "top": 27,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Niedersachsen"
+    "latLng": [
+      52.375893,
+      9.73201
     ],
+    "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
     "city": "Hannover",
-    "longitude": 9.73201,
-    "latitude": 52.375893,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Heide",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heide",
+    "latLng": [
+      53.24554,
+      9.83926
+    ],
     "url": "https://t.me/Einundzwanzig_Norden",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Handeloh",
-    "longitude": 9.83926,
-    "latitude": 53.24554,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heide",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Heidelberg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heidelberg",
-    "url": "https://t.me/Einundzwanzig_HEIDELBERG",
-    "top": 60,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      49.4093582,
+      8.694724
     ],
+    "url": "https://t.me/Einundzwanzig_HEIDELBERG",
     "city": "Heidelberg",
-    "longitude": 8.694724,
-    "latitude": 49.4093582,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heidelberg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Heilbronn",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
-    "url": "https://t.me/einundzwanzigHeilbronn",
-    "top": 62,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      49.142693,
+      9.210879
     ],
+    "url": "https://t.me/einundzwanzigHeilbronn",
     "city": "Heilbronn",
-    "longitude": 9.210879,
-    "latitude": 49.142693,
-    "twitter_username": "EinundzwanzigHN",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
+    "twitter": "EinundzwanzigHN",
+    "event": {
       "start": "2023-12-16 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/945",
       "location": "Heilbronn Weihnachtsmarkt",
@@ -1190,43 +1007,37 @@
       "link": null,
       "attendees": 1,
       "nostr_note": "d695545d09588f0902c63670b1be66cbed33f18d433ce9ca6decbf6122f6abbb"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Heinsberg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heinsberg",
-    "url": "https://t.me/Einundzwanzig_HEINSBERG",
-    "top": 40,
-    "left": 9,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.0654268,
+      6.0984461
     ],
+    "url": "https://t.me/Einundzwanzig_HEINSBERG",
     "city": "Heinsberg",
-    "longitude": 6.0984461,
-    "latitude": 51.0654268,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heinsberg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Hennef",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
+    "latLng": [
+      50.760273,
+      7.346507
+    ],
     "url": "https://t.me/einundzwanzig_hennef",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Hennef",
-    "longitude": 7.346507,
-    "latitude": 50.760273,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
+    "twitter": null,
+    "event": {
       "start": "2023-12-12 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/312",
       "location": "Dorfschänke",
@@ -1234,98 +1045,82 @@
       "link": "https://gasthaus-dorfschaenke.eatbu.com/?lang=de",
       "attendees": 0,
       "nostr_note": "e1f48e5a052c602caf6c65e285f85f7bdf2d2cec56744abfed5738a94540f5bb"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Herrsching",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-herrsching",
-    "url": "https://t.me/Einundzwanzig_Herrsching",
-    "top": 73,
-    "left": 50,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      47.9984622,
+      11.1703947
     ],
+    "url": "https://t.me/Einundzwanzig_Herrsching",
     "city": "Herrsching",
-    "longitude": 11.1703947,
-    "latitude": 47.9984622,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-herrsching",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Hildesheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
+    "latLng": [
+      52.150902,
+      9.951
+    ],
     "url": "https://t.me/EinundzwanzigHildesheim",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Hildesheim",
-    "longitude": 9.951,
-    "latitude": 52.150902,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Hochtaunuskreis",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
-    "url": "https://t.me/bitcoin_hochtaunuskreis",
-    "top": 50,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.2853755,
+      8.5036801
     ],
+    "url": "https://t.me/bitcoin_hochtaunuskreis",
     "city": "Hochtaunuskreis",
-    "longitude": 8.5036801,
-    "latitude": 50.2853755,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ingolstadt",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
-    "url": "https://t.me/EinundzwanzigIngolstadt",
-    "top": 66,
-    "left": 52,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.7630165,
+      11.4250395
     ],
+    "url": "https://t.me/EinundzwanzigIngolstadt",
     "city": "Ingolstadt",
-    "longitude": 11.4250395,
-    "latitude": 48.7630165,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Jena",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
+    "latLng": [
+      50.92696,
+      11.58696
+    ],
     "url": "https://t.me/einundzwanzigthueringen/3028",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Jena",
-    "longitude": 11.58696,
-    "latitude": 50.92696,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
+    "twitter": null,
+    "event": {
       "start": "2023-12-05 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/745",
       "location": "Jena, Grünowski",
@@ -1333,43 +1128,37 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "147bfd85032fb6029d62b4f60c409bb14781c464164da760fb2c9c6cb38aa37f"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Karlsruhe",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-karlsruhe",
-    "url": "https://t.me/BitcoinKarlsruhe",
-    "top": 64,
-    "left": 25,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      49.0068705,
+      8.4034195
     ],
+    "url": "https://t.me/BitcoinKarlsruhe",
     "city": "Karlsruhe",
-    "longitude": 8.4034195,
-    "latitude": 49.0068705,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-karlsruhe",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Kassel Bitcoin",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
+    "latLng": [
+      51.3154546,
+      9.4924096
+    ],
     "url": "https://t.me/einundzwanzig_kassel",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Kassel",
-    "longitude": 9.4924096,
-    "latitude": 51.3154546,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
+    "twitter": null,
+    "event": {
       "start": "2023-12-21 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/602",
       "location": "Greek Cuisine, Auedamm 23, 34121 Kassel. ",
@@ -1377,26 +1166,22 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "c461d1e39beecb3c495136f75839ac120e29ea4c4794e568469d7609f78b410b"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Kempten",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-    "url": "https://t.me/EinundzwanzigKempten",
-    "top": 77,
-    "left": 41,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      47.7267063,
+      10.3168835
     ],
+    "url": "https://t.me/EinundzwanzigKempten",
     "city": "Kempten",
-    "longitude": 10.3168835,
-    "latitude": 47.7267063,
-    "twitter_username": "MountBitcoin21",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
+    "twitter": "MountBitcoin21",
+    "event": {
       "start": "2023-12-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/882",
       "location": "Kempten Alte Schmiede",
@@ -1404,62 +1189,52 @@
       "link": "https://www.alte-schmiede-kempten.de/",
       "attendees": 5,
       "nostr_note": "68dc0bd3d598bbbed9913e4899b2e9ad3bf82df6b9d52f5d63ca867053a7c1b7"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Kiel",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kiel",
+    "latLng": [
+      54.323292,
+      10.122765
+    ],
     "url": "https://t.me/einundzwanzigkiel",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Kiel",
-    "longitude": 10.122765,
-    "latitude": 54.323292,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kiel",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Koblenz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
-    "url": "https://t.me/Einundzwanzig_Ko",
-    "top": 48,
-    "left": 21,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
+    "latLng": [
+      50.3533278,
+      7.5943951
     ],
+    "url": "https://t.me/Einundzwanzig_Ko",
     "city": "Koblenz",
-    "longitude": 7.5943951,
-    "latitude": 50.3533278,
-    "twitter_username": "EinundzwanzigKo",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
+    "twitter": "EinundzwanzigKo",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Konstanz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
-    "url": "https://t.me/Einundzwanzig_Konstanz",
-    "top": 77,
-    "left": 29,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      47.659216,
+      9.1750718
     ],
+    "url": "https://t.me/Einundzwanzig_Konstanz",
     "city": "Konstanz",
-    "longitude": 9.1750718,
-    "latitude": 47.659216,
-    "twitter_username": "einundzwanzigKN",
-    "website": "https://sites.google.com/view/21-meetup-kn/startseite",
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
+    "twitter": "einundzwanzigKN",
+    "event": {
       "start": "2023-12-28 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/432",
       "location": "Bitte in Telegram schauen",
@@ -1467,26 +1242,22 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "8a9fb7188f3a887378e06f830cd367ba0a384abadc049c173911d3ef41677fbe"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Köln",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
-    "url": "https://t.me/einundzwanzig_koeln",
-    "top": 42,
-    "left": 17,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      50.938361,
+      6.959974
     ],
+    "url": "https://t.me/einundzwanzig_koeln",
     "city": "Köln",
-    "longitude": 6.959974,
-    "latitude": 50.938361,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
+    "twitter": null,
+    "event": {
       "start": "2023-12-20 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/516",
       "location": "wechselnd",
@@ -1494,24 +1265,22 @@
       "link": "",
       "attendees": 0,
       "nostr_note": "a561aeefc67b3b432a6be2665d0a866a10390a95d7a48753cf7f7e610c2e31c3"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Landau",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
+    "latLng": [
+      49.19368,
+      8.11277
+    ],
     "url": "https://t.me/einundzwanzigld",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Landau",
-    "longitude": 8.11277,
-    "latitude": 49.19368,
-    "twitter_username": "einundzwanzigld",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub1s40yqu44c4tu355kkkjx2cvjs2uhvgaceqchyhdm45jfpq3dh03q3ytdxj",
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
+    "twitter": "einundzwanzigld",
+    "event": {
       "start": "2023-12-19 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/919",
       "location": "Landau in der Pfalz",
@@ -1519,43 +1288,37 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "3b3598b56d5dc7af81232bf0f3d5948a9868fd30edc896ff4f6bb33a10750d6d"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Landshut",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landshut",
+    "latLng": [
+      48.544193,
+      12.146853
+    ],
     "url": "https://t.me/+Fgjmi4FHDvM1MmQy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Landshut",
-    "longitude": 12.146853,
-    "latitude": 48.544193,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landshut",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Langen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
-    "url": "https://t.me/bitcoinlangen",
-    "top": 52,
-    "left": 26,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      49.9927036,
+      8.6671682
     ],
+    "url": "https://t.me/bitcoinlangen",
     "city": "Langen",
-    "longitude": 8.6671682,
-    "latitude": 49.9927036,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
+    "twitter": null,
+    "event": {
       "start": "2023-12-12 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/372",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
@@ -1563,108 +1326,90 @@
       "link": "",
       "attendees": 0,
       "nostr_note": "d04aa840eb7a71712f2d6ee1cccdbcc3ec8ee78fb03b1aef6cfb7f4d0b2a7b1c"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Limburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-limburg",
-    "url": "https://t.me/+dXengs7l2Y8yNDA6",
-    "top": 49,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.38675,
+      8.05944
     ],
+    "url": "https://t.me/+dXengs7l2Y8yNDA6",
     "city": "Limburg",
-    "longitude": 8.05944,
-    "latitude": 50.38675,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-limburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Lingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lingen",
+    "latLng": [
+      52.52306,
+      7.32328
+    ],
     "url": "https://t.me/+9cxpb5YyGAg1NDNi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Lingen",
-    "longitude": 7.32328,
-    "latitude": 52.52306,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lingen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Lübeck",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
-    "url": "https://t.me/Einundzwanzig_Luebeck",
-    "top": 11,
-    "left": 45,
-    "country": "DE",
-    "state": [
-      "Hamburg"
+    "latLng": [
+      53.865467,
+      10.686559
     ],
+    "url": "https://t.me/Einundzwanzig_Luebeck",
     "city": "Lübeck",
-    "longitude": 10.686559,
-    "latitude": 53.865467,
-    "twitter_username": null,
-    "website": "https://www.bitcoin-luebeck.de/",
-    "simplex": "https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2F7SI7Patv9y-N97WhnqTnAjwnbZso8qAq%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAKaRd_gRyZ1gQRKcQNJQnOSdt_R0pxTXyQAHjwKQLFSA%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22MCWSE6e5YeNbUi6Hq_AN5A%3D%3D%22%7D",
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
+    "twitter": null,
+    "event": {
       "start": "2023-11-28 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/341",
       "location": "Lübeck, Beckergrube 13-17, Le Theatre Cafe Restaurant Bar",
       "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de",
       "link": "https://www.bitcoin-luebeck.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Mainz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
-    "url": "https://t.me/Einundzwanzig_MAINZ",
-    "top": 55,
-    "left": 24,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
+    "latLng": [
+      50.0012314,
+      8.2762513
     ],
+    "url": "https://t.me/Einundzwanzig_MAINZ",
     "city": "Mainz",
-    "longitude": 8.2762513,
-    "latitude": 50.0012314,
-    "twitter_username": "@EinundzwanzigMZ",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub16aaqhqyryr3tuyq208whklngdulm754zukpfgf2g34dkd023uysqz6r9kr",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
+    "twitter": "@EinundzwanzigMZ",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Mannheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
-    "url": "https://t.me/Einundzwanzig_MANNHEIM",
-    "top": 58,
-    "left": 25,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      49.4892913,
+      8.4673098
     ],
+    "url": "https://t.me/Einundzwanzig_MANNHEIM",
     "city": "Mannheim",
-    "longitude": 8.4673098,
-    "latitude": 49.4892913,
-    "twitter_username": "EinundzwanzigMA",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
+    "twitter": "EinundzwanzigMA",
+    "event": {
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/413",
       "location": "Wird noch bekannt gegeben",
@@ -1672,96 +1417,82 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "f44961cea247bfa1c577e9f21bbb2f183583f936a8d36877dcfa1aa6198d0ec8"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Marburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-marburg",
+    "latLng": [
+      50.81478,
+      8.76919
+    ],
     "url": "https://t.me/+jMuRB6BGTPdiYzQy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Marburg",
-    "longitude": 8.76919,
-    "latitude": 50.81478,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-marburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Mecklenburg-Vorpommern",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mecklenburg-vorpommern",
-    "url": "https://t.me/EinundzwanzigMV",
-    "top": 11,
-    "left": 59,
-    "country": "DE",
-    "state": [
-      "Mecklenburg-Vorpommern"
+    "latLng": [
+      53.635502,
+      11.40125
     ],
+    "url": "https://t.me/EinundzwanzigMV",
     "city": "Schwerin",
-    "longitude": 11.40125,
-    "latitude": 53.635502,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mecklenburg-vorpommern",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Memmingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-memmingen",
-    "url": "https://t.me/BTCOnlyMM21",
-    "top": 73,
-    "left": 40,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      47.9867696,
+      10.181319
     ],
+    "url": "https://t.me/BTCOnlyMM21",
     "city": "Memmingen",
-    "longitude": 10.181319,
-    "latitude": 47.9867696,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-memmingen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Mönchengladbach",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
+    "latLng": [
+      51.199272,
+      6.441951
+    ],
     "url": "https://t.me/einundzwanzigmg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Mönchengladbach",
-    "longitude": 6.441951,
-    "latitude": 51.199272,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Münster",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
+    "latLng": [
+      51.960667,
+      7.626135
+    ],
     "url": "https://t.me/Einundzwanzig_MS",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Münster",
-    "longitude": 7.626135,
-    "latitude": 51.960667,
-    "twitter_username": "einundzwanzigMS",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
+    "twitter": "einundzwanzigMS",
+    "event": {
       "start": "2023-12-02 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/203",
       "location": "Münster: t.b.a.",
@@ -1769,98 +1500,82 @@
       "link": "https://t.me/Einundzwanzig_MS",
       "attendees": 0,
       "nostr_note": "a0bddb2f407a08a6d5b03eccb788e690b9d53d8b5c84f26fe54072fa448fe980"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Niederrhein",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
+    "latLng": [
+      51.599411,
+      6.69385
+    ],
     "url": "https://t.me/niederrheineinundzwanzig",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Niederrhein",
-    "longitude": 6.69385,
-    "latitude": 51.599411,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Norddeutschland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "top": 19,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Hamburg",
-      "Bremen",
-      "Niedersachsen"
+    "latLng": [
+      51.48128,
+      6.55449
     ],
+    "url": "https://t.me/Einundzwanzig_Norden",
     "city": "Norddeutschland",
-    "longitude": 6.55449,
-    "latitude": 51.48128,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Norderstedt ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norderstedt",
+    "latLng": [
+      53.6735,
+      9.98563
+    ],
     "url": "https://t.me/+46HEKSCBI9dkMTEy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Norderstedt",
-    "longitude": 9.98563,
-    "latitude": 53.6735,
-    "twitter_username": "Jonas21Bitcoin",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norderstedt",
+    "twitter": "Jonas21Bitcoin",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Nordfriesland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordfriesland",
-    "url": "https://t.me/Einundzwanzig_NF",
-    "top": 1,
-    "left": 34,
-    "country": "DE",
-    "state": [
-      "Schleswig-Holstein"
+    "latLng": [
+      54.485378,
+      9.05362
     ],
+    "url": "https://t.me/Einundzwanzig_NF",
     "city": "Husum",
-    "longitude": 9.05362,
-    "latitude": 54.485378,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordfriesland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Nordhausen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
+    "latLng": [
+      51.503171,
+      10.795885
+    ],
     "url": "https://t.me/einundzwanzig_nordhausen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Nordhausen",
-    "longitude": 10.795885,
-    "latitude": 51.503171,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
+    "twitter": null,
+    "event": {
       "start": "2023-12-01 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/774",
       "location": "Nordhausen",
@@ -1868,81 +1583,67 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Oberland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oberland",
-    "url": "https://t.me/Einundzwanzig_Oberland",
-    "top": 79,
-    "left": 49,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.9467562,
+      11.4038717
     ],
+    "url": "https://t.me/Einundzwanzig_Oberland",
     "city": "Oberland",
-    "longitude": 11.4038717,
-    "latitude": 48.9467562,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oberland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Odenwald",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-odenwald",
+    "latLng": [
+      49.663979,
+      8.96756
+    ],
     "url": "https://t.me/einundzwanzigodw",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Odenwald",
-    "longitude": 8.96756,
-    "latitude": 49.663979,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-odenwald",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Oelde",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oelde",
-    "url": "https://t.me/EinundzwanzigOelde",
-    "top": 31,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.8260823,
+      8.1453352
     ],
+    "url": "https://t.me/EinundzwanzigOelde",
     "city": "Osnabrück",
-    "longitude": 8.1453352,
-    "latitude": 51.8260823,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oelde",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Oldenburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
-    "url": "https://t.me/einundzwanzig_OL",
-    "top": 18,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Niedersachsen"
+    "latLng": [
+      53.1389753,
+      8.2146017
     ],
+    "url": "https://t.me/einundzwanzig_OL",
     "city": "Oldenburg",
-    "longitude": 8.2146017,
-    "latitude": 53.1389753,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": "npub10ldent6aecfgy74ayd65qad5c4ryyam9fv7e8w5xyjfy5zrnlm2qtc8vj0",
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
+    "twitter": null,
+    "event": {
       "start": "2023-12-01 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/386",
       "location": "Lindenkroog",
@@ -1950,104 +1651,82 @@
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
       "attendees": 0,
       "nostr_note": "91a5a87b5c4b8bce5bf9c83376245efcbd24998244eef6b5541777eead1ea057"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Ortenaukreis",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreis",
+    "latLng": [
+      48.46801,
+      7.94238
+    ],
     "url": "https://t.me/Einundzwanzig_Ortenaukreis",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Offenburg ",
-    "longitude": 7.94238,
-    "latitude": 48.46801,
-    "twitter_username": "21ortenaukreis",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreis",
+    "twitter": "21ortenaukreis",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Osnabrück",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-osnabrueck",
-    "url": "https://t.me/Einundzwanzig_OS",
-    "top": 29,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Niedersachsen"
+    "latLng": [
+      51.8260823,
+      8.1453352
     ],
+    "url": "https://t.me/Einundzwanzig_OS",
     "city": "Osnabrück",
-    "longitude": 8.1453352,
-    "latitude": 51.8260823,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-osnabrueck",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ost-Brandenburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
+    "latLng": [
+      52.505,
+      14.13
+    ],
     "url": "https://t.me/einundzwanzig_bbost",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Müncheberg",
-    "longitude": 14.13,
-    "latitude": 52.505,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
-      "start": "2023-11-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/871",
-      "location": " Restaurant zur Mühle (Altlandsberg 15345)",
-      "description": "Das zweite Einundzwanzig Ost-Brandenburg Meetup findet am 27.11.23 ab 18:30 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch Reserviert und erwarten in etwa 5 Plebs. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
-      "link": "https://goo.gl/maps/LDUHDV63kzSmKC5x6",
-      "attendees": 2,
-      "nostr_note": "25137e976bdae088717300879cfc33b54777cf3d886ae3ae9780e1d9d4de68b2"
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Ostfriesland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostfriesland",
-    "url": "https://t.me/Einundzwanzig_Ostriesland",
-    "top": 13,
-    "left": 20,
-    "country": "DE",
-    "state": [
-      "Niedersachsen"
+    "latLng": [
+      53.5122853,
+      7.3915287
     ],
+    "url": "https://t.me/Einundzwanzig_Ostriesland",
     "city": "Aurich",
-    "longitude": 7.3915287,
-    "latitude": 53.5122853,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostfriesland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ostwestfalen-Lippe",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
+    "latLng": [
+      51.9867058,
+      8.6457839
+    ],
     "url": "https://t.me/einundzwanzig_owl",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "OWL",
-    "longitude": 8.6457839,
-    "latitude": 51.9867058,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
+    "twitter": null,
+    "event": {
       "start": "2023-12-15 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/39",
       "location": "Paderborn/Bielefeld",
@@ -2055,26 +1734,22 @@
       "link": "https://t.me/einundzwanzig_owl",
       "attendees": 0,
       "nostr_note": "62132832d9154ee37087d259c473ca53dfc6d61c7052bcc364a4cd48b4d9939a"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Passau",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-passau",
-    "url": "https://t.me/Einundzwanzig_Passau",
-    "top": 67,
-    "left": 68,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.5748229,
+      13.4609744
     ],
+    "url": "https://t.me/Einundzwanzig_Passau",
     "city": "Passau",
-    "longitude": 13.4609744,
-    "latitude": 48.5748229,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-passau",
+    "twitter": null,
+    "event": {
       "start": "2023-12-09 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/864",
       "location": "94124 Büchlberg - auf der Stoabruch Weihnacht",
@@ -2082,100 +1757,82 @@
       "link": null,
       "attendees": 1,
       "nostr_note": "3ff3822bba944423d007200f58eac93d4f7fb13449dc6a3f290d9d7042058b44"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Pfalz",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
-    "url": "https://t.me/einundzwanzigPfalz",
-    "top": 59,
-    "left": 19,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
+    "latLng": [
+      49.9531599,
+      7.310646
     ],
+    "url": "https://t.me/einundzwanzigPfalz",
     "city": "Pfalz",
-    "longitude": 7.310646,
-    "latitude": 49.9531599,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Pfarrkirchen (Rottal-Inn)",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfarrkirchen-rottal-inn",
-    "url": "https://t.me/BTCPAN",
-    "top": 68,
-    "left": 65,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      48.4320329,
+      12.9386266
     ],
+    "url": "https://t.me/BTCPAN",
     "city": "Pfarrkirchen",
-    "longitude": 12.9386266,
-    "latitude": 48.4320329,
-    "twitter_username": "",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfarrkirchen-rottal-inn",
+    "twitter": "",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Pforzheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pforzheim",
+    "latLng": [
+      48.893379,
+      8.70493
+    ],
     "url": "https://t.me/EinundzwanzigPforzheim",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Pforzheim",
-    "longitude": 8.70493,
-    "latitude": 48.893379,
-    "twitter_username": "EinundzwanzigP",
-    "website": "https://t.me/EinundzwanzigPforzheim",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pforzheim",
+    "twitter": "EinundzwanzigP",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Potsdam",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-potsdam",
-    "url": "https://t.me/Einundzwanzig_Potsdam",
-    "top": 27,
-    "left": 63,
-    "country": "DE",
-    "state": [
-      "Brandenburg"
+    "latLng": [
+      52.4009309,
+      13.0591397
     ],
+    "url": "https://t.me/Einundzwanzig_Potsdam",
     "city": "Potsdam",
-    "longitude": 13.0591397,
-    "latitude": 52.4009309,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-potsdam",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Recklinghausen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
-    "url": "https://t.me/Einundzwanzig_Recklinghausen",
-    "top": 33,
-    "left": 22,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.6143815,
+      7.1978546
     ],
+    "url": "https://t.me/Einundzwanzig_Recklinghausen",
     "city": "Recklinghausen",
-    "longitude": 7.1978546,
-    "latitude": 51.6143815,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
+    "twitter": null,
+    "event": {
       "start": "2023-12-18 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/900",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
@@ -2183,26 +1840,22 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "7aded67a012a2f24f2eabc7fbe1ba2e65205d3f6b5a152eb0834f44f53751086"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Regensburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
-    "url": "https://t.me/+2s5SRFj8khYwYzNi",
-    "top": 62,
-    "left": 57,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      49.0195333,
+      12.0974869
     ],
+    "url": "https://t.me/+2s5SRFj8khYwYzNi",
     "city": "Regensburg",
-    "longitude": 12.0974869,
-    "latitude": 49.0195333,
-    "twitter_username": "EinundzwanzigRg",
-    "website": "https://www.bitcoin-regensburg.de",
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
+    "twitter": "EinundzwanzigRg",
+    "event": {
       "start": "2023-12-03 10:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/918",
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
@@ -2210,41 +1863,37 @@
       "link": "https://g.co/kgs/4Ed9iN",
       "attendees": 4,
       "nostr_note": "c5f5f62115d267b033330f655767a78c83d7197113577f3f0849018331509a9e"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Reutlingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-reutlingen",
+    "latLng": [
+      48.506939,
+      9.203804
+    ],
     "url": "https://t.me/+JBYyytK2NncyNTYy",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Reutlingen",
-    "longitude": 9.203804,
-    "latitude": 48.506939,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-reutlingen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Rheinhessen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
+    "latLng": [
+      49.7842147,
+      8.0347486
+    ],
     "url": "https://t.me/EinundzwanzigRHH",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Rhoihesse",
-    "longitude": 8.0347486,
-    "latitude": 49.7842147,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
+    "twitter": null,
+    "event": {
       "start": "2023-12-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/568",
       "location": "Wird bei Telegram bekannt gegeben.",
@@ -2252,60 +1901,52 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "f523e31f9feef4a4a85d20a72004f5ac9d370ae80e745c479959c403fe68a3a6"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Rheinisch-Bergischer Kreis",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
+    "latLng": [
+      50.991772,
+      7.13648
+    ],
     "url": "https://t.me/+IT8SUzDOLtZmM2Ey",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Rheinisch-Bergischer Kreis",
-    "longitude": 7.13648,
-    "latitude": 50.991772,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Rosenheim",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rosenheim",
-    "url": "https://t.me/Einundzwanzig_Rosenheim",
-    "top": 75,
-    "left": 57,
-    "country": "DE",
-    "state": [
-      "Bayern"
+    "latLng": [
+      47.8539273,
+      12.127262
     ],
+    "url": "https://t.me/Einundzwanzig_Rosenheim",
     "city": "Rosenheim",
-    "longitude": 12.127262,
-    "latitude": 47.8539273,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rosenheim",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Rostock",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
+    "latLng": [
+      54.092442,
+      12.099147
+    ],
     "url": "https://t.me/einundzwanzigRostock",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Rostock",
-    "longitude": 12.099147,
-    "latitude": 54.092442,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
+    "twitter": null,
+    "event": {
       "start": "2023-12-21 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/452",
       "location": "Rostock",
@@ -2313,43 +1954,37 @@
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
       "attendees": 0,
       "nostr_note": "e76b6ea05c9656b0e8cb8d689d328bc5cdae42da9e093eef8edaca370527e5fa"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Saarland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
-    "url": "https://t.me/einundzwanzigsaarland",
-    "top": 58,
-    "left": 13,
-    "country": "DE",
-    "state": [
-      "Saarland"
+    "latLng": [
+      49.3841872,
+      6.9537369
     ],
+    "url": "https://t.me/einundzwanzigsaarland",
     "city": "Saarland",
-    "longitude": 6.9537369,
-    "latitude": 49.3841872,
-    "twitter_username": "einundzwanzigSL",
-    "website": "https://einundzwanzig.saarland",
-    "simplex": null,
-    "nostr": "npub1jaff4nnja4jhvntk22crt9axtl3n9vrrnxj5hgg2zsezrlp5jxyqexhtrt",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
+    "twitter": "einundzwanzigSL",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Saarland Stammtisch St. Wendel",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
+    "latLng": [
+      49.468056,
+      7.1725
+    ],
     "url": "https://t.me/+O4QRQXEEo_Y0MTZi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "St. Wendel",
-    "longitude": 7.1725,
-    "latitude": 49.468056,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
+    "twitter": null,
+    "event": {
       "start": "2023-11-30 18:21:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/917",
       "location": "St. Wendel, Café Journal",
@@ -2357,100 +1992,82 @@
       "link": "https://t.me/einundzwanzigsaarland_stwendel",
       "attendees": 1,
       "nostr_note": "27628492aae4ef5b6b2cf28fd80ea534013b925ef216d2a3c87c33443eb294a8"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Saarlouis",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
-    "url": "https://t.me/EinundzwanzigSaarlouis",
-    "top": 57,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Saarland"
+    "latLng": [
+      49.315681,
+      6.75034
     ],
+    "url": "https://t.me/EinundzwanzigSaarlouis",
     "city": "Saarlouis",
-    "longitude": 6.75034,
-    "latitude": 49.315681,
-    "twitter_username": "21Saarlouis",
-    "website": "https://twitter.com/21Saarlouis",
-    "simplex": null,
-    "nostr": "npub1qhjtcfcreannyfvfv8yzmz0krzpgep7tyv0tvm9cldw5jeqes6fqeks79t",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
+    "twitter": "21Saarlouis",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Sachsen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sachsen",
-    "url": "https://t.me/einundzwanzigsachsen",
-    "top": 38,
-    "left": 70,
-    "country": "DE",
-    "state": [
-      "Sachsen"
+    "latLng": [
+      50.9295798,
+      13.4585052
     ],
+    "url": "https://t.me/einundzwanzigsachsen",
     "city": "Sachsen",
-    "longitude": 13.4585052,
-    "latitude": 50.9295798,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sachsen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Sachsen-Anhalt",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sachsen-anhalt",
-    "url": "https://t.me/Meetup21SA",
-    "top": 31,
-    "left": 53,
-    "country": "DE",
-    "state": [
-      "Sachsen-Anhalt"
+    "latLng": [
+      52.1315889,
+      11.6399609
     ],
+    "url": "https://t.me/Meetup21SA",
     "city": "Magdeburg",
-    "longitude": 11.6399609,
-    "latitude": 52.1315889,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sachsen-anhalt",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Sauerland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sauerland",
-    "url": "https://t.me/einundzwanzig_sauerland",
-    "top": 35,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.2609835,
+      8.0475484
     ],
+    "url": "https://t.me/einundzwanzig_sauerland",
     "city": "Sauerland",
-    "longitude": 8.0475484,
-    "latitude": 51.2609835,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sauerland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Schwarzwald-Baar",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
+    "latLng": [
+      47.977421,
+      8.493957
+    ],
     "url": "http://t.me/einundzwanzigsbk",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Schwarzwald-Baar-Kreis",
-    "longitude": 8.493957,
-    "latitude": 47.977421,
-    "twitter_username": "derflx",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
+    "twitter": "derflx",
+    "event": {
       "start": "2023-12-16 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/922",
       "location": "Zum Wilden Michel, 78120 Furtwangen, Linach 6",
@@ -2458,132 +2075,112 @@
       "link": "https://g.co/kgs/v7Tsct",
       "attendees": 1,
       "nostr_note": "3fb6eb9ebdb286789d554481b1e31829d073c2c4abe7c76484313f848b9edf1a"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Schwerin ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
+    "latLng": [
+      53.635502,
+      11.40125
+    ],
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Schwerin",
-    "longitude": 11.40125,
-    "latitude": 53.635502,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Siegen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-siegen",
-    "url": "https://t.me/einundzwanzig_siegen",
-    "top": 43,
-    "left": 23,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      50.8749804,
+      8.0227233
     ],
+    "url": "https://t.me/einundzwanzig_siegen",
     "city": "Siegen",
-    "longitude": 8.0227233,
-    "latitude": 50.8749804,
-    "twitter_username": "Bitcoinizer",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-siegen",
+    "twitter": "Bitcoinizer",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Sigmaringen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sigmaringen",
-    "url": "https://t.me/EinundzwanzigSigmaringen",
-    "top": 72,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      48.085758,
+      9.21662
     ],
+    "url": "https://t.me/EinundzwanzigSigmaringen",
     "city": "Sigmaringen",
-    "longitude": 9.21662,
-    "latitude": 48.085758,
-    "twitter_username": "EinundzwanzigSi",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sigmaringen",
+    "twitter": "EinundzwanzigSi",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Solingen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
-    "url": "https://t.me/einundzwanzig_solingen",
-    "top": 39,
-    "left": 18,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      51.1721629,
+      7.0845893
     ],
+    "url": "https://t.me/einundzwanzig_solingen",
     "city": "Solingen",
-    "longitude": 7.0845893,
-    "latitude": 51.1721629,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Spreewald ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
+    "latLng": [
+      51.850361,
+      13.71362
+    ],
     "url": "https://t.me/einundzwanzigspreewald",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Spreewald ",
-    "longitude": 13.71362,
-    "latitude": 51.850361,
-    "twitter_username": "schlabendorf",
-    "website": "https://www.einundzwanzig.space",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
+    "twitter": "schlabendorf",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Starnberg - Bitcoin Meetup",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-starnberg-bitcoin-meetup",
+    "latLng": [
+      48.000542,
+      11.34286
+    ],
     "url": "https://t.me/Bitcoin_Starnberg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Starnberg",
-    "longitude": 11.34286,
-    "latitude": 48.000542,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-starnberg-bitcoin-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Strohgäu",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
+    "latLng": [
+      48.816685,
+      9.01803
+    ],
     "url": "https://t.me/+mEqPNx7Xx_M4MGQ6",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Region Strohgäu ",
-    "longitude": 9.01803,
-    "latitude": 48.816685,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
+    "twitter": null,
+    "event": {
       "start": "2023-11-30 19:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/868",
       "location": "Höfingen",
@@ -2591,26 +2188,22 @@
       "link": "https://maps.app.goo.gl/icGAaK2FNJcxst3B6",
       "attendees": 1,
       "nostr_note": "4898780f769d4cfcb1c4162e2cf918ec09f7349dca64b2048c875874bf35d103"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Stuttgart",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
-    "url": "https://t.me/einundzwanzigStuttgart",
-    "top": 66,
-    "left": 30,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      48.7784485,
+      9.1800132
     ],
+    "url": "https://t.me/einundzwanzigStuttgart",
     "city": "Stuttgart",
-    "longitude": 9.1800132,
-    "latitude": 48.7784485,
-    "twitter_username": "EinundzwanzigS",
-    "website": "https://einundzwanzig-stuttg.art/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
+    "twitter": "EinundzwanzigS",
+    "event": {
       "start": "2023-12-08 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/687",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
@@ -2618,43 +2211,37 @@
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
       "attendees": 0,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Süd Niedersachsen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
+    "latLng": [
+      51.5328328,
+      9.9351811
+    ],
     "url": "https://t.me/einundzwanzigsuedniedersachsen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Göttingen",
-    "longitude": 9.9351811,
-    "latitude": 51.5328328,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Trier",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
-    "url": "https://t.me/Einundzwanzig_Trier",
-    "top": 55,
-    "left": 10,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
+    "latLng": [
+      49.7596208,
+      6.6441878
     ],
+    "url": "https://t.me/Einundzwanzig_Trier",
     "city": "Trier",
-    "longitude": 6.6441878,
-    "latitude": 49.7596208,
-    "twitter_username": "EinundzwanzigTR",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
+    "twitter": "EinundzwanzigTR",
+    "event": {
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/920",
       "location": "Paulaner in Zurlauben",
@@ -2662,142 +2249,112 @@
       "link": "https://paulaner-tr.de",
       "attendees": 0,
       "nostr_note": "13f471baba562cf07ad142d54e7405441e84be4ae675e71a22aa614eef343959"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Ulm",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm",
+    "latLng": [
+      48.3974003,
+      9.9934336
+    ],
     "url": "https://t.me/Einundzwandig_Ulm",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Ulm",
-    "longitude": 9.9934336,
-    "latitude": 48.3974003,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Villingen-Schwenningen",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-villingen-schwenningen",
+    "latLng": [
+      48.059402,
+      8.464087
+    ],
     "url": "https://t.me/+z8CNwSG7M38xOThi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Villingen-Schwenningen",
-    "longitude": 8.464087,
-    "latitude": 48.059402,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-villingen-schwenningen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Vulkaneifel",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
-    "url": "https://t.me/Einundzwanzig_Vulka",
-    "top": 52,
-    "left": 12,
-    "country": "DE",
-    "state": [
-      "Rheinland-Pfalz"
+    "latLng": [
+      50.20976,
+      6.97981
     ],
+    "url": "https://t.me/Einundzwanzig_Vulka",
     "city": "Ulmen",
-    "longitude": 6.97981,
-    "latitude": 50.20976,
-    "twitter_username": "EinundzwanzigVE",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
+    "twitter": "EinundzwanzigVE",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Wacken",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wacken",
-    "url": "https://t.me/einundzwanzigWOA",
-    "top": 10,
-    "left": 37,
-    "country": "DE",
-    "state": [
-      "Schleswig-Holstein"
+    "latLng": [
+      54.020012,
+      9.3759
     ],
+    "url": "https://t.me/einundzwanzigWOA",
     "city": "Wacken",
-    "longitude": 9.3759,
-    "latitude": 54.020012,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wacken",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Westmünsterland",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland",
-    "url": "https://t.me/Einundzwanzig_Westmuensterland",
-    "top": 29,
-    "left": 14,
-    "country": "DE",
-    "state": [
-      "Nordrhein-Westfalen"
+    "latLng": [
+      52.03582,
+      6.82741
     ],
+    "url": "https://t.me/Einundzwanzig_Westmuensterland",
     "city": "Vreden",
-    "longitude": 6.82741,
-    "latitude": 52.03582,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Wetterau",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
+    "latLng": [
+      50.336731,
+      8.75353
+    ],
     "url": "https://t.me/einundzwanzig_wetterau",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Wetterau",
-    "longitude": 8.75353,
-    "latitude": 50.336731,
-    "twitter_username": "EinundzwanzigFB",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
-      "start": "2023-11-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/799",
-      "location": "Musikbistro",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://maps.app.goo.gl/KkYQMoxLi5r3ktvU6?g_st=ic",
-      "attendees": 1,
-      "nostr_note": "25710572cb867c96049aaf545abdb151f3be2d97c9748bd10c1c8ee3a72a8350"
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
+    "twitter": "EinundzwanzigFB",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Wiesbaden",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
-    "url": "https://t.me/einundzwanzigwiesbaden",
-    "top": 50,
-    "left": 20,
-    "country": "DE",
-    "state": [
-      "Hessen"
+    "latLng": [
+      50.0820384,
+      8.2416556
     ],
+    "url": "https://t.me/einundzwanzigwiesbaden",
     "city": "Wiesbaden",
-    "longitude": 8.2416556,
-    "latitude": 50.0820384,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
+    "twitter": null,
+    "event": {
       "start": "2023-11-30 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/506",
       "location": "Wiesbaden",
@@ -2805,26 +2362,22 @@
       "link": "https://t.me/einundzwanzigwiesbaden",
       "attendees": 1,
       "nostr_note": "676f7369e36efcb36452809807d990fcc46e36da95d1d639052de84a75f3ab96"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Zollern-Alb-Kreis (Balingen)",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
-    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "top": 71,
-    "left": 27,
-    "country": "DE",
-    "state": [
-      "Baden-Württemberg"
+    "latLng": [
+      48.27549,
+      8.85511
     ],
+    "url": "https://t.me/+wNgJ6sTsTOljMjFi",
     "city": "Balingen",
-    "longitude": 8.85511,
-    "latitude": 48.27549,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
+    "twitter": null,
+    "event": {
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/923",
       "location": "Dotternhausen Schiefererlebnis ",
@@ -2832,126 +2385,112 @@
       "link": "https://maps.app.goo.gl/xWw8ULvXSmnW13BA8?g_st=ic",
       "attendees": 0,
       "nostr_note": "b14e10f36c23bdd547e1088ec78f825f1343103742daf42303ec6ee47f444bdd"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Ellwangen ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/ellwangen",
+    "latLng": [
+      48.9615975,
+      10.131975
+    ],
     "url": "https://t.me/einundzwanzigEllwangen",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Ellwangen",
-    "longitude": 10.131975,
-    "latitude": 48.9615975,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/ellwangen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Flensburg",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/flensburg",
+    "latLng": [
+      54.792313,
+      9.434699
+    ],
     "url": "https://t.me/Einundzwanzig_NF",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Flensburg",
-    "longitude": 9.434699,
-    "latitude": 54.792313,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Kirchheim Teck ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/kirchheim-teck",
+    "latLng": [
+      48.64769,
+      9.45394
+    ],
     "url": "https://t.me/einundzwanzigStuttgart",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Kirchheim Teck ",
-    "longitude": 9.45394,
-    "latitude": 48.64769,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/kirchheim-teck",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Meetup Düsseldorf",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
+    "latLng": [
+      51.2254018,
+      6.7763137
+    ],
     "url": "https://t.me/einundzwanzig_duesseldorf",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Düsseldorf",
-    "longitude": 6.7763137,
-    "latitude": 51.2254018,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Satoshis Coffeeshop",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/satoshis-coffeeshop",
+    "latLng": [
+      48.1371079,
+      11.5753822
+    ],
     "url": "https://t.me/satoshiscoffeeshop",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "München",
-    "longitude": 11.5753822,
-    "latitude": 48.1371079,
-    "twitter_username": "satoshiscoffee",
-    "website": "https://bitcoinlight.house/events/satoshis-coffeeshop/",
-    "simplex": null,
-    "nostr": "npub1vwpcguqfrrn2guj8wpzahnpzjd32crny5jxeylzg4asf49ttjdyqurc6p8",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/satoshis-coffeeshop",
+    "twitter": "satoshiscoffee",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Sylt ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/sylt",
+    "latLng": [
+      54.95,
+      8.34
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Sylt ",
-    "longitude": 8.34,
-    "latitude": 54.95,
-    "twitter_username": "@Steffux75",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/sylt",
+    "twitter": "@Steffux75",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Würzburg ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
+    "latLng": [
+      49.791306,
+      9.953355
+    ],
     "url": "https://t.me/einundzwanzig_wuerzburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Würzburg ",
-    "longitude": 9.953355,
-    "latitude": 49.791306,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
+    "twitter": null,
+    "event": {
       "start": "2023-12-08 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/916",
       "location": "Blauer Adler",
@@ -2959,94 +2498,82 @@
       "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
       "attendees": 0,
       "nostr_note": "6aae926d38136cd6104269d0008f7d8031580762a48a3a741b4a62ff8289daac"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "Zoolook ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/zoolook",
+    "latLng": [
+      48.27549,
+      8.85511
+    ],
     "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Balingen",
-    "longitude": 8.85511,
-    "latitude": 48.27549,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/zoolook",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "einundzwanzig Ludwigsburg ",
-    "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ludwigsburg",
+    "latLng": [
+      48.89731,
+      9.19161
+    ],
     "url": "https://t.me/einundzwanzigLudwigsburg",
-    "top": null,
-    "left": null,
-    "country": "DE",
-    "state": null,
     "city": "Ludwigsburg ",
-    "longitude": 9.19161,
-    "latitude": 48.89731,
-    "twitter_username": "einundzwanzigLB",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ludwigsburg",
+    "twitter": "einundzwanzigLB",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Austria",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
-    "url": "https://bitcoin-austria.at/events/",
-    "top": 69,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
+    "latLng": [
+      47.516232,
+      14.550072
     ],
+    "url": "https://bitcoin-austria.at/events/",
     "city": "Austria",
-    "longitude": 14.550072,
-    "latitude": 47.516232,
-    "twitter_username": "bitcoin_at",
-    "website": "https://bitcoin-austria.at/",
-    "simplex": null,
-    "nostr": "npub16tcathdvfgx30ds3fjy8d80kwwdks5pe29ms4yda2ydzqat4uydsyq5jkf",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
+    "twitter": "bitcoin_at",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Einundzwanzig Amstetten",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-amstetten",
+    "latLng": [
+      48.123341,
+      14.87145
+    ],
     "url": "https://t.me/+t08TLbdRTj1iMmU0",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Amstetten",
-    "longitude": 14.87145,
-    "latitude": 48.123341,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-amstetten",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ausserfern",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
+    "latLng": [
+      47.48748,
+      10.71948
+    ],
     "url": "https://t.me/einundzwanzig_AUSSERFERN",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Reutte",
-    "longitude": 10.71948,
-    "latitude": 47.48748,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
+    "twitter": null,
+    "event": {
       "start": "2023-12-21 19:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/545",
       "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
@@ -3054,79 +2581,67 @@
       "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
       "attendees": 0,
       "nostr_note": "d0e4e9089534a11a23959c728aaef583a2a436f722aff4f1b0dc330b4c00976a"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Autobahn A9",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-autobahn-a9",
+    "latLng": [
+      47.0708678,
+      15.4382786
+    ],
     "url": "",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Graz",
-    "longitude": 15.4382786,
-    "latitude": 47.0708678,
-    "twitter_username": "einundzwanzig_a9",
-    "website": "",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-autobahn-a9",
+    "twitter": "einundzwanzig_a9",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Gastein",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-gastein",
+    "latLng": [
+      47.114349,
+      13.136
+    ],
     "url": "https://t.me/+ayFql2Yr56A4MjE0",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Bad Gastein",
-    "longitude": 13.136,
-    "latitude": 47.114349,
-    "twitter_username": "BtcGastein",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-gastein",
+    "twitter": "BtcGastein",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Klagenfurt",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-klagenfurt",
-    "url": "https://t.me/Einundzwanzig_Kaernten",
-    "top": 88,
-    "left": 73,
-    "country": "AT",
-    "state": [
-      "Kärnten"
+    "latLng": [
+      46.623943,
+      14.3075976
     ],
+    "url": "https://t.me/Einundzwanzig_Kaernten",
     "city": "Klagenfurt",
-    "longitude": 14.3075976,
-    "latitude": 46.623943,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-klagenfurt",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Linz",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
-    "url": "https://t.me/Einundzwanzig_Linz",
-    "top": 69,
-    "left": 77,
-    "country": "AT",
-    "state": [
-      "Oberösterreich"
+    "latLng": [
+      48.306938,
+      14.28583
     ],
+    "url": "https://t.me/Einundzwanzig_Linz",
     "city": "Linz",
-    "longitude": 14.28583,
-    "latitude": 48.306938,
-    "twitter_username": "Einundzwanzig_L",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
+    "twitter": "Einundzwanzig_L",
+    "event": {
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84",
       "location": "Cafe Froschberg",
@@ -3134,26 +2649,22 @@
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84?l=de",
       "attendees": 2,
       "nostr_note": "848356f42e17faaf8b0ad095ee0c03655341970eddb34472f1971c70e3e8d20e"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Nordburgenland",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
-    "url": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
-    "top": 73,
-    "left": 97,
-    "country": "AT",
-    "state": [
-      "Burgenland"
+    "latLng": [
+      47.84248,
+      16.60317
     ],
+    "url": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
     "city": "Nordburgenland",
-    "longitude": 16.60317,
-    "latitude": 47.84248,
-    "twitter_username": "21_nordbgld",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
+    "twitter": "21_nordbgld",
+    "event": {
       "start": "2023-12-01 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/57",
       "location": "Joe´s Pub, Neusiedl am See, Untere Hauptstraße 15",
@@ -3161,79 +2672,67 @@
       "link": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
       "attendees": 0,
       "nostr_note": "cb4197f775fac8524b06fb1de8fa868daed8fd952e9c3a16c32a3f11d4c5a94f"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Ried i.I.",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ried-ii",
-    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
-    "top": 70,
-    "left": 69,
-    "country": "AT",
-    "state": [
-      "Oberösterreich"
+    "latLng": [
+      48.20823,
+      13.48714
     ],
+    "url": "https://t.me/joinchat/ilNlHsXTLqsyOTA0",
     "city": "Ried i.I.",
-    "longitude": 13.48714,
-    "latitude": 48.20823,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ried-ii",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Rohrbach",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-rohrbach",
+    "latLng": [
+      48.570985,
+      13.988263
+    ],
     "url": "t.me/+LW4hmWSUUPgxYWI8",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Rohrbach",
-    "longitude": 13.988263,
-    "latitude": 48.570985,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-rohrbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Salzburg",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
-    "url": "https://t.me/BitcoinSalzburg",
-    "top": 76,
-    "left": 66,
-    "country": "AT",
-    "state": [
-      "Salzburg"
+    "latLng": [
+      47.7981346,
+      13.0464806
     ],
+    "url": "https://t.me/BitcoinSalzburg",
     "city": "Salzburg",
-    "longitude": 13.0464806,
-    "latitude": 47.7981346,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Schärding",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
+    "latLng": [
+      48.456575,
+      13.449814
+    ],
     "url": "https://t.me/Einundzwanzig_Passau",
-    "top": null,
-    "left": null,
-    "country": "AT",
-    "state": null,
     "city": "Schärding",
-    "longitude": 13.449814,
-    "latitude": 48.456575,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
+    "twitter": null,
+    "event": {
       "start": "2023-12-16 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/482",
       "location": "Passau oder Schärding",
@@ -3241,45 +2740,37 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "80a816e21a3dfc83e4aec6d732a162016b28e7f4e76cf60cb2c2e53d50329913"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Styria",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
-    "url": "https://t.me/Einundzwanzig_Styria",
-    "top": 84,
-    "left": 87,
-    "country": "AT",
-    "state": [
-      "Steiermark"
+    "latLng": [
+      47.2500001,
+      15.1666665
     ],
+    "url": "https://t.me/Einundzwanzig_Styria",
     "city": "Styria",
-    "longitude": 15.1666665,
-    "latitude": 47.2500001,
-    "twitter_username": "EinundzwanzigSt",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
+    "twitter": "EinundzwanzigSt",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Tirol",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
-    "url": "https://bitcoin-tirol.at/",
-    "top": 82,
-    "left": 51,
-    "country": "AT",
-    "state": [
-      "Tirol"
+    "latLng": [
+      47.223193,
+      11.5261028
     ],
+    "url": "https://bitcoin-tirol.at/",
     "city": "Tirol",
-    "longitude": 11.5261028,
-    "latitude": 47.223193,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
+    "twitter": null,
+    "event": {
       "start": "2023-12-20 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/52",
       "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
@@ -3287,26 +2778,22 @@
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
       "nostr_note": "01f92a910509490a90d13d592725e19efda64cd0b80db04c9539f7bd56c5e5aa"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Vorarlberg",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
-    "url": "https://t.me/BitcoinVorarlberg",
-    "top": 81,
-    "left": 37,
-    "country": "AT",
-    "state": [
-      "Vorarlberg"
+    "latLng": [
+      47.25,
+      9.9166667
     ],
+    "url": "https://t.me/BitcoinVorarlberg",
     "city": "Vorarlberg",
-    "longitude": 9.9166667,
-    "latitude": 47.25,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
+    "twitter": null,
+    "event": {
       "start": "2023-12-21 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/859",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
@@ -3314,219 +2801,187 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "0012f195486b4e68e60c5dd1dd589b89b1c657c6aa30afe75142cb7e832d3563"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Wien",
-    "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
-    "url": "https://t.me/+kM_-ZHlOS-44YWNk",
-    "top": 70,
-    "left": 93,
-    "country": "AT",
-    "state": [
-      "Wien"
+    "latLng": [
+      48.208176,
+      16.373819
     ],
+    "url": "https://t.me/+kM_-ZHlOS-44YWNk",
     "city": "Wien",
-    "longitude": 16.373819,
-    "latitude": 48.208176,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "BG BTC meet up",
-    "portalLink": "https://portal.einundzwanzig.space/bg/meetup/bg-btc-meet-up",
+    "latLng": [
+      42.644661,
+      23.339746
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "BG",
-    "state": null,
     "city": "Sofia",
-    "longitude": 23.339746,
-    "latitude": 42.644661,
-    "twitter_username": "Nackoo2000",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub18jp8mdkytalxyg06zxdevpzwkxjpy9r2rat8gapgwnmmyejp3lps7edjnx",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/bg/meetup/bg-btc-meet-up",
+    "twitter": "Nackoo2000",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin-Only Meetup in Bulgaria",
-    "portalLink": "https://portal.einundzwanzig.space/bg/meetup/bitcoin-only-meetup-in-bulgaria",
+    "latLng": [
+      42.497681,
+      27.47003
+    ],
     "url": "https://t.me/+k1uxJgMGfSdmNDk0",
-    "top": null,
-    "left": null,
-    "country": "BG",
-    "state": null,
     "city": "Bitcoin-Only Meetup in Bulgaria",
-    "longitude": 27.47003,
-    "latitude": 42.497681,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/bg/meetup/bitcoin-only-meetup-in-bulgaria",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoiners Bulgaria",
-    "portalLink": "https://portal.einundzwanzig.space/bg/meetup/bitcoiners-bulgaria",
+    "latLng": [
+      42.644661,
+      23.339746
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "BG",
-    "state": null,
     "city": "Sofia",
-    "longitude": 23.339746,
-    "latitude": 42.644661,
-    "twitter_username": "@Nackoo2000",
-    "website": null,
-    "simplex": null,
-    "nostr": "npub18jp8mdkytalxyg06zxdevpzwkxjpy9r2rat8gapgwnmmyejp3lps7edjnx",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/bg/meetup/bitcoiners-bulgaria",
+    "twitter": "@Nackoo2000",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "32-Einezwänzg Seeland",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland",
+    "latLng": [
+      47.074029,
+      7.306577
+    ],
     "url": "https://t.me/Einundzwanzig_Seeland",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Lyss",
-    "longitude": 7.306577,
-    "latitude": 47.074029,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "BTC Schwyz ",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/btc-schwyz",
+    "latLng": [
+      47.04084,
+      8.78711
+    ],
     "url": "https://www.instagram.com/bergbeiz_adlerhorst_oberiberg/",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Oberiberg",
-    "longitude": 8.78711,
-    "latitude": 47.04084,
-    "twitter_username": "Bitcoin_Chalet",
-    "website": "https://www.instagram.com/bergbeiz_adlerhorst_oberiberg/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/btc-schwyz",
+    "twitter": "Bitcoin_Chalet",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Baden Bitcoin Club",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/baden-bitcoin-club",
+    "latLng": [
+      47.47438,
+      8.30692
+    ],
     "url": "https://bitcoinbaden.ch/",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Baden CH",
-    "longitude": 8.30692,
-    "latitude": 47.47438,
-    "twitter_username": "bitcoinbaden",
-    "website": "https://bitcoinbaden.ch/",
-    "simplex": null,
-    "nostr": "npub1pa2ap3wluzefx9dpyyafxj646lk5qj4xtvw0wa48msx8nnhrn4mq72lxqs",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/baden-bitcoin-club",
+    "twitter": "bitcoinbaden",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Bern",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-bern",
-    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
-    "top": 85,
-    "left": 17,
-    "country": "CH",
-    "state": [
-      "Bern"
+    "latLng": [
+      46.9482713,
+      7.4514512
     ],
+    "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/",
     "city": "Bern",
-    "longitude": 7.4514512,
-    "latitude": 46.9482713,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-bern",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Burgdorf",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-burgdorf",
+    "latLng": [
+      47.057869,
+      7.62881
+    ],
     "url": "https://www.meetup.com/de-DE/bitcoin-bern/events/293293252/",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Burgdorf",
-    "longitude": 7.62881,
-    "latitude": 47.057869,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/bitcoin-bern/events/293293252/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-burgdorf",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Zürich",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-zuerich",
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Meetup-Switzerland/",
-    "top": 81,
-    "left": 27,
-    "country": "CH",
-    "state": [
-      "Zürich"
+    "latLng": [
+      47.3744489,
+      8.5410422
     ],
+    "url": "https://www.meetup.com/de-DE/Bitcoin-Meetup-Switzerland/",
     "city": "Zürich",
-    "longitude": 8.5410422,
-    "latitude": 47.3744489,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-zuerich",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin Zürich (Beginners)",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-zuerich-beginners",
-    "url": "https://www.meetup.com/de-DE/bitcoin-4-beginners-meetup-zurich/",
-    "top": 82.5,
-    "left": 27,
-    "country": "CH",
-    "state": [
-      "Zürich"
+    "latLng": [
+      47.3744489,
+      8.5410422
     ],
+    "url": "https://www.meetup.com/de-DE/bitcoin-4-beginners-meetup-zurich/",
     "city": "Zürich",
-    "longitude": 8.5410422,
-    "latitude": 47.3744489,
-    "twitter_username": null,
-    "website": "https://www.meetup.com/de-DE/bitcoin-4-beginners-meetup-zurich/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-zuerich-beginners",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Bitcoin-Alps",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
+    "latLng": [
+      46.7512,
+      7.6217
+    ],
     "url": "https://t.me/bitcoin_alps",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Berneroberland",
-    "longitude": 7.6217,
-    "latitude": 46.7512,
-    "twitter_username": "bitcoin_alps",
-    "website": "https://www.bitcoin-alps.ch",
-    "simplex": null,
-    "nostr": "npub1ur0jtnmrm67zr4xka8hhfluj0uk40l3gwhwzfzfy8nuem29ffg7qgszmps",
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
+    "twitter": "bitcoin_alps",
+    "event": {
       "start": "2023-12-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/639",
       "location": null,
@@ -3534,79 +2989,67 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "3ad905091f4e074e42fa681c169afec29a099049a0e0138f8d0d981eb2f17cf9"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
     "name": "EINUNDZWANZIG BASEL  - BITCOIN BASEL",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel-bitcoin-basel",
+    "latLng": [
+      47.5581077,
+      7.5878261
+    ],
     "url": "https://t.me/EinundzwanzigBS",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Basel",
-    "longitude": 7.5878261,
-    "latitude": 47.5581077,
-    "twitter_username": "einundzwanzigBS",
-    "website": "https://bitcoin-basel.ch",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel-bitcoin-basel",
+    "twitter": "einundzwanzigBS",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Einezwänzg Solothurn",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einezwaenzg-solothurn",
-    "url": "https://t.me/+o2gLvxb2SxFhNTI0",
-    "top": 82,
-    "left": 16,
-    "country": "CH",
-    "state": [
-      "Solothurn"
+    "latLng": [
+      47.31874,
+      7.6698284
     ],
+    "url": "https://t.me/+o2gLvxb2SxFhNTI0",
     "city": "Solothurn",
-    "longitude": 7.6698284,
-    "latitude": 47.31874,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einezwaenzg-solothurn",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Basel",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
-    "url": "https://t.me/EinundzwanzigBS",
-    "top": 80,
-    "left": 19,
-    "country": "CH",
-    "state": [
-      "Basel"
+    "latLng": [
+      47.5581077,
+      7.5878261
     ],
+    "url": "https://t.me/EinundzwanzigBS",
     "city": "Basel",
-    "longitude": 7.5878261,
-    "latitude": 47.5581077,
-    "twitter_username": "einundzwanzigBS",
-    "website": "https://bitcoin-basel.ch/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
+    "twitter": "einundzwanzigBS",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Biel/Bienne",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-bielbienne",
+    "latLng": [
+      47.133082805085,
+      7.2430235410705
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Biel/Bienne",
-    "longitude": 7.2430235410705,
-    "latitude": 47.133082805085,
-    "twitter_username": "YenaTattoo",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-bielbienne",
+    "twitter": "YenaTattoo",
+    "event": {
       "start": "2023-12-02 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/844",
       "location": "Untergasse 35, 2502 Biel/Bienne",
@@ -3614,65 +3057,52 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "56862e1d5611a1540c872741973f55ff9941af524f831fb16219cb2db7b8e791"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Luzern",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-luzern",
+    "latLng": [
+      47.050933,
+      8.309683
+    ],
     "url": "t.me/bitcoinluzern",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Luzern",
-    "longitude": 8.309683,
-    "latitude": 47.050933,
-    "twitter_username": null,
-    "website": "https://instagram.com/bitcoin_luzern?igshid=ZWIzMWE5ZmU3Zg",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-luzern",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Meetup Pfäffikon SZ",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-meetup-pfaeffikon-sz",
+    "latLng": [
+      47.209298,
+      8.795516
+    ],
     "url": "https://t.me/+sdT8TNEJIMc2Y2U8",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Pfäffikon SZ",
-    "longitude": 8.795516,
-    "latitude": 47.209298,
-    "twitter_username": null,
-    "website": "https://www.blockzeit.ch/stammtisch",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-meetup-pfaeffikon-sz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Ostschweiz",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
-    "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
-    "top": 80,
-    "left": 31,
-    "country": "CH",
-    "state": [
-      "St.Gallen",
-      "Graubünden",
-      "Glarus",
-      "Thurgau",
-      "Appenzell Ausserrhoden",
-      "Appenzell Innerrhoden"
+    "latLng": [
+      47.2975781,
+      9.0838964
     ],
+    "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
     "city": "Ostschweiz",
-    "longitude": 9.0838964,
-    "latitude": 47.2975781,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
+    "twitter": null,
+    "event": {
       "start": "2023-12-01 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/751",
       "location": "Ostschweiz",
@@ -3680,122 +3110,97 @@
       "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
       "attendees": 0,
       "nostr_note": "0a0ba6e5a84bc5aaf864d200b33b59be74b38582f3e5ba886b4cc73053979b68"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Schweiz",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-schweiz",
-    "url": "https://t.me/joinchat/8-FBDoq3Y9hkODZk",
-    "top": 87,
-    "left": 23,
-    "country": "CH",
-    "state": [
-      "Bern",
-      "Luzern",
-      "Nidwalden",
-      "Zürich",
-      "Zug",
-      "Solothurn"
+    "latLng": [
+      46.7985624,
+      8.2319736
     ],
+    "url": "https://t.me/joinchat/8-FBDoq3Y9hkODZk",
     "city": "Schweiz",
-    "longitude": 8.2319736,
-    "latitude": 46.7985624,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-schweiz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Thurgau",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
-    "url": "https://t.me/Einundzwanzig_Thurgau",
-    "top": 79,
-    "left": 29,
-    "country": "CH",
-    "state": [
-      "Thurgau"
+    "latLng": [
+      47.5859649,
+      9.1428769
     ],
+    "url": "https://t.me/Einundzwanzig_Thurgau",
     "city": "Thurgau",
-    "longitude": 9.1428769,
-    "latitude": 47.5859649,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Winterthur - BITCOIN WINTI",
-    "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-winterthur-bitcoin-winti",
+    "latLng": [
+      47.499882,
+      8.72616
+    ],
     "url": "https://t.me/+VOwLjn6WBilkM2U0",
-    "top": null,
-    "left": null,
-    "country": "CH",
-    "state": null,
     "city": "Winterthur",
-    "longitude": 8.72616,
-    "latitude": 47.499882,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-winterthur-bitcoin-winti",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Bitcoin Mallorca (MBD)",
-    "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
+    "latLng": [
+      39.56945,
+      2.64995
+    ],
     "url": "https://www.meetup.com/de-DE/Bitcoin-Mallorca/",
-    "top": null,
-    "left": null,
-    "country": "ES",
-    "state": null,
     "city": "Palma",
-    "longitude": 2.64995,
-    "latitude": 39.56945,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Einundzwanzig Gran Canaria",
-    "portalLink": "https://portal.einundzwanzig.space/es/meetup/einundzwanzig-gran-canaria",
-    "url": "https://t.me/GranCanaria21",
-    "top": null,
-    "left": null,
-    "country": "ES",
-    "state": [
-      "Canaria"
+    "latLng": [
+      27.931,
+      -15.606
     ],
+    "url": "https://t.me/GranCanaria21",
     "city": "Gran Canaria",
-    "longitude": -15.606,
-    "latitude": 27.931,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/es/meetup/einundzwanzig-gran-canaria",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Südtirol",
-    "portalLink": "https://portal.einundzwanzig.space/it/meetup/einundzwanzig-suedtirol",
-    "url": "https://t.me/Einundzwanzig_Suedtirol",
-    "top": 88,
-    "left": 51,
-    "country": "IT",
-    "state": [
-      "Südtirol"
+    "latLng": [
+      46.65594557,
+      11.2302129
     ],
+    "url": "https://t.me/Einundzwanzig_Suedtirol",
     "city": "Südtirol",
-    "longitude": 11.2302129,
-    "latitude": 46.65594557,
-    "twitter_username": "SudtirolBitcoin",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": {
+    "portalUrl": "https://portal.einundzwanzig.space/it/meetup/einundzwanzig-suedtirol",
+    "twitter": "SudtirolBitcoin",
+    "event": {
       "start": "2023-12-16 12:00:00",
       "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/162",
       "location": "Südtirol/TBA",
@@ -3803,199 +3208,174 @@
       "link": "https://t.me/Einundzwanzig_Suedtirol",
       "attendees": 0,
       "nostr_note": "805b9288a7db26bb663659ee8902a0c4c3bac0204481d93ed8e44a89b5a93f73"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
     "name": "Einundzwanzig Liechtenstein",
-    "portalLink": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein",
-    "url": "https://t.me/joinchat/0UnzuwPmiitlMzE0",
-    "top": 84,
-    "left": 35,
-    "country": "LI",
-    "state": [
-      "Liechtenstein"
+    "latLng": [
+      47.1416307,
+      9.5531527
     ],
+    "url": "https://t.me/joinchat/0UnzuwPmiitlMzE0",
     "city": "Liechtenstein",
-    "longitude": 9.5531527,
-    "latitude": 47.1416307,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Eenanzwanzeg Lëtzebuerg",
-    "portalLink": "https://portal.einundzwanzig.space/lu/meetup/eenanzwanzeg-letzebuerg",
-    "url": "https://t.me/einundzwanzigLU",
-    "top": 56,
-    "left": 5,
-    "country": "LU",
-    "state": [
-      "Luxembourg"
+    "latLng": [
+      49.8158683,
+      6.1296751
     ],
+    "url": "https://t.me/einundzwanzigLU",
     "city": "Luxembourg",
-    "longitude": 6.1296751,
-    "latitude": 49.8158683,
-    "twitter_username": "EinundzwanzigLU",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/lu/meetup/eenanzwanzeg-letzebuerg",
+    "twitter": "EinundzwanzigLU",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Einundzwanzig Portugal",
-    "portalLink": "https://portal.einundzwanzig.space/pt/meetup/einundzwanzig-portugal",
-    "url": "https://t.me/EinundzwanzigPortugal",
-    "top": null,
-    "left": null,
-    "country": "PT",
-    "state": [
-      "Portugal"
+    "latLng": [
+      39.6621648,
+      -8.1353519
     ],
+    "url": "https://t.me/EinundzwanzigPortugal",
     "city": "Portugal",
-    "longitude": -8.1353519,
-    "latitude": 39.6621648,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/pt/meetup/einundzwanzig-portugal",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "VINTE E UM - Funchal",
-    "portalLink": "https://portal.einundzwanzig.space/pt/meetup/vinte-e-um-funchal",
+    "latLng": [
+      32.666931,
+      -16.924055
+    ],
     "url": "https://t.me/vinteumpt",
-    "top": null,
-    "left": null,
-    "country": "PT",
-    "state": null,
     "city": "Funchal",
-    "longitude": -16.924055,
-    "latitude": 32.666931,
-    "twitter_username": null,
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/pt/meetup/vinte-e-um-funchal",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Kalmar Bitcoin MeetUp",
-    "portalLink": "https://portal.einundzwanzig.space/se/meetup/kalmar-bitcoin-meetup",
+    "latLng": [
+      56.661449,
+      16.36272
+    ],
     "url": "https://www.eventbrite.de/e/kalmar-bitcoin-open-blockchain-meetup-tickets-644994053577",
-    "top": null,
-    "left": null,
-    "country": "SE",
-    "state": null,
     "city": "Kalmar, Sverige",
-    "longitude": 16.36272,
-    "latitude": 56.661449,
-    "twitter_username": null,
-    "website": "https://www.eventbrite.de/e/kalmar-bitcoin-open-blockchain-meetup-tickets-644994053577",
-    "simplex": null,
-    "nostr": "note1m9wc7285ehvy7kjac98c8jzhz0dse60saapkar6f8hfgaq96rjasukpfmu",
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/se/meetup/kalmar-bitcoin-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Tjugoett Stockholm",
-    "portalLink": "https://portal.einundzwanzig.space/se/meetup/tjugoett-stockholm",
+    "latLng": [
+      59.329323,
+      18.068581
+    ],
     "url": "https://t.me/TjugoettStockholm",
-    "top": null,
-    "left": null,
-    "country": "SE",
-    "state": null,
     "city": "Stockholm",
-    "longitude": 18.068581,
-    "latitude": 59.329323,
-    "twitter_username": "TjugoettSthlm08",
-    "website": "https://twitter.com/TjugoettSthlm08",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/se/meetup/tjugoett-stockholm",
+    "twitter": "TjugoettSthlm08",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Yirmibir Istanbul",
-    "portalLink": "https://portal.einundzwanzig.space/tr/meetup/yirmibir-istanbul",
+    "latLng": [
+      41.0091982,
+      28.9662187
+    ],
     "url": "",
-    "top": null,
-    "left": null,
-    "country": "TR",
-    "state": null,
     "city": "Istanbul",
-    "longitude": 28.9662187,
-    "latitude": 41.0091982,
-    "twitter_username": null,
-    "website": "https://yirmibir.org",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/tr/meetup/yirmibir-istanbul",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
   },
   {
     "name": "Asheville Bitcoiners",
-    "portalLink": "https://portal.einundzwanzig.space/us/meetup/asheville-bitcoiners",
+    "latLng": [
+      35.595909,
+      -82.550041
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "US",
-    "state": null,
     "city": "Asheville",
-    "longitude": -82.550041,
-    "latitude": 35.595909,
-    "twitter_username": "avlbitcoiners",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/asheville-bitcoiners",
+    "twitter": "avlbitcoiners",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Charleston Bitcoin Meetup",
-    "portalLink": "https://portal.einundzwanzig.space/us/meetup/charleston-bitcoin-meetup",
+    "latLng": [
+      32.776474,
+      -79.931053
+    ],
     "url": null,
-    "top": null,
-    "left": null,
-    "country": "US",
-    "state": null,
     "city": "Charleston",
-    "longitude": -79.931053,
-    "latitude": 32.776474,
-    "twitter_username": "bitcoin_CHS",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/charleston-bitcoin-meetup",
+    "twitter": "bitcoin_CHS",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "Magic City Bitcoin",
-    "portalLink": "https://portal.einundzwanzig.space/us/meetup/magic-city-bitcoin",
+    "latLng": [
+      33.518589,
+      -86.810356
+    ],
     "url": "https://www.meetup.com/members/361882918/",
-    "top": null,
-    "left": null,
-    "country": "US",
-    "state": null,
     "city": "Birmingham, AL",
-    "longitude": -86.810356,
-    "latitude": 33.518589,
-    "twitter_username": "BtcBirmingham",
-    "website": "https://www.meetup.com/members/361882918/",
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/magic-city-bitcoin",
+    "twitter": "BtcBirmingham",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   },
   {
     "name": "TWENTY-ONE USA",
-    "portalLink": "https://portal.einundzwanzig.space/us/meetup/twenty-one-usa",
+    "latLng": [
+      39.89288,
+      -101.905937
+    ],
     "url": "https://t.me/+YChlvzkBt1xkYjRi",
-    "top": null,
-    "left": null,
-    "country": "US",
-    "state": null,
     "city": "United-States",
-    "longitude": -101.905937,
-    "latitude": 39.89288,
-    "twitter_username": "twentyone_usa",
-    "website": null,
-    "simplex": null,
-    "nostr": null,
-    "next_event": null
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/twenty-one-usa",
+    "twitter": "twentyone_usa",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
   }
 ]
