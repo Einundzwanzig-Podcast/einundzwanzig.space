@@ -2,16 +2,18 @@ extends /template.pug
 
 block vars
   - const title = 'Spenden'
-  - const description = 'Die folgenden Projekte, Initiativen und Entwickler haben wir mit den Shoutout-Beiträgen der Community bereits unterstützt.'
+  - const description = 'Die folgenden Projekte, Initiativen und Entwickler haben wir durch die [Shoutout-Beiträge der Community](https://shoutout.einundzwanzig.space) bereits unterstützt.'
 
 block main
   #spenden.wrap
     section
       h1= title
+      p!= markdown(description)
 
+      a.button(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Mit einem Shoutout spenden
+
+    section
       h2 Spendenübersicht
-      p= description
-
       ul.spenden
         each s in spendenuebersicht
           +spende(s)
