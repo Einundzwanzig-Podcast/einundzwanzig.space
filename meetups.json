@@ -682,15 +682,7 @@
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": {
-      "start": "2023-11-26 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/878",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 2,
-      "nostr_note": "b9e2326df0f9b001d5bbb5cd5ee7e933ce06e35d3951c8b99b89659d46279fe6"
-    }
+    "next_event": null
   },
   {
     "name": "Einundzwanzig Darmstadt",
@@ -1186,11 +1178,19 @@
     "city": "Heilbronn",
     "longitude": 9.210879,
     "latitude": 49.142693,
-    "twitter_username": null,
+    "twitter_username": "EinundzwanzigHN",
     "website": null,
     "simplex": null,
     "nostr": null,
-    "next_event": null
+    "next_event": {
+      "start": "2023-12-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/945",
+      "location": "Heilbronn Weihnachtsmarkt",
+      "description": "Wir treffen uns erst dort und danach kehren wir noch ein (Location wird noch gesucht)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "d695545d09588f0902c63670b1be66cbed33f18d433ce9ca6decbf6122f6abbb"
+    }
   },
   {
     "name": "Einundzwanzig Heinsberg",
