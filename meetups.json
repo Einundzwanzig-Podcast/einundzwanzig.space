@@ -266,7 +266,15 @@
     "city": "München (80802)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2023-12-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/946",
+      "location": "₿☕ Satoshis Coffeeshop Open House — Stemmerhof",
+      "description": "Jeden ersten Sonntag im Monat ist zukünftig Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Diskutiere mit anderen Teilnehmern über die neuesten Entwicklungen, Trends und Herausforderungen in der Bitcoin-Welt.\n\nKnüpfe Kontakte zu anderen Bitcoin-Enthusiasten, Investoren, Unternehmern und Entwicklern. Teile deine Erfahrungen und finde potenzielle Kooperationspartner für zukünftige Projekte.\n\nBring gerne Freunde und Bekannte mit, um das Bitcoin-Netzwerk weiter zu stärken und die Zukunft des Geldes zu gestalten.\n\nDie Möglichkeit für (Kurz-) Vorträge und Projektvorstellungen ist gegeben, entsprechendes Equipment und Platz dafür ist vorhanden, am besten im Voraus mit den Organisatoren absprechen.\n\nBei Bedarf wird es einen kleinen Einsteiger-Vortrag geben.\n\n**Format:** Möglichkeit zum Co-Working, Hang-out sowie (auch kurzfristig spontan Kurz-) Vorträge, Workshops, Diskussionen, oder einfach nur gemütliches Zusammensein.\n\n**Sprache:** Meist deutsch\n\n**Ablauf:**\n\n17:00 Türen sind offen, geselliges Zusammensein\n\n17:30 Bei Bedarf Bitcoin-Einführungsvortrag/-workshop/-seminar\n\n19:00 Mögliche spezielle Programmpunkte wie Projektvorstellungen oder fortgeschrittene Themen werden eher abends angesetzt\n\n23:59 Offenes Ende\n\n**Zielgruppe:** Anfänger sowie Fortgeschrittene\n\n**Erwartete Anzahl Besucher:** 10-20\n\n**Streaming/Recording:** tbd\n\n**Wann:** Sonntag, 03. Dezember 2023, 17:00 Uhr lokale Zeit (CET), Blockzeit ~819.553\n\n**Ort diesmal:** Satoshis Coffeeshop / Stemmerhof Studios, Plinganserstraße 6, Eingang “THEATER” neben “Restaurant ÖEINS”, 1. Stock\n\n* [https://bitcoinlight.house/satoshis-coffeeshop/](https://bitcoinlight.house/satoshis-coffeeshop/)\n* [https://www.stemmerhofstudios.com/](https://www.stemmerhofstudios.com/)\n* [https://goo.gl/maps/K2kH6sirnj9CSEWg6](https://goo.gl/maps/K2kH6sirnj9CSEWg6)\n* [https://www.osm.org/node/10140387989](https://www.osm.org/node/10140387989)\n\n**Mitbringen:** Bei Bedarf kann eigene Verpflegung mitgebracht werden. Das Mitbringen eigener Geräte (Laptop, Mobile Phone, etc) ist empfohlen für die Hands-On-Erfahrung.\n\n**Parken:** Vor Ort kostenpflichtig, in der Nähe mit etwas Suchaufwand möglich\n\n**ÖPNV:** BRB/RB/S7 Harras, Ausgang Nord-Ost Margaretenstraße; oder U6 Harras, Ausgang Ost Plinganserstraße; oder Bus 53/153 Sendlinger Kirche\n\n**Teilnahmegebühr:** frei\n\n**Anmeldung:** nicht notwendig, einfach vorbeikommen\n\n**Essen und Trinken:** Frisch gebrühter Kaffee aus der Espressomaschine und andere Getränke sowie eventuell vorhandene Snacks gegen Spende vorzugsweise via Bitcoin/Lightning. Verpflegung kann optional auch mitgebracht oder geholt werden, oder es organisiert sich eine Sammelbestellung, oder wir kehren nach dem Programmteil ein in eine der Lokalitäten auf dem Stemmerhof-Gelände, das entscheidet sich meist spontan vor Ort bzw nach eurer individuellen Präferenz.\n\n**Bezahlen mit Bitcoin möglich:** Vorhandene Verpflegung gegen Spende vorzugsweise via Bitcoin/Lightning, allgemeine Spende für Raummiete auch gern gesehen\n\n**Wie komm ich an Bitcoin?** Wir verschenken Kleinstbeträge (Satoshis), wenn ihr ein Lightning-fähiges Wallet bereit habt. Ferner könnte es Leute geben, die rote Bändchen tragen, die signalisieren, dass sie Bitcoin gegen Euro tauschen würden, bzw grüne Bändchen für umgekehrt. Oder ihr müsst einfach rumfragen.\n\n**Medienrichtlinie:** Viele Teilnehmer schätzen ihre Privatsphäre, bitte individuell fragen, bevor ihr Fotos oder Aufnahmen macht! Falls offiziell aufgenommen wird, bitte achtet wenn nötig selbst drauf, außerhalb der Schusslinie zu bleiben.\n\n**Kontaktiert uns:**\n\n* Twitter: [https://twitter.com/bitcoinmuc](https://twitter.com/bitcoinmuc)\n* Telegram: [https://t.me/joinchat/CYllaksSLloRHorac85fIQ](https://t.me/joinchat/CYllaksSLloRHorac85fIQ)\n\nBis demnächst!",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house/",
+      "attendees": 0,
+      "nostr_note": "4f45627fdc0f9baa4e96d5796b58f6d9205289b03db5eb1933668105fda82c21"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1372,12 +1380,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
     "twitter": null,
     "event": {
-      "start": "2023-11-28 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/341",
-      "location": "Lübeck, Beckergrube 13-17, Le Theatre Cafe Restaurant Bar",
+      "start": "2023-12-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/342",
+      "location": "Lübeck",
       "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de",
       "link": "https://www.bitcoin-luebeck.de/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
     },
     "style": {
