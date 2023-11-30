@@ -940,10 +940,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2023-11-30 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/795",
-      "location": "Hamburg-Sternschanze",
-      "description": "Absinth Bar",
+      "start": "2023-12-28 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/796",
+      "location": "Hamburg-Sternschanze ?",
+      "description": "Absinth Bar... Termin in Klärung ",
       "link": "https://absinth-bar.com/",
       "attendees": 0,
       "nostr_note": "78576cf7fdae958c2cee4877f2fc42ea8c84fa54a3c40c1bf912342edd4a0084"
@@ -1992,15 +1992,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2023-11-30 18:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/917",
-      "location": "St. Wendel, Café Journal",
-      "description": "Nach längerer Zeit endlich mal wieder ein Stammtisch in St. Wendel. Egal ob Anfänger, Fortgeschritten oder Maxi, jeder ist willkommen. ;-)",
-      "link": "https://t.me/einundzwanzigsaarland_stwendel",
-      "attendees": 1,
-      "nostr_note": "27628492aae4ef5b6b2cf28fd80ea534013b925ef216d2a3c87c33443eb294a8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2188,15 +2180,7 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": {
-      "start": "2023-11-30 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/868",
-      "location": "Höfingen",
-      "description": "10. Stammtisch: Do, 30.11. 20Uhr im Ochsen in Höfingen (🚨nur Bargeldzahlung möglich)\n\nStammtisch immer am letzten Donnerstag des Monats.\nBitcoin-only❗\n\nEinladungslink:\nhttps://t.me/+mEqPNx7Xx_M4MGQ6",
-      "link": "https://maps.app.goo.gl/icGAaK2FNJcxst3B6",
-      "attendees": 1,
-      "nostr_note": "4898780f769d4cfcb1c4162e2cf918ec09f7349dca64b2048c875874bf35d103"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2363,13 +2347,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2023-11-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/506",
+      "start": "2023-12-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/507",
       "location": "Wiesbaden",
       "description": "Die Gruppe für Bitcoiner aus Wiesbaden & Umgebung",
       "link": "https://t.me/einundzwanzigwiesbaden",
       "attendees": 1,
-      "nostr_note": "676f7369e36efcb36452809807d990fcc46e36da95d1d639052de84a75f3ab96"
+      "nostr_note": "bcf644c7c60419debfc9a951a336286f59a5d7d08e7c973b945b5341a89665c0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3261,7 +3245,15 @@
     "city": "Luxembourg",
     "portalUrl": "https://portal.einundzwanzig.space/lu/meetup/eenanzwanzeg-letzebuerg",
     "twitter": "EinundzwanzigLU",
-    "event": null,
+    "event": {
+      "start": "2023-12-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/lu/meetup/meetup-events/l/948",
+      "location": "May be not Bob’s - Rive de Clausen",
+      "description": null,
+      "link": "https://www.google.de/maps/place/Maybe+Not+Bob's,+6+Rives+de+Clausen,+2165+Grund+Luxembourg/@49.6131296,6.142929,17z/data=!4m6!3m5!1s0x47954f3490e73363:0xb63719d900329266!8m2!3d49.6131296!4d6.142929!16s%2Fg%2F1q67061f2?hl=de",
+      "attendees": 0,
+      "nostr_note": "15697a0efee9d8e66495999965878aaa45f7510b07f5206d21055df693fbff33"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
