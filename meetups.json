@@ -539,12 +539,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2023-11-29 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/627",
+      "start": "2023-12-27 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/628",
       "location": "Lagerhaus, Bremen",
       "description": null,
       "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
     },
     "style": {
@@ -771,7 +771,7 @@
       "location": "Fürth, Cafe Zanetta",
       "description": "Location:\nCafe Zanetta\nNeumannstraße 28, 90763 Fürth",
       "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
     },
     "style": {
@@ -3196,6 +3196,21 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "HerBitcoin La Palma",
+    "latLng": [
+      28.774647,
+      17.979409
+    ],
+    "url": "https://t.me/HerBitcoin_LaPalma",
+    "city": "Puntagorda , Canary Islands , La Palma",
+    "portalUrl": "https://portal.einundzwanzig.space/es/meetup/herbitcoin-la-palma",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
