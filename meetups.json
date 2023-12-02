@@ -9,7 +9,15 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/950",
+      "location": "Gießen",
+      "description": "Jhring's Wirtshaus",
+      "link": "https://goo.gl/maps/Q8rwUNW8WjLwUtSt6",
+      "attendees": 0,
+      "nostr_note": "8bd4d9370158816501ccd671aaa4c5324ca087e336c7610a2918c6ae0c39ab1f"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -572,11 +580,19 @@
       52.621922,
       10.07858
     ],
-    "url": "https://t.me/BTC_Celle",
+    "url": "https://t.me/einundzwanzig_celle",
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-13 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/949",
+      "location": "Hatti - Zöllnerstr. 22, 29221 Celle",
+      "description": null,
+      "link": "https://hattis-restaurant.de/html/content/view.php?page=home&navigation=&layout=www-hattis-restaurant-de&lang=de&language=de",
+      "attendees": 0,
+      "nostr_note": "cc948da7ea05f3bc8c57221c653d79b34afb2dc60473dedbad0e9aa9c13c4b14"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -771,7 +787,7 @@
       "location": "Fürth, Cafe Zanetta",
       "description": "Location:\nCafe Zanetta\nNeumannstraße 28, 90763 Fürth",
       "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
     },
     "style": {
@@ -1584,8 +1600,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
     "event": {
-      "start": "2023-12-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/774",
+      "start": "2024-01-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/775",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
@@ -1652,8 +1668,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2023-12-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/386",
+      "start": "2024-01-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/387",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -2656,15 +2672,7 @@
     "city": "Nordburgenland",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
-    "event": {
-      "start": "2023-12-01 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/57",
-      "location": "Joe´s Pub, Neusiedl am See, Untere Hauptstraße 15",
-      "description": "spread the word - fix the money, fix the world",
-      "link": "https://t.me/Einundzwanzig_Meetup_Nordbgld",
-      "attendees": 0,
-      "nostr_note": "cb4197f775fac8524b06fb1de8fa868daed8fd952e9c3a16c32a3f11d4c5a94f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3094,15 +3102,7 @@
     "city": "Ostschweiz",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
-    "event": {
-      "start": "2023-12-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/751",
-      "location": "Ostschweiz",
-      "description": "1.9.23 in der Trattoria Walensee um 19 Uhr\n6.10.23 Ort noch nicht bekannt\n3.11.23 Ort noch nicht bekannt\n1.12.23 Ort noch nicht bekannt\nWir treffen uns jeden ersten Freitag in lockerer Stammtischrunde irgendw in der Ostschweiz, um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\nAnfänger sind jederzeit willkommen.\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
-      "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
-      "attendees": 0,
-      "nostr_note": "0a0ba6e5a84bc5aaf864d200b33b59be74b38582f3e5ba886b4cc73053979b68"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
