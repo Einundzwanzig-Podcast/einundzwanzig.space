@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sun, 03 Dec 2023 10:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 11:47:55 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,55 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #02 - Central Weinkeller of Failure]]></title>
+      <description>NostrTalk #02 - Blockzeit 819460 - von und mit Quillie, Michael1011 und Pid
+NostrTalk by Einundzwanzig
+Intro: What Bitcoin Did
+Intro: Track von dni
+Übersicht an nostr apps
+#thenukening
+Wine Cellar
+140 char relay
+Einundzwanzig Nostrnest
+njump für pre-nostriches
+Nostr Pleb Rap (outro)
+Weitere Links:
+Besuche unsere Website
+Diskutiere mit in unserer Community
+Höre diesen Podcast via Lightning-Netzwerk mit Fountain oder Breeze
+Für 21.000 sats kannst du uns ein Shoutout da lassen</description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-02-central-weinkeller-of-failure</link>
+      <guid isPermaLink="false">3ff91586-7732-4e3c-ab9e-b1f9dfb79c1a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 03 Dec 2023 11:38:07 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/79472080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-2%2F36a5f760-c5d3-0796-76c5-a6228bd63929.mp3" length="155808221" type="audio/mpeg"></enclosure>
+      <itunes:summary>NostrTalk #02 - Blockzeit 819460 - von und mit Quillie, Michael1011 und Pid
+NostrTalk by Einundzwanzig
+Intro: What Bitcoin Did
+Intro: Track von dni
+Übersicht an nostr apps
+#thenukening
+Wine Cellar
+140 char relay
+Einundzwanzig Nostrnest
+njump für pre-nostriches
+Nostr Pleb Rap (outro)
+Weitere Links:
+Besuche unsere Website
+Diskutiere mit in unserer Community
+Höre diesen Podcast via Lightning-Netzwerk mit Fountain oder Breeze
+Für 21.000 sats kannst du uns ein Shoutout da lassen</itunes:summary>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:04:55</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1701560790703-7aba30f7ed487.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Verschiedenes #02">02</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #88 - Bitcoin ist Heilung]]></title>
       <description>Der Weg #88 - Blockzeit 817789 - von und mit Fab und Tanksen
@@ -216,7 +265,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #96">96</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -311,7 +360,7 @@ V4V Nostr Rap: loko@walletofsatoshi.com</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Verschiedenes #01">01</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="HolgerHatGarKeineNode" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="7xLiGzVqEBGYoBWvKeY7" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -522,7 +571,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Verschiedenes #01">01</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -922,7 +971,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #204">204</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -1015,7 +1064,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="El Bitcoin Ambassador" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="n034BHJnap8E2ab1phMS" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
@@ -1121,52 +1170,20 @@ Lass uns einen Shoutout da.</itunes:summary>
     </item>
     <item>
       <title><![CDATA[#201 - verliebt in Bitcoin]]></title>
-      <description>Episode 201 - Blockzeit 808738 - von und mit Quillie, Loddi, Janine und Sirius
-HerBitcoin
-Einundzwanzig On-Tour Episode
-FED macht Verlust
-Blocktrainer Forumsbeitrag zu Bison
-Einundzwanzig Meet-Up Meisterschaften Turnier
-NostrTalk by Einundzwanzig
-Sponsoren und Freunde
-BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
-Stack Deine Sats mit Pocket Bitcoin.
-Einundzwanzig Merch bei Copiaro.
-Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
-Weitere Links
-Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
-Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</description>
+      <description>Shownotes: https://einundzwanzig.space/podcast/news-201-verliebt-in-bitcoin</description>
       <link>https://einundzwanzig.space/podcast/news-201-verliebt-in-bitcoin</link>
       <guid isPermaLink="false">1c9ffedc-fa30-410c-9775-e48442ca34a3</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
       <pubDate>Fri, 22 Sep 2023 02:10:00 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/76212988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-21%2Fc29341ad-1b59-e6f9-999b-61a3294a1fa2.mp3" length="135590498" type="audio/mpeg"></enclosure>
-      <itunes:summary>Episode 201 - Blockzeit 808738 - von und mit Quillie, Loddi, Janine und Sirius
-HerBitcoin
-Einundzwanzig On-Tour Episode
-FED macht Verlust
-Blocktrainer Forumsbeitrag zu Bison
-Einundzwanzig Meet-Up Meisterschaften Turnier
-NostrTalk by Einundzwanzig
-Sponsoren und Freunde
-BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “einundzwanzig” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.
-Stack Deine Sats mit Pocket Bitcoin.
-Einundzwanzig Merch bei Copiaro.
-Bei ShopinBit kannst du über 800.000 Produkte mit Bitcoin kaufen.
-Weitere Links
-Besuche unsere Website und diskutiere mit, in unserer Telegram-Community.
-Verfolge die neusten Schlagzeilen im Newsfeed.
-Die Community-Tutorials auf YouTube.
-Lass uns einen Shoutout da.</itunes:summary>
+      <itunes:summary>Shownotes: https://einundzwanzig.space/podcast/news-201-verliebt-in-bitcoin</itunes:summary>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:10:37</itunes:duration>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #201">201</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -1226,7 +1243,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #200">200</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -1288,7 +1305,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #199">199</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -1357,7 +1374,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #197">197</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Octopus Olaf" address="02b36bd758105b7b7c87d5d4a7601f3bf5b5c7f6c0a0fc6d38a0eed1ad87be3136" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="17"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="17"></podcast:valueRecipient>
         <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="17"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="17"></podcast:valueRecipient>
@@ -1453,7 +1470,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1691767385748-93258bdb018ca.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tobo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="QgZTULTtllSKL3W3E6mY" type="node" split="25"></podcast:valueRecipient>
@@ -1497,7 +1514,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #195">195</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -1520,7 +1537,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #194">194</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="El Bitcoin Ambassador" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="n034BHJnap8E2ab1phMS" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="20"></podcast:valueRecipient>
@@ -1650,7 +1667,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #191">191</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
     </item>
@@ -1803,7 +1820,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #186">186</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
@@ -1947,7 +1964,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #182">182</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -2013,7 +2030,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #180">180</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -2219,7 +2236,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #175">175</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
@@ -2427,7 +2444,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #170">170</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -2815,7 +2832,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:episode display="News #161">161</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -2964,7 +2981,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="zerofeerouting" address="038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
@@ -3030,7 +3047,7 @@ Lass uns einen Shoutout da.</itunes:summary>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="0356cf6646a8022cdddee51204415161cb8c2f1a47d3429ebaaa1a2691e09e9c17" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://snort.social/p/npub1pzmcx6c5z77r6zf9rf7xlj3kp9mt8wk29snuphdzu7ezzl97kqrsacns7v">Fichte</podcast:person>
