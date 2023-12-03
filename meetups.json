@@ -107,15 +107,7 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": null,
-    "event": {
-      "start": "2023-12-02 15:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/881",
-      "location": "Lübeck-Travemünde",
-      "description": "16:30 Uhr Winterbaden in der Ostsee, Treffpunkt: aja Hotel Eingang Bar\n17:00 Uhr Open-Air Kino \"Human B\", Konzertmuschel Brüggmanngarten\n19:00 Uhr Meetup inkl. Votrag: \"MultiSig Basics\", aja Hotel Lounge",
-      "link": "https://bitcoinbeachtravemuende.github.io/meetup/",
-      "attendees": 0,
-      "nostr_note": "0eb122c3224c35ec41ce68b9412da933273eb7cd9e463d09a19bf46bc0ebc6ec"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -925,7 +917,15 @@
     "city": "Grenzland DE/NL",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/951",
+      "location": "Arnhem - De Woerd (Elst)",
+      "description": null,
+      "link": "https://www.google.de/maps/place/De+Woerd+eten+en+drinken/@51.941955,5.8640712,17z/data=!3m1!4b1!4m6!3m5!1s0x47c7a616ffd27abd:0x31ec9e37f354efd7!8m2!3d51.941955!4d5.8666461!16s%2Fg%2F1tr8ktj0?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "acd9ffa38d62afb492cc982d82c80fc19df030aa8fdcc6ad265b264e8206760b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1517,13 +1517,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2023-12-02 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/203",
+      "start": "2024-01-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/658",
       "location": "Münster: t.b.a.",
-      "description": "Wir treffen uns Samstag, 02. Dezember ab 19 Uhr wieder im „Kasi's Kling Klang“ https://www.muenster-geht-aus.de/kling-klang. (Innenstadt von Münster und in Bahnhofsnähe (1.5 km) zu finden: PlusCode für GoogleMaps: XJ7R+GM Münster.) ",
-      "link": "https://t.me/Einundzwanzig_MS",
+      "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig auf unserem Telegramkanal bekannt gegeben.",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "a0bddb2f407a08a6d5b03eccb788e690b9d53d8b5c84f26fe54072fa448fe980"
+      "nostr_note": "4473ba7013910cfadbda83f3ce9a6e4ce56313eb0a473618434fd9fd3e3fca24"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3049,15 +3049,7 @@
     "city": "Biel/Bienne",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-bielbienne",
     "twitter": "YenaTattoo",
-    "event": {
-      "start": "2023-12-02 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/844",
-      "location": "Untergasse 35, 2502 Biel/Bienne",
-      "description": "Wie jeden 1. Sonntag im Monat treffen wir uns heute zu unserer Bitcoin Orangepilling Party in Biel. Es gibt Apéro mit Snacks und Getränken. Das Meetup ist für alle, Bitcoin-Interessierte sowie Bitcoin-Erfahrene. Bringt gerne eure Freunde, Familie oder Kinder mit – Wir freuen uns auf euch! Zeit: 16:00 Uhr Ort: Yena’s Tattoo Lädeli, Untergasse 35, 2502 Biel\n\n|| \nComme chaque premier dimanche du mois, nous nous retrouvons aujourd’hui pour notre Bitcoin Orangepilling Party à Bienne. Il y aura un apéro avec des snacks et des boissons. Le meetup est ouvert à tous, aux personnes intéressées par le bitcoin comme aux personnes expérimentées dans ce domaine. N’hésitez pas à venir avec vos amis, votre famille ou vos enfants – nous nous réjouissons de vous accueillir ! Heure : 16:00 heures Lieu : Yena’s Tattoo Lädeli, rue Basse 35, 2502 Bienne",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "56862e1d5611a1540c872741973f55ff9941af524f831fb16219cb2db7b8e791"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
