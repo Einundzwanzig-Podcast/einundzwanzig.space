@@ -103,11 +103,19 @@
       53.961788,
       10.86834
     ],
-    "url": "",
+    "url": "https://t.me/BitcoinBeachMeetupTravemuende",
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
-    "twitter": null,
-    "event": null,
+    "twitter": "BTravemuende",
+    "event": {
+      "start": "2024-01-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/952",
+      "location": "aja Hotel Lounge, Lübeck-Travemünde",
+      "description": "Bitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde für alle Bitcoin Interessierten.\n\nJeder ist willkommen, ob zum Zuhören oder Fragenstellen.",
+      "link": "https://meetup.bitcoinbeachtravemuende.de",
+      "attendees": 0,
+      "nostr_note": "e4938fdd4ebad0806c252b9810faa38bc191bab33e0e46733406019855048aa4"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -779,7 +787,7 @@
       "location": "Fürth, Cafe Zanetta",
       "description": "Location:\nCafe Zanetta\nNeumannstraße 28, 90763 Fürth",
       "link": "https://goo.gl/maps/YhXVLPqztmfBn3ea6",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "f45890deee60cbe3fd11733a0210c117d39314c45f20ad582e1df4dcdcf303cc"
     },
     "style": {
