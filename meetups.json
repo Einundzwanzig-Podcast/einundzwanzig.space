@@ -416,6 +416,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Amberg-Sulzbach",
+    "latLng": [
+      49.4454211,
+      11.858728
+    ],
+    "url": "https://t.me/+pJ1EuA1x16JmYjc6",
+    "city": "Amberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-amberg-sulzbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Augsburg",
     "latLng": [
       48.3668041,
@@ -1531,15 +1546,7 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": {
-      "start": "2023-12-08 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/953",
-      "location": "Kaiserring 1, 46483 Wesel",
-      "description": "Kaiserhof Wesel",
-      "link": "https://maps.app.goo.gl/PNqsv3u1ZZGtJjDC7",
-      "attendees": 2,
-      "nostr_note": "d59cc4b63cd7c100a0ac719439082f002e5e2bd731b1055fdb446e814da7d971"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2212,8 +2219,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2023-12-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/687",
+      "start": "2024-01-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/688",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -2498,15 +2505,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2023-12-08 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/916",
-      "location": "Blauer Adler",
-      "description": "Wer ein gutes, in Spezialsosse eingelegtes, Halbes Hähnchen essen will muss es ein Tag vorher vorbestellen 093180414605. ",
-      "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
-      "attendees": 0,
-      "nostr_note": "6aae926d38136cd6104269d0008f7d8031580762a48a3a741b4a62ff8289daac"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
