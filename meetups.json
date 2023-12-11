@@ -1719,7 +1719,15 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-18 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/957",
+      "location": "Restaurant zur Mühle (Altlandsberg 15345)",
+      "description": "Das dritte Einundzwanzig Ost-Brandenburg Meetup findet am 18.12.23 ab 18:30 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch Reserviert und erwarten in etwa 5 Plebs. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
+      "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
+      "attendees": 1,
+      "nostr_note": "4cbbe9fa2d9f96abb7ba560330e24f1620b960f7a6ed2a7af405cc21bbecd7dd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
