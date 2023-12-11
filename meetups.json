@@ -478,15 +478,7 @@
     "city": "Bensheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
     "twitter": null,
-    "event": {
-      "start": "2023-12-11 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/938",
-      "location": "Restaurant & Cocktailbar Habanero",
-      "description": "Obergasse 16, 64673 Zwingenberg",
-      "link": "https://maps.app.goo.gl/nowKgE1xEMWxbBkM8?g_st=ic",
-      "attendees": 1,
-      "nostr_note": "702c643f09bd97539f46566f344c21017aaeb4c7d2d1421adbfe20be65d7c0f5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
