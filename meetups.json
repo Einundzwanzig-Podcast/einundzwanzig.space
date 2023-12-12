@@ -766,7 +766,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/958",
+      "location": "Essen Rüttenscheid",
+      "description": "Meet Plebs",
+      "link": "https://ampuette-essen.de/",
+      "attendees": 2,
+      "nostr_note": "e705e80f9b988816621fb1444eb33649314e469bf86916055f8c1e7276e06fe8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1717,7 +1725,7 @@
       "location": "Restaurant zur Mühle (Altlandsberg 15345)",
       "description": "Das dritte Einundzwanzig Ost-Brandenburg Meetup findet am 18.12.23 ab 18:30 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch Reserviert und erwarten in etwa 5 Plebs. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
       "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "4cbbe9fa2d9f96abb7ba560330e24f1620b960f7a6ed2a7af405cc21bbecd7dd"
     },
     "style": {
@@ -1884,7 +1892,7 @@
       "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
       "description": "₿itcoin Wochen Stammtisch Stadt und Landkreis Regensburg.\n(jeden zweiten Dienstag im Monat)",
       "link": "https://g.co/kgs/toBKdP",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "478b31a4088b5a9effbf12d1c1bcf69d09a28288445649a2bfd0298092fd5725"
     },
     "style": {
