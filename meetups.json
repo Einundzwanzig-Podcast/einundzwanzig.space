@@ -772,7 +772,7 @@
       "location": "Essen Rüttenscheid",
       "description": "Meet Plebs",
       "link": "https://ampuette-essen.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "e705e80f9b988816621fb1444eb33649314e469bf86916055f8c1e7276e06fe8"
     },
     "style": {
@@ -1076,15 +1076,7 @@
     "city": "Hennef",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
-    "event": {
-      "start": "2023-12-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/312",
-      "location": "Dorfschänke",
-      "description": null,
-      "link": "https://gasthaus-dorfschaenke.eatbu.com/?lang=de",
-      "attendees": 0,
-      "nostr_note": "e1f48e5a052c602caf6c65e285f85f7bdf2d2cec56744abfed5738a94540f5bb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1342,8 +1334,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
     "twitter": null,
     "event": {
-      "start": "2023-12-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/372",
+      "start": "2024-01-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/373",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
       "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
       "link": "",
@@ -1395,13 +1387,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
     "twitter": "",
     "event": {
-      "start": "2023-12-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/954",
-      "location": "Lübeck, Weihnachtsmarkt",
-      "description": "Ein Pleb-Walk durch den Lübecker Weihnachtsmarkt. Wir treffen uns um 19 Uhr am Eingang zum Rathaus (Breite Str. 81-73,23552 Lübeck) und wollen ab dort dann gemeinsam durch den Weihnachtsmarkt schlendern, die Köstlichkeiten genießen und den einen oder anderen Händler zum Bitcoiner machen.",
-      "link": "https://maps.app.goo.gl/rd2MtvS5jhiGYjxv8",
-      "attendees": 1,
-      "nostr_note": "897c8550f7c634304138f6c53961f4062b8a28c4b3aa149a017f7a5479494f0c"
+      "start": "2023-12-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/342",
+      "location": "Lübeck",
+      "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de ",
+      "link": "https://www.bitcoin-luebeck.de/",
+      "attendees": 0,
+      "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1886,15 +1878,7 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": {
-      "start": "2023-12-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/956",
-      "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
-      "description": "₿itcoin Wochen Stammtisch Stadt und Landkreis Regensburg.\n(jeden zweiten Dienstag im Monat)",
-      "link": "https://g.co/kgs/toBKdP",
-      "attendees": 2,
-      "nostr_note": "478b31a4088b5a9effbf12d1c1bcf69d09a28288445649a2bfd0298092fd5725"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1947,7 +1931,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2023-12-28 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/983",
+      "location": "Kürten",
+      "description": "Bistro Magnolia",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "5257f3607dd4772f7d8e3fde618497f9ad5215318c2e980faeb7c10351b9d048"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
