@@ -22,6 +22,9 @@
       &.der-weg {
         --category-accent-bg : var(--color-derweg);
       }
+      &.nostrtalk {
+        --category-accent-bg : var(--color-nostrtalk);
+      }
 
       display: inline-block;
       text-align: center;

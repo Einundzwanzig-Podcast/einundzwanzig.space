@@ -72,6 +72,10 @@
     & .interview {
       background: var(--color-interview);
     }
+
+    & .nostrtalk {
+      background: var(--color-nostrtalk);
+    }
   }
 
   & .telegram {
