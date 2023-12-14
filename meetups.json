@@ -213,15 +213,7 @@
     "city": "Halle (Saale)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
-    "event": {
-      "start": "2023-12-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/267",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "12c9835eec5b484966487831d029bc1aa6da946767882335edde3c7273f14e27"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -599,15 +591,7 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": {
-      "start": "2023-12-13 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/949",
-      "location": "Hatti - Zöllnerstr. 22, 29221 Celle",
-      "description": null,
-      "link": "https://hattis-restaurant.de/html/content/view.php?page=home&navigation=&layout=www-hattis-restaurant-de&lang=de&language=de",
-      "attendees": 0,
-      "nostr_note": "cc948da7ea05f3bc8c57221c653d79b34afb2dc60473dedbad0e9aa9c13c4b14"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -766,15 +750,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "start": "2023-12-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/958",
-      "location": "Essen Rüttenscheid",
-      "description": "Meet Plebs",
-      "link": "https://ampuette-essen.de/",
-      "attendees": 3,
-      "nostr_note": "e705e80f9b988816621fb1444eb33649314e469bf86916055f8c1e7276e06fe8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1204,7 +1180,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2023-12-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/984",
+      "location": " \"vorGlühen\" am Kemptner Weihnachtsmarkt",
+      "description": "PlebMeetup am Glühweinstand auf dem Kemptener Rathsusplatz 8, Ecke Fürstenhof. U.a. gibts endlich Flyer für's OP. Je mehr, desto besser.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "b1b222e500100e29a3f7118bd2357e6c6f39b4495a8475db7bf11c916584515c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1428,8 +1412,8 @@
       "start": "2023-12-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/413",
       "location": "Wird noch bekannt gegeben",
-      "description": null,
-      "link": null,
+      "description": "Treffpunkt ist im Hans im Glück in der Glücksteinallee.\nBitte stimmt in der Telegram Gruppe ab, wenn ihr kommt, damit genug Plätze reserviert werden können.",
+      "link": "https://hansimglueck-burgergrill.de/burger-restaurant/mannheim-glueckssteinallee/",
       "attendees": 0,
       "nostr_note": "f44961cea247bfa1c577e9f21bbb2f183583f936a8d36877dcfa1aa6198d0ec8"
     },
