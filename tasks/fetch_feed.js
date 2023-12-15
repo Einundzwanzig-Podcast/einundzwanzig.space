@@ -147,8 +147,10 @@ const parseEpisode = e => {
       ...item,
       link, // replace Anchor link
       description: { __cdata: description },
-      'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
+      //'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
     }
+    // itunes:summary seems to be gone: https://help.apple.com/itc/podcasts_connect/#/itcb54353390
+    delete updated['itunes:summary']
 
     if (episode.number) {
       updated['podcast:episode'] = {
