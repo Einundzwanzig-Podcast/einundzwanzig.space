@@ -432,15 +432,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "start": "2023-12-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/955",
-      "location": "Augsburger Christkindlmarkt",
-      "description": "Dieses mal findet das Meetup auf dem Christkindlmarkt statt.\nDer genaue Treffpunkt kann der Telegram Gruppe entnommen werden :)\n",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "e047f283ffc409f7ab48e5f53d245eb1c569967d2d5deb9db503f41a3636e4bb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3212,15 +3204,7 @@
     "city": "Luxembourg",
     "portalUrl": "https://portal.einundzwanzig.space/lu/meetup/eenanzwanzeg-letzebuerg",
     "twitter": "EinundzwanzigLU",
-    "event": {
-      "start": "2023-12-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/lu/meetup/meetup-events/l/948",
-      "location": "May be not Bob’s - Rive de Clausen",
-      "description": null,
-      "link": "https://www.google.de/maps/place/Maybe+Not+Bob's,+6+Rives+de+Clausen,+2165+Grund+Luxembourg/@49.6131296,6.142929,17z/data=!4m6!3m5!1s0x47954f3490e73363:0xb63719d900329266!8m2!3d49.6131296!4d6.142929!16s%2Fg%2F1q67061f2?hl=de",
-      "attendees": 0,
-      "nostr_note": "15697a0efee9d8e66495999965878aaa45f7510b07f5206d21055df693fbff33"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
