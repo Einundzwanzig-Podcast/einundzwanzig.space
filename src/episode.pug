@@ -2,7 +2,7 @@ extends /template.pug
 
 block vars
   - const title = episode.title
-  - const description = episode.description
+  - const description = episode.descriptionPlain
   - const cardImage = episode.image
   - const cardSize = episode.image.match('cloudfront') ? 3000 : 1400
 
@@ -25,4 +25,4 @@ block main
       +episodePlayer(episode)
 
       .content
-        !=episode.content
+        !=episode.description

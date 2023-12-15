@@ -42,8 +42,8 @@ const builder = new XMLBuilder(json2xmlOpts)
 const parseEpisode = e => {
   const guid = e.guid['#text']
   const title = e.title.__cdata.trim()
-  const content = replacements(e.description.__cdata).trim()
-  const description = stripHTML(content)
+  const description = replacements(e.description.__cdata).trim()
+  const descriptionPlain = stripHTML(description)
   let [, categoryName = 'News', number, titlePlain] = title.match(
     /([\w\s]+?)?\s?#(\d+) - (.*)/
   ) || [, , , title]
@@ -53,7 +53,7 @@ const parseEpisode = e => {
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
   if (categoryName === 'reCATion') categoryName = 'Verschiedenes'
   if (categoryName === 'NostrTalk') categoryName = 'NostrTalk'
-  const firstLine = description.split('\n')[0]
+  const firstLine = descriptionPlain.split('\n')[0]
   const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
   const block = blockMatch ? parseInt(blockMatch[1]) : null
   const category = slugify(categoryName)
@@ -82,7 +82,7 @@ const parseEpisode = e => {
     title,
     titlePlain,
     description,
-    content,
+    descriptionPlain,
     duration,
     slug,
     image,
@@ -137,15 +137,16 @@ const parseEpisode = e => {
     episodes.push(episode)
 
     const link = `https://einundzwanzig.space/podcast/${episode.slug}`
-    let description = episode.description
+    let { description, descriptionPlain } = episode
     if (index > 20) {
       description = `Shownotes: ${link}`
+      descriptionPlain = `Shownotes: ${link}`
     }
 
     const updated = {
       ...item,
       link, // replace Anchor link
-      description,
+      description: { __cdata: description },
       'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
     }
 
