@@ -18,6 +18,7 @@ const categories = {
   'lesestunde': 'Lesestunde',
   'der-weg': 'Der Weg',
   'on-tour': 'On Tour',
+  'nostrtalk': 'NostrTalk',
   'verschiedenes': 'Verschiedenes'
 }
 
