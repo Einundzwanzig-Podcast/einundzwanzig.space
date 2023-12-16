@@ -370,7 +370,7 @@
       "location": "Thalassa Sendling Cimbernstraße 3, 81377 München",
       "description": "Der 21 München Stammtisch trifft sich diesmal beim Griechen im Thalassa Sendling",
       "link": "https://maps.app.goo.gl/f69Gq1KDkRAo61sf6",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9a522a3b66d56d5164081f097b92ce347c5f85bec4268eeb299da6c6d04c6051"
     },
     "style": {
@@ -1845,7 +1845,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-01-07 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/989",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
+      "link": "https://g.co/kgs/HstWto",
+      "attendees": 4,
+      "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2591,7 +2599,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2024-01-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/991",
+      "location": "Cafe Froschberg",
+      "description": "\"Bereitet euch vor, liebe Plebs! 🚀 Unser nächstes Bitcoin-Meetup steht an, und diesmal wollen wir eure Gedanken zu einer Vereinsgründung sammeln. ",
+      "link": null,
+      "attendees": 3,
+      "nostr_note": "d5a01b05227862a3f617b61c10aedf236f9399488cc2722169bec46acb0ee7a3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3133,15 +3149,7 @@
     "city": "Südtirol",
     "portalUrl": "https://portal.einundzwanzig.space/it/meetup/einundzwanzig-suedtirol",
     "twitter": "SudtirolBitcoin",
-    "event": {
-      "start": "2023-12-16 12:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/162",
-      "location": "Südtirol/TBA",
-      "description": "Genaue Zeit und Ort wird in Telegram Gruppe bekannt gegeben",
-      "link": "https://t.me/Einundzwanzig_Suedtirol",
-      "attendees": 0,
-      "nostr_note": "805b9288a7db26bb663659ee8902a0c4c3bac0204481d93ed8e44a89b5a93f73"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
