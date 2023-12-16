@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 15 Dec 2023 00:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 04:57:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,57 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #03 - Torrent + Sechssechsechs + BnT + Prisms + DVM]]></title>
+      <description><![CDATA[<p><strong>NostrTalk #03 - Blockzeit 820902</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub1pt0kw36ue3w2g4haxq3wgm6a2fhtptmzsjlc2j2vphtcgle72qesgpjyc6">HolgerHatGarKeineNode</a> und <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a></p>
+<ul>
+ <li><p><a href="https://www.youtube.com/watch?v=aA-jiiepOrE">Nostr Dokumentation (Intro)</a></p>
+</li>
+ <li><p><a href="https://nostr.how/de/zaps">Howto Zaps</a></p>
+</li>
+ <li><p><a href="https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/">Gigi: a vision for a value enabled web</a></p>
+</li>
+ <li><p><a href="https://www.nobsbitcoin.com/lightning-prism-nostr/">Lightning Prisms on Nostr Notes</a></p>
+</li>
+ <li><p><a href="https://vendata.io">Vendata: Money in, Data out</a></p>
+</li>
+ <li><p><a href="https://trustbtc.org/">Trust BTC Community</a></p>
+</li>
+  <li><p><a href="https://www.youtube.com/watch?v=TYwtya830aw">The future of nostr? </a></p>
+</li>
+  <li><p><a href="https://soundcloud.com/donkweka/wabi-sabi" target="_blank" rel="noopener noreferer">Nostr Pleb Rap (outro)</a></p>
+</li>
+</ul>
+<p><strong>Weitere Links:</strong></p>
+<ul>
+  <li><p>Folge <a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk</a></p>
+</li>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a></p>
+</li>
+  <li><p>Diskutiere mit in unserer <a href="https://matrix.to/#/#nostrtalk:matrix.org">Community</a></p>
+</li>
+  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
+</li>
+  <li><p>V4V Nostr Rap: manlikekweks@blink.sv</p>
+</li>
+</ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-03-torrent-sechssechsechs-bnt-prisms-dvm</link>
+      <guid isPermaLink="false">c4c6ada6-aed5-4dc3-ab91-b982c9f9b8b5</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 16 Dec 2023 04:55:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/80036059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-14%2F9ff8fac6-73e5-894f-3db6-a88815eda738.mp3" length="131955306" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:54:58</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1702597006238-0fae6307b0582.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #03">03</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="HolgerHatGarKeineNode" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="7xLiGzVqEBGYoBWvKeY7" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://portal.einundzwanzig.space">HolgerHatGarKeineNode</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#213 - Hodlgate]]></title>
       <description><![CDATA[<p>Episode 213 - Blockzeit 821.032 - von und mit <a href="https://nostr.com/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</a>, <a href="https://twitter.com/swissalice1">Swiss Alice</a> und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a></p>
@@ -1142,45 +1193,7 @@ Pocket App Android<a href="https://play.google.com/store/apps/details?id=com.poc
     </item>
     <item>
       <title><![CDATA[#204 - Wir sind Turing Complete!]]></title>
-      <description><![CDATA[<p><strong>Episode 204 - Blockzeit 811744</strong> - von und mit <a href="https://robinlinus.com/">Robin Linus</a>, <a href="https://damus.io/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a>, <a href="https://damus.io/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://damus.io/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a> &amp; <a href="https://damus.io/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a></p>
-<ul>
- <li><p><a href="https://bitvm.org/bitvm.pdf">BitVM: Compute Anything on Bitcoin</a></p>
-</li>
- <li><p><a href="https://www.blocktrainer.de/solo-mining-rechner/">Solo-Mining-Rechner - Blocktrainer</a></p>
-</li>
-  <li><p><a href="https://freedom.tech/">Freedom.tech</a></p>
-</li>
-  <li><p><a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk</a></p>
-</li>
-  <li><p><a href="https://lightningnetwork.plus/posts/456">LightningNetwork+</a></p>
-</li>
-  <li><p><a href="https://geyser.fund/project/satoshisdontexist21">Satoshis Don't Exist - Geyser Fund</a></p>
-</li>
-  <li><p><a href="https://b.tc/conference/amsterdam">Bitcoin Amsterdam</a></p>
-</li>
-</ul>
-<p>Sponsoren und Freunde</p>
-<ul>
-  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
-</li>
-  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
-</li>
-  <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
-</li>
-  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
-</li>
-</ul>
-<p>Weitere Links</p>
-<ul>
-  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
-</li>
-  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
-</li>
-  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
-</li>
-  <li><p>Lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</p>
-</li>
-</ul>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-204-wir-sind-turing-complete]]></description>
       <link>https://einundzwanzig.space/podcast/news-204-wir-sind-turing-complete</link>
       <guid isPermaLink="false">e68ea7f4-ffd0-4078-b8ca-7e4f0498b6e8</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>

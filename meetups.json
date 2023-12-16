@@ -9,15 +9,7 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": {
-      "start": "2023-12-15 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/950",
-      "location": "Gießen",
-      "description": "Zääb101",
-      "link": "https://maps.app.goo.gl/QHZbgp84BMpzxt5d9",
-      "attendees": 0,
-      "nostr_note": "8bd4d9370158816501ccd671aaa4c5324ca087e336c7610a2918c6ae0c39ab1f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -372,7 +364,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2023-12-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/988",
+      "location": "Thalassa Sendling Cimbernstraße 3, 81377 München",
+      "description": "Der 21 München Stammtisch trifft sich diesmal beim Griechen im Thalassa Sendling",
+      "link": "https://maps.app.goo.gl/f69Gq1KDkRAo61sf6",
+      "attendees": 0,
+      "nostr_note": "9a522a3b66d56d5164081f097b92ce347c5f85bec4268eeb299da6c6d04c6051"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -416,6 +416,21 @@
     "url": "https://t.me/+pJ1EuA1x16JmYjc6",
     "city": "Amberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-amberg-sulzbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Ansbach",
+    "latLng": [
+      49.300652,
+      10.57146
+    ],
+    "url": "https://t.me/einundzwanzig_ansbach",
+    "city": "Ansbach",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach",
     "twitter": null,
     "event": null,
     "style": {
@@ -938,15 +953,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "start": "2023-12-28 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/796",
-      "location": "Hamburg-Sternschanze ?",
-      "description": "Absinth Bar... Termin in Klärung ",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
-      "nostr_note": "78576cf7fdae958c2cee4877f2fc42ea8c84fa54a3c40c1bf912342edd4a0084"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1400,15 +1407,7 @@
     "city": "Mannheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
-    "event": {
-      "start": "2023-12-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/413",
-      "location": "Wird noch bekannt gegeben",
-      "description": "Treffpunkt ist im Hans im Glück in der Glücksteinallee.\nBitte stimmt in der Telegram Gruppe ab, wenn ihr kommt, damit genug Plätze reserviert werden können.",
-      "link": "https://hansimglueck-burgergrill.de/burger-restaurant/mannheim-glueckssteinallee/",
-      "attendees": 0,
-      "nostr_note": "f44961cea247bfa1c577e9f21bbb2f183583f936a8d36877dcfa1aa6198d0ec8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1725,15 +1724,7 @@
     "city": "OWL",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
     "twitter": null,
-    "event": {
-      "start": "2023-12-15 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/39",
-      "location": "Paderborn/Bielefeld",
-      "description": "Monatlich wechselt das Meetup zwischen Bielefeld und Paderborn. die genaue Location wird in der Telegram-Gruppe abgestimmt und auch über Twitter veröffentlicht.",
-      "link": "https://t.me/einundzwanzig_owl",
-      "attendees": 0,
-      "nostr_note": "62132832d9154ee37087d259c473ca53dfc6d61c7052bcc364a4cd48b4d9939a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2224,15 +2215,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2023-12-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/920",
-      "location": "Paulaner in Zurlauben",
-      "description": "Wie immer treffen wir uns im Paulaner. Ihr könnt hier natürlich mit Bitcoin onchain/lightning bezahlen und bekommt dann sogar noch Rabatt🔥",
-      "link": "https://paulaner-tr.de",
-      "attendees": 0,
-      "nostr_note": "13f471baba562cf07ad142d54e7405441e84be4ae675e71a22aa614eef343959"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2360,15 +2343,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2023-12-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/923",
-      "location": "Dotternhausen Schiefererlebnis ",
-      "description": "Furchtlos und Trew",
-      "link": "https://maps.app.goo.gl/xWw8ULvXSmnW13BA8?g_st=ic",
-      "attendees": 0,
-      "nostr_note": "b14e10f36c23bdd547e1088ec78f825f1343103742daf42303ec6ee47f444bdd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2616,15 +2591,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2023-12-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84",
-      "location": "Cafe Froschberg",
-      "description": "Jahresrückblick & Weihnachtsfeier",
-      "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/84?l=de",
-      "attendees": 2,
-      "nostr_note": "848356f42e17faaf8b0ad095ee0c03655341970eddb34472f1971c70e3e8d20e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
