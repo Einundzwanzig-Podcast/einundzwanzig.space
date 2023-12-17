@@ -370,7 +370,7 @@
       "location": "Thalassa Sendling Cimbernstraße 3, 81377 München",
       "description": "Der 21 München Stammtisch trifft sich diesmal beim Griechen im Thalassa Sendling",
       "link": "https://maps.app.goo.gl/f69Gq1KDkRAo61sf6",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9a522a3b66d56d5164081f097b92ce347c5f85bec4268eeb299da6c6d04c6051"
     },
     "style": {
@@ -566,7 +566,7 @@
       "location": "Lagerhaus, Bremen",
       "description": null,
       "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
     },
     "style": {
@@ -1013,15 +1013,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2023-12-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/945",
-      "location": "Heilbronn Weihnachtsmarkt",
-      "description": "Wir treffen uns erst dort und danach kehren wir noch ein (Location wird noch gesucht)",
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "d695545d09588f0902c63670b1be66cbed33f18d433ce9ca6decbf6122f6abbb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1179,15 +1171,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2023-12-16 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/984",
-      "location": " \"vorGlühen\" am Kemptner Weihnachtsmarkt",
-      "description": "PlebMeetup am Glühweinstand auf dem Kemptener Rathsusplatz 8, Ecke Fürstenhof. U.a. gibts endlich Flyer für's OP. Je mehr, desto besser.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "b1b222e500100e29a3f7118bd2357e6c6f39b4495a8475db7bf11c916584515c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1851,7 +1835,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
       "link": "https://g.co/kgs/HstWto",
-      "attendees": 4,
+      "attendees": 6,
       "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
     },
     "style": {
@@ -2058,13 +2042,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
     "event": {
-      "start": "2023-12-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/922",
-      "location": "Zum Wilden Michel, 78120 Furtwangen, Linach 6",
-      "description": "Wer: Einundzwanzig Schwarzwald Baar - 3.Meetup\n\nWann: 16.12.2023 un 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\n",
+      "start": "2024-01-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/992",
+      "location": "Zum Wilden Michel",
+      "description": "",
       "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 1,
-      "nostr_note": "3fb6eb9ebdb286789d554481b1e31829d073c2c4abe7c76484313f848b9edf1a"
+      "attendees": 2,
+      "nostr_note": "e74f07ecb3a16ad1fa662b8f5b5359c58b0a368b5338d1edb07fad204abb00d6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2605,7 +2589,7 @@
       "location": "Cafe Froschberg",
       "description": "\"Bereitet euch vor, liebe Plebs! 🚀 Unser nächstes Bitcoin-Meetup steht an, und diesmal wollen wir eure Gedanken zu einer Vereinsgründung sammeln. ",
       "link": null,
-      "attendees": 3,
+      "attendees": 6,
       "nostr_note": "d5a01b05227862a3f617b61c10aedf236f9399488cc2722169bec46acb0ee7a3"
     },
     "style": {
