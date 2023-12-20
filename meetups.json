@@ -1270,15 +1270,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2023-12-19 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/919",
-      "location": "Landau in der Pfalz",
-      "description": "Erst Weihnachtsmarkt bei schönem Wetter und dann Bar/Restaurantbesuch.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "3b3598b56d5dc7af81232bf0f3d5948a9868fd30edc896ff4f6bb33a10750d6d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
