@@ -365,13 +365,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
     "event": {
-      "start": "2023-12-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/988",
-      "location": "Thalassa Sendling Cimbernstraße 3, 81377 München",
-      "description": "Der 21 München Stammtisch trifft sich diesmal beim Griechen im Thalassa Sendling",
-      "link": "https://maps.app.goo.gl/f69Gq1KDkRAo61sf6",
-      "attendees": 5,
-      "nostr_note": "9a522a3b66d56d5164081f097b92ce347c5f85bec4268eeb299da6c6d04c6051"
+      "start": "2024-01-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/999",
+      "location": "steht noch nicht fest. bitte in Telegram schauen.",
+      "description": "der Einundzwanzig München trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4416297a7aa17d285cc0081136451a7f7865c28ac85ac4538dbeaabe7c858198"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -432,7 +432,15 @@
     "city": "Ansbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1002",
+      "location": "Ansbach",
+      "description": "Eröffnungsstammtisch von Einundzwanzig Ansbach im Steakhouse La Rustica in Ansbach",
+      "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x410b7dce0eab5c75:0x64855665932a1696?entry=s&sa=X&ved=2ahUKEwidq8vznKCDAxU0iv0HHYNnDZkQ4kB6BAgOEAA&hl=de-de",
+      "attendees": 1,
+      "nostr_note": "8691ffcc2a34c64dad8f4ebf789a8d3bcea63d21cd2bd371ea1610992049b98f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -803,8 +811,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2023-12-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/820",
+      "start": "2024-01-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/821",
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
       "description": null,
       "link": null,
@@ -1156,15 +1164,7 @@
     "city": "Kassel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
-    "event": {
-      "start": "2023-12-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/602",
-      "location": "Greek Cuisine, Auedamm 23, 34121 Kassel. ",
-      "description": "Wir können einen Nebenraum nutzen, oder uns bei schönem Wetter auf die Terrasse mit Blick auf die Fulda setzen.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "c461d1e39beecb3c495136f75839ac120e29ea4c4794e568469d7609f78b410b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1929,12 +1929,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": null,
     "event": {
-      "start": "2023-12-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/452",
+      "start": "2024-01-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/453",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "e76b6ea05c9656b0e8cb8d689d328bc5cdae42da9e093eef8edaca370527e5fa"
     },
     "style": {
@@ -2515,15 +2515,7 @@
     "city": "Reutte",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
-    "event": {
-      "start": "2023-12-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/545",
-      "location": "\"Schmuri\" (Piano Keller) - A-6600 Reutte",
-      "description": "„Easy Meetup“ - ein ungezwungenes Treffen für Bitcoin Interessierte in lockerer Atmosphäre. Es gibt viel zu besprechen… ab ins Rabbithole 🐇",
-      "link": "https://goo.gl/maps/7fjVpZcDqiQprMWx9",
-      "attendees": 0,
-      "nostr_note": "d0e4e9089534a11a23959c728aaef583a2a436f722aff4f1b0dc330b4c00976a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2720,8 +2712,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2023-12-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/859",
+      "start": "2024-01-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/860",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": null,
