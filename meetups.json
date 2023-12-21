@@ -123,13 +123,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2023-12-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/422",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2024-01-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/971",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b924aef756aa45a39e25713e397e071bdf0a4f79740bdf2ba59b5a9dd19ad12"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -370,7 +370,7 @@
       "location": "Thalassa Sendling Cimbernstraße 3, 81377 München",
       "description": "Der 21 München Stammtisch trifft sich diesmal beim Griechen im Thalassa Sendling",
       "link": "https://maps.app.goo.gl/f69Gq1KDkRAo61sf6",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "9a522a3b66d56d5164081f097b92ce347c5f85bec4268eeb299da6c6d04c6051"
     },
     "style": {
@@ -1118,7 +1118,15 @@
     "city": "Jena",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1000",
+      "location": "Café Grünowski, Schillergäßchen 5, 07745 Jena",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "93d4f0b73a67e000d434363a992f72a60d868facad791c7091e9b2cec9fe7a17"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1248,8 +1256,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2023-12-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/516",
+      "start": "2024-01-17 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/517",
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
@@ -1827,7 +1835,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
       "link": "https://g.co/kgs/HstWto",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
     },
     "style": {
@@ -2581,7 +2589,7 @@
       "location": "Cafe Froschberg",
       "description": "\"Bereitet euch vor, liebe Plebs! 🚀 Unser nächstes Bitcoin-Meetup steht an, und diesmal wollen wir eure Gedanken zu einer Vereinsgründung sammeln. ",
       "link": null,
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "d5a01b05227862a3f617b61c10aedf236f9399488cc2722169bec46acb0ee7a3"
     },
     "style": {
@@ -2696,15 +2704,7 @@
     "city": "Tirol",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": null,
-    "event": {
-      "start": "2023-12-20 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/52",
-      "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
-      "description": "23. Bitcoin-Stammtisch Innsbruck",
-      "link": "https://bitcoin-tirol.at/",
-      "attendees": 0,
-      "nostr_note": "01f92a910509490a90d13d592725e19efda64cd0b80db04c9539f7bd56c5e5aa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
