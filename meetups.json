@@ -2395,7 +2395,15 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-24 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1003",
+      "location": "Düsseldorf Altstadt",
+      "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "fc5ed8714b2eff180deebb5555b1f68b596395d9ba1088ab16f11cd930898c31"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
