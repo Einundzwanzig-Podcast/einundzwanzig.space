@@ -262,7 +262,7 @@
       "start": "2024-01-03 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/985",
       "location": "₿🍻 Bitcoin Munich Stammtisch — THALASSA Sendling",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Schon wieder eine neue Gaststätte, die Bitcoin akzeptiert,** und die wir diesmal besuchen werden: THALASSA Sendling, ein sehr gutes griechisches Restaurant! Erneut auf Initiative von [zeitsprungbitcoin.de](https://zeitsprungbitcoin.de/)\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Sprache:** Meist deutsch, aber wir haben oft auch Teilnehmer, die englisch sprechen. Bitte gruppiert euch entsprechend, wenn nötig!\n\n**Zielgruppe:** Alle sind willkommen, Neuankömmlinge sowie alte Veteranen. Es gibt meist Gespräche über sowohl Bitcoin-Grundlagen als auch Insider- und Tech-News, außerdem Wirtschaftliches, Politisches und so weiter.\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Mittwoch, 03. Januar 2024, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~824.046\n\n**Ort diesmal:** THALASSA in Sendling, Cimbernstr. 3, 81377 München\n\n* [https://thalassa-restaurant.com/](https://thalassa-restaurant.com/)\n* [https://maps.app.goo.gl/BcCwCh9vVwEP2EZG6](https://maps.app.goo.gl/BcCwCh9vVwEP2EZG6)\n* [https://www.osm.org/node/1714857793](https://www.osm.org/node/1714857793)\n\n**Mitbringen:** —\n\n**Parken:** In der Nähe mit Suchaufwand möglich\n\n**ÖPNV:** U6 Westpark, Ausgang Süd-Ost, Fußweg Süd ca. 5 Minuten; oder Bus 63 Luise-Kiesselbach-Platz\n\n**Anmeldung:** nicht notwendig, einfach vorbeikommen\n\n**Teilnahmegebühr:** frei\n\n**Wie ihr uns findet:** Fragt das Personal nach dem Bitcoin-Tisch, oder haltet Ausschau nach Swag und Gimmicks wie (gratis!) Stickers mit dem ₿-Logo!\n\n**Essen und Trinken:** à la carte und auf eure eigene Rechnung\n\n**Bezahlen mit Bitcoin möglich:** ja, THALASSA wird fast sicher generell Bitcoin (Lightning) akzeptieren\n\n**Wie komm ich an Bitcoin?** Wir verschenken Kleinstbeträge (Satoshis), wenn ihr ein Lightning-fähiges Wallet bereit habt. Für Umtausch gegen Euro-Bargeld einfach rumfragen!\n\n**Medienrichtlinie:** Viele Teilnehmer schätzen ihre Privatsphäre, bitte individuell fragen, bevor ihr Fotos oder Aufnahmen macht!\n\nBis demnächst!",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Schon wieder eine neue Gaststätte, die Bitcoin akzeptiert,** und die wir diesmal besuchen werden: THALASSA Sendling, ein sehr gutes griechisches Restaurant! Erneut auf Initiative von [zeitsprungbitcoin.de](https://zeitsprungbitcoin.de/)\n\n[...]\n\n",
       "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations/",
       "attendees": 0,
       "nostr_note": "4d8ccba835e128df98ce3efc2b74eede62f3efc225daa9750b9cb88ff8e3ba05"
@@ -311,7 +311,15 @@
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-21 14:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1017",
+      "location": "Aderzhofen, Bude s´Eck",
+      "description": "Erstes Meetup",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "50e94f2bac3c57e2f834cc26b111909a43d591b0a32053ffa6fb23c0f7dcdfa8"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -438,7 +446,7 @@
       "location": "Ansbach",
       "description": "Eröffnungsstammtisch von Einundzwanzig Ansbach im Steakhouse La Rustica in Ansbach",
       "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x410b7dce0eab5c75:0x64855665932a1696?entry=s&sa=X&ved=2ahUKEwidq8vznKCDAxU0iv0HHYNnDZkQ4kB6BAgOEAA&hl=de-de",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "8691ffcc2a34c64dad8f4ebf789a8d3bcea63d21cd2bd371ea1610992049b98f"
     },
     "style": {
@@ -727,7 +735,15 @@
     "city": "Ellwangen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-05 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1016",
+      "location": "Ellwangen - Bistro Altstadt - Bachgasse 3",
+      "description": null,
+      "link": "https://www.bistro-altstadt.de/",
+      "attendees": 0,
+      "nostr_note": "57340aae57f986e74888e466088db0ec12a654245fdaa7411c0a20955de9f54d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -923,15 +939,7 @@
     "city": "Grenzland DE/NL",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
     "twitter": null,
-    "event": {
-      "start": "2023-12-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/951",
-      "location": "Arnhem - De Woerd (Elst)",
-      "description": null,
-      "link": "https://www.google.de/maps/place/De+Woerd+eten+en+drinken/@51.941955,5.8640712,17z/data=!3m1!4b1!4m6!3m5!1s0x47c7a616ffd27abd:0x31ec9e37f354efd7!8m2!3d51.941955!4d5.8666461!16s%2Fg%2F1tr8ktj0?entry=ttu",
-      "attendees": 0,
-      "nostr_note": "acd9ffa38d62afb492cc982d82c80fc19df030aa8fdcc6ad265b264e8206760b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1868,8 +1876,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": null,
     "event": {
-      "start": "2023-12-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/568",
+      "start": "2024-01-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/569",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
