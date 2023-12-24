@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 23 Dec 2023 20:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 06:31:49 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,66 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #98 - Liebe auf den ersten Block? - mit David Knezić zu Pocket Bitcoin]]></title>
+      <description><![CDATA[<p><strong>Liebe auf den ersten Block? - </strong><a href="https://twitter.com/davidknezic"><strong>David</strong></a><strong> im Gespräch - Blockzeit 820742</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a> &amp; <a href="https://nostr.com/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a></p>
+<p><br></p>
+<p><strong>Links</strong></p>
+<ul>
+ <li><a href="http://pocketbitcoin.com/lightning">Pocket & Lightning</a></li>
+ <li><a href="https://nostr.com/npub1zv7d9l5ac0zdzeh5mzfyaegcdgcwn8m2uaxdpsj93hgp4nqjmd0s6k82ke">Pocket auf nostr</a></li>
+ <li><a href="https://pocketbitcoin.com/merch">Hot, Hotter, Pocket Merch!</a></li>
+ <li><a href="https://x.com/davidknezic/status/1000781725369323530">Video: Bitcoin-enabled candy dispenser</a></li>
+</ul>
+<p><br></p>
+<p><strong>Sponsoren und Freunde</strong></p>
+<ul>
+ <li><p><a href="https://shiftcrypto.ch/einundzwanzig">BitBox02 Bitcoin-only Edition</a> - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
+</li>
+</ul>
+<ul>
+ <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
+</li>
+</ul>
+<ul>
+  <li><p>Stack Deine Sats mit<a href="https://pocketbitcoin.com/einundzwanzig"> Pocket Bitcoin</a>.</p>
+</li>
+</ul>
+<ul>
+  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 800.000 Produkte mit Bitcoin kaufen.</p>
+</li>
+</ul>
+<p>Weitere Links</p>
+<ul>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
+</li>
+</ul>
+<ul>
+  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
+</li>
+</ul>
+<ul>
+  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
+</li>
+</ul>
+<p>Lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</p>]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-98-liebe-auf-den-ersten-block-mit-david-knezi-zu-pocket-bitcoin</link>
+      <guid isPermaLink="false">9ddaf803-121b-4b50-ac13-71c43464b5ef</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 24 Dec 2023 06:30:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/80393299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-23%2F368cc144-7630-7586-b68b-44758b1ae30e.mp3" length="227390033" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:34:44</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1703361771231-cd298c2c5d80b.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #98">98</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#214 - Too Many Requests]]></title>
       <description><![CDATA[<p>
@@ -1071,75 +1131,7 @@ Pocket App Android<a href="https://play.google.com/store/apps/details?id=com.poc
     </item>
     <item>
       <title><![CDATA[Der Weg #85 - Bitcoin ist Hoffnung und Freiheit]]></title>
-      <description><![CDATA[<p><strong>Der Weg #85 - Blockzeit 811991 </strong>- von und mit<a href="https://twitter.com/fabthefoxx"> Fab</a> und<a href="https://twitter.com/danielwingen"> </a><a href="https://twitter.com/tanksen_f">Tanksen</a></p>
-<p>Fab und Tanksen sprechen mit <a href="https://twitter.com/tobyyoungfox">Toby</a> über seine Karriere in der Konzernwelt, was er mit App-Entwicklung zu tun hatte und wie es ihn heute in Richtung Coaching gezogen hat, um sein Wissen von Design Thinking und agilen Methoden seinen Kunden beizubringen. Natürlich sprechen wir dabei auch über seinen Weg zu Bitcoin und mehr Freiheit.</p>
-<p>Unzählige Wege können einen zu Bitcoin führen, das erleben wir immer wieder bei diesen Episoden. Wir Menschen sind jedoch äußerst vergesslich und erinnern uns teilweise kaum mehr an unseren eigenen Weg zu Bitcoin. Das macht frische Perspektiven immer wieder spannend. “Einundzwanzig – Der Weg” soll uns dabei helfen, verschiedene Perspektiven kennenzulernen und mehr Verständnis für diese aufzubringen. Hierfür spricht Fab zusammen mit wechselnden Co-Moderatoren mit meist recht frischen Bitcoinern, die erst vor kurzem bei “Bitcoin-Only” angekommen sind.</p>
-<p><strong>Weitere Links:</strong></p>
- <li><p>Besuche unsere<a href="https://einundzwanzig.space/"> Website</a></p>
-</li>
- <li><p>Diskutiere mit in unserer<a href="https://t.me/einundzwanzigpodcast"> Community</a></p>
-</li>
-  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
-</li>
-  <li><p>Für 21.000 sats kannst du uns ein<a href="https://shoutout.einundzwanzig.space/"> Shoutout</a> da lassen</p>
-<p><br></p>
-<p><strong>Tobys Linkliste: </strong></p>
-<ul>
-  <li>BTC Intro Package 2.1.1</li>
-  <li>Dear Friend, please read this first ;)</li>
-  <li>https://dergigi.com/2020/04/27/dear-family-dear-friends/</li>
-  <li>What is bitcoin? Explained in 6:15min</li>
-  <li>https://twitter.com/documentingbtc/status/1549722577450549248?s=21&amp;t=el6wjkq-CfTQGyhFH4WcsQ</li>
-  <li>Our Vision</li>
-  <li>https://youtu.be/3Rnqst5qCgA</li>
-  <li>10 Must Watch Clips</li>
-  <li>https://twitter.com/cedyoungelman/status/1612934008953880576?s=46&amp;t=Y2A_Hfu1bhcBm4f__KHz4w</li>
-  <li>Buy BTC only in switzerland, super fast</li>
-  <li>iOS: https://apps.apple.com/app/id1513185997</li>
-  <li>Android: https://play.google.com/store/apps/details?id=com.relai</li>
-  <li>Referral/Empfehlungscode: YOUNGFOX</li>
-  <li>Buy BTC in the US</li>
-  <li>https://www.swanbitcoin.com/</li>
-  <li>BTC/Crypto hardware wallet to store your crypto offline:</li>
-  <li>https://shiftcrypto.ch/bitbox02</li>
-  <li>Best BTC/crypto influencers:</li>
-  <li>German: </li>
-  <li>https://m.youtube.com/c/Blocktrainer#menu</li>
-  <li>English:</li>
-  <li>https://twitter.com/saylor?s=21&amp;t=V6wJJ05fIqEW2eiSVMgpmQ</li>
-  <li>https://twitter.com/aantonop?s=21&amp;t=Y2A_Hfu1bhcBm4f__KHz4w</li>
-  <li>In BTC invested companies:</li>
-  <li>https://bitcointreasuries.net/</li>
-  <li>Crypto marketcaps:</li>
-  <li>https://coinmarketcap.com/</li>
-  <li>Marketcap compared to other assets/companies:</li>
-  <li>https://companiesmarketcap.com/assets-by-market-cap/</li>
-  <li>Most important books:</li>
-  <li>https://www.audible.de/pd?asin=394909802X&amp;source_code=ASSORAP0511160006</li>
-  <li>https://www.goodreads.com/book/show/50832128-why-buy-bitcoin</li>
-  <li>https://thepriceoftomorrow.com/</li>
-  <li>CO2 BTC compensation:</li>
-  <li>https://netpositive.money/</li>
-  <li>Podcasts:</li>
-  <li>https://podcasts.apple.com/de/podcast/the-bitcoin-matrix/id1534519469</li>
-  <li>https://open.spotify.com/show/1FbrBqhjSZs4Rcj61UhCIN?si=7dwsDzWIRPWmdgnOztYeNA</li>
-  <li>Documentaries</li>
-  <li>https://youtu.be/RFSBWrAllzw</li>
-  <li>https://www.arte.tv/de/videos/RC-021581/mysterium-satoshi/</li>
-  <li>Overview of RoI https://www.coinglass.com/today</li>
-  <li>German Bitcoin Content Publisher</li>
-  <li>https://aprycot.media/</li>
-  <li>Lightning wallets for payments</li>
-  <li>https://muun.com/</li>
-  <li>https://www.walletofsatoshi.com/</li>
-  <li>Money Supply US Dollar https://tradingeconomics.com/united-states/money-supply-m2</li>
-  <li>WTF Happened in 1971 https://wtfhappenedin1971.com/</li>
-  <li>Large scale buying: https://bitcoinreserve.com/r/Toby</li>
-  <li>Why Bitcoin only: https://whybitcoinonly.com/</li>
-  <li>Exchange Rates: https://www.blockchaincenter.net/bitcoin-preisvergleich/</li>
-<p><br></p>
-</ul>
-</li>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-85-bitcoin-ist-hoffnung-und-freiheit]]></description>
       <link>https://einundzwanzig.space/podcast/der-weg-85-bitcoin-ist-hoffnung-und-freiheit</link>
       <guid isPermaLink="false">6a64e388-304a-46ed-95f8-004816371677</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
