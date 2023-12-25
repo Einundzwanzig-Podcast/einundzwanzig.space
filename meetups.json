@@ -969,7 +969,15 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1019",
+      "location": "Hamburg-Sternschanze",
+      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "nostr_note": "413bea17b89dcab8e5b68aad3f3747a211554f8613dca7786940c580be933536"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
