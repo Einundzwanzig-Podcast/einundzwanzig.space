@@ -1378,10 +1378,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
     "twitter": "",
     "event": {
-      "start": "2023-12-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/342",
+      "start": "2024-01-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/343",
       "location": "Lübeck",
-      "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de ",
+      "description": "Einundzwanzig Bitcoin Stammtisch Lübeck. Weitere Infos unter: www.bitcoin-luebeck.de",
       "link": "https://www.bitcoin-luebeck.de/",
       "attendees": 0,
       "nostr_note": "c56a99a04367485f68c88f1f81e684f392f27b3b86ecff5d83b1580c2a016393"
@@ -2154,6 +2154,21 @@
     "url": "https://t.me/Bitcoin_Starnberg",
     "city": "Starnberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-starnberg-bitcoin-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Stormarn",
+    "latLng": [
+      53.720821,
+      10.33176
+    ],
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "city": "Stormarn",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": null,
     "style": {
