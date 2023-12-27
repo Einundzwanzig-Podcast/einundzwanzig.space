@@ -576,15 +576,7 @@
     "city": "Bremen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
-    "event": {
-      "start": "2023-12-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/628",
-      "location": "Lagerhaus, Bremen",
-      "description": null,
-      "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 1,
-      "nostr_note": "2e0814b4d10821f84f9db468a3749036654d68c54fde37e4a52792db8a9bd45b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
