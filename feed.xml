@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 30 Dec 2023 10:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 13:04:32 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,17 +38,17 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[Interview #99 - Bitaxe bei Mineundzwanzig - mit Wantclue]]></title>
-      <description><![CDATA[<p>Bitaxe - Mineundzwanzig - Blockzeit 823425- von und mit <a href="https://twitter.com/cluewant">Wantclue</a> <a href="https://twitter.com/4plus17">4plus17</a> <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a> und <a href="https://damus.io/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a></p>
+      <description><![CDATA[<p><strong>Bitaxe bei Mineundzwanzig - Blockzeit 823425</strong>- von und mit <a href="https://twitter.com/cluewant">Wantclue</a>, <a href="https://twitter.com/4plus17">4plus17</a>, <a href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a>, und <a href="https://damus.io/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a></p>
 <p><br></p>
-<p>Links</p>
+<p><strong>Links</strong></p>
 <ul>
  <li><p><a href="https://www.youtube.com/@wantclue">Youtube Channel von Wantclue</a></p>
 </li>
-  <li><p><a href="https://github.com/skot/bitaxe">Bitaxe Github</a></p>
+ <li><p><a href="https://github.com/skot/bitaxe">Bitaxe Github</a></p>
 </li>
-  <li><p><a href="https://github.com/skot/esp-miner">ESP-Miner Github</a></p>
+ <li><p><a href="https://github.com/skot/esp-miner">ESP-Miner Github</a></p>
 </li>
-  <li><p><a href="https://github.com/skot/bitaxe-doc">Bitaxe Documentation</a></p>
+ <li><p><a href="https://github.com/skot/bitaxe-doc">Bitaxe Documentation</a></p>
 </li>
   <li><p><a href="http://www.wantclue.de/bitaxe">The Bitaxe Ultra kaufen Reflink von Wantclue</a></p>
 </li>
@@ -60,7 +60,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
 </li>
 </ul>
 <p><br></p>
-<p>Sponsoren und Freunde</p>
+<p><strong>Sponsoren und Freunde</strong></p>
 <ul>
   <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
 </li>
@@ -72,7 +72,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
 </li>
 </ul>
 <p><br></p>
-<p>Weitere Links</p>
+<p><strong>Weitere Links</strong></p>
 <ul>
   <li><p>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
 </li>
@@ -93,8 +93,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #99">99</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
     </item>
     <item>
