@@ -60,36 +60,6 @@
     }
   },
   {
-    "name": "BTC_Ansbach",
-    "latLng": [
-      49.300652,
-      10.57146
-    ],
-    "url": "https://t.me/BTCansbach",
-    "city": "Ansbach",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach",
-    "twitter": "BTC_Ansbach",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "BTC_Ansbach - Stammtisch März",
-    "latLng": [
-      49.300652,
-      10.57146
-    ],
-    "url": "https://t.me/BTCansbach",
-    "city": "Ansbach",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-ansbach-stammtisch-maerz",
-    "twitter": "BTC_Ansbach",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Bitcoin Beach Lübeck-Travemünde",
     "latLng": [
       53.961788,
@@ -433,8 +403,8 @@
   {
     "name": "Einundzwanzig Ansbach",
     "latLng": [
-      49.300652,
-      10.57146
+      49.3004,
+      10.5719
     ],
     "url": "https://t.me/einundzwanzig_ansbach",
     "city": "Ansbach",
@@ -446,7 +416,7 @@
       "location": "Ansbach",
       "description": "Eröffnungsstammtisch von Einundzwanzig Ansbach im Steakhouse La Rustica in Ansbach",
       "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x410b7dce0eab5c75:0x64855665932a1696?entry=s&sa=X&ved=2ahUKEwidq8vznKCDAxU0iv0HHYNnDZkQ4kB6BAgOEAA&hl=de-de",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "8691ffcc2a34c64dad8f4ebf789a8d3bcea63d21cd2bd371ea1610992049b98f"
     },
     "style": {
@@ -796,14 +766,22 @@
   {
     "name": "Einundzwanzig Franken",
     "latLng": [
-      49.3028611,
-      10.5722288
+      49.589674,
+      11.011961
     ],
     "url": "https://t.me/Einundzwanzig_FRANKEN",
     "city": "Franken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
-    "event": null,
+    "event": {
+      "start": "2024-01-27 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1025",
+      "location": "Bamberg, Brauerei Gaststätte Brüderla",
+      "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
+      "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
+      "attendees": 1,
+      "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1520,7 +1498,15 @@
     "city": "Norddeutschland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-20 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1037",
+      "location": "Am Büsenbach 35, 21256 Handeloh",
+      "description": "Inmitten der Natur in der wunderschönen Lüneburger Heide liegt der Schafstall und bietet euch saisonale, regionale und nachhaltige Köstlichkeiten an. Für die großen und kleinen Bitcoiner ist der Ausflug zum Schafstall immer wieder ein schönes Erlebnis. Seit über 2 Jahren ist die Bezahlung mit Bitcoin Lightning akzeptiert. Wir freuen uns auf euren Besuch.",
+      "link": "https://der-schafstall.de/",
+      "attendees": 0,
+      "nostr_note": "e50672cc3a36d16709c472c1c2ed83987bb5e0dd7492f493bafb369d61bbe6d7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2931,8 +2917,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
     "twitter": "bitcoin_alps",
     "event": {
-      "start": "2024-01-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/640",
+      "start": "2024-02-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/641",
       "location": null,
       "description": null,
       "link": null,
