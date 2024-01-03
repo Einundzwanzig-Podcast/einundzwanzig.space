@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 22:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 12:19:25 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,32 +38,30 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[NostrTalk #04 - Whack a Relay! - with Ben Arc]]></title>
-      <description><![CDATA[<p><strong>NostrTalk #04 - Blockzeit 821460</strong> - <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a> und <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a> sprechen mit <a href="https://nostr.com/npub1c878wu04lfqcl5avfy3p5x83ndpvedaxv0dg7pxthakq3jqdyzcs2n8avm">Ben Arc</a></p>
+      <description><![CDATA[<p><strong>NostrTalk #04 - Blockzeit 821460</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a> und Ben Arc</p>
 <ul>
-<li><p><a href="https://lnbits.com/">What is LNbits?</a></p></li>
-
-<li><p><a href="https://www.youtube.com/watch?v=TYwtya830aw">Panel: the future of nostr</a></p></li>
-
-<li><p><a href="https://market.nostr.com/#/">Nostr Markets</a></p></li>
-
-
-<li><p><a href="https://shop.lnbits.com/product-category/nostr">Nostr Merch (LNbits)</a></p></li>
-
- <li><p><a href="https://www.wavlake.com/man-like-kweks">Nostr Pleb Rap (outro)</a></p>
+ <li><p><a href="https://lnbits.com/">What is LNbits?</a></p>
 </li>
-
+ <li><p><a href="https://www.youtube.com/watch?v=TYwtya830aw">Panel: the future of nostr</a></p>
+</li>
+  <li><p><a href="https://market.nostr.com/#/">Nostr Markets</a></p>
+</li>
+  <li><p><a href="https://shop.lnbits.com/product-category/nostr">Nostr Merch (LNbits)</a></p>
+</li>
+  <li><p><a href="https://www.wavlake.com/man-like-kweks">Nostr Pleb Rap (outro)</a></p>
+</li>
 </ul>
 <p><strong>Weitere Links:</strong></p>
 <ul>
- <li><p>Folge <a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk</a></p>
+  <li><p>Folge <a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk</a></p>
 </li>
- <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a></p>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a></p>
 </li>
- <li><p>Diskutiere mit in unserer <a href="https://matrix.to/#/#nostrtalk:matrix.org">Community</a></p>
+  <li><p>Diskutiere mit in unserer <a href="https://matrix.to/#/#nostrtalk:matrix.org">Community</a></p>
 </li>
- <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
+  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
 </li>
- <li><p>V4V Nostr Track: powa@geyser.fund</p>
+  <li><p>V4V Nostr Track: powa@geyser.fund</p>
 </li>
 </ul>]]></description>
       <link>https://einundzwanzig.space/podcast/nostrtalk-04-whack-a-relay-with-ben-arc</link>
@@ -76,6 +74,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1704229799751-4b00d7baae535.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="NostrTalk #04">04</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
     </item>
     <item>
       <title><![CDATA[Interview #99 - Bitaxe bei Mineundzwanzig - mit Wantclue]]></title>
