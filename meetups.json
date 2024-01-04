@@ -93,13 +93,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-01-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/971",
-      "location": "Berlin",
-      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "start": "2024-01-17 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/959",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
+      "nostr_note": "dc6610b1cf84e35bec35bb149c760793363409f693281d0f21ffd838908d0d91"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -787,7 +787,7 @@
       "location": "Bamberg, Brauerei Gaststätte Brüderla",
       "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
     },
     "style": {
@@ -1173,15 +1173,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-01-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/993",
-      "location": "Alte Schmiede Kempten",
-      "description": "Ihr seid herzlich eingeladen, zum 1. Meetup im neuen Jahr 2024. Für Flyer und \"Wechselgeld\" ist gesorgt.  Trau Dich... wir beissen nicht.😏",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 8,
-      "nostr_note": "b13cdb435cb6480ee0f3a7eb2cfbb0aa685f56928c980ed016c3a445842c87db"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1845,7 +1837,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
       "link": "https://g.co/kgs/HstWto",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
     },
     "style": {
@@ -1953,7 +1945,15 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "start": "2024-01-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1057",
+      "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
+      "description": "Nächstes Einundzwanzig Saarland Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
+      "link": "https://g.co/kgs/vYrnVke",
+      "attendees": 1,
+      "nostr_note": "6eb34ebc671825d60c47c54385506476afe8f6b5bec60c50438ba6b27f8e5270"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
