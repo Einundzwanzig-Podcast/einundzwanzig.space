@@ -463,7 +463,15 @@
     "city": "Bensheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-08 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1058",
+      "location": "Restaurant & Cocktailbar Habanero",
+      "description": "Obergasse 16, 64673 Zwingenberg",
+      "link": "https://maps.app.goo.gl/Z5REY1FwbnhLYgkW7?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "b02dbec8b021d531929b79a8c6dc43569499c9da5a2a1c7aa4f3a5824bc68780"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1837,7 +1845,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
       "link": "https://g.co/kgs/HstWto",
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
     },
     "style": {
