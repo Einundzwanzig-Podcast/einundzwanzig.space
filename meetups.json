@@ -713,15 +713,7 @@
     "city": "Ellwangen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
-    "event": {
-      "start": "2024-01-05 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1016",
-      "location": "Ellwangen - Bistro Altstadt - Bachgasse 3",
-      "description": null,
-      "link": "https://www.bistro-altstadt.de/",
-      "attendees": 0,
-      "nostr_note": "57340aae57f986e74888e466088db0ec12a654245fdaa7411c0a20955de9f54d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1560,8 +1552,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
     "event": {
-      "start": "2024-01-05 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/775",
+      "start": "2024-02-02 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/776",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
@@ -1628,8 +1620,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2024-01-05 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/387",
+      "start": "2024-02-02 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/388",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -1959,7 +1951,7 @@
       "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
       "description": "Nächstes Einundzwanzig Saarland Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
       "link": "https://g.co/kgs/vYrnVke",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "6eb34ebc671825d60c47c54385506476afe8f6b5bec60c50438ba6b27f8e5270"
     },
     "style": {
@@ -2232,7 +2224,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-01-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1059",
+      "location": "Paulaner in Zurlauben",
+      "description": "Jeder darf wie immer gerne kommen. Vorort könnt ihr sogar mit Lightning bezahlen und bekommt dann sogar Rabatt auf eure Rechnung🔥",
+      "link": "https://paulaner-tr.de/",
+      "attendees": 0,
+      "nostr_note": "19752c267b91c1978c7bc2135b631991b5b9d527ed8ea261743548e5cfb1f8d3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2277,7 +2277,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2024-01-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1060",
+      "location": "Wittlich",
+      "description": "Meetup in Wittlich, Ort wird in der Telegram Gruppe bekanntgegeben.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "815d27abbb7612daff5dee36a1eeaf7d3b9e44c8b206d5296c295861c2e4c3f9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3023,6 +3031,21 @@
     "city": "Biel/Bienne",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-bielbienne",
     "twitter": "YenaTattoo",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Eschenbach ",
+    "latLng": [
+      47.24083,
+      8.92266
+    ],
+    "url": null,
+    "city": "Einunzwanzig Eschenbach SG",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-eschenbach",
+    "twitter": "Nightshell21",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
