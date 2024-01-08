@@ -221,13 +221,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-01-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/986",
-      "location": "₿☕ Einsteiger-Runde + Vortrag Praxeologie — Satoshis Coffeeshop Open House",
-      "description": "Jeden ersten Sonntag im Monat ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\nDiesmal mit Community-Vortrag von Krisi:\n\n**Praxeologie und Bitcoin**\n\n[...]\n\n",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-einsteiger-runde-vortrag-praxeologie-satoshis-coffeeshop-open-house/",
+      "start": "2024-02-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1024",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-tresznjewski/",
       "attendees": 0,
-      "nostr_note": "6f77702662832ccb904a264ad19173462b7bd4efe53c8075e71b8c4698256f52"
+      "nostr_note": "7c6ac387804b3b1c381e878bb9780f624556388b07a0ee29e06e7da3233dbdce"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -524,8 +524,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2024-01-07 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/926",
+      "start": "2024-02-08 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/927",
       "location": "Bonn",
       "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
@@ -597,7 +597,7 @@
       "location": " Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
       "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
       "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "657a2a7876dae3d9dac00e20e572f29accb108c850ca3a062f5d65b9284e2b6f"
     },
     "style": {
@@ -1634,7 +1634,15 @@
     "city": "Offenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreis",
     "twitter": "21ortenaukreis",
-    "event": null,
+    "event": {
+      "start": "2024-02-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1062",
+      "location": "Brauhaus Baden Offenburg",
+      "description": null,
+      "link": "https://www.brauwerk-baden.de/das-wirtshaus.html",
+      "attendees": 1,
+      "nostr_note": "64f30f34a25b063c528a8fdbd8e292b909582ff2fc5f1a4e665ca503c3b6fd02"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1824,13 +1832,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
     "event": {
-      "start": "2024-01-07 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/989",
-      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
-      "description": "An jedem ersten Sonntag im Monat treffen sich Bitcoin interessierte aus Stadt und Landkreis Regensburg.\n",
-      "link": "https://g.co/kgs/HstWto",
-      "attendees": 11,
-      "nostr_note": "07e77ce57bc687f5c0856d5fcb4c2c114f31c2fe702fd4c937fc8daed041b760"
+      "start": "2024-01-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1075",
+      "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
+      "description": "Stammtisch für alle Bitcoin Interessieren im und um den Landkreis Regensburg.\nDieser Termin findet (meistens) jeden zweiten Dienstag im Monat statt.\nAktuelles Lokal: Café Lila, Regensburg ",
+      "link": "https://g.co/kgs/ynQnHeZ",
+      "attendees": 0,
+      "nostr_note": "773251fe7c714d92ae5a24ee9943da6a29c5b01713caabf8dbda8bc78bc2eb9a"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1943,7 +1951,7 @@
       "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
       "description": "Nächstes Einundzwanzig Saarland Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
       "link": "https://g.co/kgs/vYrnVke",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "6eb34ebc671825d60c47c54385506476afe8f6b5bec60c50438ba6b27f8e5270"
     },
     "style": {
@@ -1975,7 +1983,15 @@
     "city": "Saarlouis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
     "twitter": "21Saarlouis",
-    "event": null,
+    "event": {
+      "start": "2024-01-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1061",
+      "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
+      "description": "Nächstes Einundzwanzig Saarlouis Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
+      "link": "https://g.co/kgs/vYrnVke",
+      "attendees": 3,
+      "nostr_note": "d57b1b85b66e321d515ecf75df6db709e6ea73e2d783c910d237da2f540d3a24"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2390,7 +2406,15 @@
     "city": "Flensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1063",
+      "location": "Flensburg",
+      "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
+      "link": "",
+      "attendees": 0,
+      "nostr_note": "b7503554da64d087c9e5af7fc2e5d4b4b837f1dcabf31f12ef5cbc7279c0bcb5"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
