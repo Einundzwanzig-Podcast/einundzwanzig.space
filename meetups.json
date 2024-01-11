@@ -158,6 +158,21 @@
     }
   },
   {
+    "name": "Bitcoin Meetup - Einundzwanzig Potsdam",
+    "latLng": [
+      52.4009309,
+      13.0591397
+    ],
+    "url": "https://t.me/Einundzwanzig_Potsdam",
+    "city": "Potsdam",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-einundzwanzig-potsdam",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Meetup Halle (Saale)",
     "latLng": [
       51.48217,
@@ -425,7 +440,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1079",
+      "location": "Augsburg - Thing",
+      "description": "Meetup wie jeden Monat",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "2a0829931955b19f44d43f683758e2cfc1fe029ee50c6af3aa3255ad258bbeb6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
