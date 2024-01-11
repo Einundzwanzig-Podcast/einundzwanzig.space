@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 11 Jan 2024 00:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 09:23:07 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -38,8 +38,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
     <item>
       <title><![CDATA[#217 - Der Schwiegersohn des Vertrauens]]></title>
-      <description><![CDATA[<p>Shownotes</p>
-<p>Episode 217 - Blockzeit 825.180 - von und mit <a href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a>, <a href="https://nostr.com/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a> und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a></p>
+      <description><![CDATA[<p>Episode 217 - Blockzeit 825.180 - von und mit <a href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a>, <a href="https://nostr.com/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a> und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a></p>
 <ul>
  <li><p><a href="https://www.netflix.com/de/title/81507283">Netflix Dokumetation “Bitconned” - Der Betrug der Kryptowährung Centra</a></p>
 </li>
@@ -90,6 +89,14 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #217">217</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
     </item>
     <item>
       <title><![CDATA[#216 - Isch kauf disch]]></title>
@@ -1439,10 +1446,6 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1695043759015-9c0a39cb67df5.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #6">6</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
     </item>
     <item>
       <title><![CDATA[On Tour #5 - Fair Talk Gesprächsrunde ]]></title>
@@ -1457,10 +1460,6 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1694756527443-bebc5049d0ce7.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #5">5</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://snort.social/p/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
     <item>
       <title><![CDATA[#200 - Die Ruhe vor dem Turm]]></title>
@@ -1513,12 +1512,6 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1694113600733-a11e6d08c2506.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #4">4</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-      <podcast:person href="https://snort.social/p/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
     <item>
       <title><![CDATA[#199 - Good Times mit 80 IQ Plebs]]></title>
@@ -1862,12 +1855,6 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1689569214295-4e9f1b2805fbc.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #2">2</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Loddi" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="34PPUPz9Cs23eZ5XY5Hi" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-      <podcast:person href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[#191 - Miteinander Bullish Samma!]]></title>
@@ -3037,6 +3024,12 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #160">160</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
     <item>
       <title><![CDATA[#159 - Jeder der mich weiß]]></title>
@@ -4224,12 +4217,6 @@ Episode 210 - Blockzeit 818013 - von und mit der Crew </p>
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1652297969169-3429e2fbe56f6.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #76">76</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person href="https://btc21.de">Joko</podcast:person>
-      <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
     </item>
     <item>
       <title><![CDATA[Interview #75 - Ronnie Grob Schweizer Monat]]></title>

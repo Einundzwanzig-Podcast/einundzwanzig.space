@@ -2203,7 +2203,15 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1080",
+      "location": "Ramrob Ahrensburg",
+      "description": "Genesis Meetup",
+      "link": "https://www.ramrob-ahrensburg.de",
+      "attendees": 0,
+      "nostr_note": "fea40ea3534e293fb3bb97ba228eefe1179c33fff3c34c293def56d66aa349b1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
