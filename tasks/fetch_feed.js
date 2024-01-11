@@ -36,6 +36,8 @@ const json2xmlOpts = {
   indentBy: '  '
 }
 
+const regexBlockzeit = /Blockzeit\s(\d+(?:\.)?\d+)/
+
 const parser = new XMLParser(xml2jsonOpts, true)
 const builder = new XMLBuilder(json2xmlOpts)
 
@@ -53,9 +55,9 @@ const parseEpisode = e => {
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
   if (categoryName === 'reCATion') categoryName = 'Verschiedenes'
   if (categoryName === 'NostrTalk') categoryName = 'NostrTalk'
-  const firstLine = descriptionPlain.split('\n')[0]
-  const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
-  const block = blockMatch ? parseInt(blockMatch[1]) : null
+  const firstLine = descriptionPlain.split('\n').find(l => l.match(regexBlockzeit)) || ''
+  const blockMatch = firstLine.match(regexBlockzeit)
+  const block = blockMatch ? parseInt(blockMatch[1].replace('.', '')) : null
   const category = slugify(categoryName)
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
   const date = new Date(e.pubDate)
