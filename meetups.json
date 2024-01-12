@@ -741,7 +741,7 @@
       "location": "Double B Erfurt ",
       "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
       "link": "https://www.doubleb-erfurt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "5126c76f38ef20752808495bf7c77a090007734208c506ce0a655c1c7be50c74"
     },
     "style": {
@@ -1703,15 +1703,7 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
-    "event": {
-      "start": "2024-01-11 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1023",
-      "location": null,
-      "description": "Das nächste Einundzwanzig Ost-Brandenburg Meetup findet am 11.01.24 ab 18:30 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch Reserviert und erwarten in etwa 5 Plebs. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
-      "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
-      "attendees": 1,
-      "nostr_note": "c144916a54135fd56ea980094d670675ec4e79d1d4b99e0809212adebe89b763"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2203,15 +2195,7 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": {
-      "start": "2024-01-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1080",
-      "location": "Ramrob Ahrensburg",
-      "description": "Genesis Meetup",
-      "link": "https://www.ramrob-ahrensburg.de",
-      "attendees": 0,
-      "nostr_note": "fea40ea3534e293fb3bb97ba228eefe1179c33fff3c34c293def56d66aa349b1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
