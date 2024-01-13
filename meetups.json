@@ -736,7 +736,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
     "twitter": null,
     "event": {
-      "start": "2024-01-18 18:00:00",
+      "start": "2024-01-16 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/940",
       "location": "Double B Erfurt ",
       "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
@@ -794,7 +794,7 @@
       "location": "Bamberg, Brauerei Gaststätte Brüderla",
       "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
     },
     "style": {
@@ -879,7 +879,15 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "start": "2024-02-08 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1081",
+      "location": "Wiesenmühle Fulda",
+      "description": "Gemütliches Beisammensein in der Wiesenmühle in Fulda ",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "d012b7edc45cc844a7707d612d246087b8ca332700b692e96c4ad68fd25a8d57"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1968,15 +1976,7 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": {
-      "start": "2024-01-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1057",
-      "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
-      "description": "Nächstes Einundzwanzig Saarland Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
-      "link": "https://g.co/kgs/vYrnVke",
-      "attendees": 3,
-      "nostr_note": "6eb34ebc671825d60c47c54385506476afe8f6b5bec60c50438ba6b27f8e5270"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2014,15 +2014,7 @@
     "city": "Saarlouis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
     "twitter": "21Saarlouis",
-    "event": {
-      "start": "2024-01-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1061",
-      "location": "Saarlouis Kartoffelhaus - Schnitzelhaus - Pizzahaus",
-      "description": "Nächstes Einundzwanzig Saarlouis Meetup am 12.01. ab 18:00 Uhr im Kartoffelhaus in Saarlouis.",
-      "link": "https://g.co/kgs/vYrnVke",
-      "attendees": 3,
-      "nostr_note": "d57b1b85b66e321d515ecf75df6db709e6ea73e2d783c910d237da2f540d3a24"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2085,9 +2077,9 @@
     "event": {
       "start": "2024-01-18 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/992",
-      "location": "Zum Wilden Michel",
-      "description": "",
-      "link": "https://g.co/kgs/v7Tsct",
+      "location": "Zum Kuckuck / Villingen-Schwenningen",
+      "description": "Tisch ist reserviert für EINUNDZWANZIG",
+      "link": "https://www.google.com/search?kgmid=/g/11r_y50n91&hl=de-DE&q=Zum+Kuckuck+-+Villingen&kgs=9a009b913aaaa281&shndl=17&source=sh/x/kp/osrp/m5/2&shem=ssc",
       "attendees": 1,
       "nostr_note": "e74f07ecb3a16ad1fa662b8f5b5359c58b0a368b5338d1edb07fad204abb00d6"
     },
@@ -2226,8 +2218,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-01-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/688",
+      "start": "2024-02-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/689",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -2438,8 +2430,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": {
-      "start": "2024-01-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1063",
+      "start": "2024-02-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1064",
       "location": "Flensburg",
       "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
       "link": "",
@@ -2543,15 +2535,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-01-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1018",
-      "location": "Blauer Adler",
-      "description": "Empfehlung: Wer ein Halbes Hähnchen in Spezialsosse eingelegt und gegrillt essen mag muss bis spät. ein Tag vorher anrufen und vorbestellen 093180414605",
-      "link": "https://maps.app.goo.gl/SyASwfyER9BdStd4A",
-      "attendees": 0,
-      "nostr_note": "d80168e7d646257593c0e4189dc86a36a0494d5b86daa1a9fa3e2be03dcccfa6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2686,15 +2670,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2024-01-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/991",
-      "location": "Cafe Froschberg",
-      "description": "\"Bereitet euch vor, liebe Plebs! 🚀 Unser nächstes Bitcoin-Meetup steht an, und diesmal wollen wir eure Gedanken zu einer Vereinsgründung sammeln. ",
-      "link": null,
-      "attendees": 12,
-      "nostr_note": "d5a01b05227862a3f617b61c10aedf236f9399488cc2722169bec46acb0ee7a3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
