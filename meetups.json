@@ -794,7 +794,7 @@
       "location": "Bamberg, Brauerei Gaststätte Brüderla",
       "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
     },
     "style": {
@@ -2240,7 +2240,15 @@
     "city": "Göttingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1083",
+      "location": "Höckelheim",
+      "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
+      "link": "https://www.dons-diner.de",
+      "attendees": 1,
+      "nostr_note": "b59df3da20b476f2a07f1bcdb6671aa616f16004c7086076a84de045b6b77b6d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
