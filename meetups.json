@@ -1997,7 +1997,7 @@
       "location": "JJ's Pub, Wendalinusstraße 39, 66606 St. Wendel",
       "description": null,
       "link": "https://t.me/einundzwanzigsaarland_stwendel",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "21eeb4185b53681c8fa80e36ac116cf9b00fb01c0776fee32f0298eab3cc63c1"
     },
     "style": {
@@ -2678,7 +2678,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2024-02-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1096",
+      "location": "genauer Ort folgt",
+      "description": "Vereinsgründung ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "bf684afeb5530406e1dfd4d78d339b3d49d773e9b32b155a6399d9967e21bd5c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
