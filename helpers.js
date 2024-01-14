@@ -1,4 +1,5 @@
 const { decode, encode } = require('html-entities')
+const meta = require('./content/meta.json')
 
 // configure markdown-it
 const transformer = require('jstransformer')
@@ -16,11 +17,28 @@ mdTransformer.render = str => renderMd(str, config)
 
 // replacements
 const replacements = str => {
-  return str && str.replace(/<\/?u>/g, '')
+  return str && str.replace(/<\/?u>/g, '').replace(meta.tallycoinUrl, meta.shoutoutUrl)
 }
 
 const stripHTML = str => {
   return str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
+}
+
+// meetups
+const toMeetupMapInfo = m => {
+  return {
+    name: m.name,
+    latLng: [m.latitude, m.longitude],
+    url: m.url,
+    city: m.city,
+    portalUrl: m.portalLink,
+    websiteUrl: m.websiteUrl,
+    twitter: m.twitter_username,
+    event: m.next_event,
+    style: {
+      fill: m.name.startsWith('Einundzwanzig') || m.name.includes('Einezwänzg') || m.name.includes('Eenanzwanzeg') || m.name.includes('Yirmibir') ? 'var(--color-accent)' : 'var(--color-neutral-50)'
+    }
+  }
 }
 
 // slug
@@ -36,10 +54,26 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
+// team
+const teamWithAliases = team => {
+  const withAliases = {}
+  Object.entries(team).forEach(([id, member]) => {
+    withAliases[id] = member
+    const aliases = (member.aliases || []).concat(member.name.toLowerCase())
+    aliases.forEach(alias => {
+      const aliasId = alias.toLowerCase()
+      if (!withAliases[aliasId]) withAliases[aliasId] = member
+    })
+  })
+  return withAliases
+}
+
 module.exports = {
   markdown: mdTransformer.render,
   replacements,
   slugify,
   stripHTML,
-  truncate
+  truncate,
+  teamWithAliases,
+  toMeetupMapInfo
 }

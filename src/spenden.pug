@@ -2,16 +2,18 @@ extends /template.pug
 
 block vars
   - const title = 'Spenden'
-  - const description = 'Die folgenden Projekte, Initiativen und Entwickler haben wir mit den Shout-Out-Beiträgen der Community bereits unterstützt.'
+  - const description = 'Die folgenden Projekte, Initiativen und Entwickler haben wir durch die [Shoutout-Beiträge der Community](https://shoutout.einundzwanzig.space) bereits unterstützt.'
 
 block main
   #spenden.wrap
     section
       h1= title
+      p!= markdown(description)
 
+      a.button(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Mit einem Shoutout spenden
+
+    section
       h2 Spendenübersicht
-      p= description
-
       ul.spenden
         each s in spendenuebersicht
           +spende(s)
@@ -20,7 +22,7 @@ block main
       p Diese spendenfinanzierten Projekte, Initiativen und Entwickler halten wir für unterstützenswert.
 
       :markdown-it(html linkify typographer)
-        Neue Vorschläge können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/spenden/) hinzugefügt werden.
+        Neue Vorschläge können gerne [per Pull Request](https://github.com/Einundzwanzig-Podcast/einundzwanzig.space/edit/master/content/spendenregister/) hinzugefügt werden.
         Hier gibt es ein [Video-Tutorial](https://www.youtube.com/watch?v=BNJc9LExEzU), wie ein neuer Pull Request erstellt werden kann.
 
       ul.spenden(data-shuffle)

@@ -2,35 +2,64 @@ mixin sprite(id)
   svg(role="img" title=id)&attributes(attributes)
     use(xlink:href=`${assetPath("/img/sprite.svg")}#${id}`)
 
+mixin modal(id)
+  div(id=id).modal&attributes(attributes)
+    .inner
+      button.modal-close(type="button" data-modal=id): +sprite("close")
+      block
+
 mixin categories(current)
   ul.categories
-    li: a(href="/podcast/" class=(!current && 'current')) Alles
-    li: a(href="/podcast/news/" class=(current === 'News' && 'current')) News
-    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')) Interviews
-    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')) Lesestunde
-    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')) Der Weg
-    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')) Verschiedenes
+    li: a(href="/podcast/" class=(!current && 'current')).alles Alles
+    li: a(href="/podcast/news/" class=(current === 'News' && 'current')).news News
+    li: a(href="/podcast/interviews/" class=(current === 'Interviews' && 'current')).interviews Interviews
+    li: a(href="/podcast/lesestunde/" class=(current === 'Lesestunde' && 'current')).lesestunde Lesestunde
+    li: a(href="/podcast/der-weg/" class=(current === 'Der Weg' && 'current')).der-weg Der Weg
+    li: a(href="/podcast/on-tour/" class=(current === 'On Tour' && 'current')).on-tour On Tour
+    li: a(href="/podcast/nostrtalk/" class=(current === 'NostrTalk' && 'current')).nostrtalk NostrTalk
+    li: a(href="/podcast/verschiedenes/" class=(current === 'Verschiedenes' && 'current')).verschiedenes Verschiedenes
 
-mixin member(m)
-  li.member(id=m.name)
-    img(src=assetPath(m.image) alt=m.name loading="lazy")
-    header
-      h2=m.name
-      .links
-        if m.mastodon
-          a(href=(m.mastodon) target="_blank" rel="nofollow noopener" title=`${m.name} on Mastodon`)
-            +sprite("mastodon")
-        if m.twitter
-          a(href=(m.twitter.startsWith('https://') ? m.twitter : `https://twitter.com/${m.twitter}`) target="_blank" rel="nofollow noopener" title=`${m.name} on Twitter`)
-            +sprite("twitter")
-        if m.github
-          a(href=(m.github.startsWith('https://') ? m.github : `https://github.com/${m.github}`) target="_blank" rel="nofollow noopener" title=`${m.name} on GitHub`)
-            +sprite("github")
-        if m.url
-          a(href=m.url target="_blank" rel="nofollow noopener")
-            +sprite("url")
-    if m.text
-      !=markdown(m.text)
+mixin map(id, markers)
+  - const modalId = `modal-${id}`
+  .vectorMap(id=id)
+  +modal(modalId): #meeptupDetails
+  script.
+    const markers = [!{markers}];
+    const modalId = "!{modalId}";
+    // https://jvectormap.com/documentation/javascript-api/jvm-map/
+    new jvm.MultiMap({
+      container: $(`#!{id}`),
+      maxLevel: 1,
+      main: {
+        map: 'europe_mill',
+        backgroundColor: 'transparent',
+        markers,
+        focusOn: ['DE', 'AT', 'CH', 'LI', 'LU'],
+        regionStyle: {
+          initial: {
+            'fill': 'var(--color-map-region)',
+            'stroke': 'var(--color-map-outline)',
+            'stroke-width': .25
+          },
+          hover: {
+            'fill-opacity': .8,
+            cursor: 'pointer'
+          }
+        },
+        onMarkerClick(event, index) {
+          onMeetupMapMarkerClick(markers[index], modalId)
+        }
+      },
+      mapUrlByCode(code, multiMap) {
+        return `/vendor/jvectormap/maps/${code.toLowerCase()}_${multiMap.defaultProjection}.js`;
+      },
+      mapNameByCode(code, multiMap) {
+        return `${code.toLowerCase()}_${multiMap.defaultProjection}`;
+      }
+    });
+
+mixin meetupMap()
+  +map('meetupMap', meetups.map(m => JSON.stringify(m)).join(','))
 
 mixin spende(d, trunc = false)
   .spende(id=d.id)&attributes(attributes)
@@ -64,6 +93,20 @@ mixin spende(d, trunc = false)
         else if d.info
           p.info= d.info
 
+mixin participants(ps, link)
+  .participants
+    for name in ps
+      - const id = name.toLowerCase()
+      - const member = team[id]
+      if member
+        if link
+          a(href=`/team/${slugify(id)}` title=member.name)
+            img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+        else
+          img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+      else
+        img.avatar(src=assetPath("/img/avatar.svg") alt=name)
+
 mixin episodeItem(e)
   article.episodeItem&attributes(attributes)
     a.plain(href=`/podcast/${e.slug}/`)
@@ -74,11 +117,13 @@ mixin episodeItem(e)
           span= e.categoryName + (e.number ? ` #${e.number}` : '')
           time(datetime=e.date)= e.block || formatDate(e.date)
         .title=e.titlePlain
+        if e.participants.length
+          +participants(e.participants, false)
 
 mixin episodePlayer(e)
   .player.player--single&attributes(attributes)
     a.player__coverlink(href=`/podcast/${e.slug}/`)
-      img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true")
+      img.player__cover(src=imgLarge data-amplitude-song-info="cover_art_url" data-amplitude-main-song-info="true" alt=e.titlePlain loading="lazy")
     .player__bottom
       progress.player__progress.amplitude-song-played-progress(data-amplitude-main-song-played-progress="true")
 
@@ -104,6 +149,9 @@ mixin episodePlayer(e)
           a.plain(href=`/podcast/${e.slug}/`)
             .player__album(data-amplitude-song-info="album" data-amplitude-main-song-info="true")
             .player__name(data-amplitude-song-info="name" data-amplitude-main-song-info="true")
+
+      if e.participants.length
+        +participants(e.participants, true)
 
       .player__links
         a.player__download(href=e.enclosure.url)

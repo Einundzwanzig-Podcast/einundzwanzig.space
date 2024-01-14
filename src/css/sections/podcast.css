@@ -4,12 +4,28 @@
     flex-wrap: wrap;
     list-style: none;
     margin: var(--space-l) 0 var(--space-xl);
+    font-size: var(--font-size-s);
 
     & li {
       margin: 0 var(--space-m) var(--space-m) 0;
     }
 
     & a {
+      --category-accent-fg : var(--color-neutral-0);
+      --category-accent-bg : var(--color-accent);
+
+      &.interviews,
+      &.on-tour,
+      &.verschiedenes {
+        --category-accent-bg : var(--color-special);
+      }
+      &.der-weg {
+        --category-accent-bg : var(--color-derweg);
+      }
+      &.nostrtalk {
+        --category-accent-bg : var(--color-nostrtalk);
+      }
+
       display: inline-block;
       text-align: center;
       padding: var(--space-s) var(--space-l);
@@ -20,16 +36,19 @@
 
       &:hover {
         @media not all and (hover: none) {
-          color: var(--color-neutral-0);
-          background-color: var(--color-secondary);
+          color: var(--category-accent-fg);
+          border-color: var(--category-accent-bg);
+          background-color: var(--category-accent-bg);
           text-decoration: none;
         }
       }
 
       &.current {
-        color: var(--color-neutral-0);
-        background-color: var(--color-secondary);
+        color: var(--category-accent-fg);
+        border-color: var(--category-accent-bg);
+        background-color: var(--category-accent-bg);
         text-decoration: none;
+        font-weight: var(--font-weight-bold);
       }
     }
   }
@@ -59,13 +78,16 @@
     align-items: center;
   }
 
-  & .avatar {
-    display: block;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 50%;
-    margin-right: var(--space-m);
+  & .partcipants li span {
+    margin-left: var(--space-m);
   }
+}
+
+.avatar {
+  display: block;
+  height: var(--avatar-size, 2rem);
+  width: var(--avatar-size, 2rem);
+  border-radius: 50%;
 }
 
 .episodes {
@@ -82,13 +104,14 @@
 }
 
 .episodeItem {
+  --avatar-size: 1rem;
   margin: 0;
   border-radius: var(--space-l);
   background-color: var(--color-card-bg);
   transition-property: background-color;
   transition-duration: var(--transition-duration-fast);
 
-  & a {
+  & a.plain {
     display: flex;
 
     &:hover .meta {
@@ -127,29 +150,44 @@
 
   & .content {
     flex: 1;
-
-    @media (--up_to_M) {
-      padding: var(--space-m) var(--space-l);
-    }
-    @media (--M_and_up) {
-      padding: var(--space-l);
-    }
+    padding: var(--space-m) var(--space-l);
 
     & > *:last-child {
       margin-bottom: 0;
     }
   }
+
+  & .participants {
+    margin-top: var(--space-m);
+  }
+}
+
+.player .participants,
+.episodeItem .participants {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-m);
+  list-style: none;
 }
 
 .player {
+  --player-button-size: 3rem;
+  --player-button-margin: var(--space-l);
+
   display: flex;
-  border-radius: var(--space-m);
+  border-radius: var(--border-radius);
+  background-color: var(--color-card-bg);
   overflow: hidden;
 
   @media (--up_to_M) {
     flex-direction: column;
     min-width: 300px;
     max-width: 400px;
+  }
+
+  & .participants {
+    margin: var(--space-m) var(--space-l) var(--space-m) calc(var(--player-button-size) + var(--player-button-margin) + var(--space-l));
   }
 }
 
@@ -172,7 +210,6 @@
   flex-direction: column;
   flex: 1;
   color: var(--color-body-text);
-  background-color: var(--color-card-bg);
   transition-property: color, background-color;
   transition-duration: var(--transition-duration-fast);
 }
@@ -216,9 +253,9 @@
 }
 
 .player__button {
-  width: 70px;
-  height: 70px;
-  margin-right: var(--space-l);
+  width: var(--player-button-size);
+  height: var(--player-button-size);
+  margin-right: var(--player-button-margin);
   cursor: pointer;
 }
 

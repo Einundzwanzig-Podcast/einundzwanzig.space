@@ -2,13 +2,11 @@ extends /template.pug
 
 block vars
   - const title = 'Shops'
-  - const description = 'Aktuell bietet Einundzwanzig keinen eigenen Shop an, sondern arbeitet mit Partnern aus der Community zusammen.'
 
 block main
   #shops.wrap
     section
       h1= title
-      p= description
 
       ul
         each shop in shops

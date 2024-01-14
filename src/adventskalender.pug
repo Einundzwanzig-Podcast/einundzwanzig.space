@@ -3,10 +3,10 @@ include includes/mixins
 block vars
   - const pageTitle = "Adventskalender"
   - const pageDescription = "🎄 Wir wünschen euch mit unserem Adventskalender bullishe All Time Highnachten! 🎅"
-  - const pageCard = "/img/adventskalender.png"
+  - const pageCard = "/img/card/adventskalender.png"
 
 <!DOCTYPE html>
-html(lang="en")
+html(lang="de")
   head
     include includes/_head
     link(href=assetPath("/css/adventskalender.css") rel="stylesheet")
@@ -32,10 +32,9 @@ html(lang="en")
           li: a(href="/"): +sprite("logo-square").logo
           li
       p
-        = "Danke "
-        a(href="https://twitter.com/validblock") @validblock
+        = "Danke validblock"
         br
         = " für den schönen Baum! 🎄"
-    script(src=assetPath("/js/adventskalender.js"))
+      a(href="/") Zurück zur Homepage
 
     include includes/_footer

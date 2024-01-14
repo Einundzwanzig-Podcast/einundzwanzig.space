@@ -14,3 +14,9 @@
   font-stretch: 100%;
   src: url('../fonts/inconsolata-700.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'TheBoldFont';
+  font-style: normal;
+  src: url('../fonts/theboldfont.woff2') format('woff2');
+}

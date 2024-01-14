@@ -2,42 +2,65 @@
   "markus": {
     "name": "Markus",
     "twitter": "MarkusTurm",
-    "mastodon": "https://bitcoinhackers.org/@markusturm",
+    "nostr": "npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y",
     "github": "MarkusTurm",
     "text": "Bester Mann. Toxic ☣️ aber fair. Sorgt für die Bitcoin Mass-Adoption \"one [Currywurstbude](http://www.curry-alm.info/) at a time\" 🌭",
-    "image": "/img/team/markus.jpg"
+    "image": "/img/team/markus.jpg",
+    "v4v": {
+      "address": "0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2"
+    },
+    "aliases": [
+      "MarkusTurm"
+    ]
   },
   "gigi": {
     "name": "Gigi",
     "twitter": "dergigi",
-    "mastodon": "https://bitcoinhackers.org/@dergigi",
+    "nostr": "npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc",
     "github": "dergigi",
     "url": "https://dergigi.com",
     "text": "Der Gigi leiht dir seine Taschenlampe 🔦 solltest du dich auf deinem Weg im [Kaninchenbau](https://21lessons.com/) mal verlaufen 🕳🐇",
-    "image": "/img/team/gigi.jpg"
+    "image": "/img/team/gigi.jpg",
+    "v4v": {
+      "address": "02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52"
+    }
   },
   "fab": {
     "name": "Fab",
     "twitter": "fabthefoxx",
-    "mastodon": "https://bitcoinhackers.org/@fabthefox",
+    "nostr": "npub1gxdaxg7prcvgcs4pvlr8vac9a93t6uhph0wfuvpjm28q087n5y9qzx69d4",
     "url": "http://fabthefox.com",
     "text": "The Fox 🦊 verbreitet mit seinem Verlag Aprycot das Bitcoin-Wissen und ist der Wirt an der [Media-Theke](https://aprycot.media/thek/) 📙",
-    "image": "/img/team/fab.jpg"
+    "image": "/img/team/fab.jpg",
+    "v4v": {
+      "address": "03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9"
+    },
+    "aliases": [
+      "fabthefoxx"
+    ]
   },
   "dennis": {
     "name": "Dennis",
-    "twitter": "_d11n_",
-    "mastodon": "https://bitcoinhackers.org/@d11n",
+    "nostr": "npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf",
     "github": "dennisreimann",
     "url": "https://d11n.net",
     "text": "Mag Open Source und [BTCPay Server](https://btcpayserver.org/) 💚 und schreibt lieber Software als Texte über sich selbst 👨🏻‍💻",
-    "image": "/img/team/dennis.jpg"
+    "image": "/img/team/dennis.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "1M1LbWGzwPE2qViFPG34"
+    }
   },
   "daniel": {
     "name": "Daniel",
     "twitter": "danielwingen",
+    "nostr": "npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5",
     "text": "Kennt den [Value Of Bitcoin](https://valueofbitcoin.com/) 🧊 und ist daher nicht nur Sound Money Maximalist, sondern auch Fiat Minimalist 💸",
-    "image": "/img/team/daniel.jpg"
+    "image": "/img/team/daniel.jpg",
+    "v4v": {
+      "address": "0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f"
+    }
   },
   "patrick": {
     "name": "Patrick",
@@ -49,29 +72,48 @@
   "egge": {
     "name": "Egge",
     "twitter": "egge24_",
+    "nostr": "npub1gvyhrc9pe745xnqyn9309jgg5yqeunfv2fyfhnjvzlj6dkzvqdcsj38j8a",
     "github": "Egge7",
     "text": "Die [Mempool-Wetterfee](https://t.me/BlockReportDisc) der die Nodes vertrauen 🌈",
-    "image": "/img/team/egge.jpg"
+    "image": "/img/team/egge.jpg",
+    "v4v": {
+      "address": "02283e063b3121177fe8ed0c88806fe05b38cf5e192ff8c89e3bdc9b4df05dde21"
+    }
   },
   "joko": {
     "name": "Joko",
     "twitter": "jokoono",
+    "nostr": "npub1edej30zsgmmla78cmd8q7k4x8ff22ny8w8pvzqln6q0h2h9udneq32fwey",
     "url": "https://btc21.de",
     "text": "Der Tulpenhändler deines Vertrauens 🌷 hat auch immer die neueste [BTC21](https://btc21.de) Ausgabe auf dem Tresen 📰",
-    "image": "/img/team/joko.png"
+    "image": "/img/team/joko.png",
+    "v4v": {
+      "address": "03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876"
+    }
   },
   "kemal": {
     "name": "Kemal",
     "twitter": "_pretyflaco",
+    "github": "pretyflaco",
+    "nostr": "npub1flac02t5hw6jljk8x7mec22uq37ert8d3y3mpwzcma726g5pz4lsmfzlk6",
     "url": "https://ideasarelikeflames.com/",
     "text": "Verbindet Bitcoin und [Bikini](https://bitcoin-turm.de/bturm26/) 👙 und berichtet als Türkei-Korrespondent über Geld in der ganzen Welt 🇹🇷",
-    "image": "/img/team/kemal.jpg"
+    "image": "/img/team/kemal.jpg",
+    "v4v": {
+      "address": "02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af"
+    }
   },
   "lassmiranda": {
     "name": "Lassmiranda",
     "twitter": "Lassmiranda21",
+    "nostr": "npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p",
     "text": "Dennsiewillja! Rundum coole Socke 🧦 Wenn er nicht grade bei [Moe](https://www.youtube.com/watch?v=PGvwVo3rR8U) anruft, managed er unseren [YouTube-Kanal](https://www.youtube.com/c/EinundzwanzigPodcast) 📺",
-    "image": "/img/team/lassmiranda.jpg"
+    "image": "/img/team/lassmiranda.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "yy4ODIV8ThEKGJw8NknL"
+    }
   },
   "jeff": {
     "name": "Jeff",
@@ -91,16 +133,203 @@
   "ole": {
     "name": "Ole",
     "twitter": "DerCheapi",
+    "nostr": "npub17xc6v7ynma3cw0gq372q6y78zmekyvpkwqpuzuqm8zpydg5m4pkq8v2sts",
     "url": "https://medium.com/@dercheapi",
     "text": "Kinderzimmerökonom und Junior-Shitposter 💁‍♂️ Senkt unsere Boomer-Quote und findet die [Easter-Eggs](/podcast/der-weg-31-bitcoin-ist-ein-easter-egg/) 🥚",
-    "image": "/img/team/ole.jpg"
+    "image": "/img/team/ole.jpg",
+    "v4v": {
+      "address": "03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54"
+    }
   },
   "cercatrova": {
     "name": "Cerca",
     "twitter": "cercatrova_21",
     "github": "cercatrova21",
+    "nostr": "npub1nxzp3zn90r44z07aeajc7wyah4fju49c9d3g45mxvmm64rmnrdusffch7m",
     "url": "https://bitcoin-mentoring.me",
-    "text": "Der Quoten-Schweizer! 🇨🇭🧀  Sagt jedem zentral gesteuerten Geldinstitut den Kampf an und hilft dir jeden Scammer zu scammen",
-    "image": "/img/team/cercatrova.jpg"
+    "text": "Der Quoten-Schweizer! 🇨🇭🧀 Sagt jedem zentral gesteuerten Geldinstitut den Kampf an und hilft dir jeden Scammer zu scammen",
+    "image": "/img/team/cercatrova.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "i4xaXQ68q9TobfuwPrh3"
+    }
+  },
+  "tanksen": {
+    "name": "Tanksen",
+    "twitter": "tanksen_f",
+    "nostr": "npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5",
+    "text": "Unser Wegbegleiter, Tippspiel-Buchmacher, Afrika-Korrespondent und Fußball-Aficionado ⚽",
+    "image": "/img/team/tanksen.jpg",
+    "v4v": {
+      "address": "03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919"
+    }
+  },
+  "gmblr247": {
+    "name": "Gambler",
+    "twitter": "gmblr247",
+    "nostr": "npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924",
+    "image": "/img/team/gmblr247.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "V1OvXEGj8Dn2pbLtGaog"
+    }
+  },
+  "ben": {
+    "name": "Ben",
+    "twitter": "webdiverblue",
+    "nostr": "npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52",
+    "image": "/img/team/ben.jpg",
+    "v4v": {
+      "address": "02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794"
+    }
+  },
+  "molo": {
+    "name": "Molo",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "MvJVAFYbDTN3K6gvvGhj"
+    }
+  },
+  "zerofeerouting": {
+    "name": "zerofeerouting",
+    "twitter": "zerofeerouting",
+    "nostr": "npub1mc6arvz2ll8m26f75wj4d2w89ygq229t8h7m6cpfu0lqqa4l5hasp49pnw",
+    "image": "/img/team/zerofeerouting.jpg",
+    "v4v": {
+      "address": "038fe1bd966b5cb0545963490c631eaa1924e2c4c0ea4e7dcb5d4582a1e7f2f1a5"
+    }
+  },
+  "quillie": {
+    "name": "Quillie",
+    "twitter": "quilloughbee",
+    "nostr": "npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2",
+    "image": "/img/team/quillie.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "qCZXGiXukcaTJ1DroykI"
+    }
+  },
+  "paddepadde": {
+    "name": "Paddepadde",
+    "twitter": "paddepadde",
+    "nostr": "npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy",
+    "image": "/img/team/paddepadde.jpg",
+    "v4v": {
+      "address": "0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d"
+    }
+  },
+  "chris": {
+    "name": "Chris",
+    "twitter": "coinjoined",
+    "nostr": "npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8",
+    "image": "/img/team/chris.jpg",
+    "v4v": {
+      "address": "03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1"
+    }
+  },
+  "fichte": {
+    "name": "Fichte",
+    "twitter": "fichte42",
+    "nostr": "npub1pzmcx6c5z77r6zf9rf7xlj3kp9mt8wk29snuphdzu7ezzl97kqrsacns7v",
+    "image": "/img/team/fichte42.jpg",
+    "v4v": {
+      "address": "022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57"
+    }
+  },
+  "el bitcoin ambassador": {
+    "name": "El Bitcoin Ambassador",
+    "twitter": "elbitcoinamb",
+    "nostr": "npub184842f0yqe7ee9kra6ufsmddmxs6q2cl5jutp3qns2a62t99na6s4n7t00",
+    "image": "/img/team/elbitcoinamb.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "n034BHJnap8E2ab1phMS"
+    }
+  },
+  "benmitfleck": {
+    "name": "BenMitFleck",
+    "twitter": "BenMitFleck",
+    "image": "/img/team/benmitfleck.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "FEdg3yD1HsyTbFUIjVHh"
+    }
+  },
+  "tobo": {
+    "name": "Tobo",
+    "nostr": "npub1rnm4dq7s9d8vp2jdyynl73wnxhlzaadgsj6hj3m46cyt4nsqdgtqxsu0lw",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "QgZTULTtllSKL3W3E6mY"
+    }
+  },
+  "sirius": {
+    "name": "Sirius",
+    "twitter": "SiriusLightning",
+    "nostr": "npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p",
+    "image": "/img/team/sirius.jpg",
+    "v4v": {
+      "address": "02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945"
+    }
+  },
+  "flashman": {
+    "name": "Flashman",
+    "twitter": "FlashmanBTC",
+    "image": "/img/team/flashman.jpg",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "9Ra8pecnRoS3sMQ3PQAc"
+    }
+  },
+  "octopus olaf": {
+    "name": "Octopus Olaf",
+    "twitter": "octopus_olaf",
+    "nostr": "npub1p758nncqsme5zskvpplddsvgq52mfgp8vsenp8zh24xc3ua42ajqa79qea",
+    "image": "/img/team/octopusolaf.jpg",
+    "v4v": {
+      "address": "02b36bd758105b7b7c87d5d4a7601f3bf5b5c7f6c0a0fc6d38a0eed1ad87be3136"
+    }
+  },
+  "holgerhatgarkeinenode": {
+    "name": "HolgerHatGarKeineNode",
+    "nostr": "npub1pt0kw36ue3w2g4haxq3wgm6a2fhtptmzsjlc2j2vphtcgle72qesgpjyc6",
+    "image": "/img/team/holgerhatgarkeinenode.jpg",
+    "url": "https://portal.einundzwanzig.space",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "7xLiGzVqEBGYoBWvKeY7"
+    }
+  },
+  "loddi": {
+    "name": "Loddi",
+    "twitter": "18loddi",
+    "image": "/img/team/loddi.jpg",
+    "url": "https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "34PPUPz9Cs23eZ5XY5Hi"
+    }
+  },
+  "lawrence": {
+    "name": "Lawrence",
+    "twitter": "LRothbardian",
+    "nostr": "npub14klfpkrqert8xhqhsvyer7n6jgyumldffejchlqu8gyfpjlsca4s5fg0c3",
+    "image": "/img/team/lawrence.jpg",
+    "url": "https://shopinbit.com/",
+    "v4v": {
+      "address": "030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3",
+      "customKey": "696969",
+      "customValue": "xVJWaSLb2QkQrhwfc3VG"
+    }
   }
 }

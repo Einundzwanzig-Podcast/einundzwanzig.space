@@ -1,9 +1,8 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML  } = require('../helpers')
+const { replacements, slugify, stripHTML, teamWithAliases } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
-const team = require('../content/team.json')
-const nodes = require('../content/nodes.json')
+const teamRaw = require('../content/team.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
 const xmlFormat = require('xml-formatter')
@@ -11,7 +10,10 @@ const xmlFormat = require('xml-formatter')
 const debug = process.env.CI
 const dir = resolve(__dirname, '..')
 const write = (name, data) => writeFileSync(join(dir, name), data)
-const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
+const writeJSON = (name, data) =>
+  write(`generated/${name}.json`, JSON.stringify(data, null, 2))
+
+const team = teamWithAliases(teamRaw)
 
 const commonOpts = {
   attributeNamePrefix: '',
@@ -34,78 +36,138 @@ const json2xmlOpts = {
   indentBy: '  '
 }
 
+const regexBlockzeit = /Blockzeit\s(\d+(?:\.)?\d+)/
+
 const parser = new XMLParser(xml2jsonOpts, true)
 const builder = new XMLBuilder(json2xmlOpts)
 
 const parseEpisode = e => {
   const guid = e.guid['#text']
   const title = e.title.__cdata.trim()
-  const content = replacements(e.description.__cdata).trim()
-  const description = stripHTML(content)
-  let [, categoryName = 'News', number, titlePlain] = title.match(/([\w\s]+?)?\s?#(\d+) - (.*)/) || [, , , title]
+  const description = replacements(e.description.__cdata).trim()
+  const descriptionPlain = stripHTML(description)
+  let [, categoryName = 'News', number, titlePlain] = title.match(
+    /([\w\s]+?)?\s?#(\d+) - (.*)/
+  ) || [, , , title]
   if (!number) categoryName = 'Verschiedenes'
   if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
+  if (categoryName === 'On-Tour') categoryName = 'On Tour'
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
-  const firstLine = description.split('\n')[0]
-  const blockMatch = firstLine.match(/Blockzeit\s(\d+)/)
-  const block = blockMatch ? parseInt(blockMatch[1]) : null
+  if (categoryName === 'reCATion') categoryName = 'Verschiedenes'
+  if (categoryName === 'NostrTalk') categoryName = 'NostrTalk'
+  const firstLine = descriptionPlain.split('\n').find(l => l.match(regexBlockzeit)) || ''
+  const blockMatch = firstLine.match(regexBlockzeit)
+  const block = blockMatch ? parseInt(blockMatch[1].replace('.', '')) : null
   const category = slugify(categoryName)
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
   const date = new Date(e.pubDate)
   const img = e['itunes:image'].__attr.href
-  const image = ['interview', 'lesestunde', 'verschiedenes'].includes(category) ? img : `/img/cover/${category}.png`
+  const image = ['interview', 'lesestunde', 'on-tour', 'nostrtalk', 'verschiedenes'].includes(category)
+    ? img
+    : `/img/cover/${category}.png`
   const duration = e['itunes:duration']
   const enclosure = e.enclosure.__attr
-  const [, participantsString] = firstLine.match(/ - (?:(?:von und )?mit )([^.]*)/i) || []
-  const participants = participantsString ? participantsString.replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/ig, '%').trim().split('%') : []
-  return { block, category, categoryName, number, title, titlePlain, description, content, duration, slug, image, guid, date, enclosure, participants }
+  const [, participantsString] =
+    firstLine.match(/[-–—]\s?(?:(?:von\sund\s)?mit\s)([^.]*)/i) || []
+  const participants = participantsString
+    ? participantsString
+        .replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/gi, '%')
+        .trim()
+        .split('%')
+        .map(p => p.trim())
+    : []
+  return {
+    block,
+    category,
+    categoryName,
+    number,
+    title,
+    titlePlain,
+    description,
+    descriptionPlain,
+    duration,
+    slug,
+    image,
+    guid,
+    date,
+    enclosure,
+    participants
+  }
 }
 
 ;(async () => {
   // Load and adapt feed
   const anchorXML = request('GET', masterFeedUrl).getBody('utf8')
   const xml = anchorXML
+    .replace(/\u2060/g, '')
+    .replace(/\u00A0/g, ' ')
+    .replace(/\u2019/g, "'")
     .replace(`"${masterFeedUrl}"`, `"${publicFeedUrl}"`)
-    .replace('xmlns:anchor="https://anchor.fm/xmlns"', 'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0"')
-    .replace('<channel>', `<channel>
-    <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient type="node" split="20" name="Dennis" address="${nodes.dennis}" />
-      <podcast:valueRecipient type="node" split="20" name="Fab" address="${nodes.fab}" />
-      <podcast:valueRecipient type="node" split="20" name="Gigi" address="${nodes.gigi}" />
-      <podcast:valueRecipient type="node" split="20" name="Markus" address="${nodes.markus}" />
-      <podcast:valueRecipient type="node" split="20" name="Daniel" address="${nodes.daniel}" />
-    </podcast:value>`)
+    .replace(
+      'xmlns:anchor="https://anchor.fm/xmlns"',
+      'xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0"'
+    )
+    .replace('<channel>', '<channel><podcast:value></podcast:value>')
 
   const feed = parser.parse(xml)
   const episodes = []
   const _noParticipants = [], _noNode = []
+  const members = [team.dennis, team.fab, team.gigi, team.markus, team.daniel]
 
-  delete feed.rss.channel.author // remove invalid tag
+  // remove invalid tag
+  delete feed.rss.channel.author
 
-  feed.rss.channel.item = feed.rss.channel.item.map(item => {
+  // podcast
+  feed.rss.channel['podcast:value'] = {
+    __attr: {
+      type: 'lightning',
+      method: 'keysend'
+    },
+    'podcast:valueRecipient': members.map(p => ({
+      __attr: {
+        name: p.name,
+        type: 'node',
+        split: Math.round(100 / members.length),
+        ...p.v4v
+      }
+    }))
+  }
+
+  // episodes
+  feed.rss.channel.item = feed.rss.channel.item.map((item, index) => {
     const episode = parseEpisode(item)
     episodes.push(episode)
 
+    const link = `https://einundzwanzig.space/podcast/${episode.slug}`
+    let { description, descriptionPlain } = episode
+    if (index > 20) {
+      description = `Shownotes: ${link}`
+      descriptionPlain = `Shownotes: ${link}`
+    }
+
     const updated = {
       ...item,
-      link: `https://einundzwanzig.space/podcast/${episode.slug}`, // replace Anchor link
-      'itunes:summary': episode.description // please the validator, Anchor's itunes:summary contains HTML
+      link, // replace Anchor link
+      description: { __cdata: description },
+      //'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
     }
+    // itunes:summary seems to be gone: https://help.apple.com/itc/podcasts_connect/#/itcb54353390
+    delete updated['itunes:summary']
 
     if (episode.number) {
       updated['podcast:episode'] = {
         __attr: {
-          display: `${episode.categoryName} #${episode.number}`,
+          display: `${episode.categoryName} #${episode.number}`
         },
-        '#text': episode.number,
+        '#text': episode.number
       }
     }
 
     const value = episode.participants.reduce((result, name) => {
       const id = name.toLowerCase()
-      const address = nodes[id]
-      if (address) {
-        result.push({ name, address })
+      const v4v = team[id] && team[id].v4v
+      if (v4v) {
+        result.push({ name, ...v4v })
       } else if (debug) {
         _noNode.push({ episode: episode.slug, name })
       }
@@ -116,15 +178,15 @@ const parseEpisode = e => {
       updated['podcast:value'] = {
         __attr: {
           type: 'lightning',
-          method: 'keysend',
+          method: 'keysend'
         },
         'podcast:valueRecipient': value.map(p => ({
           __attr: {
             ...p,
             type: 'node',
-            split: Math.round(100 / value.length),
-          },
-        })),
+            split: Math.round(100 / value.length)
+          }
+        }))
       }
     } else if (debug) {
       _noParticipants.push({ episode: episode.slug })
@@ -143,10 +205,11 @@ const parseEpisode = e => {
       updated['podcast:person'] = []
 
       people.forEach(p => {
+        let href = p.url
+        if (!href && p.nostr) href = `https://snort.social/p/${p.nostr}`
+        if (!href && p.twitter) href = `https://twitter.com/${p.twitter}`
         updated['podcast:person'].push({
-          __attr: {
-            href: `https://twitter.com/${p.twitter}`,
-          },
+          __attr: { href },
           '#text': p.name
         })
       })
@@ -155,15 +218,19 @@ const parseEpisode = e => {
     return updated
   })
 
-  writeJSON('feed', feed)
-
   const outputXML = builder.build(feed)
 
   writeJSON('episodes', episodes)
 
   const validation = XMLValidator.validate(outputXML)
   if (validation) {
-    write('dist/feed.xml', xmlFormat(outputXML, { indentation: json2xmlOpts.indentBy, collapseContent: true }))
+    write(
+      'dist/feed.xml',
+      xmlFormat(outputXML, {
+        indentation: json2xmlOpts.indentBy,
+        collapseContent: true
+      })
+    )
   } else {
     console.error(validation.err)
   }

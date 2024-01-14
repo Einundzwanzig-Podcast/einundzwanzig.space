@@ -6,11 +6,10 @@ block vars
 - const pageDescription = description || site.meta.description
 - const pageKeywords = keywords || site.meta.keywords
 - const pageCard = cardImage || site.meta.cardImage
-- const pageCardSize = cardSize || 1400
 - const themeColor = site.meta.themeColor
 
 <!DOCTYPE html>
-html(lang="en")
+html(lang="de")
   head
     include _head
   body
@@ -26,23 +25,21 @@ html(lang="en")
               a(href="#" onclick="return false;") Community
               .more
                 a(href="/meetups/" class=(navCurrent === 'meetups' && 'current')) Meetups
-                a(href="/events/" class=(navCurrent === 'events' && 'current')) Events
-                a(href="/kurse/" class=(navCurrent === 'kurse' && 'current')) Kurse
-                a(href="/spenden/" class=(navCurrent === 'spenden' && 'current')) Spenden
+                a(href="https://portal.einundzwanzig.space/de/event/overview?l=de" rel="nofollow noopener") Events
+                a(href="https://portal.einundzwanzig.space/" rel="nofollow noopener") Portal
+                a(href="https://nostrnests.com/9noscz/" rel="nofollow noopener") Nostrnest
                 a(href="/telegram/" class=(navCurrent === 'telegram' && 'current')) Telegram
                 a(href="/shops/" class=(navCurrent === 'shops' && 'current')) Shops
                 a(href=site.meta.youtubeUrl target="_blank" rel="nofollow noopener") YouTube
-                a(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Shout-Out
+                a(href=site.meta.shoutoutUrl target="_blank" rel="nofollow noopener") Shoutout
             .navItem
               a(href="#" onclick="return false;") Mehr
               .more
+                a(href="/verein/" class=(navCurrent === 'verein' && 'current')) Verein
+                a(href="/spenden/" class=(navCurrent === 'spenden' && 'current')) Spenden
                 a(href="/media/" class=(navCurrent === 'media' && 'current')) Media
                 a(href="/soundboard/" class=(navCurrent === 'soundboard' && 'current')) Sounds
-                a(href="/team/" class=(navCurrent === 'team' && 'current')) Team
-                a(href="/verein/" class=(navCurrent === 'verein' && 'current')) Verein
                 a(href="/kontakt/" class=(navCurrent === 'kontakt' && 'current')) Kontakt
-            //- .navItem
-            //-   a(href=site.meta.shopUrl target="_blank") Shop
           button(type="button").theme
             +sprite("theme")
 

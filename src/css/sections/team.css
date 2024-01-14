@@ -1,53 +1,22 @@
 #team {
-  & .members {
-    display: grid;
-    grid-gap: var(--space-xl);
-    margin: 0;
-    list-style: none;
-
-    @media (--up_to_M) {
-      grid-template-columns: 1fr;
-    }
-    @media (--M_and_up) {
-      grid-template-columns: 1fr 1fr;
-    }
-  }
-
   & .member {
-    margin: 0;
-    padding: var(--space-xl);
-    border-radius: var(--space-l);
-    background-color: var(--color-card-bg);
-    transition-property: background-color;
-    transition-duration: var(--transition-duration-fast);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-l);
 
     & img {
-      display: inline-block;
       border-radius: 50%;
       height: 100px;
       width: 100px;
     }
 
-    & header {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-      margin-top: var(--space-l);
-    }
-
-    & h2 {
-      font-size: var(--font-size-xl);
-      margin: 0 var(--space-l) var(--space-l) 0;
-    }
-
-    & p {
-      margin-bottom: 0;
+    & .info {
+      flex: 1 0 17rem;
+      min-width: 10rem;
     }
 
     & .links {
       display: flex;
-      margin-bottom: var(--space-l);
 
       & a {
         color: var(--color-secondary);

@@ -1,0 +1,82 @@
+.modal {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  z-index: 100;
+  padding-left: var(--wrap-padding-horizontal);
+  padding-right: var(--wrap-padding-horizontal);
+
+  @media (--up_to_M) {
+    --modal-space: var(--space-l);
+  }
+  @media (--M_and_up) {
+    --modal-space: var(--space-xl);
+  }
+
+  &.modal--visible {
+    display: flex;
+    transition-property: opacity;
+    transition-duration: var(--transition-duration-fast);
+  }
+
+  &.modal--appear {
+    opacity: 1;
+  }
+
+  &:before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--color-overlay-bg);
+  }
+
+  & .modal-close {
+    position: absolute;
+    top: var(--modal-space);
+    right: var(--modal-space);
+    background: none;
+    width: 32px;
+    height: 32px;
+    padding: 6px;
+    color: var(--color-neutral-50);
+    cursor: pointer;
+
+    & svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+      transition-property: background, color;
+      transition-duration: var(--transition-duration-fast);
+    }
+
+    &:hover {
+      @media not all and (hover: none) {
+        color: var(--color-accent);
+      }
+    }
+  }
+
+  & .inner {
+    position: relative;
+    z-index: 100;
+    color: var(--color-body-text);
+    background: var(--color-flyout-bg);
+    border: 1px solid var(--color-border-medium);
+    border-radius: var(--border-radius);
+    padding: var(--modal-space);
+    max-width: 720px;
+  }
+
+  & h2 {
+    margin: var(--space-xs) var(--space-xxl) var(--space-m) 0;
+  }
+}

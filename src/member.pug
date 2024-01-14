@@ -1,0 +1,35 @@
+extends /template.pug
+
+block vars
+  - const title = member.name
+  - const description = member.text
+block main
+  #team.wrap
+    section
+      h1= title
+
+      .member
+        img(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
+        .info
+          if member.text
+            !=markdown(member.text)
+          .links
+            if member.nostr
+              a(href=`https://snort.social/p/${member.nostr}` target="_blank" rel="nofollow noopener" title=`${member.name} on Nostr`)
+                +sprite("nostr")
+            if member.twitter
+              a(href=`https://twitter.com/${member.twitter}` target="_blank" rel="nofollow noopener" title=`${member.name} on Twitter`)
+                +sprite("twitter")
+            if member.github
+              a(href=`https://github.com/${member.github}` target="_blank" rel="nofollow noopener" title=`${member.name} on GitHub`)
+                +sprite("github")
+            if member.url
+              a(href=member.url target="_blank" rel="nofollow noopener")
+                +sprite("url")
+
+    if episodes.length
+      section
+        h2= `Episoden mit ${member.name}`
+        .episodes
+          each e in episodes
+            +episodeItem(e)

@@ -40,7 +40,7 @@
     right: 0;
     z-index: 10;
 
-    @nest body.topbar & {
+    body.topbar & {
       box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.125);
     }
   }
@@ -127,7 +127,7 @@
           background: var(--color-flyout-bg);
           transition-property: background, position, opacity;
           transition-duration: var(--transition-duration-fast);
-          border-radius: var(--space-m);
+          border-radius: var(--border-radius);
 
           @media (--up_to_M) {
             padding-top: 1.4em;

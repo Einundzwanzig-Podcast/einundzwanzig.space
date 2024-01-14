@@ -19,15 +19,20 @@
   --color-border-light: var(--color-neutral-10);
   --color-border-medium: var(--color-neutral-25);
 
-  --color-overlay-bg: rgba(230, 230, 230, .95);
+  --color-map-region: var(--color-border-light);
+  --color-map-outline: var(--color-neutral-50);
+
+  --color-overlay-rgb: 230, 230, 230;
+  --color-overlay-bg: rgba(var(--color-overlay-rgb), .75);
   --color-body-text: var(--color-neutral-90);
   --color-body-bg: var(--color-neutral-0);
   --color-card-bg: var(--color-neutral-10);
-  --color-flyout-bg: var(--color-overlay-bg);
+  --color-flyout-bg: rgba(var(--color-overlay-rgb), .95);
   --color-accent: #f7931a;
   --color-accent-highlight: #dd7901;
   --color-derweg: #00B4CF;
-  --color-interview: #151515;
+  --color-special: #151515;
+  --color-nostrtalk: #A915FF;
   --color-secondary: var(--color-neutral-50);
 
   --space-xs: .125rem;
@@ -42,6 +47,7 @@
   --transition-duration-slow: 1.5s;
 
   --font-family-base: 'Inconsolata', monospace;
+  --font-family-bold: 'TheBoldFont', monospace;
 
   --font-weight-regular: 400;
   --font-weight-bold: 700;
@@ -52,13 +58,16 @@
   --font-size-l: 1.25rem;
   --font-size-xl: 1.75rem;
   --font-size-xxl: 2.25rem;
+  --font-size-xxxl: 4rem;
 
   @media (--up_to_M) {
     --font-size-base: 16px;
+    --font-size-xxxl: 2.25rem;
     --wrap-padding-horizontal: var(--space-l);
   }
   @media (--M_to_L) {
     --font-size-base: 18px;
+    --font-size-xxxl: 3.5rem;
     --wrap-padding-horizontal: var(--space-xl);
   }
   @media (--L_and_up) {
@@ -67,15 +76,16 @@
   }
 
   --logo-height: calc((100vw - var(--wrap-padding-horizontal) * 2) / 134 * 12);
+  --border-radius: var(--space-m);
 }
 
 @define-mixin dark-theme {
   --color-body-text: var(--color-neutral-0);
   --color-body-bg: var(--color-neutral-90);
   --color-card-bg: var(--color-neutral-95);
-  --color-overlay-bg: rgba(20, 20, 20, .95);
   --color-border-light: var(--color-neutral-80);
   --color-border-medium: var(--color-neutral-75);
+  --color-overlay-rgb: 20, 20, 20;
 }
 
 :root[data-theme="dark"] {
@@ -83,7 +93,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
+  :root:not([data-theme="light"]):not([data-theme="custom"]) {
     @mixin dark-theme;
   }
 }
