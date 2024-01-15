@@ -273,7 +273,15 @@
     "city": "Westerwald",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1099",
+      "location": "Landgasthof Eiserner Ritter - Essen und Getränke wird mit Lightning gezahlt",
+      "description": "Essen und Trinken kann mit Sats gezahlt werden ;)\n\nhttps://maps.app.goo.gl/yWmAHGGHTBzFaw8e9 \n\nhttps://btcmap.org/merchant/node:4988405913",
+      "link": "https://eiserner-ritter.de/",
+      "attendees": 1,
+      "nostr_note": "a5618444677b3985b7b315c36a0e273c18b8bb8479d286a002dcc02db36d14a3"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1226,7 +1234,15 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": null,
+    "event": {
+      "start": "2024-01-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1098",
+      "location": "Landgasthof Eiserner Ritter - Essen und Getränke wird mit Lightning gezahlt",
+      "description": "Essen und Trinken kann mit Sats gezahlt werden ;)\n\n\nhttps://maps.app.goo.gl/yWmAHGGHTBzFaw8e9\nhttps://btcmap.org/merchant/node:4988405913\n",
+      "link": "https://www.eiserner-ritter.de/",
+      "attendees": 1,
+      "nostr_note": "2ab65ef5b1176533084b211ee57bf522b9c3c1c7986809da24632b8466650b6d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2316,15 +2332,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2024-01-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1060",
-      "location": "Wittlich",
-      "description": "Meetup in Wittlich, Ort wird in der Telegram Gruppe bekanntgegeben.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "815d27abbb7612daff5dee36a1eeaf7d3b9e44c8b206d5296c295861c2e4c3f9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
