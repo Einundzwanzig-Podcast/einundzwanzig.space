@@ -9,7 +9,15 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1101",
+      "location": "Marburg",
+      "description": "Fusionstermin mit Marburg im Schamdam",
+      "link": "https://maps.app.goo.gl/RobamB5uDGz2moRq9",
+      "attendees": 0,
+      "nostr_note": "0cf2da268666430ea301adc8fbbc47da282ee818545f996bbc8ac2c1c2143042"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1204,7 +1212,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-02-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1100",
+      "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
+      "description": "Stammtisch für alle Bitcoin Interessierten aus dem Allgäu. Von Plebs für Plebs. Wir freuen und auf Dich.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 2,
+      "nostr_note": "fdb60a2083f5320e1fe6d86603b5a8688d49d317da800fd0362637f1eea93c0b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1303,15 +1319,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-01-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1077",
-      "location": "76829 Landau Pfalz",
-      "description": "Für weitere Details kommt bitte in die Telegram Gruppe oder kontaktiert uns über Twitter.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "8ee214b5cf6525a8cacb308daa7834ec95a10e23314fbeb4576fec1167bf2d08"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1778,7 +1786,7 @@
       "location": "Passau, Schärding oder mal wo anders?",
       "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
     },
     "style": {
@@ -1856,8 +1864,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": null,
     "event": {
-      "start": "2024-01-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/901",
+      "start": "2024-02-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/902",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
@@ -1884,7 +1892,7 @@
       "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
       "description": "Stammtisch für alle Bitcoin Interessieren im und um den Landkreis Regensburg.\nDieser Termin findet (meistens) jeden zweiten Dienstag im Monat statt.\nAktuelles Lokal: Café Lila, Regensburg ",
       "link": "https://g.co/kgs/ynQnHeZ",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "773251fe7c714d92ae5a24ee9943da6a29c5b01713caabf8dbda8bc78bc2eb9a"
     },
     "style": {
@@ -2173,7 +2181,15 @@
     "city": "Spreewald ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
     "twitter": "schlabendorf",
-    "event": null,
+    "event": {
+      "start": "2024-01-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1102",
+      "location": "Lübbenau ",
+      "description": "3. Bitcoin Meetup im Spreewald 😊\n\nBahnhofstraße 3d, 03222 Lübbenau/Spreewald",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4b4ba10f87f2cb74b126c82d7317a703597f172f9d7fdeed651d87d92754c6b3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
