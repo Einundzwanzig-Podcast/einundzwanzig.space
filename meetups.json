@@ -333,7 +333,7 @@
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "bc380c7625853e14d79de9631a9eb3dfb5788d1f132a5c6077ee4662ba81b3f7"
     },
     "style": {
@@ -752,13 +752,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
     "twitter": null,
     "event": {
-      "start": "2024-01-16 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/940",
-      "location": "Double B Erfurt ",
+      "start": "2024-02-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/941",
+      "location": "Double B Erfurt",
       "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
       "link": "https://www.doubleb-erfurt.de/",
-      "attendees": 1,
-      "nostr_note": "5126c76f38ef20752808495bf7c77a090007734208c506ce0a655c1c7be50c74"
+      "attendees": 0,
+      "nostr_note": "9829ee7187c04da5915bc20f57e9fd3fa64478c98712a829e990383d4cbe0892"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1144,7 +1144,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-21 10:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1112",
+      "location": "Seehaus Ingolstadt, Am Mitterschüttweg 2, 85049 Ingolstadt",
+      "description": "Das Seehaus Ingolstadt befindet sich direkt am Baggersee Ingolstadt\n\nLink zur Speisekarte: https://seehausingolstadt.de/?page_id=24",
+      "link": "https://maps.app.goo.gl/ai2w7LWvk95UMksN7",
+      "attendees": 0,
+      "nostr_note": "ab26c05eaed530fbffec6c0aee79f4ce396771e32c97a224adf26de7ed737fdc"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1274,7 +1282,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-01-26 17:00:00",
+      "start": "2024-01-27 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/433",
       "location": "Bitte in Telegramm schauen",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
@@ -1887,13 +1895,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
     "event": {
-      "start": "2024-01-16 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1075",
-      "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
-      "description": "Stammtisch für alle Bitcoin Interessieren im und um den Landkreis Regensburg.\nDieser Termin findet (meistens) jeden zweiten Dienstag im Monat statt.\nAktuelles Lokal: Café Lila, Regensburg ",
-      "link": "https://g.co/kgs/ynQnHeZ",
+      "start": "2024-02-04 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1082",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Wenn du dich für Bitcoin interessierst, dann komm in unsere Regensburger Bitcoin Gruppe. Jeder ist willkommen, vom Einsteiger bis zum Bitcoin Maximalisten. Ganz egal wie dein aktueller Wissensstand ist, bei uns geht es um den Austausch mit Gleichgesinnten, gegenseitige Hilfe, gemeinsame Aktionen, sowie aktuelle Informationen in der Telegram-Gruppe. Jeder hat einen anderen Hintergrund - das macht unsere Gruppe so bunt und bereichernd. Wir freuen uns auf interessante Gespräche mit dir beim Bitcoin Stammtisch in einem der Regensburger Wirtshäuser.",
+      "link": null,
       "attendees": 1,
-      "nostr_note": "773251fe7c714d92ae5a24ee9943da6a29c5b01713caabf8dbda8bc78bc2eb9a"
+      "nostr_note": "e0a8a97ed8611106021b724958618ed7e11e9fbb6ee380136eff8c378b42a8b9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2187,7 +2195,7 @@
       "location": "Lübbenau ",
       "description": "3. Bitcoin Meetup im Spreewald 😊\n\nBahnhofstraße 3d, 03222 Lübbenau/Spreewald",
       "link": null,
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "4b4ba10f87f2cb74b126c82d7317a703597f172f9d7fdeed651d87d92754c6b3"
     },
     "style": {
@@ -2725,7 +2733,15 @@
     "city": "Nordburgenland",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
-    "event": null,
+    "event": {
+      "start": "2024-01-20 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1110",
+      "location": "Weinwerk Neusiedl am See, Obere Hauptstraße 31, 7100 Neusiedl am See",
+      "description": "Ijoma Mangold - Die orange Pille\n\nVortrag Ijoma Mangold Die orange Pille Warum Bitcoin weit mehr als nur ein neues Geld ist. Im Film »Matrix« muss sich der Held entscheiden, ob er die blaue oder die rote Pille schluckt. Die blaue lässt ihn vergessen, die rote die Wahrheit über die Welt erkennen. Daran angelehnt wird der Bitcoin »die orangene Pille« genannt, denn wer sich mit ihm auseinandersetzt, dem wird die Macht von Wall Street und Zentralbanken in unserer Welt bewusst. Und der Bitcoin verheißt die Befreiung davon: Er ist unabhängig von zentralen Instanzen wie Banken und nicht durch sie manipulierbar. Kenntnisreich und mit Leidenschaft schildert Mangold, wie sogar er, der Literaturkritiker, der Faszination Bitcoin verfiel und weswegen es sich dabei nicht lediglich um eine digitale Währung handelt, sondern um ein Freiheits- und Gerechtigkeitssystem. Ijoma Mangold Ijoma Mangold, geboren 1971, ist Journalist, Literaturkritiker und Autor. Er war Literaturchef von ›DIE ZEIT‹, heute schreibt er für sie als kulturpolitischer Korrespondent. In der Zurückgezogenheit des Lockdowns tauchte er in das Bitcoin-Universum ein. Seither sieht er unsere Welt anders – und erklärt in seinem Buch, weshalb auch wir das tun sollten. Durch den Abend führt Niko Jilch. BTC Lightning Zahlung möglich: btc.impulse-neusiedl.at ",
+      "link": "https://www.eventim-light.com/at/a/60a4f8e60f83df00d523c7a9/e/64fdf231ae1a440326fa89ff",
+      "attendees": 0,
+      "nostr_note": "f4c88f7bc0c33b0cc82d440e3f9964c25b9f4b7363ba1e09742758d547cc424d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2770,7 +2786,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-01-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1103",
+      "location": "Pizzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
+      "description": "Monatlicher Stammtisch der Salzburger Plebs. Pascalculator teilt seine Pizza!",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "9d8da347a195b6184a4fb1a380daa05dec12f5d9e5d7012877773f76f8abb5d0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
