@@ -93,13 +93,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-01-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/959",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-02-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/972",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "dc6610b1cf84e35bec35bb149c760793363409f693281d0f21ffd838908d0d91"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1305,8 +1305,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2024-01-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/517",
+      "start": "2024-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/518",
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
@@ -1620,7 +1620,7 @@
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
     },
     "style": {
@@ -2792,7 +2792,7 @@
       "location": "Pizzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
       "description": "Monatlicher Stammtisch der Salzburger Plebs. Pascalculator teilt seine Pizza!",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9d8da347a195b6184a4fb1a380daa05dec12f5d9e5d7012877773f76f8abb5d0"
     },
     "style": {
@@ -2832,7 +2832,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-01-23 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1113",
+      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
+      "description": "Nächstes Treffen der steirischen Bitcoiner im Don Alfredo - Bitcoin accepted! Entspannter Austausch über unser Lieblingsthema, Neulinge sind immer herzlich willkommen! Einfach vorbeikommen. Ab 17h, open end.",
+      "link": "https://www.don-alfredo.at/",
+      "attendees": 0,
+      "nostr_note": "098d1772ab90dac14c975c072449c7f6d00e054f4c670a170b2c1fafa2343afa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
