@@ -249,7 +249,7 @@
       "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
       "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]",
       "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-tresznjewski/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7c6ac387804b3b1c381e878bb9780f624556388b07a0ee29e06e7da3233dbdce"
     },
     "style": {
@@ -368,10 +368,10 @@
     "event": {
       "start": "2024-01-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/999",
-      "location": "steht noch nicht fest. bitte in Telegram schauen.",
+      "location": "Satoshis Coffeeshop Plinganserstraße 6, 81369 München (Eingang neben “Restaurant ÖEINS”)",
       "description": "der Einundzwanzig München trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
-      "link": null,
-      "attendees": 0,
+      "link": "https://bitcoinlighthouse.de/satoshis-coffeeshop/",
+      "attendees": 3,
       "nostr_note": "4416297a7aa17d285cc0081136451a7f7865c28ac85ac4538dbeaabe7c858198"
     },
     "style": {
@@ -736,7 +736,15 @@
     "city": "Ellwangen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-02 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1115",
+      "location": "Bistro Altstadt Ellwangen",
+      "description": null,
+      "link": "https://www.bistro-altstadt.de/",
+      "attendees": 2,
+      "nostr_note": "5be6a6b0db3d6ea46b35050fd05260ddc543848f6eeec75ffc5602056930e575"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -828,8 +836,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2024-01-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/821",
+      "start": "2024-02-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/822",
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
       "description": null,
       "link": null,
@@ -2106,15 +2114,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-01-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/992",
-      "location": "Zum Kuckuck / Villingen-Schwenningen",
-      "description": "Tisch ist reserviert für EINUNDZWANZIG",
-      "link": "https://www.google.com/search?kgmid=/g/11r_y50n91&hl=de-DE&q=Zum+Kuckuck+-+Villingen&kgs=9a009b913aaaa281&shndl=17&source=sh/x/kp/osrp/m5/2&shem=ssc",
-      "attendees": 1,
-      "nostr_note": "e74f07ecb3a16ad1fa662b8f5b5359c58b0a368b5338d1edb07fad204abb00d6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
