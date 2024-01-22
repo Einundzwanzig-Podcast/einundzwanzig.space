@@ -304,15 +304,7 @@
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
-    "event": {
-      "start": "2024-01-21 14:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1017",
-      "location": "Aderzhofen, Bude s´Eck",
-      "description": "Erstes Meetup",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "50e94f2bac3c57e2f834cc26b111909a43d591b0a32053ffa6fb23c0f7dcdfa8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -328,13 +320,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-01-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/888",
+      "start": "2024-02-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/889",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
-      "attendees": 1,
-      "nostr_note": "bc380c7625853e14d79de9631a9eb3dfb5788d1f132a5c6077ee4662ba81b3f7"
+      "attendees": 0,
+      "nostr_note": "d7f96b6e68d636cadbf1f2a292279c00ad0272eb486cc8aa51281dd152b168ac"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -366,13 +358,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
     "event": {
-      "start": "2024-01-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/999",
-      "location": "Satoshis Coffeeshop Plinganserstraße 6, 81369 München (Eingang neben “Restaurant ÖEINS”)",
+      "start": "2024-02-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1001",
+      "location": "bitte in Telegram schauen. Location steht noch nicht fest.",
       "description": "der Einundzwanzig München trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
-      "link": "https://bitcoinlighthouse.de/satoshis-coffeeshop/",
-      "attendees": 3,
-      "nostr_note": "4416297a7aa17d285cc0081136451a7f7865c28ac85ac4538dbeaabe7c858198"
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3892f823d3129d3b0411b9c1640a9dcb7217286fc7f3875d90f791b115e1ce1c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -462,6 +454,21 @@
     "url": "https://t.me/einundzwanzigbadiburg",
     "city": "Osnabrück",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-iburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Beckum",
+    "latLng": [
+      51.7564,
+      8.0178
+    ],
+    "url": "https://t.me/+Mzce7ygPIOgwMDUy",
+    "city": "Beckum",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-beckum",
     "twitter": null,
     "event": null,
     "style": {
@@ -1128,15 +1135,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": null,
-    "event": {
-      "start": "2024-01-21 10:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1112",
-      "location": "Seehaus Ingolstadt, Am Mitterschüttweg 2, 85049 Ingolstadt",
-      "description": "Das Seehaus Ingolstadt befindet sich direkt am Baggersee Ingolstadt\n\nLink zur Speisekarte: https://seehausingolstadt.de/?page_id=24",
-      "link": "https://maps.app.goo.gl/ai2w7LWvk95UMksN7",
-      "attendees": 0,
-      "nostr_note": "ab26c05eaed530fbffec6c0aee79f4ce396771e32c97a224adf26de7ed737fdc"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1970,8 +1969,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": null,
     "event": {
-      "start": "2024-01-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/453",
+      "start": "2024-02-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/454",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
@@ -2203,7 +2202,15 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1117",
+      "location": "Ramrob, Hagener Allee 23, 22926 Ahrensburg",
+      "description": null,
+      "link": "https://maps.app.goo.gl/tPjzrk8jNTb6xYxp6",
+      "attendees": 0,
+      "nostr_note": "139a259932691274adeefc319966de06a1fecfab64861670ac5c859f48d2f428"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2684,7 +2691,7 @@
       "location": "genauer Ort folgt",
       "description": "Vereinsgründung ",
       "link": null,
-      "attendees": 1,
+      "attendees": 4,
       "nostr_note": "bf684afeb5530406e1dfd4d78d339b3d49d773e9b32b155a6399d9967e21bd5c"
     },
     "style": {
@@ -2831,8 +2838,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-01-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/860",
+      "start": "2024-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": null,
