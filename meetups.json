@@ -77,7 +77,15 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": null,
+    "event": {
+      "start": "2024-02-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1118",
+      "location": "aja Hotel Lounge, Lübeck-Travemünde",
+      "description": "17:30 Uhr - Eisbaden in der Ostsee (optional)\n18:00 Uhr - Meetup in der aja Lounge",
+      "link": "https://meetup.bitcoinbeachtravemuende.de/",
+      "attendees": 0,
+      "nostr_note": "b29e9c62644c5e9476274cb081c5964f5678f983c5bb73a033e922392eafd793"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -809,7 +817,7 @@
       "location": "Bamberg, Brauerei Gaststätte Brüderla",
       "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
     },
     "style": {
@@ -2170,7 +2178,7 @@
       "location": "Lübbenau ",
       "description": "3. Bitcoin Meetup im Spreewald 😊\n\nBahnhofstraße 3d, 03222 Lübbenau/Spreewald",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "4b4ba10f87f2cb74b126c82d7317a703597f172f9d7fdeed651d87d92754c6b3"
     },
     "style": {
@@ -2376,15 +2384,7 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": {
-      "start": "2024-01-22 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1042",
-      "location": "Musikbistro in Friedberg",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://maps.app.goo.gl/rScwJ237tTtj5tuJA?g_st=ic",
-      "attendees": 3,
-      "nostr_note": "507249bc939fb0dee0c8339d2c6456e5fb22b9e04808ae77cba6f7ea49cf8cd4"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
