@@ -418,7 +418,15 @@
     "city": "Amberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-amberg-sulzbach",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1119",
+      "location": "Schloderer Bräu Amberg",
+      "description": "Whoooop Whoooop!!!\nErstes Treffen im LK AS!!! \nDu hast die einmalige Gelegenheit an dieser geschichtsträchtigen Zusammenkunft teilzunehmen.",
+      "link": "https://schlodererbraeu.de/",
+      "attendees": 3,
+      "nostr_note": "eeb0f3f7badcc5e753e475034fd0cbc03b09b9276341492aa272b73cfe51f81a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1891,7 +1899,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Wenn du dich für Bitcoin interessierst, dann komm in unsere Regensburger Bitcoin Gruppe. Jeder ist willkommen, vom Einsteiger bis zum Bitcoin Maximalisten. Ganz egal wie dein aktueller Wissensstand ist, bei uns geht es um den Austausch mit Gleichgesinnten, gegenseitige Hilfe, gemeinsame Aktionen, sowie aktuelle Informationen in der Telegram-Gruppe. Jeder hat einen anderen Hintergrund - das macht unsere Gruppe so bunt und bereichernd. Wir freuen uns auf interessante Gespräche mit dir beim Bitcoin Stammtisch in einem der Regensburger Wirtshäuser.",
       "link": null,
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "e0a8a97ed8611106021b724958618ed7e11e9fbb6ee380136eff8c378b42a8b9"
     },
     "style": {
@@ -2799,15 +2807,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-01-23 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1113",
-      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
-      "description": "Nächstes Treffen der steirischen Bitcoiner im Don Alfredo - Bitcoin accepted! Entspannter Austausch über unser Lieblingsthema, Neulinge sind immer herzlich willkommen! Einfach vorbeikommen. Ab 17h, open end.",
-      "link": "https://www.don-alfredo.at/",
-      "attendees": 0,
-      "nostr_note": "098d1772ab90dac14c975c072449c7f6d00e054f4c670a170b2c1fafa2343afa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
