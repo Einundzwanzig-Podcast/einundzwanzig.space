@@ -424,7 +424,7 @@
       "location": "Schloderer Bräu Amberg",
       "description": "Whoooop Whoooop!!!\nErstes Treffen im LK AS!!! \nDu hast die einmalige Gelegenheit an dieser geschichtsträchtigen Zusammenkunft teilzunehmen.",
       "link": "https://schlodererbraeu.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "eeb0f3f7badcc5e753e475034fd0cbc03b09b9276341492aa272b73cfe51f81a"
     },
     "style": {
@@ -1825,7 +1825,15 @@
     "city": "Pfarrkirchen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfarrkirchen-rottal-inn",
     "twitter": "",
-    "event": null,
+    "event": {
+      "start": "2024-02-03 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1121",
+      "location": "Pfarrkirchen Samurai Sushi https://g.co/kgs/RPcJr5u",
+      "description": null,
+      "link": "https://g.co/kgs/RPcJr5u",
+      "attendees": 1,
+      "nostr_note": "5b131d08e04ab5185f5f8752424431e359548c1befcbc207688d60e9d69bb187"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2392,7 +2400,15 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": null,
+    "event": {
+      "start": "2024-02-26 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1120",
+      "location": "Musikbistro Friedberg",
+      "description": "Bismarckstraße 32\n61169 Friedberg (Hessen)",
+      "link": "https://maps.app.goo.gl/HwJ4vemTxrDkFFPY9?g_st=i",
+      "attendees": 0,
+      "nostr_note": "fae8f960423407881c71ccef2efd2128b2fd240cfaa52d0fc18fda63a1e7ec89"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2699,7 +2715,7 @@
       "location": "genauer Ort folgt",
       "description": "Vereinsgründung ",
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "bf684afeb5530406e1dfd4d78d339b3d49d773e9b32b155a6399d9967e21bd5c"
     },
     "style": {
