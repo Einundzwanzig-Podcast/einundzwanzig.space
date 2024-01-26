@@ -825,7 +825,7 @@
       "location": "Bamberg, Brauerei Gaststätte Brüderla",
       "description": "Brüderla\nObstmarkt 1\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/8TyP4qgbz7AcrvnCA",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "973b875ec2c3820ab0264307e33217d856c2e8814a0bdd1c0c2fda70971e4640"
     },
     "style": {
@@ -994,8 +994,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-01-25 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1019",
+      "start": "2024-02-29 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1020",
       "location": "Hamburg-Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -2188,15 +2188,7 @@
     "city": "Spreewald ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
     "twitter": "schlabendorf",
-    "event": {
-      "start": "2024-01-25 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1102",
-      "location": "Lübbenau ",
-      "description": "3. Bitcoin Meetup im Spreewald 😊\n\nBahnhofstraße 3d, 03222 Lübbenau/Spreewald",
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "4b4ba10f87f2cb74b126c82d7317a703597f172f9d7fdeed651d87d92754c6b3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2423,7 +2415,15 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-29 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1123",
+      "location": "60/40 - Schlachthof",
+      "description": null,
+      "link": "https://maps.app.goo.gl/fQtFaX5YrH6ebbN46",
+      "attendees": 0,
+      "nostr_note": "47f79e8366eb8054f408d66d27802d9cf23755731ac81583d85a56a1ede1a277"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2528,8 +2528,16 @@
     "url": "https://t.me/+t-pJwLAQ-ss1Y2Iy",
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-remstal",
-    "twitter": "Xomas",
-    "event": null,
+    "twitter": "21Remstal",
+    "event": {
+      "start": "2024-02-02 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1125",
+      "location": "Trattoria Toscana Rommelshausen",
+      "description": null,
+      "link": "https://maps.app.goo.gl/b972YswoH3wXaoC88",
+      "attendees": 0,
+      "nostr_note": "d9b6a1e085c2c2729885735ec86e1cdf2e2b5c3a9ec1fe2bdbfc81dfaf76022a"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
