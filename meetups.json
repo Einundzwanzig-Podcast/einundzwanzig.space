@@ -9,15 +9,7 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": {
-      "start": "2024-01-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1101",
-      "location": "Marburg",
-      "description": "Fusionstermin mit Marburg im Schamdam",
-      "link": "https://maps.app.goo.gl/RobamB5uDGz2moRq9",
-      "attendees": 0,
-      "nostr_note": "0cf2da268666430ea301adc8fbbc47da282ee818545f996bbc8ac2c1c2143042"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -213,15 +205,7 @@
     "city": "Harz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
     "twitter": "MeetupHarz",
-    "event": {
-      "start": "2024-01-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/939",
-      "location": "Felsenkeller Bad Suderode",
-      "description": "Gemütliches Beisammensein, lecker essen und über Bitcoin reden :)",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "a13f25b25966f7797cc98a9ec07e107f5d236e9402a03b7e6415649b9ca52379"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -289,15 +273,7 @@
     "city": "Westerwald",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
     "twitter": null,
-    "event": {
-      "start": "2024-01-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1099",
-      "location": "Landgasthof Eiserner Ritter - Essen und Getränke wird mit Lightning gezahlt",
-      "description": "Essen und Trinken kann mit Sats gezahlt werden ;)\n\nhttps://maps.app.goo.gl/yWmAHGGHTBzFaw8e9 \n\nhttps://btcmap.org/merchant/node:4988405913",
-      "link": "https://eiserner-ritter.de/",
-      "attendees": 1,
-      "nostr_note": "a5618444677b3985b7b315c36a0e273c18b8bb8479d286a002dcc02db36d14a3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -441,7 +417,15 @@
     "city": "Ansbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1126",
+      "location": "Steakhouse „La Rustica“ Ansbach",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "984341c699e926861eded1ab5fd0c97a6a30a8722f7e41d6eb68122c49880d98"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1257,15 +1241,7 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": {
-      "start": "2024-01-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1098",
-      "location": "Landgasthof Eiserner Ritter - Essen und Getränke wird mit Lightning gezahlt",
-      "description": "Essen und Trinken kann mit Sats gezahlt werden ;)\n\n\nhttps://maps.app.goo.gl/yWmAHGGHTBzFaw8e9\nhttps://btcmap.org/merchant/node:4988405913\n",
-      "link": "https://www.eiserner-ritter.de/",
-      "attendees": 1,
-      "nostr_note": "2ab65ef5b1176533084b211ee57bf522b9c3c1c7986809da24632b8466650b6d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1940,12 +1916,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": null,
     "event": {
-      "start": "2024-01-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/569",
+      "start": "2024-02-23 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/570",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "f523e31f9feef4a4a85d20a72004f5ac9d370ae80e745c479959c403fe68a3a6"
     },
     "style": {
@@ -2030,15 +2006,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2024-01-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1078",
-      "location": "JJ's Pub, Wendalinusstraße 39, 66606 St. Wendel",
-      "description": null,
-      "link": "https://t.me/einundzwanzigsaarland_stwendel",
-      "attendees": 1,
-      "nostr_note": "21eeb4185b53681c8fa80e36ac116cf9b00fb01c0776fee32f0298eab3cc63c1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2535,7 +2503,7 @@
       "location": "Trattoria Toscana Rommelshausen",
       "description": null,
       "link": "https://maps.app.goo.gl/b972YswoH3wXaoC88",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "d9b6a1e085c2c2729885735ec86e1cdf2e2b5c3a9ec1fe2bdbfc81dfaf76022a"
     },
     "style": {
