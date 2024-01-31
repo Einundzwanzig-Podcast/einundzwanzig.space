@@ -1201,7 +1201,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Stammtisch für alle Bitcoin Interessierten aus dem Allgäu. Von Plebs für Plebs. Wir freuen und auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "fdb60a2083f5320e1fe6d86603b5a8688d49d317da800fd0362637f1eea93c0b"
     },
     "style": {
@@ -1778,7 +1778,15 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1135",
+      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern",
+      "description": null,
+      "link": "https://maps.app.goo.gl/Ef8AsNxbDWWPPY5N7",
+      "attendees": 1,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2495,7 +2503,7 @@
       "location": "Trattoria Toscana Rommelshausen",
       "description": null,
       "link": "https://maps.app.goo.gl/b972YswoH3wXaoC88",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "d9b6a1e085c2c2729885735ec86e1cdf2e2b5c3a9ec1fe2bdbfc81dfaf76022a"
     },
     "style": {
