@@ -720,13 +720,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2024-02-02 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1115",
-      "location": "Bistro Altstadt Ellwangen",
-      "description": null,
+      "start": "2024-03-01 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1116",
+      "location": "Bistro Altstadt Ellwangen - Bachgasse 3, 73479 Ellwangen (Jagst)",
+      "description": "",
       "link": "https://www.bistro-altstadt.de/",
-      "attendees": 2,
-      "nostr_note": "5be6a6b0db3d6ea46b35050fd05260ddc543848f6eeec75ffc5602056930e575"
+      "attendees": 1,
+      "nostr_note": "73b5f173984641896b0f501faed30151b48ca93fa6daae3d45575174f70e54e0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -801,7 +801,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1201,7 +1201,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Stammtisch für alle Bitcoin Interessierten aus dem Allgäu. Von Plebs für Plebs. Wir freuen und auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "fdb60a2083f5320e1fe6d86603b5a8688d49d317da800fd0362637f1eea93c0b"
     },
     "style": {
@@ -1513,7 +1513,15 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1136",
+      "location": "Berliner-Tor-Platz 4, 46483 Wesel",
+      "description": "Weseler Wirtshaus, Berliner-Tor-Platz 4, 46483 Wesel um 19 Uhr, Reserviert auf \"Niederrheineinundzwanzig\"",
+      "link": "https://maps.app.goo.gl/CEjeLTLErzxVUFv47",
+      "attendees": 1,
+      "nostr_note": "8a62f42ef8a2db17ce0c492dccaed803e035577fab432b8ff4d76a9709e99ce1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1582,12 +1590,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
     "event": {
-      "start": "2024-02-02 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/776",
+      "start": "2024-03-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/777",
       "location": "Nordhausen",
       "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
     },
     "style": {
@@ -1650,12 +1658,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2024-02-02 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/388",
+      "start": "2024-03-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/389",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "91a5a87b5c4b8bce5bf9c83376245efcbd24998244eef6b5541777eead1ea057"
     },
     "style": {
@@ -2404,21 +2412,6 @@
     }
   },
   {
-    "name": "Ellwangen ",
-    "latLng": [
-      48.9615975,
-      10.131975
-    ],
-    "url": "https://t.me/einundzwanzigEllwangen",
-    "city": "Ellwangen",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/ellwangen",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Flensburg",
     "latLng": [
       54.792313,
@@ -2490,13 +2483,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-02-02 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1125",
-      "location": "Trattoria Toscana Rommelshausen",
+      "start": "2024-03-01 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1137",
+      "location": null,
       "description": null,
-      "link": "https://maps.app.goo.gl/b972YswoH3wXaoC88",
-      "attendees": 3,
-      "nostr_note": "d9b6a1e085c2c2729885735ec86e1cdf2e2b5c3a9ec1fe2bdbfc81dfaf76022a"
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
