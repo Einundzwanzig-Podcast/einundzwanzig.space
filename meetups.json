@@ -69,15 +69,7 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": {
-      "start": "2024-02-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1118",
-      "location": "aja Hotel Lounge, Lübeck-Travemünde",
-      "description": "17:30 Uhr - Eisbaden in der Ostsee (optional)\n18:00 Uhr - Meetup in der aja Lounge",
-      "link": "https://meetup.bitcoinbeachtravemuende.de/",
-      "attendees": 0,
-      "nostr_note": "b29e9c62644c5e9476274cb081c5964f5678f983c5bb73a033e922392eafd793"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1491,13 +1483,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-02-03 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/659",
-      "location": "Münster: \"el bodegon\" Warendorfer Straße 43, 48145 Münster, https://www.el-bodegon.de/home.html",
+      "start": "2024-03-02 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/660",
+      "location": "Münster: voraussichtlich \"el bodegon\" Warendorfer Straße 43, 48145 Münster, https://www.el-bodegon.de/home.html",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
-      "attendees": 1,
-      "nostr_note": "733c70976257b5d88dc076577e232fbfb914283bc03ffc00bb04cd54ef8abe5a"
+      "attendees": 0,
+      "nostr_note": "dd709e78b35423d990c46163d87b474080b6fb89e0c3f0c7517bd327234dfd83"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1519,7 +1511,7 @@
       "location": "Berliner-Tor-Platz 4, 46483 Wesel",
       "description": "Weseler Wirtshaus, Berliner-Tor-Platz 4, 46483 Wesel um 19 Uhr, Reserviert auf \"Niederrheineinundzwanzig\"",
       "link": "https://maps.app.goo.gl/CEjeLTLErzxVUFv47",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "8a62f42ef8a2db17ce0c492dccaed803e035577fab432b8ff4d76a9709e99ce1"
     },
     "style": {
@@ -1801,15 +1793,7 @@
     "city": "Pfarrkirchen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfarrkirchen-rottal-inn",
     "twitter": "",
-    "event": {
-      "start": "2024-02-03 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1121",
-      "location": "Pfarrkirchen Samurai Sushi https://g.co/kgs/RPcJr5u",
-      "description": null,
-      "link": "https://g.co/kgs/RPcJr5u",
-      "attendees": 1,
-      "nostr_note": "5b131d08e04ab5185f5f8752424431e359548c1befcbc207688d60e9d69bb187"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1883,7 +1867,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Wenn du dich für Bitcoin interessierst, dann komm in unsere Regensburger Bitcoin Gruppe. Jeder ist willkommen, vom Einsteiger bis zum Bitcoin Maximalisten. Ganz egal wie dein aktueller Wissensstand ist, bei uns geht es um den Austausch mit Gleichgesinnten, gegenseitige Hilfe, gemeinsame Aktionen, sowie aktuelle Informationen in der Telegram-Gruppe. Jeder hat einen anderen Hintergrund - das macht unsere Gruppe so bunt und bereichernd. Wir freuen uns auf interessante Gespräche mit dir beim Bitcoin Stammtisch in einem der Regensburger Wirtshäuser.",
       "link": null,
-      "attendees": 5,
+      "attendees": 4,
       "nostr_note": "e0a8a97ed8611106021b724958618ed7e11e9fbb6ee380136eff8c378b42a8b9"
     },
     "style": {
@@ -2081,7 +2065,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-02-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1152",
+      "location": "Linach 6, 78120 Furtwangen - Zum Wilden Michel",
+      "description": "Wer: Einundzwanzig Schwarzwald Baar - 5. Meetup\n\nWann: 16.02.2024 ab 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\nBitcoin-Neulinge und Interessierte sind immer herzlich willkommen!",
+      "link": "https://g.co/kgs/v7Tsct",
+      "attendees": 2,
+      "nostr_note": "6441c7ed05da7b1d365846147ab3ef8c966ddfc062061be3c2596824a73b1414"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
