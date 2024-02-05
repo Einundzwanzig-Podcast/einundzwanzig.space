@@ -280,7 +280,15 @@
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-23 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1153",
+      "location": "Lichtspielhaus Riedlingen",
+      "description": "Zwoites Meetup",
+      "link": "https://www.das-lichtspielhaus.de/index.php?id=15",
+      "attendees": 0,
+      "nostr_note": "49a7b2273948727a9466de48e9e0a0dd954c7d8259a234919775f6a744ca4501"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -961,15 +969,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "start": "2024-02-29 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1020",
-      "location": "Hamburg-Sternschanze",
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
-      "nostr_note": "413bea17b89dcab8e5b68aad3f3747a211554f8613dca7786940c580be933536"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1861,15 +1861,7 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": {
-      "start": "2024-02-04 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1082",
-      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
-      "description": "Wenn du dich für Bitcoin interessierst, dann komm in unsere Regensburger Bitcoin Gruppe. Jeder ist willkommen, vom Einsteiger bis zum Bitcoin Maximalisten. Ganz egal wie dein aktueller Wissensstand ist, bei uns geht es um den Austausch mit Gleichgesinnten, gegenseitige Hilfe, gemeinsame Aktionen, sowie aktuelle Informationen in der Telegram-Gruppe. Jeder hat einen anderen Hintergrund - das macht unsere Gruppe so bunt und bereichernd. Wir freuen uns auf interessante Gespräche mit dir beim Bitcoin Stammtisch in einem der Regensburger Wirtshäuser.",
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "e0a8a97ed8611106021b724958618ed7e11e9fbb6ee380136eff8c378b42a8b9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3190,7 +3182,15 @@
     "city": "Palma",
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1154",
+      "location": "Palma - Ventura Harbor Bar",
+      "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
+      "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
+      "attendees": 0,
+      "nostr_note": "910dff605d75259a8533596d0929c9398fc11a648b696be8e813eed3a8876c2a"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
