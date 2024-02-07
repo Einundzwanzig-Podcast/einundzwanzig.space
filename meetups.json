@@ -228,13 +228,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-02-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1024",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-tresznjewski/",
-      "attendees": 1,
-      "nostr_note": "7c6ac387804b3b1c381e878bb9780f624556388b07a0ee29e06e7da3233dbdce"
+      "start": "2024-02-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1164",
+      "location": "₿☕ Einsteiger-Runde + Bitaxe Open Source Mining — Satoshis Coffeeshop Open House",
+      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\nDiesmal mit Community-Vortrag von WantClue (Wirtschaftsinformatiker B.Sc. | YouTuber und Open Source Enthusiast):\n\n**Bitcoin back to the roots! Open Source Mining**\n\nIn diesem Vortrag beleuchten wir das Bitaxe Projekt, eine bahnbrechende Initiative, die das Bitcoin-Mining zurück zu seinen Ursprüngen bringt. Das Bitaxe Projekt steht für eine Rückkehr zu den grundlegenden Prinzipien von Bitcoin: Dezentralisierung, Transparenz und Gemeinschaftsbeteiligung.\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-einsteiger-runde-bitaxe-open-source-mining-satoshis-coffeeshop-open-house/",
+      "attendees": 0,
+      "nostr_note": "62a62ca964458e0dd3375add5d0bf2ceb19d7dcc8829900b58b66c4e45c2f4c9"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1125,6 +1125,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Hückelhoven",
+    "latLng": [
+      51.0561728,
+      6.2290856
+    ],
+    "url": "https://t.me/einundzwanzighueckelhoven",
+    "city": "Hückelhoven",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hueckelhoven",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Ingolstadt",
     "latLng": [
       48.7630165,
@@ -1187,7 +1202,15 @@
     "city": "Kassel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1165",
+      "location": "Foster's Garden Eichwaldstraße 50, 34123 Kassel",
+      "description": "Wir treffen uns jeweils am 3. Donnerstag im Monat ab 18:00 Uhr zu einem gemütlichen Plausch.\nVorschläge für Themen werden gerne angenommen.",
+      "link": "https://fosters-garden.de/",
+      "attendees": 0,
+      "nostr_note": "718acdfb5275b159acc65e2529e5f89504f7e3a1f28b142c66d318eaa873ea23"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1208,7 +1231,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Stammtisch für alle Bitcoin Interessierten aus dem Allgäu. Von Plebs für Plebs. Wir freuen und auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "fdb60a2083f5320e1fe6d86603b5a8688d49d317da800fd0362637f1eea93c0b"
     },
     "style": {
@@ -1982,7 +2005,15 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "start": "2024-02-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1168",
+      "location": "Massaya Grill Saarlouis",
+      "description": "Kasemattenhof 23/24\n66740 Saarlouis",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "206553494b821c6ee4b283ce64f73fb93fd1a2c0a07ceda3441a59b24757c335"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2012,7 +2043,15 @@
     "city": "Saarlouis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
     "twitter": "21Saarlouis",
-    "event": null,
+    "event": {
+      "start": "2024-02-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1169",
+      "location": "Massaya Grill Saarlouis ",
+      "description": "Kasemattenhof 23/24 66740 Saarlouis",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3b65506f8cff2786ce2794d9638931d6b4e78d210e70b5248b7560e075e6460d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2459,7 +2498,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-02-24 18:00:00",
+      "start": "2024-02-28 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1004",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
