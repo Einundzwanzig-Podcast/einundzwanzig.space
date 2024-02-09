@@ -546,8 +546,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2024-02-08 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/927",
+      "start": "2024-03-07 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/928",
       "location": "Bonn",
       "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
@@ -902,13 +902,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
     "event": {
-      "start": "2024-02-08 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1081",
-      "location": "Wiesenmühle Fulda",
-      "description": "Gemütliches Beisammensein in der Wiesenmühle in Fulda ",
-      "link": null,
+      "start": "2024-03-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1171",
+      "location": "Keulos",
+      "description": "Wir treffen uns im Lindenhof in Künzell-Keulos. Dort haben wir einen separaten Raum mit Beamer und Leinwand.",
+      "link": "https://keulos.beepworld.de/",
       "attendees": 1,
-      "nostr_note": "d012b7edc45cc844a7707d612d246087b8ca332700b692e96c4ad68fd25a8d57"
+      "nostr_note": "1065c22d4f5c4ef684393a857bf6cc04a915a222a634d451c52c5295189a0eeb"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1225,15 +1225,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-02-08 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1100",
-      "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
-      "description": "Stammtisch für alle Bitcoin Interessierten aus dem Allgäu. Von Plebs für Plebs. Wir freuen und auf Dich.",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
-      "nostr_note": "fdb60a2083f5320e1fe6d86603b5a8688d49d317da800fd0362637f1eea93c0b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1740,6 +1732,29 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
+    "event": {
+      "start": "2024-02-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1170",
+      "location": "Restaurant \"Zur  Mühle\", An d. Mühle 40, 15345 Altlandsberg",
+      "description": "Wir haben einen Tisch reserviert und erwarten alle interessierten Plebs. Platz ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
+      "link": "https://maps.app.goo.gl/DPFAQ56LWzmZ5FCT7",
+      "attendees": 1,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Ost-Brandenburg Altlandsberg",
+    "latLng": [
+      52.552804852094,
+      13.697406152587
+    ],
+    "url": "https://t.me/einundzwanzig_bbost",
+    "city": "Altlandsberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
@@ -1808,15 +1823,7 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "start": "2024-02-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1135",
-      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern",
-      "description": null,
-      "link": "https://maps.app.goo.gl/Ef8AsNxbDWWPPY5N7",
-      "attendees": 1,
-      "nostr_note": "f39e77c54e4fbf07093518ad99a4452b26b1a6737ed7acca7f6c481bb39f15bf"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2224,15 +2231,7 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": {
-      "start": "2024-02-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1117",
-      "location": "Ramrob, Hagener Allee 23, 22926 Ahrensburg",
-      "description": null,
-      "link": "https://maps.app.goo.gl/tPjzrk8jNTb6xYxp6",
-      "attendees": 0,
-      "nostr_note": "139a259932691274adeefc319966de06a1fecfab64861670ac5c859f48d2f428"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
