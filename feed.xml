@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 08 Feb 2024 15:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 08:33:28 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,55 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #06 - J wie Julian, J wie Journalismus - mit Philipp Mattheis]]></title>
+      <description><![CDATA[<p><strong>NostrTalk #06 - Blockzeit 829248</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a> und <a href="https://nostr.com/npub1n2jrsl9n5lddlauxmtycu3agrrz0qvv7lgrnunl7kmxemlvtzfws9q8vcr">Philipp Mattheis</a></p>
+
+<p><br></p>
+<p><strong>Links</strong></p>
+<ul>
+<li><a href="https://geyser.fund/project/powa">Alle Boosts gehen an Bitcoin POWA</a></li>
+<li><a href="https://twitter.com/PhilippMattheis">Philipp auf X</a></li>
+<li><a href="https://blingbling.substack.com/">BlingBling Substack von Philipp</a></li>
+<li><a href="https://njump.me/nevent1qqsrz956nputuqgg8pqweh0v8vghf8c5lfjs3lr4n5whgqx38sfhnugprpmhxue69uhhyetvv9ujumn0wdmksetjv5hxxmmdqgsdmup6e2z6mcpeue6z6kl08he49hcen5xnrc3tnpvw0mdgtjemh0szaty6v">Egge: nostr for content, Lightning for value</a></li>
+<li><a href="https://my2sats.space/blog/nevent1qy28wumn8ghj7un9d3shjtnyv9kh2uewd9hsqgr4f4zsxehsukp4ucv4320gvpq7qmgmc0t28j9p0kywgrqj4rhkmvssrp9j
+">Egge: How to build a nostr-driven blog</a></li>
+<li><a href="https://twitter.com/wikileaks/status/1754830923336433716">J wie Julian Assange </a></li>
+<li><a href="https://x.com/MartinSonneborn/status/1754584069956948128">EU Parlament und der Fall Assange</a></li>
+<li><a href="https://www.youtube.com/watch?v=5Wn5OBhp6Fg">Intro Inspiration 1: Julian Assange is Dying</a></li>
+<li><a href="https://www.youtube.com/watch?v=SDsvsT3xUUs">Intro Inspiration 2: Jens Fischer Rodrian - ASSANGE!</a></li>
+ <li><a href="https://www.wavlake.com/man-like-kweks">Outro von Man Like Kweks</a></li>
+
+</ul>
+<p><br></p>
+<p><strong>Weitere Links:</strong></p>
+<ul>
+ <li><p>Folge <a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk</a></p>
+</li>
+ <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a></p>
+</li>
+ <li><p>Diskutiere mit in unserer <a href="https://matrix.to/#/#nostrtalk:matrix.org">Community</a></p>
+</li>
+ <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
+</li>
+ <li><p>V4V Nostr Track: powa@geyser.fund</p>
+</li>
+</ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-06-j-wie-julian-j-wie-journalismus-mit-philipp-mattheis</link>
+      <guid isPermaLink="false">26bf5c3f-8b69-4cb1-a38d-76d880e712bb</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 09 Feb 2024 08:31:22 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/82411005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-8%2Fe4b91db0-7034-90d9-8570-379133a1886e.mp3" length="162160152" type="audio/mpeg"></enclosure>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:duration>01:07:33</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1707407016277-f8b5a478ee79f.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #06">06</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#221 - Lassmiranda bei der Spurensicherung?]]></title>
       <description><![CDATA[<p>Episode 221 - Blockzeit 829413 - von und mit <a href="https://nostr.com/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a>, <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a>, <a href="http://damus.io/npub1gtnsc9ghsakuhdl27naefe62gf3ncla0qc3x9xs6vyz4ekqdj3zq0u7j60">Molo</a>, <a href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a>, <a href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</a>, <a href="https://snort.social/p/npub14klfpkrqert8xhqhsvyer7n6jgyumldffejchlqu8gyfpjlsca4s5fg0c3">Lawrence</a>, <a href="https://twitter.com/toobittofail">TooBitToFail</a>, und <a href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</a></p>
@@ -1158,40 +1207,7 @@ Episode 214 - Blockzeit 822282- von und mit  <a href="https://nostr.com/npub17fq
     </item>
     <item>
       <title><![CDATA[NostrTalk #02 - Central Weinkeller of Failure]]></title>
-      <description><![CDATA[<p><strong>NostrTalk #02 - Blockzeit 819460 </strong>- von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub18hxp27srqnkzd6snrg85u4mw9kn8lawxdxqff8z4h4lshvd4a7ssmtxks4">Michael1011</a> und <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a></p>
-<ul>
- <li><p><a href="https://nostr.com/npub1talku5l4z88dys5eg8zvz8em2qxv8nfxxanjszzdsrmke0ssaekqqxvkq9">NostrTalk by Einundzwanzig</a></p>
-</li>
- <li><p><a href="https://www.whatbitcoindid.com/podcast/bitcoin-for-banking-failures" target="_blank" rel="noopener noreferer">Intro: What Bitcoin Did</a></p>
-</li>
- <li><p><a href="https://soundcloud.com/dni256/dni-techno2" target="_blank" rel="noopener noreferer">Intro: Track von dni</a></p>
-</li>
- <li><p><a href="https://coracle.social/nevent1qqsvfnjz5gvnp0dp3actys68ld0n96k4qwwfpxrg4f3d9dx4dvkqt5gpz3mhxue69uhhyetvv9ujuerpd46hxtnfdupzpdt06hjlpqwkm22m9fmpa3x9lj8gydzaqkl4elg2u6n5zcqugghzv978hm" target="_blank" rel="noopener noreferer">Übersicht an nostr apps</a></p>
-</li>
- <li><p><a href="https://primal.net/search/%23thenukening">#thenukening</a></p>
-</li>
- <li><p><a href="https://docs.nostr.wine/cellar/readme">Wine Cellar</a></p>
-</li>
- <li><p><a href="https://primal.net/e/note1z67crw6skyufrtp02acazre54y56v0qv58ms6uplkd240wdxzrpq2mj779">140 char relay</a></p>
-</li>
- <li><p><a href="https://nostrnests.com/9noscz">Einundzwanzig Nostrnest</a></p>
-</li>
-  <li><p><a href="https://njump.me/">njump für pre-nostriches</a></p>
-</li>
-  <li><p><a href="https://soundcloud.com/donkweka/wabi-sabi" target="_blank" rel="noopener noreferer">Nostr Pleb Rap (outro)</a></p>
-</li>
-</ul>
-<p><strong>Weitere Links:</strong></p>
-<ul>
-  <li><p>Besuche unsere<a href="https://einundzwanzig.space/"> Website</a></p>
-</li>
-  <li><p>Diskutiere mit in unserer<a href="https://portal.einundzwanzig.space/?c=ch&l=de"> Community</a></p>
-</li>
-  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
-</li>
-  <li><p>Für 21.000 sats kannst du uns ein<a href="https://shoutout.einundzwanzig.space/"> Shoutout</a> da lassen</p>
-</li>
-</ul>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-02-central-weinkeller-of-failure]]></description>
       <link>https://einundzwanzig.space/podcast/nostrtalk-02-central-weinkeller-of-failure</link>
       <guid isPermaLink="false">3ff91586-7732-4e3c-ab9e-b1f9dfb79c1a</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
