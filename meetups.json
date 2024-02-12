@@ -808,7 +808,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1896,6 +1896,29 @@
     }
   },
   {
+    "name": "Einundzwanzig Remstal ",
+    "latLng": [
+      48.806591,
+      9.31957
+    ],
+    "url": "https://t.me/+t-pJwLAQ-ss1Y2Iy",
+    "city": "Remstal",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
+    "twitter": "21Remstal",
+    "event": {
+      "start": "2024-03-01 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1137",
+      "location": "Trattoria Toscana in Rommelshausen",
+      "description": "Jeden ersten Freitag im Monat im Trattoria Toscana in Rommelshausen",
+      "link": "https://maps.app.goo.gl/SqSeMTQSmydHGiTT8?g_st=ic",
+      "attendees": 5,
+      "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Reutlingen",
     "latLng": [
       48.506939,
@@ -1943,7 +1966,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1193",
+      "location": "Kürten",
+      "description": "Bistro Magnolia, Kölner Str. 420, 51515 Kürten",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "36d21f9356fbda03c6b141897100cde1e46a32b74b0e793c82e09f279c564e34"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2478,29 +2509,6 @@
     }
   },
   {
-    "name": "Meetup Remstal ",
-    "latLng": [
-      48.806591,
-      9.31957
-    ],
-    "url": "https://t.me/+t-pJwLAQ-ss1Y2Iy",
-    "city": "Remstal",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-remstal",
-    "twitter": "21Remstal",
-    "event": {
-      "start": "2024-03-01 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1137",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
-    },
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Satoshis Coffeeshop",
     "latLng": [
       48.1371079,
@@ -2853,6 +2861,21 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ ",
+    "latLng": [
+      47.7981346,
+      13.0464806
+    ],
+    "url": "https://t.me/BitcoinSalzburg",
+    "city": "Salzburg",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg-bitcoin-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
