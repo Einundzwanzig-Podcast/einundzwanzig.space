@@ -9,7 +9,15 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-23 17:40:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1199",
+      "location": "Gießen",
+      "description": "Hawwerkasten",
+      "link": "https://maps.app.goo.gl/2wkLMKXaC4WuUe617",
+      "attendees": 0,
+      "nostr_note": "45f1dc2916b3dc67093b57c253d6f8ae055a135029248c37c41bea5d16ed7919"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1036,7 +1044,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-02-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1194",
+      "location": "Da Lisa Pizzeria Heilbronn",
+      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 17.02 ab 17 Uhr mal wieder im Da Lisas (https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8…) \nzum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten.",
+      "link": "https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8",
+      "attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1716,15 +1732,7 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
-    "event": {
-      "start": "2024-02-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1170",
-      "location": "Restaurant \"Zur  Mühle\", An d. Mühle 40, 15345 Altlandsberg",
-      "description": "Wir haben einen Tisch reserviert und erwarten alle interessierten Plebs. Platz ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin interessiert ist, ist herzlich eingeladen.",
-      "link": "https://maps.app.goo.gl/DPFAQ56LWzmZ5FCT7",
-      "attendees": 1,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2230,7 +2238,15 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1196",
+      "location": "Ramrob, Hagener Allee 23, 22926 Ahrensburg",
+      "description": null,
+      "link": "https://www.ramrob-ahrensburg.de/",
+      "attendees": 0,
+      "nostr_note": "d7677d9d57a768002d2561e9a37485261ad298a55ffcac278d8defdf2889b750"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2306,7 +2322,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-02-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1195",
+      "location": "Paulaner in Zurlauben",
+      "description": "Wie immer beim Meetup im Paulaner könnt ihr bevorzugt mit Bitcoin bezahlen und bekommt sogar noch Rabatt.",
+      "link": "https://paulaner-tr.de",
+      "attendees": 1,
+      "nostr_note": "acff8c122971be9ca71e5af968e6241f0f0056ba836b44b78b3635468e2f92f2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2805,7 +2829,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-02-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1198",
+      "location": "P77, Plüddemanngasse 77, 8010 Graz",
+      "description": "Monatlicher Stammtisch der steirischen Bitcoiner - diesmal im P77, wo natürlich mit Bitcoin bezahlt werden kann.  Interessierte Neulinge sind immer willkommen, einfach vorbei schauen :)\n",
+      "link": "https://btcmap.org/merchant/way:96700815",
+      "attendees": 1,
+      "nostr_note": "40f3c708b35ba988ba0f96f125356949e0dd31b810576bfeca6fb72ba46d6890"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2858,7 +2890,15 @@
     "city": "Wien",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1197",
+      "location": "Simmeringer Hauptstraße 52, 1110 Wien",
+      "description": "Es liegt eine gespenstische Ruhe über der Bitcoin Industrie denkt der Mainstream. \n\nDie Realität sieht ganz anders aus. Hier in Wien waren wir das letzte Mal so viele wie noch nie beim Meetup. \nBitcoin wächst egal was andere denken. \n\nAlle sind Willkommen wir freuen uns schon drauf. 🤝😃",
+      "link": "https://delicious-wien.at/",
+      "attendees": 1,
+      "nostr_note": "92dfa4f488386306e9f26f6934d57ac41897c92564943f249d5fb148e4614e86"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
