@@ -1332,7 +1332,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-02-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1201",
+      "location": "Detox Landau",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "ffc6cde0874c555bcf4f2eba77d4958d7d826ee95e041a4e9908e1bb5ec33b28"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
