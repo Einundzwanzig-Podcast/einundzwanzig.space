@@ -583,7 +583,15 @@
     "city": "Bremen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
-    "event": null,
+    "event": {
+      "start": "2024-02-27 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1204",
+      "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
+      "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
+      "link": "https://kulturzentrum-lagerhaus.de/",
+      "attendees": 0,
+      "nostr_note": "a61d6779d9587894950db554bb0e3d118c6c2160b9d62c5208f907a54917ede9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -842,12 +850,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2024-02-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/822",
+      "start": "2024-03-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/823",
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
     },
     "style": {
@@ -1219,13 +1227,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
     "event": {
-      "start": "2024-02-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1165",
+      "start": "2024-03-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1166",
       "location": "Foster's Garden Eichwaldstraße 50, 34123 Kassel",
       "description": "Wir treffen uns jeweils am 3. Donnerstag im Monat ab 18:00 Uhr zu einem gemütlichen Plausch.\nVorschläge für Themen werden gerne angenommen.",
       "link": "https://fosters-garden.de/",
       "attendees": 0,
-      "nostr_note": "718acdfb5275b159acc65e2529e5f89504f7e3a1f28b142c66d318eaa873ea23"
+      "nostr_note": "e3f85e884552456980610a6bae302b9de42c8e737a80b89cda32139ea891f250"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1914,7 +1922,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-02-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1202",
+      "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
+      "description": "Treffen der Regensburger Bitcoin'er als Termin während der Woche.\nWir freuen uns auf dich 🫵🏼",
+      "link": "https://g.co/kgs/tRgpTU3",
+      "attendees": 0,
+      "nostr_note": "5d1a110d186b09ac17090697a0f5c02957c2efb9450751e2812f375ab165211b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2147,7 +2163,7 @@
       "location": "Linach 6, 78120 Furtwangen - Zum Wilden Michel",
       "description": "Wer: Einundzwanzig Schwarzwald Baar - 5. Meetup\n\nWann: 16.02.2024 ab 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\nBitcoin-Neulinge und Interessierte sind immer herzlich willkommen!",
       "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "6441c7ed05da7b1d365846147ab3ef8c966ddfc062061be3c2596824a73b1414"
     },
     "style": {
@@ -2737,7 +2753,7 @@
       "location": "genauer Ort folgt",
       "description": "Vereinsgründung ",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "bf684afeb5530406e1dfd4d78d339b3d49d773e9b32b155a6399d9967e21bd5c"
     },
     "style": {
@@ -2807,7 +2823,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1203",
+      "location": "Pizzeria Al Dente",
+      "description": "Monatlicher Stammtisch der Salzburger Plebs!\nWann: Freitag, 16.02.24, ab 18h\nWo: 🍕🍝 Pizzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
+      "link": "https://www.aldente-sbg.com/",
+      "attendees": 6,
+      "nostr_note": "90e048a91ad0217ad7ab594f4500e1ec21113a024fc4320cd204aedcf5fade95"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2917,21 +2941,6 @@
     },
     "style": {
       "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ ",
-    "latLng": [
-      47.7981346,
-      13.0464806
-    ],
-    "url": "https://t.me/BitcoinSalzburg",
-    "city": "Salzburg",
-    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg-bitcoin-meetup",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
     }
   },
   {
