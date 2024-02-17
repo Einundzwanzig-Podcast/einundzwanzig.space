@@ -2157,15 +2157,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-02-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1152",
-      "location": "Linach 6, 78120 Furtwangen - Zum Wilden Michel",
-      "description": "Wer: Einundzwanzig Schwarzwald Baar - 5. Meetup\n\nWann: 16.02.2024 ab 18:00 Uhr\n\nWo: Zum Wilden Michel,\nLinach 6, 78120 Furtwangen im Schwarzwald (Außerhalb von Furtwangen)\n\nBitcoin-Neulinge und Interessierte sind immer herzlich willkommen!",
-      "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 4,
-      "nostr_note": "6441c7ed05da7b1d365846147ab3ef8c966ddfc062061be3c2596824a73b1414"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2748,13 +2740,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2024-02-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1096",
-      "location": "genauer Ort folgt",
-      "description": "Vereinsgründung ",
+      "start": "2024-03-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1097",
+      "location": "Cafe Froschberg ",
+      "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
-      "attendees": 6,
-      "nostr_note": "bf684afeb5530406e1dfd4d78d339b3d49d773e9b32b155a6399d9967e21bd5c"
+      "attendees": 3,
+      "nostr_note": "e41b89b3a55d335bf908ae3594dc329df3f4475550701a3a561acaafc9acb439"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2823,15 +2815,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-02-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1203",
-      "location": "Pizzeria Al Dente",
-      "description": "Monatlicher Stammtisch der Salzburger Plebs!\nWann: Freitag, 16.02.24, ab 18h\nWo: 🍕🍝 Pizzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
-      "link": "https://www.aldente-sbg.com/",
-      "attendees": 6,
-      "nostr_note": "90e048a91ad0217ad7ab594f4500e1ec21113a024fc4320cd204aedcf5fade95"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
