@@ -417,15 +417,7 @@
     "city": "Ansbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach",
     "twitter": "21Ansbach",
-    "event": {
-      "start": "2024-02-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1126",
-      "location": "Café Rosenbad Ansbach",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "984341c699e926861eded1ab5fd0c97a6a30a8722f7e41d6eb68122c49880d98"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -832,7 +824,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1060,15 +1052,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2024-02-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1194",
-      "location": "Da Lisa Pizzeria Heilbronn",
-      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 17.02 ab 17 Uhr mal wieder im Da Lisas (https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8…) \nzum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten.",
-      "link": "https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8",
-      "attendees": 0,
-      "nostr_note": "1bbdc14a6bc581135507b8aebe6d44c8a336a7c98c21906346312d6dd7781e88"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1583,13 +1567,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
-      "start": "2024-02-17 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1038",
+      "start": "2024-03-16 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1039",
       "location": "Am Büsenbach 35, 21256 Handeloh",
       "description": "Inmitten der Natur in der wunderschönen Lüneburger Heide liegt der Schafstall und bietet euch saisonale, regionale und nachhaltige Köstlichkeiten an. Für die großen und kleinen Bitcoiner ist der Ausflug zum Schafstall immer wieder ein schönes Erlebnis. Seit über 2 Jahren ist die Bezahlung mit Bitcoin Lightning akzeptiert. Wir freuen uns auf euren Besuch.",
       "link": "https://der-schafstall.de/",
       "attendees": 0,
-      "nostr_note": "ea75ed5d24d97882ec792026a884decf8adbed7ca83ad75711435c1619411816"
+      "nostr_note": "0b7166e5211d5442c8b03e1324c37ce59e9b76b7e6276f9d996e16adb4188dfe"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1817,8 +1801,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-passau",
     "twitter": null,
     "event": {
-      "start": "2024-02-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/328",
+      "start": "2024-03-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/329",
       "location": "Passau, Schärding oder mal wo anders?",
       "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
       "link": null,
@@ -2346,15 +2330,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-02-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1195",
-      "location": "Paulaner in Zurlauben",
-      "description": "Wie immer beim Meetup im Paulaner könnt ihr bevorzugt mit Bitcoin bezahlen und bekommt sogar noch Rabatt.",
-      "link": "https://paulaner-tr.de",
-      "attendees": 1,
-      "nostr_note": "acff8c122971be9ca71e5af968e6241f0f0056ba836b44b78b3635468e2f92f2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2831,10 +2807,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-02-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/484",
+      "start": "2024-03-16 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/485",
       "location": "Passau oder Schärding",
-      "description": "28. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "29. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "nostr_note": "80a816e21a3dfc83e4aec6d732a162016b28e7f4e76cf60cb2c2e53d50329913"
