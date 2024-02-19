@@ -77,7 +77,15 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": null,
+    "event": {
+      "start": "2024-03-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1210",
+      "location": "Lübeck-Travemünde",
+      "description": "Unser monatliches Bitcoin Meetup ​in der aja Hotel Lounge, Lübeck-Travemünde",
+      "link": "https://meetup.bitcoinbeachtravemuende.de",
+      "attendees": 0,
+      "nostr_note": "c3b158dc60564006c4168473cbe12f24dfc197d0d471f081889163e3df865a77"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -312,13 +320,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-02-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/889",
+      "start": "2024-03-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/890",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "d7f96b6e68d636cadbf1f2a292279c00ad0272eb486cc8aa51281dd152b168ac"
+      "nostr_note": "fb1979a2b170e8f58a6aca0d192c8487ff440989a74c54d7ab81b267262d8fc3"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -824,7 +832,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1324,15 +1332,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-02-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1201",
-      "location": "Detox Landau",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "ffc6cde0874c555bcf4f2eba77d4958d7d826ee95e041a4e9908e1bb5ec33b28"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2269,7 +2269,15 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-29 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1211",
+      "location": "Zum Ochsen in Höfingen ",
+      "description": "Meet-Up Nr.12",
+      "link": "https://maps.app.goo.gl/ij3gKfGqqETaK66b6",
+      "attendees": 1,
+      "nostr_note": "3e488644395fb2c5e5b6f89feab8f10eb05258222d4c4b5748633bed65954ee9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2653,7 +2661,7 @@
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "1d2da6832b52fab8575dc98a5a296f27d4ead78e755f7f46ac60fc957376f3db"
     },
     "style": {
