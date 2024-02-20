@@ -360,10 +360,10 @@
     "event": {
       "start": "2024-02-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1001",
-      "location": "bitte in Telegram schauen. Location steht noch nicht fest.",
+      "location": "18:00 Fei Scho - Abendessen - ab 19:30 Bar Niederlassung - Drinks (Buttermelcherstraße 6, 80469 München)",
       "description": "der Einundzwanzig München trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
-      "link": null,
-      "attendees": 0,
+      "link": "https://g.co/kgs/zawR2CL",
+      "attendees": 2,
       "nostr_note": "3892f823d3129d3b0411b9c1640a9dcb7217286fc7f3875d90f791b115e1ce1c"
     },
     "style": {
@@ -1884,8 +1884,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": null,
     "event": {
-      "start": "2024-02-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/902",
+      "start": "2024-03-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/903",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
@@ -1935,7 +1935,7 @@
       "location": "Trattoria Toscana in Rommelshausen",
       "description": "Jeden ersten Freitag im Monat im Trattoria Toscana in Rommelshausen",
       "link": "https://maps.app.goo.gl/SqSeMTQSmydHGiTT8?g_st=ic",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2616,6 +2616,21 @@
     }
   },
   {
+    "name": "einundzwanzig Moers",
+    "latLng": [
+      51.453049,
+      6.62175
+    ],
+    "url": "https://t.me/einundzwanzigMoers",
+    "city": "Moers",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Austria",
     "latLng": [
       47.516232,
@@ -2799,7 +2814,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1212",
+      "location": "🍕🍝 ₿izzeria Al Dente",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nAlle Plebs willkommen!\n\nWann: Freitag, 22.03.24, ab 18h\nWo: 🍕🍝 ₿izzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
+      "link": "https://maps.app.goo.gl/9gA3GVhoygiiquuD8",
+      "attendees": 4,
+      "nostr_note": "972edaa94b77b930ba75535c911e06f6545af6fe814fb43413c958cc1dafb2b1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
