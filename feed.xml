@@ -78,9 +78,15 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="NostrTalk #07">07</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="YMFTG4NDCHte1uiF9zmS" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Anti" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="2pXYvwPFFCa3ff9CbjfV" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1yu25lwrnht0knsl2swsd5mn966s4p54l3aejplpnzsjg6aryt3jq9t9xxs">Anti</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
     </item>
     <item>
       <title><![CDATA[#222 - Opa erzählt vom Krieg]]></title>
@@ -193,8 +199,10 @@ Weitere Links
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #222">222</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
     </item>
     <item>
@@ -284,17 +292,19 @@ Weitere Links
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #221">221</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="14"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
       <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
       <podcast:person href="undefined">Molo</podcast:person>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
       <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
     </item>
