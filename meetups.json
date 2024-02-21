@@ -83,7 +83,7 @@
       "location": "Lübeck-Travemünde",
       "description": "Unser monatliches Bitcoin Meetup ​in der aja Hotel Lounge, Lübeck-Travemünde",
       "link": "https://meetup.bitcoinbeachtravemuende.de",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "c3b158dc60564006c4168473cbe12f24dfc197d0d471f081889163e3df865a77"
     },
     "style": {
@@ -101,13 +101,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/960",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-03-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/973",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -358,13 +358,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
     "event": {
-      "start": "2024-02-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1001",
-      "location": "18:00 Fei Scho - Abendessen - ab 19:30 Bar Niederlassung - Drinks (Buttermelcherstraße 6, 80469 München)",
-      "description": "der Einundzwanzig München trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
-      "link": "https://g.co/kgs/zawR2CL",
-      "attendees": 2,
-      "nostr_note": "3892f823d3129d3b0411b9c1640a9dcb7217286fc7f3875d90f791b115e1ce1c"
+      "start": "2024-03-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1114",
+      "location": "Location steht noch nicht fest und wird im Telegram Channel verhandelt.",
+      "description": "Das Einundzwanzig München Meetup trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "fc459c938cc4463fd9d7f898d62b6c895aeb03bd70372bab4a48ec41189f71fd"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -700,10 +700,10 @@
     "event": {
       "start": "2024-03-04 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/720",
-      "location": "Central Bar, Markt 6-8, Dortmund",
-      "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Central.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
-      "link": "https://goo.gl/maps/V6XjU25W7fbtp7gp8",
-      "attendees": 0,
+      "location": "Glorious Café, Kleppingstraße 2, Dortmund",
+      "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Glorious Café.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
+      "link": "https://maps.app.goo.gl/rt6cFgcKLpVoMB7GA",
+      "attendees": 1,
       "nostr_note": "2da0ef34fd7e576c0d4166585243dfa9c22c506f9faf19d5ab550425f6480eb0"
     },
     "style": {
@@ -832,7 +832,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 11,
+      "attendees": 9,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1318,8 +1318,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/518",
+      "start": "2024-03-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/519",
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
@@ -2029,8 +2029,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/454",
+      "start": "2024-03-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/455",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
@@ -2072,7 +2072,7 @@
       "location": "St. Wendel",
       "description": "Treffpunkt ist um 17 Uhr im Bruder Jakob. Ab 19 Uhr geht’s dann ins JJ‘s, da Irish Pub. ",
       "link": "https://maps.apple.com/?address=Schlo%C3%9Fstra%C3%9Fe%205,%2066606%20St.%20Wendel,%20Deutschland&auid=11424143433005459405&ll=49.467444,7.170076&lsp=9902&q=Bruder%20Jakob&t=m",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "74fc150283d61c15f87b0110a65a4c12faa2bcbfe3369fcbbd6af8d78fc87cce"
     },
     "style": {
@@ -2687,13 +2687,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1172",
+      "start": "2024-03-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1173",
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
-      "attendees": 1,
-      "nostr_note": "1d2da6832b52fab8575dc98a5a296f27d4ead78e755f7f46ac60fc957376f3db"
+      "attendees": 0,
+      "nostr_note": "6ed65cf6578698e1bc5777afac302d5be9a435b0c8b02c4d2adf1dcf82bb0296"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2778,13 +2778,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2024-02-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1104",
-      "location": "Neusiedl am See - Joe's Pub",
-      "description": "Gesundes Geld, gesunde Welt",
-      "link": "https://www.joespubneusiedl.at/",
+      "start": "2024-04-19 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1105",
+      "location": "Neusiedl am See - siehe Telgramgruppe",
+      "description": "Halving Party\nGesundes Geld, gesunde Welt",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "8ce5a6fd5fbd2450b3ee69b7a6feaa63e2b3ec3e5e9e85834a36a4a4ed2f3ad1"
+      "nostr_note": "474a6e0c122b68c15a9edbf44742aed22c599fbbd3c0104af0edcdceda1e1e60"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2876,15 +2876,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-02-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1198",
-      "location": "P77, Plüddemanngasse 77, 8010 Graz",
-      "description": "Monatlicher Stammtisch der steirischen Bitcoiner - diesmal im P77, wo natürlich mit Bitcoin bezahlt werden kann.  Interessierte Neulinge sind immer willkommen, einfach vorbei schauen :)\n",
-      "link": "https://btcmap.org/merchant/way:96700815",
-      "attendees": 1,
-      "nostr_note": "40f3c708b35ba988ba0f96f125356949e0dd31b810576bfeca6fb72ba46d6890"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2915,13 +2907,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861",
-      "location": "Wird in der Telegram-Gruppe bekanntgegeben",
+      "start": "2024-03-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1183",
+      "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
-      "link": null,
+      "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
       "attendees": 0,
-      "nostr_note": "0012f195486b4e68e60c5dd1dd589b89b1c657c6aa30afe75142cb7e832d3563"
+      "nostr_note": "28edf5420079a58fc38065a1ac92cb82cfe1ef27ba7b1b17a06d1ab6110ecaa9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2937,15 +2929,7 @@
     "city": "Wien",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
     "twitter": null,
-    "event": {
-      "start": "2024-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1197",
-      "location": "Simmeringer Hauptstraße 52, 1110 Wien",
-      "description": "Es liegt eine gespenstische Ruhe über der Bitcoin Industrie denkt der Mainstream. \n\nDie Realität sieht ganz anders aus. Hier in Wien waren wir das letzte Mal so viele wie noch nie beim Meetup. \nBitcoin wächst egal was andere denken. \n\nAlle sind Willkommen wir freuen uns schon drauf. 🤝😃",
-      "link": "https://delicious-wien.at/",
-      "attendees": 1,
-      "nostr_note": "92dfa4f488386306e9f26f6934d57ac41897c92564943f249d5fb148e4614e86"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3299,13 +3283,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
     "event": {
-      "start": "2024-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1154",
+      "start": "2024-03-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1155",
       "location": "Palma - Ventura Harbor Bar",
       "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
       "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
       "attendees": 0,
-      "nostr_note": "910dff605d75259a8533596d0929c9398fc11a648b696be8e813eed3a8876c2a"
+      "nostr_note": "dc0d189c245332912244ca2c50f5afbe35c663e8c0e2bd08ba4395a708e5e98f"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
