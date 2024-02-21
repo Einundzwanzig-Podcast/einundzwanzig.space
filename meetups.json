@@ -832,7 +832,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 8,
+      "attendees": 11,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1241,7 +1241,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-03-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1216",
+      "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
+      "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 2,
+      "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1740,7 +1748,15 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1215",
+      "location": "Altlandsberg",
+      "description": "Das nächste Einundzwanzig Ost-Brandenburg Meetup findet am 11.03.24 ab 18:00 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und andeen kontroversen Themen interessiert ist, ist herzlich eingeladen.",
+      "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
+      "attendees": 2,
+      "nostr_note": "6ed7283241a03a68a7e8f5f8b7508eb65e3a6145c1567cbb914654df395fcfab"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1906,15 +1922,7 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": {
-      "start": "2024-02-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1202",
-      "location": "Café Lila, Rote-Hahnen-Gasse 2, 93047 Regensburg",
-      "description": "Treffen der Regensburger Bitcoin'er als Termin während der Woche.\nWir freuen uns auf dich 🫵🏼",
-      "link": "https://g.co/kgs/tRgpTU3",
-      "attendees": 0,
-      "nostr_note": "5d1a110d186b09ac17090697a0f5c02957c2efb9450751e2812f375ab165211b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1990,15 +1998,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "start": "2024-02-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1193",
-      "location": "Kürten",
-      "description": "Bistro Magnolia, Kölner Str. 420, 51515 Kürten",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "36d21f9356fbda03c6b141897100cde1e46a32b74b0e793c82e09f279c564e34"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2066,7 +2066,15 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-23 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1217",
+      "location": "St. Wendel",
+      "description": "Treffpunkt ist um 17 Uhr im Bruder Jakob. Ab 19 Uhr geht’s dann ins JJ‘s, da Irish Pub. ",
+      "link": "https://maps.apple.com/?address=Schlo%C3%9Fstra%C3%9Fe%205,%2066606%20St.%20Wendel,%20Deutschland&auid=11424143433005459405&ll=49.467444,7.170076&lsp=9902&q=Bruder%20Jakob&t=m",
+      "attendees": 3,
+      "nostr_note": "74fc150283d61c15f87b0110a65a4c12faa2bcbfe3369fcbbd6af8d78fc87cce"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2338,7 +2346,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-03-16 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1214",
+      "location": "Paulaner in Zurlauben",
+      "description": "Meetup + Workshop\nWer noch Interesse an dem Bitaxe Workshop hat, Tickets können nur noch bis 29.2 gekauft werden! Danach stoppt der Verkauf.\n\nBeginn Workshop: Ab 14 Uhr & 17:30 Uhr\nPreis: 110€ incl. Bitaxe Material\nZahlung: Nur BTCPay (siehe Link)\nACHTUNG: Trier + Uhrzeit auswählen und eine richtige Email auf die ihr die Bestätigung bekommt.\n\nDas Meetup beginnt ab 18 Uhr und ist natürlich kostenlos. Während der Workshops darf ebenfalls kostenlos zugeschaut werden.",
+      "link": "https://btcpay.wantclue.de",
+      "attendees": 1,
+      "nostr_note": "9c5174ed5739562810bb97069bc15b3b93c13130ffa89388c777dbf8af6731bd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
