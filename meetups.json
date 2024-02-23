@@ -1922,7 +1922,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-03-03 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1219",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Bitcoin Stammtisch für Stadt und Landkreis Regensburg.\nJeden 1. Sonntag im Monat.\nBeginn: 11:00 Uhr ",
+      "link": "https://g.co/kgs/8UQBLA5",
+      "attendees": 2,
+      "nostr_note": "ecc17fcfabee7c6021c7ea68ec91f2aeda10c04bbf42c3676b47c012f7a6a9b9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1943,7 +1951,7 @@
       "location": "Trattoria Toscana in Rommelshausen",
       "description": "Jeden ersten Freitag im Monat im Trattoria Toscana in Rommelshausen",
       "link": "https://maps.app.goo.gl/SqSeMTQSmydHGiTT8?g_st=ic",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2399,7 +2407,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2024-03-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1220",
+      "location": "Wittlich",
+      "description": "In der Brasserie Balthazar ",
+      "link": "https://maps.app.goo.gl/VE4rnQYeNHuXFtXV8",
+      "attendees": 0,
+      "nostr_note": "8d0f7cecc7b5b0307ad772cf28a10ce3b424715cca64cc281cddbceb4ffea688"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2450,7 +2466,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32\n61169 Friedberg (Hessen)",
       "link": "https://maps.app.goo.gl/HwJ4vemTxrDkFFPY9?g_st=i",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fae8f960423407881c71ccef2efd2128b2fd240cfaa52d0fc18fda63a1e7ec89"
     },
     "style": {
@@ -2641,7 +2657,15 @@
     "city": "Moers",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1218",
+      "location": "Die Röhre - Moers",
+      "description": "Dies wird unser erstes Meetup in Moers sein. Bitte kommt in die Telegram-Gruppe für die neuesten Informationen zum Meetup. Alle Bitcoiner aus dem Umkreis sind gern gesehen. Ebenso aber auch Neulinge, die sich gerne informieren wollen. Wir freuen uns auf euch!",
+      "link": "https://maps.app.goo.gl/c4FP4Se8LxNQNEAd9",
+      "attendees": 1,
+      "nostr_note": "0c9339cdd2c0611e9f1036d477679b306e6a50e3857c6ecf0c7955b5d6991b12"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2757,7 +2781,7 @@
     "event": {
       "start": "2024-03-15 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1097",
-      "location": "Cafe Froschberg ",
+      "location": "Josef Linz",
       "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
       "attendees": 3,
