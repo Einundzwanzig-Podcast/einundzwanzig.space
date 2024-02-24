@@ -9,15 +9,7 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": {
-      "start": "2024-02-23 17:40:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1199",
-      "location": "Gießen",
-      "description": "Hawwerkasten",
-      "link": "https://maps.app.goo.gl/2wkLMKXaC4WuUe617",
-      "attendees": 0,
-      "nostr_note": "45f1dc2916b3dc67093b57c253d6f8ae055a135029248c37c41bea5d16ed7919"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -296,15 +288,7 @@
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
-    "event": {
-      "start": "2024-02-23 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1153",
-      "location": "Lichtspielhaus Riedlingen",
-      "description": "Zwoites Meetup",
-      "link": "https://www.das-lichtspielhaus.de/index.php?id=15",
-      "attendees": 0,
-      "nostr_note": "49a7b2273948727a9466de48e9e0a0dd954c7d8259a234919775f6a744ca4501"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -584,12 +568,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-02-27 17:30:00",
+      "start": "2024-02-28 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1204",
       "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
       "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
       "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "a61d6779d9587894950db554bb0e3d118c6c2160b9d62c5208f907a54917ede9"
     },
     "style": {
@@ -832,7 +816,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 9,
+      "attendees": 11,
       "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
     },
     "style": {
@@ -1247,7 +1231,7 @@
       "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
       "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 2,
       "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
     },
     "style": {
@@ -1567,11 +1551,11 @@
   {
     "name": "Einundzwanzig Norddeutschland",
     "latLng": [
-      51.48128,
-      6.55449
+      53.24554,
+      9.83926
     ],
     "url": "https://t.me/Einundzwanzig_Norden",
-    "city": "Norddeutschland",
+    "city": "Handeloh",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
@@ -1928,7 +1912,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Bitcoin Stammtisch für Stadt und Landkreis Regensburg.\nJeden 1. Sonntag im Monat.\nBeginn: 11:00 Uhr ",
       "link": "https://g.co/kgs/8UQBLA5",
-      "attendees": 2,
+      "attendees": 5,
       "nostr_note": "ecc17fcfabee7c6021c7ea68ec91f2aeda10c04bbf42c3676b47c012f7a6a9b9"
     },
     "style": {
@@ -1984,8 +1968,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": null,
     "event": {
-      "start": "2024-02-23 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/570",
+      "start": "2024-03-22 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/571",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
@@ -2074,15 +2058,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2024-02-23 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1217",
-      "location": "St. Wendel",
-      "description": "Treffpunkt ist um 17 Uhr im Bruder Jakob. Ab 19 Uhr geht’s dann ins JJ‘s, da Irish Pub. ",
-      "link": "https://maps.apple.com/?address=Schlo%C3%9Fstra%C3%9Fe%205,%2066606%20St.%20Wendel,%20Deutschland&auid=11424143433005459405&ll=49.467444,7.170076&lsp=9902&q=Bruder%20Jakob&t=m",
-      "attendees": 4,
-      "nostr_note": "74fc150283d61c15f87b0110a65a4c12faa2bcbfe3369fcbbd6af8d78fc87cce"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3171,7 +3147,15 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": null,
+    "event": {
+      "start": "2024-02-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1221",
+      "location": "Schall & Rauch Bar ",
+      "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. \nStart: 18:00Uhr\nWir freuen uns auf neue Bekanntschaften intressante Gespräche und datauf unsere Sats auszugeben. \nBis dann ;)",
+      "link": "http://www.schallundrauchbar.ch/",
+      "attendees": 1,
+      "nostr_note": "6a5e62d8a990c580d5c15645086502861ef38b742a32bc6c31ae651835531004"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
