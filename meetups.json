@@ -811,13 +811,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-02-24 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1029",
-      "location": "Erlangen, Pizzeria Tio Rustica",
-      "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
-      "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 11,
-      "nostr_note": "a69246b8e65d835c5154f232d9b2275c7601d21772c3345d363a82f2c6034606"
+      "start": "2024-03-23 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1033",
+      "location": "Fürth, Café Zanetta",
+      "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
+      "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
+      "attendees": 1,
+      "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1149,7 +1149,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-02-25 11:00:07",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1222",
+      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
+      "description": "Diese mal kein klassischer Stammtisch, sondern ein Plebwalk.\n\nWir treffen uns um 12 Uhr und warten noch auf einige Nachzügler und gehen dann am Baggersee entlang zum Wildgehege und zurück.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7950ddaae88cda6109e8fc0a799f26e2d472aae9160b0d55deca32eb83b1512a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1279,8 +1287,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-02-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/434",
+      "start": "2024-03-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/435",
       "location": "Bitte in Telegramm schauen",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": null,
@@ -1912,7 +1920,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Bitcoin Stammtisch für Stadt und Landkreis Regensburg.\nJeden 1. Sonntag im Monat.\nBeginn: 11:00 Uhr ",
       "link": "https://g.co/kgs/8UQBLA5",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "ecc17fcfabee7c6021c7ea68ec91f2aeda10c04bbf42c3676b47c012f7a6a9b9"
     },
     "style": {
@@ -2178,7 +2186,15 @@
     "city": "Sigmaringen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sigmaringen",
     "twitter": "EinundzwanzigSi",
-    "event": null,
+    "event": {
+      "start": "2024-03-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1223",
+      "location": null,
+      "description": "Um 18:00 Uhr im Quh in Sigmaringen für die hungrigen und später um 19:00 für die durstigen im Zoller-Journal\nIn den Lokalitäten gibt es keine Reservierungen \ndaher ist jeder willkommen auch mal kurzfristig vorbeizuschauen\n\nhttps://quh-sig.de/",
+      "link": "https://www.google.de/maps/place/Zoller-Journal/@48.0868864,9.2152458,20.92z/data=!4m6!3m5!1s0x479a3ef4fb7d8d29:0x34d5e3c58876e69!8m2!3d48.0870353!4d9.2154146!16s%2Fg%2F1tffn9gg?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "8d895d9340ce8a946cdcd1640496ccb3b1f2be94f82f646ba3517b4a0a4a0b70"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2760,7 +2776,7 @@
       "location": "Josef Linz",
       "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
-      "attendees": 3,
+      "attendees": 8,
       "nostr_note": "e41b89b3a55d335bf908ae3594dc329df3f4475550701a3a561acaafc9acb439"
     },
     "style": {
