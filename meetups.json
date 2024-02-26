@@ -236,13 +236,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-03-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1192",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Sprache:** Meist deutsch, aber wir haben oft auch Teilnehmer, die englisch sprechen. Bitte gruppiert euch entsprechend, wenn nötig!\n\n**Zielgruppe:** Alle sind willkommen, Neuankömmlinge sowie alte Veteranen. Es gibt meist Gespräche über sowohl Bitcoin-Grundlagen als auch Insider- und Tech-News, außerdem Wirtschaftliches, Politisches und so weiter. Beachtet aber bitte unser Mission Statement vorne auf der Hauptseite!\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-4/",
+      "start": "2024-02-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1224",
+      "location": "₿🗣️ Bitaxe Open Source Mining ⛏️ - Satoshis Coffeeshop Stemmerhof",
+      "description": "Tonight we’re taking Bitcoin back to the roots with Open Source Mining.\n\nIn this talk, we highlight the Bitaxe project, a groundbreaking initiative that takes Bitcoin mining back to its roots. The Bitaxe project stands for a return to the fundamental principles of Bitcoin: decentralization, transparency and community participation.\n\nCentral to the project is the development of open source hardware for Bitcoin ASIC miners. This approach stands in contrast to the current mining landscape, which is dominated by proprietary, closed software and a centralization of mining power in large data centers. [...]\n\n**Speakers:**\n\n* [https://twitter.com/ClueWant](https://twitter.com/ClueWant)\n* [https://twitter.com/TheSoloMiningCo](https://twitter.com/TheSoloMiningCo)\n* [https://twitter.com/MolonLabeVC](https://twitter.com/MolonLabeVC)\n* [https://twitter.com/skot9000](https://twitter.com/skot9000)\n\n**Format:** Presentation, Q&A\n\n**Language:** English\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%97%a3%ef%b8%8f-bitaxe-open-source-mining-%e2%9b%8f%ef%b8%8f/",
       "attendees": 0,
-      "nostr_note": "d57b40d9ef4971ad81d08412e3723f87cf1f42dcfe77f06741037a48ef6044ca"
+      "nostr_note": "107cfbf67d19519bf48afd1abf658e0527058cbe8e2ab42d34deb76dab764f27"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -620,15 +620,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-02-25 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1200",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 2,
-      "nostr_note": "8da756ab8b0413b260b7543f6cd21c1566037ec73c8df5be65f867eafd42b46d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1149,15 +1141,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": null,
-    "event": {
-      "start": "2024-02-25 11:00:07",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1222",
-      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
-      "description": "Diese mal kein klassischer Stammtisch, sondern ein Plebwalk.\n\nWir treffen uns um 12 Uhr und warten noch auf einige Nachzügler und gehen dann am Baggersee entlang zum Wildgehege und zurück.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "7950ddaae88cda6109e8fc0a799f26e2d472aae9160b0d55deca32eb83b1512a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2776,7 +2760,7 @@
       "location": "Josef Linz",
       "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "e41b89b3a55d335bf908ae3594dc329df3f4475550701a3a561acaafc9acb439"
     },
     "style": {
@@ -3169,7 +3153,7 @@
       "location": "Schall & Rauch Bar ",
       "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. \nStart: 18:00Uhr\nWir freuen uns auf neue Bekanntschaften intressante Gespräche und datauf unsere Sats auszugeben. \nBis dann ;)",
       "link": "http://www.schallundrauchbar.ch/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "6a5e62d8a990c580d5c15645086502861ef38b742a32bc6c31ae651835531004"
     },
     "style": {
