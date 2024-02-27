@@ -2436,15 +2436,7 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": {
-      "start": "2024-02-26 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1120",
-      "location": "Musikbistro Friedberg",
-      "description": "Bismarckstraße 32\n61169 Friedberg (Hessen)",
-      "link": "https://maps.app.goo.gl/HwJ4vemTxrDkFFPY9?g_st=i",
-      "attendees": 1,
-      "nostr_note": "fae8f960423407881c71ccef2efd2128b2fd240cfaa52d0fc18fda63a1e7ec89"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2760,7 +2752,7 @@
       "location": "Josef Linz",
       "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "e41b89b3a55d335bf908ae3594dc329df3f4475550701a3a561acaafc9acb439"
     },
     "style": {
