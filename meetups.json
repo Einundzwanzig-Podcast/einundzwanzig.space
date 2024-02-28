@@ -236,13 +236,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-02-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1224",
-      "location": "₿🗣️ Bitaxe Open Source Mining ⛏️ - Satoshis Coffeeshop Stemmerhof",
-      "description": "Tonight we’re taking Bitcoin back to the roots with Open Source Mining.\n\nIn this talk, we highlight the Bitaxe project, a groundbreaking initiative that takes Bitcoin mining back to its roots. The Bitaxe project stands for a return to the fundamental principles of Bitcoin: decentralization, transparency and community participation.\n\nCentral to the project is the development of open source hardware for Bitcoin ASIC miners. This approach stands in contrast to the current mining landscape, which is dominated by proprietary, closed software and a centralization of mining power in large data centers. [...]\n\n**Speakers:**\n\n* [https://twitter.com/ClueWant](https://twitter.com/ClueWant)\n* [https://twitter.com/TheSoloMiningCo](https://twitter.com/TheSoloMiningCo)\n* [https://twitter.com/MolonLabeVC](https://twitter.com/MolonLabeVC)\n* [https://twitter.com/skot9000](https://twitter.com/skot9000)\n\n**Format:** Presentation, Q&A\n\n**Language:** English\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%97%a3%ef%b8%8f-bitaxe-open-source-mining-%e2%9b%8f%ef%b8%8f/",
+      "start": "2024-03-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1225",
+      "location": "₿☕ Satoshis Coffeeshop Open House",
+      "description": "Jeden ersten Sonntag im Monat ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n**Format:** Einsteiger-Runde, Vortrag, Fragen und Antworten, sowie viel Zeit und Raum für allgemeine Diskussionen oder einfach nur gemütliches Zusammensein.\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house-2/",
       "attendees": 0,
-      "nostr_note": "107cfbf67d19519bf48afd1abf658e0527058cbe8e2ab42d34deb76dab764f27"
+      "nostr_note": "d345e27fa530a1987ec37ac81314a250727b10fa85dad8793fe4e670412b4cf4"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -568,12 +568,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-02-28 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1204",
+      "start": "2024-03-27 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1205",
       "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
       "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
       "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "a61d6779d9587894950db554bb0e3d118c6c2160b9d62c5208f907a54917ede9"
     },
     "style": {
@@ -2528,8 +2528,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-02-28 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1004",
+      "start": "2024-03-27 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1005",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
@@ -3139,15 +3139,7 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": {
-      "start": "2024-02-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1221",
-      "location": "Schall & Rauch Bar ",
-      "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. \nStart: 18:00Uhr\nWir freuen uns auf neue Bekanntschaften intressante Gespräche und datauf unsere Sats auszugeben. \nBis dann ;)",
-      "link": "http://www.schallundrauchbar.ch/",
-      "attendees": 3,
-      "nostr_note": "6a5e62d8a990c580d5c15645086502861ef38b742a32bc6c31ae651835531004"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
