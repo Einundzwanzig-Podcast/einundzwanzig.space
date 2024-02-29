@@ -81,10 +81,12 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #224">224</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1c0qfrcjzgf9mwa8cgh809ac9vvxn2ujquvzdjjrze0ejv9xyqzcqqe6n3q">Johannes</podcast:person>
       <podcast:person href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
     </item>
     <item>
@@ -339,9 +341,11 @@ Weitere Links
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #222">222</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1c0qfrcjzgf9mwa8cgh809ac9vvxn2ujquvzdjjrze0ejv9xyqzcqqe6n3q">Johannes</podcast:person>
       <podcast:person href="https://snort.social/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
     </item>
@@ -3549,12 +3553,14 @@ Episode 214 - Blockzeit 822282- von und mit  <a href="https://nostr.com/npub17fq
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #156">156</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="0286e50ebeaafdf7dc321f6c8cb7e964e236b03ed67494b6337215c5c3c42252f2" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://snort.social/p/npub1pzmcx6c5z77r6zf9rf7xlj3kp9mt8wk29snuphdzu7ezzl97kqrsacns7v">Fichte</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1c0qfrcjzgf9mwa8cgh809ac9vvxn2ujquvzdjjrze0ejv9xyqzcqqe6n3q">Johannes</podcast:person>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
     </item>
     <item>
