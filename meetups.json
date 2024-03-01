@@ -238,8 +238,8 @@
     "event": {
       "start": "2024-03-03 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1225",
-      "location": "₿☕ Satoshis Coffeeshop Open House",
-      "description": "Jeden ersten Sonntag im Monat ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n**Format:** Einsteiger-Runde, Vortrag, Fragen und Antworten, sowie viel Zeit und Raum für allgemeine Diskussionen oder einfach nur gemütliches Zusammensein.\n\n[...]",
+      "location": "₿☕ Einsteiger-Runde + Couchtalk Praxeologie — Satoshis Coffeeshop Open House",
+      "description": "Jeden ersten Sonntag im Monat ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\nDiesmal mit einem Couchtalk wieder über Praxeologie und Bitcoin.\n\nbitcoinlighthouse lädt euch herzlich zu einer exklusiven Veranstaltung in Satoshis Coffeeshop ein, bei der wir einen ganz besonderen Gast begrüßen dürfen: Dr. Andreas Tiedtke.\n\nDr. Tiedtke ist nicht nur ein angesehener Rechtsanwalt, sondern auch ein renommierter Autor und Redakteur, der sich intensiv mit der Österreichischen Schule der Nationalökonomie und ihrer wissenschaftlichen Methode, der Praxeologie, auseinandergesetzt hat.\n\n[...]",
       "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house-2/",
       "attendees": 0,
       "nostr_note": "d345e27fa530a1987ec37ac81314a250727b10fa85dad8793fe4e670412b4cf4"
@@ -2261,15 +2261,7 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": {
-      "start": "2024-02-29 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1211",
-      "location": "Zum Ochsen in Höfingen ",
-      "description": "Meet-Up Nr.12",
-      "link": "https://maps.app.goo.gl/ij3gKfGqqETaK66b6",
-      "attendees": 1,
-      "nostr_note": "3e488644395fb2c5e5b6f89feab8f10eb05258222d4c4b5748633bed65954ee9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2336,7 +2328,7 @@
       "location": "Paulaner in Zurlauben",
       "description": "Meetup + Workshop\nWer noch Interesse an dem Bitaxe Workshop hat, Tickets können nur noch bis 29.2 gekauft werden! Danach stoppt der Verkauf.\n\nBeginn Workshop: Ab 14 Uhr & 17:30 Uhr\nPreis: 110€ incl. Bitaxe Material\nZahlung: Nur BTCPay (siehe Link)\nACHTUNG: Trier + Uhrzeit auswählen und eine richtige Email auf die ihr die Bestätigung bekommt.\n\nDas Meetup beginnt ab 18 Uhr und ist natürlich kostenlos. Während der Workshops darf ebenfalls kostenlos zugeschaut werden.",
       "link": "https://btcpay.wantclue.de",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9c5174ed5739562810bb97069bc15b3b93c13130ffa89388c777dbf8af6731bd"
     },
     "style": {
@@ -2436,7 +2428,15 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": null,
+    "event": {
+      "start": "2024-03-25 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1239",
+      "location": "Musikbistro Friedberg",
+      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
+      "link": "https://musikbistro.de/",
+      "attendees": 0,
+      "nostr_note": "802ab3d7903d0ca6631444b6f8a542b1c8cfa932f1243bd1f07f59099891a7af"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2452,13 +2452,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2024-02-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1123",
-      "location": "Chillers Wiesbaden",
+      "start": "2024-03-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1124",
+      "location": "60/40 - Schlachthof",
       "description": null,
-      "link": "https://maps.app.goo.gl/oS8Fsh9cjHypqSLD6",
-      "attendees": 2,
-      "nostr_note": "47f79e8366eb8054f408d66d27802d9cf23755731ac81583d85a56a1ede1a277"
+      "link": "https://maps.app.goo.gl/fQtFaX5YrH6ebbN46",
+      "attendees": 0,
+      "nostr_note": "d2726a4657ebef318fb6406fd038ac54b5e1265a2975aedde030b9c9ebcec712"
     },
     "style": {
       "fill": "var(--color-accent)"
