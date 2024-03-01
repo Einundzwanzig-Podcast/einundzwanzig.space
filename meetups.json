@@ -727,13 +727,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2024-03-01 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1116",
-      "location": "Bistro Altstadt Ellwangen - Bachgasse 3, 73479 Ellwangen (Jagst)",
-      "description": "",
-      "link": "https://www.bistro-altstadt.de/",
-      "attendees": 1,
-      "nostr_note": "73b5f173984641896b0f501faed30151b48ca93fa6daae3d45575174f70e54e0"
+      "start": "2024-04-05 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1150",
+      "location": "Bistro Altstadt Ellwangen",
+      "description": null,
+      "link": "http://www.bistro-altstadt.de/",
+      "attendees": 0,
+      "nostr_note": "810d3995bbbb2e090a9643429b6b96b14bdd83b30f0f1a33d4b7b5f994f65a24"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -808,7 +808,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -1603,15 +1603,7 @@
     "city": "Nordhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
-    "event": {
-      "start": "2024-03-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/777",
-      "location": "Nordhausen",
-      "description": "Besuche unsere Telegram-Gruppe, um die Lokalität zu erfahren.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "822208a208eef09edf6ac0e78dfa6d3e7c2635a5a186a3c7f6afc6ed166031a1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1672,8 +1664,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2024-03-01 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/389",
+      "start": "2024-04-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/390",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -1922,12 +1914,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-03-01 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1137",
-      "location": "Trattoria Toscana in Rommelshausen",
-      "description": "Jeden ersten Freitag im Monat im Trattoria Toscana in Rommelshausen",
-      "link": "https://maps.app.goo.gl/SqSeMTQSmydHGiTT8?g_st=ic",
-      "attendees": 8,
+      "start": "2024-04-05 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1138",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2125,7 +2117,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-03-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1240",
+      "location": "Furtwangen Linach - Zum Wilden Michel",
+      "description": "LFG again! Willkommen zum 6. Meetup von Einundzwanzig Schwarzwald-Baar beim Wilden Michel in Linach",
+      "link": "https://g.co/kgs/v7Tsct",
+      "attendees": 1,
+      "nostr_note": "63c7296e232d951fc81befbe5f380b115829f02993d619e5f28025f0d104d815"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
