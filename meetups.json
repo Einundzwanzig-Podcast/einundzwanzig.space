@@ -69,15 +69,7 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": {
-      "start": "2024-03-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1210",
-      "location": "Lübeck-Travemünde",
-      "description": "Unser monatliches Bitcoin Meetup ​in der aja Hotel Lounge, Lübeck-Travemünde",
-      "link": "https://meetup.bitcoinbeachtravemuende.de",
-      "attendees": 2,
-      "nostr_note": "c3b158dc60564006c4168473cbe12f24dfc197d0d471f081889163e3df865a77"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1513,13 +1505,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-03-02 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/660",
-      "location": "Münster: voraussichtlich \"el bodegon\" Warendorfer Straße 43, 48145 Münster, https://www.el-bodegon.de/home.html",
+      "start": "2024-04-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/662",
+      "location": "Münster: t.b.a.",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "dd709e78b35423d990c46163d87b474080b6fb89e0c3f0c7517bd327234dfd83"
+      "nostr_note": "d623684f5a5d80981e889d371d2c2fa6747e282f336f130fc1acf0d9263ad118"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1896,7 +1888,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "Bitcoin Stammtisch für Stadt und Landkreis Regensburg.\nJeden 1. Sonntag im Monat.\nBeginn: 11:00 Uhr ",
       "link": "https://g.co/kgs/8UQBLA5",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "ecc17fcfabee7c6021c7ea68ec91f2aeda10c04bbf42c3676b47c012f7a6a9b9"
     },
     "style": {
@@ -1916,9 +1908,9 @@
     "event": {
       "start": "2024-04-05 16:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1138",
-      "location": null,
-      "description": null,
-      "link": null,
+      "location": "Kernen im Remstal",
+      "description": "Trattoria Toscana In Rommelshausen ",
+      "link": "https://maps.app.goo.gl/Aex8nTTdYxcpXQMfA?g_st=ic",
       "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
@@ -2170,15 +2162,7 @@
     "city": "Sigmaringen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sigmaringen",
     "twitter": "EinundzwanzigSi",
-    "event": {
-      "start": "2024-03-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1223",
-      "location": null,
-      "description": "Um 18:00 Uhr im Quh in Sigmaringen für die hungrigen und später um 19:00 für die durstigen im Zoller-Journal\nIn den Lokalitäten gibt es keine Reservierungen \ndaher ist jeder willkommen auch mal kurzfristig vorbeizuschauen\n\nhttps://quh-sig.de/",
-      "link": "https://www.google.de/maps/place/Zoller-Journal/@48.0868864,9.2152458,20.92z/data=!4m6!3m5!1s0x479a3ef4fb7d8d29:0x34d5e3c58876e69!8m2!3d48.0870353!4d9.2154146!16s%2Fg%2F1tffn9gg?entry=ttu",
-      "attendees": 0,
-      "nostr_note": "8d895d9340ce8a946cdcd1640496ccb3b1f2be94f82f646ba3517b4a0a4a0b70"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3210,11 +3194,19 @@
       47.2975781,
       9.0838964
     ],
-    "url": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
+    "url": "https://t.me/+MnemCuMPkb5kM2U8",
     "city": "Ostschweiz",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1242",
+      "location": "Ostschweiz",
+      "description": "Wir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
+      "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
+      "attendees": 0,
+      "nostr_note": "2c1e09cebecf41cebf44ea04fb9f3856fbf7a0bff4801dda26191f0320309350"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
