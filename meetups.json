@@ -182,7 +182,15 @@
     "city": "Halle (Saale)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1254",
+      "location": "Wird auf Telegram bekanntgegeben",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "10f5fbf955b3e5b0cc4519c6fb70d08e71ba12189e3697fe048134620beb8a24"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -228,13 +236,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-03-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1225",
-      "location": "₿☕ Einsteiger-Runde + Couchtalk Praxeologie — Satoshis Coffeeshop Open House",
-      "description": "Jeden ersten Sonntag im Monat ist Open House in Satoshis Coffeeshop ab 17 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\nDiesmal mit einem Couchtalk wieder über Praxeologie und Bitcoin.\n\nbitcoinlighthouse lädt euch herzlich zu einer exklusiven Veranstaltung in Satoshis Coffeeshop ein, bei der wir einen ganz besonderen Gast begrüßen dürfen: Dr. Andreas Tiedtke.\n\nDr. Tiedtke ist nicht nur ein angesehener Rechtsanwalt, sondern auch ein renommierter Autor und Redakteur, der sich intensiv mit der Österreichischen Schule der Nationalökonomie und ihrer wissenschaftlichen Methode, der Praxeologie, auseinandergesetzt hat.\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house-2/",
+      "start": "2024-03-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1192",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Romina's",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]",
+      "link": "https://www.meetup.com/bitcoin-munich/events/299218545/",
       "attendees": 0,
-      "nostr_note": "d345e27fa530a1987ec37ac81314a250727b10fa85dad8793fe4e670412b4cf4"
+      "nostr_note": "d57b40d9ef4971ad81d08412e3723f87cf1f42dcfe77f06741037a48ef6044ca"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -416,7 +424,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1266",
+      "location": "Augsburg \"Thing\"",
+      "description": "all-monatliches Meetup im Lokal \"Thing\" in Augsburg.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1882,15 +1898,7 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": {
-      "start": "2024-03-03 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1219",
-      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
-      "description": "Bitcoin Stammtisch für Stadt und Landkreis Regensburg.\nJeden 1. Sonntag im Monat.\nBeginn: 11:00 Uhr ",
-      "link": "https://g.co/kgs/8UQBLA5",
-      "attendees": 9,
-      "nostr_note": "ecc17fcfabee7c6021c7ea68ec91f2aeda10c04bbf42c3676b47c012f7a6a9b9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1911,7 +1919,7 @@
       "location": "Kernen im Remstal",
       "description": "Trattoria Toscana In Rommelshausen ",
       "link": "https://maps.app.goo.gl/Aex8nTTdYxcpXQMfA?g_st=ic",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2359,15 +2367,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2024-03-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1220",
-      "location": "Wittlich",
-      "description": "In der Brasserie Balthazar ",
-      "link": "https://maps.app.goo.gl/VE4rnQYeNHuXFtXV8",
-      "attendees": 0,
-      "nostr_note": "8d0f7cecc7b5b0307ad772cf28a10ce3b424715cca64cc281cddbceb4ffea688"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2812,7 +2812,7 @@
       "location": "🍕🍝 ₿izzeria Al Dente",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nAlle Plebs willkommen!\n\nWann: Freitag, 22.03.24, ab 18h\nWo: 🍕🍝 ₿izzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
       "link": "https://maps.app.goo.gl/9gA3GVhoygiiquuD8",
-      "attendees": 4,
+      "attendees": 6,
       "nostr_note": "972edaa94b77b930ba75535c911e06f6545af6fe814fb43413c958cc1dafb2b1"
     },
     "style": {
