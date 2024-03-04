@@ -431,7 +431,7 @@
       "description": "all-monatliches Meetup im Lokal \"Thing\" in Augsburg.",
       "link": null,
       "attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "5220ffe15efa211f9cfd9c703d03cb370d567e7bc480d1a81d1d09a0599b2482"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -628,7 +628,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-24 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1267",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "5b019d60452618dfacdd5ad8e7102287dcca1d8cad588b65b7b091323837978b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -816,7 +824,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
