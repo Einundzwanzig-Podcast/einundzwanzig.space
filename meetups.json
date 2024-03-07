@@ -235,15 +235,7 @@
     "city": "München (80802)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2024-03-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1192",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Romina's",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]",
-      "link": "https://www.meetup.com/bitcoin-munich/events/299218545/",
-      "attendees": 0,
-      "nostr_note": "d57b40d9ef4971ad81d08412e3723f87cf1f42dcfe77f06741037a48ef6044ca"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1239,7 +1231,7 @@
       "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
       "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
     },
     "style": {
@@ -3139,7 +3131,15 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": null,
+    "event": {
+      "start": "2024-03-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1269",
+      "location": "Schall und Rauch Bar",
+      "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. Start: 18:00Uhr Wir freuen uns auf neue Bekanntschaften intressante Gespräche und darauf unsere Sats auszugeben. Bis dann ;)",
+      "link": "https://www.schallundrauchbar.ch/",
+      "attendees": 0,
+      "nostr_note": "ce51b1b4e4ecf9106a5d00093d7aad6f6177ee667dc4a13bbeff9c3e20890a30"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
