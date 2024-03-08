@@ -85,13 +85,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-03-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/973",
-      "location": "Berlin",
-      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "start": "2024-03-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/961",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
+      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -235,7 +235,15 @@
     "city": "München (80802)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2024-04-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1270",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!\n",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-5/",
+      "attendees": 0,
+      "nostr_note": "c2d5642e421b896674be3d84e9c5bc67b343fa3afec0ce1a363bfd882417c3c2"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -530,8 +538,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2024-03-07 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/928",
+      "start": "2024-04-04 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/929",
       "location": "Bonn",
       "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
@@ -901,15 +909,7 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": {
-      "start": "2024-03-07 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1171",
-      "location": "Keulos",
-      "description": "Wir treffen uns im Lindenhof in Künzell-Keulos. Dort haben wir einen separaten Raum mit Beamer und Leinwand.",
-      "link": "https://keulos.beepworld.de/",
-      "attendees": 1,
-      "nostr_note": "1065c22d4f5c4ef684393a857bf6cc04a915a222a634d451c52c5295189a0eeb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2238,15 +2238,7 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": {
-      "start": "2024-03-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1196",
-      "location": "Ramrob, Hagener Allee 23, 22926 Ahrensburg",
-      "description": null,
-      "link": "https://www.ramrob-ahrensburg.de/",
-      "attendees": 0,
-      "nostr_note": "d7677d9d57a768002d2561e9a37485261ad298a55ffcac278d8defdf2889b750"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3137,7 +3129,7 @@
       "location": "Schall und Rauch Bar",
       "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. Start: 18:00Uhr Wir freuen uns auf neue Bekanntschaften intressante Gespräche und darauf unsere Sats auszugeben. Bis dann ;)",
       "link": "https://www.schallundrauchbar.ch/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "ce51b1b4e4ecf9106a5d00093d7aad6f6177ee667dc4a13bbeff9c3e20890a30"
     },
     "style": {
