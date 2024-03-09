@@ -1284,7 +1284,7 @@
       "location": "Bitte in Telegramm schauen",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "8a9fb7188f3a887378e06f830cd367ba0a384abadc049c173911d3ef41677fbe"
     },
     "style": {
@@ -1474,6 +1474,21 @@
     "url": "https://t.me/EinundzwanzigMV",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mecklenburg-vorpommern",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Meetup Altötting",
+    "latLng": [
+      48.227928,
+      12.67887
+    ],
+    "url": "https://t.me/EinundzwanzigAOE",
+    "city": "Altötting",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-altoetting",
     "twitter": null,
     "event": null,
     "style": {
@@ -2027,15 +2042,7 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": {
-      "start": "2024-03-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1268",
-      "location": "Saarlouis",
-      "description": "Monatliches Meetup von EinundzwanzigSaarland. Kommt vorbei und diskutiert mit uns alle Themen rund um Bitcoin.",
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "3cf543e3ac7b9c08cd3f0f9cf8b0284592d642be156308cd4229ee3a8084a0a4"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2269,8 +2276,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-03-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/690",
+      "start": "2024-04-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/691",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -2292,8 +2299,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
     "twitter": null,
     "event": {
-      "start": "2024-03-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1084",
+      "start": "2024-04-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1085",
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
@@ -2474,8 +2481,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": {
-      "start": "2024-03-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1065",
+      "start": "2024-04-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1066",
       "location": "Flensburg",
       "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
       "link": "",
