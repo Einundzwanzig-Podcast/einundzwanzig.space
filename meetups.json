@@ -385,6 +385,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Alsfeld",
+    "latLng": [
+      50.752769,
+      9.27063
+    ],
+    "url": "https://t.me/einundzwanzig_vb",
+    "city": "Alsfeld",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Amberg-Sulzbach",
     "latLng": [
       49.4454211,
@@ -1231,7 +1246,7 @@
       "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
       "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
     },
     "style": {

@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 Mar 2024 16:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 12:02:43 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,58 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#226 - We're All Mad(eira) Here!]]></title>
+      <description><![CDATA[<p>Episode 226 - Blockzeit 833746 - von und mit <a href="https://nostr.com/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a>, <a href="https://nostr.com/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</a> und <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a></p>
+<ul>
+<li><p><a href="https://bitcoinatlantis.com/">Bitcoin Atlantis</a></p></li>
+<li><p><a href="https://www.youtube.com/@freemadeira">Videos und Streams der Konferenz</a></p></li>
+<li><p><a href="https://opensats.org/blog">OpenSats</a></p></li>
+<li><p><a href="https://opensats.org/projects/nostr">The Nostr Fund</a></p></li>
+<li><p><a href="http://twenty-two.xyz/">TwentyTwo</a></p></li>
+<li><p><a href="https://nostria.space/opensats">Nostria Community Spendenaktion</a></p></li>
+<li><p><a href="https://sovereignengineering.io/">Sovereign Engineering</a></p></li>
+</ul>
+<p>Sponsoren und Freunde</p>
+<ul>
+ <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
+</li>
+ <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
+</li>
+ <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
+</li>
+ <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
+</li>
+</ul>
+<p>Weitere Links</p>
+<ul>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
+</li>
+  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
+</li>
+  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
+</li>
+</ul>
+<p><strong>Lass uns einen </strong><a href="https://shoutout.einundzwanzig.space/">Shoutout</a><strong> da.</strong></p>]]></description>
+      <link>https://einundzwanzig.space/podcast/news-226-were-all-madeira-here</link>
+      <guid isPermaLink="false">d68f08a3-8dd7-47fd-8360-3d56dc371cda</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 09 Mar 2024 12:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/83758113/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-8%2Fedf09dcc-8a8e-504b-a471-ac2e752e2a98.mp3" length="158453891" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:06:01</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #226">226</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#225 - "BTFP" - Buy the Fucking Pump]]></title>
       <description><![CDATA[<p>Episode 225 - Blockzeit 833.621 - von und mit <a href="https://nostr.com/npub184842f0yqe7ee9kra6ufsmddmxs6q2cl5jutp3qns2a62t99na6s4n7t00">El Bitcoin Ambassador</a>, <a href="https://twitter.com/18loddi">Loddi</a> und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a></p>
@@ -1170,51 +1222,7 @@ Weitere Links
     </item>
     <item>
       <title><![CDATA[#215 - Letzte Folge mit Sido]]></title>
-      <description><![CDATA[<p>Episode 215 - Blockzeit <strong>823192</strong> - von und mit <a href="http://@lemalive">Leo</a> und <a href="http://npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</a></p>
-<ul>
- <li><p><a href="https://twitter.com/saylor/status/1739995636953485547">Micros S. kauft wieder Bitcoin</a></p>
-</li>
- <li><p><a href="https://cointelegraph.com/news/spot-bitcoin-etf-could-completely-destroy-bitcoin-arthur-hayes">Bitcoin ETF</a></p>
-</li>
- <li><p><a href="https://x.com/18loddi/status/1737792587459596426?s=20">Loddis Episoden Link</a></p>
-</li>
- <li><p>Grayscale CEO</p>
-</li>
- <li><p>MtGox zahlt Bitcoin aus</p>
-</li>
- <li><p><a href="https://de.cointelegraph.com/news/elon-musk-x-launch-payments-everything-app-mid-2024">Bezahlsystem auf X?</a></p>
-</li>
- <li><p><a href="https://www.blocktrainer.de/bitcoin-als-zahlungsmittel-argentinische-verordnung-erlaubt-volle-vertragsfreiheit/">Verordnung in Argentinien</a></p>
-</li>
- <li><p><a href="https://cointelegraph.com/news/nigeria-central-bank-rules-crypto-transactions">Zentralbank Nigeria</a></p>
-</li>
- <li><p><a href="https://www.youtube.com/watch?v=f3MmelMe9eI">Julian Assange </a></p>
-</li>
- <li><p><a href="https://www.lesfemmesorange.work/">LeFemmes Orange Event</a></p>
-</li>
-</ul>
-<p>Sponsoren und Freunde</p>
-<ul>
-  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
-</li>
-  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
-</li>
-  <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
-</li>
-  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
-</li>
-</ul>
-<p>Weitere Links</p>
-<ul>
-  <li><p>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
-</li>
-  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
-</li>
-  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
-</li>
-  <li><p>Lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</p>
-</li>
-</ul>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-215-letzte-folge-mit-sido]]></description>
       <link>https://einundzwanzig.space/podcast/news-215-letzte-folge-mit-sido</link>
       <guid isPermaLink="false">693b9b51-85ce-4d15-bd72-36f16a597a16</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
