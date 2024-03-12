@@ -394,7 +394,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2024-03-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1272",
+      "location": "Alsfeld",
+      "description": "Das erste Meetup im Vogelsberg findet im Laternchen in der Obergasse 12, 36304 Alsfeld statt. \nBitte beachten: Aktuell werden keine Speisen vor Ort mehr angeboten. Sollten essenswünsche erbeten sein, teilt diese gerne über die Telegrammgruppe mit um die Möglichkeiten mit dem Inhaber zu besprechen. ",
+      "link": "https://maps.app.goo.gl/oGrPiJVohkMv6ACp8?g_st=ic",
+      "attendees": 1,
+      "nostr_note": "96e52300fd68801336524654969ecdc8c625c7a7c49b7dbc0844ad77d956788c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -839,7 +847,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -1246,7 +1254,7 @@
       "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
       "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 9,
       "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
     },
     "style": {
@@ -1754,15 +1762,7 @@
     "city": "Müncheberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg",
     "twitter": null,
-    "event": {
-      "start": "2024-03-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1215",
-      "location": "Altlandsberg",
-      "description": "Das nächste Einundzwanzig Ost-Brandenburg Meetup findet am 11.03.24 ab 18:00 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und andeen kontroversen Themen interessiert ist, ist herzlich eingeladen.",
-      "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
-      "attendees": 2,
-      "nostr_note": "6ed7283241a03a68a7e8f5f8b7508eb65e3a6145c1567cbb914654df395fcfab"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1828,7 +1828,7 @@
       "location": "Passau, Schärding oder mal wo anders?",
       "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
     },
     "style": {
@@ -2072,7 +2072,15 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1271",
+      "location": "St. Wendel",
+      "description": "Wir starten unseren Stammtisch um 17:30 Uhr im Bruder Jakob, essen was feines und zahlen per Lightning. Anschließend gehts gegen 19:30 Uhr ins JJ's, ein Irish Pub.\nKommt gerne vorbei und diskutiert mit uns beliebige Themen rund um Bitcoin. Meldet euch aber bitte an, der Platz im Bruder Jakob ist begrenzt.",
+      "link": "http://www.bruderjakob.com/",
+      "attendees": 3,
+      "nostr_note": "fa852f404a09d907ee9dda334f5fea4e26aa0dcdd526121a7d13d874e7b7a5bd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2153,7 +2161,7 @@
       "location": "Furtwangen Linach - Zum Wilden Michel",
       "description": "LFG again! Willkommen zum 6. Meetup von Einundzwanzig Schwarzwald-Baar beim Wilden Michel in Linach",
       "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "63c7296e232d951fc81befbe5f380b115829f02993d619e5f28025f0d104d815"
     },
     "style": {
