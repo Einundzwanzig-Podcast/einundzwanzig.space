@@ -398,9 +398,9 @@
       "start": "2024-03-21 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1272",
       "location": "Alsfeld",
-      "description": "Das erste Meetup im Vogelsberg findet im Laternchen in der Obergasse 12, 36304 Alsfeld statt. \nBitte beachten: Aktuell werden keine Speisen vor Ort mehr angeboten. Sollten essenswünsche erbeten sein, teilt diese gerne über die Telegrammgruppe mit um die Möglichkeiten mit dem Inhaber zu besprechen. ",
+      "description": "Das erste Meetup im Vogelsberg findet im Laternchen in der Obergasse 12, 36304 Alsfeld statt. \nBitte beachten: Aktuell werden keine Speisen vor Ort mehr angeboten. Sollten Essenswünsche vorhanden sein, teilt diese gerne über die Telegrammgruppe mit um die Möglichkeiten mit dem Inhaber zu besprechen. ",
       "link": "https://maps.app.goo.gl/oGrPiJVohkMv6ACp8?g_st=ic",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "96e52300fd68801336524654969ecdc8c625c7a7c49b7dbc0844ad77d956788c"
     },
     "style": {
@@ -811,7 +811,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1284",
+      "location": "Cafe Extrablatt Essen Rüttenscheid Rüttenscheider Straße 58–60 45130 Essen",
+      "description": "Reservier -> 19 Uhr in Extrablatt \"Einundzwanzig\"",
+      "link": "https://cafe-extrablatt.de/standorte/details/cafe-extrablatt-essen-ruettenscheid/",
+      "attendees": 0,
+      "nostr_note": "9f95f5dc36d12ae431808f11178e7761c5d2cd3c8ad0f663a0ddf4a06d18f2de"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1254,7 +1262,7 @@
       "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
       "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
     },
     "style": {
@@ -1330,7 +1338,7 @@
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "a561aeefc67b3b432a6be2665d0a866a10390a95d7a48753cf7f7e610c2e31c3"
     },
     "style": {
@@ -1378,8 +1386,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
     "twitter": null,
     "event": {
-      "start": "2024-03-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/375",
+      "start": "2024-04-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/376",
       "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
       "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
       "link": "",
@@ -2882,7 +2890,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-03-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1283",
+      "location": "Le Burger, Kaiserfeldgasse 1, 8010 Graz",
+      "description": "Unser monatliches Treffen - diesmal im Le Burger in Graz. \n\nU.a. mit diesen Topics:\n*) Berichte aus erster Hand von der Bitcoin Atlantis auf Madeira\n*) Halving Party im April in der Steiermark (Olarizi, Entschendorf)\n*) MMT MeetUp Meisterschaften in DE im Juli",
+      "link": "https://maps.app.goo.gl/aWD6G7m5T9MUu3sw6",
+      "attendees": 4,
+      "nostr_note": "c52d885aee9a6a688b55d79bdea8fd83bbe1378fb855723fbc059b3c262f8aee"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2897,7 +2913,15 @@
     "city": "Tirol",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-20 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1275",
+      "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
+      "description": "Tisch im EG in der Ofenstube (beim Haupteingang gleich links) / siehe Webseite!",
+      "link": "https://bitcoin-tirol.at/",
+      "attendees": 0,
+      "nostr_note": "96f3116f3689e7681a4d08c96cf48575af88cdb824c1133e7b12835f106b611f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
