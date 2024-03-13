@@ -183,13 +183,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-03-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1254",
+      "start": "2024-04-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1255",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "10f5fbf955b3e5b0cc4519c6fb70d08e71ba12189e3697fe048134620beb8a24"
+      "nostr_note": "9710b4a52949898067e11bef8a8311ce04da2116892d5ab99db50c0bd9608204"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -811,15 +811,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "start": "2024-03-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1284",
-      "location": "Cafe Extrablatt Essen Rüttenscheid Rüttenscheider Straße 58–60 45130 Essen",
-      "description": "Reservier -> 19 Uhr in Extrablatt \"Einundzwanzig\"",
-      "link": "https://cafe-extrablatt.de/standorte/details/cafe-extrablatt-essen-ruettenscheid/",
-      "attendees": 0,
-      "nostr_note": "9f95f5dc36d12ae431808f11178e7761c5d2cd3c8ad0f663a0ddf4a06d18f2de"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -855,7 +847,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -878,7 +870,7 @@
       "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
     },
     "style": {
@@ -1256,15 +1248,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-03-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1216",
-      "location": "Alte Schmiede Memminger Straße 68 87439 Kempten (Allgäu) Deutschland",
-      "description": "Herzlich Willkommen zum Kemptner Meetup. Wir freuen uns auf Dich. ",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 10,
-      "nostr_note": "1bc1d0da1dd9015e45a0d19a9d7761ddc55bfe11bc01575b191a1b0c9ed9b2b1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2896,7 +2880,7 @@
       "location": "Le Burger, Kaiserfeldgasse 1, 8010 Graz",
       "description": "Unser monatliches Treffen - diesmal im Le Burger in Graz. \n\nU.a. mit diesen Topics:\n*) Berichte aus erster Hand von der Bitcoin Atlantis auf Madeira\n*) Halving Party im April in der Steiermark (Olarizi, Entschendorf)\n*) MMT MeetUp Meisterschaften in DE im Juli",
       "link": "https://maps.app.goo.gl/aWD6G7m5T9MUu3sw6",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "c52d885aee9a6a688b55d79bdea8fd83bbe1378fb855723fbc059b3c262f8aee"
     },
     "style": {
@@ -3183,7 +3167,7 @@
       "location": "Schall und Rauch Bar",
       "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. Start: 18:00Uhr Wir freuen uns auf neue Bekanntschaften intressante Gespräche und darauf unsere Sats auszugeben. Bis dann ;)",
       "link": "https://www.schallundrauchbar.ch/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "ce51b1b4e4ecf9106a5d00093d7aad6f6177ee667dc4a13bbeff9c3e20890a30"
     },
     "style": {
