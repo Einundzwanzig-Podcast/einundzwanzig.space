@@ -847,7 +847,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -1067,7 +1067,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-03-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1285",
+      "location": "Heilbronn",
+      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 16.03 ab 17 Uhr mal wieder im Da Lisas zum nächsten 21 BTC Meetup HN. Bis Samstag",
+      "link": "https://www.google.com/maps/place/Da+Lisa+Ristorante+Pizzeria+am+Lerchenberg/@49.130652,9.2245638,15.83z/data=!4m6!3m5!1s0x47982f116895f45f:0x9dee9fd03e204bc0!8m2!3d49.1327507!4d9.2298008!16s%2Fg%2F1tdl0j4m?entry=tts",
+      "attendees": 0,
+      "nostr_note": "0b6e7d03a6d0b39d9d8a282079f585eaffb9a23c0a39238d64733f0db840ceb3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2631,15 +2639,7 @@
     "city": "Moers",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
     "twitter": null,
-    "event": {
-      "start": "2024-03-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1218",
-      "location": "Die Röhre - Moers",
-      "description": "Dies wird unser erstes Meetup in Moers sein. Bitte kommt in die Telegram-Gruppe für die neuesten Informationen zum Meetup. Alle Bitcoiner aus dem Umkreis sind gern gesehen. Ebenso aber auch Neulinge, die sich gerne informieren wollen. Wir freuen uns auf euch!",
-      "link": "https://maps.app.goo.gl/c4FP4Se8LxNQNEAd9",
-      "attendees": 1,
-      "nostr_note": "0c9339cdd2c0611e9f1036d477679b306e6a50e3857c6ecf0c7955b5d6991b12"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2758,7 +2758,7 @@
       "location": "Josef Linz",
       "description": "Protom beleuchtet das Thema „Fedimint“ aus technischer Sicht. Expertise und Diskussion erwarten dich. Sei dabei!",
       "link": null,
-      "attendees": 12,
+      "attendees": 13,
       "nostr_note": "e41b89b3a55d335bf908ae3594dc329df3f4475550701a3a561acaafc9acb439"
     },
     "style": {
