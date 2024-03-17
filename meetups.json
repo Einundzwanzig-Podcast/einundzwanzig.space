@@ -847,7 +847,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 7,
+      "attendees": 10,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -1067,15 +1067,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2024-03-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1285",
-      "location": "Heilbronn",
-      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 16.03 ab 17 Uhr mal wieder im Da Lisas zum nächsten 21 BTC Meetup HN. Bis Samstag",
-      "link": "https://www.google.com/maps/place/Da+Lisa+Ristorante+Pizzeria+am+Lerchenberg/@49.130652,9.2245638,15.83z/data=!4m6!3m5!1s0x47982f116895f45f:0x9dee9fd03e204bc0!8m2!3d49.1327507!4d9.2298008!16s%2Fg%2F1tdl0j4m?entry=tts",
-      "attendees": 0,
-      "nostr_note": "0b6e7d03a6d0b39d9d8a282079f585eaffb9a23c0a39238d64733f0db840ceb3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1180,7 +1172,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-17 10:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1289",
+      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
+      "description": "Mediterane und auch vegane Küche direkt am See.\n\nBei schönen Wetter gibt es im Anschluss einen Plebwalk am See entlang.",
+      "link": "https://seehausingolstadt.de/",
+      "attendees": 0,
+      "nostr_note": "0f677fa5e989b6010c46de7673b61d338a9480cf3c466f2c0b777e008ae0cbf2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1605,13 +1605,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
-      "start": "2024-03-16 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1039",
+      "start": "2024-04-20 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1040",
       "location": "Am Büsenbach 35, 21256 Handeloh",
       "description": "Inmitten der Natur in der wunderschönen Lüneburger Heide liegt der Schafstall und bietet euch saisonale, regionale und nachhaltige Köstlichkeiten an. Für die großen und kleinen Bitcoiner ist der Ausflug zum Schafstall immer wieder ein schönes Erlebnis. Seit über 2 Jahren ist die Bezahlung mit Bitcoin Lightning akzeptiert. Wir freuen uns auf euren Besuch.",
       "link": "https://der-schafstall.de/",
       "attendees": 0,
-      "nostr_note": "0b7166e5211d5442c8b03e1324c37ce59e9b76b7e6276f9d996e16adb4188dfe"
+      "nostr_note": "0b078bf181dc9deecc80d1ffcce671f4c71dd1e7105482933b54968dda8ea5f8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2163,15 +2163,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-03-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1240",
-      "location": "Furtwangen Linach - Zum Wilden Michel",
-      "description": "LFG again! Willkommen zum 6. Meetup von Einundzwanzig Schwarzwald-Baar beim Wilden Michel in Linach",
-      "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 3,
-      "nostr_note": "63c7296e232d951fc81befbe5f380b115829f02993d619e5f28025f0d104d815"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2352,15 +2344,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-03-16 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1214",
-      "location": "Paulaner in Zurlauben",
-      "description": "Meetup + Workshop\nWer noch Interesse an dem Bitaxe Workshop hat, Tickets können nur noch bis 29.2 gekauft werden! Danach stoppt der Verkauf.\n\nBeginn Workshop: Ab 14 Uhr & 17:30 Uhr\nPreis: 110€ incl. Bitaxe Material\nZahlung: Nur BTCPay (siehe Link)\nACHTUNG: Trier + Uhrzeit auswählen und eine richtige Email auf die ihr die Bestätigung bekommt.\n\nDas Meetup beginnt ab 18 Uhr und ist natürlich kostenlos. Während der Workshops darf ebenfalls kostenlos zugeschaut werden.",
-      "link": "https://btcpay.wantclue.de",
-      "attendees": 2,
-      "nostr_note": "9c5174ed5739562810bb97069bc15b3b93c13130ffa89388c777dbf8af6731bd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2563,6 +2547,21 @@
     }
   },
   {
+    "name": "Micro Meet Up Prager Platz",
+    "latLng": [
+      52.5170365,
+      13.3888599
+    ],
+    "url": null,
+    "city": "Berlin",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/micro-meet-up-prager-platz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Satoshis Coffeeshop",
     "latLng": [
       48.1371079,
@@ -2730,6 +2729,21 @@
     "city": "Bad Gastein",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-gastein",
     "twitter": "BtcGastein",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Kirchdorf/OÖ",
+    "latLng": [
+      47.90343,
+      14.12302
+    ],
+    "url": "https://t.me/einundzwanzigkirchdorf",
+    "city": "Kirchdorf an der Krems",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
