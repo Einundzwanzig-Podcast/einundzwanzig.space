@@ -312,13 +312,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-03-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/890",
+      "start": "2024-04-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/891",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "fb1979a2b170e8f58a6aca0d192c8487ff440989a74c54d7ab81b267262d8fc3"
+      "nostr_note": "1813165dab019ae54f9a7e438a07cee7dc66f9953512895255047cde74785672"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -425,7 +425,15 @@
     "city": "Amberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-amberg-sulzbach",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1291",
+      "location": "Parapluie Amberg",
+      "description": null,
+      "link": "https://www.parapluie-amberg.de/",
+      "attendees": 2,
+      "nostr_note": "7082cdc89818431a990c44693d3ceadc1c6e32f6955236619bcc34753163726a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1171,16 +1179,8 @@
     "url": "https://t.me/EinundzwanzigIngolstadt",
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
-    "twitter": null,
-    "event": {
-      "start": "2024-03-17 10:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1289",
-      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
-      "description": "Mediterane und auch vegane Küche direkt am See.\n\nBei schönen Wetter gibt es im Anschluss einen Plebwalk am See entlang.",
-      "link": "https://seehausingolstadt.de/",
-      "attendees": 0,
-      "nostr_note": "0f677fa5e989b6010c46de7673b61d338a9480cf3c466f2c0b777e008ae0cbf2"
-    },
+    "twitter": "EinundzwanzigIN",
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1256,7 +1256,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-04-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1290",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen zum Kemptner Meetup. Ein Bitcoin-Stammtisch von Plebs für Plebs. Wir freuen uns auf Dich.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 3,
+      "nostr_note": "411278b2f8d208ad3b70ed287c32c745aa2dfe6b9f3b92f9e3fa263ad97fd346"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2697,7 +2705,7 @@
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "6ed65cf6578698e1bc5777afac302d5be9a435b0c8b02c4d2adf1dcf82bb0296"
     },
     "style": {
