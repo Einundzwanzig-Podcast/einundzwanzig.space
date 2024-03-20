@@ -797,8 +797,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
     "twitter": null,
     "event": {
-      "start": "2024-03-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/942",
+      "start": "2024-04-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/943",
       "location": "Double B Erfurt",
       "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
       "link": "https://www.doubleb-erfurt.de/",
@@ -1829,29 +1829,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Passau",
-    "latLng": [
-      48.5748229,
-      13.4609744
-    ],
-    "url": "https://t.me/Einundzwanzig_Passau",
-    "city": "Passau",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-passau",
-    "twitter": null,
-    "event": {
-      "start": "2024-03-23 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/329",
-      "location": "Passau, Schärding oder mal wo anders?",
-      "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
-    },
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Pfalz",
     "latLng": [
       49.9531599,
@@ -2489,6 +2466,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig und Libertäre Passau",
+    "latLng": [
+      48.5748229,
+      13.4609744
+    ],
+    "url": "https://t.me/Einundzwanzig_Passau",
+    "city": "Passau",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
+    "twitter": null,
+    "event": {
+      "start": "2024-03-23 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/329",
+      "location": "Passau, Schärding oder mal wo anders?",
+      "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
