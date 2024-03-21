@@ -93,13 +93,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-03-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/961",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-04-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/974",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -355,7 +355,7 @@
       "location": "Wirtshaus Maximilian Westermühlstraße 32, 80469 München",
       "description": "Das Einundzwanzig München Meetup trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
       "link": "https://www.wirtshaus-maximilian.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fc459c938cc4463fd9d7f898d62b6c895aeb03bd70372bab4a48ec41189f71fd"
     },
     "style": {
@@ -1333,12 +1333,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2024-03-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/519",
+      "start": "2024-04-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/520",
       "location": "wechselnd",
       "description": "Bitcoin/Einundzwanzig Meetup Köln. Im Herbst/Winter derzeit im Stadtgarten",
       "link": "",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "a561aeefc67b3b432a6be2665d0a866a10390a95d7a48753cf7f7e610c2e31c3"
     },
     "style": {
@@ -1942,7 +1942,7 @@
       "location": "Kernen im Remstal",
       "description": "Trattoria Toscana In Rommelshausen ",
       "link": "https://maps.app.goo.gl/Aex8nTTdYxcpXQMfA?g_st=ic",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2902,7 +2902,7 @@
       "location": "Le Burger, Kaiserfeldgasse 1, 8010 Graz",
       "description": "Unser monatliches Treffen - diesmal im Le Burger in Graz. \n\nU.a. mit diesen Topics:\n*) Berichte aus erster Hand von der Bitcoin Atlantis auf Madeira\n*) Halving Party im April in der Steiermark (Olarizi, Entschendorf)\n*) MMT MeetUp Meisterschaften in DE im Juli",
       "link": "https://maps.app.goo.gl/aWD6G7m5T9MUu3sw6",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "c52d885aee9a6a688b55d79bdea8fd83bbe1378fb855723fbc059b3c262f8aee"
     },
     "style": {
@@ -2920,8 +2920,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": null,
     "event": {
-      "start": "2024-03-20 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1275",
+      "start": "2024-04-24 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1276",
       "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
       "description": "Tisch im EG in der Ofenstube (beim Haupteingang gleich links) / siehe Webseite!",
       "link": "https://bitcoin-tirol.at/",
@@ -3183,15 +3183,7 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": {
-      "start": "2024-03-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1269",
-      "location": "Schall und Rauch Bar",
-      "description": "Nächstes Meetup in der Schall und Rauch Bar an der Rheingasse 27 bei der Mittleren Brücke in Basel. Start: 18:00Uhr Wir freuen uns auf neue Bekanntschaften intressante Gespräche und darauf unsere Sats auszugeben. Bis dann ;)",
-      "link": "https://www.schallundrauchbar.ch/",
-      "attendees": 2,
-      "nostr_note": "ce51b1b4e4ecf9106a5d00093d7aad6f6177ee667dc4a13bbeff9c3e20890a30"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3335,13 +3327,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
     "event": {
-      "start": "2024-03-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1155",
+      "start": "2024-04-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1156",
       "location": "Palma - Ventura Harbor Bar",
       "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
       "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
       "attendees": 0,
-      "nostr_note": "dc0d189c245332912244ca2c50f5afbe35c663e8c0e2bd08ba4395a708e5e98f"
+      "nostr_note": "81b3822d64f5103c5e62b8178b65c981471eb1fb65e0dfee33275b28d3e14ade"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
