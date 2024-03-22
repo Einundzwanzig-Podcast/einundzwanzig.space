@@ -350,13 +350,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
     "event": {
-      "start": "2024-03-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1114",
-      "location": "Wirtshaus Maximilian Westermühlstraße 32, 80469 München",
+      "start": "2024-04-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1213",
+      "location": "Location steht noch nicht fest und wird im Telegram Channel verhandelt.",
       "description": "Das Einundzwanzig München Meetup trifft sich traditionsgemäß zum 21. des Monats um 18:00 Uhr in wechselnden Locations.",
-      "link": "https://www.wirtshaus-maximilian.de/",
-      "attendees": 2,
-      "nostr_note": "fc459c938cc4463fd9d7f898d62b6c895aeb03bd70372bab4a48ec41189f71fd"
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "420eb7a9c78096ef899dc8e613e749bb1da05361c796bd5f00a026e562de0c12"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -402,15 +402,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2024-03-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1272",
-      "location": "Alsfeld",
-      "description": "Das erste Meetup im Vogelsberg findet im Laternchen in der Obergasse 12, 36304 Alsfeld statt. \nBitte beachten: Aktuell werden keine Speisen vor Ort mehr angeboten. Sollten Essenswünsche vorhanden sein, teilt diese gerne über die Telegrammgruppe mit um die Möglichkeiten mit dem Inhaber zu besprechen. ",
-      "link": "https://maps.app.goo.gl/oGrPiJVohkMv6ACp8?g_st=ic",
-      "attendees": 2,
-      "nostr_note": "96e52300fd68801336524654969ecdc8c625c7a7c49b7dbc0844ad77d956788c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -855,7 +847,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 10,
+      "attendees": 12,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -873,12 +865,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2024-03-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/823",
-      "location": "Coworking Space \"Zentrale\", Berger Str. 175, 60385 Frankfurt am Main",
+      "start": "2024-04-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/824",
+      "location": null,
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
     },
     "style": {
@@ -1233,15 +1225,7 @@
     "city": "Kassel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
-    "event": {
-      "start": "2024-03-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1166",
-      "location": "Foster's Garden Eichwaldstraße 50, 34123 Kassel",
-      "description": "Wir treffen uns jeweils am 3. Donnerstag im Monat ab 18:00 Uhr zu einem gemütlichen Plausch.\nVorschläge für Themen werden gerne angenommen.",
-      "link": "https://fosters-garden.de/",
-      "attendees": 0,
-      "nostr_note": "e3f85e884552456980610a6bae302b9de42c8e737a80b89cda32139ea891f250"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2028,8 +2012,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": null,
     "event": {
-      "start": "2024-03-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/455",
+      "start": "2024-04-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/456",
       "location": "Rostock",
       "description": "AM NEPTUN KAI\nKurt Dunkelmann Straße 2\n18057 Rostock",
       "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/DGceAOlplwjlCxmXV54o",
@@ -2268,7 +2252,15 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-03-28 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1292",
+      "location": "Zum Ochsen in Höfingen ",
+      "description": "13. Stammtisch: Do, 28.3. 20Uhr im Ochsen in Höfingen (🚨nur Bargeldzahlung möglich)\n\nStammtisch immer am letzten Donnerstag des Monats.\nBitcoin-only❗",
+      "link": "https://maps.app.goo.gl/icGAaK2FNJcxst3B6",
+      "attendees": 1,
+      "nostr_note": "089911914a2d0dfa757e564ba3379f09835e27ca1e51a9efa493718a89bdc7a5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2700,13 +2692,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2024-03-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1173",
+      "start": "2024-04-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1174",
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
-      "attendees": 1,
-      "nostr_note": "6ed65cf6578698e1bc5777afac302d5be9a435b0c8b02c4d2adf1dcf82bb0296"
+      "attendees": 0,
+      "nostr_note": "b274c4fb9f5ae5b20177839cc226338040b2e7a6250ee7436bc2e41959e31a4b"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2896,15 +2888,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-03-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1283",
-      "location": "Le Burger, Kaiserfeldgasse 1, 8010 Graz",
-      "description": "Unser monatliches Treffen - diesmal im Le Burger in Graz. \n\nU.a. mit diesen Topics:\n*) Berichte aus erster Hand von der Bitcoin Atlantis auf Madeira\n*) Halving Party im April in der Steiermark (Olarizi, Entschendorf)\n*) MMT MeetUp Meisterschaften in DE im Juli",
-      "link": "https://maps.app.goo.gl/aWD6G7m5T9MUu3sw6",
-      "attendees": 8,
-      "nostr_note": "c52d885aee9a6a688b55d79bdea8fd83bbe1378fb855723fbc059b3c262f8aee"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2943,8 +2927,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-03-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1183",
+      "start": "2024-04-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1184",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
