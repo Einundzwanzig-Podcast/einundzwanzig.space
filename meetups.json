@@ -417,15 +417,7 @@
     "city": "Amberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-amberg-sulzbach",
     "twitter": null,
-    "event": {
-      "start": "2024-03-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1291",
-      "location": "Parapluie Amberg",
-      "description": null,
-      "link": "https://www.parapluie-amberg.de/",
-      "attendees": 2,
-      "nostr_note": "7082cdc89818431a990c44693d3ceadc1c6e32f6955236619bcc34753163726a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -847,7 +839,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 12,
+      "attendees": 13,
       "nostr_note": "d06cedb67d68fed860601f82f70940a41e1e7004a4f055baff577dc29566e17d"
     },
     "style": {
@@ -1959,8 +1951,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": null,
     "event": {
-      "start": "2024-03-22 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/571",
+      "start": "2024-04-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/572",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
@@ -2049,15 +2041,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2024-03-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1271",
-      "location": "St. Wendel",
-      "description": "Wir starten unseren Stammtisch um 17:30 Uhr im Bruder Jakob, essen was feines und zahlen per Lightning. Anschließend gehts gegen 19:30 Uhr ins JJ's, ein Irish Pub.\nKommt gerne vorbei und diskutiert mit uns beliebige Themen rund um Bitcoin. Meldet euch aber bitte an, der Platz im Bruder Jakob ist begrenzt.",
-      "link": "http://www.bruderjakob.com/",
-      "attendees": 4,
-      "nostr_note": "fa852f404a09d907ee9dda334f5fea4e26aa0dcdd526121a7d13d874e7b7a5bd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2842,15 +2826,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-03-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1212",
-      "location": "🍕🍝 ₿izzeria Al Dente",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nAlle Plebs willkommen!\n\nWann: Freitag, 22.03.24, ab 18h\nWo: 🍕🍝 ₿izzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
-      "link": "https://maps.app.goo.gl/9gA3GVhoygiiquuD8",
-      "attendees": 7,
-      "nostr_note": "972edaa94b77b930ba75535c911e06f6545af6fe814fb43413c958cc1dafb2b1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
