@@ -599,8 +599,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-03-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1205",
+      "start": "2024-04-24 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1206",
       "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
       "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
       "link": "https://kulturzentrum-lagerhaus.de/",
@@ -862,7 +862,7 @@
       "location": null,
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
     },
     "style": {
@@ -1331,15 +1331,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-03-27 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1286",
-      "location": "Landau",
-      "description": "Kommt in die Gruppe für alle weiteren Details",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "69c9df7932c3461a1e4de3ce89c4405075ec29a159c24d1110be75abdd5e8a13"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1889,7 +1881,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-04-07 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1295",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "An jedem ERSTEN Sonntag im Monat\ntreffen sich die Bitcoin'er aus der Stadt und dem Landkreis Regensburg zum gemütlichen Beisammensein und Austausch rund und das Thema Bitcoin.",
+      "link": "https://g.co/kgs/xw25p1g",
+      "attendees": 1,
+      "nostr_note": "4188fee1fd4e1336875be37cdec00e66118b942b1ac5d3228f427f8a3f900c36"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2502,8 +2502,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-03-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1005",
+      "start": "2024-04-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1006",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
