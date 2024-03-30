@@ -60,6 +60,29 @@
     }
   },
   {
+    "name": "BTC-Stammtisch Oberfranken",
+    "latLng": [
+      50.122426,
+      10.87377
+    ],
+    "url": "https://t.me/Einundzwanzig_FRANKEN/13785",
+    "city": "96274 Itzgrund-Kaltenbrunn",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-stammtisch-oberfranken",
+    "twitter": null,
+    "event": {
+      "start": "2024-04-13 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1296",
+      "location": "Ls Stazione, Bahnhofstraße 2,96274 Itzgrund-Kaltenbrunn",
+      "description": "Unser Meetup des BTC-Stammtisch Oberfranken findet diesmal am 13.4. ab 18 Uhr in der Pizzeria La Stazione in Kaltenbrunn statt. Teilnehmer bitte in der Mini-Meetup Gruppe Bamberg/Coburg zusagen, damit klar ist wie viele Plätze reserviert werden müssen.",
+      "link": "https://t.me/Einundzwanzig_FRANKEN/13785",
+      "attendees": 0,
+      "nostr_note": "48edc420d230afe5ddd1004f53dfac3f802c4ebe0b13e3763be3ab2310bdd7d8"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Beach Lübeck-Travemünde",
     "latLng": [
       53.961788,
@@ -246,9 +269,9 @@
     "event": {
       "start": "2024-04-03 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1270",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!\n",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-5/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Sprache:** Meist deutsch, aber wir haben oft auch Teilnehmer, die englisch sprechen. Bitte gruppiert euch entsprechend, wenn nötig!\n\n**Zielgruppe:** Alle sind willkommen, Neuankömmlinge sowie alte Veteranen. Es gibt meist Gespräche über sowohl Bitcoin-Grundlagen als auch Insider- und Tech-News, außerdem Wirtschaftliches, Politisches und so weiter. Beachtet aber bitte unser Mission Statement vorne auf der Hauptseite!\n\n**Erwartete Anzahl Besucher:** 40-50\n\n**Streaming/Recording:** Nein\n\n**Wann:** Mittwoch, 03. April 2024, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~837.558\n\n**Ort diesmal:** Brasserie Tresznjewski, Theresienstraße 72\n\n* [http://www.tresznjewski.com/](http://www.tresznjewski.com/)\n* [https://goo.gl/maps/vKazgPzATpdAhLQ86](https://goo.gl/maps/vKazgPzATpdAhLQ86)\n* [https://www.osm.org/node/332790691](https://www.osm.org/node/332790691)\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%E2%82%BF%F0%9F%8D%BB-bitcoin-munich-stammtisch-tresznjewski-2/",
       "attendees": 0,
       "nostr_note": "c2d5642e421b896674be3d84e9c5bc67b343fa3afec0ce1a363bfd882417c3c2"
     },
@@ -839,7 +862,7 @@
       "location": "Bamberg, Rostscheune \"Halving Party\"",
       "description": "Rostscheune\nFärbergasse 28, 96052 Bamberg\n",
       "link": "https://maps.app.goo.gl/7aTsVdkmbUUekivBA",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "2f8244487499f93fe18a13c28c1e453e6ed11a40ea8acfef0f7a259ae6f2f633"
     },
     "style": {
@@ -2724,7 +2747,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "b37bfa867e42c1db418400b5c8a72bbc143ee87293b162467fbaac475cad89c1"
     },
     "style": {
