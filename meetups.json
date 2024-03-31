@@ -2409,7 +2409,15 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1299",
+      "location": "Wiesbaden „Das 60/40“",
+      "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen? Wenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
+      "link": "https://maps.app.goo.gl/fyRqi2uM7mrpMvyx9",
+      "attendees": 0,
+      "nostr_note": "50521904035d8115e7e53e92b087cb9fd289ca520ef95fa11d4f2310bcdc4b06"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
