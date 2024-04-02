@@ -728,8 +728,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dortmund",
     "twitter": null,
     "event": {
-      "start": "2024-04-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/721",
+      "start": "2024-05-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/722",
       "location": "Glorious Café, Kleppingstraße 2, Dortmund",
       "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Glorious Café.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
       "link": "https://maps.app.goo.gl/rt6cFgcKLpVoMB7GA",
@@ -1082,7 +1082,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-04-07 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1302",
+      "location": "Neuer Berg 1  An der L 1107 zwischen Schwaigern-Stetten und Brackenheim  74193 Schwaigern",
+      "description": "#PlebWalk 2,5h bei 10km.\nFestes Schuhwerk empfohlen.\nAnschließend um 14Uhr Essen was nur mit Anmeldung möglich ist.\nZum Plebwalk kann ohne Anmeldung gekommen werden.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "770162cce49ca1373cc24526e7a661cbbd5a4cdca264b575854b638fb3e4c6cb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2264,7 +2272,7 @@
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2432,7 +2440,15 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1301",
+      "location": "Bitcoin Pizzeria Azzurra Deilingen ",
+      "description": "Das erste Treffen in der Bitcoin Pizzeria Azzurra Deilingen ",
+      "link": "https://www.pizzeriaazzurra.de/",
+      "attendees": 0,
+      "nostr_note": "31b23ac8436c5c8359358a5820a6f9383430ed4e441bc8fbbf91876b15243bf8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3090,8 +3106,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
     "twitter": "bitcoin_alps",
     "event": {
-      "start": "2024-04-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/643",
+      "start": "2024-05-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/644",
       "location": null,
       "description": null,
       "link": null,
