@@ -2863,7 +2863,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-04-20 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1303",
+      "location": "Weinstadl Olarizi, Entschendorf 41, 8321 Entschendorf",
+      "description": "Wir feiern die 4. Halbierung des Block Rewards!\n\nAls Datum zeichnet sich derzeit Samstag, der 20. April ab. Eine deutlich steigende Rechenleistung der Miner könnte aber noch zu einem etwas früheren Zeitpunkt führen. Das Event FINDET jedenfalls ZUM TATSÄCHLICHEN HALVING-ZEITPUNKT statt! Wir starten ein paar Stunden davor und werden genauere Zeiten einige Tage davor hier, am Bitcoin Austria X/Twitter Account @bitcoin_at und in der Einundzwanzig Styria Telegram Gruppe bekannt geben.\n\nDie Halving-Feier wird gemeinsam von Einundzwanzig Styria und Bitcoin Austria organisiert.\n\nhttps://bitcoin-austria.at/event/4-halving/",
+      "link": "https://www.google.at/maps/place/Weinstadl+Olarizi/@47.0572738,15.6901347,363m/data=!3m1!1e3!4m6!3m5!1s0x476e523038a53f85:0xc810eae9df2b1d20!8m2!3d47.0572464!4d15.69117!16s%2Fg%2F1tfbgjs8",
+      "attendees": 0,
+      "nostr_note": "e33a9adddc1fabbf18c6fd946572e91989c2b76f7563e46531801216811bf7f7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
