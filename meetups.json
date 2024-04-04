@@ -2755,7 +2755,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "b37bfa867e42c1db418400b5c8a72bbc143ee87293b162467fbaac475cad89c1"
     },
     "style": {
@@ -2825,7 +2825,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1304",
+      "location": "Bonami. Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "description": "Auslandsreise der Salzburg Plebs! Wir fahren über die Grenze und kehren bei Bonami ein. Seit wenigen Wochen akzeptiert man dort auch Lightningzahlung, also der perfekte Ort für unsere Halving Party.",
+      "link": "https://www.cafe-bonami.de/",
+      "attendees": 2,
+      "nostr_note": "d52baf31d6884c50bf0a5af4ff7ef20952ce2d8427eff1bedf4fd3d3c8dc6643"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
