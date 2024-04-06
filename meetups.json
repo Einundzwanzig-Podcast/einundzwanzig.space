@@ -773,13 +773,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2024-04-05 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1150",
+      "start": "2024-05-03 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1151",
       "location": "Bistro Altstadt Ellwangen",
       "description": null,
       "link": "http://www.bistro-altstadt.de/",
       "attendees": 0,
-      "nostr_note": "810d3995bbbb2e090a9643429b6b96b14bdd83b30f0f1a33d4b7b5f994f65a24"
+      "nostr_note": "4f036ab82013179b414cfc7b76352a71e38121d6c46c80aac553953ef305cf92"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -854,7 +854,7 @@
       "location": "Bamberg, Rostscheune \"Halving Party\"",
       "description": "Rostscheune\nFärbergasse 28, 96052 Bamberg\n",
       "link": "https://maps.app.goo.gl/7aTsVdkmbUUekivBA",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "2f8244487499f93fe18a13c28c1e453e6ed11a40ea8acfef0f7a259ae6f2f633"
     },
     "style": {
@@ -1564,7 +1564,15 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1306",
+      "location": "Berliner-Tor-Platz 4, 46483 Wesel",
+      "description": "Weseler Wirtshaus \nReserviert auf \"niederrheineinundzwanzig\"",
+      "link": "https://maps.app.goo.gl/687eaCZgDCqLGXJUA",
+      "attendees": 1,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1693,13 +1701,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2024-04-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/390",
+      "start": "2024-05-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1127",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
-      "attendees": 1,
-      "nostr_note": "91a5a87b5c4b8bce5bf9c83376245efcbd24998244eef6b5541777eead1ea057"
+      "attendees": 0,
+      "nostr_note": "ac4c05489981d2d9f2cefe4eb13be34d10405b4ba0d42c076cd83e56b67ece79"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1902,7 +1910,7 @@
       "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
       "description": "An jedem ERSTEN Sonntag im Monat\ntreffen sich die Bitcoin'er aus der Stadt und dem Landkreis Regensburg zum gemütlichen Beisammensein und Austausch rund und das Thema Bitcoin.",
       "link": "https://g.co/kgs/xw25p1g",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "4188fee1fd4e1336875be37cdec00e66118b942b1ac5d3228f427f8a3f900c36"
     },
     "style": {
@@ -1920,12 +1928,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-04-05 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1138",
-      "location": "Kernen im Remstal",
-      "description": "Trattoria Toscana In Rommelshausen ",
-      "link": "https://maps.app.goo.gl/Aex8nTTdYxcpXQMfA?g_st=ic",
-      "attendees": 7,
+      "start": "2024-05-03 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1139",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -3242,8 +3250,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
     "event": {
-      "start": "2024-04-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1242",
+      "start": "2024-05-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1243",
       "location": "Ostschweiz",
       "description": "Wir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
       "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
