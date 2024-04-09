@@ -1562,7 +1562,7 @@
       "location": "Berliner-Tor-Platz 4, 46483 Wesel",
       "description": "Weseler Wirtshaus \nReserviert auf \"niederrheineinundzwanzig\"",
       "link": "https://maps.app.goo.gl/687eaCZgDCqLGXJUA",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "96998b8b06cccd67ad627a4d5b35a035a158e4d8735632700916459d5d9d5351"
     },
     "style": {
@@ -1760,15 +1760,7 @@
     "city": "Altlandsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
-    "event": {
-      "start": "2024-04-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1305",
-      "location": "Altlandsberg, Zur Mühle",
-      "description": "Das nächste Einundzwanzig Ost-Brandenburg Meetup findet am 8.04.24 ab 18:00 im Restaurant zur Mühle im schönen Altlandsberg (15345) statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und andeen kontroversen Themen interessiert ist, ist herzlich eingeladen.",
-      "link": "https://maps.app.goo.gl/Kk4ncC5d3i4ai3e99",
-      "attendees": 1,
-      "nostr_note": "0d7cbba0a01fc670c6e583af03f39f272fe689694d73ff172e89a5d797eccb84"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3395,6 +3387,89 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Dwadzieścia Jeden Kraków",
+    "latLng": [
+      50.064651,
+      19.944981
+    ],
+    "url": "https://t.me/DwadziesciaJedenPoznan",
+    "city": "Kraków",
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-krakow",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Dwadzieścia Jeden Poznań",
+    "latLng": [
+      52.406376,
+      16.925167
+    ],
+    "url": "https://t.me/DwadziesciaJedenPoznan",
+    "city": "Poznań",
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-poznan",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Dwadzieścia Jeden Warszawa",
+    "latLng": [
+      52.229675,
+      21.01223
+    ],
+    "url": "https://t.me/DwadziesciaJeden",
+    "city": "Warszawa",
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-warszawa",
+    "twitter": "21BitcoinPolska",
+    "event": {
+      "start": "2024-04-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/1315",
+      "location": "BarBazaar, Ząbkowska 12",
+      "description": "Bitcoin FilmFest: European Halving Party\n\n18:00 – 22:00 Halving Games: Bowling, darts and billiard tournaments, pizza & beers\n\n19:00 – 23:30 Bitcoin Slam & Jam: Jam and slam session in the most bitcoin-friendly bar in Poland\nPerformances:\n- Roger9000\n- Mad Munky",
+      "link": "https://bitcoinfilmfest.com/europeanhalvingparty/",
+      "attendees": 1,
+      "nostr_note": "ae06d738233964bce0785e381a29538b38a6ef944b2bfede6dff4f9b67616971"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Dwadzieścia Jeden Wrocław",
+    "latLng": [
+      51.107883,
+      17.038538
+    ],
+    "url": "https://t.me/DwadziesciaJedenPoznan",
+    "city": "Wrocław",
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-wroclaw",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Dwadziścia Jedyn Katowice",
+    "latLng": [
+      50.2649,
+      19.0238
+    ],
+    "url": "https://t.me/DwadziesciaJedenPoznan",
+    "city": "Katowice",
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziscia-jedyn-katowice",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
