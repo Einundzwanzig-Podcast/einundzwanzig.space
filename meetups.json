@@ -478,7 +478,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1319",
+      "location": "86150, Augsburg, \"Thing\"",
+      "description": "Monatliches Meetup im Thing. Pre-Party fürs Halving :)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "692466ba659b9bd492cac6650064c9aefd49e7056b695b5c6b5d8c0f40595437"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1361,11 +1369,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
     "twitter": null,
     "event": {
-      "start": "2024-04-09 17:00:00",
+      "start": "2024-04-15 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/376",
-      "location": "Jumes, Walter-Rathenau-Straße 1 63225 Langen",
-      "description": "- zu Fuß erreichbar, in 10 Minuten vom Bahnhof.\n- Parkplätze links vom Restaurant im Hof oder im Umkreis.",
-      "link": "",
+      "location": "Gleis5, Friedrichstraße 1, 63225 Langen (Hessen)",
+      "description": "- zu Fuß erreichbar, in 1 Minute vom Bahnhof.\n- Parkplätze am Bahnhof oder im Umkreis.",
+      "link": "https://g.co/kgs/DyK6K2S",
       "attendees": 0,
       "nostr_note": "d04aa840eb7a71712f2d6ee1cccdbcc3ec8ee78fb03b1aef6cfb7f4d0b2a7b1c"
     },
@@ -1562,7 +1570,7 @@
       "location": "Berliner-Tor-Platz 4, 46483 Wesel",
       "description": "Weseler Wirtshaus \nReserviert auf \"niederrheineinundzwanzig\"",
       "link": "https://maps.app.goo.gl/687eaCZgDCqLGXJUA",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "96998b8b06cccd67ad627a4d5b35a035a158e4d8735632700916459d5d9d5351"
     },
     "style": {
@@ -1585,7 +1593,7 @@
       "location": "Am Büsenbach 35, 21256 Handeloh",
       "description": "Inmitten der Natur in der wunderschönen Lüneburger Heide liegt der Schafstall und bietet euch saisonale, regionale und nachhaltige Köstlichkeiten an. Für die großen und kleinen Bitcoiner ist der Ausflug zum Schafstall immer wieder ein schönes Erlebnis. Seit über 2 Jahren ist die Bezahlung mit Bitcoin Lightning akzeptiert. Wir freuen uns auf euren Besuch.",
       "link": "https://der-schafstall.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "0b078bf181dc9deecc80d1ffcce671f4c71dd1e7105482933b54968dda8ea5f8"
     },
     "style": {
