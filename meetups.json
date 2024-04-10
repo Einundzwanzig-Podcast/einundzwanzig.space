@@ -214,13 +214,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-04-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1255",
+      "start": "2024-05-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1258",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "9710b4a52949898067e11bef8a8311ce04da2116892d5ab99db50c0bd9608204"
+      "nostr_note": "a2967aa8df321970575fe0cbef4fbe098c409d9025f8aafad2953e1b628a95a8"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -251,7 +251,15 @@
     "city": "Waldenrath",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1322",
+      "location": "Waldenrath",
+      "description": null,
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "4e2785c9a499bf4dcdc6527997fdd6dfd1c9920b247fa409f3cb25839a8bbb59"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
