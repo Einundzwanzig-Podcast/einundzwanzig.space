@@ -2228,15 +2228,7 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": {
-      "start": "2024-04-11 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1314",
-      "location": "Ramrob Ahrensburg",
-      "description": null,
-      "link": "https://www.ramrob-ahrensburg.de/",
-      "attendees": 0,
-      "nostr_note": "7735f8a6916db9205c1cfa409ac59606424c2fc5f112da88fe44ead4f9a25280"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2592,7 +2584,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1323",
+      "location": "Blauer Adler",
+      "description": "Wir Starten um 19Uhr unsere offene Runde. Es gibt Speis und Trank. Es gibt auch in eine besonderen Soße eingelegte Halbe Hähnchen, die muss man aber telefonisch einen Tag vorher bestellen. 0931 80414605",
+      "link": "https://maps.app.goo.gl/ihLhrVHBtpar3z6v8",
+      "attendees": 0,
+      "nostr_note": "60b41cec0a10aeaa97ca9e79f20bb449c065aa7b861653d6c3e87e89c8d1cbef"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2847,7 +2847,7 @@
       "location": "Bonami. Münchener Str. 12, 83395 Freilassing, Deutschland",
       "description": "Auslandsreise der Salzburg Plebs! Wir fahren über die Grenze und kehren bei Bonami ein. Seit wenigen Wochen akzeptiert man dort auch Lightningzahlung, also der perfekte Ort für unsere Halving Party.",
       "link": "https://www.cafe-bonami.de/",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "d52baf31d6884c50bf0a5af4ff7ef20952ce2d8427eff1bedf4fd3d3c8dc6643"
     },
     "style": {
