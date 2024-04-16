@@ -1195,7 +1195,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-04-21 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1329",
+      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
+      "description": "Das Seehaus Ingolstadt ist direkt am Baggersee gelegen, Parkplätze sind vor dem Haus vorhanden.\n\nBei schönem Wetter wird im Anschluss noch ein Plebwalk veranstaltet.",
+      "link": "https://seehausingolstadt.de/",
+      "attendees": 0,
+      "nostr_note": "8ef2fb01a9343310ac1db042f86a4e41576cbefdfbd491a57cb1ced17fbd2a36"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
