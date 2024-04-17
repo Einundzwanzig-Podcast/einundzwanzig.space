@@ -804,8 +804,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erfurt",
     "twitter": null,
     "event": {
-      "start": "2024-04-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/943",
+      "start": "2024-05-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/944",
       "location": "Double B Erfurt",
       "description": "Wir sind aktuell noch ein relativ keiner Stammtisch im Herzen von Thüringen. Wenn du über Bitcoin/ Nostr oder andere Themen plaudern möchtest komm gern vorbei.",
       "link": "https://www.doubleb-erfurt.de/",
@@ -2394,7 +2394,15 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": null,
+    "event": {
+      "start": "2024-04-22 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1330",
+      "location": "Musikbistro Friedberg",
+      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
+      "link": "https://maps.app.goo.gl/u1Vb9jCKAR6jAQzE8?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "bdf7a36fe3775630342ca9e150fc2fab4df289328fd898f32b45f883b5c6a8b7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
