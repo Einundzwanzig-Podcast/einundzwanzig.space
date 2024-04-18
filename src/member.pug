@@ -29,7 +29,7 @@ block main
 
     if episodes.length
       section
-        h2= `Episoden mit ${member.name}`
+        h2= `${episodes.length} Episode${episodes.length == 1 ? '' : 'n'} mit ${member.name}`
         .episodes
           each e in episodes
             +episodeItem(e)
