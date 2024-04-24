@@ -681,7 +681,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-04-28 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1336",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "496985fd7df98e06fe276e6bdd421abc9a9b9bb6340f271bf5fa355793f38e21"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3372,16 +3380,24 @@
     }
   },
   {
-    "name": "Bitcoin Kraków",
+    "name": "Dwadzieścia Jeden Kraków",
     "latLng": [
       50.064651,
       19.944981
     ],
-    "url": "https://t.me/+NuEWEpJwsCExYjU0",
+    "url": "https://t.me/krakowBTC",
     "city": "Kraków",
-    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/bitcoin-krakow",
-    "twitter": null,
-    "event": null,
+    "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-krakow",
+    "twitter": "21BitcoinPolska",
+    "event": {
+      "start": "2024-05-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/1337",
+      "location": "Techie's",
+      "description": "Na tym spotkaniu wytłumaczę jak działa Bitcoin w sposób prosty na osób nie technicznych - tym razem prezentacja będzie zdecydowanie krótsza. Po niej planujemy praktyczne warsztaty z tworzenia i zabezpieczania portfeli na których będzie można zadać również dodatkowe pytania. Miejsce spotkania to przestrzeń fizyczna: https://www.techiesspace.pl/",
+      "link": "https://www.meetup.com/pl-PL/krakow-bitcoin-meetup/events/300567563/",
+      "attendees": 1,
+      "nostr_note": "eac3ccfcb191d5f86af85c3e805c39ce737992114d6b418ab280f384958f79fe"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
