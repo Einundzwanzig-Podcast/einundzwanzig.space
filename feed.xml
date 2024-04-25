@@ -3,7 +3,7 @@
   <channel>
     <podcast:value type="lightning" method="keysend">
       <podcast:valueRecipient name="Dennis" type="node" split="20" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34"></podcast:valueRecipient>
-      <podcast:valueRecipient name="Fab" type="node" split="20" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9"></podcast:valueRecipient>
+      <podcast:valueRecipient name="Fab" type="node" split="20" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf"></podcast:valueRecipient>
       <podcast:valueRecipient name="Gigi" type="node" split="20" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52"></podcast:valueRecipient>
       <podcast:valueRecipient name="Markus" type="node" split="20" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
       <podcast:valueRecipient name="Daniel" type="node" split="20" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f"></podcast:valueRecipient>
@@ -288,7 +288,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #92">92</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -990,7 +990,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #91">91</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1259,7 +1259,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #90">90</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1300,7 +1300,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #100">100</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1501,7 +1501,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #89">89</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1578,7 +1578,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #88">88</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1713,7 +1713,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #87">87</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1773,7 +1773,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #86">86</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1829,7 +1829,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #85">85</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -1897,7 +1897,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #84">84</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2059,7 +2059,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #94">94</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
     </item>
@@ -2137,7 +2137,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #83">83</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2341,7 +2341,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #82">82</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2381,7 +2381,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #81">81</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2515,7 +2515,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #80">80</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2556,7 +2556,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="On Tour #1">1</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -2619,7 +2619,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #79">79</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2699,7 +2699,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #78">78</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2739,7 +2739,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #77">77</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2807,7 +2807,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #76">76</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2854,7 +2854,7 @@ Lass uns einen Shoutout da.]]></description>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="17"></podcast:valueRecipient>
         <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="17"></podcast:valueRecipient>
         <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="17"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="17"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="17"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -2877,7 +2877,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #75">75</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -2917,7 +2917,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #74">74</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3024,7 +3024,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #73">73</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3062,7 +3062,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #173">173</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Fichte" address="022bd2b6d8798587b54b3a12a9051aed7ecd3caaa24cb8155b4d0e3ea4ab031c57" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -3102,7 +3102,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #72">72</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3199,7 +3199,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #71">71</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3339,7 +3339,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #69">69</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3401,7 +3401,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #68">68</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3424,7 +3424,7 @@ Lass uns einen Shoutout da.]]></description>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -3447,7 +3447,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #67">67</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3529,7 +3529,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #66">66</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3569,7 +3569,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #65">65</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3651,7 +3651,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #64">64</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3674,7 +3674,7 @@ Lass uns einen Shoutout da.]]></description>
         <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person href="https://medium.com/@dercheapi">Ole</podcast:person>
@@ -3740,7 +3740,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #63">63</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3822,7 +3822,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #62">62</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3877,7 +3877,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #61">61</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3915,7 +3915,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #60">60</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -3955,7 +3955,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #59">59</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4087,7 +4087,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #58">58</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4110,7 +4110,7 @@ Lass uns einen Shoutout da.]]></description>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -4152,7 +4152,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #57">57</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4248,7 +4248,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #56">56</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4291,7 +4291,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #55">55</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4373,7 +4373,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #54">54</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4538,7 +4538,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #51">51</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4603,7 +4603,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #50">50</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4642,7 +4642,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #78">78</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -4663,7 +4663,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #49">49</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4717,7 +4717,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #48">48</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4816,7 +4816,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #47">47</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4856,7 +4856,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -4975,7 +4975,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #46">46</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -4998,7 +4998,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -5018,7 +5018,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #45">45</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
     </item>
@@ -5079,7 +5079,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Der Weg #44">44</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5164,7 +5164,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #42">42</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5267,7 +5267,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #73">73</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/PatrickZGW">Patrick</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5368,7 +5368,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #41">41</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5409,7 +5409,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #40">40</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5491,7 +5491,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #39">39</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5526,7 +5526,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #38">38</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5586,7 +5586,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #37">37</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5667,7 +5667,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #36">36</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5731,7 +5731,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #35">35</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
     </item>
@@ -5778,7 +5778,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #113">113</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5839,7 +5839,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #34">34</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -5901,7 +5901,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #111">111</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/PatrickZGW">Patrick</podcast:person>
@@ -5922,7 +5922,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #33">33</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -5966,7 +5966,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #110">110</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Egge" address="02283e063b3121177fe8ed0c88806fe05b38cf5e192ff8c89e3bdc9b4df05dde21" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -5989,7 +5989,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #32">32</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6072,7 +6072,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #31">31</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -6095,7 +6095,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #63">63</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6134,7 +6134,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #30">30</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6176,7 +6176,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #29">29</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6198,7 +6198,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #106">106</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6231,7 +6231,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #28">28</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6253,7 +6253,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="14"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Egge" address="02283e063b3121177fe8ed0c88806fe05b38cf5e192ff8c89e3bdc9b4df05dde21" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="14"></podcast:valueRecipient>
@@ -6282,7 +6282,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #27">27</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6325,7 +6325,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #26">26</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6380,7 +6380,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #25">25</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6415,7 +6415,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #102">102</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://btc21.de">Joko</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6448,7 +6448,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #24">24</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6528,7 +6528,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #23">23</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6569,7 +6569,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://btc21.de">Joko</podcast:person>
@@ -6658,7 +6658,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #22">22</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6744,7 +6744,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #21">21</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6765,7 +6765,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #96">96</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -6825,7 +6825,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #20">20</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -6860,7 +6860,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #52">52</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7004,7 +7004,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #19">19</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7048,7 +7048,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #93">93</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7081,7 +7081,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #18">18</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7194,7 +7194,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #17">17</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7216,7 +7216,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #90">90</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -7280,7 +7280,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #45">45</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7366,7 +7366,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #43">43</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="100"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/PatrickZGW">Patrick</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7386,7 +7386,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #87">87</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -7504,7 +7504,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
@@ -7577,7 +7577,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #83">83</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -7740,7 +7740,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -7789,7 +7789,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #79">79</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://twitter.com/PatrickZGW">Patrick</podcast:person>
       <podcast:person href="https://btc21.de">Joko</podcast:person>
@@ -7859,7 +7859,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #77">77</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -7895,7 +7895,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Interview #34">34</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7950,7 +7950,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Interview #33">33</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -7985,7 +7985,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #32">32</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -8099,7 +8099,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #72">72</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -8197,7 +8197,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #70">70</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -8326,7 +8326,7 @@ Lass uns einen Shoutout da.]]></description>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -8362,7 +8362,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #66">66</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -8419,7 +8419,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #22">22</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -8482,7 +8482,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
@@ -8556,7 +8556,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #61">61</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -8663,7 +8663,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -8758,7 +8758,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -8822,7 +8822,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #54">54</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -8857,7 +8857,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #53">53</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -8942,7 +8942,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #51">51</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9067,7 +9067,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #47">47</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9143,7 +9143,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #45">45</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9163,7 +9163,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #44">44</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9235,7 +9235,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
@@ -9274,7 +9274,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #08">08</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9349,7 +9349,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #39">39</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9390,7 +9390,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="Interview #07">07</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9505,7 +9505,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #32">32</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9657,7 +9657,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -9753,7 +9753,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -9792,7 +9792,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #23">23</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -9833,7 +9833,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -9874,7 +9874,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
@@ -9921,7 +9921,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #19">19</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
@@ -9945,7 +9945,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -9992,7 +9992,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #16">16</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -10015,7 +10015,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:episode display="News #15">15</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -10062,7 +10062,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -10127,7 +10127,7 @@ Lass uns einen Shoutout da.]]></description>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #10">10</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="http://fabthefox.com">Fab</podcast:person>
@@ -10150,7 +10150,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -10173,7 +10173,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
@@ -10196,7 +10196,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -10219,7 +10219,7 @@ Lass uns einen Shoutout da.]]></description>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="03f14237bb08f0afcb1ea07eff6b0b41e79294e66888971cccf1f585f5e21bf8f9" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://dergigi.com">Gigi</podcast:person>
