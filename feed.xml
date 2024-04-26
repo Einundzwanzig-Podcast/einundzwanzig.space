@@ -19,7 +19,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 24 Apr 2024 22:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 07:15:25 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -36,6 +36,40 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #09 - der Ausweg]]></title>
+      <description><![CDATA[<p><strong>NostrTalk #09 - Blockzeit 840234</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf">Dennis</a>, <a href="https://nostr.com/npub1n2jrsl9n5lddlauxmtycu3agrrz0qvv7lgrnunl7kmxemlvtzfws9q8vcr">Philipp</a> und <a href="https://nostr.com/npub1pzcj8yfs3kx2thtjpz3agr2w54m52kv9a2933smqyt6n6k2ql3aq2d0wlx">Too Bit to Fail</a></p>
+<p><br></p>
+<p><strong>Links</strong></p>
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=ynosYUoW4M4">Inspiration fürs Intro</a></li>
+ <li><a href="https://www.youtube.com/watch?v=aA-jiiepOrE">Can we fix social media?</a></li>
+  <li><a href="https://blog.lopp.net/how-to-exit-x-to-social-network-sovereignty/">Social Media eXit</a></li>
+  <li><a href="https://wavlake.com/richard">Outro von Richard und Man Like Kweks</a></li>
+</ul>
+<p><br></p>
+<p><strong>Weitere Links:</strong></p>
+<ul>
+  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
+</li>
+</ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-09-der-ausweg</link>
+      <guid isPermaLink="false">e7895d9c-65d8-4884-8045-19d51f0c55a5</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 26 Apr 2024 07:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/85881434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-24%2Fc3d35923-3ce9-809d-9f20-75a55f440a41.mp3" length="174179324" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:12:34</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1713995402679-85a0ee6e667a1.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #09">09</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://d11n.net">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[233 - stacking until midnight]]></title>
       <description><![CDATA[<p>Episode 233 - Blockzeit 840654 - von und mit MarkusTurm und NetDiver</p>
@@ -1045,35 +1079,7 @@ Lass uns einen Shoutout da.]]></description>
     </item>
     <item>
       <title><![CDATA[NostrTalk #07 - Boating Safety Npubs]]></title>
-      <description><![CDATA[<p><strong>NostrTalk #07 - Blockzeit 830839</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</a>, <a href="https://nostr.com/npub1yu25lwrnht0knsl2swsd5mn966s4p54l3aejplpnzsjg6aryt3jq9t9xxs">Anti</a>, <a href="https://nostr.com/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</a> und <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a></p>
-<p><br></p>
-<p><strong>Links</strong></p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=kYfNvmF0Bqw">Intro Inspiration</a></li>
-<li><a href="https://npub.cash/">npub cash: A nostr native Lightning Address for everyone</a></li>
-<li><a href="https://github.com/quillie/streamdeck-bitcoin-plugins">Github: The Nukening Clock</a></li>
-<li><a href="https://njump.me/nevent1qqsqawpspptnxj8e0rkrgxye6lnmz8575ezd6fhvl8f5rd0a045lydgprpmhxue69uhkzapwdehhxarjwahhy6mn9e3k7mf0qgsp89awyctgl9yf5scp2wkmx2jtvv9xgvvhvz3j5kgexe74kp4kshcrqsqqqqqptcgutd">Powerboat.training</a></li>
-<li><a href="https://www.berliner-zeitung.de/politik-gesellschaft/richter-warnt-meinungsfreiheit-in-der-eu-in-akuter-gefahr-li.2177580">Berliner Zeitung: Richter warnt vor Digital Services Act</a></li>
-<li><a href="https://www.berliner-zeitung.de/news/eu-gesetz-digital-services-act-martin-sonneborn-ursula-von-der-leyen-verbreitet-bewusst-irrefuehrende-fakes-li.382738">Digital Servics Act: Kommentar von Sonneborn</a></li>
-<li><a href="https://noogle.lol/">Noogle: Search the Nostr with Data Vending Machines</a></li>
-<li><a href="https://www.nobsbitcoin.com/data-vending-machine-implementation-open-sourced/">Nostr Data Vending Machine: A Marketplace for Data Processing</a></li>
-<li><a href="https://einundzwanzig.space/podcast/verschiedenes-grapheneos-special/">Graphene OS Special von Einundzwanzig</a></li>
-<li><a href="https://www.wavlake.com/man-like-kweks">Outro von Man Like Kweks</a></li>
-</ul>
-<p><br></p>
-<p><strong>Weitere Links:</strong></p>
-<ul>
- <li><p>Folge dem <a href="https://njump.me/nevent1qvzqqqqqqypzqmpddzaqzmpfzstl6x820srtwdlvzslh64kh3lw5ffdjfzzx2f0vqy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qqspd6xfsft98wcw0n655dzk6mccyvwnksqrgufg5vqruyk0rk6rrqqs3lcew">Eastr egg</a></p>
-</li>
- <li><p>Lass ein <a href="https://lnbits.b1tco1n.org/tipjar/16">Shoutout</a> da</p>
-</li>
- <li><p>Diskutiere mit in unserer <a href="https://matrix.to/#/#nostrtalk:matrix.org">Community</a></p>
-</li>
- <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
-</li>
- <li><p>V4V Nostr Track: powa@geyser.fund</p>
-</li>
-</ul>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-07-boating-safety-npubs]]></description>
       <link>https://einundzwanzig.space/podcast/nostrtalk-07-boating-safety-npubs</link>
       <guid isPermaLink="false">958061d2-92c6-4cda-b468-6e328d6d45fd</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
