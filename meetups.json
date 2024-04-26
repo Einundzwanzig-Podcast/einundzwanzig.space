@@ -243,15 +243,7 @@
     "city": "Waldenrath",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-04-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1322",
-      "location": "Waldenrath",
-      "description": null,
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 0,
-      "nostr_note": "4e2785c9a499bf4dcdc6527997fdd6dfd1c9920b247fa409f3cb25839a8bbb59"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1915,7 +1907,7 @@
       "location": "Rommelshausen ",
       "description": "trattoria toscana",
       "link": "https://g.co/kgs/b7LMjbM",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2113,15 +2105,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-04-25 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1326",
-      "location": "Zum Wilden Michel",
-      "description": "Meetup Nummer 7.1\n\nWir laden recht herzlich ein zu Teil 1 von 2 unseres Doppelmeetups im April zur Feier des Bitcoin-Halvings.",
-      "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 0,
-      "nostr_note": "778753c1353eaf0bf834a90a729c011acf282fe0d82f5d88d7f4d73bb564eb8f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2408,13 +2392,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2024-04-25 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1299",
+      "start": "2024-05-30 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1300",
       "location": "Wiesbaden „Das 60/40“",
       "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen? Wenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
       "link": "https://maps.app.goo.gl/fyRqi2uM7mrpMvyx9",
       "attendees": 0,
-      "nostr_note": "50521904035d8115e7e53e92b087cb9fd289ca520ef95fa11d4f2310bcdc4b06"
+      "nostr_note": "346f7906345fe7f9b37d2b2f7bedef8d18808dd36ccbdd3f34166e7468df35fa"
     },
     "style": {
       "fill": "var(--color-accent)"
