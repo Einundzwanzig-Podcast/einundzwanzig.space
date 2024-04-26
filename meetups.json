@@ -707,7 +707,7 @@
       51.935398,
       8.87384
     ],
-    "url": "t.me/+7wvp3JzN6fJiNmZi",
+    "url": "https://t.me/+7wvp3JzN6fJiNmZi",
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
@@ -1277,7 +1277,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-05-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1339",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich willkommen zum Kemptner Einundzwanzig Meetup. Hier treffen sich, Bitcoiner und Interessierte rund um das Thema Bitcoin. Wir freuen uns auf Dich.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 1,
+      "nostr_note": "fe9629867fd200d80082c19bf6c14c4f7312890bd7a7f1d503e8d7f892753e0b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1907,7 +1915,7 @@
       "location": "Rommelshausen ",
       "description": "trattoria toscana",
       "link": "https://g.co/kgs/b7LMjbM",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -1940,8 +1948,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": null,
     "event": {
-      "start": "2024-04-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/572",
+      "start": "2024-05-24 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/573",
       "location": "Wird bei Telegram bekannt gegeben.",
       "description": null,
       "link": null,
