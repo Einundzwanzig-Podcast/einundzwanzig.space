@@ -1,7 +1,7 @@
 const pug = require('pug')
 const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
-const { slugify, teamWithAliases } = require('../helpers')
+const { slugify, teamWithAliases, participantToId } = require('../helpers')
 const config = require('../pug.config')
 const site = require('../generated/site-data.json')
 const episodes = require('../generated/episodes.json')
@@ -61,6 +61,6 @@ Object.keys(categories).forEach(category => renderPage('category', `podcast/${sl
 Object.keys(teamRaw).forEach(id => {
   const member = teamRaw[id]
   const aliases = (member.aliases || []).map(m => m.toLowerCase()).concat(member.name.toLowerCase())
-  const eps = episodes.filter(e => e.participants.find(p => [id, ...aliases].includes(p.toLowerCase())))
+  const eps = episodes.filter(e => e.participants.find(p => [id, ...aliases].includes(participantToId(p))))
   renderPage('member', `team/${slugify(id)}`, { navCurrent: 'podcast', member, episodes: eps, team })
 })

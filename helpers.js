@@ -68,6 +68,8 @@ const teamWithAliases = team => {
   return withAliases
 }
 
+const participantToId = p => p.replace(/\(.*?\)/, '').trim().toLowerCase()
+
 module.exports = {
   markdown: mdTransformer.render,
   replacements,
@@ -75,5 +77,6 @@ module.exports = {
   stripHTML,
   truncate,
   teamWithAliases,
+  participantToId,
   toMeetupMapInfo
 }

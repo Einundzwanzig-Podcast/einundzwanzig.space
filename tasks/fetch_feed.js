@@ -1,6 +1,6 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML, teamWithAliases } = require('../helpers')
+const { replacements, slugify, stripHTML, teamWithAliases, participantToId } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
 const teamRaw = require('../content/team.json')
 const request = require('sync-request')
@@ -67,13 +67,14 @@ const parseEpisode = e => {
     : `/img/cover/${category}.png`
   const duration = e['itunes:duration']
   const enclosure = e.enclosure.__attr
-  const [, participantsString] =
+  const [, participantsString, additionalString] =
     firstLine.match(/[-–—]\s?(?:(?:(?:von\sund\s)?mit\s)|(?:gelesen\svon\s))([^.]*)/i) || []
   const participants = participantsString
     ? participantsString
-        .replace(/(\s*,\s*|\s*und\s*|\s*&amp;\s*)/gi, '%')
+        .replace(/(\s*,\s*|\s*und\s*|\s*sowie\s*|\s*&amp;\s*)/gi, '%')
         .trim()
         .split('%')
+        .filter(p => !!p)
         .map(p => p.trim())
     : []
   return {
@@ -149,7 +150,6 @@ const parseEpisode = e => {
       ...item,
       link, // replace Anchor link
       description: { __cdata: description },
-      //'itunes:summary': description // please the validator, Anchor's itunes:summary contains HTML
     }
     // itunes:summary seems to be gone: https://help.apple.com/itc/podcasts_connect/#/itcb54353390
     delete updated['itunes:summary']
@@ -164,7 +164,7 @@ const parseEpisode = e => {
     }
 
     const value = episode.participants.reduce((result, name) => {
-      const id = name.toLowerCase()
+      const id = participantToId(name)
       const v4v = team[id] && team[id].v4v
       if (v4v) {
         result.push({ name, ...v4v })
@@ -193,7 +193,7 @@ const parseEpisode = e => {
     }
 
     const people = episode.participants.reduce((result, name) => {
-      const id = name.toLowerCase()
+      const id = participantToId(name)
       const person = team[id]
       if (person) {
         result.push(person)
