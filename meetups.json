@@ -113,7 +113,7 @@
       "location": "Berlin",
       "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
@@ -1894,7 +1894,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-05-05 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1340",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Herzlichen Willkommen beim monatlichen Treffen der Bitcoin'er rund um die Stadt und den Landkreis Regensburg.",
+      "link": "https://g.co/kgs/zUkr7e",
+      "attendees": 3,
+      "nostr_note": "441308601e15ba1ecd15be341f7acb11bc5b80081d4a88d773c27fc39077d6fb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1915,7 +1923,7 @@
       "location": "Rommelshausen ",
       "description": "trattoria toscana",
       "link": "https://g.co/kgs/b7LMjbM",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2113,7 +2121,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-05-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1341",
+      "location": "Zum Wilden Michel",
+      "description": "Meetup 8.0. \nFeature: Quiz für Anfänger. Gewinne sind einige Sats!\n\n\nAdresse: Linach 6, 78120 Furtwangen im Schwarzwald",
+      "link": "https://g.co/kgs/5s3qpKP",
+      "attendees": 1,
+      "nostr_note": "9d8eecf498ad49d652b276518cede24737cb2841827af7d5f371c1285f957b79"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2128,7 +2144,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1342",
+      "location": "Rumbar Schwerin",
+      "description": "Arsenalstraße 36,\nAltstadt, \n19053 Schwerin, ",
+      "link": "",
+      "attendees": 0,
+      "nostr_note": "2e85747a32cc77737233c9f158d1d8a7490de5b6f75f2d7fe43f737762a63d1e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
