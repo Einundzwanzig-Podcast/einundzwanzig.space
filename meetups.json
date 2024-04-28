@@ -673,15 +673,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-04-28 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1336",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
-      "nostr_note": "496985fd7df98e06fe276e6bdd421abc9a9b9bb6340f271bf5fa355793f38e21"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1283,7 +1275,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich willkommen zum Kemptner Einundzwanzig Meetup. Hier treffen sich, Bitcoiner und Interessierte rund um das Thema Bitcoin. Wir freuen uns auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fe9629867fd200d80082c19bf6c14c4f7312890bd7a7f1d503e8d7f892753e0b"
     },
     "style": {
