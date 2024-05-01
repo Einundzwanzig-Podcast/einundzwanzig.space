@@ -2023,7 +2023,15 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "start": "2024-05-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1345",
+      "location": "Kartoffel-Schnitzel-Pizzahaus Saarlouis",
+      "description": null,
+      "link": "https://www.schnitzelhaus-sls.de/",
+      "attendees": 1,
+      "nostr_note": "a00b5fc628d9b464013bbe50025aa3837e15da46ac4dc5c52e36bb0f55705d70"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
