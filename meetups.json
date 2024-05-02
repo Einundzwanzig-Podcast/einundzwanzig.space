@@ -108,13 +108,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-05-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/975",
-      "location": "Berlin",
-      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "start": "2024-05-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/963",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
-      "attendees": 2,
-      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
+      "attendees": 0,
+      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -583,8 +583,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2024-05-02 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/930",
+      "start": "2024-06-06 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/931",
       "location": "Bonn",
       "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
@@ -2666,7 +2666,15 @@
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
-    "event": null,
+    "event": {
+      "start": "2024-05-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1347",
+      "location": "Fernitz bei Graz",
+      "description": "Vortrag:\nBitcoin & Menschenrechte - Anita Posch\n\nAuch nach 15 Jahren dominieren immer noch Halbwahrheiten und falsche Vorstellungen über Bitcoin die öffentliche Meinung. Bitcoin ist viel mehr als nur eine neue Geldform. Anita Posch berichtet aus erster Hand über die Realität im südlichen Afrika, wo Bitcoin als Werkzeug gegen Machtmissbrauch, finanzielle Repression und Korruption genutzt wird.\n\nEinlass ab 18 Uhr\nBeginn 18:30 Uhr\n\nVortrag von Anita Posch, Bitcoin for Fairness\nFragen aus dem Publikum\n\nIm Anschluss laden wir bei Getränken und einem kleinen Imbiss zum weiteren Austausch und gemütlichen Beisammensein!\n\nDie Teilnahme ist kostenlos, eine Anmeldung hier am Portal oder per E-Mail an office[at]bitcoin-austria.at erleichtert uns die Planung.\n\nWir freuen uns auf Euren Besuch!\n\nBitcoin Austria & Einundzwanzig Styria\nmit großzügiger Unterstützung von Coinfinity\n",
+      "link": "https://bitcoin-austria.at/event/bitcoin-menschenrechte-anita-posch/",
+      "attendees": 0,
+      "nostr_note": "0746b37ccb1ebe25f59665bc6497d6c1ea164d67760dfde0a2ab13f4b3d3086d"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
