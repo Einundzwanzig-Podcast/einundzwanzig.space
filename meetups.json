@@ -477,7 +477,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1349",
+      "location": "\"Thing\" Augsburg",
+      "description": "monatliches Meetup, bei gutem Wetter im Biergarten :)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "723446c1025e2f2c58fd4ffd1b1f0215085b3390f0f0d27b02c06e12e99c3740"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -795,13 +803,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2024-05-03 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1151",
-      "location": "Bistro Altstadt Ellwangen",
-      "description": null,
+      "start": "2024-06-07 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1307",
+      "location": "Ellwangen",
+      "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
       "attendees": 0,
-      "nostr_note": "4f036ab82013179b414cfc7b76352a71e38121d6c46c80aac553953ef305cf92"
+      "nostr_note": "a1856421af6135c48833528d864041f2c12aa779e4d4d367868fe28b35d229db"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1352,7 +1360,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-05-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1348",
+      "location": "Landau",
+      "description": "Pizza essen am Pizza Day! Für alles weitere kommt in die Telegramm Gruppe oder über Twitter!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b937d837f9e03d99c46728adb07b3eb292392fa1bdbdf9c799413a0dbf178931"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1691,8 +1707,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2024-05-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1127",
+      "start": "2024-06-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1128",
       "location": "Lindenkroog",
       "description": "Bezahlung und Trinkgeld per Lightning gerne gesehen!",
       "link": "https://btcmap.org/map?lat=53.14841365&long=8.2168216",
@@ -1910,12 +1926,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-05-03 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1139",
-      "location": "Rommelshausen ",
-      "description": "trattoria toscana",
-      "link": "https://g.co/kgs/b7LMjbM",
-      "attendees": 6,
+      "start": "2024-06-07 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1140",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -3256,8 +3272,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
     "event": {
-      "start": "2024-05-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1243",
+      "start": "2024-06-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1244",
       "location": "Ostschweiz",
       "description": "Wir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
       "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
