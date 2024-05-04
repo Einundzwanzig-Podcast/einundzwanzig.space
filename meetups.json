@@ -85,13 +85,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
     "event": {
-      "start": "2024-05-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1288",
+      "start": "2024-06-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1325",
       "location": "aja Hotel Lounge, Lübeck-Travemünde",
-      "description": "ACHTUNG!! Extra-Event vor dem Meetup: 17-18 Uhr Schiffsfahrt auf der Trave. Treffpukt: 16:30 Uhr, Anleger MS Hanse, Überseebrücke 2 (Travepromenade). Alle Details bei Telegram https://t.me/BitcoinBeachMeetupTravemuende/796\n\n\nBitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde an der Ostseeküste für alle Bitcoin Interessierten.\n\nJeder ist willkommen! Ob zum Zuhören, Fragenstellen oder bei der Mitarbeit an Open-Source Bitcoin Projekten (Bücher, Soft- oder Hardware) zusammen mit anderen Bitcoinern.",
-      "link": "https://meetup.bitcoinbeachtravemuende.de/",
+      "description": "Bitcoin Beach Travemünde Meetup ist ein freies Treffen in Lübeck-Travemünde an der Ostseeküste für alle Bitcoin Interessierten.\n\nJeder ist willkommen! Ob zum Zuhören, Fragenstellen oder bei der Mitarbeit an Open-Source Bitcoin Projekten (Bücher, Soft- oder Hardware) zusammen mit anderen Bitcoinern.",
+      "link": "https://meetup.bitcoinbeachtravemuende.de",
       "attendees": 0,
-      "nostr_note": "283333e5f63dd3e8a00da982676361b39e75752fb23ce1bae2dafb820b31edb1"
+      "nostr_note": "011031c7d865ebf58bd69e203b72686321f570f09bbe8ecce88b4b6d6c86e23f"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -711,15 +711,7 @@
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
-    "event": {
-      "start": "2024-05-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1333",
-      "location": "Detmold",
-      "description": "\"Cafe Mix\" Detmold, Meierstr. 12",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "7c6a2b20d22dfc939457c75fffe6ae4bbd3ea1ecca4b80330a44ff7526275b64"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1283,7 +1275,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich willkommen zum Kemptner Einundzwanzig Meetup. Hier treffen sich, Bitcoiner und Interessierte rund um das Thema Bitcoin. Wir freuen uns auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "fe9629867fd200d80082c19bf6c14c4f7312890bd7a7f1d503e8d7f892753e0b"
     },
     "style": {
@@ -1564,13 +1556,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-05-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/663",
+      "start": "2024-06-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/664",
       "location": "wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "738a8dd1d320126c0ef4464c8d291b62865b43942a5b7970dbd4f468b9482edd"
+      "nostr_note": "d45fbcf985919965e66aeb503f21e829558d175182d6bf738030a7518c3846c5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2039,15 +2031,7 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": {
-      "start": "2024-05-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1345",
-      "location": "Kartoffel-Schnitzel-Pizzahaus Saarlouis",
-      "description": null,
-      "link": "https://www.schnitzelhaus-sls.de/",
-      "attendees": 1,
-      "nostr_note": "a00b5fc628d9b464013bbe50025aa3837e15da46ac4dc5c52e36bb0f55705d70"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
