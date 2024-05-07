@@ -530,7 +530,15 @@
     "city": "Bensheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1352",
+      "location": "Blauer Aff",
+      "description": "Kappengasse 2, 64625 Bensheim",
+      "link": "https://maps.app.goo.gl/PsDALqet8SXfhMRT6?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "31b76898559d58a7e66b98c94823a8e203f004df05fdbee1c070b52abaedca94"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -742,8 +750,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dortmund",
     "twitter": null,
     "event": {
-      "start": "2024-05-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/722",
+      "start": "2024-06-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/723",
       "location": "Glorious Café, Kleppingstraße 2, Dortmund",
       "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Glorious Café.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
       "link": "https://maps.app.goo.gl/rt6cFgcKLpVoMB7GA",
@@ -1275,7 +1283,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich willkommen zum Kemptner Einundzwanzig Meetup. Hier treffen sich, Bitcoiner und Interessierte rund um das Thema Bitcoin. Wir freuen uns auf Dich.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "fe9629867fd200d80082c19bf6c14c4f7312890bd7a7f1d503e8d7f892753e0b"
     },
     "style": {
@@ -1322,7 +1330,15 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
-    "event": null,
+    "event": {
+      "start": "2024-05-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1351",
+      "location": "Siehe Telegram-Gruppe ",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3497ad4682722cbc897a7a580a26d6eb801a4b39480a870d4ded46652bf5f341"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1646,14 +1662,22 @@
   {
     "name": "Einundzwanzig Oberland",
     "latLng": [
-      48.9467562,
-      11.4038717
+      47.834592,
+      11.137705
     ],
     "url": "https://t.me/Einundzwanzig_Oberland",
-    "city": "Oberland",
+    "city": "Oberland (Weilheim / Bad Tölz / Murnau)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oberland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1350",
+      "location": "Weilheim Restaurant DaFranco",
+      "description": "Einundzwanzig-Oberland Reaktivierungstreffen:\nIch möchte mit euch gerne darüber sprechen in welcher Form wir künftig ein regelmäßiges Angebot für ein \"Einundzwanzig Oberland\"-Meetup etablieren wollen und außerdem würde ich gerne in Murnau in der Westtor-Halle ein \"Bitcoin Forum Oberland\" veranstalten und würde dazu gern schon mal ein paar Idden sammeln.",
+      "link": "https://dafranco-weilheim.de/",
+      "attendees": 0,
+      "nostr_note": "afa3e536eb4d19ccbc3aa7ae4a2a628125a5f883b344da755939289e86abb166"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3120,8 +3144,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
     "twitter": "bitcoin_alps",
     "event": {
-      "start": "2024-05-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/644",
+      "start": "2024-06-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/645",
       "location": null,
       "description": null,
       "link": null,
@@ -3414,13 +3438,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-krakow",
     "twitter": "21BitcoinPolska",
     "event": {
-      "start": "2024-05-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/1337",
+      "start": "2024-05-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/1338",
       "location": "Techie's",
-      "description": "Na tym spotkaniu wytłumaczę jak działa Bitcoin w sposób prosty na osób nie technicznych - tym razem prezentacja będzie zdecydowanie krótsza. Po niej planujemy praktyczne warsztaty z tworzenia i zabezpieczania portfeli na których będzie można zadać również dodatkowe pytania. Miejsce spotkania to przestrzeń fizyczna: https://www.techiesspace.pl/",
-      "link": "https://www.meetup.com/pl-PL/krakow-bitcoin-meetup/events/300567563/",
-      "attendees": 1,
-      "nostr_note": "eac3ccfcb191d5f86af85c3e805c39ce737992114d6b418ab280f384958f79fe"
+      "description": "Na tym spotkaniu omówimy hisorycznie najlepsze czasy na zakup Bitcoina, jakie strategie dawały najlepsze rezultaty oraz gdzie można zakupić Bitcoina.\n\nNic co zostanie przedstawione nie należy traktować jako rady finansowej - raczej zbioru doświadczeń na bazie których można zacząć planować strategię odpowiednią dla siebie - sytuacja każdej osoby jest unikalna i znana najlepiej jedynie jej.\n\nMiejsce spotkania to przestrzeń fizyczna: https://www.techiesspace.pl/",
+      "link": "https://www.meetup.com/pl-PL/krakow-bitcoin-meetup/events/300567589/",
+      "attendees": 0,
+      "nostr_note": "12c04ba254075286aae589c83417e6be49a023e2560a6a4a4a31eddc21c0e8a2"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
