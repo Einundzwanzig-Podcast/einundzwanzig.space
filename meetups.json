@@ -1277,7 +1277,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-05-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1355",
+      "location": "Pizzeria La Taverna",
+      "description": "2. Allgäuer Pizza Day\nGemeinsames Pizza Essen",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "6f4fa3d58038cb551bf8bf4d2253730ba5c03a29363aa7782fee4a062a5558c6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
