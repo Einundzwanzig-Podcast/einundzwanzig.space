@@ -530,15 +530,7 @@
     "city": "Bensheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bensheim",
     "twitter": null,
-    "event": {
-      "start": "2024-05-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1352",
-      "location": "Blauer Aff",
-      "description": "Kappengasse 2, 64625 Bensheim",
-      "link": "https://maps.app.goo.gl/PsDALqet8SXfhMRT6?g_st=ic",
-      "attendees": 0,
-      "nostr_note": "31b76898559d58a7e66b98c94823a8e203f004df05fdbee1c070b52abaedca94"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1104,7 +1096,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-05-18 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1356",
+      "location": "Da Lisa Ristorante Pizzeria, Silcherstraße 63, 74074 Heilbronn",
+      "description": null,
+      "link": "http://dalisa-heilbronn.de/",
+      "attendees": 1,
+      "nostr_note": "0e1f92123da514fff01a979688cf3c1689a204828799f499a65c3a1214b40fe9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1280,10 +1280,10 @@
     "event": {
       "start": "2024-05-22 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1355",
-      "location": "Pizzeria La Taverna",
+      "location": "Pizzeria La Taverna Lindauer Str 5 87435 KE",
       "description": "2. Allgäuer Pizza Day\nGemeinsames Pizza Essen",
-      "link": null,
-      "attendees": 1,
+      "link": "https://g.co/kgs/rGuVVQj",
+      "attendees": 4,
       "nostr_note": "6f4fa3d58038cb551bf8bf4d2253730ba5c03a29363aa7782fee4a062a5558c6"
     },
     "style": {
@@ -1654,7 +1654,15 @@
     "city": "Nordhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1366",
+      "location": "Ristorante-Pizzeria Rustica",
+      "description": "Bei uns wird in entspannter Runde sowohl über Einsteiger- und Fortgeschrittenen-Themen als auch über andere Themen, die im Entferntesten etwas mit Bitcoin zu tun haben, gequatscht. Garniert wird das Ganze mit leckerer italienischer Küche und dem ein oder anderen Kaltgetränk.\n\nWenn du teilnehmen möchtest, melde dich bitte möglichst frühzeitig in unserer Telegram-Gruppe, damit wir im Rustica für ausreichend Blockspace sorgen können. Wir freuen uns auf dich! 🧡",
+      "link": "https://www.rustica-nordhausen.de/",
+      "attendees": 0,
+      "nostr_note": "19f32b5a0d18819184204dd9956dfc5aca6537c27255462a3ab7cea2d2ab7e30"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1790,7 +1798,15 @@
     "city": "Altlandsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1359",
+      "location": "Altlandsberg, Zur Mühle",
+      "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen. ",
+      "link": "https://maps.app.goo.gl/kCqxnXSpVCvK1Q1W7",
+      "attendees": 0,
+      "nostr_note": "0d5698bfb0eedb8de9fbb6a6ebedf9a23520cbe621a266cc871a331fc9ebc105"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1918,7 +1934,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-05-15 15:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1357",
+      "location": "Brauhaus am Schloss, Waffnergasse 6, 93047 Regensburg",
+      "description": "...der \"unter der Woche - Termin\" ☺️\nDer Regensburger Einundzwanzig ₿itcoin\nStammtisch heißt euch 🧡lich willkommen.\n\n ",
+      "link": "https://g.co/kgs/zqri5sN",
+      "attendees": 0,
+      "nostr_note": "a5f26c3d0298c5de27f6113d8ef651b15213c56873a9880e4f63873eb5eb3119"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2334,7 +2358,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-05-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1365",
+      "location": "Stacks Trier",
+      "description": "Unser Meetup ist das erste mal im Stacks sofern es denn schon auf hat. Die Location ist direkt neben dem Paulaner in Zurlauben. Dort wäre auch das Meetup falls das Stacks noch nicht fertig ist. Aufjedenfall kann mit Bitcoin bezahlt werden.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "2446ff38c486b26a19d7281bb93851973921d82dd00841b1d8885795b0fe5215"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2379,7 +2411,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2024-05-29 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1373",
+      "location": "Wittlich",
+      "description": "Meetup in der Brasserie Balthazar in Wittlich",
+      "link": "https://maps.app.goo.gl/ydYFhWx8FFVNdzpi7",
+      "attendees": 0,
+      "nostr_note": "66fa2d03b32dd3cfdbacae5ac3391aa992ed431f315cdc068f588b7c85bb8883"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2530,6 +2570,21 @@
     "url": "https://t.me/einundzwanzigStuttgart",
     "city": "Kirchheim Teck ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/kirchheim-teck",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "MK_Einundzwanzig",
+    "latLng": [
+      51.27351,
+      7.68421
+    ],
+    "url": "t.me/MK_Einundzwanzig",
+    "city": "Märkischer Kreis",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/mk-einundzwanzig",
     "twitter": null,
     "event": null,
     "style": {
@@ -2809,7 +2864,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "48f01010115c21441ad6e2b7bd5fc6167d405f0a619bef80117aecfd5081c196"
     },
     "style": {
