@@ -477,15 +477,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "start": "2024-05-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1349",
-      "location": "\"Thing\" Augsburg",
-      "description": "monatliches Meetup, bei gutem Wetter im Biergarten :)",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "723446c1025e2f2c58fd4ffd1b1f0215085b3390f0f0d27b02c06e12e99c3740"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -681,7 +673,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-05-26 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1395",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "18784e9097c3163c301008758c0582999418e5c9f5431686898110926a8883c3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2169,15 +2169,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-05-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1341",
-      "location": "Zum Wilden Michel",
-      "description": "Meetup 8.0. \nFeature: Quiz für Anfänger. Gewinne sind einige Sats!\n\n\nAdresse: Linach 6, 78120 Furtwangen im Schwarzwald",
-      "link": "https://g.co/kgs/5s3qpKP",
-      "attendees": 1,
-      "nostr_note": "9d8eecf498ad49d652b276518cede24737cb2841827af7d5f371c1285f957b79"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2358,15 +2350,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-05-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1365",
-      "location": "Stacks Trier",
-      "description": "Unser Meetup ist das erste mal im Stacks sofern es denn schon auf hat. Die Location ist direkt neben dem Paulaner in Zurlauben. Dort wäre auch das Meetup falls das Stacks noch nicht fertig ist. Aufjedenfall kann mit Bitcoin bezahlt werden.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "2446ff38c486b26a19d7281bb93851973921d82dd00841b1d8885795b0fe5215"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2669,15 +2653,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-05-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1323",
-      "location": "Blauer Adler",
-      "description": "Wir Starten um 19Uhr unsere offene Runde. Es gibt Speis und Trank. Es gibt auch in eine besonderen Soße eingelegte Halbe Hähnchen, die muss man aber telefonisch einen Tag vorher bestellen. 0931 80414605",
-      "link": "https://maps.app.goo.gl/ihLhrVHBtpar3z6v8",
-      "attendees": 0,
-      "nostr_note": "60b41cec0a10aeaa97ca9e79f20bb449c065aa7b861653d6c3e87e89c8d1cbef"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2850,15 +2826,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2024-05-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1346",
-      "location": "Cafe Froschberg",
-      "description": null,
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "48f01010115c21441ad6e2b7bd5fc6167d405f0a619bef80117aecfd5081c196"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2932,7 +2900,7 @@
       "location": "🍕 ₿izzeria Al Dente",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup - Pizza Day Special Edition ₿\nAlle Plebs Herzlich Willkommen!\n\nWann: Mittwoch, 22.05.24, ab 18h\nWo: 🍕🍝 ₿izzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "9bdbd045c0780d741a576b07b2f18909c9352596431960919441c22d81808db0"
     },
     "style": {
