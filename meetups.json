@@ -432,7 +432,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2024-05-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1396",
+      "location": "Alsfeld",
+      "description": "Unser nächstes Meetup findet am 21.05. ab 18 Uhr in der Gaststätte „Zur Gemütlichkeit“ statt. \n",
+      "link": "https://g.co/kgs/ZHni9Hh",
+      "attendees": 1,
+      "nostr_note": "83c451c9d1262f07733f5220571d14cb408fcba13f873a2461ed30c8d5fb61e2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1112,15 +1120,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2024-05-18 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1356",
-      "location": "Da Lisa Ristorante Pizzeria, Silcherstraße 63, 74074 Heilbronn",
-      "description": null,
-      "link": "http://dalisa-heilbronn.de/",
-      "attendees": 1,
-      "nostr_note": "0e1f92123da514fff01a979688cf3c1689a204828799f499a65c3a1214b40fe9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2510,13 +2510,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2024-05-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/331",
-      "location": "Passau, Schärding oder mal wo anders?",
-      "description": "Komm in die Gruppe und du erfährst wo wir uns treffen. Gaststätten werden durchgewechselt.",
+      "start": "2024-06-15 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1043",
+      "location": "Passau oder Schärding",
+      "description": "Komm in die Telegramm Gruppe. Standort wird dort bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "9a1c9ddd812264c85a93d3aece3f592463c48a6dd0ebedb572c1b1584d481fee"
+      "nostr_note": "9f801394254b0a57009efd5800697cd867298f5bdcb6d7cd92305ab0d1fab2f0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2918,13 +2918,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-05-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1226",
+      "start": "2024-06-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1227",
       "location": "Passau oder Schärding",
-      "description": "31. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "32. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "958532c24fde691aacd6e9e53615b5e4f92f4aa615cbfdbfffe93d02cd5bca6b"
+      "nostr_note": "4aee1ecd8b7ecfe3a561ecbe8f98320290ef8cd6cc67db122a6829b8d336829f"
     },
     "style": {
       "fill": "var(--color-accent)"
