@@ -31,10 +31,11 @@ const renderPage = (template, out, data = {}) => {
   const needsRender = !changedFile || changedFile === templateFile || changedFile.startsWith('src/includes') || changedFile.endsWith('.js') || changedFile.endsWith('.json')
   if (!needsRender) return
 
-  const file = resolve(__dirname, '..', templateFile)
-  const options = Object.assign({}, config, { site }, data)
-  const rendered = pug.renderFile(file, options)
   const dest = out === 'index' ? 'index.html' : `${out}/index.html`
+  const pagePath = out === 'index' ? '/' : `/${out}/`
+  const file = resolve(__dirname, '..', templateFile)
+  const options = Object.assign({}, config, { site }, data, { pagePath })
+  const rendered = pug.renderFile(file, options)
   const dst = resolve(__dirname, '..', 'dist', dest)
   const dir = dirname(dst)
 
