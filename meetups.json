@@ -69,15 +69,7 @@
     "city": "Coburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/btc-stammtisch-oberfranken",
     "twitter": null,
-    "event": {
-      "start": "2024-05-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1410",
-      "location": "Mediterran, Coburg",
-      "description": "Ab 19 Uhr findet sich der BTC-Stammtisch Oberfranken als Mini-Meetup Bamberg/Coburg zum Bitcoin Pizza-Day im Mediterran zusammen.\n\nEs wird wieder etwas free Merch ausgeteilt, über allesmögliche philosophiert, und ihr könnt per Lightning oder onchain bezahlen (wenn auch noch nicht direkt am Counter).\n\nWeitere Details siehe Telegram Gruppe \"EINUNDZWANZIG Franken\" Thema \"Mini-Meetup | Bamberg/Coburg\"",
-      "link": "https://maps.app.goo.gl/mMHKXkgRbzJL7BHL8",
-      "attendees": 3,
-      "nostr_note": "b5daa56e69e29aa95b9762aa767e2db5126f4783d8f2ae9a1249ab99b9f2bc4a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -266,15 +258,7 @@
     "city": "München (80802)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2024-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1343",
-      "location": "₿🍕 Bitcoin Pizza Day 2024 — Romina's",
-      "description": "Am 22. Mai wird weltweit wieder der Bitcoin Pizza Day gefeiert, als zum ersten Mal Pizzen für Bitcoin gekauft wurden, damals für 10.000 bitcoin. [https://www.cbsnews.com/news/the-story-behind-bitcoin-pizza-day-2019-05-22/](https://www.cbsnews.com/news/the-story-behind-bitcoin-pizza-day-2019-05-22/)\n\nIn München feiern wir das diesmal im Romina’s, eine Bar und geeignete Party-Location. Party-Pizzen werden bestellt, ihr dürft dann gern Sats dafür spenden. Bei schönem Wetter sind wir im Außenbereich mit urbanem Flair.\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%95-bitcoin-pizza-day-2024/",
-      "attendees": 0,
-      "nostr_note": "7e2ebe14c0ea268798d12019af42fb0a8af0c9cfbc661ecfa50845e38aecbf4d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1286,13 +1270,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "start": "2024-05-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1355",
-      "location": "Pizzeria La Taverna Lindauer Str 5 87435 KE",
-      "description": "2. Allgäuer Pizza Day\nGemeinsames Pizza Essen",
-      "link": "https://g.co/kgs/rGuVVQj",
-      "attendees": 7,
-      "nostr_note": "6f4fa3d58038cb551bf8bf4d2253730ba5c03a29363aa7782fee4a062a5558c6"
+      "start": "2024-06-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1354",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen heißt Euch die Kemptener Bitcoin Community. Lernt neue und interessante Gesprächspartner kennen. Wir freuen uns auf Euch.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 2,
+      "nostr_note": "27123b2edfdaa5fed6958b8af27dc4a5e8c93a0f25c5065db57d86a26c9e9818"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1376,15 +1360,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1348",
-      "location": "Landau",
-      "description": "Pizza essen am Pizza Day! Für alles weitere kommt in die Telegramm Gruppe oder über Twitter!",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b937d837f9e03d99c46728adb07b3eb292392fa1bdbdf9c799413a0dbf178931"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2048,7 +2024,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2024-06-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1412",
+      "location": "CraftBar Rostock",
+      "description": null,
+      "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/QRHI000g3oRHrUJZtCiV",
+      "attendees": 0,
+      "nostr_note": "f091d5135f607092a1aa1588e79385f46501f681d74ffd5c87ed943d15cff105"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2470,15 +2454,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2024-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1344",
-      "location": "Bitcoin Pizza Tag Naboo Balingen",
-      "description": "",
-      "link": "https://naboo.de/bilder",
-      "attendees": 0,
-      "nostr_note": "9cd69a70d0039d6c507204fdfc38f7acbfce76519ad557d56aa90c9ed74e7098"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2878,15 +2854,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1376",
-      "location": "🍕 ₿izzeria Al Dente",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup - Pizza Day Special Edition ₿\nAlle Plebs Herzlich Willkommen!\n\nWann: Mittwoch, 22.05.24, ab 18h\nWo: 🍕🍝 ₿izzeria Al Dente, Wiener Bundesstraße 23, 5300 Esch",
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "9bdbd045c0780d741a576b07b2f18909c9352596431960919441c22d81808db0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2940,8 +2908,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": null,
     "event": {
-      "start": "2024-05-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1277",
+      "start": "2024-06-19 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1278",
       "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
       "description": "Tisch im EG in der Ofenstube (beim Haupteingang gleich links) / siehe Webseite!",
       "link": "https://bitcoin-tirol.at/",
