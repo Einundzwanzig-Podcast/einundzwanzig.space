@@ -2152,7 +2152,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-12 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1413",
+      "location": "Rumbar",
+      "description": "Arsenalstraße 36, Altstadt, 19053 Schwerin, Germany",
+      "link": "https://www.facebook.com/rumbaunityschwerin/",
+      "attendees": 0,
+      "nostr_note": "241083c5a922fd4f52b84a1813dc2dd2642192d4f87866d66a214f608260c4fb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
