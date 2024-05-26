@@ -871,13 +871,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-05-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1031",
-      "location": "Hallerndorf bei Forchheim, Brauhaus am Kreuzberg⚡️",
-      "description": "Brauhaus am Kreuzberg\nAm Kreuzberg 1\n91352 Hallerndorf\nLightning Accepted",
-      "link": "https://maps.app.goo.gl/cEqUSHiUvkrEXQr56",
-      "attendees": 2,
-      "nostr_note": "70dece0fc70577457e9c65f5bae6ad3d6a6f861d7dd9fd1e039ac3e1d8648550"
+      "start": "2024-06-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1034",
+      "location": "Fürth, Café Zanetta",
+      "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
+      "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
+      "attendees": 0,
+      "nostr_note": "c863befb316bd2e562f381793e002534522d2f034da76c6ae0ff6064345c9cad"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1330,15 +1330,7 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
-    "event": {
-      "start": "2024-05-25 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1351",
-      "location": "Siehe Telegram-Gruppe ",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "3497ad4682722cbc897a7a580a26d6eb801a4b39480a870d4ded46652bf5f341"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
