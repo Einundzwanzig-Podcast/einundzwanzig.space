@@ -840,8 +840,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
     "twitter": "OH_Bitcoin",
     "event": {
-      "start": "2024-05-27 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1390",
+      "start": "2024-06-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1391",
       "location": "Restaurant Strandlächeln Fehmarn",
       "description": "Willkommen zu unserem Meetup jeweils Mo.  ab 18:00 Uhr. Sollten sich Zeiten ändern, werden Terminänderungen kurzfristig in der Telegrammgruppe bekannt gegeben. Wir freuen uns auf Dich!",
       "link": "https://www.google.com/maps/place/Strandl%C3%A4cheln+Fehmarn/@54.4163927,11.2400185,886m/data=!3m1!1e3!4m6!3m5!1s0x47ad7b10b173bfaf:0x98a9567e432bdc4e!8m2!3d54.4159183!4d11.2449039!16s%2Fg%2F11kj1y_gjd?entry=ttu",
@@ -2421,7 +2421,7 @@
       "location": "Wiesbaden „Das 60/40“",
       "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen? Wenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
       "link": "https://maps.app.goo.gl/fyRqi2uM7mrpMvyx9",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "346f7906345fe7f9b37d2b2f7bedef8d18808dd36ccbdd3f34166e7468df35fa"
     },
     "style": {
@@ -2642,7 +2642,15 @@
     "city": "Moers",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1418",
+      "location": "Weygoldstraße 10, 47441 Moers",
+      "description": "Die Röhre - Moers",
+      "link": "https://maps.app.goo.gl/coewtnNxi4bQF3b56",
+      "attendees": 1,
+      "nostr_note": "5f0c0e7f24b5810fe01e90d07c0dad4d3d11f6a40250254dd7abe9fe52bbd428"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
