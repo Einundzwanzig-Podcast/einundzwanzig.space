@@ -598,8 +598,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-05-29 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1207",
+      "start": "2024-06-26 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1208",
       "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
       "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
       "link": "https://kulturzentrum-lagerhaus.de/",
@@ -1939,8 +1939,16 @@
     "url": "https://t.me/EinundzwanzigRHH",
     "city": "Rhoihesse",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
-    "twitter": null,
-    "event": null,
+    "twitter": "einundzwanzigrh",
+    "event": {
+      "start": "2024-06-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1419",
+      "location": "Wird bei Telegram bekannt gegeben.",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "ea4bb66e1280c45b392574208c2098fb2c42d7fff3460a7ea467ed3ee57fb32d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2332,15 +2340,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2024-05-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1373",
-      "location": "Wittlich",
-      "description": "Meetup in der Brasserie Balthazar in Wittlich",
-      "link": "https://maps.app.goo.gl/ydYFhWx8FFVNdzpi7",
-      "attendees": 0,
-      "nostr_note": "66fa2d03b32dd3cfdbacae5ac3391aa992ed431f315cdc068f588b7c85bb8883"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2515,8 +2515,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-05-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1007",
+      "start": "2024-06-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1008",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
