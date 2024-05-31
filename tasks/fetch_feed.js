@@ -1,7 +1,7 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
 const { replacements, slugify, stripHTML, teamWithAliases, participantToId } = require('../helpers')
-const { masterFeedUrl, publicFeedUrl } = require('../content/meta.json')
+const { masterFeedUrl, publicFeedUrl, nodeId } = require('../content/meta.json')
 const teamRaw = require('../content/team.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
@@ -113,7 +113,6 @@ const parseEpisode = e => {
   const feed = parser.parse(xml)
   const episodes = []
   const _noParticipants = [], _noNode = []
-  const members = [team.dennis, team.fab, team.gigi, team.markus, team.daniel]
 
   // remove invalid tag
   delete feed.rss.channel.author
@@ -124,14 +123,14 @@ const parseEpisode = e => {
       type: 'lightning',
       method: 'keysend'
     },
-    'podcast:valueRecipient': members.map(p => ({
+    'podcast:valueRecipient': [{
       __attr: {
-        name: p.name,
+        name: 'Einundzwanzig',
         type: 'node',
-        split: Math.round(100 / members.length),
-        ...p.v4v
+        split: 100,
+        address: nodeId
       }
-    }))
+    }]
   }
 
   // episodes
