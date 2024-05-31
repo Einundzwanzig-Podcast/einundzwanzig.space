@@ -2,11 +2,7 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <podcast:value type="lightning" method="keysend">
-      <podcast:valueRecipient name="Dennis" type="node" split="20" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34"></podcast:valueRecipient>
-      <podcast:valueRecipient name="Fab" type="node" split="20" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf"></podcast:valueRecipient>
-      <podcast:valueRecipient name="Gigi" type="node" split="20" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52"></podcast:valueRecipient>
-      <podcast:valueRecipient name="Markus" type="node" split="20" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
-      <podcast:valueRecipient name="Daniel" type="node" split="20" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f"></podcast:valueRecipient>
+      <podcast:valueRecipient name="Einundzwanzig" type="node" split="100" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
     </podcast:value>
     <title><![CDATA[Einundzwanzig, der Bitcoin Podcast]]></title>
     <description><![CDATA[Toximalistisches Infotainment für bullishe Bitcoiner! 
