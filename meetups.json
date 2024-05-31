@@ -1014,8 +1014,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-05-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1397",
+      "start": "2024-06-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1398",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -2106,7 +2106,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-06-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1420",
+      "location": "Zum Wilden Michel (Bitcoin Accepted)",
+      "description": "Einundzwanzig Schwarzwald Baar - Meetup 9.0 + Quiz mit Gewinnen",
+      "link": "https://g.co/kgs/v7Tsct",
+      "attendees": 1,
+      "nostr_note": "6fe2d5662211dc6e27aaf54a98bb5046510481541a388d5227a1250fa456c714"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2401,13 +2409,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2024-05-30 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1300",
+      "start": "2024-06-27 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1411",
       "location": "Wiesbaden „Das 60/40“",
       "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen? Wenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
       "link": "https://maps.app.goo.gl/fyRqi2uM7mrpMvyx9",
-      "attendees": 3,
-      "nostr_note": "346f7906345fe7f9b37d2b2f7bedef8d18808dd36ccbdd3f34166e7468df35fa"
+      "attendees": 1,
+      "nostr_note": "358597dbd1cc9bb1eb1dbbb2c57a2ba157ba25e2aa7702eb60197971d6720618"
     },
     "style": {
       "fill": "var(--color-accent)"
