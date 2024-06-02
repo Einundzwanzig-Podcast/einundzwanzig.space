@@ -409,7 +409,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2024-06-18 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1421",
+      "location": "Alsfeld",
+      "description": "Unser nächstes Meetup findet am 18.06. ab 18:30 im Restaurant „Zum Schwalbennest“ in Alsfeld statt.\n",
+      "link": "https://hotel-schwalbennest.de/?ved=2ahUKEwinmty4ubqGAxXDcvEDHUM7H0wQgU96BAglEAQ",
+      "attendees": 1,
+      "nostr_note": "5e57194dc7e7936740d65d9b94d353b0cade3232f4622ac18484fbe252a5a9ab"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -680,15 +688,7 @@
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
-    "event": {
-      "start": "2024-06-01 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1374",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "4a8e9fadec8263416d32df5f2400300bd05c40ec8ccfac81c41c36f42f913e1a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1533,13 +1533,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-06-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/664",
+      "start": "2024-07-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/665",
       "location": "wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "d45fbcf985919965e66aeb503f21e829558d175182d6bf738030a7518c3846c5"
+      "nostr_note": "69bf5161e5f9c7e86ff1eb2ef689d08fced9196d9c3f17f5860f81e72f7371c2"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2227,7 +2227,15 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1422",
+      "location": "Ramrob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "6467b882f9c26d1ead9b2c353dc315f6ae4a9f080c882ce8150a503153c4bfd3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
