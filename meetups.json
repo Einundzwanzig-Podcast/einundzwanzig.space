@@ -2606,7 +2606,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1457",
+      "location": "Blauer Adler",
+      "description": "Bequem und autofrei mit den Straßenbahnlinien 3 und 5 zu erreichen.\nHaltestellen Judenbühlweg und Steinbachtal nur 2 Minuten zu Fuß.\nDeutsche und internationale Küche\nSnacks für den kleinen Hunger\nWechselnde Wochenkartekarte\nSelbstgebackene Kuchen\nGroßer Saal für Veranstaltungen\nGroße überdachte Terrasse im Grünen\nGroßer Parkplatz am Main",
+      "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
+      "attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
