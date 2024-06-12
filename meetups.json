@@ -845,7 +845,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "c863befb316bd2e562f381793e002534522d2f034da76c6ae0ff6064345c9cad"
     },
     "style": {
@@ -1238,7 +1238,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-07-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1465",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 2,
+      "nostr_note": "54f907842572ffeee71a353fb4ddd3ca34bdf7bf872ccd95eda6077cb83d25b8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1321,7 +1329,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-06-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1467",
+      "location": "Landau Südpark",
+      "description": "Picknick",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4452eb202a70b10405fc73826e5d49cce0e59975427b22874ca28526112325f0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2303,7 +2319,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-06-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1466",
+      "location": "Stacks",
+      "description": "Das nachste Meetup findet wieder in unserer neuen Location \"Stacks\" statt. Ihr könnt wie immer mit Bitcoin bezahlen und so eure Pizza und Burger noch mehr genießen🔥",
+      "link": "https://osm.org/go/0DTaPvnt-?m",
+      "attendees": 0,
+      "nostr_note": "53b071b81262212a92f90a5e0e10c2d42fdeabb8751dc965e7cef58918f55d62"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2777,7 +2801,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "6276b72d8fcb5228617da0dc418825c88c102a91e2c2ba4b4ad63d003a60964b"
     },
     "style": {
