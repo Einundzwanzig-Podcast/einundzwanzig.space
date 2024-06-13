@@ -198,13 +198,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-06-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1259",
+      "start": "2024-07-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1260",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "257678601820625aaae606c3d36a535558e69ffdaa4ad6cdb4cc8f4b632835ea"
+      "nostr_note": "f3a1bd8e16b1b91da93d21a870e422e1cce87d6535ef8e4413ec23149a26e988"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -251,13 +251,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-07-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1423",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
-      "link": "https://www.meetup.com/bitcoin-munich/events/299793420/",
+      "start": "2024-06-23 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1468",
+      "location": "₿☕ Vorpremiere / Buchvorstellung “Mieses Geld” — Satoshis Coffeeshop Open House, Stemmerhof",
+      "description": "**Diesmal mit der Vorpremiere / Buchvorstellung “Mieses Geld”.**\n\nEinsteiger-Bücher zu Bitcoin gibt es inzwischen viele, aber ein Roman, der dem Leser sanft einen Schubs ins Rabbit Hole gibt, ist eine Weltneuheit. Das Buch erscheint am 25.06. Uns ist es gelungen bereits zwei Tage vor dem Release eine Buchvorstellung mit Harald Betz in Satoshis Coffeeshop zu organisieren. Schau am 23. Juni vorbei und staube eins der Bücher ab mit persönlicher Signatur des Autors!\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-vorpremiere-buchvorstellung-mieses-geld-satoshis-coffeeshop-open-house/",
       "attendees": 0,
-      "nostr_note": "6e915d4cd8c76dfaf30d08396ba98ed64a3088a0072f2b0b98e32952583b0c37"
+      "nostr_note": "c744234687b9a0f3b8f5e93af5d45fca4c30e2e39f908486e481b8dad750379f"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1329,15 +1329,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-06-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1467",
-      "location": "Landau Südpark",
-      "description": "Picknick",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "4452eb202a70b10405fc73826e5d49cce0e59975427b22874ca28526112325f0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2137,15 +2129,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": {
-      "start": "2024-06-12 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1413",
-      "location": "Rumbar",
-      "description": "Arsenalstraße 36, Altstadt, 19053 Schwerin, Germany",
-      "link": "https://www.facebook.com/rumbaunityschwerin/",
-      "attendees": 0,
-      "nostr_note": "241083c5a922fd4f52b84a1813dc2dd2642192d4f87866d66a214f608260c4fb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
