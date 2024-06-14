@@ -2031,7 +2031,15 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1469",
+      "location": "Schaumbergalm, Zum Schaumbergturm 2, 66636 Tholey",
+      "description": "Endlich mal wieder Stammtisch. Kommt vorbei, wenn ihr an Bitcoin interessiert seid und euch mit Gleichgesinnten zu allen Themen rund um Bitcoin austauschen wollt.",
+      "link": "https://www.schaumberg-alm.de/",
+      "attendees": 1,
+      "nostr_note": "b3bb09e295d75508e4ca08771df5b9034bae918464f247607e4e7ab23db3e2da"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
