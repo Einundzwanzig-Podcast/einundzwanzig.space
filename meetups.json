@@ -319,13 +319,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-06-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/893",
+      "start": "2024-07-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/894",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "cfa5c038840904005d2cfabb310bfdc405fc6d352c88bcc5c6b3da60d81a4ab6"
+      "nostr_note": "32ce9e50a5129584acb4d4f0509ed3432f775a19af87bfed317f7e36181c4874"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -769,7 +769,7 @@
       "location": "Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b59907027af0df592a851f5cc1bf795edb399f690d6a35fe1b69701bad57188f"
     },
     "style": {
@@ -2560,6 +2560,21 @@
     "url": null,
     "city": "Berlin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/micro-meet-up-prager-platz",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Saarbrücken",
+    "latLng": [
+      49.234779,
+      7
+    ],
+    "url": "https://bitcoin.org",
+    "city": "Saarbrücken",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
     "twitter": null,
     "event": null,
     "style": {
