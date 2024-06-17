@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sun, 16 Jun 2024 08:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 16:23:37 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,51 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #108 – Lipa Wallet, Greenlight und LN Devkit – mit Gabriel]]></title>
+      <description><![CDATA[<p><strong>Interview #108 mit Gabriel - Blockzeit 847369</strong> - von und mit <a href="https://x.com/cercatrova_21">Cerca</a>, <a href="https://x.com/SiriusLightning">Sirius</a> und <a href="https://x.com/don_gabron">Gabriel</a></p>
+<p><br></p>
+<p><strong>Links</strong></p>
+<ul>
+ <li><p><a href="https://medium.com/@lipa_btc/the-spectrum-of-trust-for-lightning-wallets-8b8f58f2a18d">https://medium.com/@lipa_btc/the-spectrum-of-trust-for-lightning-wallets-8b8f58f2a18d</a></p>
+</li>
+ <li><p><a href="https://medium.com/@lipa_btc/navigating-lightning-innovation-lipas-journey-from-ldk-to-breez-sdk-c5ba36550000">https://medium.com/@lipa_btc/navigating-lightning-innovation-lipas-journey-from-ldk-to-breez-sdk-c5ba36550000</a></p>
+</li>
+  <li><p><a href="http://www.michaelesfeld.com/oumlffentlichkeit.html"></a><a href="https://apps.apple.com/ch/app/lipa-wallet/id1658329527">https://apps.apple.com/ch/app/lipa-wallet/id1658329527</a></p>
+</li>
+  <li><p><a href="https://lipa.swiss/telegram" target="_blank">lipa.swiss/telegram</a></p>
+</li>
+  <li><p>X: <a href="https://t.me/lipa_btc">@lipa_btc</a> </p>
+</li>
+  <li><p><a href="https://lipa.swiss/" target="_blank">lipa.swiss</a> <br></p>
+</li>
+</ul>
+<p><strong>Weitere Links</strong></p>
+<ul>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
+</li>
+  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
+</li>
+  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
+</li>
+</ul>
+<p><strong>Lass uns einen </strong><a href="https://shoutout.einundzwanzig.space/">Shoutout</a><strong> da.</strong></p>]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-interview-108-lipa-wallet-greenlight-und-ln-devkit-mit-gabriel</link>
+      <guid isPermaLink="false">39904945-727b-403f-891b-215cb3e122c0</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 16 Jun 2024 16:21:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/88012071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-14%2Fb224f2b5-017d-d2a8-cfe1-a5b59defe4b7.mp3" length="86381867" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:07:26</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1718345600882-92580f2148e73.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Cerca" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#240 - Frey Seyn]]></title>
       <description><![CDATA[<p>Episode 240 - Blockzeit 847657 - von und mit <a href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</a></p>
@@ -1042,38 +1087,7 @@ Lass uns einen Shoutout da.]]></description>
     </item>
     <item>
       <title><![CDATA[#230 - 100x long ... and it's gone.]]></title>
-      <description><![CDATA[<p><strong>Episode 230 - Blockzeit 837708</strong> - von und mit <a href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</a>, <a href="https://primal.net/p/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">PaddePadde</a>, <a href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a> und <a href="https://nostr.at/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a></p>
-<ul>
- <li><p><a href="https://x.com/LightRider5/status/1773668495592481176">LightRider & Hoss</a></p>
-</li>
- <li><p><a href="https://runcitadel.space/">Citadel Node</a></p>
-</li>
-  <li><p><a href="https://btcpay.coincharge.io/apps/3isxDK6jF6iJjFxUUbyJp3R3LTEE/pos">Tickets - Einundzwanzig Meetup Meisterschaften Turnier</a></p>
-</li>
-  <li><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdaaRkMYcPY_QRL3DeCv07SbgKJYnAIhvRNFOsJJhCj0-ErxQ/viewform">Anmeldung - Einundzwanzig Meetup Meisterschaften Turnier</a></p>
-</li>
-</ul>
-<p>Sponsoren und Freunde</p>
-<ul>
-  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
-</li>
-  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
-</li>
-  <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
-</li>
-  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
-</li>
-</ul>
-<p>Weitere Links</p>
-<ul>
-  <li><p>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
-</li>
-  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
-</li>
-  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
-</li>
-</ul>
-<p><br><strong>Lass uns einen </strong><a href="https://shoutout.einundzwanzig.space">Shoutout</a><strong> da.</strong></p>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-230-100x-long-and-its-gone]]></description>
       <link>https://einundzwanzig.space/podcast/news-230-100x-long-and-its-gone</link>
       <guid isPermaLink="false">488bf604-c451-47ce-8294-7ace212f183d</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
