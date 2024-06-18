@@ -650,7 +650,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-30 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1472",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "0670eebce53533397436be9b72391a9b0ac1631fc1f215c6f9201083be4164aa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -817,8 +825,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
     "twitter": "OH_Bitcoin",
     "event": {
-      "start": "2024-06-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1393",
+      "start": "2024-06-24 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1394",
       "location": "Restaurant Strandlächeln Fehmarn",
       "description": "Willkommen zu unserem Meetup jeweils Mo.  ab 18:00 Uhr. Sollten sich Zeiten ändern, werden Terminänderungen kurzfristig in der Telegrammgruppe bekannt gegeben. Wir freuen uns auf Dich!",
       "link": "https://www.google.com/maps/place/Strandl%C3%A4cheln+Fehmarn/@54.4163927,11.2400185,886m/data=!3m1!1e3!4m6!3m5!1s0x47ad7b10b173bfaf:0x98a9567e432bdc4e!8m2!3d54.4159183!4d11.2449039!16s%2Fg%2F11kj1y_gjd?entry=ttu",
@@ -868,7 +876,7 @@
       "location": null,
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "2d88d85b0892ebc1eda98e15037a8ea9d25a0249623988164d64b85e4d361b95"
     },
     "style": {
@@ -1186,7 +1194,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-06-23 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1473",
+      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt, Direkt am Baggersee",
+      "description": "Seehaus Ingolstadt bietet mediterrane und auch vegane Küche an. Direkt am Baggersee gelegen. Bei schönem Wetter findet im Anschluss ein Plebwalk statt.",
+      "link": "https://seehausingolstadt.de",
+      "attendees": 0,
+      "nostr_note": "e32b2dd1b36828c47105382f4fc9944c8f47c6f58e5e8dc4a8e278de7b5b8f66"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1873,8 +1889,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": null,
     "event": {
-      "start": "2024-06-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/906",
+      "start": "2024-07-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/907",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
