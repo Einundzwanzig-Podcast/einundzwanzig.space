@@ -77,6 +77,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1718646526542-912f726a40999.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #7">7</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
     </item>
     <item>
       <title><![CDATA[Good Guys With Guns]]></title>
@@ -1161,6 +1165,10 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1711481818536-593b76b9cb905.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #103">103</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
     </item>
     <item>
       <title><![CDATA[#228 - Noch geiler als Milei]]></title>
@@ -2309,6 +2317,10 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1695043759015-9c0a39cb67df5.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #6">6</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
     </item>
     <item>
       <title><![CDATA[On Tour #5 - Fair Talk Gesprächsrunde ]]></title>
@@ -2323,6 +2335,10 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1694756527443-bebc5049d0ce7.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #5">5</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
     <item>
       <title><![CDATA[#200 - Die Ruhe vor dem Turm]]></title>
@@ -2375,6 +2391,12 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1694113600733-a11e6d08c2506.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #4">4</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
     <item>
       <title><![CDATA[#199 - Good Times mit 80 IQ Plebs]]></title>
@@ -2718,6 +2740,12 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1689569214295-4e9f1b2805fbc.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="On Tour #2">2</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Loddi" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="34PPUPz9Cs23eZ5XY5Hi" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+      <podcast:person href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
     </item>
     <item>
       <title><![CDATA[#191 - Miteinander Bullish Samma!]]></title>
@@ -5082,6 +5110,12 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1652297969169-3429e2fbe56f6.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #76">76</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://btc21.de">Joko</podcast:person>
+      <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
     </item>
     <item>
       <title><![CDATA[Interview #75 - Ronnie Grob Schweizer Monat]]></title>
@@ -8923,6 +8957,10 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1606753943273-6c9753ad4fb29.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Lesestunde #06">06</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab (@fabthefoxx)" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="http://fabthefox.com">Fab</podcast:person>
     </item>
     <item>
       <title><![CDATA[#59 - Befreit die Sats!]]></title>
@@ -9018,6 +9056,10 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1604594627654-aecea0b2c3fdc.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Lesestunde #05">05</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab (@fabthefoxx)" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="http://fabthefox.com">Fab</podcast:person>
     </item>
     <item>
       <title><![CDATA[#56 - Zitadellen sind Echokammern]]></title>
