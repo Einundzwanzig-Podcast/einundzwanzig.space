@@ -105,7 +105,7 @@
       "location": "Bitcoin am Holzmarkt",
       "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
     },
     "style": {
@@ -401,15 +401,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2024-06-18 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1421",
-      "location": "Alsfeld",
-      "description": "Unser nächstes Meetup findet am 18.06. ab 18:30 im Restaurant „Zum Schwalbennest“ in Alsfeld statt.\n",
-      "link": "https://hotel-schwalbennest.de/?ved=2ahUKEwinmty4ubqGAxXDcvEDHUM7H0wQgU96BAglEAQ",
-      "attendees": 1,
-      "nostr_note": "5e57194dc7e7936740d65d9b94d353b0cade3232f4622ac18484fbe252a5a9ab"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -853,7 +845,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 11,
+      "attendees": 14,
       "nostr_note": "c863befb316bd2e562f381793e002534522d2f034da76c6ae0ff6064345c9cad"
     },
     "style": {
@@ -1911,7 +1903,15 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "start": "2024-07-07 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1474",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg",
+      "description": "Immer am ERSTEN Sonntag im Monat, trifft sich die Gruppe EINUNDZWANZIG Regensburg und tauscht sich gemütlich über das Thema Bitcoin aus. Egal ob Anfänger oder Fortgeschrittener, jeder ist herzlich willkommen.",
+      "link": "https://g.co/kgs/FtoHAzm",
+      "attendees": 4,
+      "nostr_note": "135c27149029534f1b4d574b8cb71c91d00ead0351383d6435d21efb6f85b6b4"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2153,6 +2153,21 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Seelze ₿",
+    "latLng": [
+      52.39706,
+      9.58961
+    ],
+    "url": "https://t.me/Einundzwanzig_Seelze",
+    "city": "Seelze",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-seelze",
+    "twitter": "Bittornado1",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
@@ -2824,7 +2839,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "6276b72d8fcb5228617da0dc418825c88c102a91e2c2ba4b4ad63d003a60964b"
     },
     "style": {
