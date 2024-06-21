@@ -1268,7 +1268,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "54f907842572ffeee71a353fb4ddd3ca34bdf7bf872ccd95eda6077cb83d25b8"
     },
     "style": {
@@ -2448,7 +2448,15 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": null,
+    "event": {
+      "start": "2024-06-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1476",
+      "location": "Musikbistro",
+      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)\n",
+      "link": "https://maps.app.goo.gl/S6dKGnGdfTCVn8JL8",
+      "attendees": 0,
+      "nostr_note": "e6514e08bd536dd4e8196b4dc1a3e3bb3dcf94ca4e09293c371a0160664ca2a8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
