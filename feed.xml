@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 05:47:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 01:02:13 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -101,9 +101,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <item>
       <title><![CDATA[#241 - Are we the baddies?]]></title>
       <description><![CDATA[<p>
-Episode 241 - Blockzeit 848662 - von und mit Markus, Jan-Paul und Sebastian</p>
+Episode 241 - Blockzeit 848662 - von und mit Markus, JanPaul und Sebastian</p>
 <ul>
- <li><p><a href="https://twitter.com/0xB10C/status/1803082081385246738">Foundry vs den Rest</a><a href="https://x.com/0xB10C/status/1803082081385246738">https://x.com/0xB10C/status/1803082081385246738</a></p>
+ <li><p><a href="https://twitter.com/0xB10C/status/1803082081385246738">Foundry vs den Rest</a>
+<a href="https://x.com/0xB10C/status/1803082081385246738">https://x.com/0xB10C/status/1803082081385246738</a></p>
 </li>
  <li><p><a href="https://fountain.fm/show/ZRopbw0irxT5HgbS3XYq">Bitcoin Socratic Seminar Online</a></p>
 </li>
@@ -137,7 +138,7 @@ Episode 241 - Blockzeit 848662 - von und mit Markus, Jan-Paul und Sebastian</p>
       <link>https://einundzwanzig.space/podcast/news-241-are-we-the-baddies</link>
       <guid isPermaLink="false">f6132c8c-e04f-4f97-9111-45b1fe9e0d78</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 20 Jun 2024 05:44:00 GMT</pubDate>
+      <pubDate>Thu, 20 Jun 2024 07:45:01 GMT</pubDate>
       <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/88251256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-20%2F95178915-dc0e-e469-fa37-4718347d4652.mp3" length="78837911" type="audio/mpeg"></enclosure>
       <itunes:explicit>No</itunes:explicit>
       <itunes:duration>01:22:07</itunes:duration>
@@ -145,11 +146,9 @@ Episode 241 - Blockzeit 848662 - von und mit Markus, Jan-Paul und Sebastian</p>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #241">241</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Jan-Paul" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person href="https://snort.social/p/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
     </item>
     <item>
       <title><![CDATA[On Tour #7 - btcprague 2024]]></title>
