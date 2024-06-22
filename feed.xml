@@ -88,10 +88,14 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="NostrTalk #11">11</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Actionslave" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Too Bit to Fail" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="rVstXVOghc9Jb1a1QoFz" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kid" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="AW8dkBI8U678kHq2X4qG" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Actionslave" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1pzcj8yfs3kx2thtjpz3agr2w54m52kv9a2933smqyt6n6k2ql3aq2d0wlx">Too Bit to Fail</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1v4kfwysl44e8wrhp62ma8yek3kskn4r2jmxvx5js7wqpq7dc54ls5ejwyx">Kid</podcast:person>
       <podcast:person href="https://snort.social/p/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
     </item>
     <item>
@@ -921,11 +925,13 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="NostrTalk #09">09</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="1M1LbWGzwPE2qViFPG34" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Too Bit to Fail" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="rVstXVOghc9Jb1a1QoFz" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://snort.social/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1pzcj8yfs3kx2thtjpz3agr2w54m52kv9a2933smqyt6n6k2ql3aq2d0wlx">Too Bit to Fail</podcast:person>
     </item>
     <item>
       <title><![CDATA[#233 - Stacking until midnight]]></title>
@@ -4747,11 +4753,13 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #142">142</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kid" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="AW8dkBI8U678kHq2X4qG" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person href="https://btc21.de">Joko</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1v4kfwysl44e8wrhp62ma8yek3kskn4r2jmxvx5js7wqpq7dc54ls5ejwyx">Kid</podcast:person>
     </item>
     <item>
       <title><![CDATA[Der Weg #54 - Bitcoin ist Magie]]></title>
