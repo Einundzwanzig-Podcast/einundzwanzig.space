@@ -840,13 +840,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-06-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1034",
-      "location": "Fürth, Café Zanetta",
-      "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
-      "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 14,
-      "nostr_note": "c863befb316bd2e562f381793e002534522d2f034da76c6ae0ff6064345c9cad"
+      "start": "2024-07-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1027",
+      "location": "Bamberg, Café MIEZ ⚡️",
+      "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
+      "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
+      "attendees": 1,
+      "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1073,15 +1073,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2024-06-22 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1470",
-      "location": "Heilbronx",
-      "description": "Mahlzeit HN BTC Gemeinde, wir treffen uns am 22.06 ab 17 Uhr mal wieder im Da Lisas (https://maps.app.goo.gl/HV5ZPJngdJPR2Ysa8…) \nzum nächsten 21 BTC Meetup HN. Um rege Beteiligung wird gebeten.",
-      "link": "https://x.com/EinundzwanzigHN/status/1801505998902853790",
-      "attendees": 1,
-      "nostr_note": "364fd200cbd330f612582162db1ad9416385aa04ac9628bd6500a9118847d300"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1571,7 +1563,15 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1478",
+      "location": "Weseler Wirtshaus",
+      "description": "Berliner-Tor-Platz 4, 46483 Wesel, ab 18 Uhr, Reserviert auf Niederrheineinundzwanzig",
+      "link": "https://maps.app.goo.gl/6jvBFdVsmpxPZfFw9",
+      "attendees": 1,
+      "nostr_note": "b7771f730608ba5f0739c53edffaf60dcbcea61b191b4593643a34cc33dcb883"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2020,8 +2020,8 @@
     "event": {
       "start": "2024-07-21 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1416",
-      "location": "steht noch nicht fest",
-      "description": null,
+      "location": "Kurt Dunkelmann Str. 2,Rostock, 18057",
+      "description": "Am 21.07.24 ab 15 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt.\nWer Lust und Zeit hat, ist herzlich eingeladen. Bei Kaffee und Kuchen verbringen wir diesmal den Sonntag zusammen und stellen unter anderem das Projekt \"Bitcoin meets Google und Co\" vor. Das wir mit Sicherheit interessant. Wir freuen uns auf jeden der kommt! Der Link kann gerne weitergegeben werden.",
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
       "attendees": 0,
       "nostr_note": "cd3a12caebd5b5b348901caf24e1a84b033e24348b97d58ecb955e27a645b09d"
@@ -2606,7 +2606,7 @@
     "url": "",
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
-    "twitter": "bitcoinsb_sb",
+    "twitter": "bitcoinsbsb",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -2917,13 +2917,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-06-22 12:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1227",
+      "start": "2024-07-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1228",
       "location": "Passau oder Schärding",
-      "description": "32. Meetup der Passauer und Schärdinger Plebs - Diesmal Veranstalten wir einen Familien Nachmittag mit Kindern. Kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten ",
+      "description": "33. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "4aee1ecd8b7ecfe3a561ecbe8f98320290ef8cd6cc67db122a6829b8d336829f"
+      "nostr_note": "979b133ae45425617a116597afd998c6c5e8a9d2845b20618cb25f141e3e462b"
     },
     "style": {
       "fill": "var(--color-accent)"
