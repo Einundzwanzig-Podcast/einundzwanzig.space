@@ -235,7 +235,15 @@
     "city": "Waldenrath",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-06-26 16:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1479",
+      "location": "NRW / Heinsberg / Waldenrath",
+      "description": null,
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "d186d59a58391ae753244657e58b3699b364ce8c52953aada24a4a146d2e02bb"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -251,13 +259,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-06-23 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1468",
-      "location": "₿☕ Vorpremiere / Buchvorstellung “Mieses Geld” — Satoshis Coffeeshop Open House, Stemmerhof",
-      "description": "**Diesmal mit der Vorpremiere / Buchvorstellung “Mieses Geld”.**\n\nEinsteiger-Bücher zu Bitcoin gibt es inzwischen viele, aber ein Roman, der dem Leser sanft einen Schubs ins Rabbit Hole gibt, ist eine Weltneuheit. Das Buch erscheint am 25.06. Uns ist es gelungen bereits zwei Tage vor dem Release eine Buchvorstellung mit Harald Betz in Satoshis Coffeeshop zu organisieren. Schau am 23. Juni vorbei und staube eins der Bücher ab mit persönlicher Signatur des Autors!\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-vorpremiere-buchvorstellung-mieses-geld-satoshis-coffeeshop-open-house/",
+      "start": "2024-07-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1423",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
+      "link": "https://www.meetup.com/bitcoin-munich/events/299793420/",
       "attendees": 0,
-      "nostr_note": "c744234687b9a0f3b8f5e93af5d45fca4c30e2e39f908486e481b8dad750379f"
+      "nostr_note": "6e915d4cd8c76dfaf30d08396ba98ed64a3088a0072f2b0b98e32952583b0c37"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1178,15 +1186,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2024-06-23 09:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1473",
-      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt, Direkt am Baggersee",
-      "description": "Seehaus Ingolstadt bietet mediterrane und auch vegane Küche an. Direkt am Baggersee gelegen. Bei schönem Wetter findet im Anschluss ein Plebwalk statt.",
-      "link": "https://seehausingolstadt.de",
-      "attendees": 0,
-      "nostr_note": "e32b2dd1b36828c47105382f4fc9944c8f47c6f58e5e8dc4a8e278de7b5b8f66"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1569,7 +1569,7 @@
       "location": "Weseler Wirtshaus",
       "description": "Berliner-Tor-Platz 4, 46483 Wesel, ab 18 Uhr, Reserviert auf Niederrheineinundzwanzig",
       "link": "https://maps.app.goo.gl/6jvBFdVsmpxPZfFw9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "b7771f730608ba5f0739c53edffaf60dcbcea61b191b4593643a34cc33dcb883"
     },
     "style": {
@@ -2622,15 +2622,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/satoshis-coffeeshop",
     "twitter": "btclighthouse",
-    "event": {
-      "start": "2024-06-23 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1471",
-      "location": "Stemmerhof Studios, Plinganserstr 6, 81369 München",
-      "description": "VORPREMIERE BUCHVORSTELLUNG „MIESES GELD“\nEinsteiger-Bücher zu Bitcoin gibt es inzwischen viele, aber ein Roman, der dem Leser sanft einen Schubs ins Rabbit Hole gibt, ist eine Weltneuheit. Das Buch erscheint am 25.06. uns ist es gelungen bereits zwei Tage vor dem Release eine Buchvorstellung mit Harald Betz in Satoshis Coffeeshop zu organisieren. Schau am 23. Juni vorbei und staube eins der Bücher ab mit persönlicher Signatur des Autors!\n\nZum Buch\nDas Geld wie wir es kennen gibt es bald nicht mehr. Der programmierbare E-Euro steht kurz vor der Einführung.\n\nMarc Kröger beschäftigt sich intensiv mit der Geldtheorie. Bald erkennt er, die Menschen werden betrogen und Krisen vertuscht. Deshalb gründet Marc die Bitcoin-Bewegung. Gleichzeitig erhält ausgerechnet die machthungrige Hedgefonds-Managerin Katharina Heinicke den offiziellen Auftrag, den programmierbaren E-Euro einzuführen. Schnell zeigt das digitale Geld seine dunkle Seite. In Verbindung mit einem Sozialkreditsystem entsteht eine radikale Diktatur mit grausamen Konsequenzen. Denunziation und soziale Unruhen greifen um sich. Als die Gruppe um Marc gegen den digitalen Euro vorgeht, gerät sie ins Visier der Mächtigen.\n\nDie Autoren\n\nHarald Betz ist verheiratet und wohnt mit seiner Familie im Süden von München. Nach seiner Ausbildung zum Bankkaufmann arbeitete er zunächst in der Vermögensberatung einer Sparkasse. Im Jahr 2001 wechselte er in den Bereich der Softwareentwicklung für Bank-IT. Heute ist er freiberuflicher Berater für Banken und deren Rechenzentren. In ihrem gemeinsam mit seiner Frau geschriebenen Debütroman „Mieses Geld“ bringen sie somit dreißig Jahre Erfahrung aus der Finanzwelt ein.\n\n21丰\nBezahlung vor Ort",
-      "link": "https://bitcoinlighthouse.de/event/buchvorstellung-mieses-geld/",
-      "attendees": 0,
-      "nostr_note": "92dff5fff0fba2462a5578fcc5e0b574b94dee320e38f5a5e27001f5cc2f34cc"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
