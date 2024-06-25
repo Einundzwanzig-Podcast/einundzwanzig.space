@@ -824,15 +824,7 @@
     "city": "Fehmarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
     "twitter": "OH_Bitcoin",
-    "event": {
-      "start": "2024-06-24 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1394",
-      "location": "Restaurant Strandlächeln Fehmarn",
-      "description": "Willkommen zu unserem Meetup jeweils Mo.  ab 18:00 Uhr. Sollten sich Zeiten ändern, werden Terminänderungen kurzfristig in der Telegrammgruppe bekannt gegeben. Wir freuen uns auf Dich!",
-      "link": "https://www.google.com/maps/place/Strandl%C3%A4cheln+Fehmarn/@54.4163927,11.2400185,886m/data=!3m1!1e3!4m6!3m5!1s0x47ad7b10b173bfaf:0x98a9567e432bdc4e!8m2!3d54.4159183!4d11.2449039!16s%2Fg%2F11kj1y_gjd?entry=ttu",
-      "attendees": 0,
-      "nostr_note": "143d9c41aafcd7da31551dcdcc97cd4f89f97abd5d7929f679fe28ef194db932"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1569,7 +1561,7 @@
       "location": "Weseler Wirtshaus",
       "description": "Berliner-Tor-Platz 4, 46483 Wesel, ab 18 Uhr, Reserviert auf Niederrheineinundzwanzig",
       "link": "https://maps.app.goo.gl/6jvBFdVsmpxPZfFw9",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "b7771f730608ba5f0739c53edffaf60dcbcea61b191b4593643a34cc33dcb883"
     },
     "style": {
@@ -1993,6 +1985,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Rinteln",
+    "latLng": [
+      52.187832,
+      9.08019
+    ],
+    "url": "https://t.me/+za9v2iLvQvxmNTAy",
+    "city": "Rinteln",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Rosenheim",
     "latLng": [
       47.8539273,
@@ -2040,7 +2047,15 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "start": "2024-06-29 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1481",
+      "location": "Kartoffel-Schnitzel-Pizzahaus Saarlouis",
+      "description": "Wir treffen uns wie immer im Kartoffel-Schnitzel-Pizzahaus in Saarlouis ab 18 Uhr",
+      "link": "https://www.schnitzelhaus-sls.de/",
+      "attendees": 2,
+      "nostr_note": "13d4ca5edd3701d2f407f6fa376d676badbfb82378a57adae1ca5efc8bc44f00"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2432,15 +2447,7 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": {
-      "start": "2024-06-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1476",
-      "location": "Musikbistro",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)\n",
-      "link": "https://maps.app.goo.gl/S6dKGnGdfTCVn8JL8",
-      "attendees": 0,
-      "nostr_note": "e6514e08bd536dd4e8196b4dc1a3e3bb3dcf94ca4e09293c371a0160664ca2a8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2607,7 +2614,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2024-07-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1480",
+      "location": "Bar Celona Saabrücken",
+      "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.",
+      "link": "https://duckduckgo.com/?t=ffab&q=bar+celona+saarbr%C3%BCcken&iaxm=maps&source=places",
+      "attendees": 0,
+      "nostr_note": "fb793c043dd0f8596c4e9d84cc8e8718e3e8e06c783a6c3f2300c8cc3203b469"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
