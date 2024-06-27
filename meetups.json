@@ -235,15 +235,7 @@
     "city": "Waldenrath",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-06-26 16:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1479",
-      "location": "NRW / Heinsberg / Waldenrath",
-      "description": null,
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 0,
-      "nostr_note": "d186d59a58391ae753244657e58b3699b364ce8c52953aada24a4a146d2e02bb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -598,8 +590,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-06-26 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1208",
+      "start": "2024-07-31 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1209",
       "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
       "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
       "link": "https://kulturzentrum-lagerhaus.de/",
@@ -1329,7 +1321,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-07-11 15:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1482",
+      "location": "Picknick am LGS Gelände Landau",
+      "description": "Für weitere Details kommt in die Telegramm Gruppe",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "f8bf0b1458d01180d766e24d706f55bb1d4907eeb1b818f9f3d4ff9a639a7c27"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1561,7 +1561,7 @@
       "location": "Weseler Wirtshaus",
       "description": "Berliner-Tor-Platz 4, 46483 Wesel, ab 18 Uhr, Reserviert auf Niederrheineinundzwanzig",
       "link": "https://maps.app.goo.gl/6jvBFdVsmpxPZfFw9",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "b7771f730608ba5f0739c53edffaf60dcbcea61b191b4593643a34cc33dcb883"
     },
     "style": {
@@ -2577,8 +2577,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-06-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1008",
+      "start": "2024-07-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1009",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
