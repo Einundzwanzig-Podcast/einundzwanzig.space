@@ -84,7 +84,15 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": null,
+    "event": {
+      "start": "2024-07-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1483",
+      "location": "aja Hotel Lounge, Lübeck -Travemünde",
+      "description": "- ab 18 Uhr Meetup\n- ab 20 Uhr X-Space 21Stammtisch LIVE vor Ort",
+      "link": "https://meetup.bitcoinbeachtravemuende.de",
+      "attendees": 0,
+      "nostr_note": "a6e23987f90255fe13ca253eefd924485fdc0946ff2228d0ee4fe61b2c2b38e1"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1555,15 +1563,7 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": {
-      "start": "2024-06-28 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1478",
-      "location": "Weseler Wirtshaus",
-      "description": "Berliner-Tor-Platz 4, 46483 Wesel, ab 18 Uhr, Reserviert auf Niederrheineinundzwanzig",
-      "link": "https://maps.app.goo.gl/6jvBFdVsmpxPZfFw9",
-      "attendees": 6,
-      "nostr_note": "b7771f730608ba5f0739c53edffaf60dcbcea61b191b4593643a34cc33dcb883"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1956,15 +1956,7 @@
     "city": "Rhoihesse",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": "einundzwanzigrh",
-    "event": {
-      "start": "2024-06-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1419",
-      "location": "Wird bei Telegram bekannt gegeben.",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "ea4bb66e1280c45b392574208c2098fb2c42d7fff3460a7ea467ed3ee57fb32d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2070,15 +2062,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2024-06-28 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1469",
-      "location": "Schaumbergalm, Zum Schaumbergturm 2, 66636 Tholey",
-      "description": "Endlich mal wieder Stammtisch. Kommt vorbei, wenn ihr an Bitcoin interessiert seid und euch mit Gleichgesinnten zu allen Themen rund um Bitcoin austauschen wollt.",
-      "link": "https://www.schaumberg-alm.de/",
-      "attendees": 1,
-      "nostr_note": "b3bb09e295d75508e4ca08771df5b9034bae918464f247607e4e7ab23db3e2da"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
