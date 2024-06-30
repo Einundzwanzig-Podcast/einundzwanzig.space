@@ -2039,15 +2039,7 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": {
-      "start": "2024-06-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1481",
-      "location": "Kartoffel-Schnitzel-Pizzahaus Saarlouis",
-      "description": "Wir treffen uns wie immer im Kartoffel-Schnitzel-Pizzahaus in Saarlouis ab 18 Uhr",
-      "link": "https://www.schnitzelhaus-sls.de/",
-      "attendees": 3,
-      "nostr_note": "13d4ca5edd3701d2f407f6fa376d676badbfb82378a57adae1ca5efc8bc44f00"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
