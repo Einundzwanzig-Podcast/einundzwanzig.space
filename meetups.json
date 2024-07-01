@@ -650,15 +650,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-06-30 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1472",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
-      "nostr_note": "0670eebce53533397436be9b72391a9b0ac1631fc1f215c6f9201083be4164aa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1244,7 +1236,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "54f907842572ffeee71a353fb4ddd3ca34bdf7bf872ccd95eda6077cb83d25b8"
     },
     "style": {
@@ -2482,6 +2474,21 @@
     }
   },
   {
+    "name": "Einunszwanzig Schweden",
+    "latLng": [
+      59.875819,
+      14.994672
+    ],
+    "url": "https://t.me/+Vf7BMAYJ6IZiOTBi",
+    "city": "Kopparberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einunszwanzig-schweden",
+    "twitter": "alumutze",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Flensburg",
     "latLng": [
       54.792313,
@@ -2588,7 +2595,7 @@
       "location": "Bar Celona Saabrücken",
       "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.",
       "link": "https://duckduckgo.com/?t=ffab&q=bar+celona+saarbr%C3%BCcken&iaxm=maps&source=places",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fb793c043dd0f8596c4e9d84cc8e8718e3e8e06c783a6c3f2300c8cc3203b469"
     },
     "style": {
