@@ -711,11 +711,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dortmund",
     "twitter": null,
     "event": {
-      "start": "2024-07-01 17:00:00",
+      "start": "2024-07-03 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/724",
-      "location": "Glorious Café, Kleppingstraße 2, Dortmund",
-      "description": "Willkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr im Glorious Café.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
-      "link": "https://maps.app.goo.gl/rt6cFgcKLpVoMB7GA",
+      "location": "Rombergpark, Baumdenkmal Subfossiler Eichenstamm, Dortmund",
+      "description": "!Bei Regen treffen wir uns im Extrablatt bei der Reinoldikirche!\nWillkommen beim Einundzwanzig Meetup Dortmund! Wir treffen uns jeden ersten Montag im Monat um 19 Uhr.\nMit meist zwischen 5 bis über 20 Leuten tauschen wir uns in schöner Location über Bitcoin und das Leben aus. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Für weitere Infos gerne in der Telegramgruppe vorbeischauen.",
+      "link": "https://maps.google.com/?cid=5577635706711574215&entry=gps",
       "attendees": 1,
       "nostr_note": "2da0ef34fd7e576c0d4166585243dfa9c22c506f9faf19d5ab550425f6480eb0"
     },
@@ -769,7 +769,7 @@
       "location": "Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "b59907027af0df592a851f5cc1bf795edb399f690d6a35fe1b69701bad57188f"
     },
     "style": {
@@ -816,7 +816,15 @@
     "city": "Fehmarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fehmarn",
     "twitter": "OH_Bitcoin",
-    "event": null,
+    "event": {
+      "start": "2024-07-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1485",
+      "location": "Restaurant Strandlächeln mit der Adr: Zum Meeresstrand 100, 23769 Fehmarn",
+      "description": null,
+      "link": "https://www.google.de/maps/place/Strandl%C3%A4cheln+Fehmarn/@54.4687618,11.0862678,11.44z/data=!4m6!3m5!1s0x47ad7b10b173bfaf:0x98a9567e432bdc4e!8m2!3d54.4159183!4d11.2449039!16s%2Fg%2F11kj1y_gjd?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "38e916a3f4508b292814ecd56321340d7928b479f1440421855169a0f2cd2f47"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1236,7 +1244,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "54f907842572ffeee71a353fb4ddd3ca34bdf7bf872ccd95eda6077cb83d25b8"
     },
     "style": {
@@ -1913,9 +1921,9 @@
     "event": {
       "start": "2024-07-05 16:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1141",
-      "location": null,
+      "location": "trattoria toscana Rommelshausen ",
       "description": null,
-      "link": null,
+      "link": "https://trattoriatoscanahh.eatbu.com/?ved=2ahUKEwjjjcaVi4aHAxX5VvEDHZk2DMMQgU96BAgnEAQ&lang=de",
       "attendees": 1,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
@@ -2136,7 +2144,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-07-17 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1489",
+      "location": "Rumbar ",
+      "description": "AdresseArsenalstraße 36, Altstadt, 19053 Schwerin, Germany",
+      "link": "https://bars-in-der-nahe.de/schwerin/bars/18178-rumbar-unity.html",
+      "attendees": 1,
+      "nostr_note": "1a8cca74e95ad6fe45c35143ff92fa49dcd01f7e6f7f5126c4cc8568c72dae8f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2592,7 +2608,7 @@
     "event": {
       "start": "2024-07-18 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1480",
-      "location": "Bar Celona Saabrücken",
+      "location": "Bar Celona Saarbrücken",
       "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.",
       "link": "https://duckduckgo.com/?t=ffab&q=bar+celona+saarbr%C3%BCcken&iaxm=maps&source=places",
       "attendees": 1,
@@ -2831,12 +2847,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2024-07-20 13:00:00",
+      "start": "2024-07-20 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1106",
-      "location": "Breitenbrunn? - siehe Telegramgruppe",
-      "description": "Einundzwanzig Nordburgenland Sommerfest\nGesundes Geld, gesunde Welt",
-      "link": null,
-      "attendees": 0,
+      "location": "WestCoastKiters Breitenbrunn",
+      "description": "Einundzwanzig Nordburgenland Sommerfest\n\nHi,\nam 20.07. ab 16:00 Uhr findet das zweite Einundzwanzig-Nordburgenland-Familien-Bitcoin-Sommerfest statt.\nSteak, Garnelen und Beilagen werden (Anmeldung vorausgesetzt) vorab besorgt. Griller steht bereit und wird von Ronny von WestCoastKiters bedient und Getränke in der Kiteschule zur Verfügung gestellt. Lightning-Bezahlung möglich und bevorzugt.\nParken ab 18:00 Uhr gratis, davor kostenpflichtig, Strandbadeintritt gratis.\nWir freuen uns auf zahlreiches Erscheinen!\n🍻\n\nGesundes Geld, bessere Welt",
+      "link": "https://maps.app.goo.gl/YTaUawMN7A7MoNb26?g_st=ic",
+      "attendees": 7,
       "nostr_note": "685ee6b474b220d21f8408ba2f024335a4922bc62813a8f1c7da73357587f518"
     },
     "style": {
@@ -3147,15 +3163,7 @@
     "city": "Berneroberland",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-alps",
     "twitter": "bitcoin_alps",
-    "event": {
-      "start": "2024-07-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/646",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "3ad905091f4e074e42fa681c169afec29a099049a0e0138f8d0d981eb2f17cf9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
