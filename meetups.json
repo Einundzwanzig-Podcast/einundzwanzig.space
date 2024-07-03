@@ -1178,7 +1178,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-07-21 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1495",
+      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
+      "description": "Das Seehaus Ingolstadt bietet mediterrane und vegane Speisen an. Liegt direkt am Baggersee und Parkplätze sind vor dem Haus vorhanden. Bei schönem Wetter findet im Anschluss ein Plebwalk statt.",
+      "link": "http://www.seehausingolstadt.de/",
+      "attendees": 0,
+      "nostr_note": "13c3f05e2579e6cc6ccadb54ed2dd958c42ddfd011f83be81b1d46790940b7d0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1919,12 +1927,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-07-05 16:20:00",
+      "start": "2024-07-12 16:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1141",
       "location": "trattoria toscana Rommelshausen ",
       "description": null,
       "link": "https://trattoriatoscanahh.eatbu.com/?ved=2ahUKEwjjjcaVi4aHAxX5VvEDHZk2DMMQgU96BAgnEAQ&lang=de",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2446,7 +2454,15 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-07-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1490",
+      "location": "Wiesbaden",
+      "description": "Du bist interessiert am Thema Bitcoin?\nBist schon länger dabei?\nBist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt?\nBist noch nicht lange dabei und hast Fragen?\nBist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen?\n\nWenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
+      "link": "https://www.das6040.de/",
+      "attendees": 0,
+      "nostr_note": "a92df33328da0a8d5dadb85546695848eb66b73d5920f960791fc8b2f8a6a385"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2831,7 +2847,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2024-07-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1491",
+      "location": "Cafe Froschberg",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "12034f486ba4d5a1cd6cfd87074008e54875e6bdf450b1667a4287830a1fc5ad"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2850,9 +2874,9 @@
       "start": "2024-07-20 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1106",
       "location": "WestCoastKiters Breitenbrunn",
-      "description": "Einundzwanzig Nordburgenland Sommerfest\n\nHi,\nam 20.07. ab 16:00 Uhr findet das zweite Einundzwanzig-Nordburgenland-Familien-Bitcoin-Sommerfest statt.\nSteak, Garnelen und Beilagen werden (Anmeldung vorausgesetzt) vorab besorgt. Griller steht bereit und wird von Ronny von WestCoastKiters bedient und Getränke in der Kiteschule zur Verfügung gestellt. Lightning-Bezahlung möglich und bevorzugt.\nParken ab 18:00 Uhr gratis, davor kostenpflichtig, Strandbadeintritt gratis.\nWir freuen uns auf zahlreiches Erscheinen!\n🍻\n\nGesundes Geld, bessere Welt",
+      "description": "Einundzwanzig Nordburgenland Sommerfest\n\nHi,\nam 20.07. ab 16:00 Uhr findet das zweite Einundzwanzig-Nordburgenland-Familien-Bitcoin-Sommerfest statt.\nSteak, Garnelen und Beilagen werden (Anmeldung vorausgesetzt) vorab besorgt. Griller steht bereit und wird von Ronny von WestCoastKiters bedient und Getränke in der Kiteschule zur Verfügung gestellt. Lightning-Bezahlung möglich und bevorzugt.\nParken ab 18:00 Uhr gratis, davor kostenpflichtig, Rad & Zug immer gratis, Strandbadeintritt gratis.\nWir freuen uns auf zahlreiches Erscheinen!\n🍻\n\nGesundes Geld, bessere Welt",
       "link": "https://maps.app.goo.gl/YTaUawMN7A7MoNb26?g_st=ic",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "685ee6b474b220d21f8408ba2f024335a4922bc62813a8f1c7da73357587f518"
     },
     "style": {
