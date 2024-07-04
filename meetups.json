@@ -108,13 +108,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-07-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/977",
-      "location": "Berlin",
-      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "start": "2024-07-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/965",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
+      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -537,8 +537,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2024-07-04 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/932",
+      "start": "2024-08-01 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/933",
       "location": "Bonn",
       "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
       "link": null,
@@ -612,7 +612,15 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-07-10 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1498",
+      "location": "Bier-Akademie Celle",
+      "description": "Bei gutem Wetter draußen im Biergarten.\n\nParken auf dem Schützenplatz, Fußweg ca 5 Minuten.",
+      "link": "https://www.bierakademie-celle.de/",
+      "attendees": 1,
+      "nostr_note": "33a0ae47d19073af6e333bce61ef9d685f14593d8191e5eb7d7774fa1a0bf53b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -822,7 +830,7 @@
       "location": "Bamberg, Café MIEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
@@ -1742,7 +1750,7 @@
       "location": "Altlandsberg, Zur Mühle",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen. ",
       "link": "https://maps.app.goo.gl/kCqxnXSpVCvK1Q1W7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "0d5698bfb0eedb8de9fbb6a6ebedf9a23520cbe621a266cc871a331fc9ebc105"
     },
     "style": {
@@ -2961,7 +2969,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-07-11 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1499",
+      "location": "P77, Plüddemanngasse 77, 8010 Graz",
+      "description": "Bitcoin-Stammtisch im P77 - Neuling sind immer willkommen! \n\nDiesmal mit einem \"Lightning-Vortrag\" über das Thema \"Nostr\" - ein Blitzvortrag, der max. 15 Minuten dauert, dazu Eindrücke von der letzten Bitcoin-Konferenz in Prag. Kommt vorbei!\n\nIm P77 kann mit wie immer mit Bitcoin-Lightning bezahlt werden.",
+      "link": "https://www.facebook.com/p/P77-CafeBar-100039128601058/",
+      "attendees": 1,
+      "nostr_note": "5229f644bcf656f11c8cc6db106ff78ee6ba621b80ff9f038d4839d653db2dbd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
