@@ -236,14 +236,22 @@
   {
     "name": "Bitcoin München",
     "latLng": [
-      48.163132,
-      11.58739
+      48.17944,
+      11.60402
     ],
     "url": "https://t.me/joinchat/CYllaksSLloRHorac85fIQ",
-    "city": "München (80802)",
+    "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2024-07-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1501",
+      "location": "₿☕ Satoshis Coffeeshop Open House",
+      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 18 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n**Highlight des Abends: Couchtalk mit Barbara**\n\nBarbara ist nicht nur eine liebevolle Ehefrau und Mutter von zwei wunderbaren Kindern, sondern auch eine überzeugte Bitcoinerin. In unserem Couchtalk wird sie uns Einblicke in ihr Leben und ihre Reise in die Welt von Bitcoin geben. Wie bringt man Familie und Bitcoin unter einen Hut? Welche Herausforderungen und Freuden hat sie auf ihrem Weg erlebt? Barbara wird ihre persönlichen Geschichten und Erfahrungen mit uns teilen und steht für Fragen und Diskussionen bereit.\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-satoshis-coffeeshop-open-house-5/",
+      "attendees": 0,
+      "nostr_note": "7f20d8cd6049223951d7db72899d8202fa883c76ef205e8e1c1e6a086f3c37e1"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -830,7 +838,7 @@
       "location": "Bamberg, Café MIEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
@@ -1526,13 +1534,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-07-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/665",
+      "start": "2024-08-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/666",
       "location": "wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "69bf5161e5f9c7e86ff1eb2ef689d08fced9196d9c3f17f5860f81e72f7371c2"
+      "nostr_note": "84994cca04fedb3e33c0bdcd8cb81f8275eaaf7d0926fe5cfb41f34d3fd7a825"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1909,7 +1917,7 @@
       "location": "trattoria toscana Rommelshausen ",
       "description": null,
       "link": "https://trattoriatoscanahh.eatbu.com/?ved=2ahUKEwjjjcaVi4aHAxX5VvEDHZk2DMMQgU96BAgnEAQ&lang=de",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2682,7 +2690,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1504",
+      "location": "Blauer Adler",
+      "description": "Gute Gespräche in Illustrer runde. ",
+      "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
+      "attendees": 0,
+      "nostr_note": "b133f128de0a4ce7092557751b730dbd9ffe5f17c6740bfcf09ef86f0824567c"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
