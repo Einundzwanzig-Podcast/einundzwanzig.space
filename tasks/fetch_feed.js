@@ -55,6 +55,7 @@ const parseEpisode = e => {
   if (categoryName === 'Buchclub') categoryName = 'Lesestunde'
   if (categoryName === 'reCATion') categoryName = 'Verschiedenes'
   if (categoryName === 'NostrTalk') categoryName = 'NostrTalk'
+  if (categoryName === 'FilterFrei') categoryName = 'FilterFrei'
   const lines = descriptionPlain.trim().split('\n')
   const firstLine = lines.find(l => l.match(regexBlockzeit)) || lines[0] || ''
   const blockMatch = firstLine.match(regexBlockzeit)
@@ -63,7 +64,7 @@ const parseEpisode = e => {
   const slug = slugify(`${categoryName} ${number || ''} ${titlePlain}`)
   const date = new Date(e.pubDate)
   const img = e['itunes:image'].__attr.href
-  const image = ['interview', 'lesestunde', 'on-tour', 'nostrtalk', 'verschiedenes'].includes(category)
+  const image = ['interview', 'lesestunde', 'on-tour', 'nostrtalk', 'filterfrei', 'verschiedenes'].includes(category)
     ? img
     : `/img/cover/${category}.png`
   const duration = e['itunes:duration']
