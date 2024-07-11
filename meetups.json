@@ -1322,15 +1322,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-07-11 15:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1482",
-      "location": "Picknick am LGS Gelände Landau",
-      "description": "Für weitere Details kommt in die Telegramm Gruppe",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "f8bf0b1458d01180d766e24d706f55bb1d4907eeb1b818f9f3d4ff9a639a7c27"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2243,13 +2235,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2024-07-11 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1459",
+      "start": "2024-08-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1460",
       "location": "Ramrob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "d02babfe9c9ebce6c37d8738365e415b492f245cbebe27ca1513e01b84cd20e0"
+      "nostr_note": "121098861637a1f74e7c5f9fd5fe7dd8336e4029ecad636891707b324376fbd2"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2892,7 +2884,7 @@
       "location": "WestCoastKiters Breitenbrunn",
       "description": "Einundzwanzig Nordburgenland Sommerfest\n\nHi,\nam 20.07. ab 16:00 Uhr findet das zweite Einundzwanzig-Nordburgenland-Familien-Bitcoin-Sommerfest statt.\nSteak, Garnelen und Beilagen werden (Anmeldung vorausgesetzt) vorab besorgt. Griller steht bereit und wird von Ronny von WestCoastKiters bedient und Getränke in der Kiteschule zur Verfügung gestellt. Lightning-Bezahlung möglich und bevorzugt.\nParken ab 18:00 Uhr gratis, davor kostenpflichtig, Rad & Zug immer gratis, Strandbadeintritt gratis.\nWir freuen uns auf zahlreiches Erscheinen!\n🍻\n\nGesundes Geld, bessere Welt",
       "link": "https://maps.app.goo.gl/YTaUawMN7A7MoNb26?g_st=ic",
-      "attendees": 9,
+      "attendees": 12,
       "nostr_note": "685ee6b474b220d21f8408ba2f024335a4922bc62813a8f1c7da73357587f518"
     },
     "style": {
@@ -2977,15 +2969,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-07-11 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1499",
-      "location": "P77, Plüddemanngasse 77, 8010 Graz",
-      "description": "Bitcoin-Stammtisch im P77 - Neuling sind immer willkommen! \n\nDiesmal mit einem \"Lightning-Vortrag\" über das Thema \"Nostr\" - ein Blitzvortrag, der max. 15 Minuten dauert, dazu Eindrücke von der letzten Bitcoin-Konferenz in Prag. Kommt vorbei!\n\nIm P77 kann mit wie immer mit Bitcoin-Lightning bezahlt werden.",
-      "link": "https://www.facebook.com/p/P77-CafeBar-100039128601058/",
-      "attendees": 1,
-      "nostr_note": "5229f644bcf656f11c8cc6db106ff78ee6ba621b80ff9f038d4839d653db2dbd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
