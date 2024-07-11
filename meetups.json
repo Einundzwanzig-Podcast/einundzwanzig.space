@@ -206,13 +206,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-07-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1260",
+      "start": "2024-08-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1261",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "f3a1bd8e16b1b91da93d21a870e422e1cce87d6535ef8e4413ec23149a26e988"
+      "nostr_note": "1ff6e28492d31733b7d74d7bf1948c9d52aa990c47e66bc2f8bc3d9892d4e410"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -620,15 +620,7 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": {
-      "start": "2024-07-10 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1498",
-      "location": "Bier-Akademie Celle",
-      "description": "Bei gutem Wetter draußen im Biergarten.\n\nParken auf dem Schützenplatz, Fußweg ca 5 Minuten.",
-      "link": "https://www.bierakademie-celle.de/",
-      "attendees": 1,
-      "nostr_note": "33a0ae47d19073af6e333bce61ef9d685f14593d8191e5eb7d7774fa1a0bf53b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1917,7 +1909,7 @@
       "location": "trattoria toscana Rommelshausen ",
       "description": null,
       "link": "https://trattoriatoscanahh.eatbu.com/?ved=2ahUKEwjjjcaVi4aHAxX5VvEDHZk2DMMQgU96BAgnEAQ&lang=de",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
