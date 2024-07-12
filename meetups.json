@@ -1896,12 +1896,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-07-12 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1141",
-      "location": "trattoria toscana Rommelshausen ",
+      "start": "2024-08-02 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1142",
+      "location": null,
       "description": null,
-      "link": "https://trattoriatoscanahh.eatbu.com/?ved=2ahUKEwjjjcaVi4aHAxX5VvEDHZk2DMMQgU96BAgnEAQ&lang=de",
-      "attendees": 5,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2273,12 +2273,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-07-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/694",
+      "start": "2024-08-09 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/695",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2296,8 +2296,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
     "twitter": null,
     "event": {
-      "start": "2024-07-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1088",
+      "start": "2024-08-09 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1089",
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
@@ -2469,15 +2469,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2024-07-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1497",
-      "location": "Traufganghütte Albstadt ",
-      "description": "Furchtlos und Treu ",
-      "link": "https://www.traufganghuette-brunnental.de/",
-      "attendees": 0,
-      "nostr_note": "4bff163d1e0971154a44ede44ecd24dbfa1ddbde874b8370756092777e6b4507"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2531,8 +2523,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": {
-      "start": "2024-07-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1069",
+      "start": "2024-08-09 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1070",
       "location": "Flensburg",
       "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
       "link": "",
