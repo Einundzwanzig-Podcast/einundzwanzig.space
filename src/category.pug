@@ -14,9 +14,10 @@ block main
       +categories(categoryName)
 
       h1= categoryName
-      h2 Aktuelle Episode
-      .latest
-        +episodePlayer(current)
+      if current
+        h2 Aktuelle Episode
+        .latest
+          +episodePlayer(current)
 
     if episodes.length
       section

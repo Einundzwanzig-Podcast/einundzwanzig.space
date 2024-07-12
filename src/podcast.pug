@@ -29,10 +29,11 @@ block main
         = "."
       +subscribe()
 
-    section
-      h2 Aktuelle Episode
-      .current
-        +episodePlayer(current)
+    if current
+      section
+        h2 Aktuelle Episode
+        .current
+          +episodePlayer(current)
 
     if episodes.length
       section
