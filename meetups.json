@@ -1631,7 +1631,15 @@
     "city": "Oberland (Weilheim / Bad Tölz / Murnau)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oberland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-07-20 07:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1507",
+      "location": "James-Loeb-Str.11, 82418 Murnau a.Staffelsee",
+      "description": "EINUNDZWANZIG OBERLAND ist 2 Tage lang (20.07 bis 21.07.) mit einem Infostand am Kulturknall Festival. Alle Plebs sind herzlich willkommen uns dort zu besuchen und beim orangepilling zu untersützen. Unser Stand ist in den Räumen des MakerLabs zu finden. Ihr könnt es nicht verfehlen - einfach den orangenen Bitcoin-Luftballons folgen!\nFür den Zutritt zum Festival-Gelände ist eine Eintrittskarte erforderlich. (Näheres im Link)",
+      "link": "https://www.kulturknall.de/de/",
+      "attendees": 0,
+      "nostr_note": "a5a584bd982b0925e8b4698e6ba309d14abc7f80adca9a75e662495b71dc6094"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
