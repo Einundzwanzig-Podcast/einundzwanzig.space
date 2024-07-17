@@ -635,7 +635,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-07-28 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1510",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "7a2142a73f0e531b7654dd3976a9792c5a44e6c46f4e729d01a9d6b38e1f8b12"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -838,7 +846,7 @@
       "location": "Bamberg, Café MIEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
@@ -2122,7 +2130,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-07-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1511",
+      "location": "Furtwangen / Linach",
+      "description": "Meetup Nummer 10 steht an.\nWir freuen uns auch immer sehr über neue Gesichter. Schaut gern mal rein beim Wilden Michel in Linach.",
+      "link": "https://g.co/kgs/QN33ABy",
+      "attendees": 1,
+      "nostr_note": "6f8e88e28392b9f20976c4052324ea1b9ffe0856618854b31a67de9a0f138248"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2900,7 +2916,7 @@
       "location": "WestCoastKiters Breitenbrunn",
       "description": "Einundzwanzig Nordburgenland Sommerfest\n\nHi,\nam 20.07. ab 16:00 Uhr findet das zweite Einundzwanzig-Nordburgenland-Familien-Bitcoin-Sommerfest statt.\nSteak, Garnelen und Beilagen werden (Anmeldung vorausgesetzt) vorab besorgt (15€ p.P). Griller wird von Ronny von WestCoastKiters bedient und Getränke in der Kiteschule zum Kauf zur Verfügung gestellt. Lightning-Bezahlung möglich und bevorzugt.\nParken ab 18:00 Uhr gratis, davor kostenpflichtig, Rad & Zug immer gratis, Strandbadeintritt gratis.\nWir freuen uns auf zahlreiches Erscheinen!\n🍻\n\nGesundes Geld, bessere Welt",
       "link": "https://maps.app.goo.gl/YTaUawMN7A7MoNb26?g_st=ic",
-      "attendees": 14,
+      "attendees": 15,
       "nostr_note": "685ee6b474b220d21f8408ba2f024335a4922bc62813a8f1c7da73357587f518"
     },
     "style": {
