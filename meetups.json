@@ -108,13 +108,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-07-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/965",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-08-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/978",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -846,7 +846,7 @@
       "location": "Bamberg, Café MIEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
@@ -2153,15 +2153,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": {
-      "start": "2024-07-17 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1489",
-      "location": "Rumbar ",
-      "description": "AdresseArsenalstraße 36, Altstadt, 19053 Schwerin, Germany",
-      "link": "https://bars-in-der-nahe.de/schwerin/bars/18178-rumbar-unity.html",
-      "attendees": 1,
-      "nostr_note": "1a8cca74e95ad6fe45c35143ff92fa49dcd01f7e6f7f5126c4cc8568c72dae8f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
