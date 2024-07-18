@@ -864,8 +864,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2024-07-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/827",
+      "start": "2024-08-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/828",
       "location": null,
       "description": null,
       "link": null,
@@ -2130,15 +2130,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-07-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1511",
-      "location": "Furtwangen / Linach",
-      "description": "Meetup Nummer 10 steht an.\nWir freuen uns auch immer sehr über neue Gesichter. Schaut gern mal rein beim Wilden Michel in Linach.",
-      "link": "https://g.co/kgs/QN33ABy",
-      "attendees": 1,
-      "nostr_note": "6f8e88e28392b9f20976c4052324ea1b9ffe0856618854b31a67de9a0f138248"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2153,7 +2145,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-08-20 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1512",
+      "location": "19053 Schwerin, Arsenalstraße 3",
+      "description": "Zusammen kommen, tolle Leute treffen, super Gespräche führen und eine schöne Zeit gemeinsam verbringen. Bei Cocktails oder anderen Kaltgetränken und kleinen Knabbereien.",
+      "link": "https://www.google.de/maps/place//data=!4m2!3m1!1s0x47adda1f99885a45:0xb6e52ed05fdd5c1?sa=X&ved=1t:8290&ictx=111",
+      "attendees": 1,
+      "nostr_note": "5e73e3ec9f85de46296526190395266034e9cfe41583e6eea0d3a2c03cf12032"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2302,7 +2302,7 @@
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2646,10 +2646,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
     "twitter": "bitcoinsbsb",
     "event": {
-      "start": "2024-07-18 16:00:00",
+      "start": "2024-07-25 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1480",
       "location": "Bar Celona Saarbrücken",
-      "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.",
+      "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.\n\nTermin musste leider auf Grund eines Arzttermins kurzfristig verschoben werden.",
       "link": "https://duckduckgo.com/?t=ffab&q=bar+celona+saarbr%C3%BCcken&iaxm=maps&source=places",
       "attendees": 1,
       "nostr_note": "fb793c043dd0f8596c4e9d84cc8e8718e3e8e06c783a6c3f2300c8cc3203b469"
