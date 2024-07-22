@@ -312,13 +312,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-07-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/894",
+      "start": "2024-08-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/895",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "32ce9e50a5129584acb4d4f0509ed3432f775a19af87bfed317f7e36181c4874"
+      "nostr_note": "442d18ad98c569ba6d6e8a376e3bdc039ec780a231368676f343ab71985855a7"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -846,7 +846,7 @@
       "location": "Bamberg, Café MIEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 8,
+      "attendees": 10,
       "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
     },
     "style": {
@@ -1020,6 +1020,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Hameln",
+    "latLng": [
+      52.108273,
+      9.362171
+    ],
+    "url": "https://t.me/EinundzwanzigHameln",
+    "city": "Hameln",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hameln",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Hannover ₿",
     "latLng": [
       52.375893,
@@ -1179,15 +1194,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2024-07-21 09:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1495",
-      "location": "Seehaus Ingolstadt, Mitterschütt 2, 85049 Ingolstadt",
-      "description": "Das Seehaus Ingolstadt bietet mediterrane und vegane Speisen an. Liegt direkt am Baggersee und Parkplätze sind vor dem Haus vorhanden. Bei schönem Wetter findet im Anschluss ein Plebwalk statt.",
-      "link": "http://www.seehausingolstadt.de/",
-      "attendees": 0,
-      "nostr_note": "13c3f05e2579e6cc6ccadb54ed2dd958c42ddfd011f83be81b1d46790940b7d0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2010,13 +2017,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
     "event": {
-      "start": "2024-07-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1416",
-      "location": "Kurt Dunkelmann Str. 2,Rostock, 18057",
-      "description": "Am 21.07.24 ab 15 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt.\nWer Lust und Zeit hat, ist herzlich eingeladen. Bei Kaffee und Kuchen verbringen wir diesmal den Sonntag zusammen und stellen unter anderem das Projekt \"Bitcoin meets Google und Co\" vor. Das wir mit Sicherheit interessant. Wir freuen uns auf jeden der kommt! Der Link kann gerne weitergegeben werden.",
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
+      "start": "2024-08-09 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1417",
+      "location": "Museumspark Rostock GmbH Schifffahrtsmuseum Rostock Schmarl-Dorf 40 18106 Rostock",
+      "description": "Bitcoin meets HanseSail 2024\nWir verbringen einen schönen Tag auf Deutschlands größtem schwimmenden Museum!",
+      "link": "https://www.bitcoin-hansesail.de/",
       "attendees": 0,
-      "nostr_note": "cd3a12caebd5b5b348901caf24e1a84b033e24348b97d58ecb955e27a645b09d"
+      "nostr_note": "ccc7aca4516b8a99b5631837b5e74b3892fa2a4179d240e4106ae95666f19828"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2756,6 +2763,21 @@
     }
   },
   {
+    "name": "EINUNDZWANZIG Meetup Wieselburg",
+    "latLng": [
+      48.13062,
+      15.13862
+    ],
+    "url": "https://t.me/einundzwanzigwieselburg",
+    "city": "Wieselburg an der Erlauf",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-meetup-wieselburg",
+    "twitter": "BTCwieselburg",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Einundzwanzig Amstetten",
     "latLng": [
       48.123341,
@@ -3016,8 +3038,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-07-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1187",
+      "start": "2024-08-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1188",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
