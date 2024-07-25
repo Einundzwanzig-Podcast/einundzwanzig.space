@@ -244,13 +244,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-07-24 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1502",
-      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #2",
-      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%9a%92%ef%b8%8f-deutsches-bitcoin-online-socratic-seminar-2/",
+      "start": "2024-07-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1519",
+      "location": "₿☕ Couchtalk mit derHelper — Satoshis Coffeeshop Open House",
+      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 18 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n**Diesmal: Couchtalk mit derHelper**\n\nderHelper ist nicht nur ein erfahrener Bitcoiner, sondern auch eine inspirierende Persönlichkeit in der Bitcoin-Community. In unserem Couchtalk wird er uns Einblicke in sein Leben und seine Reise in die Welt von Bitcoin geben. Wie haben seine ersten Erfahrungen mit Bitcoin ihn verändert? Welche Herausforderungen und Freuden hat er auf seinem Weg erlebt? derHelper wird seine persönlichen Geschichten und Erfahrungen mit uns teilen und steht für Fragen und Diskussionen bereit. Außerdem werden wir mehr über aktuelle Entwicklungen im Bitcoin-Space erfahren.\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-couchtalk-mit-derhelper-satoshis-coffeeshop-open-house/",
       "attendees": 0,
-      "nostr_note": "ebc8c6681fbd189197aea331fca3db6c776ea0d3ad2508c471adac8a715e9f6e"
+      "nostr_note": "85e610bbd27de51433c051b9b77f20a2f1e61c2d032b608a65a90401e36b7233"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -2607,8 +2607,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-07-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1009",
+      "start": "2024-08-24 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1010",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
@@ -2645,10 +2645,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
     "twitter": "bitcoinsbsb",
     "event": {
-      "start": "2024-07-25 16:00:00",
+      "start": "2024-08-13 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1480",
       "location": "Bar Celona Saarbrücken",
-      "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.\n\nTermin musste leider auf Grund eines Arzttermins kurzfristig verschoben werden.",
+      "description": "Das erste über einundzwanzig organisierte Treffen, freue mich auf einen Neuanfang mit hoffentlich vielen netten Leuten.",
       "link": "https://duckduckgo.com/?t=ffab&q=bar+celona+saarbr%C3%BCcken&iaxm=maps&source=places",
       "attendees": 1,
       "nostr_note": "fb793c043dd0f8596c4e9d84cc8e8718e3e8e06c783a6c3f2300c8cc3203b469"
@@ -2749,6 +2749,21 @@
     "url": "https://t.me/einundzwanzigMoers",
     "city": "Moers",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "~ Bitcoin Magdeburg",
+    "latLng": [
+      52.1315889,
+      11.6399609
+    ],
+    "url": "https://t.me/bitcoinmagdeburg",
+    "city": "Magdeburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-magdeburg",
     "twitter": null,
     "event": null,
     "style": {
