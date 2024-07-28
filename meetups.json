@@ -460,6 +460,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Bad Kissingen ",
+    "latLng": [
+      50.2007,
+      10.0804
+    ],
+    "url": "https://t.me/+qohdhScRIk05MjYy",
+    "city": "Bad Kissingen",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
+    "twitter": "SunshineFreak",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Beckum",
     "latLng": [
       51.7564,
@@ -841,13 +856,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-07-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1027",
-      "location": "Bamberg, Café MIEZ ⚡️",
-      "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
-      "link": "https://maps.app.goo.gl/sFR5w2mZJpzrtCmA9",
-      "attendees": 11,
-      "nostr_note": "db326de317e45473acbad06ef1b548637aa977ba8a931f341741f11258d33adc"
+      "start": "2024-08-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1030",
+      "location": "Erlangen, Pizzeria Tio Rustica",
+      "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
+      "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
+      "attendees": 1,
+      "nostr_note": "65ed72cf8f653be384c3baa1011807af8280b83949d6bed40d9da328af27cc62"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2152,7 +2167,15 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-08-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1522",
+      "location": "Restaurant AN, Sennfeld",
+      "description": null,
+      "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
+      "attendees": 0,
+      "nostr_note": "a984b3273cc877751de522741bc0e7a06ae7c7b8a1188d1d80fdd851f2b9ce4c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2364,7 +2387,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-08-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1521",
+      "location": "Stacks",
+      "description": "Ab 18 Uhr treffen wir uns wieder im Stacks🔥",
+      "link": "https://omaps.app/44DjlPfbbb/Stacks",
+      "attendees": 0,
+      "nostr_note": "82900dde25100bce8e05f0700fe2a5639fe5a9d25d995358187dd08d0612c898"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
