@@ -244,13 +244,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-07-28 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1519",
-      "location": "₿☕ Couchtalk mit derHelper — Satoshis Coffeeshop Open House",
-      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 18 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n**Diesmal: Couchtalk mit derHelper**\n\nderHelper ist nicht nur ein erfahrener Bitcoiner, sondern auch eine inspirierende Persönlichkeit in der Bitcoin-Community. In unserem Couchtalk wird er uns Einblicke in sein Leben und seine Reise in die Welt von Bitcoin geben. Wie haben seine ersten Erfahrungen mit Bitcoin ihn verändert? Welche Herausforderungen und Freuden hat er auf seinem Weg erlebt? derHelper wird seine persönlichen Geschichten und Erfahrungen mit uns teilen und steht für Fragen und Diskussionen bereit. Außerdem werden wir mehr über aktuelle Entwicklungen im Bitcoin-Space erfahren.\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%e2%98%95-couchtalk-mit-derhelper-satoshis-coffeeshop-open-house/",
+      "start": "2024-08-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1503",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Streaming/Recording:** Nein\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-6/",
       "attendees": 0,
-      "nostr_note": "85e610bbd27de51433c051b9b77f20a2f1e61c2d032b608a65a90401e36b7233"
+      "nostr_note": "d3ca84f9e63d943ddac206102fd6b49d8c5152461aa386897d5e05576151a08a"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -469,7 +469,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2024-09-20 16:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1523",
+      "location": "El Greco Bad Kissingen / Reiterswiesen",
+      "description": "Kick-Off Meetup in Bad Kissingen der Bitcoiner und die, die es werden wollen. Offener, ungezwungener Abend mit tollen Gesprächen.",
+      "link": "https://maps.app.goo.gl/u4koQVhHuetqN6GP9",
+      "attendees": 0,
+      "nostr_note": "3a31f9a4593f66fdb7082afb66e73306bc3ab6bf4fdb74fb6e074a00e231a6a1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -650,15 +658,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-07-28 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1510",
-      "location": "Brauereigasthof Jacob, Ludwigsheide 2, 92439 Bodenwöhr",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://gasthof.brauerei-jacob.de/",
-      "attendees": 1,
-      "nostr_note": "7a2142a73f0e531b7654dd3976a9792c5a44e6c46f4e729d01a9d6b38e1f8b12"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
