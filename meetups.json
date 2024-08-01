@@ -605,15 +605,7 @@
     "city": "Bremen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
-    "event": {
-      "start": "2024-07-31 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1209",
-      "location": "Kulturzentrum Lagerhaus, im Bremer Viertel",
-      "description": "Wir treffen uns immer am letzten Mittwoch im Monat. Den Winter und das Freühjahr über im Lagerhaus, im Sommer verlagern wir den Anfang des Meetups gern auch an den Weserdeich. Jeder ist willkommen, wir freuen uns über neue Leute.",
-      "link": "https://kulturzentrum-lagerhaus.de/",
-      "attendees": 0,
-      "nostr_note": "a61d6779d9587894950db554bb0e3d118c6c2160b9d62c5208f907a54917ede9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2470,15 +2462,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-07-31 16:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1496",
-      "location": "Heinsberg / Waldenrath",
-      "description": "gemütlicher Stammtisch in der Dorfkneipe.",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "05f250090d9b977e9f3676ccee4bd250e1952b41033a85faea3dfd4fa5198165"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
