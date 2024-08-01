@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 21:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 21:05:29 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,63 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#247 - Du verkaufst deine Bitcoin nicht!]]></title>
+      <description><![CDATA[<p>Episode 247 - Blockzeit 854994 - von und mit <a href="https://primal.net/sirius">Sirius</a> und <a href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a></p>
+<ul>
+ <li><p><a href="https://www.blocktrainer.de/blog/marathon-digital-kauft-bitcoin-und-empfiehlt-es-als-reserve-asset">Marathon Digital kauft erneut Bitcoin</a></p>
+</li>
+ <li><p><a href="https://primal.net/p/npub1u4rl3zlfa2efxslhypf4v6r8va5e0c9smxyr5676pxkyk0chn33s0teswa">LiquiSabi Bot</a></p>
+</li>
+  <li><p><a href="https://strike.me/blog/batching-on-chain-sends/">Strike Batching Transaction</a></p>
+</li>
+  <li><p><a href="https://coinfinity.co/blog/unsere-bankverbindung-hat-sich-geandert">Neue Bankverbindung für Coinfinity</a></p>
+</li>
+  <li><p><a href="https://stephanlivera.com/episode/594/">Updated euere Node bzw. Bitcoin Core</a></p>
+</li>
+  <li><p><a href="https://protos.com/bitfinex-hacker-razzlekhan-was-job-hunting-at-bitcoin-2024/">Bitfinex hacker Razzlekhan</a></p>
+</li>
+  <li><p><a href="https://primal.net/p/npub1urcgztrq9ewytua5k7x5cvz0jy2zqhcgnt283275zvhmcxspm00s0f82uc">Satoshis Bleibe auf Nostr</a></p>
+</li>
+</ul>
+<p>Sponsoren und Freunde</p>
+<ul>
+  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
+</li>
+  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
+</li>
+  <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
+</li>
+  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
+</li>
+</ul>
+<p>Weitere Links</p>
+<ul>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
+</li>
+  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
+</li>
+  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
+</li>
+</ul>
+<p><br>Lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</p>]]></description>
+      <link>https://einundzwanzig.space/podcast/news-247-du-verkaufst-deine-bitcoin-nicht</link>
+      <guid isPermaLink="false">e257aa23-057e-4a9d-bd97-3c6d5904c61b</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 01 Aug 2024 21:03:04 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/89952005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-1%2F5e4fad6d-2df9-0547-782d-4f48a157d4e1.mp3" length="56294901" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:58:36</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #247">247</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#246 - He died like a dog]]></title>
       <description><![CDATA[<p>Episode 246 - Blockzeit 853904 - von und mit <a href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</a>, <a href="https://primal.net/sirius">Sirius</a>, <a href="https://primal.net/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</a> &amp; <a href="https://primal.net/p/npub1vwf2mytkyk22x2gcmr9d7ktprakh6llwpzxqlke8rlv5j0qyx2esf2lxtw">Wantclue</a></p>
@@ -1146,37 +1203,7 @@ Um am 25.06. eines der 3 &#39;Mieses Geld&#39; Bücher zu gewinnen:
     </item>
     <item>
       <title><![CDATA[NostrTalk #10 - nostr ist ein Fluss - mit Jan-Paul]]></title>
-      <description><![CDATA[<p><strong>NostrTalk #10 - Blockzeit 842360</strong> - von und mit <a href="https://nostr.com/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.com/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a> und <a href="https://nostr.com/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">Jan-Paul</a></p>
-
-<p><br></p>
-<p><strong>Links</strong></p>
-<ul>
- <li><a href="https://www.youtube.com/shorts/lCjAryEfCpM">Inspiration fürs Intro</a></li>
-
- <li><a href="https://nosdrive.app/">NosDrive: Your nostr events on Google Drive</a></li>
-
- <li><a href="https://njump.me/nevent1qvzqqqqqqypzpxdm2kgujytxqruy2yrax8umt83003lqng0lsqhgfuw58kj40jnyqy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qqsf7gqza0wflp7rrph3x23zaddsysse2fj4m4gwrt9yt55xnyc8r3cms6x69">Eine gute Meinung zu NosDrive</a></li>
-
- <li><a href="https://nostr.at/nevent1qqs93z4vlee8kka9c5ftacrasytc4f5d5jakxxkw006spsglc3xkwwgpr9mhxue69uhhq7tjv9kkjepwve5kzar2v9nzucm0d5pzq0mhp4ja8fmy48zuk5p6uy37vtk8tx9dqdwcxm32sy8nsaa8gkey7zeqd5">bald 3M Zaps via nostr</a></li>
-
-<li><a href="https://noogle.lol/">Noogle: Search the Nostr with Data Vending Machines</a></li>
- <li><a href="https://njump.me/nevent1qvzqqqqqqypzpx7mjedrw4lzxd5ekk4tmr79t0qvrayw88zdtt9vd5mm9ay0y9s7qy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcqyp2p9d83upr6mwaazlflfy73hs64qraaw66d8xu7d28utcuew0epqz4haeh">Nodesignal Live Podcast von der Zitadelle am 11.05.</a></li>
-
- <li><a href="https://github.com/nostr-protocol/nips/blob/master/17.md">NIP-17: Private Direct Messages</a></li>
-
- <li><a href="https://github.com/nostr-protocol/nips/pull/1206">NIP-104: Double Ratchet (End-to-End Encrypted) DMs</a></li>
-
-<li><a href="https://github.com/nostrworld/nostriga">Nostr.World Unconference</a></li>
-<li><a href="https://github.com/nostrworld/nostriga/issues/12">Nostriga: nostr hardware, signing devices and nostr IoT</a></li>
-<li><a href="https://www.meetup.com/de-DE/connecttheworld/events/300284728/">Nostrdam in Arnhem</a></li>
-<li><a href="https://wavlake.com/album/51266830-ccab-4f10-a16b-9b090da59f60">Outro von Man Like Kweks</a></li>
-</ul>
-<p><br></p>
-<p><strong>Weitere Links:</strong></p>
-<ul>
- <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
-</li>
-</ul>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul]]></description>
       <link>https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul</link>
       <guid isPermaLink="false">a71aed1a-a56d-4f60-8ae5-b2409f71d73c</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
