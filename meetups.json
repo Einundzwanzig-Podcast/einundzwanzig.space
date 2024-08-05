@@ -1772,7 +1772,7 @@
       "location": "Altlandsberg, Zur Mühle",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen. ",
       "link": "https://maps.app.goo.gl/kCqxnXSpVCvK1Q1W7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "0d5698bfb0eedb8de9fbb6a6ebedf9a23520cbe621a266cc871a331fc9ebc105"
     },
     "style": {
@@ -3044,7 +3044,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1526",
+      "location": "Weinstadl Olarizi, 8321 Entschendorf 41",
+      "description": "Bereits ab dem frühen Nachmittag treffen wir uns beim Hierzerteich (https://maps.app.goo.gl/49UCJcVw1vL6LNih6) um gemütlich in der Sonne zu liegen, uns auszutauschen und diese Naturoase zu genießen. Badesachen einpacken! \n\nSelbst gebrautes Bier, Säfte und Snacks sind vorhanden im Kiosk vor Ort.\n\nAb 18 Uhr finden wir uns dann im Weinstadl Olarizi zusammen. Dort gibt es selbstgemachte Pizzen, Wein und Säfte.\nHier können wir dann den Tag ausklingen lassen.",
+      "link": "https://www.olarizi.com/weinstadl-olarizi",
+      "attendees": 0,
+      "nostr_note": "20bcc4337cdef8a27141c96ef6fb5c232aa3adb23bbee3f3bc97608253939fd3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
