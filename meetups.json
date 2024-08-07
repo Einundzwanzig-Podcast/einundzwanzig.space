@@ -1704,16 +1704,24 @@
     }
   },
   {
-    "name": "Einundzwanzig Ortenaukreis",
+    "name": "Einundzwanzig Ortenaukreis/Offenburg",
     "latLng": [
       48.46801,
       7.94238
     ],
     "url": "https://t.me/Einundzwanzig_Ortenaukreis",
     "city": "Offenburg ",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreis",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreisoffenburg",
     "twitter": "21ortenaukreis",
-    "event": null,
+    "event": {
+      "start": "2024-08-14 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1527",
+      "location": "Offenburg",
+      "description": "Meetup im Brauwerk Baden Offenburg zur gemütlichen Runde unter Nocoiner und Plebs.",
+      "link": "https://www.brauwerk-baden.de/das-wirtshaus.html",
+      "attendees": 1,
+      "nostr_note": "e688f1fd30749b03c1280bbabbf59b659ea5f5b034b1df6cb07353d1a309e105"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1912,10 +1920,10 @@
     "event": {
       "start": "2024-09-06 16:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1143",
-      "location": null,
+      "location": "Trattoria Toscana",
       "description": null,
-      "link": null,
-      "attendees": 0,
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 3,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
