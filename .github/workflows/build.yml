@@ -32,8 +32,6 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run prod
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       # Deploy, limited to the master branch
       - name: Deploy
         if: success() && github.ref == 'refs/heads/master'

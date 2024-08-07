@@ -51,7 +51,6 @@ renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: site.meetups,
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
 renderPage('media', 'media', { navCurrent: 'media' })
 renderPage('soundboard', 'soundboard', { navCurrent: 'soundboard', soundboard })
-renderPage('telegram', 'telegram', { navCurrent: 'telegram', telegram: site.telegram })
 renderPage('shops', 'shops', { navCurrent: 'shops', shops })
 renderPage('verein', 'verein', { navCurrent: 'verein' })
 renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
