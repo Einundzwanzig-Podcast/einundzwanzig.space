@@ -235,15 +235,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2024-08-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1503",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Ort diesmal:** Wirtshaus am Bavariapark, bei schönem Wetter im Biergartenbereich\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-6/",
-      "attendees": 0,
-      "nostr_note": "d3ca84f9e63d943ddac206102fd6b49d8c5152461aa386897d5e05576151a08a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1804,7 +1796,15 @@
     "city": "OWL",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-20 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1533",
+      "location": "Bielefeld",
+      "description": "Einundzwanzig OWL       \nWann: 20.09.2024 18:00         \nWo: Brauhaus Joh. Albrecht\n    Hagenbruchstr. 8\n    33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n  (abwechselnd Bielefeld/Paderborn)\n\n",
+      "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
+      "attendees": 1,
+      "nostr_note": "9f99a8e44d567cd004d0e57d9a811041ed422bafd04091e9c8cc43fd31bc2a16"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1985,15 +1985,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "start": "2024-08-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1520",
-      "location": "La Fontana , Weserstraße 7, 31737 Rinteln",
-      "description": "Erstes Bitcoin-Meetup in Rinteln.\n\nPizzeria La Fontana in der Fußgängerzone.\n\nThemen:\n\n • Erfahrungsbericht meines Besuchs beim MMT im Saarland\n\n • Strategien zur verstärkten Adaption von BTC in Rinteln und Umgebung\n",
-      "link": "https://g.co/kgs/MU158dC",
-      "attendees": 2,
-      "nostr_note": "9225dfe6a8173c378124a88b550700f30a86ab719fc052549f69bd4898bccda1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3203,7 +3195,15 @@
     "city": "Baden CH",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/baden-bitcoin-club",
     "twitter": "bitcoinbaden",
-    "event": null,
+    "event": {
+      "start": "2024-08-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1528",
+      "location": "Baden",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c7c96d7995f88db63dc24c186ebfeb3c430c5cd249bf8ce13b4c82fbd20f68b0"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
