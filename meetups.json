@@ -235,7 +235,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2024-09-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1535",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-8/",
+      "attendees": 0,
+      "nostr_note": "3305a988555320419321a18ef252858b3947aabf5aa1bb7c0206cde0c258b38e"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -821,7 +829,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "65ed72cf8f653be384c3baa1011807af8280b83949d6bed40d9da328af27cc62"
     },
     "style": {
@@ -2016,13 +2024,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
     "event": {
-      "start": "2024-08-09 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1417",
-      "location": "Museumspark Rostock GmbH Schifffahrtsmuseum Rostock Schmarl-Dorf 40 18106 Rostock",
-      "description": "Bitcoin meets HanseSail 2024\nWir verbringen einen schönen Tag auf Deutschlands größtem schwimmenden Museum!",
-      "link": "https://www.bitcoin-hansesail.de/",
+      "start": "2024-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1477",
+      "location": "BitcoinWERFT in der DIGIWERFT am Neptun Kai in der Kurt Dunkelmann Str. 2, 18057 Rostock",
+      "description": null,
+      "link": null,
       "attendees": 0,
-      "nostr_note": "ccc7aca4516b8a99b5631837b5e74b3892fa2a4179d240e4106ae95666f19828"
+      "nostr_note": "712c5a3c46f165e78bfd5b749e4ce6f8e6bed54c6638e79e1585d5497f9f95ce"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2143,15 +2151,7 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": {
-      "start": "2024-08-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1522",
-      "location": "Restaurant AN, Sennfeld",
-      "description": null,
-      "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 2,
-      "nostr_note": "a984b3273cc877751de522741bc0e7a06ae7c7b8a1188d1d80fdd851f2b9ce4c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2318,12 +2318,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-08-09 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/695",
+      "start": "2024-09-13 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/696",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2341,8 +2341,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
     "twitter": null,
     "event": {
-      "start": "2024-08-09 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1089",
+      "start": "2024-09-13 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1090",
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
@@ -2568,8 +2568,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": {
-      "start": "2024-08-09 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1070",
+      "start": "2024-09-13 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1071",
       "location": "Flensburg",
       "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
       "link": "",
