@@ -1033,21 +1033,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Heide",
-    "latLng": [
-      53.24554,
-      9.83926
-    ],
-    "url": "https://t.me/Einundzwanzig_Norden",
-    "city": "Handeloh",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heide",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Heidelberg",
     "latLng": [
       49.4093582,
@@ -2122,6 +2107,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sauerland",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Schafstall",
+    "latLng": [
+      53.24554,
+      9.83926
+    ],
+    "url": "https://t.me/Einundzwanzig_Norden",
+    "city": "Handeloh",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall",
+    "twitter": null,
+    "event": {
+      "start": "2024-08-17 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1536",
+      "location": "Der Schafstall, Am Buesenbach 35, 21256 Handeloh",
+      "description": null,
+      "link": "https://der-schafstall.de/",
+      "attendees": 0,
+      "nostr_note": "720740e885fc2ba0f5e186eb47d65b3bed9adbf933cda0d93abfca2e9be2e1f6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
