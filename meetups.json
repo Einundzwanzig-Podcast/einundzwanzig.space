@@ -837,7 +837,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "65ed72cf8f653be384c3baa1011807af8280b83949d6bed40d9da328af27cc62"
     },
     "style": {
@@ -855,8 +855,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
     "event": {
-      "start": "2024-08-15 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/828",
+      "start": "2024-09-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/829",
       "location": null,
       "description": null,
       "link": null,
@@ -2152,15 +2152,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2024-08-15 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1542",
-      "location": "Zum Wilden Michel / Furtwangen Linach",
-      "description": "Komm vorbei zum 11. Meetup von Einundzwanzig Schwarzwald-Baar. Wir treffen uns ab 18 Uhr beim Wilden Michel in Linach / Furtwangen. ",
-      "link": "https://g.co/kgs/v7Tsct",
-      "attendees": 1,
-      "nostr_note": "2a7b98f78a75cc36eee322acb7cc5205f1b30bc0065d7bae910a028462f5e21a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2944,7 +2936,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 4,
       "nostr_note": "39ad6ae05ef1c666f0d60c3617412dead1ffdb7c89b94199f54141fae93d0856"
     },
     "style": {
