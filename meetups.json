@@ -198,13 +198,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-08-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1261",
+      "start": "2024-09-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1262",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "1ff6e28492d31733b7d74d7bf1948c9d52aa990c47e66bc2f8bc3d9892d4e410"
+      "nostr_note": "d1d07d88d9db7fc231be4f95776b296aa42304ff348b76374d37848ff8895cec"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -837,7 +837,7 @@
       "location": "Erlangen, Pizzeria Tio Rustica",
       "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "65ed72cf8f653be384c3baa1011807af8280b83949d6bed40d9da328af27cc62"
     },
     "style": {
@@ -1170,7 +1170,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-08-18 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1543",
+      "location": "Seehaus Ingolstadt",
+      "description": "Das Seehaus Ingolstadt bietet mediterrane und vegane Küche. Parkplätze sind ausreichend vor dem Lokal vorhanden. Bei schönen Wetter besteht im Anschluss die Möglichkeit auf einen Plebwalk am See entlang.",
+      "link": "https://maps.app.goo.gl/s7aZcjyASAiakDwu9",
+      "attendees": 0,
+      "nostr_note": "7f1e96309a636ee02711b0e89e78f22965a91ae01bee3329536e55ea91e7f91e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1706,15 +1714,7 @@
     "city": "Offenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreisoffenburg",
     "twitter": "21ortenaukreis",
-    "event": {
-      "start": "2024-08-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1527",
-      "location": "Offenburg",
-      "description": "Meetup im Brauwerk Baden Offenburg zur gemütlichen Runde unter Nocoiner und Plebs.",
-      "link": "https://www.brauwerk-baden.de/das-wirtshaus.html",
-      "attendees": 1,
-      "nostr_note": "e688f1fd30749b03c1280bbabbf59b659ea5f5b034b1df6cb07353d1a309e105"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
