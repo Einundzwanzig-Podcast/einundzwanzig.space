@@ -1329,15 +1329,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-08-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1524",
-      "location": "Landau",
-      "description": "Picknick/Grillen je nach Wetter. Weitere Details in der Telegram Gruppe",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "b7b2f139659d1c3fd0e992d69580aab004dd919afb3ae42ee036e31373864b6d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1443,13 +1435,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2024-08-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1452",
+      "start": "2024-09-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1453",
       "location": "Abstimmung per Telegram",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "3c7afe457de3d6d5f381510c5bc4a9bf1980993bd9a6a6c0a5c6ebb436c5aa04"
+      "nostr_note": "aeffd724d243d5a7973f9adb9c2c922579c6bd2f826a71773bbc75742f8fdedf"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1820,7 +1812,15 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-08-22 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1545",
+      "location": "Kaiserslautern",
+      "description": "Weitere Infos in der Telegram Gruppe",
+      "link": "https://t.me/einundzwanzigPfalz",
+      "attendees": 4,
+      "nostr_note": "3ec365ade60b23046fe02fb34b76661912bc871a6efc0d3813fa836eb473cd47"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2379,15 +2379,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-08-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1521",
-      "location": "Stacks",
-      "description": "Ab 18 Uhr treffen wir uns wieder im Stacks🔥",
-      "link": "https://omaps.app/44DjlPfbbb/Stacks",
-      "attendees": 0,
-      "nostr_note": "82900dde25100bce8e05f0700fe2a5639fe5a9d25d995358187dd08d0612c898"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2733,14 +2725,14 @@
     }
   },
   {
-    "name": "Zoolook ",
+    "name": "Zollernalb Balingen",
     "latLng": [
-      48.27549,
-      8.85511
+      51.81263,
+      14.18417
     ],
     "url": "https://t.me/+wNgJ6sTsTOljMjFi",
-    "city": "Balingen",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/zoolook",
+    "city": "03096",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/zollernalb-balingen",
     "twitter": null,
     "event": null,
     "style": {
@@ -2931,13 +2923,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2024-08-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1492",
-      "location": "Cafe Froschberg",
+      "start": "2024-09-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1493",
+      "location": "wird noch bekanntgegeben",
       "description": null,
       "link": null,
-      "attendees": 4,
-      "nostr_note": "39ad6ae05ef1c666f0d60c3617412dead1ffdb7c89b94199f54141fae93d0856"
+      "attendees": 0,
+      "nostr_note": "dfaaa8cdacf66c40fdd49f3df3c68ca65af3d7a8b56584567dc8f99ad37f5051"
     },
     "style": {
       "fill": "var(--color-accent)"
