@@ -665,15 +665,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2024-08-17 12:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1509",
-      "location": "TICKET NÖTIG, Grillplatz Gänsweide, Hessen",
-      "description": "Bitcoin BBQ Bonanza XXL Meetup\nWillkommen beim Bitcoin BBQ Bonanza XXL Meetup – eine explosive Mischung aus köstlichen Burgern und fesselnden Diskussionen über die Welt von Bitcoin! 🚀🔥\n\nGrillplatz-Event mit Eintritt, eine Auswahl von leckeren Burgern, genussvolle Gespräche\nund einer gemütlichen Atmosphäre (bitte eigene Sitzgelegenheit mitbringen).\n\nVor Ort gibt es Parkplätze, Sanitäranlagen und Schutz vor Regen.\nAchtet bitte bei Fotos auf die Privatsphäre. Danke!",
-      "link": "https://business-bitcoin.de/bitcoin-bbq-bonanza-xxl-meetup/",
-      "attendees": 1,
-      "nostr_note": "9b1e8d58dbaabf5479fd8a3b6aff47467565a4d173678cb58d860b5dba454573"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2130,13 +2122,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall",
     "twitter": null,
     "event": {
-      "start": "2024-08-17 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1536",
+      "start": "2024-09-21 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1537",
       "location": "Der Schafstall, Am Buesenbach 35, 21256 Handeloh",
       "description": null,
       "link": "https://der-schafstall.de/",
       "attendees": 0,
-      "nostr_note": "720740e885fc2ba0f5e186eb47d65b3bed9adbf933cda0d93abfca2e9be2e1f6"
+      "nostr_note": "2788e6a0c83265eff6a7a9acbd84bbd6224e0f2416020d5ee4c297632e96337a"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2538,8 +2530,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2024-08-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1045",
+      "start": "2024-09-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1046",
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
@@ -3014,13 +3006,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-08-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1229",
+      "start": "2024-09-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1230",
       "location": "Passau oder Schärding",
-      "description": "34. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "35. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "ba2f52288c04b4418e6021aef7a8cd054e37ba013b1b89288248e16752a2346c"
+      "nostr_note": "25a4c6d96b18aef294c7bcaefa689ca321a50dbdce993419031bd62625a3237d"
     },
     "style": {
       "fill": "var(--color-accent)"
