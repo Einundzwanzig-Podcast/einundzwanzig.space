@@ -304,13 +304,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-08-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/895",
+      "start": "2024-09-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/896",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "442d18ad98c569ba6d6e8a376e3bdc039ec780a231368676f343ab71985855a7"
+      "nostr_note": "a42158cd3cbb1c2160fa12778da36a501f1b45dd8894e846b8bd70eadd24c6ae"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -680,7 +680,15 @@
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1546",
+      "location": "Cafe Mix, Detmold",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "43a7fd621c58a600e2e399ff3789d1ce9a5b73fdea6ad39bb15febfeb6a5033e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1162,15 +1170,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2024-08-18 09:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1543",
-      "location": "Seehaus Ingolstadt",
-      "description": "Das Seehaus Ingolstadt bietet mediterrane und vegane Küche. Parkplätze sind ausreichend vor dem Lokal vorhanden. Bei schönen Wetter besteht im Anschluss die Möglichkeit auf einen Plebwalk am See entlang.",
-      "link": "https://maps.app.goo.gl/s7aZcjyASAiakDwu9",
-      "attendees": 0,
-      "nostr_note": "7f1e96309a636ee02711b0e89e78f22965a91ae01bee3329536e55ea91e7f91e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
