@@ -341,7 +341,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2024-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1550",
+      "location": "Augustiner Keller München",
+      "description": null,
+      "link": "https://maps.app.goo.gl/sRCitWezpPFvQLwW7",
+      "attendees": 1,
+      "nostr_note": "28d86b5a4eca021612ccca1b76babf6f3a81f4b32b1c169eb30288895bcd81ed"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1873,8 +1881,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": null,
     "event": {
-      "start": "2024-08-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/908",
+      "start": "2024-09-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/909",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
@@ -2175,10 +2183,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
     "event": {
-      "start": "2024-08-20 17:20:00",
+      "start": "2024-08-20 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1512",
-      "location": "19053 Schwerin, Arsenalstraße 3",
-      "description": "Zusammen kommen, tolle Leute treffen, super Gespräche führen und eine schöne Zeit gemeinsam verbringen. Bei Cocktails oder anderen Kaltgetränken und kleinen Knabbereien.",
+      "location": " Schwerin. 19Uhr Arsenalstr. 14 19053 Schwerin CU- Bistro-Bar-Longe",
+      "description": "Zusammen kommen, tolle Leute treffen, super Gespräche führen und eine schöne Zeit gemeinsam verbringen. Bei Cocktails oder anderen Kaltgetränken und kleinen Knabbereien.GM.  Das Schwerin Meetup, wird auf Grund kurzfristiger Ereignisse geändert",
       "link": "https://www.google.de/maps/place//data=!4m2!3m1!1s0x47adda1f99885a45:0xb6e52ed05fdd5c1?sa=X&ved=1t:8290&ictx=111",
       "attendees": 1,
       "nostr_note": "5e73e3ec9f85de46296526190395266034e9cfe41583e6eea0d3a2c03cf12032"
