@@ -100,13 +100,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-08-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/966",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-09-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/979",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -341,15 +341,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2024-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1550",
-      "location": "Augustiner Keller München",
-      "description": null,
-      "link": "https://maps.app.goo.gl/sRCitWezpPFvQLwW7",
-      "attendees": 1,
-      "nostr_note": "28d86b5a4eca021612ccca1b76babf6f3a81f4b32b1c169eb30288895bcd81ed"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1244,7 +1236,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "e7249972703c24b71a890b2614651a1f125652d0234ebd6402def2fcda778a23"
     },
     "style": {
@@ -2016,15 +2008,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
-    "event": {
-      "start": "2024-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1477",
-      "location": "BitcoinWERFT in der DIGIWERFT am Neptun Kai in der Kurt Dunkelmann Str. 2, 18057 Rostock",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "712c5a3c46f165e78bfd5b749e4ce6f8e6bed54c6638e79e1585d5497f9f95ce"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2167,7 +2151,15 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1551",
+      "location": "Schwebheimer Str. 2, 97526 Sennfeld",
+      "description": null,
+      "link": "https://maps.app.goo.gl/tvXkJYVMHTL8FaYZ8",
+      "attendees": 1,
+      "nostr_note": "65728e54ea222c20be5bad258a1749083e9ffd84399203de188ce86197fc53ce"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2832,13 +2824,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2024-08-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1178",
+      "start": "2024-09-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1179",
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
       "attendees": 0,
-      "nostr_note": "1acc97ddbb0988db38c7d0e776106b627e97186330a47a7f6ff5846d9f2240f2"
+      "nostr_note": "6db14ac6e787befe05c78ebe8886280fc893a2729f827033065fa49c90676a50"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3028,15 +3020,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1526",
-      "location": "Weinstadl Olarizi, 8321 Entschendorf 41",
-      "description": "Bereits ab dem frühen Nachmittag treffen wir uns beim Hierzerteich (https://maps.app.goo.gl/49UCJcVw1vL6LNih6) um gemütlich in der Sonne zu liegen, uns auszutauschen und diese Naturoase zu genießen. Badesachen einpacken! \n\nSelbst gebrautes Bier, Säfte und Snacks sind vorhanden im Kiosk vor Ort.\n\nAb 18 Uhr finden wir uns dann im Weinstadl Olarizi zusammen. Dort gibt es selbstgemachte Pizzen, Wein und Säfte.\nHier können wir dann den Tag ausklingen lassen.",
-      "link": "https://www.olarizi.com/weinstadl-olarizi",
-      "attendees": 0,
-      "nostr_note": "20bcc4337cdef8a27141c96ef6fb5c232aa3adb23bbee3f3bc97608253939fd3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3075,8 +3059,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-08-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1188",
+      "start": "2024-09-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1189",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
@@ -3459,13 +3443,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
     "event": {
-      "start": "2024-08-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1159",
+      "start": "2024-09-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1160",
       "location": "Palma - Ventura Harbor Bar",
       "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
       "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
       "attendees": 0,
-      "nostr_note": "0da0f55a9e3a505c054a14a1bd739ee865540888888d86706951ebc972b9eaa2"
+      "nostr_note": "378a4645d86a3dd3217b8d38ed7512b71b2933dc0a66eb6802a66da078c7600b"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
