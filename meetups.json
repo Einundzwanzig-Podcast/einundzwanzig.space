@@ -1236,7 +1236,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "e7249972703c24b71a890b2614651a1f125652d0234ebd6402def2fcda778a23"
     },
     "style": {
@@ -1804,15 +1804,7 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "start": "2024-08-22 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1545",
-      "location": "Kaiserslautern",
-      "description": "Weitere Infos in der Telegram Gruppe",
-      "link": "https://t.me/einundzwanzigPfalz",
-      "attendees": 4,
-      "nostr_note": "3ec365ade60b23046fe02fb34b76661912bc871a6efc0d3813fa836eb473cd47"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2157,7 +2149,7 @@
       "location": "Schwebheimer Str. 2, 97526 Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/tvXkJYVMHTL8FaYZ8",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "65728e54ea222c20be5bad258a1749083e9ffd84399203de188ce86197fc53ce"
     },
     "style": {
@@ -2174,7 +2166,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1552",
+      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
+      "description": "Wir treffen uns regelmäßig an jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar.\nJEDER ist Willkommen! \nWir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss...\nJedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat!\nIn der Bar kann beim Barbesitzen mit Lightning oder Onchain BTC bezahlt werden. \nAber auch wer sein Fiat-Geld los werden möchte kann dies natürlich tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
+      "link": "https://www.google.de/maps/place//data=!4m2!3m1!1s0x47adda1f99885a45:0xb6e52ed05fdd5c1?sa=X&ved=1t:8290&ictx=111",
+      "attendees": 1,
+      "nostr_note": "d26217a0f341af6f3d4b1db2262222a4a0e1861a9c621153082ff53c04014768"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
