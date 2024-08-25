@@ -832,13 +832,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-08-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1030",
-      "location": "Erlangen, Pizzeria Tio Rustica",
-      "description": "Tio Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
-      "link": "https://maps.app.goo.gl/jF1d4tvwrghkh7tc9",
-      "attendees": 5,
-      "nostr_note": "65ed72cf8f653be384c3baa1011807af8280b83949d6bed40d9da328af27cc62"
+      "start": "2024-09-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1035",
+      "location": "Fürth, Café Zanetta",
+      "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
+      "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
+      "attendees": 0,
+      "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1284,8 +1284,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-08-24 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1439",
+      "start": "2024-09-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1440",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
@@ -2000,7 +2000,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2024-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1553",
+      "location": "18057 Rostock",
+      "description": "Am 21.10.24 ab 18 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt.\nWer Lust und Zeit hat, ist herzlich eingeladen.",
+      "link": "https://21rostock.de/",
+      "attendees": 0,
+      "nostr_note": "924e2b0d087f101de2242d4877a4b3f8595d8e366e1dea1e68730371b6256805"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2613,8 +2621,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-08-24 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1010",
+      "start": "2024-09-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1011",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
