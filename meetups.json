@@ -990,8 +990,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-08-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1400",
+      "start": "2024-09-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1401",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -1900,7 +1900,7 @@
       "location": "Trattoria Toscana",
       "description": null,
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 3,
+      "attendees": 6,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -1962,7 +1962,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1556",
+      "location": "La Fontana Rinteln",
+      "description": "Weserstraße 7, 31737 Rinteln\n\nNimmt bitte FIAT mit, da noch keine BTC Zahlungen möglich sind.\n\nVortrag: Warum gibt es Bitcoin? (40 Minuten)\nEs werden viele Themen im Vortrag grob angesprochen wie z.B. Goldstandard,Whitepaper,Bitcoin Adoption, CBDC, etc\n\n\n\n",
+      "link": "https://g.co/kgs/nTHxQeS",
+      "attendees": 1,
+      "nostr_note": "540b12d3a35d4c995319cc63e9e78aefc48d0f457839e3c9d4a436ad4de76f38"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2484,13 +2492,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2024-08-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1514",
+      "start": "2024-09-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1515",
       "location": "Wiesbaden",
-      "description": "Du bist interessiert am Thema Bitcoin?\nBist schon länger dabei?\nBist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt?\nBist noch nicht lange dabei und hast Fragen?\nBist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen?\n\nWenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
+      "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen?\n\nWenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
       "link": "https://www.das6040.de/",
       "attendees": 0,
-      "nostr_note": "3e3b5d46ef1c9279522854d31fb1c36471203af520e9a925d342e53fcdfef84d"
+      "nostr_note": "e4786373384607030317241c880f2c0eec85550c92e7ff217c417ea6c45fd1f3"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2920,7 +2928,7 @@
       "location": "wird noch bekanntgegeben",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "dfaaa8cdacf66c40fdd49f3df3c68ca65af3d7a8b56584567dc8f99ad37f5051"
     },
     "style": {
@@ -3180,8 +3188,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/baden-bitcoin-club",
     "twitter": "bitcoinbaden",
     "event": {
-      "start": "2024-08-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1529",
+      "start": "2024-09-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1530",
       "location": "Baden",
       "description": null,
       "link": null,
