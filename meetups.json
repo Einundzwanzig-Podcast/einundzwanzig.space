@@ -678,7 +678,7 @@
       "location": "Cafe Mix, Detmold",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "43a7fd621c58a600e2e399ff3789d1ce9a5b73fdea6ad39bb15febfeb6a5033e"
     },
     "style": {
@@ -2157,7 +2157,7 @@
       "location": "Schwebheimer Str. 2, 97526 Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/tvXkJYVMHTL8FaYZ8",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "65728e54ea222c20be5bad258a1749083e9ffd84399203de188ce86197fc53ce"
     },
     "style": {
@@ -2310,7 +2310,15 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1557",
+      "location": "Höfingen - Restaurant Zum Ochsen",
+      "description": "19. Stammtisch: Do, 26.9. 20Uhr im Ochsen in Höfingen (🚨nur Bargeldzahlung möglich)\n\nStammtisch immer am letzten Donnerstag des Monats.\nBitcoin-only❗\n",
+      "link": "https://maps.app.goo.gl/icGAaK2FNJcxst3B6",
+      "attendees": 1,
+      "nostr_note": "8292592c273ea5f3e8de86c2765bf48a5e99d6ca06a264c612feb8234f22a4ad"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
