@@ -238,8 +238,8 @@
     "event": {
       "start": "2024-09-04 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1535",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]\n\n**Erwartete Anzahl Besucher:** 30-40\n\n**Wann:** Jeder erster Mittwoch im Monat ab 18 Uhr\n\n**Ort diesmal:** Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Wann:** Mittwoch, 04. September 2024, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~859.815\n\n**Ort diesmal:** Wirtshaus am Bavariapark, bei schönem Wetter im Biergartenbereich\n\n[...]",
       "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-8/",
       "attendees": 0,
       "nostr_note": "3305a988555320419321a18ef252858b3947aabf5aa1bb7c0206cde0c258b38e"
@@ -1228,7 +1228,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "e7249972703c24b71a890b2614651a1f125652d0234ebd6402def2fcda778a23"
     },
     "style": {
@@ -1260,7 +1260,15 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": null,
+    "event": {
+      "start": "2024-09-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1558",
+      "location": "Koblenz ",
+      "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "33ea9002c817bbd654e07d1474f2a723d251b220b33f821f44517bbf27d85677"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
