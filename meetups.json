@@ -2944,7 +2944,7 @@
       "location": "wird noch bekanntgegeben",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "dfaaa8cdacf66c40fdd49f3df3c68ca65af3d7a8b56584567dc8f99ad37f5051"
     },
     "style": {
@@ -3014,7 +3014,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-13 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1571",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nWann: Freitag, 13.09.24, ab 18h\nWo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland \n\nDon't forget to ₿ring your Sats 😘",
+      "link": "https://maps.app.goo.gl/marX5zCX5zC5LS1N9",
+      "attendees": 5,
+      "nostr_note": "22643d5267994450e74704f05e4f824434c7c0affbc9071beaa9f25ecf05692f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
