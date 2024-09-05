@@ -235,15 +235,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2024-09-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1535",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n**Format:** Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n**Wann:** Mittwoch, 04. September 2024, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~859.815\n\n**Ort diesmal:** Wirtshaus am Bavariapark, bei schönem Wetter im Biergartenbereich\n\n[...]",
-      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-wechselnde-alternating-locations-8/",
-      "attendees": 0,
-      "nostr_note": "3305a988555320419321a18ef252858b3947aabf5aa1bb7c0206cde0c258b38e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1222,15 +1214,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-09-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1525",
-      "location": "Alte Schmiede Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 6,
-      "nostr_note": "e7249972703c24b71a890b2614651a1f125652d0234ebd6402def2fcda778a23"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1970,15 +1954,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "start": "2024-09-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1556",
-      "location": "La Fontana Rinteln",
-      "description": "Weserstraße 7, 31737 Rinteln\n\nNimmt bitte FIAT mit, da noch keine BTC Zahlungen möglich sind.\n\nVortrag: Warum gibt es Bitcoin? (40 Minuten)\nEs werden viele Themen im Vortrag grob angesprochen wie z.B. Goldstandard,Whitepaper,Bitcoin Adoption, CBDC, etc\n\n\n\n",
-      "link": "https://g.co/kgs/nTHxQeS",
-      "attendees": 1,
-      "nostr_note": "540b12d3a35d4c995319cc63e9e78aefc48d0f457839e3c9d4a436ad4de76f38"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2342,7 +2318,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-09-13 16:00:00",
+      "start": "2024-09-13 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/696",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
@@ -2944,7 +2920,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "dfaaa8cdacf66c40fdd49f3df3c68ca65af3d7a8b56584567dc8f99ad37f5051"
     },
     "style": {
