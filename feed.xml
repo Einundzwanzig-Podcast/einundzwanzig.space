@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 11:33:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 00:42:44 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,63 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#252 - Schatzi, schick mir kein Foto]]></title>
+      <description><![CDATA[<p>Episode 252 - Blockzeit 859.874 - von und mit <a href="https://x.com/exiledsurfer">Michael</a>, <a href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</a>, <a href="https://x.com/FlashmanBTC">Flashman</a> und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</a>.</p>
+<ul>
+ <li><p><a href="http://www.eventbrite.ca/e/901458806557/?discount=21Freunde21">POW Summit 2024</a></p>
+</li>
+ <li><p><a href="https://nostr.world/">Nostriga 2024</a></p>
+</li>
+  <li><p><a href="https://baltichoneybadger.com/">Baltic Honeybadger 2024</a></p>
+</li>
+  <li><p><a href="https://www.youtube.com/watch?v=_ZeVo3bVtCA">XPub erklärt - SOO viele Bitcoin liegen auf einer Wallet</a></p>
+</li>
+  <li><p><a href="https://www.youtube.com/watch?v=5SONYWRgvm4">Tutorial - Bitcoin versenden mit Sparrow Wallet und Specter DIY</a></p>
+</li>
+  <li><p><a href="https://x.com/mutinywallet/status/1820465141147746760">Mutiny Wallet wird stillgelegt</a></p>
+</li>
+  <li><p><a href="https://x.com/core_ln/status/1830647170896105623">Core Lightning v24.08 mit BOLT12</a></p>
+</li>
+  <li><p><a href="https://x.com/strike/status/1831099910458163536">Strike unterstützt jetzt BOLT12</a></p>
+</li>
+</ul>
+<p>Sponsoren und Freunde</p>
+<ul>
+  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die EINUNDZWANZIG Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
+</li>
+  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
+</li>
+  <li><p>EINUNDZWANZIG Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
+</li>
+  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
+</li>
+</ul>
+<p>Weitere Links</p>
+<ul>
+  <li><p>Besuche unsere <a href="https://einundzwanzig.space/">Website</a> und lass uns einen <a href="https://shoutout.einundzwanzig.space/">Shoutout</a> da.</p>
+</li>
+</ul>
+<p><br>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>]]></description>
+      <link>https://einundzwanzig.space/podcast/news-252-schatzi-schick-mir-kein-foto</link>
+      <guid isPermaLink="false">984cfeba-0b03-471d-ab7e-558b54ff66c5</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 05 Sep 2024 00:39:36 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/91308666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F9c8780ef-8445-a88e-a27b-555faf3df3c8.mp3" length="244675448" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>01:41:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #252">252</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://snort.social/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person href="https://twitter.com/FlashmanBTC">Flashman</podcast:person>
+      <podcast:person href="https://snort.social/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #96 - Bitcoin ist Ruhe]]></title>
       <description><![CDATA[<p><strong>Der Weg #96 - Blockzeit 858795 </strong>- von und mit<a href="https://twitter.com/fabthefoxx"> Fab</a> und<a href="https://twitter.com/danielwingen"> </a><a href="https://twitter.com/tanksen_f">Tanksen</a></p>
@@ -1146,31 +1203,7 @@ Episode 241 - Blockzeit 848662 - von und mit Markus, Jan-Paul und Sebastian</p>
     </item>
     <item>
       <title><![CDATA[Good Guys With Guns]]></title>
-      <description><![CDATA[<p><strong>Doppelwumms im Dachraum &quot;Waffentalk unter Bitcoinern&quot; - Blockzeit 847793 - von und mit </strong><a href="https://njump.me/npub1rnm4dq7s9d8vp2jdyynl73wnxhlzaadgsj6hj3m46cyt4nsqdgtqxsu0lw" target="_blank" rel="noopener noreferer"><strong>Tobo</strong></a><strong>, </strong><a href="https://x.com/hightower391" target="_blank" rel="noopener noreferer"><strong>Hausi </strong></a><strong>und </strong><a href="https://snort.social/p/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p" target="_blank" rel="noopener noreferer"><strong>Lassmiranda </strong></a><strong>sowie Spok (Audioproduktion)</strong></p>
-<p><br></p>
-<p>Links:</p>
-<ul>
- <li>Gun Control Myths
-(Buch) <a href="https://www.amazon.de/-/en/Dr-John-R-Lott-Jr/dp/B08C95PD1K">https://www.amazon.de/-/en/Dr-John-R-Lott-Jr/dp/B08C95PD1K</a> </li>
-</ul>
-<ul>
- <li>Warrior Poet Society
-(YT) <a href="https://www.youtube.com/@WarriorPoetSociety">https://www.youtube.com/@WarriorPoetSociety</a></li>
-</ul>
-<ul>
-  <li> Defensive Gun Use
-Playlist (Colion Noir YT) <a href="https://www.youtube.com/playlist?list=PL30O4UPS4tjRMFKZJSCkancnxO_09HfO4">https://www.youtube.com/playlist?list=PL30O4UPS4tjRMFKZJSCkancnxO_09HfO4</a></li>
-</ul>
-<ul>
-  <li> Verband Deutscher Büchsenmacher <a href="https://www.vdb-waffen.de/">https://www.vdb-waffen.de/</a></li>
-</ul>
-<p> </p>
-<p>ps: Das Nachgespräch war lang. ;-)</p>
-<p>Bleibt sauber!
-
-
-
-</p>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-good-guys-with-guns]]></description>
       <link>https://einundzwanzig.space/podcast/verschiedenes-good-guys-with-guns</link>
       <guid isPermaLink="false">f1d19f15-5f5f-4f42-b772-45d62d1a8d4c</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
