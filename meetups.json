@@ -1509,13 +1509,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2024-09-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/667",
+      "start": "2024-10-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/668",
       "location": "wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "f0238824eec42997a0fb4cbce15601575535790836c5dff7fdd3a33617fb1673"
+      "nostr_note": "d7866510bfc7c9c0fc8d34ce9173cdb9b5bb048eb554b01cfac4d7fc0b3faab0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1993,6 +1993,21 @@
       "attendees": 0,
       "nostr_note": "7dda09b4952dfbf306ebdeb4c16efa255ee20dc450c0aa349812e2d3d1c1560c"
     },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Rottweil",
+    "latLng": [
+      48.25322,
+      8.602078
+    ],
+    "url": "https://t.me/+AeVduvFdbag0NTEy",
+    "city": "Rottweil",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
