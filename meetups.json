@@ -1214,7 +1214,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-10-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1572",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 1,
+      "nostr_note": "e1d4f4f6a206ad1eb6261ec216a15ba9831d7382e93ec19af98684e26dd4e438"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1305,7 +1313,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-09-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1574",
+      "location": "Landau",
+      "description": "für Details, kommt in die Gruppe",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "d8bcb5923895a2d47b7644aa1ce6fd501e8609578a6a309362677f6914b6885c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1335,7 +1351,15 @@
     "city": "Langen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-langen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-09 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1573",
+      "location": "Langen ",
+      "description": null,
+      "link": "https://g.co/kgs/pEU1PwU",
+      "attendees": 0,
+      "nostr_note": "b10b86eb290049dd63955466c3dff694df0feb403c84ca2843d2a7147b74446c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
