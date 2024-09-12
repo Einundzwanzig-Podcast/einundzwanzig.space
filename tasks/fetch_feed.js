@@ -220,8 +220,8 @@ const parseEpisode = e => {
   })
 
   const outputXML = builder.build(feed)
-
   writeJSON('episodes', episodes)
+  console.log('Neueste Episode:', episodes[0].title, '-', episodes[0].date)
 
   const validation = XMLValidator.validate(outputXML)
   if (validation) {
