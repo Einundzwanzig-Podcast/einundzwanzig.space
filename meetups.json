@@ -821,7 +821,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
@@ -1432,7 +1432,7 @@
       "location": "Abstimmung per Telegram",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "aeffd724d243d5a7973f9adb9c2c922579c6bd2f826a71773bbc75742f8fdedf"
     },
     "style": {
@@ -2362,7 +2362,7 @@
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2748,7 +2748,7 @@
       "location": "Blauer Adler",
       "description": "Gute Gespräche in Illustrer runde. ",
       "link": "https://www.google.de/maps/place/Blauer+Adler/@49.77658,9.9254481,17z/data=!3m2!4b1!5s0x47a29017be7ddec3:0x8dfd9eaf5894f54f!4m6!3m5!1s0x47a29017be804577:0x3f917562c852b7f3!8m2!3d49.77658!4d9.928023!16s%2Fg%2F12lkzyjbw?entry=ttu",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "b133f128de0a4ce7092557751b730dbd9ffe5f17c6740bfcf09ef86f0824567c"
     },
     "style": {
@@ -3075,7 +3075,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-09-20 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1576",
+      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
+      "description": "Reguläres Treffen der steirischen Bitcoin-Community. Neulinge herzlich willkommen, einfach vorbei schauen.\n\nBitcoin accepted! Bezahlung in der Pizzeria Don Alfredo mit Bitcoin Lightning möglich.",
+      "link": "https://www.don-alfredo.at/",
+      "attendees": 3,
+      "nostr_note": "3583cb62d72d82c485e5d099be267c44b6b3ef006a8c6343e1396fa8e762be7b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
