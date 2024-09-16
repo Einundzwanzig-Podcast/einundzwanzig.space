@@ -296,13 +296,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
     "event": {
-      "start": "2024-09-15 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/896",
+      "start": "2024-10-20 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/897",
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "a42158cd3cbb1c2160fa12778da36a501f1b45dd8894e846b8bd70eadd24c6ae"
+      "nostr_note": "d7e1e7a3e452e86aa91bcea052dc555374be5f87dbbb9e947e3a9b0a0475acd6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -642,7 +642,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-29 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1578",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "96b3f0a876b4c6d9eea9bc19134e8e90555e6bb170963b00a5c8099b9c41ad79"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -829,7 +837,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
