@@ -1170,7 +1170,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-09-22 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1580",
+      "location": "Seehaus Ingolstadt am Baggersee",
+      "description": "Wir treffen uns endlich wieder zum ersten Meetup nach der Sommerpause! Neben spannenden Geschichten, vielfältigen Themen und einem gemütlichen Beisammensein, widmen wir uns dieses Mal einem besonderen Schwerpunkt: Nostr.\n\nNostr entwickelt sich rasant weiter und gewinnt zunehmend an Bedeutung. Doch der Einstieg in diesen faszinierenden Space kann herausfordernd sein. Genau deshalb nehmen wir uns die Zeit, um alle Interessierten Schritt für Schritt durch die ersten Schritte in die Welt von Nostr zu begleiten. Egal, ob du Neuling bist oder bereits ein wenig Erfahrung hast – wir sorgen dafür, dass du sicher und gut informiert durchstarten kannst.",
+      "link": "https://maps.app.goo.gl/fzYyZ46TaG366to48",
+      "attendees": 0,
+      "nostr_note": "c6d040d34b16323963f48c7e0931c3ad1722cdb7f26c836544cd8bdf9b765019"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
