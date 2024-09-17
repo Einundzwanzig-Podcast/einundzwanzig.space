@@ -837,7 +837,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
@@ -1881,8 +1881,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": null,
     "event": {
-      "start": "2024-09-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/909",
+      "start": "2024-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/910",
       "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
@@ -2507,7 +2507,15 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": null,
+    "event": {
+      "start": "2024-09-23 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1579",
+      "location": "Musikbistro",
+      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
+      "link": "https://g.co/kgs/1iEGhWV",
+      "attendees": 0,
+      "nostr_note": "3f42f81a5518eea42c269ac4e08f224a37b45991a98476bfcd894ef5dbdee3e5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
