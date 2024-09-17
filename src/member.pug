@@ -15,7 +15,7 @@ block main
             !=markdown(member.text)
           .links
             if member.nostr
-              a(href=`https://snort.social/p/${member.nostr}` target="_blank" rel="nofollow noopener" title=`${member.name} on Nostr`)
+              a(href=`https://primal.net/p/${member.nostr}` target="_blank" rel="nofollow noopener" title=`${member.name} on Nostr`)
                 +sprite("nostr")
             if member.twitter
               a(href=`https://twitter.com/${member.twitter}` target="_blank" rel="nofollow noopener" title=`${member.name} on Twitter`)

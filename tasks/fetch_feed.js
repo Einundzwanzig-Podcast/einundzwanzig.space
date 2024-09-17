@@ -207,7 +207,7 @@ const parseEpisode = e => {
 
       people.forEach(p => {
         let href = p.url
-        if (!href && p.nostr) href = `https://snort.social/p/${p.nostr}`
+        if (!href && p.nostr) href = `https://primal.net/p/${p.nostr}`
         if (!href && p.twitter) href = `https://twitter.com/${p.twitter}`
         updated['podcast:person'].push({
           __attr: { href },

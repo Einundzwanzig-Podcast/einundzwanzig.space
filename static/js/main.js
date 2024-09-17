@@ -79,7 +79,7 @@ const onMeetupMapMarkerClick = (m, modalId) => {
       Links zum Treffen:
       ${link(m.event.portalLink, 'Portal')}
       ${link(m.event.link, 'Website')}
-      ${link(m.event.nostr_note ? `https://snort.social/e/${m.event.nostr_note}` : null, 'Nostr')}
+      ${link(m.event.nostr_note ? `https://primal.net/e/${m.event.nostr_note}` : null, 'Nostr')}
     </p>` : '')
 
   toggleModal(modalId)

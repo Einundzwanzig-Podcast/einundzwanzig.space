@@ -2,17 +2,19 @@ const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
 const { NDKUser } = require('@nostr-dev-kit/ndk')
 const team = require('../content/team.json')
-const { nostr: einundzwanzigNpub, nostrTalk: nostrTalkNpub } = require('../content/meta.json')
+const { npub } = require('../content/meta.json')
 
-const einundzwanzigHex = new NDKUser({ npub: einundzwanzigNpub }).hexpubkey
-const nostrTalkHex = new NDKUser({ npub: nostrTalkNpub }).hexpubkey
+const einundzwanzig = new NDKUser({ npub: npub.einundzwanzig })
+const nostrtalk = new NDKUser({ npub: npub.nostrTalk })
+const zitadelle = new NDKUser({ npub: npub.zitadelle })
 const names = {
-  "_": einundzwanzigHex,
-  "einundzwanzig": einundzwanzigHex,
-  "nostrtalk": nostrTalkHex
+  "_": einundzwanzig.pubkey,
+  "einundzwanzig": einundzwanzig.pubkey,
+  "nostrtalk": nostrtalk.pubkey,
+  "zitadelle": zitadelle.pubkey
 }
 const relays = {
-  [einundzwanzigHex]: [
+  [npub.einundzwanzig]: [
     "wss://nostr.einundzwanzig.space"
   ]
 }
@@ -20,7 +22,7 @@ const relays = {
 Object.entries(team).forEach(([key, { nostr: npub }]) => {
   if (!npub) return
   const id = key.replace(/[\s]/g, '_')
-  names[id] = new NDKUser({ npub }).hexpubkey
+  names[id] = new NDKUser({ npub }).pubkey
 })
 
 const dst = resolve(__dirname, '..', 'dist', '.well-known', 'nostr.json')
