@@ -2705,15 +2705,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2024-09-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1555",
-      "location": "Bar Celona Saarbrücken",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "6800e5e57ed81b6ab8977a742e473819512221018d7b61e7d1f9552eb84df69d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
