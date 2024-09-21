@@ -54,15 +54,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/7-bitcoin-meetup-schwerin",
     "twitter": "XellosAusSN",
-    "event": {
-      "start": "2024-10-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1582",
-      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "Wir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar.\nRumbar Unity - 19053 Schwerin, Arsenalstraße 36\nJEDER ist Willkommen!\nWir reden über Bitcoin, Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss...\nJedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat!\nIn der Bar kann beim Barbesitzen mit Lightning oder Onchain BTC bezahlt werden.\nAber auch wer sein Fiat-Geld los werden möchte kann dies natürlich tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
-      "attendees": 0,
-      "nostr_note": "9f2f1c07060291c2a3383d792d54aea72be5e5ef51ef1d74a4d0453b18916bd6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -538,15 +530,7 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": {
-      "start": "2024-09-20 16:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1523",
-      "location": "El Greco Bad Kissingen / Reiterswiesen",
-      "description": "Kick-Off Meetup in Bad Kissingen der Bitcoiner und die, die es werden wollen. Offener, ungezwungener Abend mit tollen Gesprächen.",
-      "link": "https://maps.app.goo.gl/u4koQVhHuetqN6GP9",
-      "attendees": 0,
-      "nostr_note": "3a31f9a4593f66fdb7082afb66e73306bc3ab6bf4fdb74fb6e074a00e231a6a1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1528,13 +1512,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2024-09-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1453",
-      "location": "Abstimmung per Telegram",
+      "start": "2024-10-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1454",
+      "location": null,
       "description": null,
       "link": null,
-      "attendees": 1,
-      "nostr_note": "aeffd724d243d5a7973f9adb9c2c922579c6bd2f826a71773bbc75742f8fdedf"
+      "attendees": 0,
+      "nostr_note": "ce318a94005150707a7449f2bfaa30ec2dc2c9f7284bbb7142df4441ba34fc30"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1883,13 +1867,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
     "twitter": null,
     "event": {
-      "start": "2024-09-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1533",
+      "start": "2024-11-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1534",
       "location": "Bielefeld",
-      "description": "Einundzwanzig OWL       \nWann: 20.09.2024 18:00         \nWo: Brauhaus Joh. Albrecht\n    Hagenbruchstr. 8\n    33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n  (abwechselnd Bielefeld/Paderborn)\n\n",
+      "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
       "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
-      "attendees": 1,
-      "nostr_note": "9f99a8e44d567cd004d0e57d9a811041ed422bafd04091e9c8cc43fd31bc2a16"
+      "attendees": 0,
+      "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2281,7 +2265,7 @@
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwerin",
-    "twitter": null,
+    "twitter": "XellosAusSN",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
@@ -2940,13 +2924,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2024-09-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1179",
+      "start": "2024-10-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1180",
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
       "attendees": 0,
-      "nostr_note": "6db14ac6e787befe05c78ebe8886280fc893a2729f827033065fa49c90676a50"
+      "nostr_note": "fa83db4dd3995194c5ed69965628c98d7e7e5885aeef783275dc051d5b1c5aeb"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3144,15 +3128,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-09-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1576",
-      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
-      "description": "Reguläres Treffen der steirischen Bitcoin-Community. Neulinge herzlich willkommen, einfach vorbei schauen.\n\nBitcoin accepted! Bezahlung in der Pizzeria Don Alfredo mit Bitcoin Lightning möglich.",
-      "link": "https://www.don-alfredo.at/",
-      "attendees": 4,
-      "nostr_note": "3583cb62d72d82c485e5d099be267c44b6b3ef006a8c6343e1396fa8e762be7b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
