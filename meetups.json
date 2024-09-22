@@ -394,15 +394,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2024-09-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1588",
-      "location": "Ruff's Burger & BBQ in der Au Ohlmüllerstraße 10, 81541 München",
-      "description": "Jeden 21. im Monat treffen wir uns zum entspannten Austausch mit zünftigem Bier.",
-      "link": "https://www.ruffsburger.de/standort/restaurant-muenchen-au/",
-      "attendees": 1,
-      "nostr_note": "f2fd0492bd8f5c8340c4da6cd0158fa0275a886999d59238ced40905099a05e9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -530,7 +522,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2024-10-18 16:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1523",
+      "location": "El Greco Bad Kissingen / Reiterswiesen",
+      "description": "Meetup in Bad Kissingen der Bitcoiner und die, die es werden wollen. Offener, ungezwungener Abend mit tollen Gesprächen.",
+      "link": "https://maps.app.goo.gl/u4koQVhHuetqN6GP9",
+      "attendees": 1,
+      "nostr_note": "3a31f9a4593f66fdb7082afb66e73306bc3ab6bf4fdb74fb6e074a00e231a6a1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1338,8 +1338,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2024-09-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1558",
+      "start": "2024-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1559",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -2086,13 +2086,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
     "event": {
-      "start": "2024-09-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1554",
-      "location": "Kurt Dunkelmann Str. 2 18057 Rostock",
-      "description": "Am 21.09.24 ab 18 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt. Wer Lust und Zeit hat, ist herzlich eingeladen. Wir freuen uns auf jeden der kommt! Der Link kann gerne weitergegeben werden.",
-      "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/CRxxjns3cvh36OavQlWL",
-      "attendees": 0,
-      "nostr_note": "7dda09b4952dfbf306ebdeb4c16efa255ee20dc450c0aa349812e2d3d1c1560c"
+      "start": "2024-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1553",
+      "location": "18057 Rostock",
+      "description": "Am 21.10.24 ab 18 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt.\nWer Lust und Zeit hat, ist herzlich eingeladen.",
+      "link": "https://21rostock.de/",
+      "attendees": 1,
+      "nostr_note": "924e2b0d087f101de2242d4877a4b3f8595d8e366e1dea1e68730371b6256805"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2214,13 +2214,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall",
     "twitter": null,
     "event": {
-      "start": "2024-09-21 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1537",
+      "start": "2024-10-19 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1538",
       "location": "Der Schafstall, Am Buesenbach 35, 21256 Handeloh",
       "description": null,
       "link": "https://der-schafstall.de/",
       "attendees": 0,
-      "nostr_note": "2788e6a0c83265eff6a7a9acbd84bbd6224e0f2416020d5ee4c297632e96337a"
+      "nostr_note": "8d613c45a268a04c22ea200c96c21573267574b0f1f798188540c2a60ca5751d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2630,8 +2630,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2024-09-21 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1046",
+      "start": "2024-10-19 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1047",
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
@@ -3106,13 +3106,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-09-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1230",
+      "start": "2024-10-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1231",
       "location": "Passau oder Schärding",
-      "description": "35. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "36. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "25a4c6d96b18aef294c7bcaefa689ca321a50dbdce993419031bd62625a3237d"
+      "nostr_note": "e015af06235c7800f22a636050410e0f85e0a778df032a4c88e1cc3b882ec6c7"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3167,8 +3167,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": {
-      "start": "2024-09-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1189",
+      "start": "2024-10-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1190",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
       "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
       "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
