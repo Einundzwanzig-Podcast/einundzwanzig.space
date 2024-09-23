@@ -688,7 +688,15 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-09 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1590",
+      "location": "Hatti's Restaurant, Zöllnerstraße 22, 29221 Celle",
+      "description": "Für nähere Info, schaut in unserer Telegram-Gruppe vorbei.",
+      "link": "https://www.hattisrestaurant.de/",
+      "attendees": 0,
+      "nostr_note": "c84b652ebdd4fa8115def9981b03d5f224be3c1e5ef6149f002a9d6547298b2b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1231,15 +1239,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2024-09-22 09:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1580",
-      "location": "Seehaus Ingolstadt am Baggersee",
-      "description": "Wir treffen uns endlich wieder zum ersten Meetup nach der Sommerpause! Neben spannenden Geschichten, vielfältigen Themen und einem gemütlichen Beisammensein, widmen wir uns dieses Mal einem besonderen Schwerpunkt: Nostr.\n\nNostr entwickelt sich rasant weiter und gewinnt zunehmend an Bedeutung. Doch der Einstieg in diesen faszinierenden Space kann herausfordernd sein. Genau deshalb nehmen wir uns die Zeit, um alle Interessierten Schritt für Schritt durch die ersten Schritte in die Welt von Nostr zu begleiten. Egal, ob du Neuling bist oder bereits ein wenig Erfahrung hast – wir sorgen dafür, dass du sicher und gut informiert durchstarten kannst.",
-      "link": "https://maps.app.goo.gl/fzYyZ46TaG366to48",
-      "attendees": 0,
-      "nostr_note": "c6d040d34b16323963f48c7e0931c3ad1722cdb7f26c836544cd8bdf9b765019"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1990,9 +1990,9 @@
     "event": {
       "start": "2024-10-04 16:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1144",
-      "location": null,
+      "location": "trattoria toscana",
       "description": null,
-      "link": null,
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/?ved=2ahUKEwjSq9KblNiIAxV0-wIHHahINocQgU96BAgiEAQ",
       "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
@@ -2574,7 +2574,7 @@
       "location": "Musikbistro",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://g.co/kgs/1iEGhWV",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "3f42f81a5518eea42c269ac4e08f224a37b45991a98476bfcd894ef5dbdee3e5"
     },
     "style": {
@@ -2803,7 +2803,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1591",
+      "location": "Blauer Adler",
+      "description": "Quatschen + Essen + Trinken",
+      "link": "https://maps.app.goo.gl/UrmeQc6Qn72Z9wC59",
+      "attendees": 0,
+      "nostr_note": "cc003fe4045340c82dcbe74f53f7433465ff42ef50ea50a8bfcd8f7de7d92249"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3106,7 +3114,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-10-19 17:00:00",
+      "start": "2024-10-19 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1231",
       "location": "Passau oder Schärding",
       "description": "36. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
