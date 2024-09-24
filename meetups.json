@@ -1104,7 +1104,15 @@
     "city": "Hannover",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-09-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1592",
+      "location": "Höfestr. 25 im Keller",
+      "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
+      "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
+      "attendees": 0,
+      "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2251,7 +2259,15 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1608",
+      "location": "Restaurant AN - Sennfeld",
+      "description": null,
+      "link": "https://sites.google.com/view/an-restaurant/startseite",
+      "attendees": 1,
+      "nostr_note": "583f7a6f69b8f9e25663b939dafd3891987bf97da1604022ac53f7e1d957e1a8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2568,15 +2584,7 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": {
-      "start": "2024-09-23 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1579",
-      "location": "Musikbistro",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://g.co/kgs/1iEGhWV",
-      "attendees": 1,
-      "nostr_note": "3f42f81a5518eea42c269ac4e08f224a37b45991a98476bfcd894ef5dbdee3e5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
