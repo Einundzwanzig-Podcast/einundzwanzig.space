@@ -906,7 +906,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 6,
+      "attendees": 8,
       "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
@@ -1714,6 +1714,29 @@
     }
   },
   {
+    "name": "Einundzwanzig OWL",
+    "latLng": [
+      51.9867058,
+      8.6457839
+    ],
+    "url": "https://t.me/einundzwanzig_owl",
+    "city": "OWL",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl",
+    "twitter": "einundzwanzigOW",
+    "event": {
+      "start": "2024-11-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1534",
+      "location": "Bielefeld",
+      "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
+      "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Oberland",
     "latLng": [
       47.834592,
@@ -1865,29 +1888,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Ostwestfalen-Lippe",
-    "latLng": [
-      51.9867058,
-      8.6457839
-    ],
-    "url": "https://t.me/einundzwanzig_owl",
-    "city": "OWL",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ostwestfalen-lippe",
-    "twitter": null,
-    "event": {
-      "start": "2024-11-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1534",
-      "location": "Bielefeld",
-      "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
-      "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
-      "attendees": 0,
-      "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
-    },
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Pfalz",
     "latLng": [
       49.9531599,
@@ -1956,11 +1956,11 @@
     "url": "https://t.me/Einundzwanzig_Recklinghausen",
     "city": "Recklinghausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
-    "twitter": null,
+    "twitter": "EinundzwanzigRE",
     "event": {
       "start": "2024-10-21 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/910",
-      "location": "the italian, Schaumburgstraße 1 Altstadtmarkt, 45657 Recklinghausen",
+      "location": "Suberg´s bei Boente, Augustinessenstraße 4, 45657 Recklinghausen",
       "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
       "link": null,
       "attendees": 0,
@@ -2131,7 +2131,15 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "start": "2024-09-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1611",
+      "location": "Massaya Grill in Saarlouis",
+      "description": "28.09. ab 18 Uhr zum Massaya Gril",
+      "link": "https://maps.app.goo.gl/nD6Cd19jjh4smkBk6",
+      "attendees": 1,
+      "nostr_note": "5fc4695f39dd4bd3a29a945074e07301aed546c0cf30c41d669e325685dd4ab2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2161,7 +2169,15 @@
     "city": "Saarlouis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarlouis",
     "twitter": "21Saarlouis",
-    "event": null,
+    "event": {
+      "start": "2024-09-28 14:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1612",
+      "location": "Bous/Saar",
+      "description": "Kartfahren auf der Kartbahn Bous",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b71f0f3cc0e28f7080ca624545cc987cef5ce821e3cb0e0ce1cd4e80f6ca050f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2479,7 +2495,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-10-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1609",
+      "location": "Radis Stacks",
+      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
+      "link": "https://radis-stacks.de/",
+      "attendees": 0,
+      "nostr_note": "9fd6864bf352cdd981d48d8dd3471dbaf71ccc94bf2cff4ca2bb39f0572d348c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2524,7 +2548,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2024-10-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1610",
+      "location": "Wittlich",
+      "description": "Meetup in der Brasserie Balthazar",
+      "link": "https://maps.app.goo.gl/c4XM7kzSvunkJw24A",
+      "attendees": 0,
+      "nostr_note": "436cedcc4e469536cebf0bc08ca272e6b09f5a260992f5a1cdcc53b469637be7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
