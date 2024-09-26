@@ -296,7 +296,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2024-10-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1614",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
+      "description": "(English description below) Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\n**Wann:** Mittwoch, 02. Oktober 2024, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~863.909\n\n**Ort diesmal:** Brasserie Tresznjewski, Theresienstraße 72\n\n[...]",
+      "link": "https://www.bitcoinerevents.com/event/%e2%82%bf%f0%9f%8d%bb-bitcoin-munich-stammtisch-tresznjewski-3/",
+      "attendees": 0,
+      "nostr_note": "f5c5a3ec969b61a8761696787481f7f79964179e20d9a2faa4b6f24af8c6acad"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1105,8 +1113,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2024-09-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1592",
+      "start": "2024-10-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1593",
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1406,15 +1414,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-09-25 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1574",
-      "location": "Landau",
-      "description": "für Details, kommt in die Gruppe",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "d8bcb5923895a2d47b7644aa1ce6fd501e8609578a6a309362677f6914b6885c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1716,11 +1716,11 @@
   {
     "name": "Einundzwanzig OWL",
     "latLng": [
-      51.9867058,
-      8.6457839
+      51.924367,
+      8.718338
     ],
-    "url": "https://t.me/einundzwanzig_owl",
-    "city": "OWL",
+    "url": "",
+    "city": "Ostwestfalen-Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl",
     "twitter": "einundzwanzigOW",
     "event": {
@@ -2463,14 +2463,14 @@
     }
   },
   {
-    "name": "Einundzwanzig Süd Niedersachsen",
+    "name": "Einundzwanzig Südniedersachsen",
     "latLng": [
       51.5328328,
       9.9351811
     ],
     "url": "https://t.me/einundzwanzigsuedniedersachsen",
     "city": "Göttingen",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-sued-niedersachsen",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
       "start": "2024-10-11 16:00:00",
@@ -2761,8 +2761,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-09-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1011",
+      "start": "2024-10-23 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1012",
       "location": "Düsseldorf Altstadt",
       "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
       "link": null,
