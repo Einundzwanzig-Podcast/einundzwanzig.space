@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 21:59:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 13:32:29 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,66 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #13 - No Reputation Airdrop]]></title>
+      <description><![CDATA[<p><strong>NostrTalk #13</strong> - Blockzeit 862419 - von und mit <a href="https://nostr.at/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</a>, <a href="https://nostr.at/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</a> und <a href="https://nostr.at/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4">Pid</a></p>
+
+
+<p><br></p>
+<p><strong>Themen</strong></p>
+<ul>
+ <li>Reply Guy & Spam</li>
+ <li>npubs</li>
+ <li>NIP05 Identifier</li>
+ <li>Reputation von npubs</li>
+ <li>Bot ist nicht gleich Bot!</li>
+ <li>Web of Trust</li>
+ <li>Die bittere Pille über Reputation</li>
+</ul>
+
+<p><br></p>
+<p><strong>Links</strong></p>
+<ul>
+ <li><a href="https://wavlake.com/track/f46d82f2-7f26-4357-9258-32da68324f74">Intro & Outro von Man Like Kweks</a></li>
+ <li><a href="https://quillie.github.io/nostr-wegweiser/">Wegweiser für nostr Neulinge</a></li>
+ <li><a href="https://github.com/grunch/rana">npub Mining Tool</a></li>
+ <li><a href="https://nostrplebs.com/">Nostr Plebs: eine Quelle für NIP05 IDs</a></li>
+ <li><a href="https://github.com/nostr-protocol/nips/blob/master/05.md">NIP05 Spec</a></li>
+ <li><a href="https://github.com/bitvora/wot-relay ">Web-of-Trust Relay auf Github</a></li>
+ <li><a href="https://nostrudel.ninja/#/discovery">DVMs in nostrudel</a></li>
+ <li><a href="https://github.com/mmalmi/nostr-social-graph">nostr social graph Tool</a></li>
+ <li><a href="https://github.com/bitvora/wot-relay?tab=readme-ov-file#available-relays">Liste an wot Relays</a></li>
+ <li><a href=" https://nostr.at/npub1nttrktvvhewwzmfdmyruxupx2hg5pxgzlakwuhepdzlm8cdakhrs9wkh4p">Nützlicher Bot: Tracking Link Watchdog</a></li>
+ <li><a href="https://www.geeksforgeeks.org/what-is-web-of-trust/">What is Web of Trust?</a></li>
+ <li><a href="https://gifbuddy.lol/">GIF buddy</a></li>
+ <li><a href="https://github.com/erskingardner/whitenoise">White Noise Messenger</a></li>
+ <li><a href="https://wavlake.com/">Wavlake</a></li>
+</ul>
+<p><br></p>
+<p><strong>Weitere Links:</strong></p>
+<ul>
+<li>Komm in die <a href="https://matrix.to/#/#nostrtalk:matrix.org">NostrTalk</a> Chatgruppe! </li>
+<li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
+</li>
+<li>V4V Nostr Rap: manlikekweks@blink.sv</li>
+</ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-13-no-reputation-airdrop</link>
+      <guid isPermaLink="false">e53716b4-d7eb-4a15-8035-371706ee59d4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 28 Sep 2024 13:30:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92248203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F21cde6a3-7918-4b1e-ad25-b98627d82e69.mp3" length="136657005" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:56:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1727387437837-d6c77b240102e.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #13">13</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="YMFTG4NDCHte1uiF9zmS" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person href="https://primal.net/p/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#255 - Bitcoin Mausi]]></title>
       <description><![CDATA[<p>
@@ -1182,58 +1242,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     </item>
     <item>
       <title><![CDATA[#243 - Bolt12 und Katzenhaare]]></title>
-      <description><![CDATA[<p>Episode 243 - Blockzeit 850.704 - von und mit <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">gmblr247</a>, <a href="https://snort.social/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a>, &amp; <a href="https://x.com/BenMitFleck">BenMitFleck</a></p>
-<ul>
- <li><p><a href="https://www.btc-echo.de/schlagzeilen/verkauft-das-bka-50-000-bitcoin-186860/">Bundesregierung verkauft Bitcoin</a></p>
-</li>
- <li><p><a href="https://www.blocktrainer.de/blog/bitcoin-rutscht-unter-60000-us-dollar-verkaufsdruck-hoeher-als-erwartet">US Regierung verkauft Bitcoin</a></p>
-</li>
-  <li><p><a href="https://blockonomi.com/bitcoin-miner-capitulation-a-signal-for-the-next-bull-run/">Miner Capitulation</a></p>
-</li>
-  <li><p><a href="https://www.blocktrainer.de/blog/mtgox-startet-bitcoin-rueckzahlungen">MtGox startet Bitcoin Rückzahlungen</a></p>
-</li>
-  <li><p><a href="https://www.blocktrainer.de/blog/freiheits-und-bitcoin-feindlicher-gesetzvorschlag-der-cdu/csu">Abgelehnter Antrag der CDU/CSU zur totalen Überwachung von Bitcoin</a></p>
-</li>
-  <li><p><a href="https://www.bitcoin-treff.com/bitcoin-rostock/hansesail-rostock.html">Bitcoin meets Hansesail 2024</a></p>
-</li>
-  <li><p><a href="https://btcpay.coincharge.io/apps/3isxDK6jF6iJjFxUUbyJp3R3LTEE/pos">MMT Wolfersweiler Tickets</a></p>
-</li>
-  <li><p><a href="https://primal.net/e/note1eppuucmjkrux55k9gmtta9kxfua56tfrfy8sankwmlf34aach6zqggurwa">Assanges 53 Geburtstag in Freiheit</a></p>
-</li>
-  <li><p><a href="https://x.com/PhoenixWallet/status/1808547081214439494">Phoenix unterstütz Bolt12</a></p>
-</li>
-  <li><p><a href="https://x.com/zitadelleum?s=21&t=0zRiN3xCzijU0FzMJMg5Vg">Zitadelle Uckermark (25.-28.07.)</a></p>
-</li>
-  <li><p><a href="https://x.com/mostsaleablgood/status/1808487539017187690">21 Surfcamp in Frankreich, Biscarosse (18.08-25.08.)</a></p>
-</li>
-  <li><p><a href="https://x.com/21Swb/status/1753169493600158195">Wild BTC 2024 - Black-Forest-Bitcoin-Camp (05.-07.07.)</a></p>
-</li>
-  <li><p><a href="https://x.com/bitcoinatlantis?s=21&t=0zRiN3xCzijU0FzMJMg5Vg">Bitcoin Atlantis 2028</a></p>
-</li>
-  <li><p><a href="https://youtu.be/4IlwFersI7U?si=WD6OzFbHeZsFdR5M">Mit Bitcoin Adresse Nachrichten signieren</a></p>
-</li>
-</ul>
-<p>Sponsoren und Freunde</p>
-<ul>
-  <li><p>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</p>
-</li>
-  <li><p>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.</p>
-</li>
-  <li><p>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</p>
-</li>
-  <li><p>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</p>
-</li>
-</ul>
-<p>Weitere Links</p>
-<ul>
-  <li><p>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast">Telegram-Community</a>.</p>
-</li>
-  <li><p>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</p>
-</li>
-  <li><p>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</p>
-</li>
-</ul>
-<p><br>Lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</p>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-243-bolt12-und-katzenhaare]]></description>
       <link>https://einundzwanzig.space/podcast/news-243-bolt12-und-katzenhaare</link>
       <guid isPermaLink="false">97760e19-6a4f-4b59-93df-7818be6039eb</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
