@@ -830,7 +830,7 @@
       "location": "Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "248e236f1c7af0f86c34e01be4f5db023207fa69801068d99746151a3c127a35"
     },
     "style": {
@@ -898,7 +898,7 @@
       "location": "Fürth, Café Zanetta",
       "description": "Café Zanetta\nNeumannstraße 28\n90763 Fürth",
       "link": "https://maps.app.goo.gl/2XzuLQ927TKao4C47",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "c3531e8bbac7e1f46c9b779f398ce84916dcc735bc290da96872a7d8ff20919f"
     },
     "style": {
@@ -2047,7 +2047,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1617",
+      "location": "Rinteln La Fontana",
+      "description": "Adresse: Weserstraße 7, 31737 Rinteln\n\nStart 18 Uhr\n\nKein Vortrag geplant.",
+      "link": "https://g.co/kgs/F4qmKUk",
+      "attendees": 1,
+      "nostr_note": "258972854fcfc714751f3fbd782540c4a18c887f0b9e67073273fd11ffe5c2f7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2630,15 +2638,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2024-09-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1616",
-      "location": "Balingen Naboo",
-      "description": "Furchtlos und Trew",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "d85762d2813b09f8bdbd5e9ff2105fe4271049a0cd22f84cd3bd432592604548"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
