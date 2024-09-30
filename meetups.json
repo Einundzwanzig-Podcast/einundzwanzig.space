@@ -1305,7 +1305,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
+      "attendees": 4,
       "nostr_note": "e1d4f4f6a206ad1eb6261ec216a15ba9831d7382e93ec19af98684e26dd4e438"
     },
     "style": {
@@ -1872,6 +1872,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Peine",
+    "latLng": [
+      52.323318,
+      10.22898
+    ],
+    "url": "https://t.me/+6hl5Qy30mTFmODJi",
+    "city": "Peine",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-peine",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Pfalz",
     "latLng": [
       49.9531599,
@@ -2423,7 +2438,7 @@
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
