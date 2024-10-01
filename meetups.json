@@ -1305,7 +1305,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 7,
       "nostr_note": "e1d4f4f6a206ad1eb6261ec216a15ba9831d7382e93ec19af98684e26dd4e438"
     },
     "style": {
@@ -2364,7 +2364,15 @@
     "city": "Spreewald ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
     "twitter": "schlabendorf",
-    "event": null,
+    "event": {
+      "start": "2024-10-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1618",
+      "location": "Lübbenau ",
+      "description": null,
+      "link": "https://benvenuti-restaurant.metro.biz/?lang=de",
+      "attendees": 0,
+      "nostr_note": "1cfd45538078e6370333a9831237b9bd4b414108f1afdfbd29f9b8e1d9a378a3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3119,7 +3127,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ \nWann: Freitag, 11.10.24, ab 18h\nWo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘\n",
       "link": "https://maps.app.goo.gl/marX5zCX5zC5LS1N9",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "14abe78ec05ebb8b2357f61514a1d972f49e5d0260053ccf0bb3fc07e3bb0696"
     },
     "style": {
