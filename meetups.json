@@ -188,6 +188,21 @@
     }
   },
   {
+    "name": "Bitcoin MeetUp Chiemsee/Chiemgau",
+    "latLng": [
+      47.854901,
+      12.347379
+    ],
+    "url": "https://t.me/+wAD27rhDgDYzZmEy",
+    "city": "Chiemsee/Chiemgau",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-chiemseechiemgau",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Meetup - Einundzwanzig Potsdam",
     "latLng": [
       52.4009309,
@@ -854,7 +869,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1619",
+      "location": "Essen (Lokation wird noch ermittelt)",
+      "description": "",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "a5dd14d27cace127a9f7ca6cdb1fa02e6ed2314aeb583c8cf99643aa9279f276"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1546,6 +1569,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Meetup Mühldorf am Inn",
+    "latLng": [
+      48.23896,
+      12.52761
+    ],
+    "url": "https://t.me/+KUpZ5NKm-IxjYTQ6",
+    "city": "Mühldorf am Inn",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Memmingen",
     "latLng": [
       47.9867696,
@@ -2105,6 +2143,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Saarbrücken",
+    "latLng": [
+      49.234779,
+      7
+    ],
+    "url": "https://t.me/+_KlbDZv3xn81ZjEy",
+    "city": "Saarbrücken",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
+    "twitter": "bitcoinsbsb",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Saarland",
     "latLng": [
       49.3841872,
@@ -2422,7 +2475,7 @@
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
     "style": {
@@ -2515,15 +2568,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2024-10-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1610",
-      "location": "Wittlich",
-      "description": "Meetup in der Brasserie Balthazar",
-      "link": "https://maps.app.goo.gl/c4XM7kzSvunkJw24A",
-      "attendees": 0,
-      "nostr_note": "436cedcc4e469536cebf0bc08ca272e6b09f5a260992f5a1cdcc53b469637be7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2750,21 +2795,6 @@
     "city": "Berlin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/micro-meet-up-prager-platz",
     "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Saarbrücken",
-    "latLng": [
-      49.234779,
-      7
-    ],
-    "url": "https://t.me/+_KlbDZv3xn81ZjEy",
-    "city": "Saarbrücken",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/saarbruecken",
-    "twitter": "bitcoinsbsb",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -3027,7 +3057,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fe8e76f10c2462968230355def2fc48231b62f1402cc6c5703a0c583590ad8aa"
     },
     "style": {
