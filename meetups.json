@@ -1397,7 +1397,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-10-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1622",
+      "location": "Landau",
+      "description": "Weitere Details in den versch. Messenger Gruppen.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "37248085ef6956bc22cfedece5ee71bf1121fd1336d6ddd42997127772d5837d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
