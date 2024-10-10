@@ -228,13 +228,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-10-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1263",
+      "start": "2024-11-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1264",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "4bf8f72ce809b6b05156e08796656a31ae7be409d36dc6dc83a340900c609a73"
+      "nostr_note": "53ec134002be49a3b81e0a328d31f0cbc82c979b78457ffde47a8b73ddf73932"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -377,7 +377,7 @@
       "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
       "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
       "link": null,
-      "attendees": 0,
+      "attendees": 3,
       "nostr_note": "d7e1e7a3e452e86aa91bcea052dc555374be5f87dbbb9e947e3a9b0a0475acd6"
     },
     "style": {
@@ -695,15 +695,7 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": {
-      "start": "2024-10-09 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1590",
-      "location": "Hatti's Restaurant, Zöllnerstraße 22, 29221 Celle",
-      "description": "Für nähere Info, schaut in unserer Telegram-Gruppe vorbei.",
-      "link": "https://www.hattisrestaurant.de/",
-      "attendees": 0,
-      "nostr_note": "c84b652ebdd4fa8115def9981b03d5f224be3c1e5ef6149f002a9d6547298b2b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -718,7 +710,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-25 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1620",
+      "location": "Morizz Café Bar Restaurant / Ludwigstraße 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://morizz-cham.eatbu.com/",
+      "attendees": 1,
+      "nostr_note": "5069969b07dff1acabb4baef7b3fb397f63fec8e24c3ad3c056adc7b9ea3ce57"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -869,15 +869,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "start": "2024-10-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1619",
-      "location": "Essen (Lokation wird noch ermittelt)",
-      "description": "",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a5dd14d27cace127a9f7ca6cdb1fa02e6ed2314aeb583c8cf99643aa9279f276"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2846,7 +2838,7 @@
       "location": "Blauer Adler",
       "description": "Quatschen + Essen + Trinken",
       "link": "https://maps.app.goo.gl/UrmeQc6Qn72Z9wC59",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "cc003fe4045340c82dcbe74f53f7433465ff42ef50ea50a8bfcd8f7de7d92249"
     },
     "style": {
@@ -3133,7 +3125,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ \nWann: Freitag, 11.10.24, ab 18h\nWo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘\n",
       "link": "https://maps.app.goo.gl/marX5zCX5zC5LS1N9",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "14abe78ec05ebb8b2357f61514a1d972f49e5d0260053ccf0bb3fc07e3bb0696"
     },
     "style": {
@@ -3452,7 +3444,15 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": null,
+    "event": {
+      "start": "2024-10-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1621",
+      "location": "Schall und Rauch Bar, Rheingasse 27, Basel",
+      "description": "Nächstes Meetup in Basel. \nWir freuen uns auf interessante Gespräche. Sowohl erfahrene Bitcoiner als auch Neulinge sind herzlich Willkommen.",
+      "link": "https://g.co/kgs/Tx8Prx9",
+      "attendees": 0,
+      "nostr_note": "b7f889d14364d3062948de277f2c36913b16fe7ad295c5538ac0c5ef227443aa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
