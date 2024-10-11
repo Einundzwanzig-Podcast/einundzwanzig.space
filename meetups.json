@@ -2393,15 +2393,7 @@
     "city": "Spreewald ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
     "twitter": "schlabendorf",
-    "event": {
-      "start": "2024-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1618",
-      "location": "Lübbenau ",
-      "description": null,
-      "link": "https://benvenuti-restaurant.metro.biz/?lang=de",
-      "attendees": 0,
-      "nostr_note": "1cfd45538078e6370333a9831237b9bd4b414108f1afdfbd29f9b8e1d9a378a3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2432,13 +2424,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2024-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1462",
+      "start": "2024-11-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1463",
       "location": "Ramrob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "b88b428bfb9068760ed4edbabc92f23084dfad06cf9797e8f0a88f7ff2655819"
+      "nostr_note": "22d8dd239e1da32b92e7704329968e8284a6504533cd6c159940471d9909c568"
     },
     "style": {
       "fill": "var(--color-accent)"
