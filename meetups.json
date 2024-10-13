@@ -1306,7 +1306,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2024-11-14 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1624",
+      "location": "Burghotel Bären, 87637 Eisenberg / Zell",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Ein Treffen auf \"halbem Weg\" zwischen 21-Ausserfern, Füssen und 21-Kempten. Ein besonderer Ort, nicht nur fürs Meetup. Wir freuen uns auf Dich. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.derbaeren.de/",
+      "attendees": 4,
+      "nostr_note": "12bfcfa4360600140cd275f90da3d0caa3bc862447db2f2a1c8d938eb5467631"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3033,7 +3041,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fe8e76f10c2462968230355def2fc48231b62f1402cc6c5703a0c583590ad8aa"
     },
     "style": {
