@@ -1874,8 +1874,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "start": "2024-10-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1363",
+      "start": "2024-11-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1364",
       "location": "Altlandsberg, Zur Mühle",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen. ",
       "link": "https://maps.app.goo.gl/kCqxnXSpVCvK1Q1W7",
@@ -2160,7 +2160,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2024-10-22 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1625",
+      "location": "Bar Celona Saarbrücken",
+      "description": null,
+      "link": "https://maps.app.goo.gl/bH3gZEetNZtWVMcAA",
+      "attendees": 1,
+      "nostr_note": "362600822329bfa1eedec2eeb0da6737c105e16a63c6d39f03afc94a15c459e8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2288,7 +2296,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2024-10-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1626",
+      "location": "Zum Kuckuck / VS Villingen",
+      "description": "Einundzwanzig Schwarzwald Baar wird EINS Jahre alt 🎉😍\n\nKommt alle vorbei und feiert mit uns zusammen. Wer mit Partyhut kommt, bekommt nen feuchten Händedruck 😜\n\nWir sehen uns 😎",
+      "link": "https://g.co/kgs/628Knbv",
+      "attendees": 1,
+      "nostr_note": "0a55118f88baaa3bf1e6a1d87c49e0935340d53fdfcaf402be9cc3c057248175"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
