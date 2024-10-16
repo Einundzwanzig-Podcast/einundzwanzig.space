@@ -115,13 +115,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-10-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/968",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "start": "2024-11-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/981",
+      "location": "Berlin",
+      "description": "Friedel Richter, Torstr. 199, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
+      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1312,7 +1312,7 @@
       "location": "Burghotel Bären, 87637 Eisenberg / Zell",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Ein Treffen auf \"halbem Weg\" zwischen 21-Ausserfern, Füssen und 21-Kempten. Ein besonderer Ort, nicht nur fürs Meetup. Wir freuen uns auf Dich. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.derbaeren.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "12bfcfa4360600140cd275f90da3d0caa3bc862447db2f2a1c8d938eb5467631"
     },
     "style": {
@@ -3165,7 +3165,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-10-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1627",
+      "location": "Immervoll, Lendplatz 40, 8020 Graz",
+      "description": "Zwangloser Stammtisch der steirischen Bitcoin-Community, interessierte Neulinge sind immer willkommen!  Diesmal im Cafe Immervoll am Lendplatz 40.  Für die Sturm-Fans: Ab 21h Champions League Sturm Graz vs. Sporting Lissabon auf großer Leinwand.",
+      "link": "https://www.immervoll.at/",
+      "attendees": 0,
+      "nostr_note": "06275b9c442492dee4438a8a69d0bf31f66e43ba307477ff1ef7cac5b189a257"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3596,13 +3604,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
     "event": {
-      "start": "2024-10-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1161",
+      "start": "2024-11-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1162",
       "location": "Palma - Ventura Harbor Bar",
       "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
       "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
       "attendees": 0,
-      "nostr_note": "14ea25542864faf6cc0954c4b6e49f4b64660127d9d6c518fa17b988024bcafe"
+      "nostr_note": "5046fa9c7f8e91ad9626cd0a4500df09ef2095c3b8fac5b2eee71dfe51de7bb5"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
