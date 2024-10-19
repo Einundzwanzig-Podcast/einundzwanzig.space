@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 17:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 11:32:20 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,44 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #14 - Herr der Schlüssel]]></title>
+      <description><![CDATA[<p><strong>NostrTalk #14</strong> - Blockzeit 865321 - von und mit <a href="https://nostr.at/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2" rel="ugc noopener noreferrer" target="_blank">Quillie</a>, 
+<a href="https://nostr.at/npub18hxp27srqnkzd6snrg85u4mw9kn8lawxdxqff8z4h4lshvd4a7ssmtxks4" rel="ugc noopener noreferrer" target="_blank">Michael1011</a> und <a href="https://nostr.at/npub1k4hate0ss8td49dj5as7cnzler5zx3wst06ul59wdf6pvqwyyt3q7zrca4" rel="ugc noopener noreferrer" target="_blank">Pid</a></p>
+
+<p><strong>Links</strong></p>
+<ul>
+ <li><a href="https://wavlake.com/track/cce201e3-e52c-4705-9afc-6c0f974a3ecb" rel="ugc noopener noreferrer" target="_blank">Intro &amp; Outro von Rod Palmer</a></li>
+ <li><a href="https://nostr.com/the-protocol/nips" rel="ugc noopener noreferrer" target="_blank">Was ist ein NIP?</a></li>
+ <li><a href="https://quillie.github.io/nostr-wegweiser/" rel="ugc noopener noreferrer" target="_blank">Wegweiser für nostr Neulinge</a></li>
+ <li><a href="https://nip06.jaonoctus.dev/" rel="ugc noopener noreferrer" target="_blank">Demo: Basic key derivation from mnemonic seed phrase</a></li>
+ <li><a href="https://github.com/jaonoctus/nip06-web/releases" rel="ugc noopener noreferrer" target="_blank">Source Code für Key Generation Tool</a></li>
+ <li><a href="https://nostrapps.com/" rel="ugc noopener noreferrer" target="_blank">Signers findest du auf nostrapps</a></li>
+ <li><a href="https://github.com/kind-0/nsecbunkerd" rel="ugc noopener noreferrer" target="_blank">Nsecbunker</a></li>
+ <li><a href="https://github.com/nickfarrow/frostr" rel="ugc noopener noreferrer" target="_blank">Flexible Round Optimized Schnorr Threshold (FROST)</a></li>
+ <li><a href="https://fiatjaf.com/4c79fd7b.html" rel="ugc noopener noreferrer" target="_blank">Fiatjaf: Why I don't like NIP-26 as a solution for key management</a></li>
+</ul>
+<p><strong>Weitere Links:</strong></p>
+<ul>
+<li>Komm in die <a href="https://matrix.to/#/#nostrtalk:matrix.org" rel="ugc noopener noreferrer" target="_blank">NostrTalk</a> Chatgruppe! </li>
+<li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/" rel="ugc noopener noreferrer" target="_blank">Fountain</a> oder <a href="https://breez.technology/" rel="ugc noopener noreferrer" target="_blank">Breeze</a></p>
+</li>
+</ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-14-herr-der-schluessel</link>
+      <guid isPermaLink="false">b44b5675-f0cd-4d77-b237-738383b786a0</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 19 Oct 2024 11:30:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92988573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-13%2Ff2c87f1a-7016-5b07-0db3-f9818192256e.mp3" length="131124480" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>00:54:38</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1728859721522-99fcf9335d613.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #14">14</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#258 - Ab in den Keller!]]></title>
       <description><![CDATA[<p>Episode 258 - Blockzeit 865.938 - von und mit <a href="https://nostr.com/npub1z77juddgcul5la7jq578nsurpxh99633ccanngf863m4gh6gv2msm009sr" rel="ugc noopener noreferrer" target="_blank">NetDiver</a>, <a href="https://nostr.com/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p" rel="ugc noopener noreferrer" target="_blank">Sirius</a>, Bruno und <a href="https://nostr.com/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924" rel="ugc noopener noreferrer" target="_blank">Gambler</a></p>
@@ -1123,23 +1161,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
     </item>
     <item>
       <title><![CDATA[Der Weg #94 - Bitcoin ist Ordnung]]></title>
-      <description><![CDATA[<p><strong>Der Weg #94 - Blockzeit </strong>853.710<strong> </strong>- von und mit <a href="https://twitter.com/fabthefoxx">Fab</a> und <a href="https://twitter.com/tanksen_f">Tanksen</a></p>
-<p>Fab und Tanksen sprechen mit <a href="http://der_frie/">Sebastian</a> über einen unkonventionellen beruflichen Weg vom Konditormeister über die Mediengestaltung, Marketingkommunikation hin zu einem ERP Berater im Softwarebereich. Darüber, wie Sebastian sich mit Aktien die Finger verbrannt hat und so auf das Thema finanzielle Bildung gestoßen ist. Am Ende ist er über eine Bitcoin Shitcoin Gruppe aufs Lightning Netzwerk gestoßen, um dann in das technische Rabbit hole zu fallen, bis hin zur Gründung einer GbR, in der sich Sebastian darum kümmert, dass kleine Unternehmungen Bitcoin annehmen können.</p>
-<p>Unzählige Wege können einen zu Bitcoin führen, das erleben wir immer wieder bei diesen Episoden. Wir Menschen sind jedoch äußerst vergesslich und erinnern uns teilweise kaum mehr an unseren eigenen Weg zu Bitcoin. Das macht frische Perspektiven immer wieder spannend. “Einundzwanzig – Der Weg” soll uns dabei helfen, verschiedene Perspektiven kennenzulernen und mehr Verständnis für diese aufzubringen. Hierfür spricht Fab zusammen mit wechselnden Co-Moderatoren mit meist recht frischen Bitcoinern, die erst vor kurzem bei “Bitcoin-Only” angekommen sind.</p>
-<p><strong>Weitere Links:</strong></p>
-<ul>
- <li><p>Besuche unsere<a href="https://einundzwanzig.space/"> Website</a></p>
-</li>
- <li><p>Diskutiere mit in unserer<a href="https://t.me/einundzwanzigpodcast"> Community</a></p>
-</li>
-  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/">Fountain</a> oder <a href="https://breez.technology/">Breeze</a></p>
-</li>
-  <li><p>Für 21.000 sats kannst du uns ein<a href="https://shoutout.einundzwanzig.space/"> Shoutout</a> da lassen</p>
-</li>
-  <li><p><a href="https://business-bitcoin.de/">https://business-bitcoin.de/</a></p>
-</li>
-</ul>
-<p><br></p>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-94-bitcoin-ist-ordnung]]></description>
       <link>https://einundzwanzig.space/podcast/der-weg-94-bitcoin-ist-ordnung</link>
       <guid isPermaLink="false">b3265779-4ec0-46c6-a1ab-3170b1ad8135</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
