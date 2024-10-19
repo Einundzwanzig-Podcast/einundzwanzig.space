@@ -311,7 +311,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2024-11-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1629",
+      "location": "Brasserie Tresznjewski, Theresienstraße 72, 80333 München",
+      "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
+      "link": "https://g.co/kgs/7bZL693",
+      "attendees": 1,
+      "nostr_note": "990950c553f7ad042cff5b05278ade13d02323916be6d72f580fb584147f8088"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -409,7 +417,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2024-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1628",
+      "location": "Gasthaus Weinbauer, Fendstraße 5, 80802 München",
+      "description": "Essen, Trinken, Trinken... Kommt vorbei!",
+      "link": "http://weinbauer-muenchen.de/",
+      "attendees": 1,
+      "nostr_note": "b76f0b27e9c0384447d6669c30b11b4ad4b560448426fdad96366480250ab6d6"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -529,15 +545,7 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": {
-      "start": "2024-10-18 16:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1523",
-      "location": "El Greco Bad Kissingen / Reiterswiesen",
-      "description": "Meetup in Bad Kissingen der Bitcoiner und die, die es werden wollen. Offener, ungezwungener Abend mit tollen Gesprächen.",
-      "link": "https://maps.app.goo.gl/u4koQVhHuetqN6GP9",
-      "attendees": 1,
-      "nostr_note": "3a31f9a4593f66fdb7082afb66e73306bc3ab6bf4fdb74fb6e074a00e231a6a1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1511,13 +1519,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2024-10-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1454",
-      "location": null,
+      "start": "2024-11-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1455",
+      "location": "Abstimmung per Telegram",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "ce318a94005150707a7449f2bfaa30ec2dc2c9f7284bbb7142df4441ba34fc30"
+      "nostr_note": "984f383db34ed1c09a07b7ee2e9ef04c982124aca47de76f73a19397b6424c68"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1730,13 +1738,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl",
     "twitter": "einundzwanzigOW",
     "event": {
-      "start": "2024-10-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1615",
-      "location": "Paderborn",
-      "description": "Südhotel\nBorchener Straße 23\n33098 Paderborn\n",
-      "link": "https://www.suedhotel.de/",
-      "attendees": 0,
-      "nostr_note": "4421256e780bb0b31dd31c4ee280574ab187e04c5da6ef096d05c33897b75c8b"
+      "start": "2024-11-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1534",
+      "location": "Bielefeld",
+      "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
+      "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
+      "attendees": 2,
+      "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2507,15 +2515,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-10-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1609",
-      "location": "Radis Stacks",
-      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
-      "link": "https://radis-stacks.de/",
-      "attendees": 1,
-      "nostr_note": "9fd6864bf352cdd981d48d8dd3471dbaf71ccc94bf2cff4ca2bb39f0572d348c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3035,15 +3035,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2024-10-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1589",
-      "location": "Cafe Froschberg",
-      "description": null,
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "fe8e76f10c2462968230355def2fc48231b62f1402cc6c5703a0c583590ad8aa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3436,15 +3428,7 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel",
     "twitter": "einundzwanzigBS",
-    "event": {
-      "start": "2024-10-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1621",
-      "location": "Schall und Rauch Bar, Rheingasse 27, Basel",
-      "description": "Nächstes Meetup in Basel. \nWir freuen uns auf interessante Gespräche. Sowohl erfahrene Bitcoiner als auch Neulinge sind herzlich Willkommen.",
-      "link": "https://g.co/kgs/Tx8Prx9",
-      "attendees": 0,
-      "nostr_note": "b7f889d14364d3062948de277f2c36913b16fe7ad295c5538ac0c5ef227443aa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
