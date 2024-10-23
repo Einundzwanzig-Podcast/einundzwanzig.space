@@ -312,13 +312,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-11-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1629",
-      "location": "Brasserie Tresznjewski, Theresienstraße 72, 80333 München",
-      "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
-      "link": "https://g.co/kgs/7bZL693",
-      "attendees": 1,
-      "nostr_note": "990950c553f7ad042cff5b05278ade13d02323916be6d72f580fb584147f8088"
+      "start": "2024-10-23 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1633",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #5",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]\n\nOrt diesmal: Online über jitsi:\n\n    ​Direktlink zum Conference-Call: https://meet.jit.si/moderated/8258683a311677c4d07e7cc16ad5c2d817a285137af52fc0b447177b1faeae6b\n\n",
+      "link": "https://lu.ma/2dg5aj9m",
+      "attendees": 0,
+      "nostr_note": "95fb89717bcf04d60ff4e3c71fc23230d3a3a44b0d85e20fa8988a3640ed7bd3"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -2144,15 +2144,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2024-10-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1625",
-      "location": "Bar Celona Saarbrücken",
-      "description": null,
-      "link": "https://maps.app.goo.gl/bH3gZEetNZtWVMcAA",
-      "attendees": 1,
-      "nostr_note": "362600822329bfa1eedec2eeb0da6737c105e16a63c6d39f03afc94a15c459e8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3019,7 +3011,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2024-11-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1634",
+      "location": "Cafe Froschberg ",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "7f6cc040cf04932b115f1386dcc4ea16f5d2c49742426d9db3fb81c3f88de3e5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3125,15 +3125,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-10-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1627",
-      "location": "Immervoll, Lendplatz 40, 8020 Graz",
-      "description": "Zwangloser Stammtisch der steirischen Bitcoin-Community, interessierte Neulinge sind immer willkommen!  Diesmal im Cafe Immervoll am Lendplatz 40.  Für die Sturm-Fans: Ab 21h Champions League Sturm Graz vs. Sporting Lissabon auf großer Leinwand.",
-      "link": "https://www.immervoll.at/",
-      "attendees": 0,
-      "nostr_note": "06275b9c442492dee4438a8a69d0bf31f66e43ba307477ff1ef7cac5b189a257"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
