@@ -913,7 +913,7 @@
       "location": "Bamberg, Café MiEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://g.co/kgs/fVFs3Kg",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "f8896173465f9431fdce15ca06ab5eaf399ecea127f4b16753c4a860d429819b"
     },
     "style": {
@@ -3095,7 +3095,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1636",
+      "location": "FIT.smartfood, Maxglaner Hauptstraße 8, 5020 Salzburg",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nDon't forget to ₿ring your Sats 😘\n",
+      "link": "https://maps.app.goo.gl/NxPQtR8vgucyV9Te8",
+      "attendees": 1,
+      "nostr_note": "6b4f79eefcd5f379b637ac1245d2650c6e31937ce7d1f91e02bb7e80342a6d3d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
