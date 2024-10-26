@@ -718,15 +718,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-10-25 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1620",
-      "location": "Morizz Café Bar Restaurant / Ludwigstraße 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://morizz-cham.eatbu.com/",
-      "attendees": 1,
-      "nostr_note": "5069969b07dff1acabb4baef7b3fb397f63fec8e24c3ad3c056adc7b9ea3ce57"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -913,7 +905,7 @@
       "location": "Bamberg, Café MiEZ ⚡️",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
       "link": "https://g.co/kgs/fVFs3Kg",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "f8896173465f9431fdce15ca06ab5eaf399ecea127f4b16753c4a860d429819b"
     },
     "style": {
@@ -1368,8 +1360,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-10-25 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1441",
+      "start": "2024-11-30 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1442",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
@@ -1564,6 +1556,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-altoetting",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Meetup Düsseldorf",
+    "latLng": [
+      51.2254018,
+      6.7763137
+    ],
+    "url": "https://t.me/einundzwanzig_duesseldorf",
+    "city": "Düsseldorf",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
+    "twitter": null,
+    "event": {
+      "start": "2024-11-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1638",
+      "location": "Düsseldorf",
+      "description": "Meetup Düsseldorf. Wo genau wird in der Gruppe abgestimmt. ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c26797dda77dd798eeb918a7a7b69adf0a739c2cbf1a5907ca15c34f96ab91ca"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2719,29 +2734,6 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/mk-einundzwanzig",
     "twitter": null,
     "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Meetup Düsseldorf",
-    "latLng": [
-      51.2254018,
-      6.7763137
-    ],
-    "url": "https://t.me/einundzwanzig_duesseldorf",
-    "city": "Düsseldorf",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-duesseldorf",
-    "twitter": null,
-    "event": {
-      "start": "2024-11-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1013",
-      "location": "Düsseldorf Altstadt",
-      "description": "Für nähere Info zum Ort bitte der Telegram Gruppe beitreten",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "fc5ed8714b2eff180deebb5555b1f68b596395d9ba1088ab16f11cd930898c31"
-    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
