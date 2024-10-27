@@ -545,7 +545,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2024-12-13 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1639",
+      "location": "El Greco in Bad Kissingen / Reiterswiesen ",
+      "description": "Unser nächstes Meetup der Einundzwanzig Gruppe Bad Kissingen inklusive kleiner Weihnachtsfeier!",
+      "link": "https://maps.app.goo.gl/i3zsdUnVWKxgRb1V8",
+      "attendees": 0,
+      "nostr_note": "7af971206430e3f8c3c832ee39f0bf8303dfe5905b7980a9081f0a3f56bc03ec"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -900,13 +908,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-10-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1028",
-      "location": "Bamberg, Café MiEZ ⚡️",
-      "description": "Café MIEZ\nAustraße 8\n96047 Bamberg\n⚡️Accepted",
-      "link": "https://g.co/kgs/fVFs3Kg",
-      "attendees": 6,
-      "nostr_note": "f8896173465f9431fdce15ca06ab5eaf399ecea127f4b16753c4a860d429819b"
+      "start": "2024-11-23 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1032",
+      "location": "Nürnberg, tbd",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "21b5b601c448061a98b7de26d200ea37a49cd5c040bc6f6472857b9b97a70c34"
     },
     "style": {
       "fill": "var(--color-accent)"
