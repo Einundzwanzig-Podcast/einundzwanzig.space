@@ -681,7 +681,15 @@
     "city": "Bremen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
-    "event": null,
+    "event": {
+      "start": "2024-10-30 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1640",
+      "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
+      "description": "Hohenlohestraße 4-6, 28209 Bremen",
+      "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
+      "attendees": 1,
+      "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1601,7 +1609,15 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1653",
+      "location": "Taverna Antica ",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "57e5945fb07a91d0ae2a04e907a7eb2b86938881990b6ad362a6991a48959cf1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
