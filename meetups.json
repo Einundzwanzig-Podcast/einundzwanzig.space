@@ -325,6 +325,29 @@
     }
   },
   {
+    "name": "Bitcoin Talk&Network",
+    "latLng": [
+      48.828009,
+      13.775597
+    ],
+    "url": "https://www.amityage.com/events",
+    "city": "Haidmühle",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-talknetwork",
+    "twitter": "@AmityAge",
+    "event": {
+      "start": "2024-11-02 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1654",
+      "location": "Gasthof Pension Strohmaier, Kirchbergstraße 25, 94145 Haidmühle, Germany",
+      "description": "Let's have a talk with bitcoin educators on Saturday night. Networking with a community of bitcoin enthusiasts about bitcoin adoption, education and bitcoin projects, just a bit of a Bitcoin Talk & Network. You can also look forward to a culinary experience in Gasthof Pension Strohmaier. Come, we'll be there ;)\n\nLet us know if you will come to Bitcoin Talk&Network, so we know how many places to reserve ;)\n\nWHEN: Saturday, November 2 at 18:21\nWHERE: Gasthof Pension Strohmaier, Kirchbergstraße 25, 94145 Haidmühle, Germany\nGoogle map: https://maps.app.goo.gl/CWU8mwN1qkpUhXbp8\n\nWe look forward to seeing you there :)\n\nDušky Matuška, AmityAge crew and graduates of Bitcoin Educators Academy in Germany 2024",
+      "link": "https://forms.gle/upnJwF1264bBU9HQA",
+      "attendees": 1,
+      "nostr_note": "170ba849e2303de3e0b477af7a3990a0c996dfac04f1441e7220b30f129d18fd"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Ulm",
     "latLng": [
       48.3974003,
@@ -2056,11 +2079,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-11-01 17:20:00",
+      "start": "2024-11-08 17:20:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1145",
-      "location": null,
-      "description": null,
-      "link": null,
+      "location": "Kernen ",
+      "description": "Wir treffen uns beim Parkplatz vom Trattoria Toscana und ziehen dann weiter auf ein stückle von einem Pleb.\n",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
       "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
