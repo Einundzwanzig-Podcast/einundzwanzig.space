@@ -493,7 +493,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2024-11-19 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1657",
+      "location": "Zur Gemütlichkeit, Amtshof 10, 36304 Alsfeld",
+      "description": "Unser nächstes Meetup findet am 19.11.2024 ab 18:30 in der Kneipe Zur Gemütlichkeit in Alsfeld statt. \nAdresse:\nAmtshof 10, 36304 Alsfeld\nBitte die Teilnahme über Telegram oder hier weiter unten mitteilen um entsprechend Tische zu reservieren.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "a3865a91e392f951d3dd303c6bd1618b2a69a586e08a69097c9e45dc15c9cb4c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -710,7 +718,7 @@
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
     },
     "style": {
@@ -2084,7 +2092,7 @@
       "location": "Kernen ",
       "description": "Wir treffen uns beim Parkplatz vom Trattoria Toscana und ziehen dann weiter auf ein stückle von einem Pleb.\n",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 0,
+      "attendees": 4,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2357,7 +2365,15 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-15 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1656",
+      "location": "Restaurant AN - Sennfeld",
+      "description": "Infoabend für Neulinge und NOcoiner.\n\n(Präsentation von ClarifyBitcoin, wie Funktioniert unser Geld, warum brauchen wir Bitcoin)\n\nBeginn 18 Uhr. Platzhalter gerne schon um 17:30.\n\n",
+      "link": "https://g.co/kgs/1R1AjQe",
+      "attendees": 0,
+      "nostr_note": "fd162f5869ccab64de9a039ee2347b8edc2cf29a4893f07a7dd63e806a1e6c24"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2621,7 +2637,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-10-30 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1655",
+      "location": "Gaststätte Feltmann, Kirchstraße 1, 52525 Heinsberg Waldenrath",
+      "description": "Bitcoin only. Stammtisch in der Dorfkneipe für Bitcoiner und Interessierte ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 1,
+      "nostr_note": "b7bb3099c671025b74baa5781bcf99ee9fc5daf3b7a33bfa96c677c923e0e67d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
