@@ -713,12 +713,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-10-30 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1640",
+      "start": "2024-11-30 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1641",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
-      "attendees": 2,
+      "attendees": 0,
       "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
     },
     "style": {
@@ -765,7 +765,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-30 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1658",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "143ecfd8eb46c2cff0b683ceafef4d3c4019ce93c15fe4e85a14d9b1c24b23f0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1143,12 +1151,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2024-10-30 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1593",
+      "start": "2024-11-27 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1594",
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
     },
     "style": {
@@ -1351,7 +1359,7 @@
       "location": "Burghotel Bären, 87637 Eisenberg / Zell",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Ein Treffen auf \"halbem Weg\" zwischen 21-Ausserfern, Füssen und 21-Kempten. Ein besonderer Ort, nicht nur fürs Meetup. Wir freuen uns auf Dich. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.derbaeren.de/",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "12bfcfa4360600140cd275f90da3d0caa3bc862447db2f2a1c8d938eb5467631"
     },
     "style": {
@@ -2637,15 +2645,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-10-30 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1655",
-      "location": "Gaststätte Feltmann, Kirchstraße 1, 52525 Heinsberg Waldenrath",
-      "description": "Bitcoin only. Stammtisch in der Dorfkneipe für Bitcoiner und Interessierte ",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "b7bb3099c671025b74baa5781bcf99ee9fc5daf3b7a33bfa96c677c923e0e67d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
