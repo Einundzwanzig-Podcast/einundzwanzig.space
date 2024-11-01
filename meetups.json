@@ -1113,8 +1113,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-10-31 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1402",
+      "start": "2024-11-28 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1403",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -2162,7 +2162,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1659",
+      "location": "La Fontana Rinteln , Weserstraße 7",
+      "description": "Ort:\nLa Fontana Pizzeria\nWeserstraße 7\n31737 Rinteln\n\nVortrag:\n\nVerwahrmöglichkeiten von Keys\n\nBesitzer nimmt bisher nur Spenden in Lightning an.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "dd951faa7a1f3e9d5abbbb9f913e320ee235e6f5221a45552f8d84b008cce2da"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2192,7 +2200,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2024-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1660",
+      "location": null,
+      "description": "Am 21.11.24 ab 18 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt. Diesmal wird unser Dr. Mathias Linkerhand einen Vortrag über Bitcoin Mining halten.",
+      "link": "https://anmeldung.bitcoin-ultra.de",
+      "attendees": 0,
+      "nostr_note": "b1e4bd2f1c86aaec3ef768e9222511646d17f5e6e4d6731f95fef0f4b64bad5a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2691,13 +2707,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2024-10-31 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1516",
+      "start": "2024-11-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1517",
       "location": "Wiesbaden",
       "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen?\n\nWenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
       "link": "https://www.das6040.de/",
       "attendees": 0,
-      "nostr_note": "7116b9243e26718330558b2ab2f61397f3095b4b5370d5a56b479e298c76735b"
+      "nostr_note": "76df659c9d021e194665ed5b1281aeb669b777888951e0a32fc000cc52037166"
     },
     "style": {
       "fill": "var(--color-accent)"
