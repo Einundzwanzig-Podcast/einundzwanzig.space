@@ -1351,7 +1351,7 @@
       "location": "Burghotel Bären, 87637 Eisenberg / Zell",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Ein Treffen auf \"halbem Weg\" zwischen 21-Ausserfern, Füssen und 21-Kempten. Ein besonderer Ort, nicht nur fürs Meetup. Wir freuen uns auf Dich. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.derbaeren.de/",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "12bfcfa4360600140cd275f90da3d0caa3bc862447db2f2a1c8d938eb5467631"
     },
     "style": {
@@ -1444,7 +1444,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2024-11-27 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1662",
+      "location": "Landau",
+      "description": "Details in den Gruppen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "69cf002350614cd5e4721a8fa53a5a6bbb27a4359a4cc2e464d27ccc87c10d8c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
