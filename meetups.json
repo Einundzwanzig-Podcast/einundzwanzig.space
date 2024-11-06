@@ -312,13 +312,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-11-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1629",
-      "location": "Brasserie Tresznjewski, Theresienstraße 72, 80333 München",
+      "start": "2024-12-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1630",
+      "location": "Location steht noch nicht fest. (siehe Telegram Gruppe)",
       "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
-      "link": "https://g.co/kgs/7bZL693",
-      "attendees": 1,
-      "nostr_note": "990950c553f7ad042cff5b05278ade13d02323916be6d72f580fb584147f8088"
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -2162,15 +2162,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "start": "2024-11-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1659",
-      "location": "La Fontana Rinteln , Weserstraße 7",
-      "description": "Ort:\nLa Fontana Pizzeria\nWeserstraße 7\n31737 Rinteln\n\nVortrag:\n\nVerwahrmöglichkeiten von Keys\n\nBesitzer nimmt bisher nur Spenden in Lightning an.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "dd951faa7a1f3e9d5abbbb9f913e320ee235e6f5221a45552f8d84b008cce2da"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2525,7 +2517,15 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-28 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1664",
+      "location": "Wichtel Ditzingen ",
+      "description": "Meetup Nr. 21",
+      "link": "https://maps.app.goo.gl/4XTu2C8Gff7irL8q8",
+      "attendees": 1,
+      "nostr_note": "e30e64224d856a4a118d784fc9dab6c6aede6fa893993ba1d29ff3175244b5be"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
