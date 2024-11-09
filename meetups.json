@@ -879,13 +879,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2024-11-08 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1312",
+      "start": "2024-12-06 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1313",
       "location": "Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 1,
-      "nostr_note": "e55527deb29319f4a0c3abcba7b848ec4bbc2089a74d1ff6cfdb5eea3c8293de"
+      "attendees": 0,
+      "nostr_note": "2f7c59d72f0820dc7eaacdce73cbc48c24446093310bce6bc5a623958e04f360"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -916,7 +916,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1665",
+      "location": "Essen",
+      "description": "Lokation wird noch abgestimmt. ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "97e75aaf523af9af875974cbc36f5cba91b09fc904d5e639180fef9ba8716909"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2095,12 +2103,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-11-08 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1145",
-      "location": "Kernen ",
-      "description": "Wir treffen uns beim Parkplatz vom Trattoria Toscana und ziehen dann weiter auf ein stückle von einem Pleb.\n",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 4,
+      "start": "2024-12-06 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1146",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2541,8 +2549,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2024-11-08 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/698",
+      "start": "2024-12-13 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/699",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -2564,8 +2572,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2024-11-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1092",
+      "start": "2024-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1093",
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
@@ -2783,8 +2791,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": {
-      "start": "2024-11-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1073",
+      "start": "2024-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1074",
       "location": "Flensburg",
       "description": "Wir treffen uns in der Regel an jedem zweiten Freitagabend des Monats in einem Restaurant in Flensburg. Genauere Infos gibt es in der Telegramgruppe, in der sich die Plebs des Nordens organisieren.\n\nhttps://t.me/Einundzwanzig_NF",
       "link": "",
@@ -3098,15 +3106,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2024-11-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1634",
-      "location": "Cafe Froschberg ",
-      "description": null,
-      "link": null,
-      "attendees": 2,
-      "nostr_note": "7f6cc040cf04932b115f1386dcc4ea16f5d2c49742426d9db3fb81c3f88de3e5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
