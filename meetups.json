@@ -317,7 +317,7 @@
       "location": "Location steht noch nicht fest. (siehe Telegram Gruppe)",
       "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
     },
     "style": {
@@ -1588,7 +1588,15 @@
     "city": "Marburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-marburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-04 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1667",
+      "location": "Marktplatzbrunnen Oberstadt Marburg",
+      "description": "Treffen auf dem Weihnachtsmarkt",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7e9c7e342ddb94ca6af7063b64b40eb3f6dfa9593db47e896be68c8e855114fa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2978,7 +2986,15 @@
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
-    "event": null,
+    "event": {
+      "start": "2024-12-05 12:40:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1668",
+      "location": "APG Steuerzentrale Wien Südost",
+      "description": "Dieses Meetup ist ein gemeinsamer Besuch mit Führung im Nervenzentrum der österreichischen Stromversorgung bei der Austria Power Grid (APG) im Süden Wiens!  Dauer ca. 2 Stunden.\n\nDie Teilnahme ist NUR MIT ANMELDUNG auf diesem Link möglich (Event-Link):\nhttps://lnbits.thespielplatz.com/events/TqrhuSUrTeqzUEC9x8dkRe\n\nMehr Infos: https://bitcoin-austria.at/event/bitcoin-meets-austrian-power-grid-apg/\n",
+      "link": "https://lnbits.thespielplatz.com/events/TqrhuSUrTeqzUEC9x8dkRe",
+      "attendees": 0,
+      "nostr_note": "cd9f40cd661059196e8beaba1ed9038012c09c0aa1327e8a3ec3165b618c0ac5"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3220,7 +3236,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2024-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1666",
+      "location": "Bierbotschaft, Ponigler Straße 52, 8142 Wundschuh",
+      "description": "Einundzwanzig Styria Bitcoin-Stammtisch - zum ersten Mal in Wundschuh!\n\nDiesmal mit Einsteigervortrag ab 18 Uhr - bringt interessierte Neulinge mit!\n\nIm Anschluss ab 19h regulärer Stammtisch",
+      "link": "https://www.bierbotschaft.at/",
+      "attendees": 0,
+      "nostr_note": "847d4e4940dc4480d044bd614cd1dcb4bef6e247b470c7bf0197cb46b108f45f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
