@@ -1196,7 +1196,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-11-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1670",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 16.11.2024 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
+      "link": "https://x.com/EinundzwanzigHN/status/1856641078314541346",
+      "attendees": 0,
+      "nostr_note": "b02ce6f1c7e1c60cf8bae6bb352fbaf8b62648a728e2cc9120722675424855a4"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
