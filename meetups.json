@@ -742,7 +742,15 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-13 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1669",
+      "location": "Grand Canyon Celle",
+      "description": "Mauernstr. 8\n29221 Celle\n\nIm Hinteren Bereich",
+      "link": "http://grand-canyon-celle.de/",
+      "attendees": 0,
+      "nostr_note": "b4093c60efd9eb63f71101e96038a3f22a613d9955690b8ad308136ba9301add"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
