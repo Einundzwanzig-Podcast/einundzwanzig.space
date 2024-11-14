@@ -1186,7 +1186,7 @@
       "location": "HN",
       "description": "Servus HN Gemeinde, nächstes Meet-up findet am 16.11.2024 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
       "link": "https://x.com/EinundzwanzigHN/status/1856641078314541346",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b02ce6f1c7e1c60cf8bae6bb352fbaf8b62648a728e2cc9120722675424855a4"
     },
     "style": {
@@ -1353,15 +1353,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-11-14 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1624",
-      "location": "Burghotel Bären, 87637 Eisenberg / Zell",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Ein Treffen auf \"halbem Weg\" zwischen 21-Ausserfern, Füssen und 21-Kempten. Ein besonderer Ort, nicht nur fürs Meetup. Wir freuen uns auf Dich. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://www.derbaeren.de/",
-      "attendees": 9,
-      "nostr_note": "12bfcfa4360600140cd275f90da3d0caa3bc862447db2f2a1c8d938eb5467631"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2395,7 +2387,7 @@
       "location": "Restaurant AN - Sennfeld",
       "description": "Infoabend für Neulinge und NOcoiner.\n\n(Präsentation von ClarifyBitcoin, wie Funktioniert unser Geld, warum brauchen wir Bitcoin)\n\nBeginn 18 Uhr. Platzhalter gerne schon um 17:30.\n\n",
       "link": "https://g.co/kgs/1R1AjQe",
-      "attendees": 0,
+      "attendees": 4,
       "nostr_note": "fd162f5869ccab64de9a039ee2347b8edc2cf29a4893f07a7dd63e806a1e6c24"
     },
     "style": {
@@ -2503,13 +2495,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2024-11-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1463",
+      "start": "2024-12-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1464",
       "location": "Ramrob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": null,
-      "attendees": 1,
-      "nostr_note": "22d8dd239e1da32b92e7704329968e8284a6504533cd6c159940471d9909c568"
+      "attendees": 0,
+      "nostr_note": "c02f7aba831258d2b11fe0db33222e671ec00ab00fed7ef73d696d197d4d93fa"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2594,7 +2586,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-11-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1672",
+      "location": "Stacks",
+      "description": "Dieses mal ist das Meetup an einem Samstag, so können wir den Bitcoin Pump richtig im Stacks feiern.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "42e93833080a40240bd9e2280667148f1c1d68a3ef349e16a2da411606a11703"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3190,15 +3190,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": {
-      "start": "2024-11-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1636",
-      "location": "FIT.smartfood, Maxglaner Hauptstraße 8, 5020 Salzburg",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿\nDon't forget to ₿ring your Sats 😘\n",
-      "link": "https://maps.app.goo.gl/NxPQtR8vgucyV9Te8",
-      "attendees": 4,
-      "nostr_note": "6b4f79eefcd5f379b637ac1245d2650c6e31937ce7d1f91e02bb7e80342a6d3d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
