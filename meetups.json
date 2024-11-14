@@ -228,13 +228,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2024-11-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1264",
+      "start": "2024-12-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1265",
       "location": "Wird auf Telegram bekanntgegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "53ec134002be49a3b81e0a328d31f0cbc82c979b78457ffde47a8b73ddf73932"
+      "nostr_note": "94317e4220339e581d0f43f23a7f49e09e4ce42cb3762b025c6eff0c360e6ee5"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -742,15 +742,7 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": {
-      "start": "2024-11-13 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1669",
-      "location": "Grand Canyon Celle",
-      "description": "Mauernstr. 8\n29221 Celle\n\nIm Hinteren Bereich",
-      "link": "http://grand-canyon-celle.de/",
-      "attendees": 0,
-      "nostr_note": "b4093c60efd9eb63f71101e96038a3f22a613d9955690b8ad308136ba9301add"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -924,15 +916,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "start": "2024-11-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1665",
-      "location": "Rodberger Str. 132, Essen, Germany",
-      "description": "Abstimmung ist auf die Lokation -> https://www.wechsel.bar/ gefallen",
-      "link": "https://www.wechsel.bar/",
-      "attendees": 1,
-      "nostr_note": "97e75aaf523af9af875974cbc36f5cba91b09fc904d5e639180fef9ba8716909"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1845,7 +1829,7 @@
       "location": "Bielefeld",
       "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
       "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
     },
     "style": {
@@ -2685,7 +2669,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-27 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1671",
+      "location": "Heinsberg / Waldenrath ",
+      "description": "Kommt vorbei zum gemütlichen Stammtisch in der Dorfkneipe für Bitcoiner und Bitcoin interessierte. Wir freuen uns auf euch. ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 1,
+      "nostr_note": "266f37ac5819b62deeb97f36fac5f17222aafd37dfeb56aaee0d31e3b352ca2d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
