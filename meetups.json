@@ -435,10 +435,10 @@
     "event": {
       "start": "2024-11-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1631",
-      "location": "steht noch nicht fest (siehe Telegram Gruppe)",
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Ruff's Burger & BBQ in der Au Ohlmüllerstraße 10, 81541 München",
+      "description": "Essen, Trinken und Diskutieren",
+      "link": "https://maps.app.goo.gl/SWunZQygKkmTZCGt6",
+      "attendees": 1,
       "nostr_note": "32a699c80a67449fd3579cd189f63636065cdd5d3548b0db8504744aede4ef67"
     },
     "style": {
@@ -1558,13 +1558,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2024-11-15 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1455",
+      "start": "2024-12-20 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1456",
       "location": "Abstimmung per Telegram",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "984f383db34ed1c09a07b7ee2e9ef04c982124aca47de76f73a19397b6424c68"
+      "nostr_note": "46f6c151ef11e457f08702d8f187872aac1e104e4272bda9a23578876e78f7c8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1656,15 +1656,7 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": {
-      "start": "2024-11-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1653",
-      "location": "Taverna Antica ",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "57e5945fb07a91d0ae2a04e907a7eb2b86938881990b6ad362a6991a48959cf1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1815,15 +1807,7 @@
     "city": "Ostwestfalen-Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl",
     "twitter": "einundzwanzigOW",
-    "event": {
-      "start": "2024-11-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1534",
-      "location": "Bielefeld",
-      "description": "Einundzwanzig OWL         \nWann: 15.11.2024 18:00     \nWo: Brauhaus Joh. Albrecht Hagenbruchstr. 8 33602 Bielefeld\n\nOWL Meet Up: Jeden 3. Freitag im Monat\n (abwechselnd Bielefeld/Paderborn)",
-      "link": "https://maps.app.goo.gl/aQDki2NDWoTg74wF6?g_st=com.google.maps.preview.copy",
-      "attendees": 3,
-      "nostr_note": "fd70928d1d76fd0f470ce6d1e5acc37e8ac719da91b304db617bc98c66412305"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2381,15 +2365,7 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": {
-      "start": "2024-11-15 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1656",
-      "location": "Restaurant AN - Sennfeld",
-      "description": "Infoabend für Neulinge und NOcoiner.\n\n(Präsentation von ClarifyBitcoin, wie Funktioniert unser Geld, warum brauchen wir Bitcoin)\n\nBeginn 18 Uhr. Platzhalter gerne schon um 17:30.\n\n",
-      "link": "https://g.co/kgs/1R1AjQe",
-      "attendees": 4,
-      "nostr_note": "fd162f5869ccab64de9a039ee2347b8edc2cf29a4893f07a7dd63e806a1e6c24"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3551,7 +3527,7 @@
     "url": "https://t.me/bitcoinluzern",
     "city": "Luzern",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-luzern",
-    "twitter": null,
+    "twitter": "",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
