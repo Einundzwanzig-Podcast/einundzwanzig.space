@@ -386,15 +386,7 @@
     "city": "Bochum",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bochum",
     "twitter": null,
-    "event": {
-      "start": "2024-11-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/898",
-      "location": "Three Sixty, Kortumstraße 2-14, 44787 Bochum",
-      "description": "Wir sind EINUNDZWANZIG Bochum. Wir treffen uns jeden Monat in Bochum zu einem Meetup :) Wir freuen uns auf dich, bis dahin, stay humble, Stack Sats!",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "ea460bc8cb302cd6b642638690ff3e790dc311729cb87a201aa71028702750d9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -944,7 +936,7 @@
       "location": "Dornauers Lebküchnerei & Chocolaterie, Nürnberg",
       "description": "Dornauers Lebküchnerei & Chocolaterie\nFürther Straße 188\nNürnberg 90429",
       "link": "https://maps.app.goo.gl/R4JgU2dpDZdTe7Lp6",
-      "attendees": 6,
+      "attendees": 10,
       "nostr_note": "21b5b601c448061a98b7de26d200ea37a49cd5c040bc6f6472857b9b97a70c34"
     },
     "style": {
@@ -2169,10 +2161,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "@EinundzwanzigRO",
     "event": {
-      "start": "2024-11-21 17:00:00",
+      "start": "2024-11-21 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1660",
-      "location": null,
-      "description": "Am 21.11.24 ab 18 Uhr findet wieder unser Rostocker Meetup in der DIGIWERFT am Neptun Kai statt. Diesmal wird unser Dr. Mathias Linkerhand einen Vortrag über Bitcoin Mining halten.",
+      "location": "BitcoinWERFT Rostock",
+      "description": "Am 21.11.24 ab 17 Uhr ist es wieder soweit – unser Rostocker Meetup startet in der DIGIWERFT am Neptun Kai! Jeder, der Lust und Zeit hat, ist herzlich eingeladen, vorbeizuschauen. Diesmal haben wir Dr. Mathias Linkerhand, unseren Bitcoin-Physiker und Vorstandsmitglied im Bitcoin Bundesverband, zu Gast. Er wird uns in die Welt des Bitcoin Minings einführen und bestimmt auch die ein oder andere Anekdote von seiner Reise nach El Salvador erzählen. Wir freuen uns auf alle, die dabei sind! Den Link könnt ihr gerne weitergeben.",
       "link": "https://anmeldung.bitcoin-ultra.de",
       "attendees": 0,
       "nostr_note": "b1e4bd2f1c86aaec3ef768e9222511646d17f5e6e4d6731f95fef0f4b64bad5a"
