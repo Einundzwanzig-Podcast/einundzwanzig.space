@@ -469,15 +469,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2024-11-19 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1657",
-      "location": "Zur Gemütlichkeit, Amtshof 10, 36304 Alsfeld",
-      "description": "Unser nächstes Meetup findet am 19.11.2024 ab 18:30 in der Kneipe Zur Gemütlichkeit in Alsfeld statt. \nAdresse:\nAmtshof 10, 36304 Alsfeld\nBitte die Teilnahme über Telegram oder hier weiter unten mitteilen um entsprechend Tische zu reservieren.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "a3865a91e392f951d3dd303c6bd1618b2a69a586e08a69097c9e45dc15c9cb4c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1094,7 +1086,7 @@
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "c83321f3c2d83f38d7b7581fe400f60f71a1e879b79353c453a8accb66405991"
     },
     "style": {
