@@ -45,15 +45,15 @@
     }
   },
   {
-    "name": "7. Bitcoin Meetup Schwerin",
+    "name": "7. Bitcoin Meetup Schwerin (ich kanns nicht löschen!!!) WER KANN HELFEN?",
     "latLng": [
       53.635502,
       11.40125
     ],
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/7-bitcoin-meetup-schwerin",
-    "twitter": "XellosAusSN",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/7-bitcoin-meetup-schwerin-ich-kanns-nicht-loeschen-wer-kann-helfen",
+    "twitter": "Xellos_Bitcoin",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -264,16 +264,31 @@
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin",
-    "twitter": "XellosAusSN",
+    "twitter": "Xellos_Bitcoin",
     "event": {
       "start": "2024-12-18 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1584",
       "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "Wir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar.\nRumbar Unity - 19053 Schwerin, Arsenalstraße 36\nJEDER ist Willkommen!\nWir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss...\nJedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat!\nIn der Bar kann beim Barbesitzen mit Lightning oder Onchain BTC bezahlt werden.\nAber auch wer sein Fiat-Geld los werden möchte kann dies natürlich tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
+      "description": "9. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar.\nRumbar Unity - 19053 Schwerin, Arsenalstraße 36\nJEDER ist Willkommen!\nWir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss...\nJedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat!\nIn der Bar kann beim Barbesitzen mit Lightning oder Onchain BTC bezahlt werden.\nAber auch wer sein Fiat-Geld los werden möchte kann dies natürlich tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
       "attendees": 0,
       "nostr_note": "90a05fc3527ef7e822d679fbd6b6f6bdbadb49f0ec4320bd76f9ae6857f291bd"
     },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Meetup Schwerin ",
+    "latLng": [
+      53.635502,
+      11.40125
+    ],
+    "url": "https://t.me/+ruWxukKwM2MwYzRi",
+    "city": "Schwerin",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-1",
+    "twitter": "Xellos_Bitcoin",
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -417,13 +432,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
     "event": {
-      "start": "2024-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1631",
-      "location": "Ruff's Burger & BBQ in der Au Ohlmüllerstraße 10, 81541 München",
-      "description": "Essen, Trinken und Diskutieren",
-      "link": "https://maps.app.goo.gl/SWunZQygKkmTZCGt6",
+      "start": "2024-12-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1632",
+      "location": "München (Location steht noch nicht fest)",
+      "description": "es weihnachtet sehr....",
+      "link": null,
       "attendees": 1,
-      "nostr_note": "32a699c80a67449fd3579cd189f63636065cdd5d3548b0db8504744aede4ef67"
+      "nostr_note": "ee0f8d68f39a8976229053c2a4bbc5a3798a859d916c2af876059c1ff8d23d48"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -823,21 +838,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Düsseldorf",
-    "latLng": [
-      51.2254018,
-      6.7763137
-    ],
-    "url": "https://t.me/einundzwanzig_duesseldorf",
-    "city": "Düsseldorf",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-duesseldorf",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Elbe-Elster",
     "latLng": [
       51.6273649,
@@ -936,7 +936,7 @@
       "location": "Dornauers Lebküchnerei & Chocolaterie, Nürnberg",
       "description": "Dornauers Lebküchnerei & Chocolaterie\nFürther Straße 188\nNürnberg 90429",
       "link": "https://maps.app.goo.gl/R4JgU2dpDZdTe7Lp6",
-      "attendees": 15,
+      "attendees": 16,
       "nostr_note": "21b5b601c448061a98b7de26d200ea37a49cd5c040bc6f6472857b9b97a70c34"
     },
     "style": {
@@ -1368,8 +1368,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2024-11-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1560",
+      "start": "2024-12-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1561",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -1618,7 +1618,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2024-11-26 18:00:00",
+      "start": "2024-11-27 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1638",
       "location": "Düsseldorf",
       "description": "Meetup Düsseldorf. Wo genau wird in der Gruppe abgestimmt. ",
@@ -2161,13 +2161,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
     "event": {
-      "start": "2024-11-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1660",
+      "start": "2024-12-21 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1675",
       "location": "BitcoinWERFT Rostock",
-      "description": "Am 21.11.24 ab 17 Uhr ist es wieder soweit – unser Rostocker Meetup startet in der DIGIWERFT am Neptun Kai! Jeder, der Lust und Zeit hat, ist herzlich eingeladen, vorbeizuschauen. Diesmal haben wir Dr. Mathias Linkerhand, unseren Bitcoin-Physiker und Vorstandsmitglied im Bitcoin Bundesverband, zu Gast. Er wird uns in die Welt des Bitcoin Minings einführen und bestimmt auch die ein oder andere Anekdote von seiner Reise nach El Salvador erzählen. Wir freuen uns auf alle, die dabei sind! Den Link könnt ihr gerne weitergeben.",
-      "link": "https://anmeldung.bitcoin-ultra.de",
+      "description": null,
+      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
       "attendees": 0,
-      "nostr_note": "b1e4bd2f1c86aaec3ef768e9222511646d17f5e6e4d6731f95fef0f4b64bad5a"
+      "nostr_note": "b032f7f152bf799cc87cd38fdb0b4b214ce5647bdcf060678658b54d4a70eb06"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2802,21 +2802,6 @@
     }
   },
   {
-    "name": "Meetup Schwerin ",
-    "latLng": [
-      53.635502,
-      11.40125
-    ],
-    "url": "https://t.me/+ruWxukKwM2MwYzRi",
-    "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/meetup-schwerin",
-    "twitter": "XellosAusSN",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Micro Meet Up Prager Platz",
     "latLng": [
       52.5170365,
@@ -3000,13 +2985,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2024-11-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1181",
+      "start": "2024-12-20 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1182",
       "location": "Schmuri (Pianokeller, Reutte)",
       "description": "Easymeetup",
       "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
       "attendees": 0,
-      "nostr_note": "dfd6cfd1acdf0ee523f0fa4de7444e33a0e99b8e6061518565cb291622b50f77"
+      "nostr_note": "87941bf87a7969fac2a5ee92f91d9cde5b9f59f8be5b94fd660046bca4e56291"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3086,7 +3071,7 @@
       "start": "2024-12-21 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1674",
       "location": "Zur Liesl",
-      "description": "🎉 Jahresendfeier Bitcoinverein:\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
+      "description": "🎉 Jahresendfeier Einundzwanzig Linz\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
       "link": null,
       "attendees": 4,
       "nostr_note": "8e4074079c89c9121bf9b559d4ddae53e7b496680a742e10936b7b0eea145fbd"
@@ -3196,15 +3181,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2024-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1666",
-      "location": "Bierbotschaft, Ponigler Straße 52, 8142 Wundschuh",
-      "description": "Einundzwanzig Styria Bitcoin-Stammtisch - zum ersten Mal in Wundschuh!\n\nDiesmal mit Einsteigervortrag ab 18 Uhr - bringt interessierte Neulinge mit!\n\nIm Anschluss ab 19h regulärer Stammtisch",
-      "link": "https://www.bierbotschaft.at/",
-      "attendees": 0,
-      "nostr_note": "847d4e4940dc4480d044bd614cd1dcb4bef6e247b470c7bf0197cb46b108f45f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3242,15 +3219,7 @@
     "city": "Vorarlberg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
-    "event": {
-      "start": "2024-11-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1191",
-      "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
-      "description": "Lass uns über Bitcoin plaudern, Erfahrungen teilen und vernetze dich mit anderen Bitcoin-Enthusiasten. Egal, ob du ein Anfänger oder Profi bist - alle sind willkommen.\n\nMeld' dich an und sei dabei - wir freuen uns auf dich!",
-      "link": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/861?l=de",
-      "attendees": 0,
-      "nostr_note": "28edf5420079a58fc38065a1ac92cb82cfe1ef27ba7b1b17a06d1ab6110ecaa9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
