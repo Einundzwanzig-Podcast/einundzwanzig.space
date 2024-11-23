@@ -868,7 +868,7 @@
       "location": "Ellwangen",
       "description": "Le Palme Ellwangen",
       "link": "http://www.ristorante-lepalme.de/",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "2f7c59d72f0820dc7eaacdce73cbc48c24446093310bce6bc5a623958e04f360"
     },
     "style": {
@@ -931,13 +931,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2024-11-23 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1032",
-      "location": "Dornauers Lebküchnerei & Chocolaterie, Nürnberg",
-      "description": "Dornauers Lebküchnerei & Chocolaterie\nFürther Straße 188\nNürnberg 90429",
-      "link": "https://maps.app.goo.gl/R4JgU2dpDZdTe7Lp6",
-      "attendees": 17,
-      "nostr_note": "21b5b601c448061a98b7de26d200ea37a49cd5c040bc6f6472857b9b97a70c34"
+      "start": "2024-12-14 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1036",
+      "location": "Fürth",
+      "description": "tbd",
+      "link": "",
+      "attendees": 1,
+      "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2583,7 +2583,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2024-12-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1690",
+      "location": "Wittlich",
+      "description": "Ab 18:00 Meetup in der Brasserie Balthazar ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8f616a128672b44a02cf081202b5272934c0989bf6c7268b3d8a0ba9be31dd6b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
