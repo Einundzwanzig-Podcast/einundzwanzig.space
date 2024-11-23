@@ -319,13 +319,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-12-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1630",
-      "location": "Location steht noch nicht fest. (siehe Telegram Gruppe)",
-      "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
+      "start": "2024-11-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1682",
+      "location": "₿☕ Specter DIY Wallet - Satoshis Coffeeshop Open House",
+      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 18 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n​Special Guest ist diesmal Schnuartz von BTC Frankenstein, er wird uns das Specter DIY Wallet vorstellen und spannende Infos über die Security, also wie du deinen Seed sichern kannst, erzählen.\n\n[...]\n\nOrt diesmal: Satoshis Coffeeshop / Stemmerhof Studios, Plinganserstraße 6, Eingang \"THEATER\" neben \"Restaurant ÖEINS\", 1. Stock\n\n[...]",
+      "link": "https://lu.ma/mc2vk86u",
+      "attendees": 0,
+      "nostr_note": "ecc124bc2adfce1987fbd4d0bf3a4b656b6f392e3e6dbf66b655892688566e06"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -866,8 +866,8 @@
       "start": "2024-12-06 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1313",
       "location": "Ellwangen",
-      "description": "Bistro Altstadt Ellwangen",
-      "link": "http://www.bistro-altstadt.de/",
+      "description": "Le Palme Ellwangen",
+      "link": "http://www.ristorante-lepalme.de/",
       "attendees": 0,
       "nostr_note": "2f7c59d72f0820dc7eaacdce73cbc48c24446093310bce6bc5a623958e04f360"
     },
@@ -1335,7 +1335,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
     },
     "style": {
@@ -2183,15 +2183,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "start": "2024-11-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1635",
-      "location": "Rottweil ",
-      "description": "Genaue Location und Uhrzeit siehe Telegram Gruppe!",
-      "link": "https://t.me/+AeVduvFdbag0NTEy",
-      "attendees": 0,
-      "nostr_note": "4391207b8b580f86f1597057ef513eb71c9a09b0f096d71bef706b00b3f70b8e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3073,7 +3065,7 @@
       "location": "Zur Liesl",
       "description": "🎉 Jahresendfeier Einundzwanzig Linz\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "8e4074079c89c9121bf9b559d4ddae53e7b496680a742e10936b7b0eea145fbd"
     },
     "style": {
