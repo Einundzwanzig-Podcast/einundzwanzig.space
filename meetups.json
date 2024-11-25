@@ -319,13 +319,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-11-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1682",
-      "location": "₿☕ Specter DIY Wallet - Satoshis Coffeeshop Open House",
-      "description": "An ausgewählten Sonntagen ist Open House in Satoshis Coffeeshop ab 18 Uhr. Es soll ein Raum geschaffen werden, in dem Meinungen und Ideen ausgetauscht werden können. Knüpft Kontakte zu anderen Bitcoin-Enthusiasten, Wirtschaftlern, Unternehmern und Entwicklern, und bringt gern Freunde und Bekannte mit!\n\n​Special Guest ist diesmal Schnuartz von BTC Frankenstein, er wird uns das Specter DIY Wallet vorstellen und spannende Infos über die Security, also wie du deinen Seed sichern kannst, erzählen.\n\n[...]\n\nOrt diesmal: Satoshis Coffeeshop / Stemmerhof Studios, Plinganserstraße 6, Eingang \"THEATER\" neben \"Restaurant ÖEINS\", 1. Stock\n\n[...]",
-      "link": "https://lu.ma/mc2vk86u",
-      "attendees": 0,
-      "nostr_note": "ecc124bc2adfce1987fbd4d0bf3a4b656b6f392e3e6dbf66b655892688566e06"
+      "start": "2024-12-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1630",
+      "location": "Location steht noch nicht fest. (siehe Telegram Gruppe)",
+      "description": "Deutschlands ältester Bitcoin Stammtisch trifft sich jeden 1. Mittwoch im Monat in (hin und wieder) wechselnden Locations.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -704,7 +704,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-11-30 17:30:00",
+      "start": "2024-11-27 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1641",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
@@ -933,10 +933,10 @@
     "event": {
       "start": "2024-12-14 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1036",
-      "location": "Fürth",
-      "description": "tbd",
-      "link": "",
-      "attendees": 3,
+      "location": "Cheers Pub & Grill Fürth",
+      "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
+      "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
+      "attendees": 6,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -2166,7 +2166,7 @@
       "location": "BitcoinWERFT Rostock",
       "description": null,
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b032f7f152bf799cc87cd38fdb0b4b214ce5647bdcf060678658b54d4a70eb06"
     },
     "style": {
@@ -2401,7 +2401,15 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-11-25 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1691",
+      "location": "Merscheid 42697 Solingen",
+      "description": "Meetup -> Weitere Infos in der Telegram-Gruppe",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "05e99e68f1e95d47232db3f7dc009f2a2a46ea4a233b1c1ea0ffcfd785b830cd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2659,15 +2667,7 @@
     "city": "Wetterau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
-    "event": {
-      "start": "2024-11-24 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1676",
-      "location": "Musikbistro",
-      "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://g.co/kgs/swjV9Ko",
-      "attendees": 0,
-      "nostr_note": "ff7b9710daec5d0d289c5d9ed613f486502d05bc519a58992d171cb06fbf8340"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
