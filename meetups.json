@@ -704,12 +704,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-11-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1641",
+      "start": "2024-12-30 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1642",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
     },
     "style": {
@@ -936,7 +936,7 @@
       "location": "Cheers Pub & Grill Fürth",
       "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
       "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -1127,8 +1127,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2024-11-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1594",
+      "start": "2024-12-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1595",
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1429,13 +1429,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2024-11-27 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1662",
+      "start": "2024-12-19 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1663",
       "location": "Landau",
-      "description": "Details in den Gruppen",
+      "description": "Details in den Gruppen.",
       "link": null,
       "attendees": 0,
-      "nostr_note": "69cf002350614cd5e4721a8fa53a5a6bbb27a4359a4cc2e464d27ccc87c10d8c"
+      "nostr_note": "55a8eb1e1cf2a10748e8f2777ab568fc3ac911ece8e2a8e8bb4de6ac679915b0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1617,15 +1617,7 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": {
-      "start": "2024-11-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1638",
-      "location": "Düsseldorf",
-      "description": "Meetup Düsseldorf. Wo genau wird in der Gruppe abgestimmt.\nVermutlich wird es \"Beethoven in Flingern\"",
-      "link": "",
-      "attendees": 0,
-      "nostr_note": "c26797dda77dd798eeb918a7a7b69adf0a739c2cbf1a5907ca15c34f96ab91ca"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2621,15 +2613,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-11-27 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1671",
-      "location": "Heinsberg / Waldenrath ",
-      "description": "Kommt vorbei zum gemütlichen Stammtisch in der Dorfkneipe für Bitcoiner und Bitcoin interessierte. Wir freuen uns auf euch. ",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "266f37ac5819b62deeb97f36fac5f17222aafd37dfeb56aaee0d31e3b352ca2d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
