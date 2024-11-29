@@ -319,13 +319,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2024-11-28 19:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1692",
-      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #6",
-      "description": "​Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n​Was ist ein Socratic Seminar?\n\n    ​https://bitcoinmagazine.com/culture/op-ed-want-to-learn-about-bitcoin-try-a-local-socratic-seminar\n\n​tl;dr offener, moderierter Austausch zu aktuellen Bitcoin-Themen und News vorwiegend technischer Natur. Papers, Issues und Pull Requests, Neue Versionen vielfach eingesetzter Tools, Vulnerabilities,... Generelle News, die etwa politische oder finanzwirtschaftliche Aspekte betreffen, werden teilweise auch angeschnitten.\n\n[...]",
-      "link": "https://lu.ma/xw7mp69u",
-      "attendees": 0,
-      "nostr_note": "3a24376605e1f8fc39d562e8856a8bfd74ea2f9b264001716a84f3ad5b7a9781"
+      "start": "2024-12-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1630",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]",
+      "link": "https://lu.ma/4skruf9n",
+      "attendees": 2,
+      "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -936,7 +936,7 @@
       "location": "Cheers Pub & Grill Fürth",
       "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
       "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 11,
+      "attendees": 12,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -1089,12 +1089,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-11-28 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1403",
+      "start": "2024-12-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1404",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
-      "attendees": 4,
+      "attendees": 0,
       "nostr_note": "c83321f3c2d83f38d7b7581fe400f60f71a1e879b79353c453a8accb66405991"
     },
     "style": {
@@ -2461,15 +2461,7 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": {
-      "start": "2024-11-28 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1664",
-      "location": "Wichtel Ditzingen ",
-      "description": "Meetup Nr. 21",
-      "link": "https://maps.app.goo.gl/4XTu2C8Gff7irL8q8",
-      "attendees": 1,
-      "nostr_note": "e30e64224d856a4a118d784fc9dab6c6aede6fa893993ba1d29ff3175244b5be"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2530,7 +2522,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2024-12-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1693",
+      "location": "Stacks",
+      "description": "Wie immer ist ab 18 Uhr das Meetup im Stacks, eurem lieblings Bitcoin Restaurant in Trier.",
+      "link": "https://radis-stacks.de",
+      "attendees": 0,
+      "nostr_note": "6b2585cb7a59a4e8e5b352814e66b9b0da9a296cf7bbad3cc0a41f14c95de8e3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2658,15 +2658,7 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": {
-      "start": "2024-11-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1517",
-      "location": "Wiesbaden",
-      "description": "Du bist interessiert am Thema Bitcoin? Bist schon länger dabei? Bist noch nicht dabei, willst aber wissen, was sich dahinter verbirgt? Bist noch nicht lange dabei und hast Fragen? Bist daran interessiert, Gleichgesinnte zu treffen und darüber in völlig lockerer Atmosphäre zu quatschen?\n\nWenn Du eine dieser Fragen mit „Ja“ beantworten kannst, bist Du hier genau richtig. Jeder ist Willkommen!!",
-      "link": "https://www.das6040.de/",
-      "attendees": 0,
-      "nostr_note": "76df659c9d021e194665ed5b1281aeb669b777888951e0a32fc000cc52037166"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3119,7 +3111,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1694",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ \nWann: Freitag, 13.12.24, ab 18h\nWo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘\n",
+      "link": "https://maps.app.goo.gl/marX5zCX5zC5LS1N9",
+      "attendees": 3,
+      "nostr_note": "7a2a519644fbd23ebecdd382f9509d34ba425a4b8fc2538d8763e3e4a3696a5a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
