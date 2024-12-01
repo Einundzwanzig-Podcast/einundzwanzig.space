@@ -756,15 +756,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2024-11-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1658",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
-      "nostr_note": "143ecfd8eb46c2cff0b683ceafef4d3c4019ce93c15fe4e85a14d9b1c24b23f0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1335,7 +1327,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 9,
+      "attendees": 12,
       "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
     },
     "style": {
@@ -1391,8 +1383,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-11-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1442",
+      "start": "2024-12-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1443",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
@@ -2689,13 +2681,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2024-11-30 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1661",
-      "location": "Halli Galli Passau, Kachletstr. 16, 94034 Passau",
-      "description": "Einsteiger Workshop Bitcoin - Nehmt Freunde und Bekannte mit zu den absoluten Einsteiger Workshop!",
+      "start": "2024-12-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1049",
+      "location": "94124 Büchlberg auf der Stoabruch Weihnacht",
+      "description": "Dieses mal treffen wir uns auf den Weihnachtsmarkt in Büchlberg.\nIm alten Steinbruch mit Steinbruchsee findet wieder die Stoabruch Weihnacht statt.\nAchtung - Start schon ab 17:00",
       "link": null,
       "attendees": 0,
-      "nostr_note": "aaffee71e6cce772df7a19af082db807db936c5d6ad6689d7d9b1e7a3a871f8a"
+      "nostr_note": "029a7c8f4e953459e32fde2e765897d2280d45cfa03083202743ac990b2dbc23"
     },
     "style": {
       "fill": "var(--color-accent)"
