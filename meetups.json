@@ -928,7 +928,7 @@
       "location": "Cheers Pub & Grill Fürth",
       "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
       "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 13,
+      "attendees": 14,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -990,7 +990,15 @@
     "city": "Friedrichshafen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1695",
+      "location": "Wird auf Telegram bekannt gegeben",
+      "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "6cf2f3ddd9eeeac2d8a747fb48b761be6cd9abacb0f169e4acf456bb1c517119"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1327,7 +1335,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 12,
+      "attendees": 13,
       "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
     },
     "style": {
@@ -2567,15 +2575,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2024-12-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1690",
-      "location": "Wittlich",
-      "description": "Ab 18:00 Meetup in der Brasserie Balthazar ",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "8f616a128672b44a02cf081202b5272934c0989bf6c7268b3d8a0ba9be31dd6b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
