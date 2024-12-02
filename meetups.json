@@ -1335,7 +1335,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 13,
+      "attendees": 15,
       "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
     },
     "style": {
@@ -1849,7 +1849,7 @@
       "location": "Lindenkroog OL",
       "description": "Zahlung und Trinkgeld per Lightning gerne gesehen. Bargeld geht zur Not auch.",
       "link": "https://t.me/einundzwanzig_OL",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
     },
     "style": {
@@ -2190,7 +2190,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2024-12-11 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1702",
+      "location": "Bar Celona Saarbrücken",
+      "description": "Orga läuft hauptsächlich über die Telegram-Gruppe",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "7284997c42ad069910e506cdaf3dc14132a62504cbacc613d0425716b3209142"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
