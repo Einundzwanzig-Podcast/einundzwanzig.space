@@ -1335,7 +1335,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 15,
+      "attendees": 16,
       "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
     },
     "style": {
@@ -3005,7 +3005,15 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1703",
+      "location": "Sportplatzweg 1, 4552 Wartberg an der Krems ",
+      "description": "Hi! Einundzwanzig Kirchdorf trifft sich zum ersten Mal!!\nDie Location ist sehr gut öffentlich erreichbar, der Bahnhof ist in der Nähe.",
+      "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x4773e70a49c0b8fb:0x57846e0c1028d5b0?entry=s&sa=X&ved=1t:8290&hl=de-at&ictx=111",
+      "attendees": 1,
+      "nostr_note": "435da0ae91e66b6a15920e61637748a4fe454df6a3f6d3afd844bd713b62b8be"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
