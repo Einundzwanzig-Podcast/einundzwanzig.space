@@ -650,7 +650,15 @@
     "city": "Bitburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
     "twitter": "EinundzwanzigBi",
-    "event": null,
+    "event": {
+      "start": "2024-12-29 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1706",
+      "location": "Restaurant Zagreb",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b5d7875f40fbd3a74877501d92d60955bb346fb1ba20377da5582fb936443504"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1329,15 +1337,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2024-12-03 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1673",
-      "location": "Alte Schmiede Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n\nWorkshop Thema \"Wallets\"",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 16,
-      "nostr_note": "c13c92b94f768873feb7a0df4e27476cb22cc091f6841b722d6248594fe4a77c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2055,12 +2055,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2024-12-06 17:20:00",
+      "start": "2024-12-13 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1146",
-      "location": null,
-      "description": null,
+      "location": "Waiblingen Weihnachtsmarkt ",
+      "description": "Treffpunkt Marktplatz in Waiblingen ",
       "link": null,
-      "attendees": 0,
+      "attendees": 4,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2469,7 +2469,15 @@
     "city": "Region Strohgäu ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1704",
+      "location": "Zum Wichtel in 71254 Ditzingen",
+      "description": "Unser 22. Stammtisch wird weihnachts-bedingt um eine Woche vorgezogen.\nIm Wichtel hat ein Herr Adam Beck für uns reserviert.\nBitte um verbindliche Zusage in der Telegramm-Gruppe, damit wir entsprechend reservieren können.",
+      "link": "https://maps.app.goo.gl/55FGFw19kJcQB9519",
+      "attendees": 0,
+      "nostr_note": "ebd82960dc618faff7e435e6e494592b778930640cd5c74407a157e978639d19"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2536,7 +2544,7 @@
       "location": "Stacks",
       "description": "Wie immer ist ab 18 Uhr das Meetup im Stacks, eurem lieblings Bitcoin Restaurant in Trier.",
       "link": "https://radis-stacks.de",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "6b2585cb7a59a4e8e5b352814e66b9b0da9a296cf7bbad3cc0a41f14c95de8e3"
     },
     "style": {
@@ -3011,7 +3019,7 @@
       "location": "Sportplatzweg 1, 4552 Wartberg an der Krems ",
       "description": "Hi! Einundzwanzig Kirchdorf trifft sich zum ersten Mal!!\nDie Location ist sehr gut öffentlich erreichbar, der Bahnhof ist in der Nähe.",
       "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x4773e70a49c0b8fb:0x57846e0c1028d5b0?entry=s&sa=X&ved=1t:8290&hl=de-at&ictx=111",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "435da0ae91e66b6a15920e61637748a4fe454df6a3f6d3afd844bd713b62b8be"
     },
     "style": {
@@ -3049,7 +3057,7 @@
       "location": "Zur Liesl",
       "description": "🎉 Jahresendfeier Einundzwanzig Linz\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
       "link": null,
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "8e4074079c89c9121bf9b559d4ddae53e7b496680a742e10936b7b0eea145fbd"
     },
     "style": {
