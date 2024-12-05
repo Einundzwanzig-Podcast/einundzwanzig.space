@@ -99,7 +99,15 @@
     "city": "Travemünde ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
-    "event": null,
+    "event": {
+      "start": "2024-12-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1709",
+      "location": "Travemünde",
+      "description": "Bitte um Anmeldung per Telegram https://t.me/BitcoinBeachMeetupTravemuende",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "ee06b76cfb7d75446b68ea78d656f396995ae56849bc643615ec7252f8bb0230"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -318,15 +326,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2024-12-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1630",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Tresznjewski",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]",
-      "link": "https://lu.ma/4skruf9n",
-      "attendees": 2,
-      "nostr_note": "efc7946f33d1d058d8f01a00b9c4a9365559884b954697e0bd7054fbb4aa6c20"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -900,7 +900,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1710",
+      "location": "Essen",
+      "description": "11.12.24 Meetup Essen 19 Uhr. Die Laktation wird noch in der Telegram-Gruppe abgestimmt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "54247bb9053a2e95adbf9081587e53ba4933037db2fc3808881fa191e47b0262"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1564,15 +1572,7 @@
     "city": "Marburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-marburg",
     "twitter": null,
-    "event": {
-      "start": "2024-12-04 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1667",
-      "location": "Marktplatzbrunnen Oberstadt Marburg",
-      "description": "Treffen auf dem Weihnachtsmarkt",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "7e9c7e342ddb94ca6af7063b64b40eb3f6dfa9593db47e896be68c8e855114fa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2175,7 +2175,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1712",
+      "location": "Landkreis Rottweil ",
+      "description": "Genaue Location und Uhrzeit siehe Telegram Gruppe.\n\nWir wechseln regelmäßig das Restaurant.\nJeder ist willkommen!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "bfddff92175cc6e0c14b5e47aee7818cef20db4bf5c34a3a546b35622852da94"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2228,7 +2236,15 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1708",
+      "location": "Bruder Jakob St. Wendel, anschließend im Irish Pub",
+      "description": null,
+      "link": "https://maps.app.goo.gl/Uzj1TtpeycWnR1e18",
+      "attendees": 1,
+      "nostr_note": "a587cd0b3a1fca89ddd8b0c4fad3c976559c8456f5e5b43c9f559202ab0fefd1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2832,7 +2848,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1711",
+      "location": "Blauer Adler",
+      "description": "Essen Trinken Quatschen",
+      "link": "https://maps.app.goo.gl/wnenfu5C3XrDL24XA",
+      "attendees": 0,
+      "nostr_note": "bc1ce2c06a7433d9434824305e3a473bb1083bb90ec81af7ee7ee9ad37e24d85"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2915,6 +2939,29 @@
       "link": "https://lnbits.thespielplatz.com/events/TqrhuSUrTeqzUEC9x8dkRe",
       "attendees": 0,
       "nostr_note": "cd9f40cd661059196e8beaba1ed9038012c09c0aa1327e8a3ec3165b618c0ac5"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin21 ",
+    "latLng": [
+      47.0708678,
+      15.4382786
+    ],
+    "url": "http://bitcoin21.at/",
+    "city": "Graz",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin21",
+    "twitter": "btc21Mentor",
+    "event": {
+      "start": "2024-12-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1707",
+      "location": "Hochl Kulinarik: Triester Straße 162, 8020 Graz, Austria / vor den Toren des Zentralfriedhofs. ",
+      "description": "21 Minuten #Bitcoin-Vortrag mit anschliessender interaktiver Fragerunde am Di., 10.12.2024, ab 18:00 Uhr im http://hochl.com (vor dem Zentralfriedhof) in #Graz. \n\nWas ist #Geld? \nWas sind die Ursachen der #Inflation & der globalen #Schuldenblase? \nWarum Bitcoin?👀 ⚡️🇦🇹",
+      "link": "https://maps.app.goo.gl/4TxJ4hvB8yaNez3Z8",
+      "attendees": 3,
+      "nostr_note": "60dd5f98b07dc1f2c0ddaedca6ad1f2cfe05ff7fba1a167b1f9129816049426b"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -3019,7 +3066,7 @@
       "location": "Sportplatzweg 1, 4552 Wartberg an der Krems ",
       "description": "Hi! Einundzwanzig Kirchdorf trifft sich zum ersten Mal!!\nDie Location ist sehr gut öffentlich erreichbar, der Bahnhof ist in der Nähe.",
       "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x4773e70a49c0b8fb:0x57846e0c1028d5b0?entry=s&sa=X&ved=1t:8290&hl=de-at&ictx=111",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "435da0ae91e66b6a15920e61637748a4fe454df6a3f6d3afd844bd713b62b8be"
     },
     "style": {
