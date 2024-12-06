@@ -2401,7 +2401,15 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-16 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1713",
+      "location": "https://braeuhaus.net/",
+      "description": "Meetup ",
+      "link": "https://braeuhaus.net/",
+      "attendees": 0,
+      "nostr_note": "3cf45c0ebd9027352353c36eb5ccc734e51e2cfb6e2b78d408f5d462ed42f87f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
