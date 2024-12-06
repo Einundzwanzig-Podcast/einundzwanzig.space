@@ -123,13 +123,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2024-12-05 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/982",
-      "location": "Berlin",
-      "description": "Friedel Richter, Torstr. 199, Berlin",
+      "start": "2024-12-18 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/970",
+      "location": "Bitcoin am Holzmarkt",
+      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
       "attendees": 0,
-      "nostr_note": "ca08fdef0ade269c9037726d4a07815125ef0cf4b8f95b5500445d6c378073e6"
+      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -673,15 +673,7 @@
     "city": "Bonn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
-    "event": {
-      "start": "2024-12-05 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/937",
-      "location": "Bonn",
-      "description": "Bonn Bitcoin Meetup findet im Sommer/bei gutem Wetter im Biergarten Alter Zoll, im Winter/bei schlechtem Wetter in  der Craft Beer Bar Balthasar.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "297fb316975c568297217dfbea7ac735fe6e67a1f7e918ee856b5f492e2583a7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -944,7 +936,7 @@
       "location": "Cheers Pub & Grill Fürth",
       "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
       "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 14,
+      "attendees": 15,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -2931,15 +2923,7 @@
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
-    "event": {
-      "start": "2024-12-05 12:40:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1668",
-      "location": "APG Steuerzentrale Wien Südost",
-      "description": "Dieses Meetup ist ein gemeinsamer Besuch mit Führung im Nervenzentrum der österreichischen Stromversorgung bei der Austria Power Grid (APG) im Süden Wiens!  Dauer ca. 2 Stunden.\n\nDie Teilnahme ist NUR MIT ANMELDUNG auf diesem Link möglich (Event-Link):\nhttps://lnbits.thespielplatz.com/events/TqrhuSUrTeqzUEC9x8dkRe\n\nMehr Infos: https://bitcoin-austria.at/event/bitcoin-meets-austrian-power-grid-apg/\n",
-      "link": "https://lnbits.thespielplatz.com/events/TqrhuSUrTeqzUEC9x8dkRe",
-      "attendees": 0,
-      "nostr_note": "cd9f40cd661059196e8beaba1ed9038012c09c0aa1327e8a3ec3165b618c0ac5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
