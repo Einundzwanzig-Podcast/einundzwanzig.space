@@ -778,7 +778,15 @@
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1724",
+      "location": "Detmold, Cafe Mix, Meierstr. 12",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "163333e3524db6c4b2627758da327ae657bcc96bee9896ca3d0e7f4a81163957"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3096,7 +3104,15 @@
     "city": "Nordburgenland",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
-    "event": null,
+    "event": {
+      "start": "2025-01-24 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1714",
+      "location": "Neusiedl am See, vermutlich Joe's Pub",
+      "description": "Bitcoin-Meetup Nordburgenland\nBitcoin, Pizza & Bier",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8219ea70abd575d9cc68f1cf87afd05a3bced85c169a19c6d957a505b813d095"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3201,14 +3217,14 @@
     "url": "https://bitcoin-tirol.at/",
     "city": "Tirol",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
-    "twitter": null,
+    "twitter": "Einundzwanzig_I",
     "event": {
       "start": "2024-12-18 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1282",
-      "location": "KULTURGASTHAUS BIERSTINDL KLOSTERGASSE 6, 6020 INNSBRUCK",
-      "description": "Tisch im EG in der Ofenstube (beim Haupteingang gleich links) / siehe Webseite!",
+      "location": "Christkindlmarkt am Bergisel - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "description": "Wir treffen uns am Mittwoch 18.12.2024 bereits um 18:00 Uhr (statt um 18:30) und zwar am Christkindlmarkt am Bergisel (bei der Skisprungschanze – NICHT jener in der Altstadt !!), um mit einem ATH-Glühwein auf das Ende des zähen Bärenmarktes anzustoßen.\n\nAb 19:30 Uhr sind wir dann im Ghf Bierstindl, wo wir diesmal einen Aktien-Schwerpunkt haben werden.",
       "link": "https://bitcoin-tirol.at/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "96f3116f3689e7681a4d08c96cf48575af88cdb824c1133e7b12835f106b611f"
     },
     "style": {
