@@ -1464,6 +1464,29 @@
     }
   },
   {
+    "name": "Einundzwanzig Lechrain",
+    "latLng": [
+      47.876998,
+      11.023786
+    ],
+    "url": "https://t.me/Einundzwanziglechrain",
+    "city": "Lechrain",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
+    "twitter": null,
+    "event": {
+      "start": "2025-01-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1743",
+      "location": "Wessobrunn",
+      "description": null,
+      "link": "https://www.post-wessobrunn.de/",
+      "attendees": 0,
+      "nostr_note": "d2277c7e0c2a7b1fe2aed9431c7630e6033fd26070e06d7fa984e59dbbb3e943"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Limburg",
     "latLng": [
       50.38675,
@@ -1601,7 +1624,15 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-18 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1742",
+      "location": "Düsseldorf",
+      "description": "Meetup Düsseldorf, genauer Ort und Lokation wird noch in der Gruppe abgestimmt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "d813efee0a91ae8981c8979f85d52e93eb9964dabcf656a0cd513dc3b07346f8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2937,15 +2968,7 @@
     "city": "Graz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin21",
     "twitter": "btc21Mentor",
-    "event": {
-      "start": "2024-12-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1707",
-      "location": "Hochl Kulinarik: Triester Straße 162, 8020 Graz, Austria / vor den Toren des Zentralfriedhofs. ",
-      "description": "21 Minuten #Bitcoin-Vortrag mit anschliessender interaktiver Fragerunde am Di., 10.12.2024, ab 18:00 Uhr im http://hochl.com (vor dem Zentralfriedhof) in #Graz. \n\nWas ist #Geld? \nWas sind die Ursachen der #Inflation & der globalen #Schuldenblase? \nWarum Bitcoin?👀 ⚡️🇦🇹",
-      "link": "https://maps.app.goo.gl/4TxJ4hvB8yaNez3Z8",
-      "attendees": 4,
-      "nostr_note": "60dd5f98b07dc1f2c0ddaedca6ad1f2cfe05ff7fba1a167b1f9129816049426b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
