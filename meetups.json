@@ -227,15 +227,7 @@
     "city": "Halle (Saale)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
-    "event": {
-      "start": "2024-12-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1265",
-      "location": "Wird auf Telegram bekanntgegeben",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "94317e4220339e581d0f43f23a7f49e09e4ce42cb3762b025c6eff0c360e6ee5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -724,6 +716,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Brühl",
+    "latLng": [
+      50.826141,
+      6.90155
+    ],
+    "url": "https://t.me/+LgkAcZaB7dBkZjJi",
+    "city": "Brühl",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Celle - ResidenzstadtMeetup",
     "latLng": [
       52.621922,
@@ -884,15 +891,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "start": "2024-12-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1710",
-      "location": "Essen, wechsel.bar",
-      "description": "11.12.24 Meetup Essen 19 Uhr. Die Laktation wird noch in der Telegram-Gruppe abgestimmt.",
-      "link": "https://btcmap.org/merchant/node:343519450",
-      "attendees": 0,
-      "nostr_note": "54247bb9053a2e95adbf9081587e53ba4933037db2fc3808881fa191e47b0262"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -928,7 +927,7 @@
       "location": "Cheers Pub & Grill Fürth",
       "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
       "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 17,
+      "attendees": 19,
       "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
     },
     "style": {
@@ -991,13 +990,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
     "event": {
-      "start": "2024-12-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1695",
+      "start": "2025-02-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1696",
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
       "attendees": 0,
-      "nostr_note": "6cf2f3ddd9eeeac2d8a747fb48b761be6cd9abacb0f169e4acf456bb1c517119"
+      "nostr_note": "5c36d312a3d17d72178f52678076ed3fb236f6f676af809c1178aa3cbba1b1b8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2205,15 +2204,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2024-12-11 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1702",
-      "location": "Bar Celona Saarbrücken",
-      "description": "Orga läuft hauptsächlich über die Telegram-Gruppe",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "7284997c42ad069910e506cdaf3dc14132a62504cbacc613d0425716b3209142"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3066,15 +3057,7 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": {
-      "start": "2024-12-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1703",
-      "location": "Sportplatzweg 1, 4552 Wartberg an der Krems ",
-      "description": "Hi! Einundzwanzig Kirchdorf trifft sich zum ersten Mal!!\nDie Location ist sehr gut öffentlich erreichbar, der Bahnhof ist in der Nähe.",
-      "link": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x4773e70a49c0b8fb:0x57846e0c1028d5b0?entry=s&sa=X&ved=1t:8290&hl=de-at&ictx=111",
-      "attendees": 3,
-      "nostr_note": "435da0ae91e66b6a15920e61637748a4fe454df6a3f6d3afd844bd713b62b8be"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3110,7 +3093,7 @@
       "location": "Zur Liesl",
       "description": "🎉 Jahresendfeier Einundzwanzig Linz\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
       "link": null,
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "8e4074079c89c9121bf9b559d4ddae53e7b496680a742e10936b7b0eea145fbd"
     },
     "style": {
@@ -3186,7 +3169,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ \nWann: Freitag, 13.12.24, ab 18h\nWo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘\n",
       "link": "https://maps.app.goo.gl/marX5zCX5zC5LS1N9",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "7a2a519644fbd23ebecdd382f9509d34ba425a4b8fc2538d8763e3e4a3696a5a"
     },
     "style": {
@@ -3204,13 +3187,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2024-12-21 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1233",
+      "start": "2025-01-18 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1234",
       "location": "Passau oder Schärding",
-      "description": "38. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "39. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "273ea8a7363729dadd5fed3325546bb4bd3cf3515ef326e0a67b8afb2059a219"
+      "nostr_note": "970f0c225287deef76865ce8da038f521aba868cc80ade491203ff7425405564"
     },
     "style": {
       "fill": "var(--color-accent)"
