@@ -2643,7 +2643,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-18 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1764",
+      "location": "Heinsberg / Waldenrath",
+      "description": "Stammtisch in der Dorfkneipe. Gemeinsam essen und trinken und über Bitcoin reden. Jeder ist willkommen mit oder ohne Bitcoin Kenntnisse. ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 1,
+      "nostr_note": "a3f9efb167435334b6bf2302561e63a11f1b7d367b11c1dd159db4d9b0575f8e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
