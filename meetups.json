@@ -913,15 +913,7 @@
     "city": "Franken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
-    "event": {
-      "start": "2024-12-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1036",
-      "location": "Cheers Pub & Grill Fürth",
-      "description": "Cheers Pub & Grill\nGustavstr. 36\n90762 Fürth",
-      "link": "https://www.google.com/maps/place/Cheers+im+Pfeifndurla+-+F%C3%BCrth,+Gustavstra%C3%9Fe+36,+90762+F%C3%BCrth/@49.4792704,10.988828,15z/data=!4m6!3m5!1s0x479f5594605fa2e9:0x9e3cb7c180a779b2!8m2!3d49.4792704!4d10.988828!16s%2Fg%2F11byz3dgcp",
-      "attendees": 21,
-      "nostr_note": "f1a441bcc3e1cf9b9f42c3e42a881c002f2e3730b45288b686b5234b538e07c0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1708,6 +1700,21 @@
       "attendees": 0,
       "nostr_note": "a76abb90bef46e57b067082469266edf8d60c63827b3d9e4c1abf47850a53eba"
     },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Neubrandenburg ",
+    "latLng": [
+      53,
+      13
+    ],
+    "url": "https://t.me/EinundzwanzigNeubrandenburg",
+    "city": "Neubrandenburg ",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
