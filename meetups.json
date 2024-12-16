@@ -1396,7 +1396,15 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-18 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1767",
+      "location": "Markthalle Körnerstraße 21",
+      "description": "Themen:\n* SeedSigner\n* Best Practices für Selbstverwahrung\n* Offene Fragerunde",
+      "link": "https://t.me/einundzwanzig_koeln",
+      "attendees": 0,
+      "nostr_note": "5f4a972826893ca2f2af1f6dd60039eafad344c4b8498ab9b095699f49c0c61f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
