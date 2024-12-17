@@ -979,7 +979,7 @@
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "5c36d312a3d17d72178f52678076ed3fb236f6f676af809c1178aa3cbba1b1b8"
     },
     "style": {
@@ -1147,7 +1147,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2024-12-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1768",
+      "location": "Heilbronn",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 21.12.2024 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
+      "link": "https://t.me/einundzwanzigHeilbronn",
+      "attendees": 0,
+      "nostr_note": "c40005054cd6d0153a637e5f27861bf035fd997ace63d9624c4a1acd817d96eb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1313,13 +1321,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "start": "2025-01-09 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1766",
-      "location": "Alte Schmiede Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://www.alte-schmiede-kempten.de/",
+      "start": "2024-12-18 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1769",
+      "location": "Kemptener Pleb Weihnachtsmarkt",
+      "description": "Pünktlich zum € 100k Top findet die Kemptner Pleb Weihnacht statt.\nWie im vergangenen Jahr treffen wir uns auf dem Weihnachtsmarkt in Kempten auf einen wärmenden Glühwein und herzhaftem vom Allgäuer Volksbäck.\nSein Stand liegt direkt vor der Volksbank. \n",
+      "link": "https://multimaps360.de/vr360/allgaeu/oberallgaeu-sommer/index.html#ke_weihnachtsmarkt",
       "attendees": 1,
-      "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
+      "nostr_note": "b70f09dcd835a56a748f14a4d6cc84261871ad5284f3079b84678450178b6461"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1626,8 +1634,8 @@
     "event": {
       "start": "2024-12-18 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1742",
-      "location": "Düsseldorf",
-      "description": "Meetup Düsseldorf, genauer Ort und Lokation wird noch in der Gruppe abgestimmt.",
+      "location": "Beethoven, Ackerstr. 106, 40223 Düsseldorf",
+      "description": "Meetup, Weihnachtsfeier & 100k Feier 🍻",
       "link": null,
       "attendees": 0,
       "nostr_note": "d813efee0a91ae8981c8979f85d52e93eb9964dabcf656a0cd513dc3b07346f8"
@@ -2045,15 +2053,7 @@
     "city": "Recklinghausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": "EinundzwanzigRE",
-    "event": {
-      "start": "2024-12-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/912",
-      "location": "Suberg´s bei Boente, Augustinessenstraße 4, 45657 Recklinghausen",
-      "description": "Wir sind EINUNDZWANZIG Recklinghausen und treffen uns einmal im Monat zu einem Meetup im schönen \"the italian\". Egal ob alter Hase oder Neuling, wir freuen uns auf dich! Stay humble, Stack Sats!",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "7aded67a012a2f24f2eabc7fbe1ba2e65205d3f6b5a152eb0834f44f53751086"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2422,15 +2422,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "start": "2024-12-16 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1713",
-      "location": "https://braeuhaus.net/",
-      "description": "Meetup ",
-      "link": "https://braeuhaus.net/",
-      "attendees": 0,
-      "nostr_note": "3cf45c0ebd9027352353c36eb5ccc734e51e2cfb6e2b78d408f5d462ed42f87f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
