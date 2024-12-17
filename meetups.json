@@ -1326,7 +1326,7 @@
       "location": "Kemptener Pleb Weihnachtsmarkt",
       "description": "Pünktlich zum € 100k Top findet die Kemptner Pleb Weihnacht statt.\nWie im vergangenen Jahr treffen wir uns auf dem Weihnachtsmarkt in Kempten auf einen wärmenden Glühwein und herzhaftem vom Allgäuer Volksbäck.\nSein Stand liegt direkt vor der Volksbank. \n",
       "link": "https://multimaps360.de/vr360/allgaeu/oberallgaeu-sommer/index.html#ke_weihnachtsmarkt",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "b70f09dcd835a56a748f14a4d6cc84261871ad5284f3079b84678450178b6461"
     },
     "style": {
@@ -1637,7 +1637,7 @@
       "location": "Beethoven, Ackerstr. 106, 40223 Düsseldorf",
       "description": "Meetup, Weihnachtsfeier & 100k Feier 🍻",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "d813efee0a91ae8981c8979f85d52e93eb9964dabcf656a0cd513dc3b07346f8"
     },
     "style": {
@@ -1730,7 +1730,15 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-12 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1770",
+      "location": "My Area, Treptower Straße 1, 17033 Neubrandenburg, Deutschland",
+      "description": "Erstes Neubrandenburger Only Bitcoin Meetup im MyArea Coworking Space im Marienkaree, anlässlich der ersten Bitcoin Transaktion am 12. Januar 2009. Getränke können vor Ort käuflich erworben werden, gern auch per Lightning. Essen steht leider nicht zur Verfügung.",
+      "link": "https://maps.app.goo.gl/FXGExuAdDxzFcJ1X9?g_st=ic",
+      "attendees": 0,
+      "nostr_note": "48dcee9071432a7ed35bce9a2e80cca247ad19d528f4aaceabd06eda44b674d0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3210,8 +3218,8 @@
     "event": {
       "start": "2024-12-18 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1282",
-      "location": "Christkindlmarkt am Bergisel - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
-      "description": "Wir treffen uns am Mittwoch 18.12.2024 bereits um 18:00 Uhr (statt um 18:30) und zwar am Christkindlmarkt am Bergisel (bei der Skisprungschanze – NICHT jener in der Altstadt !!), um mit einem ATH-Glühwein auf das Ende des zähen Bärenmarktes anzustoßen.\n\nAb 19:30 Uhr sind wir dann im Ghf Bierstindl, wo wir diesmal einen Aktien-Schwerpunkt haben werden.",
+      "location": "Christkindlmarkt Wiltener Platzl, Leopoldstr. 27 - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "description": "Wir treffen uns am Mittwoch 18.12.2024 bereits um 18:00 Uhr und zwar am Christkindlmarkt Wiltener Platzl, Leopoldstr. 27, um mit einem ATH-Glühwein auf das Ende des zähen Bärenmarktes anzustoßen.\n\nAb 19:30 Uhr sind wir dann im Ghf Bierstindl, wo wir diesmal einen Aktien-Schwerpunkt haben werden.",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 1,
       "nostr_note": "96f3116f3689e7681a4d08c96cf48575af88cdb824c1133e7b12835f106b611f"
