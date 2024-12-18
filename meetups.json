@@ -1260,7 +1260,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2024-12-22 10:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1771",
+      "location": "Seehaus Ingolstadt",
+      "description": "Trefft Gleichgesinnte, redet über Bitcoin und genießt die entspannte Atmosphäre im Seehaus. Freut euch auf mediterrane Küche, nette Gespräche und ausreichend Parkplätze direkt vor der Tür. 🚀\n\nWir sehen uns! 🍻\n\n(Anmeldung über die Umfrage in der Telegram Gruppe)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8a769c19a272093adb2c1ae9920bda3d61130b6708f0ffdff048e2a1bf69af78"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
