@@ -114,15 +114,7 @@
     "city": "Bitcoin Berlin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
-    "event": {
-      "start": "2024-12-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/970",
-      "location": "Bitcoin am Holzmarkt",
-      "description": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/events/",
-      "attendees": 0,
-      "nostr_note": "1b452a5ca9168cae3ffc4060166b6b73ba7d19fc89ac740123c4e0a6624e943e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -258,13 +250,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin",
     "twitter": "Xellos_Bitcoin",
     "event": {
-      "start": "2024-12-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1584",
+      "start": "2025-01-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1678",
       "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "9. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar.\nRumbar Unity - 19053 Schwerin, Arsenalstraße 36\nJEDER ist Willkommen!\nWir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss...\nJedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat!\nIn der Bar kann beim Barbesitzen mit Lightning oder Onchain BTC bezahlt werden.\nAber auch wer sein Fiat-Geld los werden möchte kann dies natürlich tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
+      "description": "10. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar. Rumbar Unity - 19053 Schwerin, Arsenalstraße 36 JEDER ist Willkommen! Wir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss... Jedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat! In der Bar kann beim Barbesitzer (oder mittlerweile auch bei der Mitarbeiterin) mit Bitcoin-Lightning oder Onchain BTC bezahlt werden. Aber auch wer sein Fiat-Geld los werden möchte kann dies natürlich gerne tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
-      "attendees": 1,
-      "nostr_note": "90a05fc3527ef7e822d679fbd6b6f6bdbadb49f0ec4320bd76f9ae6857f291bd"
+      "attendees": 0,
+      "nostr_note": "1c90666bc536885c0fc1f7a9d2fa6efc134a11722ad751b9dfb5e202f64f4d27"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1329,13 +1321,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "start": "2024-12-18 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1769",
-      "location": "Kemptener Pleb Weihnachtsmarkt",
-      "description": "Pünktlich zum € 100k Top findet die Kemptner Pleb Weihnacht statt.\nWie im vergangenen Jahr treffen wir uns auf dem Weihnachtsmarkt in Kempten auf einen wärmenden Glühwein und herzhaftem vom Allgäuer Volksbäck.\nSein Stand liegt direkt vor der Volksbank. \n",
-      "link": "https://multimaps360.de/vr360/allgaeu/oberallgaeu-sommer/index.html#ke_weihnachtsmarkt",
+      "start": "2025-01-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1766",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.alte-schmiede-kempten.de/",
       "attendees": 3,
-      "nostr_note": "b70f09dcd835a56a748f14a4d6cc84261871ad5284f3079b84678450178b6461"
+      "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1412,15 +1404,7 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": {
-      "start": "2024-12-18 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1767",
-      "location": "Markthalle Körnerstraße 21",
-      "description": "Themen:\n* SeedSigner\n* Best Practices für Selbstverwahrung\n* Offene Fragerunde",
-      "link": "https://t.me/einundzwanzig_koeln",
-      "attendees": 0,
-      "nostr_note": "5f4a972826893ca2f2af1f6dd60039eafad344c4b8498ab9b095699f49c0c61f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1639,15 +1623,7 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": {
-      "start": "2024-12-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1742",
-      "location": "Beethoven, Ackerstr. 106, 40223 Düsseldorf",
-      "description": "Meetup, Weihnachtsfeier & 100k Feier 🍻",
-      "link": null,
-      "attendees": 2,
-      "nostr_note": "d813efee0a91ae8981c8979f85d52e93eb9964dabcf656a0cd513dc3b07346f8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1743,7 +1719,7 @@
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1770",
       "location": "My Area, Treptower Straße 1, 17033 Neubrandenburg, Deutschland",
       "description": "Erstes Neubrandenburger Only Bitcoin Meetup im MyArea Coworking Space im Marienkaree, anlässlich der ersten Bitcoin Transaktion am 12. Januar 2009. Getränke können vor Ort käuflich erworben werden, gern auch per Lightning. Essen steht leider nicht zur Verfügung.",
-      "link": "https://maps.app.goo.gl/FXGExuAdDxzFcJ1X9?g_st=ic",
+      "link": "https://maps.app.goo.gl/rdCVwWgeptevkM3m7?g_st=ic",
       "attendees": 0,
       "nostr_note": "48dcee9071432a7ed35bce9a2e80cca247ad19d528f4aaceabd06eda44b674d0"
     },
@@ -2650,15 +2626,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2024-12-18 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1764",
-      "location": "Heinsberg / Waldenrath",
-      "description": "Stammtisch in der Dorfkneipe. Gemeinsam essen und trinken und über Bitcoin reden. Jeder ist willkommen mit oder ohne Bitcoin Kenntnisse. ",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "a3f9efb167435334b6bf2302561e63a11f1b7d367b11c1dd159db4d9b0575f8e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3170,7 +3138,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1772",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 10.01.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "2ff0dc16dab4ccb8aa9e3229536b7a38d5dafae6f6d33cfdb8a3be994bf0f9c0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3224,13 +3200,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2024-12-18 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1282",
-      "location": "Christkindlmarkt Wiltener Platzl, Leopoldstr. 27 - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
-      "description": "Wir treffen uns am Mittwoch 18.12.2024 bereits um 18:00 Uhr und zwar am Christkindlmarkt Wiltener Platzl, Leopoldstr. 27, um mit einem ATH-Glühwein auf das Ende des zähen Bärenmarktes anzustoßen.\n\nAb 19:30 Uhr sind wir dann im Ghf Bierstindl, wo wir diesmal einen Aktien-Schwerpunkt haben werden.",
+      "start": "2025-01-22 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1726",
+      "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
-      "attendees": 1,
-      "nostr_note": "96f3116f3689e7681a4d08c96cf48575af88cdb824c1133e7b12835f106b611f"
+      "attendees": 0,
+      "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3614,15 +3590,7 @@
     "city": "Palma",
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-mallorca-mbd",
     "twitter": null,
-    "event": {
-      "start": "2024-12-18 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/1163",
-      "location": "Palma - Ventura Harbor Bar",
-      "description": "Wir organisieren jeden 3. Mittwoch im Monat unser Bitcoin Meetup und einmal im Jahr unsere Konferenz Bitcoin & Liberty - Mallorca Blockchain Days.\nJeder Bitcoiner ist willkommen - bitte keine MLMs, Shitcoins oder Scams !",
-      "link": "https://www.meetup.com/es-ES/bitcoin-mallorca/",
-      "attendees": 0,
-      "nostr_note": "375166ba1277df302cdc8c82c725cfc61740a96836866e7830e96a73f79d9683"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
