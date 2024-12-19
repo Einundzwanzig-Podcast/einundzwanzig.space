@@ -709,7 +709,15 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-09 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1774",
+      "location": "Brühler Wirtshaus am Schloss",
+      "description": "",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "db6ce5618515815ab6db512171f123dc564d8f2b9d00964aecb6f2c51ce60833"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1326,7 +1334,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -1382,7 +1390,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-12-26 17:00:00",
+      "start": "2024-12-30 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1443",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
@@ -1419,15 +1427,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2024-12-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1663",
-      "location": "Landau",
-      "description": "Details in den Gruppen.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "55a8eb1e1cf2a10748e8f2777ab568fc3ac911ece8e2a8e8bb4de6ac679915b0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2626,7 +2626,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-09 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1773",
+      "location": "Heinsberg / Waldenrath ",
+      "description": "Stammtisch in der Dorfkneipe für Bitcoiner und Bitcoin interessierte ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "e6ab523dda01dfb47175623af3e375d423ba2a8effde94d19ea77d3e590c815b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
