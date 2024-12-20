@@ -460,15 +460,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2024-12-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1677",
-      "location": "Zum Schwalbennest Alsfeld",
-      "description": "Unser nächstes Meetup findet am 19.12.2024 ab 18:30 in der Gaststätte „Zum Schwalbennest“, Pfarrwiesenweg 12 in 36304 Alsfeld statt.\nBitte teilt uns eure Teilnahme frühzeitig über das Einundzwanzigportal oder unserer Telegrammgruppe mit um entsprechend reservieren zu können. ",
-      "link": "https://hotel-schwalbennest.de/",
-      "attendees": 1,
-      "nostr_note": "a1c080508e5d24eae92198cfdb1c2a41397b9492f16151502139d67cb4a1f1a8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2475,13 +2467,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
     "event": {
-      "start": "2024-12-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1704",
+      "start": "2025-01-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1705",
       "location": "Zum Wichtel in 71254 Ditzingen",
-      "description": "Unser 22. Stammtisch wird weihnachts-bedingt um eine Woche vorgezogen.\nIm Wichtel hat ein Herr Adam Beck für uns reserviert.\nBitte um verbindliche Zusage in der Telegramm-Gruppe, damit wir entsprechend reservieren können.",
+      "description": "Das erste Meet-up in 2025 ist zugleich fortlaufend Nr.23.\nIm Ditzinger Wichtel ist auf Adam Beck reserviert. Bitte sagt in der Telegramm-Gruppe verbindlich zu, damit wir die Reservierung entsprechend anpassen können.\n",
       "link": "https://maps.app.goo.gl/55FGFw19kJcQB9519",
       "attendees": 0,
-      "nostr_note": "ebd82960dc618faff7e435e6e494592b778930640cd5c74407a157e978639d19"
+      "nostr_note": "7e0be022d7dee9d454bb7eba7d3b881b5aa25e2b16bf26afa77a0af6f89a1618"
     },
     "style": {
       "fill": "var(--color-accent)"
