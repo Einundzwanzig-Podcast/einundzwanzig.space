@@ -45,21 +45,6 @@
     }
   },
   {
-    "name": "7. Bitcoin Meetup Schwerin (ich kanns nicht löschen!!!) WER KANN HELFEN?",
-    "latLng": [
-      53.635502,
-      11.40125
-    ],
-    "url": "https://t.me/+ruWxukKwM2MwYzRi",
-    "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/7-bitcoin-meetup-schwerin-ich-kanns-nicht-loeschen-wer-kann-helfen",
-    "twitter": "Xellos_Bitcoin",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Aschaffenburg",
     "latLng": [
       49.973019,
@@ -248,7 +233,7 @@
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin",
-    "twitter": "Xellos_Bitcoin",
+    "twitter": "ChristianRadtk9",
     "event": {
       "start": "2025-01-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1678",
@@ -271,7 +256,7 @@
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-1",
-    "twitter": "Xellos_Bitcoin",
+    "twitter": "ChristianRadtk9",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -288,6 +273,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-spezial-im-easyjump-schwerin-trampolinhalle-mit-kindern",
     "twitter": "XellosAusSN",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Meetup Schwerin - Einundzwanzig",
+    "latLng": [
+      53.635502,
+      11.40125
+    ],
+    "url": "https://t.me/+ruWxukKwM2MwYzRi",
+    "city": "Schwerin",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
+    "twitter": "ChristianRadtk9",
+    "event": {
+      "start": "2025-01-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1775",
+      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
+      "description": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36\n\n10. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar. Rumbar Unity - 19053 Schwerin, Arsenalstraße 36 JEDER ist Willkommen! Wir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss... Jedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat! In der Bar kann beim Barbesitzer (oder mittlerweile auch bei der Mitarbeiterin) mit Bitcoin-Lightning oder Onchain BTC bezahlt werden. Aber auch wer sein Fiat-Geld los werden möchte kann dies natürlich gerne tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
+      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
+      "attendees": 0,
+      "nostr_note": "8a793b410af2d7542730a54daffb559ee664c6d0870598492d31261828db6c32"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1326,7 +1334,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -1547,15 +1555,7 @@
     "city": "Mannheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
-    "event": {
-      "start": "2024-12-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1456",
-      "location": "Abstimmung per Telegram",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "46f6c151ef11e457f08702d8f187872aac1e104e4272bda9a23578876e78f7c8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1867,8 +1867,8 @@
     "event": {
       "start": "2025-01-03 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1425",
-      "location": "Lindenkroog OL",
-      "description": "Zahlung und Trinkgeld per Lightning gerne gesehen. Bargeld geht zur Not auch.",
+      "location": "Restaurant KRETA, Nadorster Str. 53",
+      "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
       "attendees": 0,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
@@ -2171,7 +2171,7 @@
       "location": "BitcoinWERFT Kurt-Dunkelmann-Straße 2 18057 Rostock",
       "description": null,
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "b032f7f152bf799cc87cd38fdb0b4b214ce5647bdcf060678658b54d4a70eb06"
     },
     "style": {
@@ -2979,15 +2979,7 @@
     "city": "Reutte",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
-    "event": {
-      "start": "2024-12-20 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1182",
-      "location": "Schmuri (Pianokeller, Reutte)",
-      "description": "Easymeetup",
-      "link": "https://maps.app.goo.gl/WjmoFX6c979TMvLC8",
-      "attendees": 0,
-      "nostr_note": "87941bf87a7969fac2a5ee92f91d9cde5b9f59f8be5b94fd660046bca4e56291"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
