@@ -225,15 +225,30 @@
     }
   },
   {
-    "name": "Bitcoin Meetup Schwerin",
+    "name": "Bitcoin Meetup Schwerin \"Spezial\" im Easyjump Schwerin – Trampolinhalle - !!! MIT KINDERN !!!",
     "latLng": [
       53.635502,
       11.40125
     ],
     "url": "https://t.me/+ruWxukKwM2MwYzRi",
     "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin",
-    "twitter": "ChristianRadtk9",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-spezial-im-easyjump-schwerin-trampolinhalle-mit-kindern",
+    "twitter": "XellosAusSN",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Meetup Schwerin (UNGÜLTIGE SEITE KANN GELÖSCHT WERDEN !!!)",
+    "latLng": [
+      53.635502,
+      11.40125
+    ],
+    "url": "21",
+    "city": "Schwerin",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-ungueltige-seite-kann-geloescht-werden",
+    "twitter": "21",
     "event": {
       "start": "2025-01-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1678",
@@ -248,30 +263,15 @@
     }
   },
   {
-    "name": "Bitcoin Meetup Schwerin ",
+    "name": "Bitcoin Meetup Schwerin (UNGÜLTIGE SEITE KANN GELÖSCHT WERDEN !!)",
     "latLng": [
       53.635502,
       11.40125
     ],
-    "url": "https://t.me/+ruWxukKwM2MwYzRi",
+    "url": "21",
     "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-1",
-    "twitter": "ChristianRadtk9",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Bitcoin Meetup Schwerin \"Spezial\" im Easyjump Schwerin – Trampolinhalle - !!! MIT KINDERN !!!",
-    "latLng": [
-      53.635502,
-      11.40125
-    ],
-    "url": "https://t.me/+ruWxukKwM2MwYzRi",
-    "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-spezial-im-easyjump-schwerin-trampolinhalle-mit-kindern",
-    "twitter": "XellosAusSN",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-ungueltige-seite-kann-geloescht-werden-1",
+    "twitter": "21",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -415,15 +415,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2024-12-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1632",
-      "location": "München (Location steht noch nicht fest)",
-      "description": "es weihnachtet sehr....",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "ee0f8d68f39a8976229053c2a4bbc5a3798a859d916c2af876059c1ff8d23d48"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -851,7 +843,7 @@
       "location": " Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fa8135a66b2bac7bc8dde16e755c92a80c0d489c627117579d1c9db7981a47ff"
     },
     "style": {
@@ -1147,15 +1139,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2024-12-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1768",
-      "location": "Heilbronn",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 21.12.2024 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
-      "link": "https://t.me/einundzwanzigHeilbronn",
-      "attendees": 0,
-      "nostr_note": "c40005054cd6d0153a637e5f27861bf035fd997ace63d9624c4a1acd817d96eb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1367,8 +1351,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2024-12-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1561",
+      "start": "2025-01-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1562",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -2165,15 +2149,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "start": "2024-12-21 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1675",
-      "location": "BitcoinWERFT Kurt-Dunkelmann-Straße 2 18057 Rostock",
-      "description": null,
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
-      "attendees": 2,
-      "nostr_note": "b032f7f152bf799cc87cd38fdb0b4b214ce5647bdcf060678658b54d4a70eb06"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2188,7 +2164,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1779",
+      "location": "Gasthof Adler in Dietingen, RW",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "cce55dcb28d618b464624a362b444020c904c8902aba1eccd68c8fbdaca92ab2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2535,15 +2519,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2024-12-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1693",
-      "location": "Stacks",
-      "description": "Wie immer ist ab 18 Uhr das Meetup im Stacks, eurem lieblings Bitcoin Restaurant in Trier.",
-      "link": "https://radis-stacks.de",
-      "attendees": 1,
-      "nostr_note": "6b2585cb7a59a4e8e5b352814e66b9b0da9a296cf7bbad3cc0a41f14c95de8e3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3055,13 +3031,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2024-12-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1674",
-      "location": "Zur Liesl",
-      "description": "🎉 Jahresendfeier Einundzwanzig Linz\n“Lass uns das Jahr reflektieren” 🌟\nGemeinsam zurückblicken, austauschen & anstoßen. 🚀",
+      "start": "2025-01-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1738",
+      "location": "Cafe Froschberg",
+      "description": null,
       "link": null,
-      "attendees": 11,
-      "nostr_note": "8e4074079c89c9121bf9b559d4ddae53e7b496680a742e10936b7b0eea145fbd"
+      "attendees": 1,
+      "nostr_note": "fc3a834242b493dd937ac600d14ec9d9a0e5d786e4e7c5c226d0d43694e4e448"
     },
     "style": {
       "fill": "var(--color-accent)"
