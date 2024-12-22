@@ -460,7 +460,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2025-01-14 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1780",
+      "location": "Zum Schwalbennest, Pfarrwiesenweg 12, 36304 Alsfeld",
+      "description": "Unser nächstes Meetup findet am 14.01.25 ab 18:30 wieder im Restaurant „Zum Schwalbennest“ Pfarrwiesenweg 12, 36304 Alsfeld statt. \nTeilnahme bitte über Telegram oder im Portal bestätigen/mitteilen um entsprechend reservieren zu können.",
+      "link": "https://hotel-schwalbennest.de/",
+      "attendees": 1,
+      "nostr_note": "b428ee7130393ad1cbe48f78a5abf392c2d052dce1f064457f9940600824408c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1244,15 +1252,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2024-12-22 10:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1771",
-      "location": "Seehaus Ingolstadt",
-      "description": "Trefft Gleichgesinnte, redet über Bitcoin und genießt die entspannte Atmosphäre im Seehaus. Freut euch auf mediterrane Küche, nette Gespräche und ausreichend Parkplätze direkt vor der Tür. 🚀\n\nWir sehen uns! 🍻\n\n(Anmeldung über die Umfrage in der Telegram Gruppe)",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "8a769c19a272093adb2c1ae9920bda3d61130b6708f0ffdff048e2a1bf69af78"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }

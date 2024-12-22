@@ -140,7 +140,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:episode display="News #267">267</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="20"></podcast:valueRecipient>
@@ -405,7 +405,7 @@ Die Community-Tutorials auf YouTube.</p>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #264">264</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -456,7 +456,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -636,7 +636,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
       <podcast:person href="https://primal.net/p/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
@@ -691,7 +691,7 @@ Die Community-Tutorials auf YouTube.</p>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #260">260</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -885,7 +885,7 @@ Die Community-Tutorials auf YouTube.</p>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #258">258</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -1086,7 +1086,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #256">256</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -1281,7 +1281,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #250">250</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Paddepadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="HolgerHatGarKeineNode" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="7xLiGzVqEBGYoBWvKeY7" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -1362,7 +1362,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1723585618710-22b0a95269cf8.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -1426,7 +1426,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #247">247</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -1447,7 +1447,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #246">246</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Wantclue" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MNy1b07YmuaEQyE9WtjT" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
@@ -1488,7 +1488,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #245">245</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="BenMitFleck" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="FEdg3yD1HsyTbFUIjVHh" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Paddepadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="20"></podcast:valueRecipient>
@@ -1561,7 +1561,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #243">243</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="BenMitFleck" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="FEdg3yD1HsyTbFUIjVHh" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
@@ -1584,7 +1584,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Paddepadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
@@ -1687,7 +1687,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Cerca" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -1744,7 +1744,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1c0qfrcjzgf9mwa8cgh809ac9vvxn2ujquvzdjjrze0ejv9xyqzcqqe6n3q">Johannes</podcast:person>
@@ -1764,7 +1764,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #238">238</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -1804,7 +1804,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #237">237</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Paddepadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -1901,7 +1901,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #234">234</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -2102,7 +2102,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -2126,7 +2126,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
@@ -2284,7 +2284,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #102">102</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2304,7 +2304,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #224">224</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Johannes" address="030fd4a722cd139c2d11285cfaf9d513f59be56645af3a0fdd7b7125976b709a03" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -2435,7 +2435,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="14"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="14"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="14"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="14"></podcast:valueRecipient>
@@ -2462,7 +2462,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #220">220</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2521,7 +2521,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #219">219</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -2563,7 +2563,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #218">218</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2602,7 +2602,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #217">217</podcast:episode>
       <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
@@ -2625,7 +2625,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #216">216</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2665,7 +2665,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
         <podcast:valueRecipient name="Wantclue" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MNy1b07YmuaEQyE9WtjT" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="4plus17" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="bXSJeqTlpEcRYYff1hS0" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://www.wantclue.de">WantClue</podcast:person>
       <podcast:person href="https://bitcoiner.bio/4plus17">4plus17</podcast:person>
@@ -2705,7 +2705,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="Interview #98">98</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2727,7 +2727,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Molo" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MvJVAFYbDTN3K6gvvGhj" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="undefined">Molo</podcast:person>
@@ -2828,7 +2828,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #212">212</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2920,7 +2920,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="Interview #96">96</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -2980,7 +2980,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="MarkusTurm" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
@@ -3041,7 +3041,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="Verschiedenes #01">01</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
@@ -3138,7 +3138,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Lawrence" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="xVJWaSLb2QkQrhwfc3VG" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Lassmiranda" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="yy4ODIV8ThEKGJw8NknL" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://shopinbit.com/">Lawrence</podcast:person>
@@ -3162,7 +3162,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
@@ -3205,7 +3205,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:episode display="News #203">203</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="N1qxVXT6tXmsWv3Vz1qn" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="El Bitcoin Ambassador" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="n034BHJnap8E2ab1phMS" type="node" split="20"></podcast:valueRecipient>
@@ -3254,7 +3254,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="HolgerHatGarKeineNode" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="7xLiGzVqEBGYoBWvKeY7" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person href="https://primal.net/p/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
@@ -3278,7 +3278,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="qCZXGiXukcaTJ1DroykI" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Loddi" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="34PPUPz9Cs23eZ5XY5Hi" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
@@ -3504,7 +3504,7 @@ Episode 256 - Blockzeit 863841 - von und mit Markus, Sirius, Joko, Robin Linus u
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="PaddePadde" address="0384d37ce01a3950be609156dcbd3ebcad6a8107b11d796890521fde06508dfc4d" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="20"></podcast:valueRecipient>
         <podcast:valueRecipient name="Dennis" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" type="node" split="20"></podcast:valueRecipient>
