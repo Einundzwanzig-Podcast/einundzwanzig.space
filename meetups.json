@@ -445,7 +445,15 @@
     "city": "Aachen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1808",
+      "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
+      "description": null,
+      "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
+      "attendees": 0,
+      "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -641,7 +649,15 @@
     "city": "Bonn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-03 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1795",
+      "location": "The 9th, Coworking Space Bonn",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1207,7 +1223,15 @@
     "city": "Hildesheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-17 17:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1781",
+      "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
+      "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
