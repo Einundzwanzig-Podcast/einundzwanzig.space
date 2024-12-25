@@ -1420,7 +1420,15 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1820",
+      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
