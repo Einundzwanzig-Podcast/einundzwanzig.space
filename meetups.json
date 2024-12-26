@@ -899,7 +899,15 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1847",
+      "location": null,
+      "description": "Meetup jeden zweiten Mittwoch im Monat!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1193,7 +1201,15 @@
     "city": "Hennef",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-14 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1859",
+      "location": null,
+      "description": "Meetup jeden zweiten Dienstag im Monat!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "fa0bdb00ff15ad4d67dfea4410bba0801c7c96b75fe305c499762eab9f12ba77"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1421,13 +1437,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-01-15 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1820",
-      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
-      "description": null,
-      "link": null,
+      "start": "2025-01-04 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1897",
+      "location": "Clarenbachstraße 2, 50931 Köln",
+      "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
+      "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
+      "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1631,7 +1647,15 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1834",
+      "location": null,
+      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1684,7 +1708,15 @@
     "city": "Mönchengladbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2024-12-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1884",
+      "location": null,
+      "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "f58d33faab9f37492bd4770de82528d9c4c39f352f69336679e8053bab413b53"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2136,7 +2168,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1872",
+      "location": null,
+      "description": "Meetup jeden letzten Donnerstag im Monat!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "655f489df6862fa35bfbe8bd920d187889641ab6a3da287605addc4c5f6007ac"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2422,7 +2462,15 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1883",
+      "location": null,
+      "description": "Wahrscheinlich Meetup in Solingen! Bitte in der Gruppe nachfragen!!",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b86a0753be24d2f6c693f892357d99b73dfcfb7d065c3c9ca6ab3d007dc983b7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
