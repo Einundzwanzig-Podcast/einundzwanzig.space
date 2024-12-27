@@ -346,6 +346,29 @@
     }
   },
   {
+    "name": "Bitcoin Walk Köln",
+    "latLng": [
+      50.938361,
+      6.959974
+    ],
+    "url": "https://t.me/+1H_Gyq1gtZNhMmY8",
+    "city": "Köln",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
+    "twitter": null,
+    "event": {
+      "start": "2025-01-04 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1897",
+      "location": "Clarenbachstraße 2, 50931 Köln",
+      "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
+      "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
+      "attendees": 0,
+      "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Westerwald",
     "latLng": [
       50.459821,
@@ -1096,8 +1119,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2024-12-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1404",
+      "start": "2025-01-30 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1405",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -1437,13 +1460,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-01-04 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1897",
-      "location": "Clarenbachstraße 2, 50931 Köln",
-      "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
-      "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
+      "start": "2025-01-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1820",
+      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
+      "description": null,
+      "link": null,
       "attendees": 0,
-      "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
+      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3116,7 +3139,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fc3a834242b493dd937ac600d14ec9d9a0e5d786e4e7c5c226d0d43694e4e448"
     },
     "style": {
