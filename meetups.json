@@ -1732,8 +1732,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
     "event": {
-      "start": "2024-12-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1884",
+      "start": "2025-01-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1885",
       "location": null,
       "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
       "link": null,
@@ -2312,15 +2312,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2024-12-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1708",
-      "location": "Bruder Jakob St. Wendel, anschließend im Irish Pub",
-      "description": null,
-      "link": "https://maps.app.goo.gl/Uzj1TtpeycWnR1e18",
-      "attendees": 1,
-      "nostr_note": "a587cd0b3a1fca89ddd8b0c4fad3c976559c8456f5e5b43c9f559202ab0fefd1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2765,7 +2757,15 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-10 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1924",
+      "location": "Trattoria Mio Balingen",
+      "description": "Furchtlose und Treue Grüße ",
+      "link": "http://cafe-mio.de/",
+      "attendees": 0,
+      "nostr_note": "7cd4ef327d8a9cd40fe78bcca47208c048ab6bb9f4c578f96c298e41ea95a294"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
