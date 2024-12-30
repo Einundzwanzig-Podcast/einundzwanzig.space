@@ -649,15 +649,7 @@
     "city": "Bitburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
     "twitter": "EinundzwanzigBi",
-    "event": {
-      "start": "2024-12-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1706",
-      "location": "Restaurant Zagreb",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b5d7875f40fbd3a74877501d92d60955bb346fb1ba20377da5582fb936443504"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -890,7 +882,7 @@
       "location": " Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fa8135a66b2bac7bc8dde16e755c92a80c0d489c627117579d1c9db7981a47ff"
     },
     "style": {
@@ -960,7 +952,15 @@
     "city": "Franken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
-    "event": null,
+    "event": {
+      "start": "2025-01-25 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1925",
+      "location": "Bamberg, Café Miez ⚡️",
+      "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
+      "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
+      "attendees": 1,
+      "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1162,7 +1162,7 @@
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
     },
     "style": {
@@ -1315,7 +1315,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-01-03 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1937",
+      "location": "Zarillo am Audi-Kreisel, Levelingstr. 38, 85049 Ingolstadt",
+      "description": "🎉 Midweek-Stammtisch Ingolstadt – 16 Jahre Bitcoin! 🎉\n\nWir starten unser neues Format mit einem besonderen Anlass: Der erste Midweek-Stammtisch fällt auf den 16. Geburtstag von Bitcoin!\n\nFreut euch darauf, nette Plebs zu treffen, gemütlich zusammenzusitzen und die Bitcoin-Community zu leben. Ob ihr einfach nur zuhören, mitdiskutieren oder tiefer in die Materie einsteigen wollt – ihr seid herzlich willkommen.\n\nLasst uns gemeinsam die Faszination Bitcoin feiern und eine starke Gemeinschaft aufbauen. 🚀",
+      "link": "https://maps.app.goo.gl/rWofZCjtVfX84e2N6",
+      "attendees": 1,
+      "nostr_note": "00a0d2062bc87598edb34c5be8c32a51fbd34a5aa10a5d5edbe3961fa0076b03"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2139,12 +2147,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2025-01-01 17:20:00",
+      "start": "2025-01-03 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1147",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Trattoria Toscana ",
+      "description": "im Trtoria Toskana in Rommelshausen ",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/?ved=2ahUKEwj7vf7niM2KAxUt6wIHHRozAhkQgU96BAgjEAQ",
+      "attendees": 2,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2192,12 +2200,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
     "event": {
-      "start": "2025-01-30 18:00:00",
+      "start": "2025-01-09 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1872",
-      "location": null,
-      "description": "Meetup jeden letzten Donnerstag im Monat!",
+      "location": "Kalyva (Bechen)",
+      "description": "Erstes Meetup. Kennenlernen...",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "655f489df6862fa35bfbe8bd920d187889641ab6a3da287605addc4c5f6007ac"
     },
     "style": {
