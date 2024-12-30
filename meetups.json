@@ -310,7 +310,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2025-01-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1938",
+      "location": "Wirtshaus am Bavariapark, Theresienhöhe 15, 80339 München",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.",
+      "link": "https://www.google.com/maps/search/?api=1&query=Wirtshaus%20am%20Bavariapark&query_place_id=ChIJA90z66zYnUcRDGIjg6s8BFA",
+      "attendees": 0,
+      "nostr_note": "68d4056e8793b1999f036d5096c8fa4b86f71b1725b05ebaa86bcc755df29282"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -361,7 +369,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
@@ -670,7 +678,7 @@
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
     },
     "style": {
@@ -703,8 +711,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2024-12-30 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1642",
+      "start": "2025-01-29 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1643",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
@@ -958,7 +966,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
     },
     "style": {
@@ -1445,8 +1453,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2024-12-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1443",
+      "start": "2025-01-31 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1444",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
@@ -1684,7 +1692,7 @@
       "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
