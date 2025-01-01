@@ -1397,7 +1397,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -2230,7 +2230,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1939",
+      "location": "La Fontana, Weserstraße 7, 31737 Rinteln",
+      "description": "Wir laden alle Bitcoin-Interessierten zum Meet-Up in Rinteln ein.\n\nRestaurant La Fontana\nWeserstraße 7\n31737 Rinteln\n\nEs gibt viele Parkmöglichkeiten.",
+      "link": "https://g.co/kgs/n8fEt4u",
+      "attendees": 0,
+      "nostr_note": "815d8941b98c7d0c393ae08027bf727cfad9caaa98b670db4b552b137381e964"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2613,7 +2621,7 @@
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b59df3da20b476f2a07f1bcdb6671aa616f16004c7086076a84de045b6b77b6d"
     },
     "style": {
