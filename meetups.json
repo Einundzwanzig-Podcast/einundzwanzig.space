@@ -673,10 +673,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-01-03 18:00:00",
+      "start": "2025-01-03 18:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1795",
       "location": "The 9th, Coworking Space Bonn",
-      "description": null,
+      "description": "Bitcoin Meetup Genesis Day!\nThema: Bitcoin kaufen ohne KYC",
       "link": null,
       "attendees": 1,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
@@ -1345,8 +1345,16 @@
     "url": "https://t.me/einundzwanzigthueringen/3028",
     "city": "Jena",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
-    "twitter": null,
-    "event": null,
+    "twitter": "BitcoinJena",
+    "event": {
+      "start": "2025-01-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1958",
+      "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "a924201cc5082a3cdd7f9035c75fd3f1e15e36ad609d65e0571d434160a891f2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1397,7 +1405,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 6,
+      "attendees": 8,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -1611,7 +1619,15 @@
     "city": "Mainz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
-    "event": null,
+    "event": {
+      "start": "2025-02-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1941",
+      "location": "Mainz",
+      "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
+      "link": "",
+      "attendees": 0,
+      "nostr_note": "0109e0a02d2bec01adf9967ccfd56a551ad233950b1224361052272c2e90e7fd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2160,7 +2176,7 @@
       "location": "Trattoria Toscana ",
       "description": "im Trtoria Toskana in Rommelshausen ",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/?ved=2ahUKEwj7vf7niM2KAxUt6wIHHRozAhkQgU96BAgjEAQ",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2766,7 +2782,15 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1953",
+      "location": "\"Das 60/40\" am Schlachthof Wiesbaden",
+      "description": "Komm gern zum monatlich stattfindenden Meetup von Einundzwanzig Wiesbaden dazu und komme mit Leuten zusammen, die sich mit dem Thema Bitcoin bereits länger befassen, oder um Deine offenen Fragen beantwortet zu bekommen.\n\nEgal, ob seit Jahren schon dabei oder noch am Eingangstor stehend und völlig unbedarft. Bei uns bist Du richtig!\n\nJeder ist Willkommen!!",
+      "link": "https://maps.app.goo.gl/vQTpxKJZm7zAn2nTA",
+      "attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
