@@ -283,7 +283,7 @@
       53.635502,
       11.40125
     ],
-    "url": "https://t.me/+ruWxukKwM2MwYzRi",
+    "url": "https://t.me/+Edv7eXA7kpc2ODBi",
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
@@ -364,13 +364,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-01-04 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1897",
+      "start": "2025-01-18 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1910",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 2,
-      "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
+      "attendees": 1,
+      "nostr_note": "6afc4652b137c7d603d4fa397baea67ccda236f1053090b636f20824e851e8ce"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -817,13 +817,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
     "event": {
-      "start": "2025-01-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1724",
-      "location": "Detmold, Cafe Mix, Meierstr. 12",
+      "start": "2025-02-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1725",
+      "location": "Cafe Mix, Detmold, Meierstr. 12",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "163333e3524db6c4b2627758da327ae657bcc96bee9896ca3d0e7f4a81163957"
+      "nostr_note": "40b39ea99303ba2d97b54eebf0463086152cddfde3a56586b1ab8a6572f88bf8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -966,7 +966,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
     },
     "style": {
@@ -1498,7 +1498,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-01-13 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1979",
+      "location": "Landau - genaueres in den Gruppen",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "f75bde010dceb46cbe75c7d04b0bc80efe62c7346bb30b44fe8992df09202c9f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1779,8 +1787,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2025-01-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1377",
+      "start": "2025-02-01 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1378",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
@@ -2668,6 +2676,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Uelzen",
+    "latLng": [
+      5.26302,
+      10.55822
+    ],
+    "url": "https://t.me/+YD3Z_KHPks5jMTMy",
+    "city": "Uelzen ",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-uelzen",
+    "twitter": "Groundy831",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Ulm",
     "latLng": [
       48.3974003,
@@ -3224,9 +3247,9 @@
       "start": "2025-01-24 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1714",
       "location": "WERK Bowling, Gewerbestraße 3, 7111 Parndorf",
-      "description": "Einundzwanzig Bitcoin-Meetup Nordburgenland\nBitcoin, Bowling & Bier",
+      "description": "Einundzwanzig Bitcoin-Meetup Nordburgenland\n\nBitcoin, Bowling & Bier",
       "link": "https://werkbowling.at/oeffnungszeiten-preise/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "8219ea70abd575d9cc68f1cf87afd05a3bced85c169a19c6d957a505b813d095"
     },
     "style": {
