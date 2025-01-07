@@ -936,7 +936,7 @@
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
     },
     "style": {
@@ -1405,7 +1405,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -2184,7 +2184,7 @@
       "location": null,
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2479,7 +2479,7 @@
       "location": "AN Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "7c9cd4397e6d568b40ad36a1c89f1430b0c72a47bedc1208100859c00dba2f9b"
     },
     "style": {
@@ -2541,15 +2541,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "start": "2025-01-06 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1883",
-      "location": null,
-      "description": "Wahrscheinlich Meetup in Solingen! Bitte in der Gruppe nachfragen!!",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b86a0753be24d2f6c693f892357d99b73dfcfb7d065c3c9ca6ab3d007dc983b7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3252,12 +3244,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2025-01-09 17:00:00",
+      "start": "2025-01-10 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1738",
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "fc3a834242b493dd937ac600d14ec9d9a0e5d786e4e7c5c226d0d43694e4e448"
     },
     "style": {
