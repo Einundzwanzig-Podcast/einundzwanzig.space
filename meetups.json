@@ -1347,8 +1347,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
     "event": {
-      "start": "2025-01-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1958",
+      "start": "2025-02-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1959",
       "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
       "description": null,
       "link": null,
@@ -1405,7 +1405,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
     },
     "style": {
@@ -2479,7 +2479,7 @@
       "location": "AN Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "7c9cd4397e6d568b40ad36a1c89f1430b0c72a47bedc1208100859c00dba2f9b"
     },
     "style": {
@@ -3018,7 +3018,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-10 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1993",
+      "location": "Blauer Adler",
+      "description": "Gute Leute! Gute Gespräche! ",
+      "link": "https://maps.app.goo.gl/TgSyPHbDWad2gcUc7",
+      "attendees": 0,
+      "nostr_note": "e191cb412ade2ef9d83c548f62bceb590747c5e94d7ba2953cbb1f92b65c5323"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3249,7 +3257,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "fc3a834242b493dd937ac600d14ec9d9a0e5d786e4e7c5c226d0d43694e4e448"
     },
     "style": {
