@@ -748,15 +748,7 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": {
-      "start": "2025-01-09 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1774",
-      "location": "Brühler Wirtshaus am Schloss",
-      "description": "",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "db6ce5618515815ab6db512171f123dc564d8f2b9d00964aecb6f2c51ce60833"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1391,15 +1383,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2025-01-09 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1766",
-      "location": "Alte Schmiede Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 10,
-      "nostr_note": "2a021b334ca75f8f1af048a869f0944820a2928d2c38072ed5766daaa550ad4f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2223,15 +2207,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "start": "2025-01-09 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1872",
-      "location": "Kalyva (Bechen)",
-      "description": "Erstes Meetup. Kennenlernen...",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "655f489df6862fa35bfbe8bd920d187889641ab6a3da287605addc4c5f6007ac"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2722,7 +2698,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2025-02-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1994",
+      "location": "Wittlich",
+      "description": "Meetup in der Brasserie Balthazar",
+      "link": "https://maps.app.goo.gl/FhRU66GcnhN73g1P8",
+      "attendees": 0,
+      "nostr_note": "5a9294962f8f89385d4fd85441487e70be17ff96619822a66781b329453a1c2f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2752,15 +2736,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2025-01-09 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1773",
-      "location": "Heinsberg / Waldenrath ",
-      "description": "Stammtisch in der Dorfkneipe für Bitcoiner und Bitcoin interessierte ",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 0,
-      "nostr_note": "e6ab523dda01dfb47175623af3e375d423ba2a8effde94d19ea77d3e590c815b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
