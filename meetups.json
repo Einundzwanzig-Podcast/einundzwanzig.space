@@ -205,13 +205,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-01-08 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1981",
+      "start": "2025-02-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1982",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "364689bb64e368cb647b504b3a0769b5e4d69d209d6142bc9a60b9f8b323bad0"
+      "nostr_note": "e50e49cd70597c995a31d29d10d5142ce2f0abe6c70b7465a7aa9168201faba5"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -318,15 +318,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2025-01-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1938",
-      "location": "Wirtshaus am Bavariapark, Theresienhöhe 15, 80339 München",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.",
-      "link": "https://www.google.com/maps/search/?api=1&query=Wirtshaus%20am%20Bavariapark&query_place_id=ChIJA90z66zYnUcRDGIjg6s8BFA",
-      "attendees": 0,
-      "nostr_note": "68d4056e8793b1999f036d5096c8fa4b86f71b1725b05ebaa86bcc755df29282"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -931,12 +923,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-01-08 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1847",
+      "start": "2025-02-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1848",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
     },
     "style": {
@@ -974,7 +966,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
     },
     "style": {
@@ -1489,7 +1481,7 @@
       "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -2254,15 +2246,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "start": "2025-01-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1939",
-      "location": "La Fontana, Weserstraße 7, 31737 Rinteln",
-      "description": "Wir laden alle Bitcoin-Interessierten zum Meet-Up in Rinteln ein.\n\nRestaurant La Fontana\nWeserstraße 7\n31737 Rinteln\n\nEs gibt viele Parkmöglichkeiten.",
-      "link": "https://g.co/kgs/n8fEt4u",
-      "attendees": 0,
-      "nostr_note": "815d8941b98c7d0c393ae08027bf727cfad9caaa98b670db4b552b137381e964"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2336,7 +2320,7 @@
       "location": "Bar Celona Saarbrücken",
       "description": "Bitte in Telegram Gruppe für Details melden",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "ba9a8ca80cd565b8b0031cbd97848697d1759d77a637a9a3b2b730428365c97b"
     },
     "style": {
