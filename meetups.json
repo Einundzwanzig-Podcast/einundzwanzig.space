@@ -2585,8 +2585,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2025-01-10 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/700",
+      "start": "2025-02-14 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/701",
       "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
       "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
@@ -2608,12 +2608,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-01-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1094",
+      "start": "2025-02-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1095",
       "location": "Höckelheim",
       "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
       "link": "https://www.dons-diner.de",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "b59df3da20b476f2a07f1bcdb6671aa616f16004c7086076a84de045b6b77b6d"
     },
     "style": {
@@ -2812,15 +2812,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2025-01-10 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1924",
-      "location": "Trattoria Mio Balingen",
-      "description": "Furchtlose und Treue Grüße ",
-      "link": "http://cafe-mio.de/",
-      "attendees": 0,
-      "nostr_note": "7cd4ef327d8a9cd40fe78bcca47208c048ab6bb9f4c578f96c298e41ea95a294"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2978,15 +2970,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2025-01-10 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1993",
-      "location": "Blauer Adler",
-      "description": "Gute Leute! Gute Gespräche! ",
-      "link": "https://maps.app.goo.gl/TgSyPHbDWad2gcUc7",
-      "attendees": 0,
-      "nostr_note": "e191cb412ade2ef9d83c548f62bceb590747c5e94d7ba2953cbb1f92b65c5323"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3212,13 +3196,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2025-01-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1738",
-      "location": "Cafe Froschberg",
+      "start": "2025-02-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1739",
+      "location": "Cafe Froschberg ",
       "description": null,
       "link": null,
-      "attendees": 5,
-      "nostr_note": "fc3a834242b493dd937ac600d14ec9d9a0e5d786e4e7c5c226d0d43694e4e448"
+      "attendees": 1,
+      "nostr_note": "ebfd186ecd8afb14b0bb683d1201f33f0855342a39c3d467fc256e506b71c884"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3287,15 +3271,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": {
-      "start": "2025-01-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1772",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 10.01.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": null,
-      "attendees": 2,
-      "nostr_note": "2ff0dc16dab4ccb8aa9e3229536b7a38d5dafae6f6d33cfdb8a3be994bf0f9c0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
