@@ -3271,7 +3271,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1996",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.02.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
+      "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4776856cb2c2ed13:0x19ddffa1f454d0f5?sa=X&ved=1t:8290&ictx=111",
+      "attendees": 1,
+      "nostr_note": "19b096a64caea654b9090d6c16e1609268699973c8bae52ffa41c0300dcda378"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
