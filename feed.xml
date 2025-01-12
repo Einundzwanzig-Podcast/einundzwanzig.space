@@ -591,7 +591,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:episode display="NostrTalk #16">16</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="d0enakalle" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="YMFTG4NDCHte1uiF9zmS" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="d0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="33"></podcast:valueRecipient>
         <podcast:valueRecipient name="Manu" address="03c4360e8cd8f78974c3d5c3f6dfa2fb3e02df9e66b5555a7fdbdc77cd19f723d7" type="node" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
@@ -1240,7 +1240,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:episode display="NostrTalk #13">13</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="D0enakalle" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="YMFTG4NDCHte1uiF9zmS" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person href="https://primal.net/p/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person href="https://primal.net/p/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
@@ -2488,7 +2488,7 @@ Die Community-Tutorials auf YouTube.</p>
       <podcast:episode display="NostrTalk #07">07</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="D0enakalle" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="YMFTG4NDCHte1uiF9zmS" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="Anti" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="2pXYvwPFFCa3ff9CbjfV" type="node" split="25"></podcast:valueRecipient>
         <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
