@@ -482,7 +482,7 @@
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
-      "attendees": 2,
+      "attendees": 1,
       "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
     },
     "style": {
@@ -1383,7 +1383,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-02-08 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1997",
+      "location": "Alte Schmiede Kempten",
+      "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 1,
+      "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1793,15 +1801,7 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-01-12 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1770",
-      "location": "My Area, Treptower Straße 1, 17033 Neubrandenburg, Deutschland",
-      "description": "Erstes Neubrandenburger Only Bitcoin Meetup im MyArea Coworking Space im Marienkaree, anlässlich der ersten Bitcoin Transaktion am 12. Januar 2009. Getränke können vor Ort käuflich erworben werden, gern auch per Lightning. Essen steht leider nicht zur Verfügung.",
-      "link": "https://maps.app.goo.gl/rdCVwWgeptevkM3m7?g_st=ic",
-      "attendees": 3,
-      "nostr_note": "48dcee9071432a7ed35bce9a2e80cca247ad19d528f4aaceabd06eda44b674d0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3277,7 +3277,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.02.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
       "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4776856cb2c2ed13:0x19ddffa1f454d0f5?sa=X&ved=1t:8290&ictx=111",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "19b096a64caea654b9090d6c16e1609268699973c8bae52ffa41c0300dcda378"
     },
     "style": {
