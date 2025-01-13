@@ -477,12 +477,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-01-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1808",
+      "start": "2025-02-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1809",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
     },
     "style": {
@@ -1491,7 +1491,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2025-01-13 16:30:00",
+      "start": "2025-01-19 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1979",
       "location": "Landau - genaueres in den Gruppen",
       "description": null,
@@ -3317,7 +3317,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2025-01-22 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1998",
+      "location": "Konditorei Die Tortenkomponisten, Packerstraße 183, 8561 Söding ",
+      "description": "Erster Bitcoin-Stammtisch in Söding! Wir treffen uns ab 10:30h bei den Tortenkomponisten, wo seit einigen Monaten das Frühstück und leckere Torten mit Bitcoin bezahlt werden können.  Einfach vorbei kommen, Neulinge sind immer willkommen!",
+      "link": "https://www.dietortenkomponisten.at/",
+      "attendees": 0,
+      "nostr_note": "b5347bc93eb870025fe78da91e412d74aad72c76170f47200c0be89bb2830ba1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3625,7 +3633,15 @@
     "city": "Luzern",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-luzern",
     "twitter": "",
-    "event": null,
+    "event": {
+      "start": "2025-01-30 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2000",
+      "location": "Just a little Brewpub, Blumenweg 1, 6003 Luzern",
+      "description": "Gemütlicher Stammtisch. Zahlung mit BTC möglich.",
+      "link": "https://g.co/kgs/X7ksyKv",
+      "attendees": 0,
+      "nostr_note": "2aa38a6ad7c14387ae9fa195adf8129b0cd4247fe7f9579bbbf023a7a492254d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
