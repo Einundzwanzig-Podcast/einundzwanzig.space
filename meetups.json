@@ -1043,7 +1043,15 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "start": "2025-01-22 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2002",
+      "location": "Keulos",
+      "description": "Das nächste Meetup findet am Mittwoch, den 22.01. ab 18:30 Uhr statt. Wieder im Lindenhof in Keulos 😁",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 1,
+      "nostr_note": "db2bfa25d3689be9558cfea21b0bc704eb37e4b8afc94353b2ac4185d75fce84"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1470,7 +1478,7 @@
     "event": {
       "start": "2025-01-15 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1820",
-      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
+      "location": "POTPOURRI Köln, Mauenheimer Str. 92, 50733 Köln",
       "description": null,
       "link": null,
       "attendees": 1,
@@ -2587,9 +2595,9 @@
     "event": {
       "start": "2025-02-14 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/701",
-      "location": "Taverna Sultan Saray Stuttgart, Lautenschlagerstraße 20, 70173 Stuttgart",
-      "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns in der Taverna Sultan Saray - hier könnt ihr eure Essen/Getränke in sats bezahlen!",
-      "link": "https://goo.gl/maps/wQMY8ijXEazdVFNd7",
+      "location": "tialini | Stuttgart, Bolzstraße 10, 70173 Stuttgart",
+      "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns sehr zentral im tialini.",
+      "link": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
       "attendees": 0,
       "nostr_note": "437684df2d73f3085d2538ac21efa6cc4321b6bded1181eaee604bf1cdbf3b9f"
     },
@@ -3191,7 +3199,7 @@
       48.306938,
       14.28583
     ],
-    "url": "https://t.me/Einundzwanzig_Linz",
+    "url": "https://t.me/+8E_USt63G9BjOWNk",
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
@@ -3272,13 +3280,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": null,
     "event": {
-      "start": "2025-02-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1996",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.02.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4776856cb2c2ed13:0x19ddffa1f454d0f5?sa=X&ved=1t:8290&ictx=111",
-      "attendees": 2,
-      "nostr_note": "19b096a64caea654b9090d6c16e1609268699973c8bae52ffa41c0300dcda378"
+      "start": "2025-02-08 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2001",
+      "location": "Erzherzog Eugen Straße 10",
+      "description": "Bitcoin Entdecken 2025 - Salzburg\nDatum 08.02.2025\nStart 10:00 Ende 17:00\n\nBitcoin verstehen und nutzen – Technologie und Anwendungen\nBei unserem Event soll Bitcoin und seine Technologie sichtbar und greifbar gemacht werden. Die Besucher:innen können in bereitgestellter Literatur blättern, Anschauungsobjekte wie ‚Bitcoin Fullnodes‘ und ‚Bitcoin Minern‘ erleben, haben die Möglichkeit selbst Transaktionen im Netzwerk zu tätigen und damit Maschinen zu steuern. Wir stehen auch zum Gedankenaustausch zu technischen Anwendungen und Ableitungen zur Verfügung.\n",
+      "link": "https://bitcoin-entdecken.de/#start",
+      "attendees": 1,
+      "nostr_note": "65ec7deffa0bd063f7fafc7f719f21a7dcb2d1b89a677966736c5506c644c782"
     },
     "style": {
       "fill": "var(--color-accent)"
