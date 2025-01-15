@@ -318,7 +318,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2025-01-19 14:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2004",
+      "location": "₿⚒️ Specter Shield Lite - Bau dein eigenes Hardware Wallet — Anschließend Meetup - Satoshis Coffeeshop",
+      "description": "Lerne, wie du dein eigenes Specter Shield Lite Hardware Wallet baust! In diesem Workshop erhältst du alle Materialien und Anleitungen, um dein Wallet zusammenzustellen und die Vorteile des Secure Elements zu nutzen. Der Workshop wird geleitet von „Schnuartz von Clavastack (ehemals BtcFrankenstein)“.\n\n[...]\n\nhttps://lu.ma/0cwoao4n\n\nAnschließend 18:00 Meetup.\n\nhttps://lu.ma/d6r6skuq",
+      "link": "https://lu.ma/0cwoao4n",
+      "attendees": 0,
+      "nostr_note": "408301e5ccf1d79b03610ad2d3116eae4aba5d2b0c95d4b370caf8092d8cdbc6"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -499,15 +507,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2025-01-14 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1780",
-      "location": "Zum Schwalbennest, Pfarrwiesenweg 12, 36304 Alsfeld",
-      "description": "Unser nächstes Meetup findet am 14.01.25 ab 18:30 wieder im Restaurant „Zum Schwalbennest“ Pfarrwiesenweg 12, 36304 Alsfeld statt. \nTeilnahme bitte über Telegram oder im Portal bestätigen/mitteilen um entsprechend reservieren zu können.",
-      "link": "https://hotel-schwalbennest.de/",
-      "attendees": 1,
-      "nostr_note": "b428ee7130393ad1cbe48f78a5abf392c2d052dce1f064457f9940600824408c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1202,7 +1202,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-01-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2003",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 18.01.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
+      "link": "https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "aca1c65b7b4b14cb11599b662b483f26b19a3038003b9e04dcaae902599ed6f3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1233,8 +1241,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-01-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1859",
+      "start": "2025-02-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1860",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -2298,15 +2306,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2025-01-14 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1978",
-      "location": "Bar Celona Saarbrücken",
-      "description": "Bitte in Telegram Gruppe für Details melden",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "ba9a8ca80cd565b8b0031cbd97848697d1759d77a637a9a3b2b730428365c97b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
