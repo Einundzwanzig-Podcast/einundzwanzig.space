@@ -454,7 +454,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-01-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2008",
+      "location": " Zum Dürnbräu, Dürnbräugasse 2, 80331 München",
+      "description": "Essen, Trinken, Bitcoin Diskussion",
+      "link": "https://g.co/kgs/FtqPZhb",
+      "attendees": 1,
+      "nostr_note": "784536cb033e2e62074f3e8ff21d798a0dabda4732db5faa7ae12f8cfe68ccce"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1484,12 +1492,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-01-15 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1820",
-      "location": "POTPOURRI Köln, Mauenheimer Str. 92, 50733 Köln",
+      "start": "2025-02-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1821",
+      "location": "",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -2080,7 +2088,15 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2007",
+      "location": "Wurstküch KL",
+      "description": "Alles bezahlbar in BTC/LN",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "0eac046213ba57150b874b815ee8934f86f3382f959dedbca4b7a1c4c4e5a03c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
