@@ -377,7 +377,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "6afc4652b137c7d603d4fa397baea67ccda236f1053090b636f20824e851e8ce"
     },
     "style": {
@@ -1287,12 +1287,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-01-17 17:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1781",
+      "start": "2025-02-21 17:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1782",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
     },
     "style": {
@@ -1497,7 +1497,7 @@
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -1741,15 +1741,7 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": {
-      "start": "2025-01-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1763",
-      "location": "Restaurant Palermo, Brückenstraße 15, 84453 Mühldorf",
-      "description": "Weihnachten ist vorbei, 2025 ist da, Zeit sich in die Hütte zu schmeißen!\nDer Stammtisch freut sich auf einen gemütlichen Abend in rustikalem Ambiente.\nNeue Leute sind gern gesehen.\nStay Humble and stack Sats!  ",
-      "link": "https://maps.app.goo.gl/XPTZhvLWKx2q7VVE6",
-      "attendees": 1,
-      "nostr_note": "3f194602049c8467e74b059b96f88bbb83d231ecd509926362544e102a356446"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2299,15 +2291,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "start": "2025-01-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1779",
-      "location": "Gasthof Adler in Dietingen, RW",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "cce55dcb28d618b464624a362b444020c904c8902aba1eccd68c8fbdaca92ab2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
