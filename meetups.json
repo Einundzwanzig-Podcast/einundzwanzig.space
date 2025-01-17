@@ -1900,7 +1900,15 @@
     "city": "Nordhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-08 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2009",
+      "location": "Seminarraum Bürgerhaus / Stadtbibliothek „Rudolf Hagelstange“ Nordhausen, Nikolaiplatz 1",
+      "description": "Bitcoin entdecken - Nordhausen (deutschlandweiter Aktionstag)\n\nDiese Veranstaltung wird von Nordhäusern für Nordhäuser organisiert, um Ihnen einen einfachen und verständlichen Einstieg in das Thema Bitcoin zu bieten. Ob Sie Einsteiger oder bereits erfahren sind – es ist für alle etwas dabei.\n\nDie Teilnahme ist kostenlos. Bringen Sie gerne Freunde, Familie oder Bekannte mit, die ebenfalls interessiert sind.\n\nWeitere Informationen finden Sie auf der angefügten Website.\n\nWir freuen uns auf Ihren Besuch! :)",
+      "link": "https://bitcoin.neacos.org/",
+      "attendees": 0,
+      "nostr_note": "fb8b22b5320edb39c72ac723180e2228c48e2b1d8d64137f052198de3f2ba650"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2088,15 +2096,7 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "start": "2025-01-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2007",
-      "location": "Wurstküch KL",
-      "description": "Alles bezahlbar in BTC/LN",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "0eac046213ba57150b874b815ee8934f86f3382f959dedbca4b7a1c4c4e5a03c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
