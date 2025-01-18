@@ -99,7 +99,15 @@
     "city": "Bitcoin Berlin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2015",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "attendees": 0,
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
