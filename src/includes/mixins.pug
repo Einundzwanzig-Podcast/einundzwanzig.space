@@ -98,10 +98,10 @@ mixin participants(ps, link)
   .participants
     for name in ps
       - const id = participantToId(name)
-      - const member = team[id]
+      - const member = participants[id]
       if member
         if link
-          a(href=`/team/${slugify(id)}` title=member.name)
+          a(href=`/p/${slugify(id)}` title=member.name)
             img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)
         else
           img.avatar(src=assetPath(member.image || "/img/avatar.svg") alt=member.name)

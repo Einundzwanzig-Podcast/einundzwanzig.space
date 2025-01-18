@@ -1,8 +1,8 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML, teamWithAliases, participantToId } = require('../helpers')
+const { replacements, slugify, stripHTML, participantsWithAliases, participantToId } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl, nodeId } = require('../content/meta.json')
-const teamRaw = require('../content/team.json')
+const participantsRaw = require('../content/participants.json')
 const request = require('sync-request')
 const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
 const xmlFormat = require('xml-formatter')
@@ -13,7 +13,7 @@ const write = (name, data) => writeFileSync(join(dir, name), data)
 const writeJSON = (name, data) =>
   write(`generated/${name}.json`, JSON.stringify(data, null, 2))
 
-const team = teamWithAliases(teamRaw)
+const participants = participantsWithAliases(participantsRaw)
 
 const commonOpts = {
   attributeNamePrefix: '',
@@ -166,7 +166,7 @@ const parseEpisode = e => {
 
     const value = episode.participants.reduce((result, name) => {
       const id = participantToId(name)
-      const v4v = team[id] && team[id].v4v
+      const v4v = participants[id] && participants[id].v4v
       if (v4v) {
         result.push({ name, ...v4v })
       } else if (debug) {
@@ -195,7 +195,7 @@ const parseEpisode = e => {
 
     const people = episode.participants.reduce((result, name) => {
       const id = participantToId(name)
-      const person = team[id]
+      const person = participants[id]
       if (person) {
         result.push(person)
       }

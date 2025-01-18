@@ -1,7 +1,7 @@
 const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
 const { NDKUser } = require('@nostr-dev-kit/ndk')
-const team = require('../content/team.json')
+const participants = require('../content/participants.json')
 const { npub } = require('../content/meta.json')
 
 const einundzwanzig = new NDKUser({ npub: npub.einundzwanzig })
@@ -19,7 +19,7 @@ const relays = {
   ]
 }
 
-Object.entries(team).forEach(([key, { nostr: npub }]) => {
+Object.entries(participants).forEach(([key, { nostr: npub }]) => {
   if (!npub) return
   const id = key.replace(/[\s]/g, '_')
   names[id] = new NDKUser({ npub }).pubkey

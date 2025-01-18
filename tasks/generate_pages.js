@@ -1,13 +1,13 @@
 const pug = require('pug')
 const { mkdirSync, writeFileSync } = require('fs')
 const { dirname, resolve } = require('path')
-const { slugify, teamWithAliases, participantToId } = require('../helpers')
+const { slugify, participantsWithAliases, participantToId } = require('../helpers')
 const config = require('../pug.config')
 const site = require('../generated/site-data.json')
 const episodes = require('../generated/episodes.json')
 const spendenregister = require('../generated/spendenregister.json')
 const spendenuebersicht = require('../content/spendenuebersicht.json').reverse()
-const teamRaw = require('../content/team.json')
+const participantsRaw = require('../content/participants.json')
 const shops = require('../content/shops.json')
 const soundboard = require('../content/soundboard.json')
 const adventskalender = require('../content/adventskalender-2022.json')
@@ -23,7 +23,7 @@ const categories = {
   'verschiedenes': 'Verschiedenes'
 }
 
-const team = teamWithAliases(teamRaw)
+const participants = participantsWithAliases(participantsRaw)
 
 const changedFile = process.argv.length > 2 && process.argv[2]
 
@@ -44,8 +44,8 @@ const renderPage = (template, out, data = {}) => {
   writeFileSync(dst, rendered)
 }
 
-renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0], team })
-renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes], team })
+renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0], participants })
+renderPage('podcast', 'podcast', { navCurrent: 'podcast', episodes: [...episodes], participants })
 renderPage('gesundes-geld', 'gesundes-geld', { meetups: site.meetups, upcomingMeetups: site.upcomingMeetups })
 renderPage('meetups', 'meetups', { navCurrent: 'meetups', meetups: site.meetups, upcomingMeetups: site.upcomingMeetups })
 renderPage('spenden', 'spenden', { navCurrent: 'spenden', spendenregister, spendenuebersicht })
@@ -57,11 +57,11 @@ renderPage('kontakt', 'kontakt', { navCurrent: 'kontakt' })
 renderPage('datenschutz', 'datenschutz', { navCurrent: 'datenschutz' })
 renderPage('adventskalender', 'adventskalender', { adventskalender })
 
-episodes.forEach(episode => renderPage('episode', `podcast/${episode.slug}`, { navCurrent: 'podcast', episode, team }))
-Object.keys(categories).forEach(category => renderPage('category', `podcast/${slugify(categories[category])}`, { navCurrent: 'podcast', category, categoryName: categories[category], episodes: episodes.filter(e => e.category === category), team }))
-Object.keys(teamRaw).forEach(id => {
-  const member = teamRaw[id]
+episodes.forEach(episode => renderPage('episode', `podcast/${episode.slug}`, { navCurrent: 'podcast', episode, participants }))
+Object.keys(categories).forEach(category => renderPage('category', `podcast/${slugify(categories[category])}`, { navCurrent: 'podcast', category, categoryName: categories[category], episodes: episodes.filter(e => e.category === category), participants }))
+Object.keys(participantsRaw).forEach(id => {
+  const member = participantsRaw[id]
   const aliases = (member.aliases || []).map(m => m.toLowerCase()).concat(member.name.toLowerCase())
   const eps = episodes.filter(e => e.participants.find(p => [id, ...aliases].includes(participantToId(p))))
-  renderPage('member', `team/${slugify(id)}`, { navCurrent: 'podcast', member, episodes: eps, team })
+  renderPage('member', `p/${slugify(id)}`, { navCurrent: 'podcast', member, episodes: eps, participants })
 })

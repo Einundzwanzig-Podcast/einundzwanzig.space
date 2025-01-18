@@ -54,10 +54,10 @@ const truncate = (str, wordCount) => {
   return [head, tail]
 }
 
-// team
-const teamWithAliases = team => {
+// participants
+const participantsWithAliases = participants => {
   const withAliases = {}
-  Object.entries(team).forEach(([id, member]) => {
+  Object.entries(participants).forEach(([id, member]) => {
     withAliases[id] = member
     const aliases = (member.aliases || []).concat(member.name.toLowerCase())
     aliases.forEach(alias => {
@@ -76,7 +76,7 @@ module.exports = {
   slugify,
   stripHTML,
   truncate,
-  teamWithAliases,
+  participantsWithAliases,
   participantToId,
   toMeetupMapInfo
 }
