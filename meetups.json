@@ -1241,15 +1241,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2025-01-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2003",
-      "location": "HN",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 18.01.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten 😊 https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
-      "link": "https://maps.app.goo.gl/exE84C7Y6N1HtMWW8?g_st=com.google.maps.preview.copy",
-      "attendees": 0,
-      "nostr_note": "aca1c65b7b4b14cb11599b662b483f26b19a3038003b9e04dcaae902599ed6f3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1444,7 +1436,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -1841,8 +1833,8 @@
   {
     "name": "Einundzwanzig Neubrandenburg ",
     "latLng": [
-      53,
-      13
+      53.56414,
+      13.27532
     ],
     "url": "https://t.me/EinundzwanzigNeubrandenburg",
     "city": "Neubrandenburg ",
@@ -2669,15 +2661,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-01-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1980",
-      "location": "Radis Stacks",
-      "description": "Wir sind wie immer im Stacks. Ladet eure Lightning Wallets auf und kommt vorbei.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "6eaa951a0b811accabff0888d3077908d5c8d83ef0801f5acc111962cf6909bd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2867,11 +2851,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-01-18 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1050",
-      "location": "Passau oder Schärding",
-      "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
-      "link": null,
+      "start": "2025-02-08 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1051",
+      "location": "Halli Galli, Kachletstr. 16, 94036 Passau",
+      "description": "#Bitcoin entdecken\nWie funktioniert Bitcoin?\nAuf was soll man achten?\nVortrag mit praktischen Teil und anschließender offener Diskussion.",
+      "link": "https://x.com/_einundzwanzig_/status/1863677353395700024?mx=2",
       "attendees": 0,
       "nostr_note": "029a7c8f4e953459e32fde2e765897d2280d45cfa03083202743ac990b2dbc23"
     },
@@ -3334,13 +3318,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-01-18 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1234",
+      "start": "2025-02-15 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1235",
       "location": "Passau oder Schärding",
-      "description": "39. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "40. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "970f0c225287deef76865ce8da038f521aba868cc80ade491203ff7425405564"
+      "nostr_note": "4dcca34bd05b2c76ca5e61adcfc81fb4cff363c96f782a736e0a9381eb490238"
     },
     "style": {
       "fill": "var(--color-accent)"
