@@ -327,13 +327,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-01-19 14:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2004",
-      "location": "₿⚒️ Specter Shield Lite - Bau dein eigenes Hardware Wallet — Anschließend Meetup - Satoshis Coffeeshop",
-      "description": "Lerne, wie du dein eigenes Specter Shield Lite Hardware Wallet baust! In diesem Workshop erhältst du alle Materialien und Anleitungen, um dein Wallet zusammenzustellen und die Vorteile des Secure Elements zu nutzen. Der Workshop wird geleitet von „Schnuartz von Clavastack (ehemals BtcFrankenstein)“.\n\n[...]\n\nhttps://lu.ma/0cwoao4n\n\nAnschließend 18:00 Meetup.\n\nhttps://lu.ma/d6r6skuq",
-      "link": "https://lu.ma/0cwoao4n",
+      "start": "2025-01-22 19:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2005",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #7",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]\n\n",
+      "link": "https://lu.ma/az6si01q",
       "attendees": 0,
-      "nostr_note": "408301e5ccf1d79b03610ad2d3116eae4aba5d2b0c95d4b370caf8092d8cdbc6"
+      "nostr_note": "7a335a4873e08fb1c2368787d169fe8fb24c51da3c6b813143091df82861f1a1"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -817,7 +817,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-01-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2040",
+      "location": "CHAM, · L.A. Live Style Café, Badstraße 16",
+      "description": "💬 Austausch für Gleichgesinnte und Interessierte\n🚨 Wichtig: Dieses Mal treffen wir uns an einem neuen Ort!\n🔗 Bitte meldet euch vorab über Telegram, wenn ihr teilnehmen möchtet. Wir freuen uns auf euch!\n",
+      "link": "https://la-cham.de/",
+      "attendees": 1,
+      "nostr_note": "1a9500a10f8f4cc613feae07c88b87ba1c04c5e63ed7972f383d9c1d289d7a02"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1436,7 +1444,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -1538,13 +1546,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2025-01-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1979",
-      "location": "Landau - genaueres in den Gruppen",
-      "description": null,
+      "start": "2025-02-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1999",
+      "location": "Landau - Details in der Gruppe",
+      "description": "Meetup zum \"Bitcoin Entdecken\" Tag. Alle Gäste sind herzlich willkommen!",
       "link": null,
       "attendees": 0,
-      "nostr_note": "f75bde010dceb46cbe75c7d04b0bc80efe62c7346bb30b44fe8992df09202c9f"
+      "nostr_note": "07e82d0fc1349a6a2308903f1d681a72ffc6b66764c1a497af45593473f67176"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2577,7 +2585,15 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2029",
+      "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
+      "description": null,
+      "link": "https://www.ramrob-ahrensburg.de/",
+      "attendees": 0,
+      "nostr_note": "e53bcf3054b0d0780755b6219270716543ef84c032ecb2ccd856c50198fd6824"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
