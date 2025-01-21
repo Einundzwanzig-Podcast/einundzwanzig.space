@@ -546,7 +546,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2025-01-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2041",
+      "location": "Alsfeld",
+      "description": "Unser nächstes Meetup findet am Dienstag den 11.02. ab 18:30Uhr im Restaurant zum Schwalbennest, 36304 Alsfeld statt. Teilnahme gerne hier im Portal oder über die Telegramgruppe mitteilen um entsprechend reservieren zu können. ",
+      "link": "https://hotel-schwalbennest.de/",
+      "attendees": 1,
+      "nostr_note": "3572ca4847449165a1067675ed8047acf9f8bc447671ca3457d2f89eb895769b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1444,7 +1452,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -1598,15 +1606,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-01-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1743",
-      "location": "Wessobrunn",
-      "description": null,
-      "link": "https://www.post-wessobrunn.de/",
-      "attendees": 0,
-      "nostr_note": "d2277c7e0c2a7b1fe2aed9431c7630e6033fd26070e06d7fa984e59dbbb3e943"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1752,10 +1752,10 @@
     "event": {
       "start": "2025-01-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1834",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "location": "Café Beethoven, Beethovenstr. 38, 40233 Düsseldorf",
+      "description": "Am Mittwoch ist wieder unsere monatliche All-Time-High Party 🎉\n\nMeetup / Stammtisch",
       "link": null,
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -2478,7 +2478,7 @@
       "location": "AN Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 7,
+      "attendees": 9,
       "nostr_note": "7c9cd4397e6d568b40ad36a1c89f1430b0c72a47bedc1208100859c00dba2f9b"
     },
     "style": {
@@ -3235,12 +3235,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2025-02-07 17:00:00",
+      "start": "2025-02-08 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1739",
       "location": "Cafe Froschberg ",
-      "description": null,
+      "description": "Zum Bitcoin Aktionstag",
       "link": null,
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "ebfd186ecd8afb14b0bb683d1201f33f0855342a39c3d467fc256e506b71c884"
     },
     "style": {
@@ -3678,7 +3678,7 @@
       "location": "Just a little Brewpub, Blumenweg 1, 6003 Luzern",
       "description": "Gemütlicher Stammtisch. Zahlung mit BTC möglich.",
       "link": "https://g.co/kgs/X7ksyKv",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2aa38a6ad7c14387ae9fa195adf8129b0cd4247fe7f9579bbbf023a7a492254d"
     },
     "style": {
