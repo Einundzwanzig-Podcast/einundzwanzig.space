@@ -462,15 +462,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2025-01-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2008",
-      "location": " Zum Dürnbräu, Dürnbräugasse 2, 80331 München",
-      "description": "Essen, Trinken, Bitcoin Diskussion",
-      "link": "https://g.co/kgs/FtqPZhb",
-      "attendees": 1,
-      "nostr_note": "784536cb033e2e62074f3e8ff21d798a0dabda4732db5faa7ae12f8cfe68ccce"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -546,15 +538,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2025-01-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2041",
-      "location": "Alsfeld",
-      "description": "Unser nächstes Meetup findet am Dienstag den 11.02. ab 18:30Uhr im Restaurant zum Schwalbennest, 36304 Alsfeld statt. Teilnahme gerne hier im Portal oder über die Telegramgruppe mitteilen um entsprechend reservieren zu können. ",
-      "link": "https://hotel-schwalbennest.de/",
-      "attendees": 1,
-      "nostr_note": "3572ca4847449165a1067675ed8047acf9f8bc447671ca3457d2f89eb895769b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1013,7 +997,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
     },
     "style": {
@@ -1485,8 +1469,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2025-01-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1562",
+      "start": "2025-02-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1563",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -2478,7 +2462,7 @@
       "location": "AN Sennfeld",
       "description": null,
       "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "7c9cd4397e6d568b40ad36a1c89f1430b0c72a47bedc1208100859c00dba2f9b"
     },
     "style": {
