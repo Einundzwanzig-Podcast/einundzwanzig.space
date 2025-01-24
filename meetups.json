@@ -1769,6 +1769,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Moers",
+    "latLng": [
+      51.453049,
+      6.62175
+    ],
+    "url": "https://t.me/einundzwanzigMoers",
+    "city": "Moers",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Mönchengladbach",
     "latLng": [
       51.199272,
@@ -2284,6 +2299,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Roth Schwabach Weißenburg ",
+    "latLng": [
+      49.24761,
+      11.091209
+    ],
+    "url": "https://t.me/einundzwanzigRH_SC_WUG",
+    "city": "Roth",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
+    "twitter": null,
+    "event": {
+      "start": "2025-02-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2055",
+      "location": "Noch offen",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4f467f5394b8b3691b85dad19bdcd84af7a0adca84f9912c402c012219cc5bba"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3036,21 +3074,6 @@
     }
   },
   {
-    "name": "einundzwanzig Moers",
-    "latLng": [
-      51.453049,
-      6.62175
-    ],
-    "url": "https://t.me/einundzwanzigMoers",
-    "city": "Moers",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "~ Bitcoin Magdeburg",
     "latLng": [
       52.1315889,
@@ -3135,7 +3158,15 @@
     "city": "Reutte",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2044",
+      "location": "Schmuri (Pianokeller), 6600 Reutte",
+      "description": "monatliches \"EasyMeetup\"",
+      "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
+      "attendees": 0,
+      "nostr_note": "286f59ad1bda4a2554b20c95b0dc082428ee58f936b1e395b011516de73a3f04"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
