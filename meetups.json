@@ -815,7 +815,7 @@
       "location": "CHAM, · L.A. Live Style Café, Badstraße 16",
       "description": "💬 Austausch für Gleichgesinnte und Interessierte\n🚨 Wichtig: Dieses Mal treffen wir uns an einem neuen Ort!\n🔗 Bitte meldet euch vorab über Telegram, wenn ihr teilnehmen möchtet. Wir freuen uns auf euch!\n",
       "link": "https://la-cham.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "1a9500a10f8f4cc613feae07c88b87ba1c04c5e63ed7972f383d9c1d289d7a02"
     },
     "style": {
@@ -1530,11 +1530,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2025-02-08 17:00:00",
+      "start": "2025-02-08 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1999",
-      "location": "Landau - Details in der Gruppe",
-      "description": "Meetup zum \"Bitcoin Entdecken\" Tag. Alle Gäste sind herzlich willkommen!",
-      "link": null,
+      "location": "Landau - Café Cosmo, Ostbahnstr. 15A",
+      "description": "Meetup zum \"Bitcoin Entdecken\" Tag. Alle Gäste sind herzlich willkommen! Wir beantworten gerne Fragen und helfen Einsteigern jederzeit. Wir sind 16-20 Uhr vor Ort.",
+      "link": "https://www.cafecosmo.org",
       "attendees": 0,
       "nostr_note": "07e82d0fc1349a6a2308903f1d681a72ffc6b66764c1a497af45593473f67176"
     },
@@ -2486,15 +2486,7 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": {
-      "start": "2025-01-24 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1977",
-      "location": "AN Sennfeld",
-      "description": null,
-      "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 10,
-      "nostr_note": "7c9cd4397e6d568b40ad36a1c89f1430b0c72a47bedc1208100859c00dba2f9b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3265,13 +3257,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2025-01-24 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1714",
-      "location": "WERK Bowling, Gewerbestraße 3, 7111 Parndorf",
-      "description": "Einundzwanzig Bitcoin-Meetup Nordburgenland\n\nBitcoin, Bowling & Bier",
-      "link": "https://werkbowling.at/oeffnungszeiten-preise/",
-      "attendees": 1,
-      "nostr_note": "8219ea70abd575d9cc68f1cf87afd05a3bced85c169a19c6d957a505b813d095"
+      "start": "2025-02-08 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1715",
+      "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
+      "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
+      "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
+      "attendees": 25,
+      "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
       "fill": "var(--color-accent)"
