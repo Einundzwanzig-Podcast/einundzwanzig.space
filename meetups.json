@@ -809,15 +809,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2025-01-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2040",
-      "location": "CHAM, · L.A. Live Style Café, Badstraße 16",
-      "description": "💬 Austausch für Gleichgesinnte und Interessierte\n🚨 Wichtig: Dieses Mal treffen wir uns an einem neuen Ort!\n🔗 Bitte meldet euch vorab über Telegram, wenn ihr teilnehmen möchtet. Wir freuen uns auf euch!\n",
-      "link": "https://la-cham.de/",
-      "attendees": 2,
-      "nostr_note": "1a9500a10f8f4cc613feae07c88b87ba1c04c5e63ed7972f383d9c1d289d7a02"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -992,13 +984,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-01-25 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1925",
-      "location": "Bamberg, Café Miez ⚡️",
-      "description": "Café Miez ⚡️(Hier kannst du mit Lightning bezahlen)\nAu Straße 8\n96047 Bamberg",
-      "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 8,
-      "nostr_note": "ec6ef03dda102d58e99780557405b0d6c71424ac7da99528e4feefbeea5244ed"
+      "start": "2025-02-22 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1926",
+      "location": "Nürnberg",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1794,8 +1786,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
     "event": {
-      "start": "2025-01-25 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1885",
+      "start": "2025-02-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1886",
       "location": null,
       "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
       "link": null,
@@ -3262,7 +3254,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 25,
+      "attendees": 26,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
