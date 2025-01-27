@@ -1193,7 +1193,7 @@
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
     },
     "style": {
@@ -2773,7 +2773,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-19 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2056",
+      "location": "Heinsberg / Waldenrath ",
+      "description": "Stammtisch in der Dorfkneipe. ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "86bb25d6578b80d4483b3d336ce695b9acbe5e08042120da1c51bbfa8e0204d3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3231,7 +3239,7 @@
       "location": "Cafe Froschberg ",
       "description": "Zum Bitcoin Aktionstag",
       "link": null,
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "ebfd186ecd8afb14b0bb683d1201f33f0855342a39c3d467fc256e506b71c884"
     },
     "style": {
@@ -3254,7 +3262,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 26,
+      "attendees": 33,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
@@ -3300,12 +3308,12 @@
     "url": "https://t.me/BitcoinSalzburg",
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
-    "twitter": null,
+    "twitter": "21Salzburg",
     "event": {
       "start": "2025-02-08 09:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2001",
-      "location": "Erzherzog Eugen Straße 10",
-      "description": "Bitcoin Entdecken 2025 - Salzburg\nDatum 08.02.2025\nStart 10:00 Ende 17:00\n\nBitcoin verstehen und nutzen – Technologie und Anwendungen\nBei unserem Event soll Bitcoin und seine Technologie sichtbar und greifbar gemacht werden. Die Besucher:innen können in bereitgestellter Literatur blättern, Anschauungsobjekte wie ‚Bitcoin Fullnodes‘ und ‚Bitcoin Minern‘ erleben, haben die Möglichkeit selbst Transaktionen im Netzwerk zu tätigen und damit Maschinen zu steuern. Wir stehen auch zum Gedankenaustausch zu technischen Anwendungen und Ableitungen zur Verfügung.\n",
+      "location": "Erzherzog-Eugen-Straße 10, 5020 Salzburg",
+      "description": "Bitcoin Entdecken 2025 - Salzburg\nDatum 08.02.2025\nVon 10:00 - 18:00 Uhr\n\nBITCOIN ENTDECKEN - Für Jung und Alt!\n\nBei unserem Event soll Bitcoin und seine Technologie sichtbar und greifbar gemacht werden. Die Besucher:innen können in bereitgestellter Literatur blättern, Anschauungsobjekte wie ‚Bitcoin Fullnodes‘ und ‚Bitcoin Minern‘ erleben, haben die Möglichkeit selbst Transaktionen im Netzwerk zu tätigen und damit Maschinen zu steuern. Wir stehen auch zum Gedankenaustausch zu technischen Anwendungen und Ableitungen zur Verfügung.",
       "link": "https://bitcoin-entdecken.de/#start",
       "attendees": 1,
       "nostr_note": "65ec7deffa0bd063f7fafc7f719f21a7dcb2d1b89a677966736c5506c644c782"
