@@ -1580,6 +1580,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Lechrain 2nd Meetup",
+    "latLng": [
+      47.876998,
+      11.023786
+    ],
+    "url": "https://t.me/Einundzwanziglechrain",
+    "city": "Lechrain",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain-2nd-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Limburg",
     "latLng": [
       50.38675,
@@ -1912,7 +1927,7 @@
       "location": "Seminarraum Bürgerhaus / Stadtbibliothek „Rudolf Hagelstange“ Nordhausen, Nikolaiplatz 1",
       "description": "Bitcoin entdecken - Nordhausen (deutschlandweiter Aktionstag)\n\nDiese Veranstaltung wird von Nordhäusern für Nordhäuser organisiert, um Ihnen einen einfachen und verständlichen Einstieg in das Thema Bitcoin zu bieten. Ob Sie Einsteiger oder bereits erfahren sind – es ist für alle etwas dabei.\n\nDie Teilnahme ist kostenlos. Bringen Sie gerne Freunde, Familie oder Bekannte mit, die ebenfalls interessiert sind.\n\nWeitere Informationen finden Sie auf der angefügten Website.\n\nWir freuen uns auf Ihren Besuch! :)",
       "link": "https://bitcoin.neacos.org/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fb8b22b5320edb39c72ac723180e2228c48e2b1d8d64137f052198de3f2ba650"
     },
     "style": {
@@ -2812,8 +2827,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "start": "2025-01-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1965",
+      "start": "2025-02-24 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1966",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
@@ -3315,7 +3330,7 @@
       "location": "Erzherzog-Eugen-Straße 10, 5020 Salzburg",
       "description": "Bitcoin Entdecken 2025 - Salzburg\nDatum 08.02.2025\nVon 10:00 - 18:00 Uhr\n\nBITCOIN ENTDECKEN - Für Jung und Alt!\n\nBei unserem Event soll Bitcoin und seine Technologie sichtbar und greifbar gemacht werden. Die Besucher:innen können in bereitgestellter Literatur blättern, Anschauungsobjekte wie ‚Bitcoin Fullnodes‘ und ‚Bitcoin Minern‘ erleben, haben die Möglichkeit selbst Transaktionen im Netzwerk zu tätigen und damit Maschinen zu steuern. Wir stehen auch zum Gedankenaustausch zu technischen Anwendungen und Ableitungen zur Verfügung.",
       "link": "https://bitcoin-entdecken.de/#start",
-      "attendees": 1,
+      "attendees": 3,
       "nostr_note": "65ec7deffa0bd063f7fafc7f719f21a7dcb2d1b89a677966736c5506c644c782"
     },
     "style": {
