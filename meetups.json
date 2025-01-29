@@ -704,8 +704,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-02-06 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1796",
+      "start": "2025-03-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1797",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
@@ -1057,7 +1057,7 @@
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "5c36d312a3d17d72178f52678076ed3fb236f6f676af809c1178aa3cbba1b1b8"
     },
     "style": {
@@ -1574,7 +1574,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2058",
+      "location": "Wessobrunn - Gasthof zur Post",
+      "description": "Herzlich Willkommen zum zweiten Einundzwanzig Lechrain - Bitcoin Meeting.",
+      "link": "https://www.post-wessobrunn.de/",
+      "attendees": 0,
+      "nostr_note": "54b5ca75e161efe6af8ad6df6f978499b6890458756ee6c2cd29dfefa2e046fd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2275,7 +2283,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2057",
+      "location": "La Fontana , Weserstraße 7, 31737 Rinteln",
+      "description": "Wir laden alle Bitcoin-Interessierten zur offenen Gruppe in Rinteln ein. Treffen sind jeden ersten Mittwoch im Monat mit Vorträgen zu Bitcoin.  Bitcoin (₿) ist eine dezentrale, staatlich unabhängige Währung.",
+      "link": "https://g.co/kgs/6Cc15LL",
+      "attendees": 0,
+      "nostr_note": "020141414f863f11511a6eda4baec50767839f5c39d572b71efd721fce9969be"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2323,10 +2339,10 @@
     "event": {
       "start": "2025-02-08 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2055",
-      "location": "Noch offen",
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Restaurant AEROPLIO-ZEPPELIN",
+      "description": "Wir haben keine Vorträge geplant. Neue Teilnehmer gerne willkommen!",
+      "link": "https://www.zeppelin-roth.de/",
+      "attendees": 1,
       "nostr_note": "4f467f5394b8b3691b85dad19bdcd84af7a0adca84f9912c402c012219cc5bba"
     },
     "style": {
@@ -3330,7 +3346,7 @@
       "location": "Erzherzog-Eugen-Straße 10, 5020 Salzburg",
       "description": "Bitcoin Entdecken 2025 - Salzburg\nDatum 08.02.2025\nVon 10:00 - 18:00 Uhr\n\nBITCOIN ENTDECKEN - Für Jung und Alt!\n\nBei unserem Event soll Bitcoin und seine Technologie sichtbar und greifbar gemacht werden. Die Besucher:innen können in bereitgestellter Literatur blättern, Anschauungsobjekte wie ‚Bitcoin Fullnodes‘ und ‚Bitcoin Minern‘ erleben, haben die Möglichkeit selbst Transaktionen im Netzwerk zu tätigen und damit Maschinen zu steuern. Wir stehen auch zum Gedankenaustausch zu technischen Anwendungen und Ableitungen zur Verfügung.",
       "link": "https://bitcoin-entdecken.de/#start",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "65ec7deffa0bd063f7fafc7f719f21a7dcb2d1b89a677966736c5506c644c782"
     },
     "style": {
