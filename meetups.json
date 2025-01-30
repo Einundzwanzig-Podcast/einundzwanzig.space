@@ -742,8 +742,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-01-29 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1643",
+      "start": "2025-02-26 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1644",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
@@ -1188,8 +1188,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2025-01-29 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1596",
+      "start": "2025-02-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1597",
       "location": "Höfestr. 25 im Keller",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1420,7 +1420,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -2342,7 +2342,7 @@
       "location": "Restaurant AEROPLIO-ZEPPELIN",
       "description": "Wir haben keine Vorträge geplant. Neue Teilnehmer gerne willkommen!",
       "link": "https://www.zeppelin-roth.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "4f467f5394b8b3691b85dad19bdcd84af7a0adca84f9912c402c012219cc5bba"
     },
     "style": {
@@ -2359,7 +2359,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2059",
+      "location": "Hofgut Neckarburg in Rottweil ",
+      "description": "https://maps.app.goo.gl/Xhn39iTBKuArs9xM9",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c3cbc106f75091bb55586f00f12678a3bc2bc10474a57f9acbfa78765b8affcd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3293,7 +3301,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 33,
+      "attendees": 37,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
