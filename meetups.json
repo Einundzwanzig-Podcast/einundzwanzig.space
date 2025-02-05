@@ -832,15 +832,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-02-04 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2062",
-      "location": "Lilienschänke ",
-      "description": "Wir treffen uns in der Lilienschänke und diskutieren die Hyperbitcoinization. Komm in die Gruppe!",
-      "link": "https://www.lilienschaenke-sportsbar.de/",
-      "attendees": 1,
-      "nostr_note": "de67e2f7bf39bf5166a393f4a7beb625a0c3748757dfb1aca4203da97a2e11ee"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1370,8 +1362,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
     "event": {
-      "start": "2025-02-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1959",
+      "start": "2025-03-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1960",
       "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
       "description": null,
       "link": null,
@@ -2229,7 +2221,7 @@
       "location": "Kernen",
       "description": "Im Trattoria Toscana in Rommelshausen ",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -3293,7 +3285,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 47,
+      "attendees": 49,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
