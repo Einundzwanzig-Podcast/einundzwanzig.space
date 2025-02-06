@@ -327,13 +327,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-02-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2006",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Romina's",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]",
-      "link": "https://lu.ma/jwxc4ozw",
+      "start": "2025-02-08 12:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2060",
+      "location": "₿ℹ️ Bitcoin Entdecken 2025 - München - Satoshis Coffeeshop",
+      "description": "Am Samstag, 08.02.2025 findet in vielen Städten der \"1. Bitcoin-Informationstag in Deutschland, Österreich und der Schweiz\" statt.\n\nWir in München veranstalten eine Art Tag der offenen Tür in Satoshis Coffeeshop, einer der Locations unserer Meetups, mit Vorträgen und Workshops. [...]",
+      "link": "https://lu.ma/kdx96a2t",
       "attendees": 0,
-      "nostr_note": "c3050ace95fb775ca29e7e45c5abf3a6b716732b14e90d4e4d17f506d8815685"
+      "nostr_note": "96fb91976193697f25b47077813869d20d44ebc9d2fd0728c1417d449b26c890"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -984,13 +984,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-02-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1926",
-      "location": "Nürnberg",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
+      "start": "2025-02-08 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2068",
+      "location": "Bamberg, Café MIEZ ⚡️ \"Bitcoin Entdecken\"",
+      "description": "Café MIEZ\nAustraße 8\n96047 Bamberg",
+      "link": "https://maps.app.goo.gl/dmghECF48rZS9TbU6",
+      "attendees": 3,
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1420,7 +1420,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -2080,7 +2080,15 @@
     "city": "Altlandsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2069",
+      "location": "An d. Mühle 40, 15345 Altlandsberg",
+      "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
+      "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
+      "attendees": 2,
+      "nostr_note": "5eb98d9cf9cb523a75cecf599c1eb6a1f85eb2d747234ca4e4e07b41f0e55394"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2221,7 +2229,7 @@
       "location": "Kernen",
       "description": "Im Trattoria Toscana in Rommelshausen ",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 7,
+      "attendees": 9,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -2283,15 +2291,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "start": "2025-02-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2057",
-      "location": "La Fontana , Weserstraße 7, 31737 Rinteln",
-      "description": "Wir laden alle Bitcoin-Interessierten zur offenen Gruppe in Rinteln ein. Treffen sind jeden ersten Mittwoch im Monat mit Vorträgen zu Bitcoin.  Bitcoin (₿) ist eine dezentrale, staatlich unabhängige Währung.",
-      "link": "https://g.co/kgs/6Cc15LL",
-      "attendees": 0,
-      "nostr_note": "020141414f863f11511a6eda4baec50767839f5c39d572b71efd721fce9969be"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3285,7 +3285,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 49,
+      "attendees": 52,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
@@ -3434,6 +3434,29 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Nostr Meetup",
+    "latLng": [
+      47.238369,
+      9.59622
+    ],
+    "url": "https://t.me/BitcoinVorarlberg",
+    "city": "Feldkirch",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/nostr-meetup",
+    "twitter": null,
+    "event": {
+      "start": "2025-02-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2082",
+      "location": "Feldkirch Jahnhalle",
+      "description": "nähere Info's in der Telegram Gruppe",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "77a6b516d5ec3b0e318169adf4bfb6327b77e58c1e027c0f99e4d61909ffe04f"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
