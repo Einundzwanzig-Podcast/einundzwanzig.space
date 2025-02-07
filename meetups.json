@@ -100,13 +100,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-02-06 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2015",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
-      "attendees": 1,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "start": "2025-02-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2026",
+      "location": "Café Holzmarktperle, Holzmarktstraße 25, 10243 Berlin",
+      "description": "Bitcoin am Holzmarkt (Stammtisch)",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "attendees": 0,
+      "nostr_note": "945dd95b698447cb2f0059da8c7cab48a86872c20566af8721cd0724525a785c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -583,7 +583,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2083",
+      "location": "„thing“ Augsburg",
+      "description": "Monatliches Meetup\nKommt in die Telegram Gruppe ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7a8c705dc619401781d1f37db0eaa35598d8734608def982278f255da28fcaa0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -989,7 +997,7 @@
       "location": "Bamberg, Café MIEZ ⚡️ \"Bitcoin Entdecken\"",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/dmghECF48rZS9TbU6",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": ""
     },
     "style": {
@@ -1399,7 +1407,15 @@
     "city": "Kassel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-08 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2084",
+      "location": "Bürgerhaus Philipp-Scheidemann-Haus, Holländische Str. 74, 34127 Kassel Raum 106",
+      "description": "Bitcoin entdecken - Kassel (Informationstag im DACH-Raum)\n\nDiese Veranstaltung wird organisiert, um Ihnen einen einfachen und verständlichen Einstieg in das Thema Bitcoin zu bieten. Ob Sie Einsteiger oder bereits erfahren sind – es ist für alle etwas dabei.\n\nDie Teilnahme ist kostenlos. Bringen Sie gerne Freunde, Familie oder Bekannte mit, die ebenfalls interessiert sind.\n\nWeitere Informationen finden Sie auf der angefügten Website.\n\nWir freuen uns auf Ihren Besuch! :)",
+      "link": "https://bitcoin-entdecken.de/#start",
+      "attendees": 0,
+      "nostr_note": "a1e7872117b1034f130ea6fc195431d5f86291fe838c850defbc79d7bbad2258"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1420,7 +1436,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 8,
+      "attendees": 11,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -1658,8 +1674,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-02-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1941",
+      "start": "2025-03-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1942",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
@@ -2224,12 +2240,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
     "event": {
-      "start": "2025-02-06 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1148",
-      "location": "Kernen",
-      "description": "Im Trattoria Toscana in Rommelshausen ",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 9,
+      "start": "2025-03-01 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1149",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -3285,7 +3301,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 52,
+      "attendees": 53,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
