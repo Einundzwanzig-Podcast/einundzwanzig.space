@@ -916,13 +916,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-02-07 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1684",
+      "start": "2025-03-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1685",
       "location": "Ellwangen ",
-      "description": "Bistro Altstadt Ellwangen",
+      "description": "Bistro Altstadt Ellwangen ",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
       "attendees": 0,
-      "nostr_note": "5c51be35170522d12dca708061cfed9bf7b8cccc66af6e0557b1916f43d97ec5"
+      "nostr_note": "d24773b275d220e420503729b4b5e1192fe4ed4980ee6edc0318ff72d8014a1d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -997,7 +997,7 @@
       "location": "Bamberg, Café MIEZ ⚡️ \"Bitcoin Entdecken\"",
       "description": "Café MIEZ\nAustraße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/dmghECF48rZS9TbU6",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": ""
     },
     "style": {
@@ -1436,7 +1436,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Willst Du „Bitcoin entdecken“? Dann komm zum deutschlandweiten Infotag für Bitcoin-Interessierte nach Kempten. Neben interessanten Vorträgen für Einsteiger gibt es auch jede Menge Austausch mit Bitcoinern. Freu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 11,
+      "attendees": 14,
       "nostr_note": "09a48fe772f2824bbb37aef57a7ec00360b23f7144c19ae4c3ca306f6570fa45"
     },
     "style": {
@@ -2029,8 +2029,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-02-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1426",
+      "start": "2025-03-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1427",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -2375,15 +2375,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "start": "2025-02-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2059",
-      "location": "Hofgut Neckarburg in Rottweil ",
-      "description": "https://maps.app.goo.gl/Xhn39iTBKuArs9xM9",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "c3cbc106f75091bb55586f00f12678a3bc2bc10474a57f9acbfa78765b8affcd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2398,7 +2390,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2025-02-13 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2086",
+      "location": "Saarbrücken",
+      "description": "Genauer Standort in der Telegram-Gruppe",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "d0ceb170d23acd40442e27076d6233f3b65494e27b1986a77377395b3ce490d8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3301,7 +3301,7 @@
       "location": "Kanzlei klarkurs, Peter-Floridan-Gasse 4, 7100 Neusiedl am See",
       "description": "#BitcoinEntdecken\n\nDetails:\nhttps://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
       "link": "https://einundzwanzig-nordbgld.at/bitcoin-entdecken/",
-      "attendees": 54,
+      "attendees": 55,
       "nostr_note": "38747aec3352d12f69c1d73d33dd8ae61b442e5c710e8645d1283e63bff38a44"
     },
     "style": {
@@ -3756,8 +3756,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
     "event": {
-      "start": "2025-02-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1252",
+      "start": "2025-03-07 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1253",
       "location": "Ostschweiz",
       "description": "Wir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
       "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
