@@ -508,8 +508,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-02-09 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1809",
+      "start": "2025-03-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1810",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
@@ -530,7 +530,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2025-02-11 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2087",
+      "location": "„Zum Schwalbennest“ 36304 Alsfeld",
+      "description": "Unser nächstes Meetup findet am 11.02. ab 18:30 im Restaurant „Zum Schwalbennest“ Pfarrwiesenweg 12, 36304 Alsfeld statt. ",
+      "link": "https://hotel-schwalbennest.de/",
+      "attendees": 0,
+      "nostr_note": "9d7ef0a46337bdae1502b98cfe317766656dd2dae7954f82db78c442019bad2e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -984,11 +992,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-02-22 18:00:00",
+      "start": "2025-02-22 18:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1926",
-      "location": "Nürnberg",
-      "description": null,
-      "link": null,
+      "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
+      "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
+      "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
       "attendees": 1,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
@@ -2297,7 +2305,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2025-02-21 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2089",
+      "location": "Craftbar Rostock & Craftbar Cocktail College Margaretenstraße 41, 18057 Rostock",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "d32bf5c7bc9ebff1be039283633496416299af3149e0e3748c758b3197fb711a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2470,7 +2486,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2025-02-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2090",
+      "location": "Zum Kuckuck / Villingen-Schwenningen",
+      "description": "Diesmal treffen wir uns wieder in VS in der Färberstraße im Kuckuck. Schaut gern bei uns rein :)",
+      "link": "https://g.co/kgs/LZgBemr",
+      "attendees": 2,
+      "nostr_note": "c2664288347539cebc7d56b535ef897757d3f7d9f0fbcf37ca7559f174d27a5f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2674,7 +2698,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-02-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2088",
+      "location": "Radis Stacks",
+      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
+      "link": "https://radis-stacks.de/",
+      "attendees": 0,
+      "nostr_note": "6ee45f86efb63f501e9116372a749b141f6311fc5473b8f596d23771bf86c77a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
