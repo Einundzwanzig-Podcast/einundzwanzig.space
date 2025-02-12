@@ -213,13 +213,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-02-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1982",
+      "start": "2025-03-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1983",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "e50e49cd70597c995a31d29d10d5142ce2f0abe6c70b7465a7aa9168201faba5"
+      "nostr_note": "da515136ef1054113408fa10ffea3a83ca0cd94a7902dc56df08893bf17f1e75"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -530,15 +530,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2025-02-11 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2087",
-      "location": "„Zum Schwalbennest“ 36304 Alsfeld",
-      "description": "Unser nächstes Meetup findet am 11.02. ab 18:30 im Restaurant „Zum Schwalbennest“ Pfarrwiesenweg 12, 36304 Alsfeld statt. ",
-      "link": "https://hotel-schwalbennest.de/",
-      "attendees": 0,
-      "nostr_note": "9d7ef0a46337bdae1502b98cfe317766656dd2dae7954f82db78c442019bad2e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -870,7 +862,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-02-16 11:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2092",
+      "location": "Marklkofen Pizza Roma",
+      "description": "Spontanes Meetup im Restaurant Roma.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "fc7cefd65992663445b7de8076b8cb5d6dd3fc5e097769dbf86b38b8dbc5c454"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -997,7 +997,7 @@
       "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
       "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
@@ -1060,13 +1060,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
     "event": {
-      "start": "2025-02-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1696",
-      "location": "Wird auf Telegram bekannt gegeben",
+      "start": "2025-04-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1697",
+      "location": "Wird in Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
-      "attendees": 2,
-      "nostr_note": "5c36d312a3d17d72178f52678076ed3fb236f6f676af809c1178aa3cbba1b1b8"
+      "attendees": 0,
+      "nostr_note": "30a616a77efe110184d25db0a92e9b0a5a37c7d1bb7c43cbc7503317690db626"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1264,8 +1264,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-02-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1860",
+      "start": "2025-03-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1861",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -1422,7 +1422,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-03-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2091",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Dieses Mal mit Nostr Workshop. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. ",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 5,
+      "nostr_note": "9c3383c5b77ef64154ab79e4ceee6d2051e2415668cd514df5f05f78dcb7fdaa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3094,7 +3102,7 @@
       52.1315889,
       11.6399609
     ],
-    "url": "https://t.me/till_heisenberg",
+    "url": "https://t.me/bitcoinmagdeburg",
     "city": "Magdeburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-magdeburg",
     "twitter": null,
