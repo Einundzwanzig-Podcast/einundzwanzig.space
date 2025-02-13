@@ -545,7 +545,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2025-02-26 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2096",
+      "location": "Laternchen Alsfeld",
+      "description": "Unser nächstes Meetup findet am 26.02. ab 18:30 Uhr im Laternchen in Alsfeld statt. \nBitte beachtet das es vor Ort keine Speißen gibt, also vorher gut ernähren oder zwischendurch was kleines auf die Hand holen. \nAdresse:\nObergasse 12\n36304 Alsfeld\nDas Lokal befindet sich in der Innenstadt, Restaurants und Parkplätze sind in Laufnähe. ",
+      "link": "https://www.laternchen-alsfeld.de/",
+      "attendees": 1,
+      "nostr_note": "8362f0c1b09cedaf20c887d9d94b075d17ef653509ae3244ea075e8a030ab299"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1105,7 +1113,15 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "start": "2025-03-12 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2095",
+      "location": "Fulda, Keulos",
+      "description": "Wir treffen uns wieder im Lindenhof in Keulos. ",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 0,
+      "nostr_note": "c64f44a2bb28e5e0c25f76e6d8533496b6fe367642e75cb2a698c02b2c603edc"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1765,12 +1781,12 @@
     "twitter": null,
     "event": {
       "start": "2025-02-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1835",
-      "location": "Wird noch in der Telegramgruppe abgestimmt.",
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine und Orte werden in der Gruppe angepinnt.",
-      "link": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2094",
+      "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf",
+      "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum ersten mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechende Reservierung machen können.",
+      "link": "https://www.timsbaz.de/",
       "attendees": 0,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": "fd97633ca066e173def56f3b7182618df98b5c5d68165f35b595bd1284eb4985"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2389,15 +2405,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2025-02-13 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2086",
-      "location": "Saarbrücken",
-      "description": "Genauer Standort in der Telegram-Gruppe",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "d0ceb170d23acd40442e27076d6233f3b65494e27b1986a77377395b3ce490d8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2646,13 +2654,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-02-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2029",
+      "start": "2025-03-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2030",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "e53bcf3054b0d0780755b6219270716543ef84c032ecb2ccd856c50198fd6824"
+      "nostr_note": "3d6cd5218386db65b75123399a2983f27ba58b075cc936b14adc3c9ecbefe8d1"
     },
     "style": {
       "fill": "var(--color-accent)"
