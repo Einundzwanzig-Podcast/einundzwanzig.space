@@ -1,5 +1,20 @@
 [
   {
+    "name": "21 Bitcoin Meetup Zypern",
+    "latLng": [
+      34.772015,
+      32.429737
+    ],
+    "url": "https://t.me/+CYfOSctGW35lOTY6",
+    "city": "21Bitcoin Zypern",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "21 Gießen",
     "latLng": [
       50.587222,
@@ -779,7 +794,15 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-13 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2093",
+      "location": "Brühler Wirtshaus am Schloss",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "e5f894cb7f2ddb59a57290200f3d19952a7952f847e97982120306bdb4f3571b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -954,8 +977,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-02-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1848",
+      "start": "2025-03-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1849",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -1575,7 +1598,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
     "event": {
-      "start": "2025-02-17 17:00:00",
+      "start": "2025-02-24 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2058",
       "location": "Wessobrunn - Gasthof zur Post",
       "description": "Herzlich Willkommen zum zweiten Einundzwanzig Lechrain - Bitcoin Meeting.",
@@ -3407,7 +3430,7 @@
       "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
       "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
     },
     "style": {
@@ -3454,15 +3477,7 @@
     "city": "Feldkirch",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/nostr-meetup",
     "twitter": null,
-    "event": {
-      "start": "2025-02-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2082",
-      "location": "Feldkirch Jahnhalle",
-      "description": "nähere Info's in der Telegram Gruppe",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "77a6b516d5ec3b0e318169adf4bfb6327b77e58c1e027c0f99e4d61909ffe04f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
