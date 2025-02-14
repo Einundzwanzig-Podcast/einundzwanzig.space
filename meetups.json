@@ -825,7 +825,15 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2097",
+      "location": null,
+      "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "555d9d5a0b6e75f28e507165f02f6e494941760aed3e3b047b63fee6a48b8270"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1785,7 +1793,7 @@
       "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf",
       "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum ersten mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechende Reservierung machen können.",
       "link": "https://www.timsbaz.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fd97633ca066e173def56f3b7182618df98b5c5d68165f35b595bd1284eb4985"
     },
     "style": {
@@ -3398,7 +3406,7 @@
       "start": "2025-02-15 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1235",
       "location": "Passau oder Schärding",
-      "description": "40. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "41. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "nostr_note": "4dcca34bd05b2c76ca5e61adcfc81fb4cff363c96f782a736e0a9381eb490238"
