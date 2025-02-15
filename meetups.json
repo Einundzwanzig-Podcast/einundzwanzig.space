@@ -2533,15 +2533,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2025-02-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2090",
-      "location": "Zum Kuckuck / Villingen-Schwenningen",
-      "description": "Diesmal treffen wir uns wieder in VS in der Färberstraße im Kuckuck. Schaut gern bei uns rein :)",
-      "link": "https://g.co/kgs/LZgBemr",
-      "attendees": 2,
-      "nostr_note": "c2664288347539cebc7d56b535ef897757d3f7d9f0fbcf37ca7559f174d27a5f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2700,9 +2692,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2025-02-14 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/701",
-      "location": "tialini | Stuttgart, Bolzstraße 10, 70173 Stuttgart",
+      "start": "2025-03-14 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/702",
+      "location": "tialini | Stuttgart Bolzstraße 10, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns sehr zentral im tialini.",
       "link": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
       "attendees": 0,
@@ -2723,13 +2715,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-02-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1095",
-      "location": "Höckelheim",
-      "description": "Das Südniedersachsen Meetup findet jeden zweiten Freitag im Monat statt. Im Dons Diner in Höckelheim/Northeim.",
-      "link": "https://www.dons-diner.de",
+      "start": "2025-03-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2063",
+      "location": "Dons Diner in Höckelheim",
+      "description": null,
+      "link": "https://www.dons-diner.de/",
       "attendees": 0,
-      "nostr_note": "b59df3da20b476f2a07f1bcdb6671aa616f16004c7086076a84de045b6b77b6d"
+      "nostr_note": "d7620c51d40b67bf74d701a1b3f20780564c5e3d0f625ae260a13d67988aa54e"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3891,7 +3883,15 @@
     "city": "Südtirol",
     "portalUrl": "https://portal.einundzwanzig.space/it/meetup/einundzwanzig-suedtirol",
     "twitter": "SudtirolBitcoin",
-    "event": null,
+    "event": {
+      "start": "2025-02-22 08:10:00",
+      "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/2107",
+      "location": "RODELN Gampenalm-Treffpunkt:Klausen beim Schwimmbad",
+      "description": "Kurza Eckdatn no zin Rodltoug.\n\nMior fohrn nua olla mitnond fa Klausn zin Parkplotz \"Zans\". Fohrtzeit san ca. 30 Minutn fa Klausn. Bitte Fohrgemeinschoften bilden, denn do Parkplotz isch leido kostenpflichtig.\n\nDo Weg isch ca. 4km long und ah Höhenuntoschied fa 400m. Es besteht auch die Meglichkeit uhne Rennbeckl oddo Rodl zi gion, jedo wie er bevorzugt ☺️Die Piste zi do Olbe isch auch präpariert, also kuana Sorgn.\n\nObm tiomo nua eppas mittougn und donouch fohrmo/giomo widdo olla mitnond ua.\n\nMior, do @Spark0233 und meine Wenigkeit, freidn ins affa gelungenes Meet-Up 😄\n\nMtn\n\n",
+      "link": "https://www.gampenalm.com/de/aktivitaeten/winter/rodeln/",
+      "attendees": 1,
+      "nostr_note": "183d703ede1987633e2f69769b6939952f07bce6edb5ebcab6867a05a10f029d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
