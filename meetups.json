@@ -901,15 +901,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "start": "2025-02-16 11:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2092",
-      "location": "Marklkofen Pizza Roma",
-      "description": "Spontanes Meetup im Restaurant Roma.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "fc7cefd65992663445b7de8076b8cb5d6dd3fc5e097769dbf86b38b8dbc5c454"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1036,7 +1028,7 @@
       "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
       "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
@@ -1559,7 +1551,7 @@
       "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
       "description": "Kölsch, Wein, Wasser vor Ort + Buffet\nZahlung mit Lightning/Bargeld bei Selbstbedienung",
       "link": "https://maps.app.goo.gl/9YZe3dNmfcrqdFTf9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -1627,7 +1619,7 @@
       "location": "Wessobrunn - Gasthof zur Post",
       "description": "Herzlich Willkommen zum zweiten Einundzwanzig Lechrain - Bitcoin Meeting.",
       "link": "https://www.post-wessobrunn.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "54b5ca75e161efe6af8ad6df6f978499b6890458756ee6c2cd29dfefa2e046fd"
     },
     "style": {
@@ -1727,7 +1719,15 @@
     "city": "Mannheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
-    "event": null,
+    "event": {
+      "start": "2025-02-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2108",
+      "location": "Pizzeria Diego Mannheim",
+      "description": null,
+      "link": "https://maps.app.goo.gl/dwMJjigJLyCcbhTG6",
+      "attendees": 0,
+      "nostr_note": "75cd749964f116b372d90ec56bcabef1d9ab335118b06266d4cedda24c243ae7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
