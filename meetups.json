@@ -387,8 +387,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-02-15 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1899",
+      "start": "2025-02-22 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1900",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
@@ -1036,7 +1036,7 @@
       "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
       "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
@@ -1475,7 +1475,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Dieses Mal mit Nostr Workshop. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "9c3383c5b77ef64154ab79e4ceee6d2051e2415668cd514df5f05f78dcb7fdaa"
     },
     "style": {
@@ -2737,15 +2737,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-02-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2088",
-      "location": "Radis Stacks",
-      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
-      "link": "https://radis-stacks.de/",
-      "attendees": 1,
-      "nostr_note": "6ee45f86efb63f501e9116372a749b141f6311fc5473b8f596d23771bf86c77a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3395,13 +3387,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-02-15 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1235",
+      "start": "2025-03-15 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1236",
       "location": "Passau oder Schärding",
-      "description": "41. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "42. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "4dcca34bd05b2c76ca5e61adcfc81fb4cff363c96f782a736e0a9381eb490238"
+      "nostr_note": "05649226ba31cf9510dee40e64d017d15bbd23f00cdc91ccc170935ee8d025c6"
     },
     "style": {
       "fill": "var(--color-accent)"
