@@ -57,7 +57,9 @@ const parseEpisode = e => {
   if (categoryName === 'NostrTalk') categoryName = 'NostrTalk'
   if (categoryName === 'FilterFrei') categoryName = 'FilterFrei'
   const lines = descriptionPlain.trim().split('\n')
-  const firstLine = lines.find(l => l.match(regexBlockzeit)) || lines[0] || ''
+  const firstLine = lines.length === 1
+    ? stripHTML(description.match(/^.*?<\/p>/)[0] || '')
+    : lines.find(l => l.match(regexBlockzeit)) || lines[0] || ''
   const blockMatch = firstLine.match(regexBlockzeit)
   const block = blockMatch ? parseInt(blockMatch[1].replace('.', '')) : null
   const category = slugify(categoryName)
