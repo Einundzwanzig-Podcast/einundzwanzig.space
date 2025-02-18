@@ -469,7 +469,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-02-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2123",
+      "location": "Augustiner am Platzl, Orlandostraße 5, 80331 München",
+      "description": "Bitte wenn möglich über Telegram Gruppe zusagen. (Umfrage)  Danke.\nEntspanntes Meetup mit zünftig bayerischer Küche. Jeder zahlt auf eigene Rechnung.",
+      "link": "https://g.co/kgs/1P1mhdk",
+      "attendees": 1,
+      "nostr_note": "0538d52914ee3028a036fca82804aeb270f1a827d533d686052d67cf0d2bbb0b"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1742,7 +1750,15 @@
     "city": "Marburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-marburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-02-26 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2121",
+      "location": "Marburg",
+      "description": "Treffpunkt Marktplatzbrunnen in der Oberstadt",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3e71ee3014adf10931d50eb6f2fa6b64a03c5cef77bdb7f9680a622d35bdba8c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1793,7 +1809,7 @@
       "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf",
       "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum ersten mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechende Reservierung machen können.",
       "link": "https://www.timsbaz.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "fd97633ca066e173def56f3b7182618df98b5c5d68165f35b595bd1284eb4985"
     },
     "style": {
@@ -2398,7 +2414,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2122",
+      "location": "Bekanntgabe der Location folgt. Nähe Rottweil-City",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "62eb6b322255ed622ca0faaa34de56c15bcec3e589578589971ea93321615519"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
