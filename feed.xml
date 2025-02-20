@@ -15,7 +15,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <link>https://einundzwanzig.space/</link>
     </image>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 20:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 22:18:44 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <copyright><![CDATA[Einundzwanzig]]></copyright>
@@ -32,6 +32,29 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>No</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Selfhosting Everything - Special]]></title>
+      <description><![CDATA[<p>Selfhosting Special - Blockzeit 884609 - von und mit <a href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</a>, <a href="https://njump.me/npub14j7wc366rf8efqvnnm8m68pazy04kkj8fgu6uqumh3eqlhfst0kqrngtpf">Dennis</a>, <a href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</a> und <a href="http://x.com/derHerbertB">Herbert</a></p><p>Links:</p><ul> <li><a href="https://fountain.fm/episode/xCJFNKbFADoRcfsrf0mY">EINUNDZWANZIG Start9 Folge</a></li> <li><a href="https://open.spotify.com/episode/5RbFPPG5EsE5dQhbgxTjCk">Pleb&#39;s Taverne: Apps im Internet zugreifbar machen</a></li>  <li><a href="https://open.spotify.com/episode/5EQazuoblKk6Azcy8YW2Dp">Pleb&#39;s Taverne: Selfhost everything!</a><br></li>  <li><a href="https://community-scripts.github.io/ProxmoxVE/scripts">Proxmox Helper Scripte</a><br></li>  <li><a href="https://adminforge.de/">Adminforge Self-hosted</a></li>  <li><a href="https://signal.group/#CjQKIKqlRP8ZfdXx1S9jVvKyPKm_czYtbf-3SXZ4rm2hz9vHEhBvKli2gLD6iAVesjGa3LCD">Start9 Gruppe</a><br></li>  <li><a href="https://goneuland.de/">goNeuland</a><br></li>  <li><a href="https://www.youtube.com/@Jims-Garage">Jims-Garage</a></li>  <li><a href="https://www.youtube.com/@RaspberryPiCloud">RaspberryPiCloud</a></li></ul><p>Sponsoren und Freunde</p><ul>  <li>BitBox02 Bitcoin-only Edition - 5% Rabatt für die EINUNDZWANZIG Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</li>  <li>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig">Pocket Bitcoin</a>.<br></li>  <li>EINUNDZWANZIG Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/">Copiaro</a>.</li>  <li>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen. Code EINUNDZWANZIG für 5€ Rabatt.</li></ul><p>Weitere Links</p><ul>  <li>Besuche unsere <a href="https://einundzwanzig.space">Website</a> und lass uns einen <a href="https://shoutout.einundzwanzig.space">Shoutout</a> da.</li>  <li>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin">Newsfeed</a>.</li>  <li>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast">Community-Tutorials auf YouTube</a>.</li></ul>]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-selfhosting-everything-special</link>
+      <guid isPermaLink="false">47875901-a741-40b8-8305-98b1900c3f1a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 20 Feb 2025 22:15:43 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/98796776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-20%2F9a322b91-a966-ecd3-85e9-255a625a9b53.mp3" length="93231260" type="audio/mpeg"></enclosure>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:duration>02:02:20</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1740089458521-11be4804b3fd1.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Herbert" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="eOStnFJPH61nwgW1gi7a" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person href="https://primal.net/p/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person href="https://primal.net/p/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+      <podcast:person href="https://twitter.com/derHerbertB">Herbert</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #116 - Reisebericht - Vietnam]]></title>
       <description><![CDATA[<p>Interview #116 - Blockzeit 880673 - von und mit Ben, Molo und Ronin<br></p><p>In dieser Folge von <em>Einundzwanzig Orte</em> reisen wir mit Ronin nach Vietnam – ein faszinierendes Land voller Kontraste, Naturwunder und einer spannenden Geschichte. Ronin teilt seine Erfahrungen aus zwei intensiven Wochen, in denen er gemeinsam mit anderen Freunden das Land bereiste und die lokale Kultur erkundete.<br></p><p>Links</p><ul> <li><a href="https://fountain.fm/episode/i32Vf3UQuym4EbF58opf" target="_blank" rel="ugc noopener noreferrer">SOS Folge #25</a></li>   <li><a href="https://fountain.fm/episode/Oq7QJ3kpDYlItovss8oq" target="_blank" rel="ugc noopener noreferrer">SOS Folge #26</a></li></ul><p><br></p><p>Sponsoren und Freunde</p><ul>    <li>BitBox02 Bitcoin-only Edition - 5% Rabatt für die Einundzwanzig Community mit Code “<a href="https://shiftcrypto.ch/einundzwanzig" target="_blank" rel="ugc noopener noreferrer">einundzwanzig</a>” — 10% für 10 BitBoxes mit Code “einundzwanzig10”.</li>    <li>Stack Deine Sats mit <a href="https://pocketbitcoin.com/einundzwanzig" target="_blank" rel="ugc noopener noreferrer">Pocket Bitcoin</a>.</li>    <li>Einundzwanzig Merch bei <a href="https://copiaro.de/kategorie/einundzwanzig/" target="_blank" rel="ugc noopener noreferrer">Copiaro</a>.</li>    <li>Bei <a href="https://shopinbit.com/de/?sPartner=einundzwanzig" target="_blank" rel="ugc noopener noreferrer">ShopinBit</a> kannst du über 1.000.000 Produkte mit Bitcoin kaufen.</li></ul><p>Weitere Links</p><ul>    <li>Besuche unsere <a href="https://einundzwanzig.space" target="_blank" rel="ugc noopener noreferrer">Website</a> und diskutiere mit, in unserer <a href="https://t.me/einundzwanzigpodcast" target="_blank" rel="ugc noopener noreferrer">Telegram-Community</a>.</li>    <li>Verfolge die neusten Schlagzeilen im <a href="https://t.me/einundzwanzigbitcoin" target="_blank" rel="ugc noopener noreferrer">Newsfeed</a>.</li>    <li>Die <a href="https://www.youtube.com/c/EinundzwanzigPodcast" target="_blank" rel="ugc noopener noreferrer">Community-Tutorials auf YouTube</a>.</li></ul><p>Lass uns einen <a href="https://shoutout.einundzwanzig.space" target="_blank" rel="ugc noopener noreferrer">Shoutout</a> da.</p>]]></description>
@@ -958,27 +981,7 @@ Die Community-Tutorials auf YouTube.</p>
     </item>
     <item>
       <title><![CDATA[NostrTalk #16 - der Nostrweg - feat. Münzweg Podcast]]></title>
-      <description><![CDATA[<p><strong>NostrTalk #16</strong> - Blockzeit 866098 - von und mit <a href="https://nostr.at/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2" target="_blank" rel="ugc noopener noreferrer">Quillie</a>, <a href="https://nostr.at/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas" target="_blank" rel="ugc noopener noreferrer">d0enakalle</a>, <a href="https://nostr.at/npub1rnvr3w3n24eysawq3upwssv3c5vg6sy5zj6wapv7asetj7l2enhs8usa5v" target="_blank" rel="ugc noopener noreferrer">Manu</a> &amp; <a href="https://nostr.at/npub1apehn3llr3rvt09tjdt6xl3whdr7lzahn5xs0r09h8eedw53wfesfkuk7n" target="_blank" rel="ugc noopener noreferrer">Marcus</a></p>
-<p><br /></p>
-<p><strong>Links</strong></p>
-<ul>
- <li><a href="https://wavlake.com/track/cce201e3-e52c-4705-9afc-6c0f974a3ecb" target="_blank" rel="ugc noopener noreferrer">Intro &amp; Outro von Rod Palmer</a></li>
- <li><a href="https://mikedilger.com/gossip-model/" target="_blank" rel="ugc noopener noreferrer">Was das Outbox-Model?</a></li>
- <li><a href="https://github.com/retrnull/garnet" target="_blank" rel="ugc noopener noreferrer">Garnet: A fork of Amethyst with Monero tipping support</a></li>
- <li><a href="https://noogle.lol/" target="_blank" rel="ugc noopener noreferrer">Search the Nostr with Data Vending Machines (DVMs)</a></li>
- <li><a href="https://npub.cash/" target="_blank" rel="ugc noopener noreferrer">A nostr native Lightning Address for everyone</a></li>
- <li><a href="https://iris.to" target="_blank" rel="ugc noopener noreferrer">Ein Nostr-Webclient von Martti Malmi mit eingebauter Cashu Wallet</a></li>
-  <li><a href="https://github.com/asmogo/nws" target="_blank" rel="ugc noopener noreferrer">Nostr Web Services (NWS), "sowas ähnliches wie TOR auf Nostr..."</a></li>
-</ul>
-<p><br /></p>
-<p><strong>Weitere Links</strong></p>
-<ul>
-  <li>Komm in die <a href="https://matrix.to/#/#nostrtalk:matrix.org" target="_blank" rel="ugc noopener noreferrer">NostrTalk</a> Chatgruppe! </li>
-  <li><p>Höre diesen Podcast via Lightning-Netzwerk mit <a href="https://www.fountain.fm/" target="_blank" rel="ugc noopener noreferrer">Fountain</a> oder <a href="https://breez.technology/" target="_blank" rel="ugc noopener noreferrer">Breeze</a></p>
-</li>
-  <li><a href="https://quillie.github.io/nostr-wegweiser/" target="_blank" rel="ugc noopener noreferrer">Wegweiser für nostr Neulinge</a></li>
-</ul>
-<p><br /></p>]]></description>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-16-der-nostrweg-feat-muenzweg-podcast]]></description>
       <link>https://einundzwanzig.space/podcast/nostrtalk-16-der-nostrweg-feat-muenzweg-podcast</link>
       <guid isPermaLink="false">654d7f43-39c3-467d-b8f3-4d00a029a282</guid>
       <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
