@@ -469,15 +469,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2025-02-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2123",
-      "location": "Augustiner am Platzl, Orlandostraße 5, 80331 München",
-      "description": "Bitte wenn möglich über Telegram Gruppe zusagen. (Umfrage)  Danke.\nEntspanntes Meetup mit zünftig bayerischer Küche. Jeder zahlt auf eigene Rechnung.",
-      "link": "https://g.co/kgs/1P1mhdk",
-      "attendees": 2,
-      "nostr_note": "0538d52914ee3028a036fca82804aeb270f1a827d533d686052d67cf0d2bbb0b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -606,15 +598,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "start": "2025-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2083",
-      "location": "„thing“ Augsburg",
-      "description": "Monatliches Meetup\nKommt in die Telegram Gruppe ",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "7a8c705dc619401781d1f37db0eaa35598d8734608def982278f255da28fcaa0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1036,7 +1020,7 @@
       "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
       "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
@@ -1349,8 +1333,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-02-21 17:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1782",
+      "start": "2025-03-21 17:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1783",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
@@ -1516,8 +1500,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2025-02-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1563",
+      "start": "2025-03-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1564",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -1736,13 +1720,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-02-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2108",
-      "location": "Pizzeria Diego Mannheim",
+      "start": "2025-03-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2109",
+      "location": "Wird nach Abstimmung in Signal Gruppe bekannt gegeben",
       "description": null,
-      "link": "https://maps.app.goo.gl/dwMJjigJLyCcbhTG6",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "75cd749964f116b372d90ec56bcabef1d9ab335118b06266d4cedda24c243ae7"
+      "nostr_note": "7bf02affb789b63c8c9f379722749e7a48dec0028bc6626a012c75e05917e498"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2384,15 +2368,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "start": "2025-02-21 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2089",
-      "location": "Craftbar Rostock & Craftbar Cocktail College Margaretenstraße 41, 18057 Rostock",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "d32bf5c7bc9ebff1be039283633496416299af3149e0e3748c758b3197fb711a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3229,8 +3205,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-02-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2044",
+      "start": "2025-03-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2045",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
@@ -3387,15 +3363,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "start": "2025-02-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1996",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.02.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x4776856cb2c2ed13:0x19ddffa1f454d0f5?sa=X&ved=1t:8290&ictx=111",
-      "attendees": 3,
-      "nostr_note": "19b096a64caea654b9090d6c16e1609268699973c8bae52ffa41c0300dcda378"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
