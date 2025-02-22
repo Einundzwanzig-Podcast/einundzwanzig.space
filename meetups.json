@@ -387,8 +387,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-02-22 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1900",
+      "start": "2025-03-15 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1901",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
@@ -628,7 +628,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2025-03-21 17:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2125",
+      "location": "Bad Kissingen - Reiterswiesen im El Greco",
+      "description": "Bitcoin Meetup für Interessierte, Anfänger und absolute Maxis.",
+      "link": "https://maps.app.goo.gl/1goRHft8yrTM42dZ7",
+      "attendees": 0,
+      "nostr_note": "bf99f05d7e02c48b6ae1594a5ea2d4b4b2dd5e963f28701cfc1b4acb82aa1eee"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1020,7 +1028,7 @@
       "location": "Nürnberg, DORNAUERS Lebküchnerei & Chocolaterie ⚡️",
       "description": "DORNAUERS Lebküchnerei & Chocolaterie ⚡️\nFürther Straße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/pNt762GwEVXuQ29j7",
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "1e8fd45f498fed27f9517e86dee94e425024937336b6410359c89a2b0e0a61e3"
     },
     "style": {
@@ -3867,15 +3875,7 @@
     "city": "Südtirol",
     "portalUrl": "https://portal.einundzwanzig.space/it/meetup/einundzwanzig-suedtirol",
     "twitter": "SudtirolBitcoin",
-    "event": {
-      "start": "2025-02-22 08:10:00",
-      "portalLink": "https://portal.einundzwanzig.space/it/meetup/meetup-events/l/2107",
-      "location": "RODELN Gampenalm-Treffpunkt:Klausen beim Schwimmbad",
-      "description": "Kurza Eckdatn no zin Rodltoug.\n\nMior fohrn nua olla mitnond fa Klausn zin Parkplotz \"Zans\". Fohrtzeit san ca. 30 Minutn fa Klausn. Bitte Fohrgemeinschoften bilden, denn do Parkplotz isch leido kostenpflichtig.\n\nDo Weg isch ca. 4km long und ah Höhenuntoschied fa 400m. Es besteht auch die Meglichkeit uhne Rennbeckl oddo Rodl zi gion, jedo wie er bevorzugt ☺️Die Piste zi do Olbe isch auch präpariert, also kuana Sorgn.\n\nObm tiomo nua eppas mittougn und donouch fohrmo/giomo widdo olla mitnond ua.\n\nMior, do @Spark0233 und meine Wenigkeit, freidn ins affa gelungenes Meet-Up 😄\n\nMtn\n\n",
-      "link": "https://www.gampenalm.com/de/aktivitaeten/winter/rodeln/",
-      "attendees": 1,
-      "nostr_note": "183d703ede1987633e2f69769b6939952f07bce6edb5ebcab6867a05a10f029d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
