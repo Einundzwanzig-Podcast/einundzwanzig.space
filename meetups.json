@@ -1560,7 +1560,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-03-13 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2128",
+      "location": "Landau, Cafe Cosmo",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "dd65756ba033283a726677ae1f67868264029fdd682192ce0deca6939f0c0a06"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
