@@ -57,7 +57,7 @@ const onMeetupMapMarkerClick = (m, modalId) => {
   const city = m.city ? m.city.trim() : ''
   const date = m.event ? new Date(`${m.event.start}Z`) : null
   const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
-  const twitterUrl = m.twitter ? `https://twitter.com/${m.twitter}` : null
+  const twitterUrl = m.twitter ? `https://x.com/${m.twitter}` : null
   const title = m.name + (city && !m.name.includes(city) ? ` (${city})` : '')
   const urlTitle = m.url.includes('t.me/')
     ? 'Telegram'

@@ -15,10 +15,10 @@ block main
             !=markdown(member.text)
           .links
             if member.nostr
-              a(href=`https://primal.net/p/${member.nostr}` target="_blank" rel="nofollow noopener" title=`${member.name} on Nostr`)
+              a(href=`https://njump.me/${member.nostr}` target="_blank" rel="nofollow noopener" title=`${member.name} on Nostr`)
                 +sprite("nostr")
             if member.twitter
-              a(href=`https://twitter.com/${member.twitter}` target="_blank" rel="nofollow noopener" title=`${member.name} on Twitter`)
+              a(href=`https://x.com/${member.twitter}` target="_blank" rel="nofollow noopener" title=`${member.name} on X`)
                 +sprite("twitter")
             if member.github
               a(href=`https://github.com/${member.github}` target="_blank" rel="nofollow noopener" title=`${member.name} on GitHub`)

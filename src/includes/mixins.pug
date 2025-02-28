@@ -80,7 +80,7 @@ mixin spende(d, trunc = false)
       if d.twitter || d.github || d.gitlab
         .social
           if d.twitter
-            a.twitter(href=`https://twitter.com/${d.twitter}` target="_blank" rel="nofollow noopener"): +sprite('twitter', 'Twitter')
+            a.twitter(href=`https://x.com/${d.twitter}` target="_blank" rel="nofollow noopener"): +sprite('twitter', 'Twitter')
           if d.mastodon
             a.mastodon(href=d.mastodon target="_blank" rel="nofollow noopener"): +sprite('mastodon', 'Mastodon')
           if d.gitlab
