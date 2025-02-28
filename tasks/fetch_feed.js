@@ -1,6 +1,6 @@
 const { writeFileSync } = require('fs')
 const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML, participantsWithAliases, participantToId } = require('../helpers')
+const { replacements, slugify, stripHTML, participantsWithAliases, participantToId, assetUrl } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl, nodeId } = require('../content/meta.json')
 const participantsRaw = require('../content/participants.json')
 const request = require('sync-request')
@@ -208,11 +208,13 @@ const parseEpisode = e => {
       updated['podcast:person'] = []
 
       people.forEach(p => {
-        let href = p.url
-        if (!href && p.nostr) href = `https://primal.net/p/${p.nostr}`
-        if (!href && p.twitter) href = `https://twitter.com/${p.twitter}`
+        const __attr = {}
+        if (p.image) __attr.img = assetUrl(p.image)
+        if (p.url) __attr.href = p.url
+        else if (p.nostr) __attr.href = `https://njump.me/${p.nostr}`
+        else if (p.twitter) __attr.href = `https://x.com/${p.twitter}`
         updated['podcast:person'].push({
-          __attr: { href },
+          __attr,
           '#text': p.name
         })
       })
