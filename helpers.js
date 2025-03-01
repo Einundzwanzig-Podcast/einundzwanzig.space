@@ -1,5 +1,8 @@
 const { decode, encode } = require('html-entities')
+const { writeFileSync } = require('fs')
+const { join, resolve } = require('path')
 const meta = require('./content/meta.json')
+const dir = resolve(__dirname, '.')
 
 // configure markdown-it
 const transformer = require('jstransformer')
@@ -86,6 +89,9 @@ const assetUrl = (path, protocol = 'https') => {
   return url
 }
 
+const write = (name, data) => writeFileSync(join(dir, name), data)
+const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
+
 module.exports = {
   markdown: mdTransformer.render,
   random,
@@ -100,5 +106,7 @@ module.exports = {
   truncate,
   participantsWithAliases,
   participantToId,
-  toMeetupMapInfo
+  toMeetupMapInfo,
+  write,
+  writeJSON
 }

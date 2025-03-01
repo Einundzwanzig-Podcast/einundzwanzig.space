@@ -1,29 +1,18 @@
-const { writeFileSync } = require('fs')
-const { join, resolve } = require('path')
-const { replacements, slugify, stripHTML, participantsWithAliases, participantToId, assetUrl } = require('../helpers')
+const { replacements, slugify, stripHTML, participantsWithAliases, participantToId, assetUrl, writeJSON } = require('../helpers')
 const { masterFeedUrl, publicFeedUrl, nodeId } = require('../content/meta.json')
 const participantsRaw = require('../content/participants.json')
 const request = require('sync-request')
-const { XMLParser, XMLBuilder, XMLValidator } = require('fast-xml-parser')
-const xmlFormat = require('xml-formatter')
+const { XMLParser } = require('fast-xml-parser')
 
 const debug = process.env.CI
-const dir = resolve(__dirname, '..')
-const write = (name, data) => writeFileSync(join(dir, name), data)
-const writeJSON = (name, data) =>
-  write(`generated/${name}.json`, JSON.stringify(data, null, 2))
 
 const participants = participantsWithAliases(participantsRaw)
 
-const commonOpts = {
+const xml2jsonOpts = {
   attributeNamePrefix: '',
   attributesGroupName: '__attr',
   ignoreAttributes: false,
-  cdataPropName: '__cdata'
-}
-
-const xml2jsonOpts = {
-  ...commonOpts,
+  cdataPropName: '__cdata',
   parseTagValue: true,
   parseAttributeValue: false,
   trimValues: true,
@@ -31,15 +20,9 @@ const xml2jsonOpts = {
   arrayMode: false
 }
 
-const json2xmlOpts = {
-  ...commonOpts,
-  indentBy: '  '
-}
-
 const regexBlockzeit = /Blockzeit\s(\d+(?:\.)?\d+)/
 
 const parser = new XMLParser(xml2jsonOpts, true)
-const builder = new XMLBuilder(json2xmlOpts)
 
 const parseEpisode = e => {
   const guid = e.guid['#text']
@@ -223,22 +206,9 @@ const parseEpisode = e => {
     return updated
   })
 
-  const outputXML = builder.build(feed)
+  writeJSON('feed', feed)
   writeJSON('episodes', episodes)
   console.log('Neueste Episode:', episodes[0].title, '-', episodes[0].date)
-
-  const validation = XMLValidator.validate(outputXML)
-  if (validation) {
-    write(
-      'dist/feed.xml',
-      xmlFormat(outputXML, {
-        indentation: json2xmlOpts.indentBy,
-        collapseContent: true
-      })
-    )
-  } else {
-    console.error(validation.err)
-  }
 
   if (_noParticipants.length) {
     console.log('Keine Teilnehmerliste')

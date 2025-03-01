@@ -18,19 +18,21 @@
     "init": "run-s clean copy && run-p fetch build:data",
     "start": "cross-env NODE_ENV=development npm run init && cross-env NODE_ENV=development run-p start:*",
     "start:data": "onchange -k 'content/**/*' 'tasks/generate_site_data.js' -- npm run build:data",
+    "start:feed": "onchange -i -k 'generated/feed.json' 'tasks/generate_feed.js' -- npm run build:feed",
     "start:pages": "onchange -i -k 'pug.config.js' 'markdown.js' 'content/**' 'generated/**' 'src/**/*.pug' 'tasks/generate_pages.js' -- npm run build:pages -- {{file}}",
     "start:styles": "onchange -i -k 'src/**/*.css' -- npm run build:styles",
     "start:serve": "browser-sync start --config browser-sync.config.js --watch",
     "build": "npm run init && run-p build:*",
     "build:data": "node tasks/generate_site_data.js",
+    "build:feed": "node tasks/generate_feed.js",
     "build:nostr": "node tasks/generate_nostr.js",
     "build:pages": "node tasks/generate_pages.js",
     "build:styles": "postcss src/css/main.css --output dist/css/main.css",
-    "optimize": "run-p optimize:* && run-s rev",
+    "optimize": "run-s optimize:styles optimize:rev",
     "optimize:styles": "csso dist/css/main.css --output dist/css/main.css",
-    "rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/ln/*.svg dist/img/participants/*.jpg dist/img/participants/*.png",
+    "optimize:rev": "node-file-rev --manifest=generated/rev.json --root=dist dist/css/* dist/js/* dist/img/*.svg dist/img/cover/*.png dist/img/ln/*.svg dist/img/participants/*.jpg dist/img/participants/*.png && node tasks/replace_revs.js",
     "sitemap": "node tasks/generate_sitemap.js",
-    "prod": "cross-env NODE_ENV=production run-s build optimize build:pages sitemap"
+    "prod": "cross-env NODE_ENV=production run-s build optimize sitemap"
   },
   "dependencies": {
     "amplitudejs": "5.3.2"
@@ -57,6 +59,7 @@
     "postcss-mixins": "11.0.3",
     "postcss-nesting": "13.0.1",
     "pug": "3.0.3",
+    "replace-in-file": "6.3.5",
     "sync-request": "6.1.0",
     "xml-formatter": "3.6.4"
   }
