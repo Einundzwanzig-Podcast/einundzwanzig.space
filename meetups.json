@@ -855,7 +855,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-04 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2142",
+      "location": "Lilienschänke",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 2,
+      "nostr_note": "59e5e67d1301690b8c02bcf9f877c67387b2dcc76211bca708c97b0933227971"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2427,15 +2435,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2025-02-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2127",
-      "location": "St. Wendel",
-      "description": "Wir starten um 18 Uhr im Bruder Jakob mit leckerem Essen und Bezahlung in Lightning. Anschließend geht's gegen 20 Uhr weiter ins Irish Pub.\nWer schon im Bruder Jakob dabei will, bitte unbedingt vorher über die Telegram Gruppe anmelden. Wir haben da einen Tisch reserviert und keine Möglichkeit zusätzliche Leute spontan unterzubringen. Im Irish Pub gibt es diese Restriktionen nicht.",
-      "link": null,
-      "attendees": 2,
-      "nostr_note": "3b7c687813c675cf4c8e82e203d0fad5cca4c8ca7a6f6c0f0bddfb17d5bf8803"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
