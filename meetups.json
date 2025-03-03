@@ -485,12 +485,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanig-wandern-chiemgau-berchtesgarden",
     "twitter": null,
     "event": {
-      "start": "2025-03-02 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2010",
-      "location": "Bründling Alm nähere Infos siehe Telegram Gruppe",
+      "start": "2025-05-04 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2011",
+      "location": "siehe Telegram Gruppe",
       "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "0ea023e1d80314df80951675b6c257b89dd707cd2a7295b51508fe0a2c96e7c0"
     },
     "style": {
@@ -893,7 +893,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-03-12 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2144",
+      "location": "94419 Reisbach",
+      "description": "Am Mittwoch 12. März ab 18:30 findet der 4. Stammtisch Einundzwanzig Dingolfing-Landau statt. Genaue Eventlocation wird noch bekanntgegeben, wahrscheinlich nähe Reisbach. Genaue Info im Telegram Channel",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "0b0e72e8031cd7a00596cc65925916e6534e590172b7eab8f9322f7fb5bb5a76"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1459,7 +1467,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Dieses Mal mit Nostr Workshop. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "9c3383c5b77ef64154ab79e4ceee6d2051e2415668cd514df5f05f78dcb7fdaa"
     },
     "style": {
@@ -1893,7 +1901,15 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-29 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2143",
+      "location": "Neubrandenburg ",
+      "description": "Es ist wieder soweit! Am 29.03.2025 findet das zweite Einundzwanzig Neubrandenburg Bitcoin Only Meetup im MyArea Coworking Space in Neubrandenburg statt.\n\n📍 Location: MyArea Coworking Space\n    Treptower Str.1, \n    17033 Neubrandenburg \n    (Direkt über Mamas Food) \n🕒 Einlass: 15:00 Uhr\n🥤 Getränke: Softdrinks & Kaffee sind  \n    vorhanden und per Lightning zahlbar\n🍽 Essen: ist nicht verfügbar.\n\nEgal, ob du Anfänger, Fortgeschrittener ,Profi oder Bitcoin Maxi bist – jeder ist willkommen, der sich für Bitcoin interessiert, sich austauschen möchte oder aktiv zur Bitcoin-Adoption in Neubrandenburg und in der Mecklenburgischen Seenplatte beitragen will.\n\n🔥 Besonderes Highlight: Eine kleine Überraschung ist geplant – mehr wird aber noch nicht verraten!\n\nKomm vorbei, vernetze dich und lass uns gemeinsam Bitcoin in unserer Region voranbringen! ⚡",
+      "link": "https://maps.app.goo.gl/tgiHeX2sVvsbjsrw6?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "bf15821774e5ea3503d13ce8ea80d434ed6bc2df093eb049c1baa2b5cbbd6f12"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2260,7 +2276,7 @@
       "location": null,
       "description": "Meetup Remstal im Trattoria Toscana in Rommelshausen ",
       "link": "https://maps.app.goo.gl/vmKQvswrJqx2wBhQA?g_st=com.google.maps.preview.copy",
-      "attendees": 5,
+      "attendees": 7,
       "nostr_note": "fa3d6a5ec22287d1576f87444dd18778b5c91ad33c2a3c7a79b5ca51b3e33930"
     },
     "style": {
@@ -3277,7 +3293,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "d724958765967698a2e38ada8e8dccb3a3d6b550537895d31817d9d522003c64"
     },
     "style": {
@@ -3353,7 +3369,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 29.03.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "7724d05e4d759d497885029326c6cb498f2ed6b24004a8d863dc58630e12bf17"
     },
     "style": {
