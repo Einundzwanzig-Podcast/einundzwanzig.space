@@ -102,7 +102,13 @@ const parseEpisode = e => {
   const _noParticipants = [], _noNode = []
 
   // remove invalid tag
-  delete feed.rss.channel.author
+  const rss = feed.rss
+  delete rss.channel.author
+
+  // reference xslsheet
+  delete feed.rss
+  feed['?xml-stylesheet'] = { __attr: { type: 'text/xsl', href: '/xslsheet.xml' } }
+  feed.rss = rss
 
   // podcast
   feed.rss.channel['podcast:value'] = {
