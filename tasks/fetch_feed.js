@@ -1,5 +1,5 @@
-const { replacements, slugify, stripHTML, participantsWithAliases, participantToId, assetUrl, writeJSON } = require('../helpers')
-const { masterFeedUrl, publicFeedUrl, nodeId } = require('../content/meta.json')
+const { replacements, slugify, stripHTML, participantsWithAliases, participantToId, assetUrl, write, writeJSON } = require('../helpers')
+const { masterFeedUrl, publicFeedUrl, nodeId, title: podcastName } = require('../content/meta.json')
 const participantsRaw = require('../content/participants.json')
 const request = require('sync-request')
 const { XMLParser } = require('fast-xml-parser')
@@ -125,7 +125,8 @@ const parseEpisode = e => {
     const episode = parseEpisode(item)
     episodes.push(episode)
 
-    const link = `https://einundzwanzig.space/podcast/${episode.slug}`
+    const episodePath = `podcast/${episode.slug}`
+    const link = `https://einundzwanzig.space/${episodePath}`
     let { description, descriptionPlain } = episode
     if (index > 20) {
       description = `Shownotes: ${link}`
@@ -201,6 +202,27 @@ const parseEpisode = e => {
           '#text': p.name
         })
       })
+    }
+
+    // chapters
+    const chapterInfo = descriptionPlain.match(/(\d{1,2}:\d{2}:\d{2})\s(.*)/g)
+    if (chapterInfo) {
+      try {
+        const chapters = chapterInfo.map(chapter => {
+          const [_, hms, title] = chapter.match(/(\d{1,2}:\d{2}:\d{2})\s(.*)/)
+          const [h, m, s] = hms.split(':')
+          const startTime = parseInt(h) * 3600 + parseInt(m) * 60 + parseInt(s)
+          return { startTime, title }
+        })
+        const chapterData = { version: '1.2.0', podcastName, title: episode.title, chapters }
+        write(`dist/${episodePath}/chapters.json`, JSON.stringify(chapterData, null, 2))
+        updated['podcast:chapters'] = {
+          __attr: { url: `${link}/chapters.json`, type: 'application/json+chapters' }
+        }
+      }
+      catch (e) {
+        console.error('Error generating chapters for', episode.slug, chapterInfo)
+      }
     }
 
     return updated

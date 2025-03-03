@@ -1,6 +1,6 @@
 const { decode, encode } = require('html-entities')
-const { writeFileSync } = require('fs')
-const { join, resolve } = require('path')
+const { mkdirSync, writeFileSync } = require('fs')
+const { dirname, join, resolve } = require('path')
 const meta = require('./content/meta.json')
 const dir = resolve(__dirname, '.')
 
@@ -24,7 +24,12 @@ const HOST = IS_DEV ? 'http://localhost:3000' : 'https://einundzwanzig.space'
 
 // replacements
 const replacements = str => str && str.replace(/<\/?u>/g, '').replace(meta.tallycoinUrl, meta.shoutoutUrl)
-const stripHTML = str => str && encode(decode(str.replace(/(<([^>]+)>)/ig, '').trim().replace(/\n\s*/g, '\n')), { level: 'xml' })
+const stripHTML = str => str && encode(decode(str
+  .replace(/<br(\s?\/?)>/g, '\n')
+  .replace(/<\/(p|ul|ol)>/g, '\n\n')
+  .replace(/(<([^>]+)>)/ig, '')
+  .trim()
+  .replace(/\n\s*/g, '\n')), { level: 'xml' })
 
 // meetups
 const toMeetupMapInfo = m => {
@@ -89,7 +94,11 @@ const assetUrl = (path, protocol = 'https') => {
   return url
 }
 
-const write = (name, data) => writeFileSync(join(dir, name), data)
+const write = (name, data) => {
+  const dst = join(dir, name)
+  mkdirSync(dirname(dst), { recursive: true })
+  writeFileSync(dst, data)
+}
 const writeJSON = (name, data) => write(`generated/${name}.json`, JSON.stringify(data, null, 2))
 
 module.exports = {

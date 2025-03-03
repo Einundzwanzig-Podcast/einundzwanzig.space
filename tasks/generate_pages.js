@@ -1,6 +1,6 @@
 const pug = require('pug')
-const { mkdirSync, writeFileSync } = require('fs')
-const { dirname, resolve } = require('path')
+const { resolve } = require('path')
+const { write } = require('../helpers')
 const { slugify, participantsWithAliases, participantToId } = require('../helpers')
 const config = require('../pug.config')
 const site = require('../generated/site-data.json')
@@ -37,11 +37,8 @@ const renderPage = (template, out, data = {}) => {
   const file = resolve(__dirname, '..', templateFile)
   const options = Object.assign({}, config, { site }, data, { pagePath })
   const rendered = pug.renderFile(file, options)
-  const dst = resolve(__dirname, '..', 'dist', dest)
-  const dir = dirname(dst)
 
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(dst, rendered)
+  write(`dist/${dest}`, rendered)
 }
 
 renderPage('index', 'index', { navCurrent: 'index', currentEpisode: episodes[0], participants })
