@@ -51,10 +51,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:chapters>
-        <url>https://einundzwanzig.space/podcast/interview-117-bitcoin-mit-tom-oliver-regenauer/chapters.json</url>
-        <type>application/json+chapters</type>
-      </podcast:chapters>
+      <podcast:chapters url="https://einundzwanzig.space/podcast/interview-117-bitcoin-mit-tom-oliver-regenauer/chapters.json" type="application/json+chapters"></podcast:chapters>
     </item>
     <item>
       <title><![CDATA[#273 - Stromausfall in der Sauna]]></title>
@@ -282,10 +279,7 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:chapters>
-        <url>https://einundzwanzig.space/podcast/interview-113-rennt-mit-ingo-sauer/chapters.json</url>
-        <type>application/json+chapters</type>
-      </podcast:chapters>
+      <podcast:chapters url="https://einundzwanzig.space/podcast/interview-113-rennt-mit-ingo-sauer/chapters.json" type="application/json+chapters"></podcast:chapters>
     </item>
     <item>
       <title><![CDATA[#270 - AdlerGate 2.0]]></title>

@@ -68,8 +68,16 @@
     "url": "https://t.me/einundzwanzig_aschaffenburg",
     "city": "Aschaffenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
-    "twitter": null,
-    "event": null,
+    "twitter": "21Aschaffenburg",
+    "event": {
+      "start": "2025-03-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2145",
+      "location": "Mainhatten in Mainaschaff",
+      "description": "Lockeres Meetup ohne festem Programm",
+      "link": "https://themainhattan.de/",
+      "attendees": 1,
+      "nostr_note": "5b23d0361e0f81de45755eac77855ec52de9348e461400c836482cd25a1e5578"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
