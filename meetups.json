@@ -75,7 +75,7 @@
       "location": "Mainhatten in Mainaschaff",
       "description": "Lockeres Meetup ohne festem Programm",
       "link": "https://themainhattan.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "5b23d0361e0f81de45755eac77855ec52de9348e461400c836482cd25a1e5578"
     },
     "style": {
@@ -1475,7 +1475,7 @@
       "location": "Alte Schmiede Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Dieses Mal mit Nostr Workshop. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. ",
       "link": "https://www.alte-schmiede-kempten.de/",
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "9c3383c5b77ef64154ab79e4ceee6d2051e2415668cd514df5f05f78dcb7fdaa"
     },
     "style": {
@@ -1915,7 +1915,7 @@
       "location": "Neubrandenburg ",
       "description": "Es ist wieder soweit! Am 29.03.2025 findet das zweite Einundzwanzig Neubrandenburg Bitcoin Only Meetup im MyArea Coworking Space in Neubrandenburg statt.\n\n📍 Location: MyArea Coworking Space\n    Treptower Str.1, \n    17033 Neubrandenburg \n    (Direkt über Mamas Food) \n🕒 Einlass: 15:00 Uhr\n🥤 Getränke: Softdrinks & Kaffee sind  \n    vorhanden und per Lightning zahlbar\n🍽 Essen: ist nicht verfügbar.\n\nEgal, ob du Anfänger, Fortgeschrittener ,Profi oder Bitcoin Maxi bist – jeder ist willkommen, der sich für Bitcoin interessiert, sich austauschen möchte oder aktiv zur Bitcoin-Adoption in Neubrandenburg und in der Mecklenburgischen Seenplatte beitragen will.\n\n🔥 Besonderes Highlight: Eine kleine Überraschung ist geplant – mehr wird aber noch nicht verraten!\n\nKomm vorbei, vernetze dich und lass uns gemeinsam Bitcoin in unserer Region voranbringen! ⚡",
       "link": "https://maps.app.goo.gl/tgiHeX2sVvsbjsrw6?g_st=com.google.maps.preview.copy",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "bf15821774e5ea3503d13ce8ea80d434ed6bc2df093eb049c1baa2b5cbbd6f12"
     },
     "style": {
@@ -2429,7 +2429,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2025-03-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2147",
+      "location": "Ort klären wir in der Telegram-Gruppe",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "a92e83ad72ec3b34016021d686124364cdda8f4951ac11491df6c411aff069d7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2753,7 +2761,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-03-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2146",
+      "location": "Radis Stacks",
+      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡\n\nEs wird zusätzlich einen Vortrag von Sirius geben.\n\nDie Präsentation ist zum Thema Privatsphäre auf Android und ist Einsteigerfreundlich. Diese kann teils auch auf andere Systeme/Browser übertragen werden.",
+      "link": "https://radis-stacks.de",
+      "attendees": 0,
+      "nostr_note": "82df07768c66fb988e46a884481cbf615413b7fe6b98ff144a17a4695973778a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3301,7 +3317,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "d724958765967698a2e38ada8e8dccb3a3d6b550537895d31817d9d522003c64"
     },
     "style": {
