@@ -400,7 +400,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
@@ -863,15 +863,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-03-04 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2142",
-      "location": "Lilienschänke",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 2,
-      "nostr_note": "59e5e67d1301690b8c02bcf9f877c67387b2dcc76211bca708c97b0933227971"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1417,8 +1409,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
     "event": {
-      "start": "2025-03-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1960",
+      "start": "2025-04-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1961",
       "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
       "description": null,
       "link": null,
@@ -3317,7 +3309,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "d724958765967698a2e38ada8e8dccb3a3d6b550537895d31817d9d522003c64"
     },
     "style": {
