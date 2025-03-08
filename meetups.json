@@ -69,15 +69,7 @@
     "city": "Aschaffenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
-    "event": {
-      "start": "2025-03-07 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2145",
-      "location": "Mainhatten in Mainaschaff",
-      "description": "Lockeres Meetup ohne festem Programm",
-      "link": "https://themainhattan.de/",
-      "attendees": 3,
-      "nostr_note": "5b23d0361e0f81de45755eac77855ec52de9348e461400c836482cd25a1e5578"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -955,13 +947,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-03-07 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1685",
+      "start": "2025-04-04 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1686",
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
       "attendees": 0,
-      "nostr_note": "d24773b275d220e420503729b4b5e1192fe4ed4980ee6edc0318ff72d8014a1d"
+      "nostr_note": "5602027279118b6f2c3c726efa43893a7d1c58050ed5cd029d40b409d4f86a41"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1789,12 +1781,12 @@
     "twitter": null,
     "event": {
       "start": "2025-03-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1836",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2150",
+      "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf ",
+      "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum 2. mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechend reservieren können.",
+      "link": "https://www.timsbaz.de/",
       "attendees": 0,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": "76aae5f3de3eea1ebefea845008d59e0792a0ed6b0741240497f02f81ff8a3e9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2060,8 +2052,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-03-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1427",
+      "start": "2025-04-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1428",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -3786,15 +3778,7 @@
     "city": "Ostschweiz",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
-    "event": {
-      "start": "2025-03-07 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/1253",
-      "location": "Ostschweiz",
-      "description": "Wir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
-      "link": "https://www.meetup.com/de-DE/einundzwanzig-bitcoin-meetup-schweiz/",
-      "attendees": 0,
-      "nostr_note": "2c1e09cebecf41cebf44ea04fb9f3856fbf7a0bff4801dda26191f0320309350"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
