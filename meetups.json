@@ -794,15 +794,7 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": {
-      "start": "2025-03-13 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2093",
-      "location": "Brühler Wirtshaus am Schloss",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "e5f894cb7f2ddb59a57290200f3d19952a7952f847e97982120306bdb4f3571b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1272,7 +1264,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-03-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2151",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 15.03.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches Erscheinen wird gebeten\nhttps://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA\n",
+      "link": "https://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA",
+      "attendees": 0,
+      "nostr_note": "c6782aea8927dc4ede38f199277fda58d85b8217c3479a47d9261334ced3e1d3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1303,8 +1303,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-03-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1861",
+      "start": "2025-04-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1862",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -2813,7 +2813,15 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "start": "2025-04-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2152",
+      "location": "Wittlich",
+      "description": "Meetup in der Brasserie Balthazar. ",
+      "link": "https://g.co/kgs/3XT6Ni5",
+      "attendees": 0,
+      "nostr_note": "909702f763eac98555a5e127f29bcca470d2a1c6d8ee739eeef4c76abf8c53f0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
