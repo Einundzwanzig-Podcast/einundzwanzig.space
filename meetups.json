@@ -228,13 +228,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-03-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1983",
+      "start": "2025-04-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1984",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "da515136ef1054113408fa10ffea3a83ca0cd94a7902dc56df08893bf17f1e75"
+      "nostr_note": "f874d2d3b99e49641c7bfd55659ff0c96a60883b206b29160dee27256d004c8d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -810,13 +810,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-03-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2097",
+      "start": "2025-04-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2098",
       "location": null,
-      "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei.",
+      "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
-      "nostr_note": "555d9d5a0b6e75f28e507165f02f6e494941760aed3e3b047b63fee6a48b8270"
+      "nostr_note": "fb08e0f3af3b57ef8275c79c609595ab220185a1501231e05e08e3ba9e723c7e"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -885,15 +885,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "start": "2025-03-12 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2144",
-      "location": "94419 Reisbach",
-      "description": "Am Mittwoch 12. März ab 18:30 findet der 4. Stammtisch Einundzwanzig Dingolfing-Landau statt. Genaue Eventlocation wird noch bekanntgegeben, wahrscheinlich nähe Reisbach. Genaue Info im Telegram Channel",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "0b0e72e8031cd7a00596cc65925916e6534e590172b7eab8f9322f7fb5bb5a76"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -977,8 +969,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-03-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1849",
+      "start": "2025-04-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1850",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -1017,10 +1009,10 @@
     "event": {
       "start": "2025-03-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1927",
-      "location": "Erlangen",
-      "description": null,
-      "link": null,
-      "attendees": 1,
+      "location": "Erlangen Pizzeria TIO Rustica",
+      "description": "Pizzeria TIO Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
+      "link": "https://maps.app.goo.gl/vYTA42a4HnhcxNe47",
+      "attendees": 2,
       "nostr_note": "9a8b930d51a8cf711a747db65fa8838b962571ebf577b30f21470c78a2a2327d"
     },
     "style": {
@@ -1105,15 +1097,7 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": {
-      "start": "2025-03-12 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2095",
-      "location": "Fulda, Keulos",
-      "description": "Wir treffen uns wieder im Lindenhof in Keulos. ",
-      "link": "https://keulos.beepworld.de/",
-      "attendees": 0,
-      "nostr_note": "c64f44a2bb28e5e0c25f76e6d8533496b6fe367642e75cb2a698c02b2c603edc"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1461,7 +1445,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-04-10 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2154",
+      "location": "Alte Schmiede Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Workshop im April: Specter, im Eigenbau zur Wallet. Der Walletbau startet früher. Dafür unbedingt anmelden bei @pfeilstern. \n\nDu stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://www.alte-schmiede-kempten.de/",
+      "attendees": 1,
+      "nostr_note": "9b47f48698382361edde59a7695912cb5b0f2677364df444f1d212ca6fac0e59"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2413,15 +2405,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2025-03-12 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2147",
-      "location": "Ort klären wir in der Telegram-Gruppe",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "a92e83ad72ec3b34016021d686124364cdda8f4951ac11491df6c411aff069d7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2851,7 +2835,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-03-19 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2153",
+      "location": "Heinsberg / Waldenrath ",
+      "description": "Bitcoin Stammtisch in der Dorfkneipe. ",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 1,
+      "nostr_note": "81b13af327cddc72e12773573f39ffaf9bb402f279955ce3461d6d831f158265"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
