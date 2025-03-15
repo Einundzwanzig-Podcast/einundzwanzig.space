@@ -8,7 +8,7 @@
     "url": "https://t.me/+CYfOSctGW35lOTY6",
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
-    "twitter": null,
+    "twitter": "KryptoJuenger82",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -25,6 +25,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Meetup Paphos Zypern",
+    "latLng": [
+      34.772015,
+      32.429737
+    ],
+    "url": null,
+    "city": "21Bitcoin Zypern",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
+    "twitter": "KryptoJuenger82",
+    "event": {
+      "start": "2025-04-12 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2155",
+      "location": "Paphos, Zypern",
+      "description": "21 Bitcoin Meetup Zypern - Paphos, Universal\n",
+      "link": "https://www.elysia-park.com/restaurants-bars/",
+      "attendees": 1,
+      "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2668,9 +2691,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2025-03-14 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/702",
-      "location": "tialini | Stuttgart Bolzstraße 10, 70173 Stuttgart",
+      "start": "2025-04-11 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/703",
+      "location": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns sehr zentral im tialini.",
       "link": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
       "attendees": 0,
@@ -2691,13 +2714,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-03-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2063",
+      "start": "2025-04-11 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2064",
       "location": "Dons Diner in Höckelheim",
       "description": null,
       "link": "https://www.dons-diner.de/",
       "attendees": 0,
-      "nostr_note": "d7620c51d40b67bf74d701a1b3f20780564c5e3d0f625ae260a13d67988aa54e"
+      "nostr_note": "cd1c3539f9fb5037f97b10034ba207abafaf73bf912287d01abd88de9840d071"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3303,13 +3326,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2025-03-14 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1716",
-      "location": "Parndorf, WERK Bowling",
-      "description": "Bitcoin-Meetup Nordburgenland\nPizza & Bier",
-      "link": "https://werkbowling.at/",
+      "start": "2025-04-25 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1717",
+      "location": "Neusiedl am See, vermutlich Joe's Pub",
+      "description": "Bitcoin Meetup Nordburgenland\nBitcoin, Pizza & Bier",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "cdb769d45545ac9118833159b2d4e2e86785f527f506fd93a4b9e287b1e943d5"
+      "nostr_note": "82c30ec217a2bda3a4fd72e2f4ef1812da6c2dfed94ef0b2a77d22c6b13d5ee0"
     },
     "style": {
       "fill": "var(--color-accent)"
