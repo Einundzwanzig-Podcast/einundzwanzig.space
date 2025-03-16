@@ -40,12 +40,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
     "twitter": "KryptoJuenger82",
     "event": {
-      "start": "2025-04-12 18:00:00",
+      "start": "2025-04-12 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2155",
       "location": "Paphos, Zypern",
       "description": "21 Bitcoin Meetup Zypern - Paphos, Universal\n",
       "link": "https://www.elysia-park.com/restaurants-bars/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
     },
     "style": {
@@ -143,7 +143,7 @@
       "location": "Café Holzmarktperle, Holzmarktstraße 25, 10243 Berlin",
       "description": "Bitcoin am Holzmarkt (Stammtisch)",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "945dd95b698447cb2f0059da8c7cab48a86872c20566af8721cd0724525a785c"
     },
     "style": {
@@ -410,12 +410,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-03-15 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1901",
+      "start": "2025-03-29 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1902",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
@@ -1271,15 +1271,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2025-03-15 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2151",
-      "location": "HN",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 15.03.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches Erscheinen wird gebeten\nhttps://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA\n",
-      "link": "https://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA",
-      "attendees": 0,
-      "nostr_note": "c6782aea8927dc4ede38f199277fda58d85b8217c3479a47d9261334ced3e1d3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2843,7 +2835,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
     "event": {
-      "start": "2025-03-19 17:21:00",
+      "start": "2025-03-20 17:21:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2153",
       "location": "Heinsberg / Waldenrath ",
       "description": "Bitcoin Stammtisch in der Dorfkneipe. ",
@@ -2942,8 +2934,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-03-15 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1052",
+      "start": "2025-04-19 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1053",
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
@@ -3402,13 +3394,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-03-15 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1236",
+      "start": "2025-04-19 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1237",
       "location": "Passau oder Schärding",
-      "description": "42. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "43. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "05649226ba31cf9510dee40e64d017d15bbd23f00cdc91ccc170935ee8d025c6"
+      "nostr_note": "8bffe4862dfa322031f8bc2338376a09af18df3ec3ca4e72092d16a864aa4354"
     },
     "style": {
       "fill": "var(--color-accent)"
