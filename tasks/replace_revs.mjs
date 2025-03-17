@@ -1,8 +1,10 @@
-const { resolve } = require('path')
-const { replaceInFileSync } = require('replace-in-file')
-const rev = require('../generated/rev.json')
+import { resolve }  from 'path'
+import { replaceInFileSync } from 'replace-in-file'
+import rev from '../generated/rev.json' with { type: 'json' }
+
+const { dirname } = import.meta
 const options = {
-  files: [resolve(__dirname, '../dist/**/*.xml'), resolve(__dirname, '../dist/**/*.html')],
+  files: [resolve(dirname, '../dist/**/*.xml'), resolve(dirname, '../dist/**/*.html')],
   from: Object.keys(rev).map(key => new RegExp(key, 'g')),
   to: Object.values(rev)
 }
