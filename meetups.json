@@ -967,6 +967,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Erding",
+    "latLng": [
+      48.306099,
+      11.91002
+    ],
+    "url": "https://web.telegram.org/k/#-4655417023",
+    "city": "Erding",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Erfurt",
     "latLng": [
       50.984768,
@@ -1035,7 +1050,7 @@
       "location": "Erlangen Pizzeria TIO Rustica",
       "description": "Pizzeria TIO Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/vYTA42a4HnhcxNe47",
-      "attendees": 6,
+      "attendees": 8,
       "nostr_note": "9a8b930d51a8cf711a747db65fa8838b962571ebf577b30f21470c78a2a2327d"
     },
     "style": {
@@ -2384,9 +2399,9 @@
     "event": {
       "start": "2025-03-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2122",
-      "location": "Bekanntgabe der Location folgt. Nähe Rottweil-City",
-      "description": null,
-      "link": null,
+      "location": "Restaurant Milchhäusle in Stetten ",
+      "description": "",
+      "link": "https://maps.app.goo.gl/NLo65t1MKYuhn1Mz8",
       "attendees": 0,
       "nostr_note": "62eb6b322255ed622ca0faaa34de56c15bcec3e589578589971ea93321615519"
     },
