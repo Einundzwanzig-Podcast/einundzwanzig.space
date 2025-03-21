@@ -916,7 +916,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-04-09 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2157",
+      "location": "Reisbach",
+      "description": "Am Mittwoch 9. April ab 18:30 findet der 5. Stammtisch Einundzwanzig Dingolfing-Landau statt. Genaue Eventlocation wird in der Telegram Gruppe bekanntgegeben.\n\nhttps://t.me/einundzwanzig_dgf",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "16ba1cad28ae80120739c4f9c600ecd70bcbf37b9dd8fa17053b70c48c500a22"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
