@@ -492,7 +492,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-03-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2156",
+      "location": "Wirtshaus zur Brezn, Leopoldstr. 72, 80802 München",
+      "description": "Anmeldung über die Telegram Gruppe oder hier.",
+      "link": "https://g.co/kgs/G9ZfvfB",
+      "attendees": 2,
+      "nostr_note": "632122f41c5e0499093b19d846b85bb25409628e76c15c5208c7f5e847ec03c0"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -972,7 +980,7 @@
       48.306099,
       11.91002
     ],
-    "url": "https://web.telegram.org/k/#-4655417023",
+    "url": "https://t.me/Einundzwanzig_Erding",
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
@@ -2849,15 +2857,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2025-03-20 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2153",
-      "location": "Heinsberg / Waldenrath ",
-      "description": "Bitcoin Stammtisch in der Dorfkneipe. ",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "81b13af327cddc72e12773573f39ffaf9bb402f279955ce3461d6d831f158265"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
