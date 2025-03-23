@@ -1045,13 +1045,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-03-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1927",
-      "location": "Erlangen Pizzeria TIO Rustica",
-      "description": "Pizzeria TIO Rustica\nLudwig-Erhard-Straße 13\n91052 Erlangen",
-      "link": "https://maps.app.goo.gl/vYTA42a4HnhcxNe47",
-      "attendees": 9,
-      "nostr_note": "9a8b930d51a8cf711a747db65fa8838b962571ebf577b30f21470c78a2a2327d"
+      "start": "2025-04-26 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1928",
+      "location": "Fürth",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c5df9bc614d7e682723ac055c5be6dd05210f5869e3206aa99e8398c2f713c58"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1854,8 +1854,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
     "event": {
-      "start": "2025-03-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1887",
+      "start": "2025-04-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1888",
       "location": null,
       "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
       "link": null,
@@ -2727,15 +2727,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-03-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2146",
-      "location": "Radis Stacks",
-      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡\n\nEs wird zusätzlich einen Vortrag von Sirius geben.\n\nDie Präsentation ist zum Thema Privatsphäre auf Android und ist Einsteigerfreundlich. Diese kann teils auch auf andere Systeme/Browser übertragen werden.",
-      "link": "https://radis-stacks.de",
-      "attendees": 0,
-      "nostr_note": "82df07768c66fb988e46a884481cbf615413b7fe6b98ff144a17a4695973778a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2869,7 +2861,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
-      "attendees": 0,
+      "attendees": 2,
       "nostr_note": "97acdf02e5209344b32e9249c5b9745dbf8891f832d44556e18b42cea924193e"
     },
     "style": {
