@@ -1,5 +1,20 @@
 [
   {
+    "name": "1. Meetup Münchberg ",
+    "latLng": [
+      50.191189,
+      11.78886
+    ],
+    "url": null,
+    "city": "Münchberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/1-meetup-muenchberg",
+    "twitter": "@Fichtelcoiner",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "21 Bitcoin Meetup Zypern",
     "latLng": [
       34.772015,
@@ -1407,7 +1422,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-03-28 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2161",
+      "location": "Zarillo am Audi-Kreisel",
+      "description": "Unser Midweek Stammtisch für alle, die am Sonntag aus unterschiedlichen Gründen nicht kommen können. Perfekt um den Feierabend und das Wochenende einzuleiten.\n\nParkplätze sind vor dem Haus vorhanden, können aber etwas knapp werden. In der Umgebung gibt es aber genug Plätze.",
+      "link": "https://maps.app.goo.gl/qseM51ekqixyaadF8",
+      "attendees": 0,
+      "nostr_note": "268ebb34c24b6a7e741d386296122316dabdd9c6f437a64c8b16812919ac572b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1475,7 +1498,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-04-10 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2159",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
+      "description": "Meetup im Herzwerk (neue Location)\n\nHerzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Thema im Workshop: Specter, Hardware Wallet selbst bauen. Beginn des Meetups ist um 19:30 Uhr. Teilnehmer die sich ihre eigene Wallet bauen möchten, melden sich zeitnah bei @schnuartz (Telegram). Workshopbeginn 17:30 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin  …Plebs together strong.",
+      "link": "",
+      "attendees": 4,
+      "nostr_note": "79ec03c8dfa7b04cb2dac48b928385d730fb72015c5ad78133c72caa3d5d09e6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
