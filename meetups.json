@@ -60,7 +60,7 @@
       "location": "Paphos, Zypern",
       "description": "21 Bitcoin Meetup Zypern - Paphos, Universal\n",
       "link": "https://www.elysia-park.com/restaurants-bars/",
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
     },
     "style": {
@@ -658,7 +658,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2025-04-18 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2164",
+      "location": "El Greco in Reiterswiesen - Bad Kissingen ",
+      "description": "Unser Meetup 21 Stammtisch in Bad Kissingen ",
+      "link": "https://maps.app.goo.gl/9EofHoihsAFhSzKe7",
+      "attendees": 0,
+      "nostr_note": "d75e39ea8eed9738571ef3c2276935d065b50f2fde9e934da01ab606223066f2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -863,7 +871,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
     "event": {
-      "start": "2025-03-29 17:00:00",
+      "start": "2025-03-30 09:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2162",
       "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
       "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
@@ -1512,7 +1520,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Meetup im Herzwerk (neue Location)\n\nHerzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Thema im Workshop: Specter, Hardware Wallet selbst bauen. Beginn des Meetups ist um 19:30 Uhr. Teilnehmer die sich ihre eigene Wallet bauen möchten, melden sich zeitnah bei @schnuartz (Telegram). Workshopbeginn 17:30 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin  …Plebs together strong.",
       "link": "",
-      "attendees": 4,
+      "attendees": 6,
       "nostr_note": "79ec03c8dfa7b04cb2dac48b928385d730fb72015c5ad78133c72caa3d5d09e6"
     },
     "style": {
@@ -1830,7 +1838,7 @@
       "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf ",
       "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum 2. mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechend reservieren können.",
       "link": "https://www.timsbaz.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "76aae5f3de3eea1ebefea845008d59e0792a0ed6b0741240497f02f81ff8a3e9"
     },
     "style": {
@@ -2895,12 +2903,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "start": "2025-03-24 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1967",
+      "start": "2025-04-28 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1968",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
-      "attendees": 2,
+      "attendees": 0,
       "nostr_note": "97acdf02e5209344b32e9249c5b9745dbf8891f832d44556e18b42cea924193e"
     },
     "style": {
@@ -3398,7 +3406,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 29.03.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
       "link": null,
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "7724d05e4d759d497885029326c6cb498f2ed6b24004a8d863dc58630e12bf17"
     },
     "style": {
