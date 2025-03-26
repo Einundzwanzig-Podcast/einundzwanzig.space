@@ -379,7 +379,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2025-03-26 19:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2165",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #9",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]\n\nWann: Mittwoch, 26. März 2025, 20:30 Uhr lokale Zeit (CET), Blockzeit ~889.521\n\n​Ort diesmal: Online über jitsi\n\n",
+      "link": "https://lu.ma/0au1cb2b",
+      "attendees": 0,
+      "nostr_note": "f84492f054f360e55072c110320a4b114ee16a392e3ebd0d2728c5abc2f6ff66"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1838,7 +1846,7 @@
       "location": "Brauerei Ausschank am Zoo, Graf-Recke-Straße 103, 40239 Düsseldorf ",
       "description": "Regelmäßiges Treffen jeden 4. Mittwoch im Monat. Diesmal zum 2. mal an neuer Location.\n\nSagt gerne hier, oder in der Telegramgruppe zu, damit wir eine entsprechend reservieren können.",
       "link": "https://www.timsbaz.de/",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "76aae5f3de3eea1ebefea845008d59e0792a0ed6b0741240497f02f81ff8a3e9"
     },
     "style": {
@@ -3327,7 +3335,7 @@
     "event": {
       "start": "2025-04-04 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1741",
-      "location": "Wird noch bekanntgegeben ",
+      "location": "Cafe Froschberg",
       "description": null,
       "link": null,
       "attendees": 1,
