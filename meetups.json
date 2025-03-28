@@ -1250,12 +1250,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "start": "2025-03-27 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1407",
+      "start": "2025-04-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1408",
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "c83321f3c2d83f38d7b7581fe400f60f71a1e879b79353c453a8accb66405991"
     },
     "style": {
@@ -1528,7 +1528,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Meetup im Herzwerk (neue Location)\n\nHerzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Thema im Workshop: Specter, Hardware Wallet selbst bauen. Beginn des Meetups ist um 19:30 Uhr. Teilnehmer die sich ihre eigene Wallet bauen möchten, melden sich zeitnah bei @schnuartz (Telegram). Workshopbeginn 17:30 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin  …Plebs together strong.",
       "link": "",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "79ec03c8dfa7b04cb2dac48b928385d730fb72015c5ad78133c72caa3d5d09e6"
     },
     "style": {
@@ -1584,8 +1584,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
     "event": {
-      "start": "2025-03-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1446",
+      "start": "2025-04-25 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1447",
       "location": "Wird in der Telegram-Gruppe bekanntgegeben",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei! \nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
@@ -1846,7 +1846,7 @@
       "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -2593,7 +2593,15 @@
     "city": "Schweinfurt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-04-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2167",
+      "location": "Restaurant AN",
+      "description": null,
+      "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
+      "attendees": 2,
+      "nostr_note": "ee1191afa4901eecb3ef5afd3801f804f2700c1ae0baf6904e94f3e36ef1c7c8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2934,11 +2942,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2025-03-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1954",
+      "start": "2025-04-24 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1955",
       "location": "\"Das 60/40\" am Schlachthof Wiesbaden",
       "description": "Komm gern zum monatlich stattfindenden Meetup von Einundzwanzig Wiesbaden dazu und komme mit Leuten zusammen, die sich mit dem Thema Bitcoin bereits länger befassen, oder um Deine offenen Fragen beantwortet zu bekommen.\n\nEgal, ob seit Jahren schon dabei oder noch am Eingangstor stehend und völlig unbedarft. Bei uns bist Du richtig!\n\nJeder ist Willkommen!!",
-      "link": "https://maps.app.goo.gl/paR2Th66ECw7hWjo8",
+      "link": "https://maps.app.goo.gl/vQTpxKJZm7zAn2nTA",
       "attendees": 0,
       "nostr_note": ""
     },
