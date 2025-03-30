@@ -1,20 +1,5 @@
 [
   {
-    "name": "1. Meetup Münchberg ",
-    "latLng": [
-      50.191189,
-      11.78886
-    ],
-    "url": null,
-    "city": "Münchberg",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/1-meetup-muenchberg",
-    "twitter": "@Fichtelcoiner",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "21 Bitcoin Meetup Zypern",
     "latLng": [
       34.772015,
@@ -433,8 +418,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-03-29 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1902",
+      "start": "2025-04-12 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1903",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
@@ -1946,15 +1931,7 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-03-29 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2143",
-      "location": "Neubrandenburg ",
-      "description": "Es ist wieder soweit! Am 29.03.2025 findet das zweite Einundzwanzig Neubrandenburg Bitcoin Only Meetup im MyArea Coworking Space in Neubrandenburg statt.\n\n📍 Location: MyArea Coworking Space\n    Treptower Str.1, \n    17033 Neubrandenburg \n    (Direkt über Mamas Food) \n🕒 Einlass: 15:00 Uhr\n🥤 Getränke: Softdrinks & Kaffee sind  \n    vorhanden und per Lightning zahlbar\n🍽 Essen: ist nicht verfügbar.\n\nEgal, ob du Anfänger, Fortgeschrittener ,Profi oder Bitcoin Maxi bist – jeder ist willkommen, der sich für Bitcoin interessiert, sich austauschen möchte oder aktiv zur Bitcoin-Adoption in Neubrandenburg und in der Mecklenburgischen Seenplatte beitragen will.\n\n🔥 Besonderes Highlight: Eine kleine Überraschung ist geplant – mehr wird aber noch nicht verraten!\n\nKomm vorbei, vernetze dich und lass uns gemeinsam Bitcoin in unserer Region voranbringen! ⚡",
-      "link": "https://maps.app.goo.gl/tgiHeX2sVvsbjsrw6?g_st=com.google.maps.preview.copy",
-      "attendees": 1,
-      "nostr_note": "bf15821774e5ea3503d13ce8ea80d434ed6bc2df093eb049c1baa2b5cbbd6f12"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2450,7 +2427,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2025-04-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2168",
+      "location": "Wird in der Telegram-Gruppe abgesprochen",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "557c79bcd0734407e305f23779a5142d0e815d676e85415bc1c7c6f6a6254e6c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3075,6 +3060,21 @@
     }
   },
   {
+    "name": "Münchberg ",
+    "latLng": [
+      50.191189,
+      11.78886
+    ],
+    "url": "t.me/Einundzwanzig.münchberg",
+    "city": "Münchberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
+    "twitter": "Fichtelcoiner",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Satoshis Coffeeshop",
     "latLng": [
       48.1371079,
@@ -3408,15 +3408,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "start": "2025-03-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2126",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 29.03.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "7724d05e4d759d497885029326c6cb498f2ed6b24004a8d863dc58630e12bf17"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
