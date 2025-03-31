@@ -367,9 +367,9 @@
     "event": {
       "start": "2025-04-02 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2166",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306490409/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n[...]\n\nOrt diesmal: Königlicher Hirschgarten (Innenbereich / Restaurant), Hirschgarten 1, 80639 München",
+      "link": "https://lu.ma/lhztc4az",
       "attendees": 0,
       "nostr_note": "0b91723bfe9eed5349b80ece34f21776d2feaf68a487ebaca0148be803118dcd"
     },
@@ -863,15 +863,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "start": "2025-03-30 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2162",
-      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig am letzten Sonntag im Monat in der Chamer Wasserwirtschaft. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
-      "nostr_note": "3fc1b41ae1eb8884f3ff2964b37c6a9e521dc15488d19bcbede5ff126022c3e6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -909,7 +901,15 @@
     "city": "Einundzwanzig Detmold/Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-04-05 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2169",
+      "location": "Cafe Mix, Detmold, Meierstr. 12",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "ee44962360a2c28444fd9b21c86a0b2ef5fcfc7dcc110c200e856381a0de7340"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2412,7 +2412,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-04-25 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2180",
+      "location": "Bekanntgabe der Location folgt...",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4bb64cc37eaaef25896c8d4c9381adffb0fbc9d96ab0dc7bbdc9fe43015e0664"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3408,7 +3416,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "start": "2025-05-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2179",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 02.05.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "49e7ee003eae85363ef7579809ca95031f2bc74b507b871bc5baa684906d2bb5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
