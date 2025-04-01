@@ -43,8 +43,8 @@
       "start": "2025-04-12 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2155",
       "location": "Paphos, Zypern",
-      "description": "21 Bitcoin Meetup Zypern - Paphos, Universal\n",
-      "link": "https://www.elysia-park.com/restaurants-bars/",
+      "description": "21 Bitcoin Meetup Zypern - Paphos\n",
+      "link": "https://g.co/kgs/7VsvYpX",
       "attendees": 11,
       "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
     },
@@ -841,7 +841,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-04-09 17:00:00",
+      "start": "2025-04-16 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2098",
       "location": null,
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
@@ -2775,7 +2775,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-04-19 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2181",
+      "location": "Radis Stacks",
+      "description": "Diesmal wird es einen Privacy Vortrag zum Thema Android, Browser, DNS, Google etc. von Sirius geben.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "a69074dc12d54cfa14ba047e814df30125a83131eab6362b21561fbc7260b405"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3178,7 +3186,7 @@
       52.1315889,
       11.6399609
     ],
-    "url": "https://t.me/bitcoinmagdeburg",
+    "url": "https://t.me/tillheisenberg",
     "city": "Magdeburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-magdeburg",
     "twitter": null,
@@ -3346,7 +3354,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 5,
       "nostr_note": "d2c99a6c266d4d10ede540b499877409c9b916a1a904882fffe3dce5c5f225fb"
     },
     "style": {
