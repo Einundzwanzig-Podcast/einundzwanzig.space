@@ -970,13 +970,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-04-04 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1686",
-      "location": "Schwäbisch Gmünd",
-      "description": "Gemeinsames meetup mit 21Remstal",
-      "link": "http://www.osteria-gmuend.de/",
-      "attendees": 2,
-      "nostr_note": "5602027279118b6f2c3c726efa43893a7d1c58050ed5cd029d40b409d4f86a41"
+      "start": "2025-05-02 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1687",
+      "location": "Ellwangen ",
+      "description": "Bistro Altstadt Ellwangen ",
+      "link": "https://www.bistro-altstadt.de/bistro_neu/",
+      "attendees": 0,
+      "nostr_note": "adc945712af9453db568a85e0598e36847e3461a843c7a5a80a678cbc8c6d66d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2082,8 +2082,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-04-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1428",
+      "start": "2025-05-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1429",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -3356,15 +3356,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-04-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1741",
-      "location": "Cafe Froschberg",
-      "description": null,
-      "link": null,
-      "attendees": 5,
-      "nostr_note": "d2c99a6c266d4d10ede540b499877409c9b916a1a904882fffe3dce5c5f225fb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
