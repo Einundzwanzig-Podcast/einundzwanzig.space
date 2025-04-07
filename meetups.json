@@ -45,7 +45,7 @@
       "location": "Paphos, Zypern",
       "description": "21 Bitcoin Meetup Zypern - Paphos\n",
       "link": "https://g.co/kgs/7VsvYpX",
-      "attendees": 13,
+      "attendees": 14,
       "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
     },
     "style": {
@@ -2843,15 +2843,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "start": "2025-04-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2152",
-      "location": "Wittlich",
-      "description": "Meetup in der Brasserie Balthazar. ",
-      "link": "https://g.co/kgs/3XT6Ni5",
-      "attendees": 0,
-      "nostr_note": "909702f763eac98555a5e127f29bcca470d2a1c6d8ee739eeef4c76abf8c53f0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3297,6 +3289,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-autobahn-a9",
     "twitter": "einundzwanzig_a9",
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Braunau",
+    "latLng": [
+      48.258869,
+      13.03529
+    ],
+    "url": "ChriSp",
+    "city": "Braunau am Inn",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
+    "twitter": "tschahnschpange",
+    "event": {
+      "start": "2025-05-09 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2184",
+      "location": "Pommers Schlosstaverne Ranshofen, ",
+      "description": "Für Bitcoiner und Neugierige",
+      "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "ffe1f801827a8aedfcf170144f2581077bb3b5d0210e0175aceb4a52febd1086"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
