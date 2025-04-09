@@ -45,7 +45,7 @@
       "location": "Paphos, Zypern",
       "description": "21 Bitcoin Meetup Zypern - Paphos\n",
       "link": "https://g.co/kgs/7VsvYpX",
-      "attendees": 14,
+      "attendees": 17,
       "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
     },
     "style": {
@@ -251,13 +251,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-04-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1984",
+      "start": "2025-05-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1985",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "f874d2d3b99e49641c7bfd55659ff0c96a60883b206b29160dee27256d004c8d"
+      "nostr_note": "b6160ef2dd05196fc7c2b02ffa3383e43ed8fd584f45b72e05e0b20dd47ff360"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -500,7 +500,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-04-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2198",
+      "location": "Hopfendolde, Feilitzschstraße 17, 80802 München",
+      "description": "Entspanntes Beisammensein, günstige Drinks, Essen kann mitgebracht werden",
+      "link": "https://maps.app.goo.gl/9eDqcsn2CgNHqAVg9?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "493c431a1f951d51e1f0241b7492d86194e5d534ac668d9092afff07c2eb653d"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -916,15 +924,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "start": "2025-04-09 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2157",
-      "location": "Reisbach",
-      "description": "Am Mittwoch 9. April ab 18:30 findet der 5. Stammtisch Einundzwanzig Dingolfing-Landau statt. Genaue Eventlocation wird in der Telegram Gruppe bekanntgegeben.\n\nhttps://t.me/einundzwanzig_dgf",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "16ba1cad28ae80120739c4f9c600ecd70bcbf37b9dd8fa17053b70c48c500a22"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1023,8 +1023,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-04-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1850",
+      "start": "2025-05-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1851",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -1497,7 +1497,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Meetup im Herzwerk (neue Location)\n\nHerzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Thema im Workshop: Specter, Hardware Wallet selbst bauen. Beginn des Meetups ist um 19:30 Uhr. Teilnehmer die sich ihre eigene Wallet bauen möchten, melden sich zeitnah bei @schnuartz (Telegram). Workshopbeginn 17:30 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin  …Plebs together strong.",
       "link": "",
-      "attendees": 15,
+      "attendees": 18,
       "nostr_note": "79ec03c8dfa7b04cb2dac48b928385d730fb72015c5ad78133c72caa3d5d09e6"
     },
     "style": {
@@ -2689,7 +2689,7 @@
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "190dc59d6e3d8f41f86306da4feb9f0ed9ef6b931722dee47bacbcd8c9df8d59"
     },
     "style": {
@@ -3363,7 +3363,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-05-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2197",
+      "location": "Cafe Froschberg",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "20c2c57cf3bb3757799c4b4d90d40cb4d35625b328d273a2c13407e75976d3a3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
