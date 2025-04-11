@@ -1491,15 +1491,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2025-04-10 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2159",
-      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
-      "description": "Meetup im Herzwerk (neue Location)\n\nHerzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Thema im Workshop: Specter, Hardware Wallet selbst bauen. Beginn des Meetups ist um 19:30 Uhr. Teilnehmer die sich ihre eigene Wallet bauen möchten, melden sich zeitnah bei @schnuartz (Telegram). Workshopbeginn 17:30 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin  …Plebs together strong.",
-      "link": "",
-      "attendees": 19,
-      "nostr_note": "79ec03c8dfa7b04cb2dac48b928385d730fb72015c5ad78133c72caa3d5d09e6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1651,7 +1643,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-04-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2201",
+      "location": "Weilheim Gaststätte Dachs Bräustüberl",
+      "description": "Herzlich Willkommen zu unserem vierten Bitcoin Stammtisch im Lechrain.\nWANN: Dienstag 22.04.2025 ab 18:00Uhr\nWO: Weilheim Gaststätte Dachs Bräustüberl\nWER: egal ob Neuling oder Alter Hase, jeder darf kommen!",
+      "link": "https://www.dachsbier.de/#braeustueberl",
+      "attendees": 1,
+      "nostr_note": "ac603735da82221c21eecbfb494a9cadd68a33a245d1a9f07734ebe106733813"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2426,6 +2426,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Rügen",
+    "latLng": [
+      54.308369,
+      13.682095
+    ],
+    "url": "https://t.me/+H0HzLGIHbihiNzAy",
+    "city": "Insel Rügen",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ruegen",
+    "twitter": "BLOCK_MASTER_",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Saarbrücken",
     "latLng": [
       49.234779,
@@ -2684,13 +2699,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-04-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2031",
+      "start": "2025-05-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2032",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
-      "attendees": 2,
-      "nostr_note": "190dc59d6e3d8f41f86306da4feb9f0ed9ef6b931722dee47bacbcd8c9df8d59"
+      "attendees": 0,
+      "nostr_note": "c500518e29b629810a395e03a7359c3e27c3f617250d7d6386bd5351ed6b914c"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4026,7 +4041,15 @@
     "city": "Warszawa",
     "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-warszawa",
     "twitter": "21BitcoinPolska",
-    "event": null,
+    "event": {
+      "start": "2025-04-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/2199",
+      "location": "BarBazaar",
+      "description": "Local bitcoiners community meetup, polish maxis being behind Bitcoin FilmFest, Alby, Yana, Quark and many more initiatives. Open to everyone interested in the largest freedom revolution of our times.\n\nFriendly community in the most bitcoin-friendly bar in Warsaw.\n\n",
+      "link": "https://www.meetup.com/pl-PL/bitcoin-warsaw/events/307113959/?eventOrigin=home_page_upcoming_events%24all",
+      "attendees": 1,
+      "nostr_note": "fbfd9df154658b251826d8788f6c4f08848e09c1b3192f3abcaf6e961aeb3cf3"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
