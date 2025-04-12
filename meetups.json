@@ -1129,13 +1129,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
     "event": {
-      "start": "2025-04-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1697",
-      "location": "Wird in Telegram bekannt gegeben",
+      "start": "2025-06-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1698",
+      "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
       "attendees": 0,
-      "nostr_note": "30a616a77efe110184d25db0a92e9b0a5a37c7d1bb7c43cbc7503317690db626"
+      "nostr_note": "d88aa957be0086c54bb51a9069ee24811de451a85497b0dfdba288063725ccc5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1573,7 +1573,7 @@
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -1590,15 +1590,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-04-11 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2182",
-      "location": "Landau in der Pfalz",
-      "description": "Details in den verlinkten Gruppen",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "0f5f8f2d7959cb725ab0beb9e55b40b21919e3c5abdeb63e41c0d02b52143dba"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2737,9 +2729,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stuttgart",
     "twitter": "EinundzwanzigS",
     "event": {
-      "start": "2025-04-11 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/703",
-      "location": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
+      "start": "2025-05-09 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/704",
+      "location": "tialini | Stuttgart Bolzstraße 10, 70173 Stuttgart",
       "description": "Stuttgart Meet Up: Jeden 2. Freitag im Monat.\n\nAktuell treffen wir uns sehr zentral im tialini.",
       "link": "https://maps.app.goo.gl/TqCCC5LcN8ecFpT68",
       "attendees": 0,
@@ -2760,13 +2752,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-04-11 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2064",
+      "start": "2025-05-09 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2065",
       "location": "Dons Diner in Höckelheim",
       "description": null,
       "link": "https://www.dons-diner.de/",
       "attendees": 0,
-      "nostr_note": "cd1c3539f9fb5037f97b10034ba207abafaf73bf912287d01abd88de9840d071"
+      "nostr_note": "2c97e787d15421aebb4765380f368958b847444565dc4b24d55fa3f56d0259c2"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4042,13 +4034,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-warszawa",
     "twitter": "21BitcoinPolska",
     "event": {
-      "start": "2025-04-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/2199",
-      "location": "BarBazaar",
-      "description": "Local bitcoiners community meetup, polish maxis being behind Bitcoin FilmFest, Alby, Yana, Quark and many more initiatives. Open to everyone interested in the largest freedom revolution of our times.\n\nFriendly community in the most bitcoin-friendly bar in Warsaw.\n\n",
-      "link": "https://www.meetup.com/pl-PL/bitcoin-warsaw/events/307113959/?eventOrigin=home_page_upcoming_events%24all",
+      "start": "2025-05-22 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/2200",
+      "location": "Samocentrum Warszawa",
+      "description": "Bitcoin Pizza Day 🍕 🇵🇱\n\nEuropean Bitcoin Pizza Day in Warsaw! Let's celebrate 15th anniversary of the first Bitcoin purchase ever.\n📌 Samocentrum Warszawa start: 5PM\n2 pizzas for 10,000 sats\n\nmeet 200 bitcoiners\nenjoy concerts and a good weather\nDay 0. of Bitcoin FilmFest\n\n------------- powered by: Dwadzieścia Jeden Bitcoin FilmFest Cryptosteel\n",
+      "link": "https://www.meetup.com/pl-PL/bitcoin-warsaw/events/306833051/",
       "attendees": 1,
-      "nostr_note": "fbfd9df154658b251826d8788f6c4f08848e09c1b3192f3abcaf6e961aeb3cf3"
+      "nostr_note": "9a2167e62d365c0d9a1ae8c1037f14d72501d5cf7e11c4bd58bbf15d2c80358f"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
