@@ -39,15 +39,7 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "start": "2025-04-12 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2155",
-      "location": "Paphos, Zypern",
-      "description": "21 Bitcoin Meetup Zypern - Paphos\n",
-      "link": "https://g.co/kgs/7VsvYpX",
-      "attendees": 17,
-      "nostr_note": "af129987a4f436ebe07ba7367fa5f582a9532ab81fcf6b1ffeab262e12ac1521"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -418,8 +410,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-04-12 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1903",
+      "start": "2025-04-26 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1904",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
@@ -975,7 +967,7 @@
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "adc945712af9453db568a85e0598e36847e3461a843c7a5a80a678cbc8c6d66d"
     },
     "style": {
@@ -1066,7 +1058,7 @@
       "location": "Fürth",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "c5df9bc614d7e682723ac055c5be6dd05210f5869e3206aa99e8398c2f713c58"
     },
     "style": {
@@ -3129,7 +3121,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-04-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2202",
+      "location": "Blauer Adler",
+      "description": "Gute Gespräche gute Leute",
+      "link": "https://maps.app.goo.gl/obXZ54hc34zJUUGy8",
+      "attendees": 0,
+      "nostr_note": "76ad1ec35e73fd4927b3d7e1b2e37c9bbfaa50bf1144732ff77ba8eab497ca43"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3376,7 +3376,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "20c2c57cf3bb3757799c4b4d90d40cb4d35625b328d273a2c13407e75976d3a3"
     },
     "style": {
