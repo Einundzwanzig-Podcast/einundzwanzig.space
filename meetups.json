@@ -39,7 +39,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-05-09 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2203",
+      "location": "Paphos",
+      "description": "Wir treffen uns diesmal im ------------------- Location folgt! ;)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -554,8 +562,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-04-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1811",
+      "start": "2025-05-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1812",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
@@ -2554,7 +2562,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2025-04-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2204",
+      "location": "Zum Kuckuck VS-Villingen",
+      "description": "Kommt vorbei bei unserem Meetup im Restaurant \"Zum Kuckuck\" in VS.\nEintritt zollfrei 😅",
+      "link": "https://g.co/kgs/WLQUDwF",
+      "attendees": 1,
+      "nostr_note": "acfbe5dd79ccdcdf7401026386b1c52de5e679e14d7d213bb92d491f90e140db"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
