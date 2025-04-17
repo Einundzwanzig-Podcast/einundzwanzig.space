@@ -886,7 +886,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-06 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2209",
+      "location": "Lilienschänke",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "90384e4aa16efe46255fd5bcce1bb8d624b07612cb3d86507a601ee445852e62"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1576,12 +1584,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-04-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1823",
-      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
-      "description": "Mit Vortrag und Quiz von @c0inzy und @actionslave",
+      "start": "2025-05-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1824",
+      "location": "",
+      "description": "Bitcoin Pizza Day!!!",
       "link": null,
-      "attendees": 2,
+      "attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -2586,15 +2594,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2025-04-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2204",
-      "location": "Zum Kuckuck VS-Villingen",
-      "description": "Kommt vorbei bei unserem Meetup im Restaurant \"Zum Kuckuck\" in VS.\nEintritt zollfrei 😅",
-      "link": "https://g.co/kgs/WLQUDwF",
-      "attendees": 6,
-      "nostr_note": "acfbe5dd79ccdcdf7401026386b1c52de5e679e14d7d213bb92d491f90e140db"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3484,7 +3484,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 02.05.25, ab 18h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "49e7ee003eae85363ef7579809ca95031f2bc74b507b871bc5baa684906d2bb5"
     },
     "style": {
