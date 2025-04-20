@@ -1066,7 +1066,7 @@
       "location": "Fürth",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "c5df9bc614d7e682723ac055c5be6dd05210f5869e3206aa99e8398c2f713c58"
     },
     "style": {
@@ -1831,7 +1831,7 @@
       "location": "Uerige am Markt · Bogenstraße 22, 40227 Düsseldorf",
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": "https://www.uerige-am-markt.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -2798,15 +2798,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-04-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2181",
-      "location": "Radis Stacks",
-      "description": "Diesmal wird es einen Privacy Vortrag zum Thema Android, Browser, DNS, Google etc. von Sirius geben.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a69074dc12d54cfa14ba047e814df30125a83131eab6362b21561fbc7260b405"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2988,8 +2980,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-04-19 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1053",
+      "start": "2025-05-17 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1054",
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
@@ -3494,13 +3486,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-04-19 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1237",
+      "start": "2025-05-17 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1238",
       "location": "Passau oder Schärding",
-      "description": "43. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "44. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "8bffe4862dfa322031f8bc2338376a09af18df3ec3ca4e72092d16a864aa4354"
+      "nostr_note": "31b4ae19518052ee5601f27c64db57fa3cb538b06e7d31d3874d52595d81cc3d"
     },
     "style": {
       "fill": "var(--color-accent)"
