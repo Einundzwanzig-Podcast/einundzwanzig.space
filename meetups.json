@@ -365,13 +365,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-05-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2178",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786194/",
+      "start": "2025-04-23 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2218",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #10",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]",
+      "link": "https://lu.ma/55tb4f49",
       "attendees": 0,
-      "nostr_note": "6f1906112cb4538e96c71d9fd9455a054ecf7ab87b611381132bb41fc752bea1"
+      "nostr_note": "224c3c872bff6d01bef7943d9b7b73a48361fca176a6a4bd6fd53f793ec11484"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1058,7 +1058,7 @@
       "location": "Fürth",
       "description": null,
       "link": null,
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "c5df9bc614d7e682723ac055c5be6dd05210f5869e3206aa99e8398c2f713c58"
     },
     "style": {
@@ -1423,7 +1423,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-04-25 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2219",
+      "location": "Zarillo beim Audi Kreisel",
+      "description": "Midweek Stammtisch\n\nBesucht uns ganz spontan oder gerne auch mit Anmeldung beim Midweek Stammtisch Ingolstadt.\n\nParkplätze sind vor dem Haus vorhanden",
+      "link": "https://maps.app.goo.gl/rBTYE4ZXKTjVQkibA",
+      "attendees": 0,
+      "nostr_note": "2d2bfa7f8bd89a3618721bfe4a1a6fa54f6e2b338d34c04e43abfb6ed6806034"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1643,15 +1651,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-04-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2201",
-      "location": "Weilheim Gaststätte Dachs Bräustüberl",
-      "description": "Herzlich Willkommen zu unserem vierten Bitcoin Stammtisch im Lechrain.\nWANN: Dienstag 22.04.2025 ab 18:00Uhr\nWO: Weilheim Gaststätte Dachs Bräustüberl\nWER: egal ob Neuling oder Alter Hase, jeder darf kommen!",
-      "link": "https://www.dachsbier.de/#braeustueberl",
-      "attendees": 1,
-      "nostr_note": "ac603735da82221c21eecbfb494a9cadd68a33a245d1a9f07734ebe106733813"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1823,7 +1823,7 @@
       "location": "Uerige am Markt · Bogenstraße 22, 40227 Düsseldorf",
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": "https://www.uerige-am-markt.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -2397,15 +2397,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-04-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2207",
-      "location": "Hilpoltstein Restaurant Il Gusto",
-      "description": null,
-      "link": "https://www.il-gusto-hip.de",
-      "attendees": 1,
-      "nostr_note": "7830bd6c96fff29f8244f946de435ff890d441b324fca12c810a897d5ba929e2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
