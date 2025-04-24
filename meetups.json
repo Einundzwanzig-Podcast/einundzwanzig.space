@@ -303,15 +303,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-ungueltige-seite-kann-geloescht-werden",
     "twitter": "21",
-    "event": {
-      "start": "2025-04-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1681",
-      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "13. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar. Rumbar Unity - 19053 Schwerin, Arsenalstraße 36 JEDER ist Willkommen! Wir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss... Jedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat! In der Bar kann beim Barbesitzer (oder mittlerweile auch bei der Mitarbeiterin) mit Bitcoin-Lightning oder Onchain BTC bezahlt werden. Aber auch wer sein Fiat-Geld los werden möchte kann dies natürlich gerne tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
-      "attendees": 0,
-      "nostr_note": "e57d49eb27b003b5bd1f188b1190a3b20ba506c47505e1c7754602bf08be827a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -341,15 +333,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-04-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1778",
-      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36\n\n13. Bitcoin Meetup Schwerin\n\nWir treffen uns regelmäßig. An jedem 3. Mittwoch im Monat (immer von den vollen Wochen des Monats ausgehend) um 19 Uhr in der Unity - Bar. Rumbar Unity - 19053 Schwerin, Arsenalstraße 36 JEDER ist Willkommen! Wir reden Bitcoin, über Ökonomie, Technik, Philosophie und über alles was ihr wollt oder euch in den Sinn kommt. Alles kann, nichts muss... Jedes Mal ist es eine neue Erfahrung mit bekannten und/oder neuen Gesichtern. Es ist einfach einer der schönsten Tage im Monat! In der Bar kann beim Barbesitzer (oder mittlerweile auch bei der Mitarbeiterin) mit Bitcoin-Lightning oder Onchain BTC bezahlt werden. Aber auch wer sein Fiat-Geld los werden möchte kann dies natürlich gerne tun.\n\nWir freuen uns auch euch!\n\nGruß Xellos (Admin der Einundzwanzig Schwerin Telegram-Gruppe)",
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-schwerin.html",
-      "attendees": 0,
-      "nostr_note": "7e3383fa290ea33efff72c683efd60bad3dd4d029907ef68822a3c9c6054d6a4"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -365,13 +349,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-04-23 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2218",
-      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #10",
-      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]",
-      "link": "https://lu.ma/55tb4f49",
+      "start": "2025-05-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2178",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786194/",
       "attendees": 0,
-      "nostr_note": "224c3c872bff6d01bef7943d9b7b73a48361fca176a6a4bd6fd53f793ec11484"
+      "nostr_note": "6f1906112cb4538e96c71d9fd9455a054ecf7ab87b611381132bb41fc752bea1"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1058,7 +1042,7 @@
       "location": "Fürth",
       "description": null,
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "c5df9bc614d7e682723ac055c5be6dd05210f5869e3206aa99e8398c2f713c58"
     },
     "style": {
@@ -1499,7 +1483,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-05-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2220",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "f2121e5c6941d800d12510e71d84fcd2f04da340ded213a537f180bcaa319430"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1818,12 +1810,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-04-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1837",
-      "location": "Uerige am Markt · Bogenstraße 22, 40227 Düsseldorf",
+      "start": "2025-05-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1838",
+      "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": "https://www.uerige-am-markt.de/",
-      "attendees": 4,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -2591,7 +2583,7 @@
       "location": "Restaurant AN",
       "description": null,
       "link": "https://maps.app.goo.gl/QYdStLagH2MUH7oP7",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "ee1191afa4901eecb3ef5afd3801f804f2700c1ae0baf6904e94f3e36ef1c7c8"
     },
     "style": {
@@ -3376,7 +3368,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "20c2c57cf3bb3757799c4b4d90d40cb4d35625b328d273a2c13407e75976d3a3"
     },
     "style": {
@@ -3396,7 +3388,7 @@
     "event": {
       "start": "2025-04-25 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1717",
-      "location": "Neusiedl am See, vermutlich Joe's Pub",
+      "location": "Neusiedl am See, Joe's Pub",
       "description": "Bitcoin Meetup Nordburgenland\nBitcoin, Pizza & Bier",
       "link": null,
       "attendees": 0,
@@ -3508,9 +3500,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-04-23 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1729",
-      "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "start": "2025-05-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1730",
+      "location": "Gasthaus Bierstindl (VIP-Garten), Klostergasse 6, 6020 Innsbruck, Tirol",
       "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
