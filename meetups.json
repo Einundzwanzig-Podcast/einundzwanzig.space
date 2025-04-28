@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-05-10 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2203",
+      "location": "Paphos",
+      "description": "Wir treffen uns diesmal im ------------------- Location folgt! ;)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -39,15 +47,7 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "start": "2025-05-09 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2203",
-      "location": "Paphos",
-      "description": "Wir treffen uns diesmal im ------------------- Location folgt! ;)",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -333,7 +333,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-05-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2221",
+      "location": "Wird in der Telegram-Gruppe bekanntgegeben ",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "75f35ee0750144dc2401fc60b9b956774ca39d82f012eb38c706f1ac476d6dc0"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1481,7 +1489,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "f2121e5c6941d800d12510e71d84fcd2f04da340ded213a537f180bcaa319430"
     },
     "style": {
