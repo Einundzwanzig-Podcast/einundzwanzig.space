@@ -83,6 +83,29 @@
     }
   },
   {
+    "name": "21Neumarkt",
+    "latLng": [
+      0,
+      0
+    ],
+    "url": "https://21Neumarkt.de",
+    "city": "92318 Neumarkt",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
+    "twitter": null,
+    "event": {
+      "start": "2025-05-15 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2224",
+      "location": "92318 Neumarkt ",
+      "description": null,
+      "link": "https://21neumarkt.de",
+      "attendees": 0,
+      "nostr_note": "99c7f4a9d99369ded11019b9d7d564cb794913e874a84cb72d784698e0e15a64"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Aschaffenburg",
     "latLng": [
       49.973019,
@@ -357,13 +380,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-05-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2178",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786194/",
+      "start": "2025-05-01 10:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2222",
+      "location": "₿🥾 Hiking / PlebWalk: Starnberg ➜ Maisinger Seehof",
+      "description": "Das Wetter wird gut. Darum plebwalken und pilgern wir wieder am Donnerstag, 01. Mai (Feiertag) von Starnberg aus zum Maisinger Seehof, zwischen dem Starnberger See und dem Ammersee gelegen, der Bitcoin akzeptiert.\n\n[...]",
+      "link": "https://lu.ma/3kapc60b",
       "attendees": 0,
-      "nostr_note": "6f1906112cb4538e96c71d9fd9455a054ecf7ab87b611381132bb41fc752bea1"
+      "nostr_note": "ee198c4e37769fb91de534529d1517d811f829a5312d4b55818be495bf9b51d3"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -976,7 +999,15 @@
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2223",
+      "location": "Restaurant Schwimmbad Jimmys Erding",
+      "description": "Erstes Erdinger Bitcoin Stammtisch treffen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "29dea8c8a0b00401022d476941e0cfe774eadcec5eab47a65faa28bf645fe334"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1953,7 +1984,15 @@
     "city": "Handeloh",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-24 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2225",
+      "location": "Der Schafstall, Am Büsenbach 35, 21256 Handeloh",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c75b2c5120a9f192d703df8c759c220246ce37532674a958df240301f7cd6b9a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2879,8 +2918,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "start": "2025-04-28 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1968",
+      "start": "2025-05-26 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1969",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
