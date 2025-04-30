@@ -13,7 +13,7 @@
       "start": "2025-05-10 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2203",
       "location": "Paphos",
-      "description": "Wir treffen uns diesmal im ------------------- Location folgt! ;)",
+      "description": "Wir treffen uns diesmal im Elysia Breeze Restaurant in Paphos, Universal",
       "link": null,
       "attendees": 1,
       "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
@@ -1518,9 +1518,9 @@
       "start": "2025-05-09 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2220",
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Mit Workshop \"Sicher zur eigenen Wallet\". Wer sein Hardware Wallet richtig kennen lernen oder erste Schritte unter Anleitung gehen möchte ist hier genau richtig. Eigenes Laptop und Wallet mitbringen. Workshop beginnt für die Teilnehmer ist schon um 18 Uhr. Im anschließenden Meetup (ab 19 Uhr) gibts ein Q&A zum Thema Wallets. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "f2121e5c6941d800d12510e71d84fcd2f04da340ded213a537f180bcaa319430"
     },
     "style": {
@@ -2674,6 +2674,29 @@
     }
   },
   {
+    "name": "Einundzwanzig Speyer",
+    "latLng": [
+      49.31728,
+      8.43101
+    ],
+    "url": "https://t.me/+hk2rwGlTQG43N2Ni",
+    "city": "Speyer / Neustadt",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-speyer",
+    "twitter": null,
+    "event": {
+      "start": "2025-05-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2233",
+      "location": "Infos in der Telegramm Gruppe",
+      "description": "Wir treffen uns regelmäßíg in Speyer / Umgebung. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Infos zu Terminen und Locations in der Telegramm Gruppe.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "3c467728bc7619ec07d667f9ddaf742536b68c530b7a3933d25e15302dbc38c6"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Spreewald ",
     "latLng": [
       51.850361,
@@ -3383,7 +3406,7 @@
       "location": "Cafe Froschberg",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "20c2c57cf3bb3757799c4b4d90d40cb4d35625b328d273a2c13407e75976d3a3"
     },
     "style": {
