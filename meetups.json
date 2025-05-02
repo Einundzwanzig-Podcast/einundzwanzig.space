@@ -2443,7 +2443,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-22 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2234",
+      "location": null,
+      "description": "Wir feiern den Bitcoin-Pizza-Day und gehen Pizza essen!\nBekanntgabe der genauen Location folgt..",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "8f6c443bb6fd171232f40547808ce953d2318263d45cc5480a69cb030fc5049c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
