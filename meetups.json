@@ -536,7 +536,7 @@
       "location": "siehe Telegram Gruppe",
       "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "0ea023e1d80314df80951675b6c257b89dd707cd2a7295b51508fe0a2c96e7c0"
     },
     "style": {
@@ -909,13 +909,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
     "event": {
-      "start": "2025-05-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2170",
+      "start": "2025-06-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2171",
       "location": "Cafe Mix, Detmold, Meierstr. 12",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "28899bda43c33eee2e31268cc3af4bf84f19190d7b3d08071e9feb6872429636"
+      "nostr_note": "3db34bdce65343846f8de05e00a34858cfb14ed2a6ca4140ba428ead6716df4c"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -931,7 +931,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-05-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2268",
+      "location": "Reisbach",
+      "description": "Am Mittwoch 7. Mai ab 18:00 findet der 6. Stammtisch Einundzwanzig Dingolfing-Landau beim Yushu in Reisbach statt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "1c30216d309cb2a1fb9236dfbcdd8062a31fb629709193ea1a9d9152d3252c05"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1932,8 +1940,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2025-05-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1381",
+      "start": "2025-06-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1382",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
@@ -3128,6 +3136,29 @@
     }
   },
   {
+    "name": "Rabbit Bitcoin Club Magdeburg",
+    "latLng": [
+      52.106242,
+      11.658656
+    ],
+    "url": "https://t.me/RabbitBitcoinClub",
+    "city": "Landeshauptstadt Magdeburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
+    "twitter": "Rabbit_BTC_Club",
+    "event": {
+      "start": "2025-05-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2235",
+      "location": "Magdeburg",
+      "description": "Solltest Du  Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen ein und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Span und Scan halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
+      "link": "https://www.instagram.com/rabbit.btc",
+      "attendees": 0,
+      "nostr_note": "d2f0e45665a830fe46a9c91ba49f528657deb05202f05419b0648c0b51efd918"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Satoshis Coffeeshop",
     "latLng": [
       48.1371079,
@@ -3484,7 +3515,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "start": "2025-05-30 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2267",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 30.05.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "83df9915909d082a9224ef5c45fb57ede0e5937789e6f74aa7f43eab55ea74a4"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
