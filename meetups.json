@@ -15,7 +15,7 @@
       "location": "Paphos",
       "description": "Wir treffen uns diesmal im Elysia Breeze Restaurant in Paphos, Universal",
       "link": null,
-      "attendees": 5,
+      "attendees": 7,
       "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
     },
     "style": {
@@ -531,8 +531,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanig-wandern-chiemgau-berchtesgarden",
     "twitter": null,
     "event": {
-      "start": "2025-05-04 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2011",
+      "start": "2025-07-06 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2012",
       "location": "siehe Telegram Gruppe",
       "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
       "link": null,
@@ -2331,7 +2331,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-05-08 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2269",
+      "location": "Rommelshausen ",
+      "description": "Im trattoria toscana rommelshausen",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 4,
+      "nostr_note": "ca95a54ec5ce4776cfaab1cb2b48d86ddb46b80f9166f6a2808523480578d8f5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2421,7 +2429,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2025-05-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2270",
+      "location": "Craftbar Margaretenstraße 41 18057 Rostock",
+      "description": "Moin Bitcoiner und Neugierige, es ist wieder soweit – der BitcoinWERFT e.V. lädt am 21. Mai herzlich ein! Dieses Mal treffen wir uns in entspannter Atmosphäre in der CRAFTBAR mitten in der KTV. Egal, ob du schon tief im Rabbit Hole unterwegs bist oder gerade erst deine ersten Sats stackst – bei uns findest du offene Ohren, spannende Gespräche und eine Community, die Bitcoin lebt. Ohne Vorträge, ohne Agenda – einfach entspanntes Networking bei einem guten Drink. Freu dich auf: - Austausch auf Augenhöhe rund um Bitcoin - Neue Gesichter und spannende Perspektiven - Tee, Kaffee, Wasser, Craftbier, Cocktails & ehrliche Gespräche Der Treff ist offen für alle – bring also gerne Freunde mit, die sich für Bitcoin interessieren! Wir freuen uns auf einen inspirierenden Abend mit dir. Dein BitcoinWERFT e.V.",
+      "link": "https://hast-du-zeit.com/termin/bestaetigung/neu/izK9CU4jPCQsNhK3D2zl",
+      "attendees": 0,
+      "nostr_note": "6af859f15b48d387602e950f1c285d2800f0088fcf60c7404240de3e7e70a737"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
