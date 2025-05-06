@@ -15,7 +15,7 @@
       "location": "Paphos",
       "description": "Wir treffen uns diesmal im Elysia Breeze Restaurant in Paphos, Universal",
       "link": null,
-      "attendees": 9,
+      "attendees": 10,
       "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
     },
     "style": {
@@ -893,15 +893,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-05-06 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2209",
-      "location": "Lilienschänke",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "nostr_note": "90384e4aa16efe46255fd5bcce1bb8d624b07612cb3d86507a601ee445852e62"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1478,8 +1470,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
     "event": {
-      "start": "2025-05-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1962",
+      "start": "2025-06-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1963",
       "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
       "description": null,
       "link": null,
@@ -2513,7 +2505,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2025-05-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2274",
+      "location": "Wird in der Telegram-Gruppe geklärt",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "69be4f02635598f48bf989404aaf4c472d6d59c6b9df40360cc7ac78468900a2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3553,7 +3553,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 30.05.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "83df9915909d082a9224ef5c45fb57ede0e5937789e6f74aa7f43eab55ea74a4"
     },
     "style": {
