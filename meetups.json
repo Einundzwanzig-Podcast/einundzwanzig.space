@@ -15,7 +15,7 @@
       "location": "Paphos",
       "description": "Wir treffen uns diesmal im Elysia Breeze Restaurant in Paphos, Universal",
       "link": null,
-      "attendees": 7,
+      "attendees": 9,
       "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
     },
     "style": {
@@ -382,9 +382,9 @@
     "event": {
       "start": "2025-05-07 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2178",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786194/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Alter Wirt Ramersdorf",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Alter Wirt Ramersdorf, Aribonenstraße 6, 81669 München",
+      "link": "https://lu.ma/yp39zmsv",
       "attendees": 0,
       "nostr_note": "6f1906112cb4538e96c71d9fd9455a054ecf7ab87b611381132bb41fc752bea1"
     },
@@ -591,7 +591,15 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": null,
+    "event": {
+      "start": "2025-05-15 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2272",
+      "location": "Zum Kotte am Pranger, 36304 Alsfeld",
+      "description": "Unser nächstes Meetup findet am 15.05. ab 18:30 in der Bar Zum Kotte am Pranger, Obergasse 1, 36304 Alsfeld statt.\nBitte gebt uns frühzeitig Bescheid ob ihr teilnehmen wollt um entsprechend reservieren zu können. ",
+      "link": "https://maps.app.goo.gl/Nh9QrNFTytSFLiyw6?g_st=com.google.maps.preview.copy",
+      "attendees": 1,
+      "nostr_note": "67f98d2e1355ee5fb4ad1560443b0d63396b9af33dc8c8219acff4407b5b5667"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1630,13 +1638,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2025-05-05 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2205",
+      "start": "2025-05-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2206",
       "location": "Landau in der Pfalz",
-      "description": "Maimarkt",
+      "description": "Pizzaday im Sapori",
       "link": null,
       "attendees": 0,
-      "nostr_note": "8ab7fbfbd998c75eb1a4ac78d534ae3833261581c2c2bc741e67faa1a3e86972"
+      "nostr_note": "81bcb670f0ab43a13244b84eaaa09fdf0a602149acda2d9d5d3efc67907365b3"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2337,7 +2345,7 @@
       "location": "Rommelshausen ",
       "description": "Im trattoria toscana rommelshausen",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "ca95a54ec5ce4776cfaab1cb2b48d86ddb46b80f9166f6a2808523480578d8f5"
     },
     "style": {
@@ -2835,7 +2843,7 @@
       "location": "Dons Diner in Höckelheim",
       "description": null,
       "link": "https://www.dons-diner.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "2c97e787d15421aebb4765380f368958b847444565dc4b24d55fa3f56d0259c2"
     },
     "style": {
@@ -3214,7 +3222,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2271",
+      "location": "Pepe im Cosmos",
+      "description": "Bitcoin Pizzaday!!! Unser Stammtisch feiert dieses Jahr wieder den Historischen Tag mit einer Pizza, Deshalb wird es im Mai sonst keinen Termin für einen Stammtisch geben. Anmeldung hier im Portal oder in der Telegram-Gruppe.",
+      "link": "https://maps.app.goo.gl/Tn7Luxnwq3ZD7kYbA",
+      "attendees": 2,
+      "nostr_note": "f7057dde5e44473de3e54d4b2726b87ca631b573245d8b155c2568c5d6cabbb9"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
