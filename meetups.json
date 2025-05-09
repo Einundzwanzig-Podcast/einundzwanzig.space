@@ -15,7 +15,7 @@
       "location": "Paphos",
       "description": "Wir treffen uns diesmal im Elysia Breeze Restaurant in Paphos, Universal",
       "link": null,
-      "attendees": 11,
+      "attendees": 12,
       "nostr_note": "2caa74a7e7057ba99e2b428da9017422326f108124aa3b4a9f806ddd5dbf286b"
     },
     "style": {
@@ -380,13 +380,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-06-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2273",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786195/",
+      "start": "2025-05-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2277",
+      "location": "₿🍕 Bitcoin Pizza Day 2025 — Romina's",
+      "description": "Am 22. Mai wird weltweit wieder der Bitcoin Pizza Day gefeiert, als zum ersten Mal Pizzen für Bitcoin gekauft wurden, damals für 10.000 bitcoin.\n\nIn München feiern wir das wieder im Romina's, eine Bar und geeignete Party-Location. Party-Pizzen werden voraussichtlich bestellt, ihr dürft dann gern Sats dafür spenden. Bei schönem Wetter sind wir im Außenbereich mit urbanem Flair.\n\n[...]",
+      "link": "https://lu.ma/g58hrx4f",
       "attendees": 0,
-      "nostr_note": "0fb32d51af6fcab5367346f71f96b81226e290a7d67fcbef38ba6ad3967f82fc"
+      "nostr_note": "c271a80a927c490759ce191d88bd75bfb683b0c4040f8c03fde4167654d509fe"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1076,12 +1076,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-05-24 17:00:00",
+      "start": "2025-05-23 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1929",
-      "location": "Bamberg",
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Bamberg, Café Miez ⚡️",
+      "description": "Café Miez ⚡️\nAu Straße 8\n96047 Bamberg",
+      "link": "https://maps.app.goo.gl/nt1cFDAsGYGH7G6y7",
+      "attendees": 2,
       "nostr_note": "00697c3ce13236776079f69dd0762f10c1eb5711fe34b69e2b855aff7ec1ab6a"
     },
     "style": {
@@ -1520,7 +1520,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Mit Workshop \"Sicher zur eigenen Wallet\". Wer sein Hardware Wallet richtig kennen lernen oder erste Schritte unter Anleitung gehen möchte ist hier genau richtig. Eigenes Laptop und Wallet mitbringen. Workshop beginnt für die Teilnehmer ist schon um 18 Uhr. Im anschließenden Meetup (ab 19 Uhr) gibts ein Q&A zum Thema Wallets. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "f2121e5c6941d800d12510e71d84fcd2f04da340ded213a537f180bcaa319430"
     },
     "style": {
@@ -2323,15 +2323,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-05-08 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2269",
-      "location": "Rommelshausen ",
-      "description": "Im trattoria toscana rommelshausen",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 5,
-      "nostr_note": "ca95a54ec5ce4776cfaab1cb2b48d86ddb46b80f9166f6a2808523480578d8f5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2444,7 +2436,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2275",
+      "location": "Schwabach Restaurant Mare e Monti",
+      "description": "Wir feiern den Bitcoin-Pizza-Tag",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b245ba1cb2cb14fb40ff953e8c3573489a99251982f31ae5018a0d04428e3363"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2497,15 +2497,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2025-05-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2274",
-      "location": "Wird in der Telegram-Gruppe geklärt",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "69be4f02635598f48bf989404aaf4c472d6d59c6b9df40360cc7ac78468900a2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2715,15 +2707,7 @@
     "city": "Speyer / Neustadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-speyer",
     "twitter": null,
-    "event": {
-      "start": "2025-05-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2233",
-      "location": "Infos in der Telegramm Gruppe",
-      "description": "Wir treffen uns regelmäßíg in Speyer / Umgebung. Egal ob du neu oder erfahren im Bitcoin Space bist, jeder ist willkommen. Infos zu Terminen und Locations in der Telegramm Gruppe.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "3c467728bc7619ec07d667f9ddaf742536b68c530b7a3933d25e15302dbc38c6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2769,13 +2753,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-05-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2032",
+      "start": "2025-06-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2033",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "c500518e29b629810a395e03a7359c3e27c3f617250d7d6386bd5351ed6b914c"
+      "nostr_note": "c20b3321dd63be03b359ab92cd27ba3912f29bf99d84ad50cc1e3782fb92b6ad"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3463,15 +3447,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-05-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2197",
-      "location": "Cafe Froschberg",
-      "description": null,
-      "link": null,
-      "attendees": 4,
-      "nostr_note": "20c2c57cf3bb3757799c4b4d90d40cb4d35625b328d273a2c13407e75976d3a3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
