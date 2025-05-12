@@ -523,13 +523,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanig-wandern-chiemgau-berchtesgarden",
     "twitter": null,
     "event": {
-      "start": "2025-05-11 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2278",
+      "start": "2025-07-06 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2012",
       "location": "siehe Telegram Gruppe",
-      "description": "Sonntag, 11. Mai 2025 um 10:00 Uhr - Treffpunkt @ siehe Telegram Gruppe\n\nMit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
-      "link": "https://t.me/+8a-wcyfC9tMwOTYy",
+      "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "e3191872f28afa095c772adc46d8731dc5f8fb315b8c6aa4523e707867b57963"
+      "nostr_note": "0ea023e1d80314df80951675b6c257b89dd707cd2a7295b51508fe0a2c96e7c0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -561,8 +561,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-05-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1812",
+      "start": "2025-06-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1813",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
@@ -2217,7 +2217,15 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-15 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2280",
+      "location": "Kaiserslautern Wurstküch",
+      "description": "Weitere Infos in der Gruppe",
+      "link": "https://t.me/einundzwanzigPfalz",
+      "attendees": 0,
+      "nostr_note": "98ed14e3c5c5e4c2b640636579437894dba5f58e3737b373928e3169192f652f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2812,7 +2820,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-05-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2279",
+      "location": "Radis Stacks",
+      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
+      "link": "https://radis-stacks.de",
+      "attendees": 0,
+      "nostr_note": "b4bf9c792462c4cf3910fe040322af3bf5b46b410fce9dace1124cec4c9448f6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
