@@ -107,7 +107,15 @@
     "city": "Aschaffenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
-    "event": null,
+    "event": {
+      "start": "2025-05-30 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2286",
+      "location": "Workspace Cocoon Burchardtstraße 28, 63741 Aschaffenburg",
+      "description": "Meetup inkl. Einsteigervortrag\n\nUnkostenpauschale 15€ (Softdrinks, alk. Getränke, Kaffee, Pizza etc.) inklusive\n",
+      "link": "https://www.the-cocoon.space/",
+      "attendees": 0,
+      "nostr_note": "807d3678df2ae2d5a4adeb1d39aca58c9a85f4d0fc1cc3d82be3ddc9471d7744"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1317,7 +1325,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-05-17 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2284",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 17.05.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten",
+      "link": "https://x.com/EinundzwanzigHN/status/1922228986601488656",
+      "attendees": 0,
+      "nostr_note": "baf6c1ea5a0b0621f7b931a2143e91e7d9731cf42baa737f1fa3056e18f08bc3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1348,8 +1364,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-05-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1863",
+      "start": "2025-06-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1864",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -1438,7 +1454,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-05-18 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2285",
+      "location": "Seehaus Ingolstadt (am Baggersee)",
+      "description": "Wir treffen uns im Seehaus Ingolstadt, direkt am schönen Baggersee, und genießen gemeinsam mediterranes Essen, gute Gespräche und eine entspannte Atmosphäre. Egal ob Bitcoiner, Neugierige oder einfach nur Genussmenschen – bei uns geht’s um Bitcoin und die Welt drumherum. Komm vorbei und sei dabei!",
+      "link": "https://maps.app.goo.gl/SfwhsoVYTcNW18oX7",
+      "attendees": 0,
+      "nostr_note": "e55411ae4608551558db32ee0dc625c1f6c433dee565e28290cf795fc919627b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1512,7 +1536,7 @@
       "location": "La Taverna - Lindauer Str. 5, 87435 Kempten (Allgäu)",
       "description": "3.Allgäuer Pizza Day.\nAuch dieses Jahr feiert die Kempten einundzwanzig Community den Pizzaday.\nJeder Bitcoiner oder \"noch\" NoCoiner ist herzlich willkommen.",
       "link": "https://maps.app.goo.gl/B2vNMUGuf8C1Csqy9",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "96fdf547b34598e51e65e23d517a4dfb04cfcbb6add9609a4a5765b84af06030"
     },
     "style": {
@@ -2231,7 +2255,7 @@
       "location": "Kaiserslautern Wurstküch",
       "description": "Weitere Infos in der Gruppe",
       "link": "https://t.me/einundzwanzigPfalz",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "98ed14e3c5c5e4c2b640636579437894dba5f58e3737b373928e3169192f652f"
     },
     "style": {
@@ -3455,7 +3479,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-06-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2283",
+      "location": "Café Froschberg ",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "03cf38121d7e9a9a40ca05ad034bf32e9bc585404b9c15860bdb2a24c92f414b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
