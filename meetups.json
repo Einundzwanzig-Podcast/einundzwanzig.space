@@ -84,15 +84,7 @@
     "city": "92318 Neumarkt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
     "twitter": null,
-    "event": {
-      "start": "2025-05-15 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2224",
-      "location": "92318 Neumarkt ",
-      "description": null,
-      "link": "https://21neumarkt.de",
-      "attendees": 0,
-      "nostr_note": "99c7f4a9d99369ded11019b9d7d564cb794913e874a84cb72d784698e0e15a64"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -591,15 +583,7 @@
     "city": "Alsfeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-alsfeld",
     "twitter": "EinundzwanzigVB",
-    "event": {
-      "start": "2025-05-15 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2272",
-      "location": "Zum Kotte am Pranger, 36304 Alsfeld",
-      "description": "Unser nächstes Meetup findet am 15.05. ab 18:30 in der Bar Zum Kotte am Pranger, Obergasse 1, 36304 Alsfeld statt.\nBitte gebt uns frühzeitig Bescheid ob ihr teilnehmen wollt um entsprechend reservieren zu können. ",
-      "link": "https://maps.app.goo.gl/Nh9QrNFTytSFLiyw6?g_st=com.google.maps.preview.copy",
-      "attendees": 1,
-      "nostr_note": "67f98d2e1355ee5fb4ad1560443b0d63396b9af33dc8c8219acff4407b5b5667"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1081,7 +1065,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/nt1cFDAsGYGH7G6y7",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "00697c3ce13236776079f69dd0762f10c1eb5711fe34b69e2b855aff7ec1ab6a"
     },
     "style": {
@@ -1528,7 +1512,7 @@
       "location": "La Taverna - Lindauer Str. 5, 87435 Kempten (Allgäu)",
       "description": "3.Allgäuer Pizza Day.\nAuch dieses Jahr feiert die Kempten einundzwanzig Community den Pizzaday.\nJeder Bitcoiner oder \"noch\" NoCoiner ist herzlich willkommen.",
       "link": "https://maps.app.goo.gl/B2vNMUGuf8C1Csqy9",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "96fdf547b34598e51e65e23d517a4dfb04cfcbb6add9609a4a5765b84af06030"
     },
     "style": {
@@ -2241,15 +2225,7 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "start": "2025-05-15 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2280",
-      "location": "Kaiserslautern Wurstküch",
-      "description": "Weitere Infos in der Gruppe",
-      "link": "https://t.me/einundzwanzigPfalz",
-      "attendees": 1,
-      "nostr_note": "98ed14e3c5c5e4c2b640636579437894dba5f58e3737b373928e3169192f652f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3477,7 +3453,7 @@
       "location": "Café Froschberg ",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "03cf38121d7e9a9a40ca05ad034bf32e9bc585404b9c15860bdb2a24c92f414b"
     },
     "style": {
