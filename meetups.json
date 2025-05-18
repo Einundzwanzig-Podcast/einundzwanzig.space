@@ -1301,15 +1301,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2025-05-17 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2284",
-      "location": "HN",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 17.05.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten",
-      "link": "https://x.com/EinundzwanzigHN/status/1922228986601488656",
-      "attendees": 0,
-      "nostr_note": "baf6c1ea5a0b0621f7b931a2143e91e7d9731cf42baa737f1fa3056e18f08bc3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1512,7 +1504,7 @@
       "location": "La Taverna - Lindauer Str. 5, 87435 Kempten (Allgäu)",
       "description": "3.Allgäuer Pizza Day.\nAuch dieses Jahr feiert die Kempten einundzwanzig Community den Pizzaday.\nJeder Bitcoiner oder \"noch\" NoCoiner ist herzlich willkommen.",
       "link": "https://maps.app.goo.gl/B2vNMUGuf8C1Csqy9",
-      "attendees": 7,
+      "attendees": 8,
       "nostr_note": "96fdf547b34598e51e65e23d517a4dfb04cfcbb6add9609a4a5765b84af06030"
     },
     "style": {
@@ -2820,15 +2812,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-05-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2279",
-      "location": "Radis Stacks",
-      "description": "Das Meetup ist wie immer im Stacks, hier könnt ihr natürlich mit Bitcoin zahlen⚡",
-      "link": "https://radis-stacks.de",
-      "attendees": 0,
-      "nostr_note": "b4bf9c792462c4cf3910fe040322af3bf5b46b410fce9dace1124cec4c9448f6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3018,8 +3002,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-05-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1054",
+      "start": "2025-06-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1055",
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
@@ -3547,13 +3531,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-05-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1238",
+      "start": "2025-06-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1744",
       "location": "Passau oder Schärding",
-      "description": "44. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "45. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "31b4ae19518052ee5601f27c64db57fa3cb538b06e7d31d3874d52595d81cc3d"
+      "nostr_note": "e4ceb8997d7812e2bc454f93fe01e6cc26ecefd77f590423f296e7e0f27733d0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3825,7 +3809,15 @@
     "city": "Basel",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-basel-bitcoin-basel",
     "twitter": "einundzwanzigBS",
-    "event": null,
+    "event": {
+      "start": "2025-06-07 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2287",
+      "location": "Grill&Chill, St Johanns Park, Basel",
+      "description": "Es ist wieder soweit. Das Grill & Chill Meetup in Basel ist zurück. Treffe Bitcoiner aus der Region, führe interessante Gespräche und verbringe einen gemütlichen Grill Nachmittag mit gleichgesinnten. Es sind sowohl Bitcoin OGs als auch Neulinge willkommen. \n\nMit Bitcoin Lightning kannst du vor Ort dein Bitcoin Bier von der Brauerei Locras Bräu bezahlen. \nEinen Grill sowie eine Kühlbox für dein Grillgut stellen wir für euch bereit. Den Rest müsst ihr selbst mitbringen. \n\nKomm in die Telegramm Gruppe für Fragen oder weitere Infos.",
+      "link": "https://bitcoin-basel.ch",
+      "attendees": 0,
+      "nostr_note": "456653331cc0d64b14751de87b281e6a83f2822f28a28748aa5bc05bde2cdcf6"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
