@@ -795,8 +795,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-05-27 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1647",
+      "start": "2025-05-28 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1651",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
@@ -1658,15 +1658,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-05-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2291",
-      "location": "82405 Wessobrunn",
-      "description": "Herzlich Willkommen zu unserem fünften Bitcoin Stammtisch im Lechrain. WANN: Montag 19.04.2025 ab 18:00Uhr WO: Wessobrunn Gasthof zur Post WER: egal ob Neuling oder Alter Hase, jeder darf kommen!",
-      "link": "https://www.post-wessobrunn.de/",
-      "attendees": 1,
-      "nostr_note": "71ed0f204081502a53b75220daf8b7971dd0a047258dfa240d7dd193d9d67173"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3005,7 +2997,7 @@
       48.5748229,
       13.4609744
     ],
-    "url": "https://t.me/Einundzwanzig_Passau",
+    "url": "https://t.me/Passau_Schaerding",
     "city": "Passau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
@@ -3194,9 +3186,9 @@
       "start": "2025-05-22 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2271",
       "location": "Pepe im Cosmos",
-      "description": "Bitcoin Pizza Day!!! Anmeldung ist leider vorbei und das Haus ist voll. \nAn alle die sich angemeldet haben, freu ich mich im \"Pepe im Cosmos\" anzutreffen.\nTisch ist auf \"Satoshi Nakamoto\" reserviert.\nPizzaofen goes BRRRR :P",
+      "description": "Bitcoin Pizza Day!!! Anmeldung ist leider vorbei und das Haus ist voll. \nAn alle die sich angemeldet haben, freu ich mich euch im \"Pepe im Cosmos\" anzutreffen.\nTisch ist auf \"Satoshi Nakamoto\" reserviert.\nPizzaofen goes BRRRR :P",
       "link": "https://maps.app.goo.gl/Tn7Luxnwq3ZD7kYbA",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "f7057dde5e44473de3e54d4b2726b87ca631b573245d8b155c2568c5d6cabbb9"
     },
     "style": {
@@ -3465,8 +3457,8 @@
     "event": {
       "start": "2025-05-23 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1719",
-      "location": "Neusiedl am See, vermutlich La Takeria",
-      "description": "Bitcoin Meetup Nordburgenland\nBitcoin, Burrito & Bier\n#LaserEyesTillFiatDies",
+      "location": "Neusiedl am See, Joe‘s Pub",
+      "description": "Bitcoin Meetup Nordburgenland\nBitcoin, Pizza & Bier\n#LaserEyesTillFiatDies",
       "link": null,
       "attendees": 0,
       "nostr_note": "36b189bca34f0a98e37ca668b68c6be58e438522c9403c375eec4ee5e7198ffc"
