@@ -1073,7 +1073,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/nt1cFDAsGYGH7G6y7",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "00697c3ce13236776079f69dd0762f10c1eb5711fe34b69e2b855aff7ec1ab6a"
     },
     "style": {
@@ -1504,7 +1504,7 @@
       "location": "La Taverna - Lindauer Str. 5, 87435 Kempten (Allgäu)",
       "description": "3.Allgäuer Pizza Day.\nAuch dieses Jahr feiert die Kempten einundzwanzig Community den Pizzaday.\nJeder Bitcoiner oder \"noch\" NoCoiner ist herzlich willkommen.",
       "link": "https://maps.app.goo.gl/B2vNMUGuf8C1Csqy9",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "96fdf547b34598e51e65e23d517a4dfb04cfcbb6add9609a4a5765b84af06030"
     },
     "style": {
@@ -3401,7 +3401,15 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-05-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2321",
+      "location": "Restaurant Plaschlhof, Wartberg an der Krems, Sportplatzweg 1",
+      "description": null,
+      "link": "https://maps.app.goo.gl/LcxTNdMuGyvJGwCd9?g_st=com.google.maps.preview.copy",
+      "attendees": 2,
+      "nostr_note": "b6e6b9088e72435204a980e14bf2f873a3adbd4aeba3072399d13f2d7435e196"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3952,7 +3960,15 @@
     "city": "Thurgau",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-06-20 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2322",
+      "location": "Coworking Bottighofen, Seestrasse 46",
+      "description": "Einundzwanzig Thurgau Treffen in Bottighofen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "eb2ae4d7d8ac111f69104b200336578f2c5b7887df3ddd1fcd0b0c0aa4ad612c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
