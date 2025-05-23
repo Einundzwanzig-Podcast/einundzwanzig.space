@@ -372,13 +372,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2277",
-      "location": "₿🍕 Bitcoin Pizza Day 2025 — Romina's",
-      "description": "Am 22. Mai wird weltweit wieder der Bitcoin Pizza Day gefeiert, als zum ersten Mal Pizzen für Bitcoin gekauft wurden, damals für 10.000 bitcoin.\n\nIn München feiern wir das wieder im Romina's, eine Bar und geeignete Party-Location. Party-Pizzen werden voraussichtlich bestellt, ihr dürft dann gern Sats dafür spenden. Bei schönem Wetter sind wir im Außenbereich mit urbanem Flair.\n\n[...]",
-      "link": "https://lu.ma/g58hrx4f",
+      "start": "2025-05-28 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2276",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #11",
+      "description": "​Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]",
+      "link": "https://lu.ma/shs32vry",
       "attendees": 0,
-      "nostr_note": "c271a80a927c490759ce191d88bd75bfb683b0c4040f8c03fde4167654d509fe"
+      "nostr_note": "4ab2733e1ba0f49900be0b5f00f732e1b82f3eea6298a6553b63da7545890819"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -877,7 +877,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-06-03 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2336",
+      "location": "Lilienschänke",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: \nhttps://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "56ddc6fb33eebe5a601f20b3e24478b53ea04796e23a51684940bb9412b2e519"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -983,15 +991,7 @@
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
-    "event": {
-      "start": "2025-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2223",
-      "location": "Restaurant Schwimmbad Jimmys Erding",
-      "description": "Erstes Erdinger Bitcoin Stammtisch treffen",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "29dea8c8a0b00401022d476941e0cfe774eadcec5eab47a65faa28bf645fe334"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1490,15 +1490,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2025-05-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2281",
-      "location": "La Taverna - Lindauer Str. 5, 87435 Kempten (Allgäu)",
-      "description": "3.Allgäuer Pizza Day.\nAuch dieses Jahr feiert die Kempten einundzwanzig Community den Pizzaday.\nJeder Bitcoiner oder \"noch\" NoCoiner ist herzlich willkommen.",
-      "link": "https://maps.app.goo.gl/B2vNMUGuf8C1Csqy9",
-      "attendees": 9,
-      "nostr_note": "96fdf547b34598e51e65e23d517a4dfb04cfcbb6add9609a4a5765b84af06030"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1597,15 +1589,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2206",
-      "location": "Landau in der Pfalz",
-      "description": "Pizzaday im Sapori",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "81bcb670f0ab43a13244b84eaaa09fdf0a602149acda2d9d5d3efc67907365b3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2404,15 +2388,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-05-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2275",
-      "location": "Schwabach Restaurant Mare e Monti",
-      "description": "Wir feiern den Bitcoin-Pizza-Tag",
-      "link": "https://www.mare-e-monti-schwabach.de/",
-      "attendees": 2,
-      "nostr_note": "b245ba1cb2cb14fb40ff953e8c3573489a99251982f31ae5018a0d04428e3363"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2427,15 +2403,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "start": "2025-05-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2234",
-      "location": "Osteria No.1 (Allgäu Stüble)",
-      "description": "Wir feiern den Bitcoin-Pizza-Day und gehen Pizza essen!",
-      "link": "https://maps.app.goo.gl/PDa4tva21gT3rAx1A",
-      "attendees": 0,
-      "nostr_note": "8f6c443bb6fd171232f40547808ce953d2318263d45cc5480a69cb030fc5049c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2480,15 +2448,7 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": {
-      "start": "2025-05-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2335",
-      "location": "Saarbrücken",
-      "description": "Wir feiern den Pizza Day standesgemäß in einer Pizzeria. ",
-      "link": "https://maps.app.goo.gl/AE16vuMgMu179ksM6",
-      "attendees": 2,
-      "nostr_note": "29d2734460b9c5f1945679e7a5e365ae328d806aa8339f6be53bb0bbe8a5a9e8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3175,13 +3135,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
     "event": {
-      "start": "2025-05-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2271",
-      "location": "Pepe im Cosmos",
-      "description": "Bitcoin Pizza Day!!! Anmeldung ist leider vorbei und das Haus ist voll. \nAn alle die sich angemeldet haben, freu ich mich euch im \"Pepe im Cosmos\" anzutreffen.\nTisch ist auf \"Satoshi Nakamoto\" reserviert.\nPizzaofen goes BRRRR :P",
-      "link": "https://maps.app.goo.gl/Tn7Luxnwq3ZD7kYbA",
-      "attendees": 6,
-      "nostr_note": "f7057dde5e44473de3e54d4b2726b87ca631b573245d8b155c2568c5d6cabbb9"
+      "start": "2025-06-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2292",
+      "location": "Blauer Adler",
+      "description": "gute Leute, gute Gespräche in gewohnter Umgebung",
+      "link": "https://maps.app.goo.gl/LUb55oQ7L6k4fpGf8",
+      "attendees": 0,
+      "nostr_note": "37d025e1f547376540af459547fa81c353ca0caf70a3f00a9baacecf4c78a34c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -4110,15 +4070,7 @@
     "city": "Warszawa",
     "portalUrl": "https://portal.einundzwanzig.space/pl/meetup/dwadziescia-jeden-warszawa",
     "twitter": "21BitcoinPolska",
-    "event": {
-      "start": "2025-05-22 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/pl/meetup/meetup-events/l/2200",
-      "location": "Samocentrum Warszawa",
-      "description": "Bitcoin Pizza Day 🍕 🇵🇱\n\nEuropean Bitcoin Pizza Day in Warsaw! Let's celebrate 15th anniversary of the first Bitcoin purchase ever.\n📌 Samocentrum Warszawa start: 5PM\n2 pizzas for 10,000 sats\n\nmeet 200 bitcoiners\nenjoy concerts and a good weather\nDay 0. of Bitcoin FilmFest\n\n------------- powered by: Dwadzieścia Jeden Bitcoin FilmFest Cryptosteel\n",
-      "link": "https://www.meetup.com/pl-PL/bitcoin-warsaw/events/306833051/",
-      "attendees": 1,
-      "nostr_note": "9a2167e62d365c0d9a1ae8c1037f14d72501d5cf7e11c4bd58bbf15d2c80358f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
