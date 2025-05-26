@@ -356,7 +356,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-06-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2337",
+      "location": "Rumbar Schwerin",
+      "description": null,
+      "link": "https://rumbar-schwerin.yolasite.com",
+      "attendees": 0,
+      "nostr_note": "50f6dbb1ceff5a6c385bd8b7457449002ccbe83f7d9d2c41b3fd7d2b19cb4dce"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1802,12 +1810,12 @@
     "twitter": null,
     "event": {
       "start": "2025-05-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1838",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2338",
+      "location": "Uerige am Markt, Bogenstraße 22, 40227 Düsseldorf",
+      "description": "Monatliches Meetup / Stammtisch\nWir sprechen über Bitcoin Technologie, die ökonomische Bedeutung und alle möglichen anderen Themen.\nManche trinken auch nur Bier oder essen was Leckeres.",
+      "link": "https://www.uerige-am-markt.de/",
       "attendees": 1,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": "25db572ca1bcdeb5a54fad680ff282f9cdc629850ef2121820da47d0160db3e4"
     },
     "style": {
       "fill": "var(--color-accent)"
