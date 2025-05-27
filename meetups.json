@@ -10,7 +10,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
     "event": {
-      "start": "2025-06-14 14:00:00",
+      "start": "2025-06-13 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2290",
       "location": "Cabana Beach Bar",
       "description": "Willkommen zum ersten Beach Bar Meetup - diesmal in der Cabana Beach Bar - wir starten um 17.00 Uhr und freuen uns auf jeden von euch! Es wird auch einen Vortrag geben! Seid gespannt! ;)",
@@ -2901,8 +2901,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "start": "2025-05-26 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1969",
+      "start": "2025-06-23 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1970",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
@@ -3074,7 +3074,15 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "start": "2025-05-30 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2339",
+      "location": "Gartenstr. 5, 95213 Münchberg, Gourmet Wunderlich",
+      "description": "2. Meetup in Münchberg, für Neulinge und alte Hasen.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "6677623b964d319685ba276fc2fc42fbcc7db9a89b1a63d95aa2d533c1f71213"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3090,13 +3098,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "start": "2025-05-26 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2235",
+      "start": "2025-06-30 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2236",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
       "attendees": 0,
-      "nostr_note": "d2f0e45665a830fe46a9c91ba49f528657deb05202f05419b0648c0b51efd918"
+      "nostr_note": "7c072677db2db7738f5e4a3e0bce4d2287deff12b7f3fc306c47f46122da9d2d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
