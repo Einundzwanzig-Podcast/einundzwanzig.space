@@ -1498,7 +1498,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-06-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2341",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop: So verlierst du deine Bitcoin!  Meetup Beginn 19:00 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin…Plebs together strong.",
+      "link": null,
+      "attendees": 4,
+      "nostr_note": "fa68b097034846af83139dfb0061d585498ff9a73a6fade9c9fe145f0d9c3afa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1575,13 +1583,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-06-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1825",
-      "location": "",
-      "description": null,
-      "link": null,
+      "start": "2025-06-04 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2340",
+      "location": "Grüngürtel - zwischen Wasserspielplatz und Venloer Str - Plus Code: WWVJ+CC ",
+      "description": "BYOB and food",
+      "link": "https://maps.app.goo.gl/BRKtuLtvhYVpKAKJ9",
       "attendees": 0,
-      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
+      "nostr_note": "f26fc6b73e99cd8e871c4cfb77909d21786d33b9bbd8e04b322b70ee79ca6ea9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2967,7 +2975,7 @@
       "location": "Passau oder Schärding",
       "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "029a7c8f4e953459e32fde2e765897d2280d45cfa03083202743ac990b2dbc23"
     },
     "style": {
