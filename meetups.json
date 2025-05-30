@@ -762,7 +762,7 @@
       "location": "Am Marthashof, 53111 Bonn, Deutschland, (Garage vom The 9th)",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
     },
     "style": {
@@ -1233,15 +1233,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "start": "2025-05-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1409",
-      "location": "Hamburg Sternschanze",
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
-      "link": "https://absinth-bar.com/",
-      "attendees": 1,
-      "nostr_note": "c83321f3c2d83f38d7b7581fe400f60f71a1e879b79353c453a8accb66405991"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1504,7 +1496,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop: So verlierst du deine Bitcoin!  Meetup Beginn 19:00 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "fa68b097034846af83139dfb0061d585498ff9a73a6fade9c9fe145f0d9c3afa"
     },
     "style": {
@@ -2924,8 +2916,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
     "event": {
-      "start": "2025-05-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1956",
+      "start": "2025-06-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1957",
       "location": "\"Das 60/40\" am Schlachthof Wiesbaden",
       "description": "Komm gern zum monatlich stattfindenden Meetup von Einundzwanzig Wiesbaden dazu und komme mit Leuten zusammen, die sich mit dem Thema Bitcoin bereits länger befassen, oder um Deine offenen Fragen beantwortet zu bekommen.\n\nEgal, ob seit Jahren schon dabei oder noch am Eingangstor stehend und völlig unbedarft. Bei uns bist Du richtig!\n\nJeder ist Willkommen!!",
       "link": "https://maps.app.goo.gl/vQTpxKJZm7zAn2nTA",
