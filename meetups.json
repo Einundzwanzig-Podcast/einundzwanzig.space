@@ -877,15 +877,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-06-03 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2336",
-      "location": "Lilienschänke",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: \nhttps://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "nostr_note": "56ddc6fb33eebe5a601f20b3e24478b53ea04796e23a51684940bb9412b2e519"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1430,8 +1422,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
     "event": {
-      "start": "2025-06-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1963",
+      "start": "2025-07-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1964",
       "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
       "description": null,
       "link": null,
@@ -1482,15 +1474,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2025-06-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2341",
-      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop: So verlierst du deine Bitcoin!  Meetup Beginn 19:00 Uhr im Veranstaltungsraum der Gaststätte Herzwerk.\n\nBis dahin…Plebs together strong.",
-      "link": null,
-      "attendees": 10,
-      "nostr_note": "fa68b097034846af83139dfb0061d585498ff9a73a6fade9c9fe145f0d9c3afa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3353,7 +3337,15 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-23 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2346",
+      "location": "Restaurant Plaschlhof, Wartberg an der Krems, Sportplatzweg 1",
+      "description": null,
+      "link": "https://maps.app.goo.gl/LcxTNdMuGyvJGwCd9?g_st=com.google.maps.preview.copy",
+      "attendees": 0,
+      "nostr_note": "a320d71f6996c859ca2503cb37f96a36a773dc064f9c029fe9fd7b179f4a61e7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3389,7 +3381,7 @@
       "location": "Café Froschberg ",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "03cf38121d7e9a9a40ca05ad034bf32e9bc585404b9c15860bdb2a24c92f414b"
     },
     "style": {
