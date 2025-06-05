@@ -372,13 +372,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-06-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2273",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Königlicher Hirschgarten (Restaurant innen oder bewirteter Außenbereich bei schönem Wetter), Hirschgarten 1, 80639 München\n\n[...]",
-      "link": "https://lu.ma/u5c5u37l",
+      "start": "2025-07-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2343",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786196/",
       "attendees": 0,
-      "nostr_note": "0fb32d51af6fcab5367346f71f96b81226e290a7d67fcbef38ba6ad3967f82fc"
+      "nostr_note": "1f13fc9282c0264895a55096e9d0d210ef2b641ac95c509a8742ce53ac155e17"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -877,7 +877,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-01 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2347",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: \nhttps://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "d96177f1e3931abe56a8bb224faff3db77b6028a8fc9a430954d3a643e936b97"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1551,13 +1559,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-06-04 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2340",
-      "location": "Grüngürtel - zwischen Wasserspielplatz und Venloer Str - Plus Code: WWVJ+CC ",
-      "description": "BYOB and food",
-      "link": "https://maps.app.goo.gl/BRKtuLtvhYVpKAKJ9",
+      "start": "2025-06-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1825",
+      "location": "",
+      "description": null,
+      "link": null,
       "attendees": 0,
-      "nostr_note": "f26fc6b73e99cd8e871c4cfb77909d21786d33b9bbd8e04b322b70ee79ca6ea9"
+      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
       "fill": "var(--color-accent)"
