@@ -15,7 +15,7 @@
       "location": "Cabana Beach Bar",
       "description": "Willkommen zum ersten Beach Bar Meetup - diesmal in der Cabana Beach Bar - wir starten um 17.00 Uhr und freuen uns auf jeden von euch! Es wird auch einen Vortrag geben! Seid gespannt! ;)",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "7569404f8882d57b53fe6623ace1625b60fdfb05ab84f0ff0d8cb8d990eda33c"
     },
     "style": {
@@ -430,7 +430,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
@@ -969,13 +969,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-06-06 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1688",
+      "start": "2025-07-04 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1689",
       "location": "Ellwangen ",
-      "description": "Bistro Altstadt Ellwangen",
+      "description": "Bistro Altstadt Ellwangen ",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
-      "attendees": 0,
-      "nostr_note": "1f13bc9da6144983a045bf68641cf26302677d97a233d325069906c27c992d42"
+      "attendees": 1,
+      "nostr_note": "edd01d83d3e96b9b53c081e0e9e40c7e7f69568d4fed9e09c5906a8b2e91e6ac"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2065,8 +2065,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-06-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1430",
+      "start": "2025-07-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1431",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -2275,7 +2275,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-06-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2348",
+      "location": "trattoria toscana kernen",
+      "description": null,
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 2,
+      "nostr_note": "b7d7bd8dbafcc79f90e6e956d72b0e204ddae887e266f4585de06171a40c2227"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2455,15 +2463,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2025-06-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2344",
-      "location": "Bruder Jakob, St. Wendel",
-      "description": null,
-      "link": "https://maps.app.goo.gl/JLHjDXoxmjnMTiyc8",
-      "attendees": 1,
-      "nostr_note": "454daa7cf7316d84a08ea82542535d2847e979390584172b9881e6b9ed44180c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2913,7 +2913,7 @@
       "location": "\"Das 60/40\" am Schlachthof Wiesbaden",
       "description": "Komm gern zum monatlich stattfindenden Meetup von Einundzwanzig Wiesbaden dazu und komme mit Leuten zusammen, die sich mit dem Thema Bitcoin bereits länger befassen, oder um Deine offenen Fragen beantwortet zu bekommen.\n\nEgal, ob seit Jahren schon dabei oder noch am Eingangstor stehend und völlig unbedarft. Bei uns bist Du richtig!\n\nJeder ist Willkommen!!",
       "link": "https://maps.app.goo.gl/vQTpxKJZm7zAn2nTA",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -3126,15 +3126,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2025-06-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2292",
-      "location": "Blauer Adler",
-      "description": "gute Leute, gute Gespräche in gewohnter Umgebung",
-      "link": "https://maps.app.goo.gl/LUb55oQ7L6k4fpGf8",
-      "attendees": 0,
-      "nostr_note": "37d025e1f547376540af459547fa81c353ca0caf70a3f00a9baacecf4c78a34c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3346,7 +3338,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
     "event": {
-      "start": "2025-07-23 16:00:00",
+      "start": "2025-07-14 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2346",
       "location": "Restaurant Plaschlhof, Wartberg an der Krems, Sportplatzweg 1",
       "description": null,
@@ -3383,15 +3375,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-06-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2283",
-      "location": "Café Froschberg ",
-      "description": null,
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "03cf38121d7e9a9a40ca05ad034bf32e9bc585404b9c15860bdb2a24c92f414b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
