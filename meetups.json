@@ -15,7 +15,7 @@
       "location": "Cabana Beach Bar",
       "description": "Willkommen zum ersten Beach Bar Meetup - diesmal in der Cabana Beach Bar - wir starten um 17.00 Uhr und freuen uns auf jeden von euch! Es wird auch einen Vortrag geben! Seid gespannt! ;)",
       "link": null,
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "7569404f8882d57b53fe6623ace1625b60fdfb05ab84f0ff0d8cb8d990eda33c"
     },
     "style": {
@@ -266,13 +266,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-06-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1986",
+      "start": "2025-07-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1987",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "af5dd757b0da2dea4238ca26f44af1b4bca58d60cc56419714e0b68468cc6cbe"
+      "nostr_note": "363129177fbe8a2f7f11b4ccf13c4113d6f3f365e4be69b5645dd55cad4c0709"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -840,13 +840,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-06-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2100",
+      "start": "2025-07-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2101",
       "location": null,
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
-      "nostr_note": "cf9f941931c796f16eefef9fe602cdb9af4f4664d8e96e5f61428425c448cd36"
+      "nostr_note": "371a327e3690860e894919524bf45b762f3d5cca010df2a2b162ff9220a7928d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1022,8 +1022,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-06-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1852",
+      "start": "2025-07-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1853",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -1128,13 +1128,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
     "event": {
-      "start": "2025-06-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1698",
+      "start": "2025-08-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1699",
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
       "attendees": 0,
-      "nostr_note": "d88aa957be0086c54bb51a9069ee24811de451a85497b0dfdba288063725ccc5"
+      "nostr_note": "dfe362b6d53928071fa981539861bfcd0abbe50b896607bde72bf676af1ccab6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2388,7 +2388,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-06-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2351",
+      "location": "Roth Löwenkeller",
+      "description": null,
+      "link": "http://www.loewenkeller-roth.de/",
+      "attendees": 1,
+      "nostr_note": "9ce0383785907516faf75ef62a19501e947856d52d79bf059a96b14f3745af0e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3497,7 +3505,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2025-06-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2350",
+      "location": " \"Servus und Namaste im indigo\" am Lendplatz in Graz",
+      "description": "Nächstes Treffen: Donnerstag, 26. Juni ab 18h beim \"Servus und Namaste im indigo\" am Lendplatz in Graz (outdoor), Bitcoin accepted!     \n\nhttps://www.instagram.com/indigo_graz/\nÖsterreichische und indische Küche",
+      "link": "https://www.instagram.com/indigo_graz/",
+      "attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3701,8 +3717,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-meetup-zuerich",
     "twitter": "bitcoin_ch",
     "event": {
-      "start": "2025-06-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2137",
+      "start": "2025-06-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2138",
       "location": "https://www.meetup.com/de-DE/bitcoin-meetup-switzerland/events/",
       "description": "Unser zwangloses Bitcoin Zürich Meetup ist seit 2013 für Neulinge und Veteranen gleichermassen geeignet. Offene Diskussion, keine organisierten Sprecher oder Themen. Du kannst gerne alle möglichen Bitcoin-Themen diskutieren. Bitte unterlassen Sie Investitionssuche, Verkauf, Shitcoinery oder unaufgeforderte Werbung jeglicher Art.\nWir freuen uns über zuverlässige Leute, die bei der Anmeldung erscheinen oder sich wieder abmelden, wenn sie es sich anders überlegen.\nDer Locationmanager der *[INSIDER BAR](https://insiderbar.ch/)* bittet um eine zuverlässige Anzahl von Anmeldungen. Bitte halten Sie Ihre Anmeldungen entsprechend aufrecht. Vielen Dank dafür!\nDer Verzehr ist an der Bar individuell zu bezahlen.\n\n**Das Personal ist orange-gepilled. Sie freuen sich über dein Bitcoin-Lightning-Trinkgeld auf ihre Wallet. 💰⚡💛**\n=================\nWenn du nichts über Bitcoin weisst, ist dies der richtige Ort.\nWenn du dieser bahnbrechenden Technologie skeptisch gegenüberstehst, bist du hier genau richtig.\nIch werde dir erklären, was Bitcoin ist, warum es wichtig ist und warum es für mich von grossem Wert ist. \nDann bist du in der Lage, deine eigene Meinung zu Bilden und darüber zu entscheiden.\nHier geht es nicht um Trading, Altcoins oder Investitionsberatung! Hier geht es ausschliesslich um Bitcoin und open Blockchain.",
       "link": "https://www.meetup.com/de-DE/bitcoin-meetup-switzerland/events/",
