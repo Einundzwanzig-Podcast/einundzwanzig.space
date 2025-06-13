@@ -1062,10 +1062,10 @@
     "event": {
       "start": "2025-06-28 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1930",
-      "location": "Nürnberg",
-      "description": null,
-      "link": null,
-      "attendees": 1,
+      "location": "Nürnberg, Dornauers Lebküchnerei⚡️",
+      "description": "Dornauers Lebküchnerei⚡️\nFürtherstraße 188\n90429 Nürnberg",
+      "link": "https://maps.app.goo.gl/k4iGMDiqGgqbqUek6",
+      "attendees": 2,
       "nostr_note": "810583723e318e86aa67420095c4238f4c5bd3b78f46c38b8711ce7eca144a0d"
     },
     "style": {
@@ -1581,7 +1581,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-06-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2352",
+      "location": "Landau",
+      "description": "Details in den SN Gruppen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "d4c3449dad80e77db5f8f369afe3b5d5ef83c840fa5ee3f625000e09d85e79fd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2275,15 +2283,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-06-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2348",
-      "location": "trattoria toscana kernen",
-      "description": null,
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 4,
-      "nostr_note": "b7d7bd8dbafcc79f90e6e956d72b0e204ddae887e266f4585de06171a40c2227"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2705,13 +2705,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-06-12 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2033",
+      "start": "2025-07-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2034",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "c20b3321dd63be03b359ab92cd27ba3912f29bf99d84ad50cc1e3782fb92b6ad"
+      "nostr_note": "b71530e4738e55a215b0d79fe64519de4a695dd2e518b1dc441851a7fede36b5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3964,8 +3964,16 @@
     "url": null,
     "city": "Baraka Café & Grill - Puerto de la Cruz",
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz",
-    "twitter": "@ArtH19350831",
-    "event": null,
+    "twitter": "",
+    "event": {
+      "start": "2025-06-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/2353",
+      "location": "Baraka Café & Grill - Puerto de la Cruz",
+      "description": "Hey Bitcoin-Fans! Lust auf ein entspanntes Bitcoin-Maximalisten-Meetup? Komm vorbei zu unserem Treffen im Baraka Café & Grill! Wir quatschen über Bitcoin, Blockchain, spannende Persönlichkeiten wie Michael Saylor, Adam Back, Andreas Antonopoulos und Jack Mallers sowie aktuelle Themen wie Lightning Network, Halving-Effekte, Mining-Trends und globale Adoption. Das alles bei leckeren Drinks und gutem Essen! Wo: Baraka Café & Grill, Puerto de la Cruz. Vibe: Locker, informell, für Neulinge und Bitcoin-Maximalisten. Keine Anmeldung nötig, einfach vorbeischauen! Wir freuen uns auf dich! Wenn wir nicht mehr in Sicht sind, haben wir vielleicht die Location kurzfristig gewechselt - von daher bitte pünktlich sein! ;-)\n\nENGLISH: Hey Bitcoin enthusiasts! Up for a relaxed Bitcoin Maximalist meetup? Join us at Baraka Café & Grill! We’ll dive into Bitcoin, blockchain, and discuss influential figures like Michael Saylor, Adam Back, Andreas Antonopoulos, and Jack Mallers. Plus, hot topics like the Lightning Network, halving impacts, mining trends, and global adoption – all over tasty drinks and great food! Where: Baraka Café & Grill, Puerto de la Cruz Vibe: Casual, laid-back, for newbies and Bitcoin Maximalists. No registration needed, just drop by! Looking forward to seeing you! If we are not on sight you are maybe late and we switched the location - so be on time! ;-)",
+      "link": "https://g.co/kgs/TM1gW6D",
+      "attendees": 1,
+      "nostr_note": "6951b1bf7435b4f4ffc4743128eafdb4bc6b646c1a9bec2af65dc9ef67d60dd8"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
