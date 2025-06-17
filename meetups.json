@@ -1285,7 +1285,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-06-21 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2367",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 21.06.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten",
+      "link": "https://maps.app.goo.gl/A9FANaE5WuqFCWZm9",
+      "attendees": 0,
+      "nostr_note": "0993ee2d7c9eb229b60ac8e303c86bb6e865f0bd2f9704a5609704f5a2fa40e6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1573,15 +1581,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-06-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2352",
-      "location": "Landau",
-      "description": "Details in den SN Gruppen",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "d4c3449dad80e77db5f8f369afe3b5d5ef83c840fa5ee3f625000e09d85e79fd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2386,7 +2386,7 @@
       "location": "Roth Löwenkeller",
       "description": null,
       "link": "http://www.loewenkeller-roth.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9ce0383785907516faf75ef62a19501e947856d52d79bf059a96b14f3745af0e"
     },
     "style": {
@@ -2898,7 +2898,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "97acdf02e5209344b32e9249c5b9745dbf8891f832d44556e18b42cea924193e"
     },
     "style": {
