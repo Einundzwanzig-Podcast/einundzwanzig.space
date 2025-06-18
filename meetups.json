@@ -1518,7 +1518,7 @@
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "33ea9002c817bbd654e07d1474f2a723d251b220b33f821f44517bbf27d85677"
     },
     "style": {
@@ -2380,15 +2380,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-06-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2351",
-      "location": "Roth Löwenkeller",
-      "description": null,
-      "link": "http://www.loewenkeller-roth.de/",
-      "attendees": 2,
-      "nostr_note": "9ce0383785907516faf75ef62a19501e947856d52d79bf059a96b14f3745af0e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2429,7 +2421,7 @@
       49.234779,
       7
     ],
-    "url": "https://t.me/+_KlbDZv3xn81ZjEy",
+    "url": "https://t.me/+w2AfVg_tCqg1NzQy",
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
