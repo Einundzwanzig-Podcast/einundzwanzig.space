@@ -145,13 +145,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-06-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2211",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-07-03 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2020",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -340,15 +340,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-06-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2337",
-      "location": "Rumbar Schwerin",
-      "description": null,
-      "link": "https://rumbar-schwerin.yolasite.com",
-      "attendees": 0,
-      "nostr_note": "50f6dbb1ceff5a6c385bd8b7457449002ccbe83f7d9d2c41b3fd7d2b19cb4dce"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1559,9 +1551,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-06-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1825",
-      "location": "Potpourri, Mauenheimer Str. 92, 50733 Köln",
+      "start": "2025-07-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1826",
+      "location": "",
       "description": null,
       "link": null,
       "attendees": 0,
@@ -1626,7 +1618,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-06-24 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2373",
+      "location": "Hotel Landgasthof \"Zum Eibenwald\"; Peißenberger Str. 11 - 82405 Wessobrunn-Paterzell",
+      "description": "Herzlich Willkommen zu unserem sechsten Bitcoin-Stammtisch im Lechrain.\nWANN: Dienstag 24.06.2025 ab 18:00 Uhr\nWO: Zum Eibenwald in Paterzell\nWER: egal ob Neuling oder Alter Hase, jeder darf kommen!",
+      "link": "https://www.landgasthof-eibenwald.de/anfahrt.htm",
+      "attendees": 1,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3396,7 +3396,7 @@
       "location": "Strandbar Weiden",
       "description": "Sommerfest 2025 des Bitcoin Meetup Nordburgenland\n",
       "link": "https://einundzwanzig-nordbgld.at/meetups/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "c209e21f9da2083794ba31d6de2f8ca7174abd31280265d57f4174b1803004f1"
     },
     "style": {
