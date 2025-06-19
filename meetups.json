@@ -340,7 +340,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-07-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2374",
+      "location": "Rumbar Unity (Arsenalstraße 36)",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
+      "link": "https://rumbar-schwerin.yolasite.com/",
+      "attendees": 0,
+      "nostr_note": "f40d168d0acd3ff323a1e64ee28c7d7b8c74ac4c95b4560320900c5b0c9f4f6a"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -414,7 +422,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
     },
     "style": {
@@ -1011,7 +1019,7 @@
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
     },
     "style": {
