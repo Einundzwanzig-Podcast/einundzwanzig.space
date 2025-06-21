@@ -650,7 +650,15 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "start": "2025-06-27 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2376",
+      "location": "Bad Kissingen - Reiterswiesen im El Greco",
+      "description": "Das Meetup für Bad Kissingen, Bad Neustadt und Umgebung! Kommt völlig ungezwungen vorbei und habt mit uns einen schönen Abend mit lockerer Atmosphäre.",
+      "link": "https://maps.app.goo.gl/tUBkEPz1nw7Qc32o6",
+      "attendees": 0,
+      "nostr_note": "47b9061ff4b783c6e994932cfa582c6202f34ab1f231aca36dc9bd28a6686e5a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -966,7 +974,7 @@
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "https://www.bistro-altstadt.de/bistro_neu/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "edd01d83d3e96b9b53c081e0e9e40c7e7f69568d4fed9e09c5906a8b2e91e6ac"
     },
     "style": {
@@ -1057,7 +1065,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei⚡️",
       "description": "Dornauers Lebküchnerei⚡️\nFürtherstraße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/k4iGMDiqGgqbqUek6",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "810583723e318e86aa67420095c4238f4c5bd3b78f46c38b8711ce7eca144a0d"
     },
     "style": {
@@ -1362,8 +1370,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-06-20 16:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1786",
+      "start": "2025-07-18 16:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1787",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
@@ -1482,7 +1490,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-07-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2375",
+      "location": "Herzwerk  Kurt-Blaschke-Straße 7, 87439 Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "1832eebf09cb53ddf8e0c2a6282452ebba3a8f5ce6c392933dca2a3b913d1655"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3270,8 +3286,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-06-20 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2048",
+      "start": "2025-07-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2049",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
@@ -3905,10 +3921,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "start": "2025-06-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2322",
-      "location": "Coworking Bottighofen, Seestrasse 46",
-      "description": "Einundzwanzig Thurgau Treffen in Bottighofen",
+      "start": "2025-07-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2323",
+      "location": null,
+      "description": null,
       "link": null,
       "attendees": 0,
       "nostr_note": "eb2ae4d7d8ac111f69104b200336578f2c5b7887df3ddd1fcd0b0c0aa4ad612c"
