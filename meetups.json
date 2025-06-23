@@ -923,7 +923,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-07-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2378",
+      "location": "Geierbräu Reisbach im Biergarten",
+      "description": "Zahlung in Lightning möglich",
+      "link": "http://www.geierbräu.de/",
+      "attendees": 0,
+      "nostr_note": "012728f8ec2f067aeda286c3866f303f5d38ada3cde9f3e9a5ccba37e6491bf1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1488,7 +1496,7 @@
       "location": "Herzwerk  Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "1832eebf09cb53ddf8e0c2a6282452ebba3a8f5ce6c392933dca2a3b913d1655"
     },
     "style": {
