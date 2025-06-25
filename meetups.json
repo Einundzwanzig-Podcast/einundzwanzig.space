@@ -1073,7 +1073,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei⚡️",
       "description": "Dornauers Lebküchnerei⚡️\nFürtherstraße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/k4iGMDiqGgqbqUek6",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "810583723e318e86aa67420095c4238f4c5bd3b78f46c38b8711ce7eca144a0d"
     },
     "style": {
@@ -1642,15 +1642,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-06-24 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2373",
-      "location": "Hotel Landgasthof \"Zum Eibenwald\"; Peißenberger Str. 11 - 82405 Wessobrunn-Paterzell",
-      "description": "Herzlich Willkommen zu unserem sechsten Bitcoin-Stammtisch im Lechrain.\nWANN: Dienstag 24.06.2025 ab 18:00 Uhr\nWO: Zum Eibenwald in Paterzell\nWER: egal ob Neuling oder Alter Hase, jeder darf kommen!",
-      "link": "https://www.landgasthof-eibenwald.de/anfahrt.htm",
-      "attendees": 1,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1819,9 +1811,9 @@
     "event": {
       "start": "2025-06-25 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1839",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
+      "location": "Uerige am Markt, Bogenstr.22, 40227 Düsseldorf",
+      "description": "Gemütliches Meetup zu Bitcoin wieder im Uerige am Markt in Düsseldorf Oberbilk.\n\nJeder mit Spass an Bitcoin ist willkommen. Außer Scammer, oder Leute die denken man wir schnell reich. Wenn das ginge wären wir nicht da ;-)",
+      "link": "https://www.uerige-am-markt.de/",
       "attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
@@ -2089,10 +2081,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-07-04 17:00:00",
+      "start": "2025-07-04 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1431",
       "location": "Restaurant KRETA, Nadorster Str. 53",
-      "description": "Zahlung momentan nur in Euro.",
+      "description": "Ab 18 Uhr Bitbox02 Workshop. Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
       "attendees": 0,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
@@ -3399,7 +3391,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-07-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2379",
+      "location": "Bar21 (Traundorferstr.14 4030 Linz Ebelsberg)",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "6993be5f3dc8a7ea07f9cf0994c14ab84daf21bfbfe6806dac16158a342a856f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
