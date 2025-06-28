@@ -650,15 +650,7 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": {
-      "start": "2025-06-27 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2376",
-      "location": "Bad Kissingen - Reiterswiesen im El Greco",
-      "description": "Das Meetup für Bad Kissingen, Bad Neustadt und Umgebung! Kommt völlig ungezwungen vorbei und habt mit uns einen schönen Abend mit lockerer Atmosphäre.",
-      "link": "https://maps.app.goo.gl/tUBkEPz1nw7Qc32o6",
-      "attendees": 1,
-      "nostr_note": "47b9061ff4b783c6e994932cfa582c6202f34ab1f231aca36dc9bd28a6686e5a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1073,7 +1065,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei⚡️",
       "description": "Dornauers Lebküchnerei⚡️\nFürtherstraße 188\n90429 Nürnberg",
       "link": "https://maps.app.goo.gl/k4iGMDiqGgqbqUek6",
-      "attendees": 5,
+      "attendees": 7,
       "nostr_note": "810583723e318e86aa67420095c4238f4c5bd3b78f46c38b8711ce7eca144a0d"
     },
     "style": {
@@ -1733,13 +1725,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-06-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2112",
+      "start": "2025-07-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2113",
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "6ee14fe4129d9d1eb1357ab29768d95973bcedf13bc94b96cc68ccedc95cd444"
+      "nostr_note": "02fb6879333b8e0e283c3062aa5b0e3509e8a767e80d2df6d431029e6547ded8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2373,7 +2365,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2025-07-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2382",
+      "location": "Craftbar Rostock 18057 Rostock Margaretenstrasse 41",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "4c38d766e17dbb289899ef3d10e67c2fbe2644944ed613049edc0fe9b720caf1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2433,7 +2433,15 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "start": "2025-07-07 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2381",
+      "location": "Wird in der Telegram-Gruppe angekündigt",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b64d4df4c855d5ad2437e8cb74d5cab2969d41ffa40624387542b68c5aa2d2f8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3942,8 +3950,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz",
     "twitter": "",
     "event": {
-      "start": "2025-06-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/2353",
+      "start": "2025-07-25 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/2354",
       "location": "Baraka Café & Grill - Puerto de la Cruz",
       "description": "Hey Bitcoin-Fans! Lust auf ein entspanntes Bitcoin-Maximalisten-Meetup? Komm vorbei zu unserem Treffen im Baraka Café & Grill! Wir quatschen über Bitcoin, Blockchain, spannende Persönlichkeiten wie Michael Saylor, Adam Back, Andreas Antonopoulos und Jack Mallers sowie aktuelle Themen wie Lightning Network, Halving-Effekte, Mining-Trends und globale Adoption. Das alles bei leckeren Drinks und gutem Essen! Wo: Baraka Café & Grill, Puerto de la Cruz. Vibe: Locker, informell, für Neulinge und Bitcoin-Maximalisten. Keine Anmeldung nötig, einfach vorbeischauen! Wir freuen uns auf dich! Wenn wir nicht mehr in Sicht sind, haben wir vielleicht die Location kurzfristig gewechselt - von daher bitte pünktlich sein! ;-)\n\nENGLISH: Hey Bitcoin enthusiasts! Up for a relaxed Bitcoin Maximalist meetup? Join us at Baraka Café & Grill! We’ll dive into Bitcoin, blockchain, and discuss influential figures like Michael Saylor, Adam Back, Andreas Antonopoulos, and Jack Mallers. Plus, hot topics like the Lightning Network, halving impacts, mining trends, and global adoption – all over tasty drinks and great food! Where: Baraka Café & Grill, Puerto de la Cruz Vibe: Casual, laid-back, for newbies and Bitcoin Maximalists. No registration needed, just drop by! Looking forward to seeing you! If we are not on sight you are maybe late and we switched the location - so be on time! ;-)",
       "link": "https://g.co/kgs/TM1gW6D",
