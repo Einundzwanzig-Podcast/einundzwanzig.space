@@ -515,8 +515,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanig-wandern-chiemgau-berchtesgarden",
     "twitter": null,
     "event": {
-      "start": "2025-07-06 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2012",
+      "start": "2025-08-31 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2013",
       "location": "siehe Telegram Gruppe",
       "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
       "link": null,
@@ -1581,7 +1581,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-07-14 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2385",
+      "location": "Landau",
+      "description": "Details in den Gruppen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b1aba0951a22fa9969df4ad6f3963d4ee93ee535b62763731974e430b7325ffb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
