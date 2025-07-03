@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-07-11 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2386",
+      "location": "Elysia Park Bar & Restaurant",
+      "description": "Hallo zusammen! Diesmal wieder ein Freitags Termin - let´s rock Friday Night :)",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "a57aaf6d794bbe46a008d771f2c08dc3ce1d5909a43501d3fc9649a60ab4c638"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -363,15 +371,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "start": "2025-07-02 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2343",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786196/",
-      "attendees": 0,
-      "nostr_note": "1f13fc9282c0264895a55096e9d0d210ef2b641ac95c509a8742ce53ac155e17"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -907,15 +907,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "start": "2025-07-02 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2378",
-      "location": "Geierbräu Reisbach im Biergarten",
-      "description": "Zahlung in Lightning möglich",
-      "link": "http://www.geierbräu.de/",
-      "attendees": 0,
-      "nostr_note": "012728f8ec2f067aeda286c3866f303f5d38ada3cde9f3e9a5ccba37e6491bf1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -983,7 +975,15 @@
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-28 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2387",
+      "location": "Landgasthof Stangl Münchner Str. 2, 85452 Moosinning (Eichenried)",
+      "description": "Alle Infos in unserer Telegram Gruppe.",
+      "link": "https://www.gasthof-stangl.de/",
+      "attendees": 3,
+      "nostr_note": "404cb0d9b86544bdea1828e6c66667f169351f4f79109a32d038013924f8e1c5"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1906,7 +1906,15 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-19 13:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2388",
+      "location": "Neubrandenburg ",
+      "description": "🚨 Einundzwanzig Neubrandenburg Meetup – es ist wieder soweit!\n📅 19.07.2025\n🕒 Start: 15:21 Uhr\n📍 MyArea Coworking Space, Treptower Straße 1 (Marien Carrée), Neubrandenburg\n\n🔐 Not Your Keys, Not Your Coins\nBeim nächsten Meetup dreht sich alles um die Eigenverwahrung von Bitcoin.\nEs gibt einen kompakten Einsteigervortrag, damit auch Neulinge verstehen, warum eigene Schlüssel so wichtig sind.\n\n💬 Der Austausch untereinander steht wie immer im Fokus. Egal ob du ganz neu dabei bist oder schon lange Bitcoiner – komm gerne vorbei!\n\n🎟️ Kostenlos & offen für alle!\n\n#BitcoinNB #EinundzwanzigMeetup #NotYourKeysNotYourCoins #Neubrandenburg",
+      "link": "https://maps.app.goo.gl/J7zUE9QV9v5HG14SA?g_st=ipc",
+      "attendees": 0,
+      "nostr_note": "48b69a9755db758ad7139487879bdb7ea3214574f57cbdf15a88eb90ea3cd3bb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2275,7 +2283,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-07-10 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2389",
+      "location": "trattoria toscana kernen",
+      "description": null,
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 3,
+      "nostr_note": "ccbe5585e7b138fd2ededa2747d859ac17ed0817fa0dc590846ebbefd9ba7122"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
