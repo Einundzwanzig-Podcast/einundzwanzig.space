@@ -153,13 +153,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-07-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2020",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "start": "2025-07-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2212",
+      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "description": "Stammtisch Café Holzmarktperle",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -741,8 +741,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-07-03 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1801",
+      "start": "2025-08-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1802",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
@@ -1702,8 +1702,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-07-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1946",
+      "start": "2025-08-07 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1947",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
@@ -2289,7 +2289,7 @@
       "location": "trattoria toscana kernen",
       "description": null,
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "ccbe5585e7b138fd2ededa2747d859ac17ed0817fa0dc590846ebbefd9ba7122"
     },
     "style": {
@@ -2419,7 +2419,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-25 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2390",
+      "location": "Landgasthaus Wiesental in Dautmergen",
+      "description": "",
+      "link": "https://maps.app.goo.gl/AbmVKqWD4wVSmXPAA",
+      "attendees": 0,
+      "nostr_note": "cc3d395bd4283d5e6045ea027de16380bee02206ef2908108ced3fe845a67d2f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3391,15 +3399,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-07-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2379",
-      "location": "Bar21 (Traundorferstr.14 4030 Linz Ebelsberg)",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "6993be5f3dc8a7ea07f9cf0994c14ab84daf21bfbfe6806dac16158a342a856f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
