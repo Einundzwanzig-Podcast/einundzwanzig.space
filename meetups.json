@@ -417,13 +417,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-07-05 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1909",
+      "start": "2025-07-19 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1911",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "923024a7e9fcf0ebecdd323ef40745f2c1fc02938e2e50813e4c2668f8ebf3fa"
+      "nostr_note": "03ab8198dd963a852ff81e63919c3bbc054abc08e4f070b4814fd8c2c0f6f1a5"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -885,13 +885,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
     "event": {
-      "start": "2025-07-05 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2172",
+      "start": "2025-08-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2173",
       "location": "Cafe Mix, Detmold, Meierstr. 12",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "9b231e2e9be4eee1cb92bbed0406d16ace097015f37f47585cc1a1d0d4890be6"
+      "nostr_note": "462a8396e8d5be416f62425d70564f3804edb7cf0278a5257da752fec7c89bea"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1793,13 +1793,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-07-23 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1840",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "start": "2025-07-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2394",
+      "location": "Apollowiese, Mannesmannufer 1, Nähe KIT",
+      "description": "Wir treffen uns zum gemütlichen Sundowner. Jeder bringt seine Getränke und evtl. eine Decke selbst mit.\n\nDurch die Düsseldorfer Kirmes wird es in der Nähe voll. Parken am besten woanders und mit Bus/Bahn zum Rhein\n\nLokation ungefähr\nLatitude: 51.22007687\nLongitude: 6.76596188",
       "link": null,
       "attendees": 0,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": "1ba79b899655e1e964c0af0c6eb262e3d747a2d2b068c01df3ec9d36b4fd07d9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1884,8 +1884,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2025-07-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1383",
+      "start": "2025-08-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1384",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
@@ -2404,7 +2404,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2393",
+      "location": "Hilpoltstein",
+      "description": "Wir Treffen uns diese mal in Hilpoltstein by Shepherds im Stadtmauerbiergarten",
+      "link": "https://www.shepherds-food.de/",
+      "attendees": 1,
+      "nostr_note": "89fd2f0d06712fff327638885e4d01dad655dd1ada943c1b52d6d04e3d98abe7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3552,6 +3560,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-vorarlberg",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Vöcklabruck",
+    "latLng": [
+      48.006965,
+      13.653221
+    ],
+    "url": "https://t.me/EinundzwanzigVB",
+    "city": "Vöcklabruck",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck",
+    "twitter": null,
+    "event": {
+      "start": "2025-10-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2391",
+      "location": "Infos folgen.",
+      "description": "Infos folgen.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "7c059d016c7030c73d0c24de30a867c457273d8a2e728193ee2af7dd3bd5e514"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
