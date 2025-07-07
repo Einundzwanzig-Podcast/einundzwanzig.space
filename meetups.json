@@ -1480,7 +1480,7 @@
       "location": "Herzwerk  Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "1832eebf09cb53ddf8e0c2a6282452ebba3a8f5ce6c392933dca2a3b913d1655"
     },
     "style": {
@@ -3407,7 +3407,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-07-31 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2395",
+      "location": "Bar 21 Ebelsberg",
+      "description": "Eine Einführung in die Österreichische Ökonomie",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "16b7a573439c58d5b59a4dbbdc8a620a728f2b5496bc506f119ef9363137256f"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
