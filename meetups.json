@@ -15,7 +15,7 @@
       "location": "Elysia Park Bar & Restaurant",
       "description": "Hallo zusammen! Diesmal wieder ein Freitags Termin - let´s rock Friday Night :)",
       "link": null,
-      "attendees": 1,
+      "attendees": 5,
       "nostr_note": "a57aaf6d794bbe46a008d771f2c08dc3ce1d5909a43501d3fc9649a60ab4c638"
     },
     "style": {
@@ -869,7 +869,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-05 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2396",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "bf3f05e11a79f3e2826490117a38636484ab29eed559cc8fb1da697b272456ed"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2465,15 +2473,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "start": "2025-07-07 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2381",
-      "location": "Wird in der Telegram-Gruppe angekündigt",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b64d4df4c855d5ad2437e8cb74d5cab2969d41ffa40624387542b68c5aa2d2f8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
