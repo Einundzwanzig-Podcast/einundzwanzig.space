@@ -1024,10 +1024,10 @@
     "event": {
       "start": "2025-07-09 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1853",
-      "location": null,
+      "location": "Cafe Extrablatt Essen Rüttenscheid, Rüttenscheider Straße 58–60, 45130 Essen",
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
-      "link": null,
-      "attendees": 1,
+      "link": "https://cafe-extrablatt.de/standorte/details/cafe-extrablatt-essen-ruettenscheid/",
+      "attendees": 2,
       "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
     },
     "style": {
@@ -1150,7 +1150,15 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "start": "2025-08-21 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2397",
+      "location": "Fulda - Keulos ",
+      "description": "Wir treffen uns ab 18:30 Uhr im Lindenhof in Keulos. Dieses Mal wird er wahrscheinlich wieder einen Vortrag geben! ",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 1,
+      "nostr_note": "76b947ee91c55a31424113cbc44c7c5d98d6b56117a1a09cc5d1f199e9702d17"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1324,8 +1332,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-07-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1865",
+      "start": "2025-08-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1866",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -1429,15 +1437,7 @@
     "city": "Jena",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-jena",
     "twitter": "BitcoinJena",
-    "event": {
-      "start": "2025-07-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1964",
-      "location": "zumeist im Restaurant Grünowski (Schillergäßchen 5, 07745 Jena)",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "a924201cc5082a3cdd7f9035c75fd3f1e15e36ad609d65e0571d434160a891f2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
