@@ -545,8 +545,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-07-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1814",
+      "start": "2025-08-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1815",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
@@ -846,7 +846,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-20 09:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2399",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "nostr_note": "e2efbfb0b5189d44c3a331291fcf67f17345aed953d9f7e5d04035429e39b7cd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1054,9 +1062,9 @@
     "event": {
       "start": "2025-07-19 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1931",
-      "location": "Erlangen",
-      "description": "Location tba",
-      "link": null,
+      "location": "Erlangen, Pizzeria TIO RUSTICA",
+      "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
+      "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
       "attendees": 1,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
@@ -2138,7 +2146,7 @@
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "5eb98d9cf9cb523a75cecf599c1eb6a1f85eb2d747234ca4e4e07b41f0e55394"
     },
     "style": {
@@ -2394,7 +2402,7 @@
       "location": "Hilpoltstein",
       "description": "Wir Treffen uns diese mal in Hilpoltstein by Shepherds im Stadtmauerbiergarten",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "89fd2f0d06712fff327638885e4d01dad655dd1ada943c1b52d6d04e3d98abe7"
     },
     "style": {
@@ -2930,7 +2938,15 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-25 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2398",
+      "location": "Landgasthaus Wiesental in Dautmergen ",
+      "description": "Regionaltreffen Rottweil + Zollernalb !!",
+      "link": "https://maps.app.goo.gl/vikcQ6VbNsuSDkJv8",
+      "attendees": 0,
+      "nostr_note": "5610860912cd6ce4c2504586172ca398a6ba07b39af4ed27a13d879e96e24f6b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
