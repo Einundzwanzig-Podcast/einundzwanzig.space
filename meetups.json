@@ -491,7 +491,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-07-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2400",
+      "location": "Königlicher Hirschgarten Hirschgarten 1, 80639 München",
+      "description": "Essen, Trinken, Spaß haben. Mehr in unserer Telegram Gruppe",
+      "link": "https://share.google/nabAYkc0COn0YzHpp",
+      "attendees": 1,
+      "nostr_note": "49cb6bc51bbe7ee3b7792f678718a2182b832916a7e44e09278a7bf0ba23bb2a"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1065,7 +1073,7 @@
       "location": "Erlangen, Pizzeria TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
     "style": {
@@ -1573,15 +1581,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-07-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2385",
-      "location": "Landau",
-      "description": "Details in den Gruppen",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "b1aba0951a22fa9969df4ad6f3963d4ee93ee535b62763731974e430b7325ffb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2141,12 +2141,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "start": "2025-07-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2074",
+      "start": "2025-08-11 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2075",
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "5eb98d9cf9cb523a75cecf599c1eb6a1f85eb2d747234ca4e4e07b41f0e55394"
     },
     "style": {
@@ -2402,7 +2402,7 @@
       "location": "Hilpoltstein",
       "description": "Wir Treffen uns diese mal in Hilpoltstein by Shepherds im Stadtmauerbiergarten",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "89fd2f0d06712fff327638885e4d01dad655dd1ada943c1b52d6d04e3d98abe7"
     },
     "style": {
@@ -3368,15 +3368,7 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": {
-      "start": "2025-07-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2346",
-      "location": "Restaurant Plaschlhof, Wartberg an der Krems, Sportplatzweg 1",
-      "description": "Alle sind herzlich willkommen!\nTriff Bitcoiner und Neugierige ;-)",
-      "link": "https://maps.app.goo.gl/LcxTNdMuGyvJGwCd9?g_st=com.google.maps.preview.copy",
-      "attendees": 2,
-      "nostr_note": "a320d71f6996c859ca2503cb37f96a36a773dc064f9c029fe9fd7b179f4a61e7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
