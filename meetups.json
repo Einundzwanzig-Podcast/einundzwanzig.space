@@ -497,7 +497,7 @@
       "location": "Königlicher Hirschgarten Hirschgarten 1, 80639 München",
       "description": "Essen, Trinken, Spaß haben. Mehr in unserer Telegram Gruppe",
       "link": "https://share.google/nabAYkc0COn0YzHpp",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "49cb6bc51bbe7ee3b7792f678718a2182b832916a7e44e09278a7bf0ba23bb2a"
     },
     "style": {
@@ -1073,7 +1073,7 @@
       "location": "Erlangen, Pizzeria TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
     "style": {
@@ -2379,7 +2379,7 @@
       "location": "Craftbar Rostock 18057 Rostock Margaretenstrasse 41",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "4c38d766e17dbb289899ef3d10e67c2fbe2644944ed613049edc0fe9b720caf1"
     },
     "style": {
@@ -2396,15 +2396,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-07-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2393",
-      "location": "Hilpoltstein",
-      "description": "Wir Treffen uns diese mal in Hilpoltstein by Shepherds im Stadtmauerbiergarten",
-      "link": "https://www.shepherds-food.de/",
-      "attendees": 4,
-      "nostr_note": "89fd2f0d06712fff327638885e4d01dad655dd1ada943c1b52d6d04e3d98abe7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2780,7 +2772,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-07-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2401",
+      "location": "Radis Stacks",
+      "description": "Achtung diese Woche ist am Freitag unser Meetup im Stacks.\nDas Wetter ist gut also werden wir draußen sitzen. Eure Getränke und Speisen könnt ihr wie immer mit Sats zahlen🔥",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "24351d0d4f916f5ccd198d5851593614484452b565352cfefc5f8ca8cefe0864"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2809,6 +2809,21 @@
     "url": "https://t.me/Einundzwandig_Ulm",
     "city": "Ulm",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Ulm ",
+    "latLng": [
+      48.3974003,
+      9.9934336
+    ],
+    "url": "https://t.me/Einundzwandig_Ulm",
+    "city": "Ulm",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm-1",
     "twitter": null,
     "event": null,
     "style": {
@@ -3404,7 +3419,7 @@
       "location": "Bar 21 Ebelsberg",
       "description": "Eine Einführung in die Österreichische Ökonomie",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "16b7a573439c58d5b59a4dbbdc8a620a728f2b5496bc506f119ef9363137256f"
     },
     "style": {
