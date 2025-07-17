@@ -145,13 +145,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-07-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2212",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-08-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2021",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -341,13 +341,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
     "event": {
-      "start": "2025-07-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2374",
+      "start": "2025-08-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2405",
       "location": "Rumbar Unity (Arsenalstraße 36)",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nEvent-Link",
       "link": "https://rumbar-schwerin.yolasite.com/",
       "attendees": 0,
-      "nostr_note": "f40d168d0acd3ff323a1e64ee28c7d7b8c74ac4c95b4560320900c5b0c9f4f6a"
+      "nostr_note": "92f78d6deb1331697d0b06767dc6cfe74508b5416290c362fba8920e70c3299c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -497,7 +497,7 @@
       "location": "Königlicher Hirschgarten Hirschgarten 1, 80639 München",
       "description": "Essen, Trinken, Spaß haben. Mehr in unserer Telegram Gruppe",
       "link": "https://share.google/nabAYkc0COn0YzHpp",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "49cb6bc51bbe7ee3b7792f678718a2182b832916a7e44e09278a7bf0ba23bb2a"
     },
     "style": {
@@ -1073,7 +1073,7 @@
       "location": "Erlangen, Pizzeria TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
     "style": {
@@ -1490,7 +1490,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-08-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2402",
+      "location": "Herzwerk Kempten, Kurt-Blaschke-Straße 7, 87439 Kempten",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "5171ce45dc944b88718db8b6a768a5f6894f2c8d37f0b51ceaf827b107de082e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1559,8 +1567,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-07-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1826",
+      "start": "2025-08-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1827",
       "location": "",
       "description": null,
       "link": null,
@@ -1626,7 +1634,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2403",
+      "location": "82405 Paterzell",
+      "description": "Herzlich Willkommen zum siebten Bitcoin-Stammtisch im Lechrain.\nOb alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen.\nWir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig!\nKomm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://www.landgasthof-eibenwald.de/",
+      "attendees": 2,
+      "nostr_note": "137cbb45fca5c5dee0e0698ac8906d6da101d88ba028e33bd705a30728567e03"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2343,7 +2359,15 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2404",
+      "location": "La Fontana Rinteln",
+      "description": "Special Gast aus El Salvador!\n\n\nPizza, gute Gespräche und ein Blick hinter die Kulissen El Salvadors!\nKomm ins La Fontana Restaurant und genieße einen Abend voller Austausch und leckerer Pizza.\n\n🎤 Special Guest aus El Salvador\n\nUnser Gast erzählt, wie das Leben früher unter Ganggewalt war – und wie sich der Alltag im Land unter Präsident Nayib Bukele verändert hat.\n\n👥 Offen für alle – ob Bitcoin-Neuling oder Enthusiast.\nEin Abend mit ehrlichen Einblicken, spannenden Diskussionen und gutem Essen. Sei dabei!",
+      "link": "https://g.co/kgs/TZgJgmL",
+      "attendees": 1,
+      "nostr_note": "8f5a76ce3c587770d55761300b2e38858948002e63528957a166ebc2bff80ac4"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3513,7 +3537,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-07-19 16:30:00",
+      "start": "2025-07-19 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1745",
       "location": "Passau oder Schärding",
       "description": "46. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
