@@ -1073,7 +1073,7 @@
       "location": "Erlangen, Pizzeria TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
     "style": {
@@ -1309,7 +1309,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-07-19 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2406",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 19.07.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten :-)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "d3be66f94d9d95258064e09cb2a87422d9f2d9d17427dee9355561d348f9740c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
