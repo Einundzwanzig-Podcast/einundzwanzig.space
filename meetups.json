@@ -860,7 +860,7 @@
       "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
       "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
       "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "e2efbfb0b5189d44c3a331291fcf67f17345aed953d9f7e5d04035429e39b7cd"
     },
     "style": {
@@ -1073,7 +1073,7 @@
       "location": "Erlangen, Pizzeria TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
     },
     "style": {
@@ -1386,8 +1386,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-07-18 16:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1787",
+      "start": "2025-08-15 16:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1788",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
@@ -1749,13 +1749,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-07-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2113",
+      "start": "2025-08-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2114",
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "02fb6879333b8e0e283c3062aa5b0e3509e8a767e80d2df6d431029e6547ded8"
+      "nostr_note": "5e97f50261bfa8247ebcf0c45e5480b09ff74297bf25cd79ee28dce6ebd54477"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2804,15 +2804,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "start": "2025-07-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2401",
-      "location": "Radis Stacks",
-      "description": "Achtung diese Woche ist am Freitag unser Meetup im Stacks.\nDas Wetter ist gut also werden wir draußen sitzen. Eure Getränke und Speisen könnt ihr wie immer mit Sats zahlen🔥",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "24351d0d4f916f5ccd198d5851593614484452b565352cfefc5f8ca8cefe0864"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3121,7 +3113,15 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "start": "2025-08-01 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2407",
+      "location": "Münchberg ",
+      "description": "Gourmet wunderlich \n\nGartenstr 5 in 95213 Münchberg",
+      "link": "https://maps.app.goo.gl/G9uhC91wNwHmuMvU7",
+      "attendees": 0,
+      "nostr_note": "40c3d16457dd01e31dc3e3a2dce72c0f52d4dfad50847ba171862107df5dd540"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3521,15 +3521,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "start": "2025-07-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2345",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 18.07.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "34d6c961f7bc2a54a8b1957e49e561a4e673b1ae284961dc324d6c17c8f0e263"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3990,8 +3982,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "start": "2025-07-18 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2323",
+      "start": "2025-08-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2324",
       "location": null,
       "description": null,
       "link": null,
