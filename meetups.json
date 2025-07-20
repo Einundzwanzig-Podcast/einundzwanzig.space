@@ -409,13 +409,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-07-19 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1911",
+      "start": "2025-08-02 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1912",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "03ab8198dd963a852ff81e63919c3bbc054abc08e4f070b4814fd8c2c0f6f1a5"
+      "nostr_note": "752651d52fd876697bfbcc1ec10e502b364981b1a21173acadccde86d15dc8e9"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1068,13 +1068,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-07-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1931",
-      "location": "Erlangen, Pizzeria TIO RUSTICA",
-      "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
-      "link": "https://maps.app.goo.gl/Tpwq7UqqGsBrjUHs7",
-      "attendees": 7,
-      "nostr_note": "981e07c223e326ff83e3d8d929776dbc46c4995a61f33492eea41da1a61d1f1d"
+      "start": "2025-08-23 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1932",
+      "location": "Fürth",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c5c2cf82911a78ca6e4063a2bc880389e13751363f9b701b87418021bcbbfeff"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1241,7 +1241,15 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-31 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2409",
+      "location": "Hamburg Sternschanze",
+      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "nostr_note": "7bafc5c2d78b92eda90942d842d2605db3f66bd833abe22d88b4cf9e9bb4cb81"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1309,15 +1317,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "start": "2025-07-19 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2406",
-      "location": "HN",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 19.07.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten :-)",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "d3be66f94d9d95258064e09cb2a87422d9f2d9d17427dee9355561d348f9740c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1930,15 +1930,7 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-07-19 13:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2388",
-      "location": "Neubrandenburg ",
-      "description": "🚨 Einundzwanzig Neubrandenburg Meetup – es ist wieder soweit!\n📅 19.07.2025\n🕒 Start: 15:21 Uhr\n📍 MyArea Coworking Space, Treptower Straße 1 (Marien Carrée), Neubrandenburg\n\n🔐 Not Your Keys, Not Your Coins\nBeim nächsten Meetup dreht sich alles um die Eigenverwahrung von Bitcoin.\nEs gibt einen kompakten Einsteigervortrag, damit auch Neulinge verstehen, warum eigene Schlüssel so wichtig sind.\n\n💬 Der Austausch untereinander steht wie immer im Fokus. Egal ob du ganz neu dabei bist oder schon lange Bitcoiner – komm gerne vorbei!\n\n🎟️ Kostenlos & offen für alle!\n\n#BitcoinNB #EinundzwanzigMeetup #NotYourKeysNotYourCoins #Neubrandenburg",
-      "link": "https://maps.app.goo.gl/J7zUE9QV9v5HG14SA?g_st=ipc",
-      "attendees": 0,
-      "nostr_note": "48b69a9755db758ad7139487879bdb7ea3214574f57cbdf15a88eb90ea3cd3bb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1969,13 +1961,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
-      "start": "2025-07-19 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2227",
+      "start": "2025-08-16 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2228",
       "location": "Der Schafstall, Am Büsenbach 35, 21256 Handeloh",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "99a8295e7309777797ddf5d6809bd3941e85ceaaa27d10628b6c61a666127a2f"
+      "nostr_note": "24d5aaff2e6d0d61ed0d5da82ee2565c1f49f049eaeedb13a58a33381a33e3dd"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2804,7 +2796,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-08-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2408",
+      "location": "Radis Stacks",
+      "description": "Nächstes Meetup Freitag 15.08.2025 im Stacks ab 18 Uhr.\nIhr könnte wie immer die besten Burger von Trier und eure Getränke mit Sats bezahlen.\n\nBitte nur zusagen wenn ihr auch wirklich kommt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "840ba21476a29fed4ce58dc34082adb7ce2cbbb6502159cab64baadb386b2713"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3001,13 +3001,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-07-19 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1056",
-      "location": "Passau oder Schärding",
-      "description": "Komm in die Telegramm Gruppe - dort wird bekannt gegeben wo das Meetup ist",
+      "start": "2025-08-15 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2308",
+      "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
+      "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
       "attendees": 0,
-      "nostr_note": "029a7c8f4e953459e32fde2e765897d2280d45cfa03083202743ac990b2dbc23"
+      "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3451,7 +3451,7 @@
       "location": "Bar 21 Ebelsberg",
       "description": "Eine Einführung in die Österreichische Ökonomie",
       "link": null,
-      "attendees": 1,
+      "attendees": 4,
       "nostr_note": "16b7a573439c58d5b59a4dbbdc8a620a728f2b5496bc506f119ef9363137256f"
     },
     "style": {
@@ -3537,13 +3537,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-07-19 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1745",
+      "start": "2025-08-16 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1746",
       "location": "Passau oder Schärding",
-      "description": "46. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "47. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "7ba9d2cade5369854bf0fdb1cd253d9fdd104da4a16b503d95700c88a9bbb549"
+      "nostr_note": "f8c68848e24f9faa79144b577320160ee24d7bb8bbaab2ace755e31bcf54f3a0"
     },
     "style": {
       "fill": "var(--color-accent)"
