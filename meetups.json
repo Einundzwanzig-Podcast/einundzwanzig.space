@@ -491,15 +491,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2025-07-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2400",
-      "location": "Königlicher Hirschgarten Hirschgarten 1, 80639 München",
-      "description": "Essen, Trinken, Spaß haben. Mehr in unserer Telegram Gruppe",
-      "link": "https://share.google/nabAYkc0COn0YzHpp",
-      "attendees": 4,
-      "nostr_note": "49cb6bc51bbe7ee3b7792f678718a2182b832916a7e44e09278a7bf0ba23bb2a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -989,7 +981,7 @@
       "location": "Landgasthof Stangl Münchner Str. 2, 85452 Moosinning (Eichenried)",
       "description": "Alle Infos in unserer Telegram Gruppe.",
       "link": "https://www.gasthof-stangl.de/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "404cb0d9b86544bdea1828e6c66667f169351f4f79109a32d038013924f8e1c5"
     },
     "style": {
@@ -1239,7 +1231,7 @@
       "location": "Hamburg Sternschanze",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7bafc5c2d78b92eda90942d842d2605db3f66bd833abe22d88b4cf9e9bb4cb81"
     },
     "style": {
@@ -1529,8 +1521,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2025-07-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1568",
+      "start": "2025-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1569",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -2390,13 +2382,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
     "event": {
-      "start": "2025-07-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2382",
+      "start": "2025-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2383",
       "location": "Craftbar Rostock 18057 Rostock Margaretenstrasse 41",
       "description": null,
       "link": null,
-      "attendees": 1,
-      "nostr_note": "4c38d766e17dbb289899ef3d10e67c2fbe2644944ed613049edc0fe9b720caf1"
+      "attendees": 0,
+      "nostr_note": "7517ae011181c8c0058b993eaac95892e272b62fd3d5b7937388359bbee93064"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3332,8 +3324,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-07-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2049",
+      "start": "2025-08-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2050",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
@@ -3443,7 +3435,7 @@
       "location": "Bar 21 Ebelsberg",
       "description": "Eine Einführung in die Österreichische Ökonomie",
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "16b7a573439c58d5b59a4dbbdc8a620a728f2b5496bc506f119ef9363137256f"
     },
     "style": {
