@@ -23,19 +23,18 @@
     width: 21em;
   }
 
-  & .cover {
+  & .cover,
+  & .flyer,
+  & .presentation {
     display: inline-block;
-    width: 9em;
     max-width: 100%;
+    width: 16em;
     margin: 0 var(--space-l) var(--space-l) 0;
     border-radius: var(--space-s);
   }
 
-  & .flyer {
-    display: inline-block;
-    width: 280px;
-    margin: 0 var(--space-l) var(--space-l) 0;
-    border-radius: var(--space-s);
+  & .cover {
+    width: 10em;
   }
 
   & img {
