@@ -363,7 +363,15 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": null,
+    "event": {
+      "start": "2025-07-23 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2410",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #13",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars.\n\n[...]",
+      "link": "https://lu.ma/j6k937f4",
+      "attendees": 0,
+      "nostr_note": "25a1609d7430d1a608e5d0437b07422f0019fe24cda47ad611970ce45490a46f"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1626,15 +1634,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-07-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2403",
-      "location": "82405 Paterzell",
-      "description": "Herzlich Willkommen zum siebten Bitcoin-Stammtisch im Lechrain.\nOb alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen.\nWir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig!\nKomm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
-      "link": "https://www.landgasthof-eibenwald.de/",
-      "attendees": 3,
-      "nostr_note": "137cbb45fca5c5dee0e0698ac8906d6da101d88ba028e33bd705a30728567e03"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2893,7 +2893,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-07-24 16:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2413",
+      "location": "Heinsberg / Waldenrath",
+      "description": "gemütlicher Stammtisch in der Dorfkneipe. Noch keine Ahnung von Bitcoin ? Komm vorbei, jeder ist Willkommen.",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 1,
+      "nostr_note": "36271d6db6347ff0a5d55cffdbfe2dc63a1e8892f5fb2a980a72f27333bb4f2d"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
