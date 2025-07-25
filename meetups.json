@@ -966,7 +966,7 @@
       "location": "Ellwangen",
       "description": "Bistro Altstadt Ellwangen",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "a1811b2eca34acc3dd9f7ddcb4c968093e9f360103314c00d15b64eacdb7a74b"
     },
     "style": {
@@ -2909,15 +2909,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2025-07-24 16:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2413",
-      "location": "Heinsberg / Waldenrath",
-      "description": "gemütlicher Stammtisch in der Dorfkneipe. Noch keine Ahnung von Bitcoin ? Komm vorbei, jeder ist Willkommen.",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 1,
-      "nostr_note": "36271d6db6347ff0a5d55cffdbfe2dc63a1e8892f5fb2a980a72f27333bb4f2d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
