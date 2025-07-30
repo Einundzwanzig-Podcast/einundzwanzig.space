@@ -938,7 +938,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-08-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2430",
+      "location": "Reisbach",
+      "description": "Location noch unklar, weitere Info´s in der lokalen Telegram Gruppe.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "b5a91b271fd0396ddd11a4db576cd42d3b57446e50feaa9736d683f6de1c64d4"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
