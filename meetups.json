@@ -1264,15 +1264,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "start": "2025-07-31 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2409",
-      "location": "Hamburg Sternschanze",
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
-      "nostr_note": "7bafc5c2d78b92eda90942d842d2605db3f66bd833abe22d88b4cf9e9bb4cb81"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1305,8 +1297,8 @@
     "event": {
       "start": "2025-08-27 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1603",
-      "location": "Höfestr. 25 im Keller",
-      "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Jeden Bitwoch Ende des Monats um 19 Uhr, in der Höfestr. 25 im Keller. \n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
+      "location": "Haltenhoffstr. 50 (bei CONDAT), in 30167 Hannover (Nordstadt)",
+      "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Bei CONDAT in der Haltenhoffstr. 50, in 30167 Hannover (Nordstadt)\n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
       "attendees": 0,
       "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
@@ -3468,15 +3460,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-07-31 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2395",
-      "location": "Bar 21 Ebelsberg",
-      "description": "Eine Einführung in die Österreichische Ökonomie",
-      "link": null,
-      "attendees": 9,
-      "nostr_note": "16b7a573439c58d5b59a4dbbdc8a620a728f2b5496bc506f119ef9363137256f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
