@@ -387,13 +387,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-08-01 07:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2411",
-      "location": "₿🏃🏼 7th Satoshi Freeathlon in Herrsching am Ammersee - A hobby triathlon",
-      "description": "For the Celebration of Bitcoin UASF Independence Day we do a yearly hobby triathlon.\nWe meet at Park & Ride parking in Herrsching a. Ammersee at the S-Bahn station. [...]",
-      "link": "https://www.meetup.com/bitcoin-munich/events/310100778/",
+      "start": "2025-08-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2412",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786197/",
       "attendees": 0,
-      "nostr_note": "f3d9654626bb0ce28ef3662fadb9d565dd8898ded75b4f59c875785ee45b422a"
+      "nostr_note": "74962df7943cdb496dd52933839835f1ce4d022e050725219ffba237ff4731bc"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -992,13 +992,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-08-01 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2368",
-      "location": "Ellwangen",
-      "description": "Bistro Altstadt Ellwangen",
+      "start": "2025-09-05 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2369",
+      "location": "Ellwangen ",
+      "description": "Bistro Altstadt Ellwangen ",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 3,
-      "nostr_note": "a1811b2eca34acc3dd9f7ddcb4c968093e9f360103314c00d15b64eacdb7a74b"
+      "attendees": 0,
+      "nostr_note": "18ba64804421bfee3c9e662248af5eccf266657d0ada6e3e2279fbeae9711594"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1519,7 +1519,7 @@
       "location": "Herzwerk Kempten, Kurt-Blaschke-Straße 7, 87439 Kempten",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": null,
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "5171ce45dc944b88718db8b6a768a5f6894f2c8d37f0b51ceaf827b107de082e"
     },
     "style": {
@@ -1574,15 +1574,7 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
-    "event": {
-      "start": "2025-08-01 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2415",
-      "location": "Grillplatz am See, Marienschlucht",
-      "description": "15:00 Treffpunkt in Wallhausen am Hafen. Wer später erst kann, läuft einfach auf eigene Faust am See entlang den Uferweg bis zum Bootsanlegesteg an der Mairenschlucht.\n\nFußweg ca. 1h pro Strecke. Dann sind wir so kurz nach 16:00 dort, grillen, baden wer will und dann abends wieder ne Stunde zurück nach Wallhausen. Wer früher gehen muss, kann natürlich genauso auf eigene Faust jederzeit schon wieder los.\n",
-      "link": "https://maps.app.goo.gl/jw1F7uNfX51Zxd6x6",
-      "attendees": 0,
-      "nostr_note": "7b6f0cd19545d6e6724f43bca0c8654df6d85e7e92312fa45f0a8d3bc7bde6f0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1620,7 +1612,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-08-08 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2433",
+      "location": "Landau",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "babf68a75a6f369999dee19102ee13e403cb3f796ed860b9e630ba56ae234581"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2104,8 +2104,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-08-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1432",
+      "start": "2025-09-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1433",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -2314,7 +2314,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-08-07 16:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2432",
+      "location": "Rommelshausen ",
+      "description": "Im Trattoria Toscana",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 3,
+      "nostr_note": "31468c15f53e8c82f1bd2cb8578fdded69caec55de956391e9f4d927c1d2c565"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2441,7 +2449,7 @@
       "location": "Zu Weinstock bei Olga, Reichenbacher Straße 2, 91126 Schwabach",
       "description": "",
       "link": "https://www.openstreetmap.org/?mlat=49.328667&mlon=11.011890#map=18/49.328667/11.011890",
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "298eae99debe160ef0c43290421686f9559c39f76938fae8e14a8161a7525e4a"
     },
     "style": {
@@ -3128,15 +3136,7 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": {
-      "start": "2025-08-01 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2407",
-      "location": "Münchberg ",
-      "description": "Gourmet wunderlich \n\nGartenstr 5 in 95213 Münchberg",
-      "link": "https://maps.app.goo.gl/G9uhC91wNwHmuMvU7",
-      "attendees": 0,
-      "nostr_note": "40c3d16457dd01e31dc3e3a2dce72c0f52d4dfad50847ba171862107df5dd540"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
