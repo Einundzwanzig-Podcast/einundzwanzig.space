@@ -440,13 +440,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-08-02 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1912",
+      "start": "2025-08-16 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1913",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "752651d52fd876697bfbcc1ec10e502b364981b1a21173acadccde86d15dc8e9"
+      "nostr_note": "dac50d41a578a96d37d2d878a589576c296977c63088c9fe1aa4d84f4f9f0c18"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -463,6 +463,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "BitcoinWalk Hamburg",
+    "latLng": [
+      53.551086,
+      9.993682
+    ],
+    "url": "https://bitcoinwalk.org/hamburg/",
+    "city": "Hamburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
+    "twitter": null,
+    "event": {
+      "start": "2025-08-09 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2435",
+      "location": "Planetarium im Stadtpark Hamburg",
+      "description": "Bei BitcoinWalk kann jeder interessante Menschen treffen, die sich für Bitcoin begeistern und das revolutionäre Potenzial aus verschiedenen Blickwinkeln diskutieren möchten.",
+      "link": "https://omaps.app/84LUL3BI5_/Sitzbank",
+      "attendees": 0,
+      "nostr_note": "0359bab2f7f7d06a8f7e6ebab8e68f5e159583c6b1a6a7e81f6a32b1bbd9605d"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -916,13 +939,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
     "event": {
-      "start": "2025-08-02 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2173",
+      "start": "2025-09-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2174",
       "location": "Cafe Mix, Detmold, Meierstr. 12",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "462a8396e8d5be416f62425d70564f3804edb7cf0278a5257da752fec7c89bea"
+      "nostr_note": "ebf3764105282f9b423590d025e6c3fac414485426cff9662c8e3685d0fbeae4"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -997,7 +1020,7 @@
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "18ba64804421bfee3c9e662248af5eccf266657d0ada6e3e2279fbeae9711594"
     },
     "style": {
@@ -1746,7 +1769,7 @@
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "0109e0a02d2bec01adf9967ccfd56a551ad233950b1224361052272c2e90e7fd"
     },
     "style": {
@@ -1923,8 +1946,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2025-08-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1384",
+      "start": "2025-09-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1385",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
@@ -3590,10 +3613,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-08-02 10:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1736",
-      "location": "Einundzwanzig-MemPool-Party Tirol in der Strandperle Seefeld",
-      "description": "Alljährliche Einundzwanzig-MemPool-Party Tirol in der Strandperle Seefeld",
+      "start": "2025-09-17 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1732",
+      "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
       "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
