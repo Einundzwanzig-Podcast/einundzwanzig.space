@@ -2343,7 +2343,7 @@
       "location": "Rommelshausen ",
       "description": "Im Trattoria Toscana",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "31468c15f53e8c82f1bd2cb8578fdded69caec55de956391e9f4d927c1d2c565"
     },
     "style": {
@@ -2472,7 +2472,7 @@
       "location": "Zu Weinstock bei Olga, Reichenbacher Straße 2, 91126 Schwabach",
       "description": "",
       "link": "https://www.openstreetmap.org/?mlat=49.328667&mlon=11.011890#map=18/49.328667/11.011890",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "298eae99debe160ef0c43290421686f9559c39f76938fae8e14a8161a7525e4a"
     },
     "style": {
@@ -3589,7 +3589,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2025-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2448",
+      "location": "Rox, Joanneumring 5, 8010 Graz",
+      "description": "Unser monatliches Community-Meetup steht wieder vor der Tür – diesmal mit einer besonderen Mission!\n\n📅 Wann? Donnerstag, 21. August, ab 18:00 Uhr\n📍 Wo? Im Rox, Graz\n\nBesonders schön: Der Besitzer vom Rox zeigt Interesse daran, Bitcoin als Zahlungsmittel zu akzeptieren! Er ist noch neu in der Thematik, aber wir nehmen uns beim Meetup gerne Zeit, ihm ein bisschen unter die Arme zu greifen.\n\nMit etwas Glück (und Lightning-Speed 😉) könnt ihr vielleicht schon nach dem Meetup eure Drinks in Sats bezahlen!\n\nWir freuen uns wie immer auf euch – kommt vorbei, bringt gute Laune mit und lasst uns gemeinsam an einem offenen, freundlichen und souveränen Bitcoin-Austausch arbeiten. 🧡\n\nUnd vielleicht ist der ein oder andere Zitadellen Besucher auch dabei und berichtet von dem wundervollen Wochenende in Heldrungen auf der Wasserburg 🏰",
+      "link": "https://www.rox-graz.at/",
+      "attendees": 1,
+      "nostr_note": "402f79a7f6177ab9cd88f230fdb6fd07e6d1226a3089951b9e97447ee050af1a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
