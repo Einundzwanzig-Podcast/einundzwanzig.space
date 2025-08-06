@@ -389,9 +389,9 @@
     "event": {
       "start": "2025-08-06 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2412",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786197/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n[...]\n\nWann: Mittwoch, 06. August 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~908.841\n\n​Ort diesmal: Wirtshaus am Bavariapark, Wetter anscheinend wieder gut, daher wahrscheinlich im Biergartenbereich\n\n[...]",
+      "link": "https://lu.ma/g50j84mu",
       "attendees": 0,
       "nostr_note": "74962df7943cdb496dd52933839835f1ce4d022e050725219ffba237ff4731bc"
     },
@@ -915,15 +915,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-08-05 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2396",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "nostr_note": "bf3f05e11a79f3e2826490117a38636484ab29eed559cc8fb1da697b272456ed"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1119,7 +1111,7 @@
       "location": "Fürth",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "c5c2cf82911a78ca6e4063a2bc880389e13751363f9b701b87418021bcbbfeff"
     },
     "style": {
@@ -2466,15 +2458,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-08-05 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2431",
-      "location": "Zu Weinstock bei Olga, Reichenbacher Straße 2, 91126 Schwabach",
-      "description": "",
-      "link": "https://www.openstreetmap.org/?mlat=49.328667&mlon=11.011890#map=18/49.328667/11.011890",
-      "attendees": 5,
-      "nostr_note": "298eae99debe160ef0c43290421686f9559c39f76938fae8e14a8161a7525e4a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3499,6 +3483,21 @@
       "attendees": 0,
       "nostr_note": "9450eb0722926eb44311a463b27e26d82ebd7b1b829a07c1b20c8d52fa66016b"
     },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Osttirol",
+    "latLng": [
+      46.82946,
+      12.76895
+    ],
+    "url": "https://t.me/+pPAqZx3HrORjNTBk",
+    "city": "Lienz in Osttirol",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-osttirol",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
