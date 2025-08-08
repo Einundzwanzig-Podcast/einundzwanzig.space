@@ -168,13 +168,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-08-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2021",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "start": "2025-08-20 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2213",
+      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "description": "Stammtisch Café Holzmarktperle",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -304,6 +304,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-harz",
     "twitter": "MeetupHarz",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Meetup Jever",
+    "latLng": [
+      53.57568,
+      7.9003
+    ],
+    "url": "https://portal.einundzwanzig.space/de/meetup/meetup-events?l=de",
+    "city": "Jever",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
+    "twitter": null,
+    "event": {
+      "start": "2025-08-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2452",
+      "location": "1848 Pütt",
+      "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns in der 1848 Pütt. 3. Freitag im Monat, 18 Uhr.",
+      "link": "https://www.1848puett.de/",
+      "attendees": 0,
+      "nostr_note": "66ade98424edc2cc4e1ce270d6135426e029a53fca4efff05d43ef23003bbe1d"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -787,8 +810,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-08-07 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1802",
+      "start": "2025-09-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1803",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
@@ -1740,12 +1763,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-08-07 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1947",
+      "start": "2025-09-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1948",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "0109e0a02d2bec01adf9967ccfd56a551ad233950b1224361052272c2e90e7fd"
     },
     "style": {
@@ -2116,7 +2139,7 @@
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
     },
     "style": {
@@ -2321,15 +2344,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-08-07 16:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2432",
-      "location": "Rommelshausen ",
-      "description": "Im Trattoria Toscana",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 4,
-      "nostr_note": "31468c15f53e8c82f1bd2cb8578fdded69caec55de956391e9f4d927c1d2c565"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2457,7 +2472,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-22 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2451",
+      "location": "Gasthaus Sonne (Uwe Ross) in Göllsdorf bei Rottweil ",
+      "description": null,
+      "link": "https://maps.app.goo.gl/SAeNFA2o35B8kZWW7",
+      "attendees": 0,
+      "nostr_note": "bef398c71b462c518dbcd5331eaa22a285cd194c8f9a7e73a9f44a43fc422fca"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
