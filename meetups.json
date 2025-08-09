@@ -1634,15 +1634,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-08-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2433",
-      "location": "Landau",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "babf68a75a6f369999dee19102ee13e403cb3f796ed860b9e630ba56ae234581"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1982,15 +1974,7 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": {
-      "start": "2025-08-08 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2450",
-      "location": "Malo im Schloss, Schloss Haag 8, 47608 Geldern",
-      "description": "Neulinge sind auch herzlich Willkommen. :)",
-      "link": "https://maloimschloss.de/",
-      "attendees": 0,
-      "nostr_note": "911b29cf8494715253f78d48faba35804c3ec74e5b171a20eebccbda130f27b7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2389,7 +2373,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-14 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2465",
+      "location": "Kalyva - Kölner Str. 375, 51515 Kürten",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "3194bbdc5e367a15be28dac91aaac706f51e32547900e6d8c0b716e43b2f4962"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3030,7 +3022,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-08-15 16:30:00",
+      "start": "2025-08-16 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2308",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
@@ -3399,8 +3391,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "start": "2025-08-08 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2187",
+      "start": "2025-09-12 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2188",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
@@ -3573,7 +3565,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-08-16 16:30:00",
+      "start": "2025-08-16 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1746",
       "location": "Passau oder Schärding",
       "description": "47. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
