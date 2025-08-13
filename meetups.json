@@ -281,13 +281,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-08-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1988",
+      "start": "2025-09-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1989",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "93ae79bf5b6d256e200d47161301707c05c7a59682d55388b5e6750e2936064c"
+      "nostr_note": "b1ed0fcb4f1e98f0199119a71827993fc0717409cefc8b0c83a0bb6d0ad9a61d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -901,13 +901,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-08-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2102",
+      "start": "2025-09-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2103",
       "location": null,
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
-      "nostr_note": "e5f6b1b218e93fd9e905943c97c5920179863211ec27fcec95cebf757e1e6c8e"
+      "nostr_note": "0663246da62cce5108cf869ade6ed3a61c285ad178fcaef922271e5922606fd8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1083,8 +1083,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-08-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1854",
+      "start": "2025-09-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1855",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -3130,11 +3130,19 @@
       50.191189,
       11.78886
     ],
-    "url": "t.me/Einundzwanzig.münchberg",
+    "url": "https://t.me/c/2329927242/119",
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "start": "2025-08-30 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2467",
+      "location": "Gartenstr 5 in 95213 Münchberg bei Gourmet Wunderlich ",
+      "description": "Fichtelcoiner X Gourmet Wunderlich ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "fcd73ef46001e14e5c0f894c52428dcc0a358ab3c8f99dd809c571ec9983f51c"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
