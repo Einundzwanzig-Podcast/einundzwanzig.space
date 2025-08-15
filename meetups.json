@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-08-15 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2468",
+      "location": "https://kalualoungebar.com/",
+      "description": "Ein  neuer Monat ein neues Meeting!",
+      "link": "https://kalualoungebar.com/",
+      "attendees": 3,
+      "nostr_note": "573d290a12b3f0327bf33c727ef44f19048b364a24cbf37eb79c1430ef26f000"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2373,15 +2381,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "start": "2025-08-14 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2465",
-      "location": "Kalyva - Kölner Str. 375, 51515 Kürten",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "3194bbdc5e367a15be28dac91aaac706f51e32547900e6d8c0b716e43b2f4962"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2758,13 +2758,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-08-14 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2035",
+      "start": "2025-09-11 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2036",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "138bc501d8bebe72c453765f185a20a2d483536921d78c7264bc3bdb4b716faf"
+      "nostr_note": "d026e3565123bf5e23768c329fd6bb7a024d94f5edb9fdd6d1819d1b3d80b7b4"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2831,7 +2831,7 @@
       "location": "Radis Stacks",
       "description": "Nächstes Meetup Freitag 15.08.2025 im Stacks ab 18 Uhr.\nIhr könnte wie immer die besten Burger von Trier und eure Getränke mit Sats bezahlen.\n\nBitte nur zusagen wenn ihr auch wirklich kommt.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "840ba21476a29fed4ce58dc34082adb7ce2cbbb6502159cab64baadb386b2713"
     },
     "style": {
