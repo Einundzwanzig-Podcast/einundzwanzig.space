@@ -1126,7 +1126,7 @@
       "location": "Zu den Sieben Schwaben, Fürth",
       "description": "Zu den Sieben Schwaben\nOtto-Seeling-Promenade 20\n90762 Fürth",
       "link": "https://maps.app.goo.gl/cVx95o2fSH1WT1r48",
-      "attendees": 6,
+      "attendees": 7,
       "nostr_note": "c5c2cf82911a78ca6e4063a2bc880389e13751363f9b701b87418021bcbbfeff"
     },
     "style": {
@@ -1990,13 +1990,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
-      "start": "2025-08-16 13:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2228",
+      "start": "2025-09-20 13:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2229",
       "location": "Der Schafstall, Am Büsenbach 35, 21256 Handeloh",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "24d5aaff2e6d0d61ed0d5da82ee2565c1f49f049eaeedb13a58a33381a33e3dd"
+      "nostr_note": "c77776a74a1b2a5708301396a826d763189656da4b22d1ed46211f9a78579214"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3006,8 +3006,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-08-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2308",
+      "start": "2025-09-20 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2309",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3450,7 +3450,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-09-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2470",
+      "location": "Bar 21",
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "c21a2b799bb37ad2a918a840b1e04b8f14a90e304e0462cc673e8dca0c559ceb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3557,13 +3565,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-08-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1746",
+      "start": "2025-09-20 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1747",
       "location": "Passau oder Schärding",
-      "description": "47. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "48. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "f8c68848e24f9faa79144b577320160ee24d7bb8bbaab2ace755e31bcf54f3a0"
+      "nostr_note": "1bbcb79e78c8cfa07250a4175c9ed2921fc46015950a5cebbe50309dd65debd4"
     },
     "style": {
       "fill": "var(--color-accent)"
