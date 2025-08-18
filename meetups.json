@@ -410,13 +410,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-08-17 10:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2469",
-      "location": "₿🥾 Hiking / PlebWalk: Starnberg ➜ Maisinger Seehof",
-      "description": "Am Sonntag, 17. August (Ende eines langen Wochenendes) plebwalken und pilgern wir wieder von Starnberg aus zum Maisinger Seehof, zwischen dem Starnberger See und dem Ammersee gelegen, der Bitcoin akzeptiert. Der Wanderweg führt durch die sehr schöne Maisinger Schlucht. Für die Strecke benötigt man zirka eine Stunde. [...]\n\nWann: Sonntag, 17. August 2025, Treffpunkt 12:30 Uhr mittags, Blockzeit ~910.409\n\n​Ort diesmal: Treffpunkt \"Caffè-Eis-Tabak Gelatino\"-Kiosk an der S-Bahn-Station Starnberg (Seepromenade) direkt am Seeufer",
-      "link": "https://lu.ma/fskidtkm",
+      "start": "2025-09-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2449",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!\n\n[...]",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786215/",
       "attendees": 0,
-      "nostr_note": "35cf1ecf8f200ecbd207561d68f74b237d2960a92edc5435651aa4716d1738b5"
+      "nostr_note": "ea407dad6ee3ba3d6f9622e30e97fc2a869248732e17dac5d52ee8217005358d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1121,13 +1121,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-08-17 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1932",
-      "location": "Zu den Sieben Schwaben, Fürth",
-      "description": "Zu den Sieben Schwaben\nOtto-Seeling-Promenade 20\n90762 Fürth",
-      "link": "https://maps.app.goo.gl/cVx95o2fSH1WT1r48",
-      "attendees": 7,
-      "nostr_note": "c5c2cf82911a78ca6e4063a2bc880389e13751363f9b701b87418021bcbbfeff"
+      "start": "2025-09-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1933",
+      "location": "Bamberg, Café Miez ⚡️",
+      "description": "Café Miez ⚡️\nAu Straße 8\n96047 Bamberg",
+      "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
+      "attendees": 0,
+      "nostr_note": "6ee84ee0fd4e0bdf76573e1ed9d861ec87a22188b55e70f10fe3fdb508caf7e1"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1294,7 +1294,15 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2472",
+      "location": "Hamburg - Sternschanze",
+      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "nostr_note": "45c3d794a18fb001670c8ffaff82f268dc0b41ad5e1c1620b09d8a4b1be42ff0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1617,7 +1625,7 @@
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -1634,7 +1642,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-09-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2471",
+      "location": "Landau",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "170cab56e72f174ec9ad404128cdc7de64415fd246d6b334b45a151381c2f775"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3456,7 +3472,7 @@
       "location": "Bar 21",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "c21a2b799bb37ad2a918a840b1e04b8f14a90e304e0462cc673e8dca0c559ceb"
     },
     "style": {
