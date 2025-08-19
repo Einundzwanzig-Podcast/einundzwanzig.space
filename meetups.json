@@ -568,7 +568,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-08-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2473",
+      "location": "Wirtshaus zur Brezn, Leopoldstraße 72, 80802 München, ",
+      "description": "Reservierungs-Stichwort: \"Einundzwanzig\"\nMehr im Telegram Kanal.",
+      "link": "https://zurbrezn.de/",
+      "attendees": 1,
+      "nostr_note": "a7af9c667e7cd412a14385e410b4b33befe2b3199914e97dce1e668d5b9bbf54"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -938,7 +946,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-02 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2474",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "0dd4cdcb1722a723f885491338f224f8a1babe825e5d871eca0b7eadc059891b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3210,7 +3226,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-23 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2475",
+      "location": "Waldschänke Dornheim",
+      "description": "Schöner Biergarten in lässiger Atmosphäre. Am besten mal in den Telegram Kanal schauen wegen dem Tisch. Ansonsten schau die nach einer kleinen Ansammlung von Psychopathen um oder nem B Schild oder Merch.",
+      "link": "https://maps.app.goo.gl/AF2SeaNp75Go5HJZ9",
+      "attendees": 0,
+      "nostr_note": "1c6a4dfeed9f7f14fd9489544a7c1a37439a27936832297d03d0b84d3941ad80"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
