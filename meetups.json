@@ -168,13 +168,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-08-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2213",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-09-04 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2022",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -386,15 +386,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-08-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2405",
-      "location": "Rumbar Unity (Arsenalstraße 36)",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nEvent-Link",
-      "link": "https://rumbar-schwerin.yolasite.com/",
-      "attendees": 0,
-      "nostr_note": "92f78d6deb1331697d0b06767dc6cfe74508b5416290c362fba8920e70c3299c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1659,12 +1651,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-08-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1827",
+      "start": "2025-09-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1828",
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -2029,7 +2021,15 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-12 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2477",
+      "location": "Wesel",
+      "description": "Genauer Ort wird auf Telegram bekannt gegeben. ",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "726bb29c9db0a91a8a23a0893166e5f90609511ff434c7df82197354a65c8856"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3656,7 +3656,7 @@
       "location": "Rox, Joanneumring 5, 8010 Graz",
       "description": "Unser monatliches Community-Meetup steht wieder vor der Tür – diesmal mit einer besonderen Mission!\n\n📅 Wann? Donnerstag, 21. August, ab 18:00 Uhr\n📍 Wo? Im Rox, Graz\n\nBesonders schön: Der Besitzer vom Rox zeigt Interesse daran, Bitcoin als Zahlungsmittel zu akzeptieren! Er ist noch neu in der Thematik, aber wir nehmen uns beim Meetup gerne Zeit, ihm ein bisschen unter die Arme zu greifen.\n\nMit etwas Glück (und Lightning-Speed 😉) könnt ihr vielleicht schon nach dem Meetup eure Drinks in Sats bezahlen!\n\nWir freuen uns wie immer auf euch – kommt vorbei, bringt gute Laune mit und lasst uns gemeinsam an einem offenen, freundlichen und souveränen Bitcoin-Austausch arbeiten. 🧡\n\nUnd vielleicht ist der ein oder andere Zitadellen Besucher auch dabei und berichtet von dem wundervollen Wochenende in Heldrungen auf der Wasserburg 🏰",
       "link": "https://www.rox-graz.at/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "402f79a7f6177ab9cd88f230fdb6fd07e6d1226a3089951b9e97447ee050af1a"
     },
     "style": {
