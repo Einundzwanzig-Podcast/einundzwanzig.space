@@ -583,15 +583,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2025-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2473",
-      "location": "Wirtshaus zur Brezn, Leopoldstraße 72, 80802 München, ",
-      "description": "Reservierungs-Stichwort: \"Einundzwanzig\"\nMehr im Telegram Kanal.",
-      "link": "https://zurbrezn.de/",
-      "attendees": 1,
-      "nostr_note": "a7af9c667e7cd412a14385e410b4b33befe2b3199914e97dce1e668d5b9bbf54"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1242,15 +1234,7 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": {
-      "start": "2025-08-21 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2397",
-      "location": "Fulda - Keulos ",
-      "description": "Wir treffen uns ab 18:30 Uhr im Lindenhof in Keulos. Dieses Mal wird er wahrscheinlich wieder einen Vortrag geben! ",
-      "link": "https://keulos.beepworld.de/",
-      "attendees": 1,
-      "nostr_note": "76b947ee91c55a31424113cbc44c7c5d98d6b56117a1a09cc5d1f199e9702d17"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1582,7 +1566,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-09-16 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2479",
+      "location": "Gasthof Alte Schmiede, Memminger Str. 68, 87439 Kempten ",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“ Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \nLocation: Alte Schmiede Kempten.\nBis dahin… Plebs together strong.\n",
+      "link": "https://www.schmiede-kempten.de/",
+      "attendees": 2,
+      "nostr_note": "a346c337f09d2505eb36084e74ad5799edd28edb0034ab953d349c8f5db1d3a3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1613,8 +1605,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "start": "2025-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1569",
+      "start": "2025-09-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1570",
       "location": "Koblenz ",
       "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
       "link": null,
@@ -1726,22 +1718,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "Einundzwanzig Lechrain 2nd Meetup",
-    "latLng": [
-      47.876998,
-      11.023786
-    ],
-    "url": "https://t.me/Einundzwanziglechrain",
-    "city": "Lechrain",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain-2nd-meetup",
-    "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2478",
+      "location": "Weilheim Gaststätte Dachs Bräustüberl (Dachsbräu)",
+      "description": "Herzlich Willkommen zum achten Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡\n",
+      "link": "https://dachsbier.de/#braustueberl",
+      "attendees": 2,
+      "nostr_note": "0dce70615f158c86344f21c4bfa4d82a6f90390a5d3b0874a6860a40cee6dd07"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2474,13 +2459,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
     "event": {
-      "start": "2025-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2383",
+      "start": "2025-09-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2384",
       "location": "Craftbar Rostock 18057 Rostock Margaretenstrasse 41",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "7517ae011181c8c0058b993eaac95892e272b62fd3d5b7937388359bbee93064"
+      "nostr_note": "1123faa8c1c91e2e5469bbae2a66007e285c58779815efd959c591b0021af399"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3240,6 +3225,21 @@
     }
   },
   {
+    "name": "To be deleted.",
+    "latLng": [
+      51.81263,
+      14.18417
+    ],
+    "url": "https://t.me/Einundzwanzig",
+    "city": "03096",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/to-be-deleted",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Würzburg ",
     "latLng": [
       49.791306,
@@ -3408,8 +3408,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-08-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2050",
+      "start": "2025-09-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2051",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
@@ -3650,15 +3650,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2025-08-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2448",
-      "location": "Rox, Joanneumring 5, 8010 Graz",
-      "description": "Unser monatliches Community-Meetup steht wieder vor der Tür – diesmal mit einer besonderen Mission!\n\n📅 Wann? Donnerstag, 21. August, ab 18:00 Uhr\n📍 Wo? Im Rox, Graz\n\nBesonders schön: Der Besitzer vom Rox zeigt Interesse daran, Bitcoin als Zahlungsmittel zu akzeptieren! Er ist noch neu in der Thematik, aber wir nehmen uns beim Meetup gerne Zeit, ihm ein bisschen unter die Arme zu greifen.\n\nMit etwas Glück (und Lightning-Speed 😉) könnt ihr vielleicht schon nach dem Meetup eure Drinks in Sats bezahlen!\n\nWir freuen uns wie immer auf euch – kommt vorbei, bringt gute Laune mit und lasst uns gemeinsam an einem offenen, freundlichen und souveränen Bitcoin-Austausch arbeiten. 🧡\n\nUnd vielleicht ist der ein oder andere Zitadellen Besucher auch dabei und berichtet von dem wundervollen Wochenende in Heldrungen auf der Wasserburg 🏰",
-      "link": "https://www.rox-graz.at/",
-      "attendees": 5,
-      "nostr_note": "402f79a7f6177ab9cd88f230fdb6fd07e6d1226a3089951b9e97447ee050af1a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
