@@ -386,7 +386,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-09-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2480",
+      "location": "Schwerin Rumbar Unity Arsenalstraße 36 ",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "6875b9698ec785883f68a7bf5282c5dac66ea7114d6f9684d9b7566260a3665e"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1050,7 +1058,7 @@
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "18ba64804421bfee3c9e662248af5eccf266657d0ada6e3e2279fbeae9711594"
     },
     "style": {
@@ -2496,15 +2504,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "start": "2025-08-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2451",
-      "location": "Gasthaus Sonne (Uwe Ross) in Göllsdorf bei Rottweil ",
-      "description": null,
-      "link": "https://maps.app.goo.gl/SAeNFA2o35B8kZWW7",
-      "attendees": 0,
-      "nostr_note": "bef398c71b462c518dbcd5331eaa22a285cd194c8f9a7e73a9f44a43fc422fca"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
