@@ -946,7 +946,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-08-29 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2481",
+      "location": "L.A. Cham / Badstrasse 19 / 93413 Cham / Bayern",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://la-cham.de/",
+      "attendees": 1,
+      "nostr_note": "5bca119806188028c520535ebadc5dc42ab970b1d2f253cd6fdf2ff153b5eef0"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1888,9 +1896,9 @@
     "event": {
       "start": "2025-08-27 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1841",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
+      "location": "Café Beethoven, Beethovenstr. 38, 40233 Düsseldorf",
+      "description": "August Meetup diesmal im Beethoven.\nZahlung mit Bitcoin (Lightning) möglich.",
+      "link": "https://beethoven-flingern.de/",
       "attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
