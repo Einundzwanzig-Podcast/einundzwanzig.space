@@ -1475,7 +1475,7 @@
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
     },
     "style": {
@@ -1522,7 +1522,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-08-31 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2482",
+      "location": "Seehaus Ingolstadt",
+      "description": "Egal ob Hodler, Neugierige oder Technikfans – beim Bitcoin-Stammtisch in Ingolstadt tauschen wir uns in entspannter Runde über Bitcoin und die Welt drumherum aus. Komm vorbei, lern neue Leute kennen und genieß den Vormittag mit Gleichgesinnten.",
+      "link": "https://maps.app.goo.gl/kj4TmDn97WaoCvsX8",
+      "attendees": 0,
+      "nostr_note": "9c0e280b396b890cd2c746d1dfeb80588b7862875d7cb76275d8e85e67937c61"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1734,15 +1742,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-08-26 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2478",
-      "location": "Weilheim Gaststätte Dachs Bräustüberl (Dachsbräu)",
-      "description": "Herzlich Willkommen zum achten Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡\n",
-      "link": "https://dachsbier.de/#braustueberl",
-      "attendees": 2,
-      "nostr_note": "0dce70615f158c86344f21c4bfa4d82a6f90390a5d3b0874a6860a40cee6dd07"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
