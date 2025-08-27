@@ -871,13 +871,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-08-27 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1650",
+      "start": "2025-09-24 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2293",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
-      "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
+      "nostr_note": "5a12a9a30ffb8256c12bce7f4a39862e07663118faf5dc84d5754c246772ed11"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1089,7 +1089,7 @@
       "location": "Landgasthof Stangl Münchner Str. 2, 85452 Moosinning (Eichenried)",
       "description": "Alle Infos in unserer Telegram Gruppe.",
       "link": "https://www.gasthof-stangl.de/",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "404cb0d9b86544bdea1828e6c66667f169351f4f79109a32d038013924f8e1c5"
     },
     "style": {
@@ -1364,8 +1364,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2025-08-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1603",
+      "start": "2025-09-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1604",
       "location": "Haltenhoffstr. 50 (bei CONDAT), in 30167 Hannover (Nordstadt)",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Bei CONDAT in der Haltenhoffstr. 50, in 30167 Hannover (Nordstadt)\n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1894,11 +1894,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-08-27 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1841",
-      "location": "Café Beethoven, Beethovenstr. 38, 40233 Düsseldorf",
-      "description": "August Meetup diesmal im Beethoven.\nZahlung mit Bitcoin (Lightning) möglich.",
-      "link": "https://beethoven-flingern.de/",
+      "start": "2025-09-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1842",
+      "location": null,
+      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "link": null,
       "attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
@@ -3038,7 +3038,15 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-12 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2483",
+      "location": "Schiefererlebnis Dormettingen",
+      "description": "Furchtlos und Treue Grüße ",
+      "link": "https://maps.app.goo.gl/8ygYVkdQffNuuDna6?g_st=ipc",
+      "attendees": 0,
+      "nostr_note": "1c893e332734186ae4102c42f2ae39fb0db4910b52fdf50b62d3e9f9802146e3"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3519,7 +3527,7 @@
       "location": "Bar 21",
       "description": null,
       "link": null,
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "c21a2b799bb37ad2a918a840b1e04b8f14a90e304e0462cc673e8dca0c559ceb"
     },
     "style": {
