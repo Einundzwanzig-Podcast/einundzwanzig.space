@@ -347,36 +347,6 @@
     }
   },
   {
-    "name": "Bitcoin Meetup Schwerin (UNGÜLTIGE SEITE KANN GELÖSCHT WERDEN !!!)",
-    "latLng": [
-      53.635502,
-      11.40125
-    ],
-    "url": "21",
-    "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-ungueltige-seite-kann-geloescht-werden",
-    "twitter": "21",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Bitcoin Meetup Schwerin (UNGÜLTIGE SEITE KANN GELÖSCHT WERDEN !!)",
-    "latLng": [
-      53.635502,
-      11.40125
-    ],
-    "url": "21",
-    "city": "Schwerin",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-ungueltige-seite-kann-geloescht-werden-1",
-    "twitter": "21",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Bitcoin Meetup Schwerin - Einundzwanzig",
     "latLng": [
       53.635502,
@@ -1083,15 +1053,7 @@
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
-    "event": {
-      "start": "2025-08-28 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2387",
-      "location": "Landgasthof Stangl Münchner Str. 2, 85452 Moosinning (Eichenried)",
-      "description": "Alle Infos in unserer Telegram Gruppe.",
-      "link": "https://www.gasthof-stangl.de/",
-      "attendees": 6,
-      "nostr_note": "404cb0d9b86544bdea1828e6c66667f169351f4f79109a32d038013924f8e1c5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1325,15 +1287,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "start": "2025-08-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2472",
-      "location": "Hamburg - Sternschanze",
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
-      "nostr_note": "45c3d794a18fb001670c8ffaff82f268dc0b41ad5e1c1620b09d8a4b1be42ff0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2174,7 +2128,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-09-05 17:00:00",
+      "start": "2025-09-05 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1433",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
@@ -3235,21 +3189,6 @@
     "city": "Sylt ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/sylt",
     "twitter": "@Steffux75",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "To be deleted.",
-    "latLng": [
-      51.81263,
-      14.18417
-    ],
-    "url": "https://t.me/Einundzwanzig",
-    "city": "03096",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/to-be-deleted",
-    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
