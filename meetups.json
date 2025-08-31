@@ -471,8 +471,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "start": "2025-08-30 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2438",
+      "start": "2025-09-06 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2439",
       "location": "Planetarium im Stadtpark Hamburg",
       "description": "Bei BitcoinWalk kann jeder interessante Menschen treffen, die sich für Bitcoin begeistern und das revolutionäre Potenzial aus verschiedenen Blickwinkeln diskutieren möchten.",
       "link": "https://omaps.app/84LUL3BI5_/Sitzbank",
@@ -977,7 +977,15 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "start": "2025-09-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2484",
+      "location": "Reisbach 94419",
+      "description": "Info zum Meetup in der Lokalen Telegramm Gruppe",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "eac5e3feb84ba57a274ece7bbb28c5ca6207907ac221311829bf7b3701f064bb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2330,7 +2338,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-09-04 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2485",
+      "location": "Rommelshausen ",
+      "description": "Im Trattoria Toscana",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 3,
+      "nostr_note": "afe7fbf1993196bd7c4501c9d6ef03d9968068a2f071844b615250bb176b92ce"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3120,15 +3136,7 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": {
-      "start": "2025-08-30 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2467",
-      "location": "Gartenstr 5 in 95213 Münchberg bei Gourmet Wunderlich ",
-      "description": "Fichtelcoiner X Gourmet Wunderlich ",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "fcd73ef46001e14e5c0f894c52428dcc0a358ab3c8f99dd809c571ec9983f51c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3543,15 +3551,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "start": "2025-08-30 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2414",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 30.08.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\nDon't forget to ₿ring your Sats 😘",
-      "link": null,
-      "attendees": 2,
-      "nostr_note": "34a132872284b45866299bcd77cd59d9f1cd9a1a0d76806b974d4f9d581d67c8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3643,12 +3643,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck",
     "twitter": null,
     "event": {
-      "start": "2025-10-10 17:00:00",
+      "start": "2025-11-01 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2391",
-      "location": "Infos folgen.",
-      "description": "Infos folgen.",
-      "link": null,
-      "attendees": 0,
+      "location": "Vöckklabruck",
+      "description": "Erstes Treffen sobald genügend Teilnehmer.\nGenauere, aktuelle Infos in der Telegram Gruppe.",
+      "link": "",
+      "attendees": 1,
       "nostr_note": "7c059d016c7030c73d0c24de30a867c457273d8a2e728193ee2af7dd3bd5e514"
     },
     "style": {
