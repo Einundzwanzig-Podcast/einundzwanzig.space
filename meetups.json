@@ -493,15 +493,7 @@
     "city": "Bocholt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bocholt21",
     "twitter": null,
-    "event": {
-      "start": "2025-09-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2476",
-      "location": "genauen Ort gibt es über Telegram",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "8df0918a5367e65a996326f193bd6ff5df389fd16e8d39cdbe111d71c6417378"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1540,9 +1532,9 @@
       "start": "2025-09-16 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2479",
       "location": "Gasthof Alte Schmiede, Memminger Str. 68, 87439 Kempten ",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“ Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \nLocation: Alte Schmiede Kempten.\nBis dahin… Plebs together strong.\n",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“ Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \nLocation:  Schmiede Kempten.\n\nWorkshop Thema: Der eigene Node (Teil2) MyNode - Run Bitcoin, Lightning and more!\nGrundlagen, Aufbau und Praxis.\n\nBis dahin… Plebs together strong.\n",
       "link": "https://www.schmiede-kempten.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "a346c337f09d2505eb36084e74ad5799edd28edb0034ab953d349c8f5db1d3a3"
     },
     "style": {
@@ -2336,7 +2328,7 @@
       "location": "Rommelshausen ",
       "description": "Im Trattoria Toscana",
       "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "afe7fbf1993196bd7c4501c9d6ef03d9968068a2f071844b615250bb176b92ce"
     },
     "style": {
