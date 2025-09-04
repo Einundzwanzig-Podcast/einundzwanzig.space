@@ -395,13 +395,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-09-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2449",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Alter Wirt Ramersdorf",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 03. September 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~912.965\n\n​Ort diesmal: Alter Wirt Ramersdorf, Aribonenstraße 6, 81669 München — bei schönem Wetter draußen im Biergartenbereich",
-      "link": "https://luma.com/n8qglvaa",
+      "start": "2025-10-01 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2488",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786218/",
       "attendees": 0,
-      "nostr_note": "ea407dad6ee3ba3d6f9622e30e97fc2a869248732e17dac5d52ee8217005358d"
+      "nostr_note": "0e04d6625ad5d125f6aa2b5d5b2980454c82b7ed25334a47b78d04bf2f9e3cb7"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -568,7 +568,15 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "start": "2025-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2490",
+      "location": "Sushi Sano, Brunnstraße 6, 80331 München",
+      "description": "Essen, Trinken und Bitcoin",
+      "link": "https://share.google/coHwEKTPCXp1VuFtr",
+      "attendees": 0,
+      "nostr_note": "7f91802078cd3f342347126bdd395d7e0ba939af550aaaecfa00c48031693e5f"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -815,7 +823,7 @@
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
     },
     "style": {
@@ -976,15 +984,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "start": "2025-09-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2484",
-      "location": "Reisbach 94419",
-      "description": "Info zum Meetup in der Lokalen Telegramm Gruppe",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "eac5e3feb84ba57a274ece7bbb28c5ca6207907ac221311829bf7b3701f064bb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2450,7 +2450,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2491",
+      "location": "Restaurant LE KAZOKU in Roth",
+      "description": "Wir treffen uns wieder einfach nur so. Und sind einfach nur froh über jeden der kommt. Bitte hier zu oder absagen, geht auch ohne Anmeldung.",
+      "link": "https://le-kazoku.de/",
+      "attendees": 1,
+      "nostr_note": "40f175377ede0e5df4801d5752945d8dd838e035a9e95b4f105f765a6b2839c9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2465,7 +2473,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-26 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2489",
+      "location": "Bullshouse in Rottweil ",
+      "description": null,
+      "link": "https://maps.app.goo.gl/TumZA9w8jmLWEijB9",
+      "attendees": 0,
+      "nostr_note": "71275b95ec63ddbab49d933a4899ef4b93724750dbc55e7295db0e88e344bcaa"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3457,7 +3473,7 @@
       "location": "Bar 21",
       "description": null,
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "c21a2b799bb37ad2a918a840b1e04b8f14a90e304e0462cc673e8dca0c559ceb"
     },
     "style": {
