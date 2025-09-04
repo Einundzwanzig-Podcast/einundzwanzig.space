@@ -183,13 +183,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-09-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2022",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "start": "2025-09-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2214",
+      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "description": "Stammtisch Café Holzmarktperle",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -818,12 +818,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-09-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1803",
+      "start": "2025-10-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1804",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
     },
     "style": {
@@ -1748,8 +1748,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-09-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1948",
+      "start": "2025-10-02 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1949",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
@@ -2329,15 +2329,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-09-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2485",
-      "location": "Rommelshausen ",
-      "description": "Im Trattoria Toscana",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 6,
-      "nostr_note": "afe7fbf1993196bd7c4501c9d6ef03d9968068a2f071844b615250bb176b92ce"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2456,7 +2448,7 @@
       "location": "Restaurant LE KAZOKU in Roth",
       "description": "Wir treffen uns wieder einfach nur so. Und sind einfach nur froh über jeden der kommt. Bitte hier zu oder absagen, geht auch ohne Anmeldung.",
       "link": "https://le-kazoku.de/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "40f175377ede0e5df4801d5752945d8dd838e035a9e95b4f105f765a6b2839c9"
     },
     "style": {
@@ -3467,15 +3459,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-09-04 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2470",
-      "location": "Bar 21",
-      "description": null,
-      "link": null,
-      "attendees": 5,
-      "nostr_note": "c21a2b799bb37ad2a918a840b1e04b8f14a90e304e0462cc673e8dca0c559ceb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4018,6 +4002,29 @@
       "link": null,
       "attendees": 0,
       "nostr_note": "eb2ae4d7d8ac111f69104b200336578f2c5b7887df3ddd1fcd0b0c0aa4ad612c"
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Wallis",
+    "latLng": [
+      46.31458,
+      7.99037
+    ],
+    "url": "https://bitcoinwallis.ch",
+    "city": "Brig-Glis",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
+    "twitter": null,
+    "event": {
+      "start": "2025-10-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2492",
+      "location": "brig-glis",
+      "description": null,
+      "link": "",
+      "attendees": 1,
+      "nostr_note": "a98400721746ef9c395bb6d641e28efeb509f73a7729b8bb9dcb6161e3aed8a4"
     },
     "style": {
       "fill": "var(--color-accent)"
