@@ -145,8 +145,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "start": "2025-09-07 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2418",
+      "start": "2025-10-05 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2419",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
@@ -946,7 +946,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-07 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2495",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de/",
+      "attendees": 0,
+      "nostr_note": "5fb4ca3c0dba47a05c61e9c59ef32ecf37241c6ab5c94eb7b3e86bceb8da02a9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3459,7 +3467,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-10-03 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2494",
+      "location": "Bar 21",
+      "description": "⚡️ Lightning geht weiter! ⚡️\nNach unserem Vortrag letzte Woche zum Lightning-Netzwerk folgt jetzt der praktische Teil:\nAm 03.10. stellt Protom die neue Vereins-Lightning-Node vor.\nEr zeigt, wie sie funktioniert, wofür wir sie nutzen wollen und welche Möglichkeiten sich dadurch für unseren Verein eröffnen. 🚀\n👉 Kommt vorbei und bringt eure Lightning-Wallets mit – wir wollen das gemeinsam ausprobieren!",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "c0658376c1d56fac0fba91fe1e54bcb952c45d56f1efbcacc477e53d7a7983ca"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
