@@ -1401,8 +1401,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-09-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1867",
+      "start": "2025-10-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1868",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -1792,7 +1792,7 @@
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "d4f745915f0b7d0d5b598d5e5095de932dc903348858849461fc0f06f2e466e2"
     },
     "style": {
@@ -2474,15 +2474,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-09-09 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2491",
-      "location": "Restaurant LE KAZOKU in Roth",
-      "description": "Wir treffen uns wieder einfach nur so. Und sind einfach nur froh über jeden der kommt. Bitte hier zu oder absagen, geht auch ohne Anmeldung.",
-      "link": "https://le-kazoku.de/",
-      "attendees": 3,
-      "nostr_note": "40f175377ede0e5df4801d5752945d8dd838e035a9e95b4f105f765a6b2839c9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
