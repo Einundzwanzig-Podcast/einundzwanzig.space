@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-09-13 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2499",
+      "location": "https://www.facebook.com/musecafekitchenbar/",
+      "description": "Diesmal im Muse Restaurant um 18.00 Uhr !!!",
+      "link": "https://www.facebook.com/musecafekitchenbar/",
+      "attendees": 8,
+      "nostr_note": "09d78a4a8c53f2a92393345583594a53bec1b3eaece0cb840fbdbc5d93d208cc"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -296,13 +304,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-09-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1989",
+      "start": "2025-10-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1990",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "b1ed0fcb4f1e98f0199119a71827993fc0717409cefc8b0c83a0bb6d0ad9a61d"
+      "nostr_note": "dc4ea6e5b889cd19eda4a9a12b53f688a2de78bfdd1cd7bdcf001e8f012127ea"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -917,13 +925,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-09-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2103",
+      "start": "2025-10-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2104",
       "location": null,
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
-      "nostr_note": "0663246da62cce5108cf869ade6ed3a61c285ad178fcaef922271e5922606fd8"
+      "nostr_note": "b09375b2ee811260df0b8dd80f470709281ae418202226cde1df4ef2bdb910b0"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1099,8 +1107,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-09-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1855",
+      "start": "2025-10-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1856",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
@@ -1557,7 +1565,7 @@
       "location": "Gasthof Alte Schmiede, Memminger Str. 68, 87439 Kempten ",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“ Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \nLocation:  Schmiede Kempten.\n\nWorkshop Thema: Der eigene Node (Teil2) MyNode - Run Bitcoin, Lightning and more!\nGrundlagen, Aufbau und Praxis.\n\nBis dahin… Plebs together strong.\n",
       "link": "https://www.schmiede-kempten.de/",
-      "attendees": 10,
+      "attendees": 11,
       "nostr_note": "a346c337f09d2505eb36084e74ad5799edd28edb0034ab953d349c8f5db1d3a3"
     },
     "style": {
@@ -1650,15 +1658,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-09-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2471",
-      "location": "Landau",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "170cab56e72f174ec9ad404128cdc7de64415fd246d6b334b45a151381c2f775"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1703,7 +1703,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-15 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2500",
+      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
+      "description": "Herzlich Willkommen zum neunten Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://dachsbier.de/#braustueberl",
+      "attendees": 1,
+      "nostr_note": "ee69544d8e59b67fb3676bbf2dc094736f2d0c2aa083200c0d51ee52d1d9a7c9"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
