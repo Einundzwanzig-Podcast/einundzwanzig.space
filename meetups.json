@@ -901,15 +901,7 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": {
-      "start": "2025-09-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2498",
-      "location": "Brühler Wirtshaus (Max-Ernst-Allee 2, 50321 Brühl)",
-      "description": "direkt am DB-Bahnhof, großer gebührenpflichtiger Parkplatz vorhanden",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "fab97e21a84e3a3a9058e6dc0fa7d3ab1a4606398d6cdcbd3d5daa58535cd9a7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2791,13 +2783,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-09-11 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2036",
+      "start": "2025-10-09 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2037",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "d026e3565123bf5e23768c329fd6bb7a024d94f5edb9fdd6d1819d1b3d80b7b4"
+      "nostr_note": "b2717095723407d8ca41340f94b4a333c0c59fa2a4a11266f8b2e40479f4b645"
     },
     "style": {
       "fill": "var(--color-accent)"
