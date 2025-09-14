@@ -9,15 +9,7 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "start": "2025-09-13 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2499",
-      "location": "https://www.facebook.com/musecafekitchenbar/",
-      "description": "Diesmal im Muse Restaurant um 18.00 Uhr !!!",
-      "link": "https://www.facebook.com/musecafekitchenbar/",
-      "attendees": 9,
-      "nostr_note": "09d78a4a8c53f2a92393345583594a53bec1b3eaece0cb840fbdbc5d93d208cc"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -456,13 +448,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-09-13 08:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1915",
+      "start": "2025-09-27 08:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1916",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "43eb68e8d7cd1a11d1357c0e4043eab5bfd58ad88a6477717b2e18dd0f7bf5d3"
+      "nostr_note": "a8eee444be7d65fa50ca3e76edb1875908cce2320a4f8d73495468227259c43e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -494,8 +486,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "start": "2025-09-13 10:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2440",
+      "start": "2025-09-20 10:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2441",
       "location": "Planetarium im Stadtpark Hamburg",
       "description": "Bei BitcoinWalk kann jeder interessante Menschen treffen, die sich für Bitcoin begeistern und das revolutionäre Potenzial aus verschiedenen Blickwinkeln diskutieren möchten.",
       "link": "https://omaps.app/84LUL3BI5_/Sitzbank",
