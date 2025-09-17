@@ -1362,7 +1362,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-09-20 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2501",
+      "location": "Heilbronn",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 20.09.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten :-)",
+      "link": "https://maps.app.goo.gl/A9FANaE5WuqFCWZm9",
+      "attendees": 0,
+      "nostr_note": "a7280a5f49e52fccefec479468b70299dc8491134766dce5daca96b6ce176cdc"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1543,15 +1551,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "start": "2025-09-16 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2479",
-      "location": "Gasthof Alte Schmiede, Memminger Str. 68, 87439 Kempten ",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“ Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \nLocation:  Schmiede Kempten.\n\nWorkshop Thema: Der eigene Node (Teil2) MyNode - Run Bitcoin, Lightning and more!\nGrundlagen, Aufbau und Praxis.\n\nBis dahin… Plebs together strong.\n",
-      "link": "https://www.schmiede-kempten.de/",
-      "attendees": 21,
-      "nostr_note": "a346c337f09d2505eb36084e74ad5799edd28edb0034ab953d349c8f5db1d3a3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3469,10 +3469,10 @@
     "event": {
       "start": "2025-09-19 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1721",
-      "location": "Neusiedl am See - vermutlich LaTakeria",
+      "location": "Neusiedl am See - LaTakeria",
       "description": "Bitcoin-Meetup Nordburgenland\nBitcoin, Burrito & Bier",
-      "link": null,
-      "attendees": 0,
+      "link": "https://www.latakeria.at/",
+      "attendees": 1,
       "nostr_note": "9450eb0722926eb44311a463b27e26d82ebd7b1b829a07c1b20c8d52fa66016b"
     },
     "style": {
