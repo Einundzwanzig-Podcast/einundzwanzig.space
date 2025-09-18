@@ -371,7 +371,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-10-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2505",
+      "location": "Schwerin ",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat um 19 Uhr. Den Ort für das nächste Treffen geben wir in der Telegram Gruppe bekannt.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "eb9c10312ab6196bce9738577c66a37c72b7d812714c86f7d449217f91198c7a"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1121,12 +1129,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-09-27 17:00:00",
+      "start": "2025-09-26 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1933",
       "location": "Bamberg, Café Miez ⚡️",
-      "description": "Café Miez ⚡️\nAu Straße 8\n96047 Bamberg",
+      "description": "Café Miez ⚡️(Lightning Accepted)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "6ee84ee0fd4e0bdf76573e1ed9d861ec87a22188b55e70f10fe3fdb508caf7e1"
     },
     "style": {
@@ -1436,7 +1444,7 @@
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
     },
     "style": {
