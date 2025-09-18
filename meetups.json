@@ -183,13 +183,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-09-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2214",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-10-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2023",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -371,15 +371,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-09-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2480",
-      "location": "Schwerin Rumbar Unity Arsenalstraße 36 ",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "6875b9698ec785883f68a7bf5282c5dac66ea7114d6f9684d9b7566260a3665e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1620,8 +1612,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-09-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1828",
+      "start": "2025-10-15 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1829",
       "location": "",
       "description": null,
       "link": null,
@@ -2923,7 +2915,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-25 16:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2502",
+      "location": "Heinsberg/Waldenrath",
+      "description": "Gemütliches Meetup in der Dorfkneipe",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "fcbc184c8b6a6ba8051df396de27c3e5aa72ee6f9fa1851299dfc95f959dd4f6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3187,7 +3187,15 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-21 12:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2503",
+      "location": "Cafe Nimmersatt",
+      "description": "21Kaffeekranz. Gemütliche Runde mit netten Plebs",
+      "link": "https://maps.app.goo.gl/ccGBXtaJ9q5CPC3u7",
+      "attendees": 0,
+      "nostr_note": "5e644b541b396899245fd7196a881eb85d2f4036c113892cfb8f88b4ee2b5c9c"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3448,7 +3456,7 @@
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2494",
       "location": "Bar 21",
       "description": "⚡️ Lightning geht weiter! ⚡️\nNach unserem Vortrag letzte Woche zum Lightning-Netzwerk folgt jetzt der praktische Teil:\nAm 03.10. stellt Protom die neue Vereins-Lightning-Node vor.\nEr zeigt, wie sie funktioniert, wofür wir sie nutzen wollen und welche Möglichkeiten sich dadurch für unseren Verein eröffnen. 🚀\n👉 Kommt vorbei und bringt eure Lightning-Wallets mit – wir wollen das gemeinsam ausprobieren!",
-      "link": null,
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
       "attendees": 1,
       "nostr_note": "c0658376c1d56fac0fba91fe1e54bcb952c45d56f1efbcacc477e53d7a7983ca"
     },
@@ -3596,12 +3604,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-09-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1732",
+      "start": "2025-10-22 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1733",
       "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
       "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
     },
     "style": {
