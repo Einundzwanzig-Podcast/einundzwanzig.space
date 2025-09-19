@@ -1134,7 +1134,7 @@
       "location": "Bamberg, Café Miez ⚡️",
       "description": "Café Miez ⚡️(Lightning Accepted)\nAu Straße 8\n96047 Bamberg",
       "link": "https://maps.app.goo.gl/kYWySkV13fRcKZad9",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "6ee84ee0fd4e0bdf76573e1ed9d861ec87a22188b55e70f10fe3fdb508caf7e1"
     },
     "style": {
@@ -1491,7 +1491,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-09-21 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2506",
+      "location": "Seehaus Ingolstadt",
+      "description": "Am 21. September um 11:30 Uhr laden wir herzlich ins Seehaus Ingolstadt ein! 🌞\nFreu dich auf entspannte Gespräche rund um Bitcoin & mehr, leckeres Essen in gemütlicher Atmosphäre und die Möglichkeit, neue Leute kennenzulernen. Ob Einsteiger oder alter Hase – bei uns zählt der Austausch und die Gemeinschaft. Komm vorbei und sei Teil eines inspirierenden Sonntags!",
+      "link": "https://maps.app.goo.gl/ZWP7Win7a1c4L8Cz8",
+      "attendees": 0,
+      "nostr_note": "e0b6cace062d464d59a20c73467fe1e34e97817e37e19180c3548616cafab24b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
