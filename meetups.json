@@ -334,8 +334,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "start": "2025-09-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2453",
+      "start": "2025-10-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2454",
       "location": "1848 Pütt",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns in der 1848 Pütt. 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.1848puett.de/",
@@ -1439,12 +1439,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-09-19 16:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1789",
+      "start": "2025-10-17 16:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1790",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
-      "attendees": 2,
+      "attendees": 0,
       "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
     },
     "style": {
@@ -1779,13 +1779,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-09-19 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2116",
+      "start": "2025-10-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2117",
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
-      "attendees": 1,
-      "nostr_note": "d4f745915f0b7d0d5b598d5e5095de932dc903348858849461fc0f06f2e466e2"
+      "attendees": 0,
+      "nostr_note": "24dede342b0543e72d26b3b6b4eb9e3428d77c92662c8b48126d162ee5975a05"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2380,7 +2380,7 @@
       "location": "Taverna Kalyva Kölner Str. 375, 51515 Kürten-Bechen",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "292d977143fee655f1b661baae8032ed85f2d1f0d615c46822ff3b1b02b12837"
     },
     "style": {
@@ -3135,7 +3135,15 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "start": "2025-09-26 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2507",
+      "location": "Gourmet Wunderlich, Gartenstr. 5 in 95213 Münchberg ",
+      "description": "Kleines Meetup. Gesamtes Lokal reserviert. \nKleines Lokal mit außergewöhnlichen Selbstgemachten Speisen und Desserts.\n",
+      "link": "https://www.gourmet-wunderlich.de/",
+      "attendees": 0,
+      "nostr_note": "2b76b4ecc24b4166e5d56d19be3c4109bafe6ba997f0320bec5d8aec7f5b56cd"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3362,8 +3370,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-09-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2051",
+      "start": "2025-10-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2052",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
@@ -3491,13 +3499,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2025-09-19 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1721",
-      "location": "Neusiedl am See - LaTakeria",
-      "description": "Bitcoin-Meetup Nordburgenland\nBitcoin, Burrito & Bier",
-      "link": "https://www.latakeria.at/",
-      "attendees": 1,
-      "nostr_note": "9450eb0722926eb44311a463b27e26d82ebd7b1b829a07c1b20c8d52fa66016b"
+      "start": "2025-10-24 14:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1722",
+      "location": "Neusiedl am See, vermutlich Joe's Pub",
+      "description": "Bitcoin-Meetupt Nordburgenland\nBitcoin, Pizza & Bier",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "86028eabee3217fe25c02b7c0cc12cddc0490a1e4e290ff64429fbcdf6bd1804"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4011,8 +4019,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "start": "2025-09-19 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2325",
+      "start": "2025-10-17 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2326",
       "location": null,
       "description": null,
       "link": null,
