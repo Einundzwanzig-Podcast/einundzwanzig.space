@@ -1483,15 +1483,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "start": "2025-09-21 09:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2506",
-      "location": "Seehaus Ingolstadt",
-      "description": "Am 21. September um 11:30 Uhr laden wir herzlich ins Seehaus Ingolstadt ein! 🌞\nFreu dich auf entspannte Gespräche rund um Bitcoin & mehr, leckeres Essen in gemütlicher Atmosphäre und die Möglichkeit, neue Leute kennenzulernen. Ob Einsteiger oder alter Hase – bei uns zählt der Austausch und die Gemeinschaft. Komm vorbei und sei Teil eines inspirierenden Sonntags!",
-      "link": "https://maps.app.goo.gl/ZWP7Win7a1c4L8Cz8",
-      "attendees": 0,
-      "nostr_note": "e0b6cace062d464d59a20c73467fe1e34e97817e37e19180c3548616cafab24b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1581,15 +1573,7 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": {
-      "start": "2025-09-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1570",
-      "location": "Koblenz ",
-      "description": "Genauen Ort bekommt ihr bei uns im Telegram Channel.\nAb 18 Uhr treffen wir uns - open End",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "33ea9002c817bbd654e07d1474f2a723d251b220b33f821f44517bbf27d85677"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2419,15 +2403,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "start": "2025-09-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2384",
-      "location": "Craftbar Rostock 18057 Rostock Margaretenstrasse 41",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "1123faa8c1c91e2e5469bbae2a66007e285c58779815efd959c591b0021af399"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3204,13 +3180,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
     "event": {
-      "start": "2025-09-21 12:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2503",
-      "location": "Cafe Nimmersatt",
-      "description": "21Kaffeekranz. Gemütliche Runde mit netten Plebs",
-      "link": "https://maps.app.goo.gl/ccGBXtaJ9q5CPC3u7",
+      "start": "2025-10-17 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2504",
+      "location": "Blauer Adler",
+      "description": "Kommt vorbei lernt nette Leute kennen und habt gute Gespräche",
+      "link": "https://maps.app.goo.gl/ZY8D6XpZETDxXsvt9",
       "attendees": 0,
-      "nostr_note": "5e644b541b396899245fd7196a881eb85d2f4036c113892cfb8f88b4ee2b5c9c"
+      "nostr_note": "7b1e9c65a9c309b28882f9b2d489b9fc4815050b4e95ac8afc611f73ba0c300d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -3473,7 +3449,7 @@
       "location": "Bar 21",
       "description": "⚡️ Lightning geht weiter! ⚡️\nNach unserem Vortrag letzte Woche zum Lightning-Netzwerk folgt jetzt der praktische Teil:\nAm 03.10. stellt Protom die neue Vereins-Lightning-Node vor.\nEr zeigt, wie sie funktioniert, wofür wir sie nutzen wollen und welche Möglichkeiten sich dadurch für unseren Verein eröffnen. 🚀\n👉 Kommt vorbei und bringt eure Lightning-Wallets mit – wir wollen das gemeinsam ausprobieren!",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "c0658376c1d56fac0fba91fe1e54bcb952c45d56f1efbcacc477e53d7a7983ca"
     },
     "style": {
