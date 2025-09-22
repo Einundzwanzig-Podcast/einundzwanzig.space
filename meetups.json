@@ -544,6 +544,29 @@
     }
   },
   {
+    "name": "EINUNDZWANZIG LEIPZIG ₿",
+    "latLng": [
+      51.3406321,
+      12.3747329
+    ],
+    "url": "https://t.me/bitcoin_meetup_leipzig",
+    "city": "Leipzig",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
+    "twitter": "toobiTx",
+    "event": {
+      "start": "2025-10-02 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2508",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "f2d1b67cae21da7fa7a0b14bd596ebe66c8135ef20f607bf79e41468235aa142"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "EINUNDZWANZIG Mannheim",
     "latLng": [
       49.4892913,
