@@ -395,13 +395,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-09-24 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2516",
-      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #15",
-      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars. [...]",
-      "link": "https://luma.com/z8s4ybxx",
+      "start": "2025-10-01 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2488",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786218/",
       "attendees": 0,
-      "nostr_note": "031da073dbf90f3fd23f24b7eda4f8b7b9e289e032155a459cd48dadeb2b4e06"
+      "nostr_note": "0e04d6625ad5d125f6aa2b5d5b2980454c82b7ed25334a47b78d04bf2f9e3cb7"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -879,13 +879,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-09-24 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2293",
+      "start": "2025-10-29 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1652",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
-      "link": null,
+      "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
       "attendees": 0,
-      "nostr_note": "5a12a9a30ffb8256c12bce7f4a39862e07663118faf5dc84d5754c246772ed11"
+      "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1348,8 +1348,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2025-09-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1604",
+      "start": "2025-10-29 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1605",
       "location": "Haltenhoffstr. 50 (bei CONDAT), in 30167 Hannover (Nordstadt)",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Bei CONDAT in der Haltenhoffstr. 50, in 30167 Hannover (Nordstadt)\n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1846,11 +1846,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-09-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1842",
-      "location": "Café Beethoven, Beethovenstr. 38, 40233 Düsseldorf",
-      "description": "#Bitcoin Stammtisch. \nJeder ist Willkommen der gerne etwas zu Bitcoin lernen möchte.\n\nKeine Kryptos, Bitcoin only.\nKeine Finanzberatung.",
-      "link": "https://beethoven-flingern.de/",
+      "start": "2025-10-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1843",
+      "location": null,
+      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "link": null,
       "attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
@@ -2462,7 +2462,7 @@
       "location": "Bullshouse in Rottweil ",
       "description": null,
       "link": "https://maps.app.goo.gl/TumZA9w8jmLWEijB9",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "71275b95ec63ddbab49d933a4899ef4b93724750dbc55e7295db0e88e344bcaa"
     },
     "style": {
