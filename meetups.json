@@ -397,9 +397,9 @@
     "event": {
       "start": "2025-10-01 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2488",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786218/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Sushi Sano",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 01. Oktober 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~917.205\n\nOrt diesmal: Sushi Sano, Brunnstraße 6, 80331 München\n",
+      "link": "https://luma.com/0anw72q0",
       "attendees": 0,
       "nostr_note": "0e04d6625ad5d125f6aa2b5d5b2980454c82b7ed25334a47b78d04bf2f9e3cb7"
     },
@@ -1566,7 +1566,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-10-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2520",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "239736f17efca55fa47053fc0ab0fa0e02d50045ff78ac230ffc7adbecd46349"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2681,7 +2689,15 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-09-29 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2519",
+      "location": "Newforge Coworking, Prinzenstraße 2a, 42697 Solingen",
+      "description": "Bitcoin einfach &Transparent\nWas erwartet euch?\n-Was ist Bitcoin?\n-Welche Themenumfasst Bitcoin?\n-was gibt es zu beachten?\n-Literatur für den Einstieg.",
+      "link": "https://maps.app.goo.gl/c5ujLyNHCZmBvrYn6",
+      "attendees": 0,
+      "nostr_note": "b7840d3313eca6253e205fd869f69dd405a4bc6aa11555c5b2b97807b699fbcb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
