@@ -1066,7 +1066,7 @@
       "location": "Ellwangen ",
       "description": "Bistro Altstadt Ellwangen ",
       "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "0bf164184fea9deec16e5235e4c74e96e31c95388e2532858d4a6063332e870a"
     },
     "style": {
@@ -1657,7 +1657,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-10-06 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2523",
+      "location": "Landau",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "6169e5dd32eb10b75bf59a137f3c52b1cfc648ba3581b78ab03155af0989101c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2689,15 +2697,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "start": "2025-09-29 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2519",
-      "location": "Newforge Coworking, Prinzenstraße 2a, 42697 Solingen",
-      "description": "Bitcoin einfach &Transparent\nWas erwartet euch?\n-Was ist Bitcoin?\n-Welche Themenumfasst Bitcoin?\n-was gibt es zu beachten?\n-Literatur für den Einstieg.",
-      "link": "https://maps.app.goo.gl/c5ujLyNHCZmBvrYn6",
-      "attendees": 0,
-      "nostr_note": "b7840d3313eca6253e205fd869f69dd405a4bc6aa11555c5b2b97807b699fbcb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3126,7 +3126,15 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2522",
+      "location": "Gourmet Wunderlich, Gartenstr 5 in 95213 Münchberg",
+      "description": "Fichtelcoiner X Gourmet Wunderlich. ",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "3b28bd97d3ab6d7fbac2191f9c98c0c22d544828b9e2e77bef565ca4fb743dde"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3142,8 +3150,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "start": "2025-09-29 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2239",
+      "start": "2025-10-27 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2240",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
