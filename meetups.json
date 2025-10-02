@@ -395,13 +395,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-10-01 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2488",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Sushi Sano",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 01. Oktober 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~917.205\n\nOrt diesmal: Sushi Sano, Brunnstraße 6, 80331 München\n",
-      "link": "https://luma.com/0anw72q0",
+      "start": "2025-10-22 18:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2517",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #16",
+      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars. [...]",
+      "link": "https://luma.com/4jn2n4sb",
       "attendees": 0,
-      "nostr_note": "0e04d6625ad5d125f6aa2b5d5b2980454c82b7ed25334a47b78d04bf2f9e3cb7"
+      "nostr_note": "dc3e12e4451e8da2fe5365ef3eafb54a69d8e62fbbaeb5552b399e8e4fb55f27"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -2464,7 +2464,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-31 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2524",
+      "location": "Hofgut Neckarburg in Rottweil ",
+      "description": "Der Bitcoin-Stammtisch \"Einundzwanzig Rottweil\" feiert sein 1-jähriges Jubiläum. Den Bitcoin-Whitepaper-Day feiern wir gleich mit! Also sei dabei! Bitte um Anmeldung in der Telegram Gruppe. Danke!",
+      "link": "https://maps.app.goo.gl/4x5oVRbbbrHT3Csw9",
+      "attendees": 0,
+      "nostr_note": "19b8a38cf0e0e91ee4170d8d29ad1a41e8717ececabcc4b45373fd14dbe34126"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2810,7 +2818,15 @@
     "city": "Göttingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-10 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2525",
+      "location": "Höckelheim Don‘s Diner",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "c872784cea71a4271752260662414544a50e8780b07ad6824a8dc5e4998ace6c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4033,13 +4049,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
     "twitter": null,
     "event": {
-      "start": "2025-10-01 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2492",
+      "start": "2025-10-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2493",
       "location": "Brig-Glis",
       "description": null,
-      "link": "",
+      "link": null,
       "attendees": 1,
-      "nostr_note": "a98400721746ef9c395bb6d641e28efeb509f73a7729b8bb9dcb6161e3aed8a4"
+      "nostr_note": "dad8a0e8c11fd5c081981a663b1b26765f3fa7a7f2c7ed6e0a31d4493a89255e"
     },
     "style": {
       "fill": "var(--color-accent)"
