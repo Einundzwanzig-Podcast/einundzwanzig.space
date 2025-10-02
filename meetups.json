@@ -20,11 +20,19 @@
       50.084476,
       7.770006
     ],
-    "url": "@AndreasRoy_himself",
+    "url": "https://t.me/+UVPLGtWCGaNiM2Vi",
     "city": "Kaub am Rhein (Elsenburg)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-elsenburg-at-kaub-am-rhein",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-12-28 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2541",
+      "location": "Kaub",
+      "description": "geplant ist eine kleine Zitadelle in Kaub am Rhein für 2,5 Tage in einer ehemaligen CVJM Einrichtung - wir wollen das Thema Bitcoin mit Gleichgesinnten in besinnlicher Stimmung diskutieren, Neues kennenlernen und mit Bitcoinern und die es werden wollen in den Austausch gehen, da die nächste Zitadelle 2026 ja in Obanjan stattfindet und für viele die Anreise zu weit ist. \n\nmehr demnächst dazu... und bei Interesse gern vorab in der Telegram Gruppe für den Zeitraum und evtl Teilnahme abstimmen !!! ",
+      "link": "https://maps.app.goo.gl/eP343BuNffkYqU51A",
+      "attendees": 0,
+      "nostr_note": "3bda7c250f3199cc83ee78c6808fce98625bf39190b117cedf4d2ff9554b5fd0"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -183,13 +191,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-10-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2023",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "start": "2025-10-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2215",
+      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "description": "Stammtisch Café Holzmarktperle",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -554,12 +562,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
     "twitter": "toobiTx",
     "event": {
-      "start": "2025-10-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2508",
-      "location": "Leipzig, Engelsdorf - Werkstättenstraße 4/Halle 197, 04319 Leipzig",
-      "description": "",
-      "link": "https://www.google.com/maps/place/Raum+Liebelei/@51.3400207,12.4621293,1078m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47a6f9855b4f7d05:0x212db3bf9ec76e0!8m2!3d51.3400207!4d12.4621293!16s%2Fg%2F11x8gbzwpl!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D",
-      "attendees": 1,
+      "start": "2025-11-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2509",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
       "nostr_note": "f2d1b67cae21da7fa7a0b14bd596ebe66c8135ef20f607bf79e41468235aa142"
     },
     "style": {
@@ -841,8 +849,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-10-02 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1804",
+      "start": "2025-11-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1805",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
@@ -1771,8 +1779,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-10-02 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1949",
+      "start": "2025-11-06 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1950",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
