@@ -1069,13 +1069,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-10-03 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2370",
+      "start": "2025-11-07 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2371",
       "location": "Ellwangen ",
-      "description": "Taj Mahal Ellwangen ",
-      "link": "https://tajmahalrestaurantellwangen.de/",
-      "attendees": 2,
-      "nostr_note": "0bf164184fea9deec16e5235e4c74e96e31c95388e2532858d4a6063332e870a"
+      "description": "Bistro Altstadt Ellwangen ",
+      "link": "http://www.bistro-altstadt.de/",
+      "attendees": 0,
+      "nostr_note": "965ce1d90e0982d208daa8a38e5f4995fdc32b9b87100c3a3974a5110d832d9c"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2142,8 +2142,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-10-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1434",
+      "start": "2025-11-07 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1435",
       "location": "Restaurant KRETA, Nadorster Str. 53",
       "description": "Zahlung momentan nur in Euro.",
       "link": "https://t.me/einundzwanzig_OL",
@@ -2540,15 +2540,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "start": "2025-10-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2515",
-      "location": "Bruder Jakob, St. Wendel",
-      "description": "Wir starten wieder mit einem Essen im Bruder Jakob, bevor wir dann weiterziehen ins Irish Pub.",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "9dc3c7e61d2d4a10d1e07ddc5dcc9bda2998f56c23e9dda9ace3d9a255105c04"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3490,15 +3482,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-10-03 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2494",
-      "location": "Bar 21",
-      "description": "⚡️ Lightning geht weiter! ⚡️\nNach unserem Vortrag letzte Woche zum Lightning-Netzwerk folgt jetzt der praktische Teil:\nAm 03.10. stellt Protom die neue Vereins-Lightning-Node vor.\nEr zeigt, wie sie funktioniert, wofür wir sie nutzen wollen und welche Möglichkeiten sich dadurch für unseren Verein eröffnen. 🚀\n👉 Kommt vorbei und bringt eure Lightning-Wallets mit – wir wollen das gemeinsam ausprobieren!",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 3,
-      "nostr_note": "c0658376c1d56fac0fba91fe1e54bcb952c45d56f1efbcacc477e53d7a7983ca"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3627,7 +3611,15 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "start": "2025-10-22 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2542",
+      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "129fe773d49cf2a534fd8af104d3343006d91f9e65b9b0abb51f46d8c1923b58"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
