@@ -924,7 +924,15 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-09 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2545",
+      "location": "Brühler Wirtshaus (Max-Ernst-Allee 2, 50321 Brühl)",
+      "description": "direkt am DB-Bahnhof gelegen, kostenpflichtiger Parkplatz vorhanden",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "076217052053e751aba5ececdeb0c5c5c09a144eecdf45f90f3efc3452a55722"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1165,7 +1173,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1233,7 +1241,7 @@
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "fff658892b1da74209da21560528f793eb38390c5ce61777b1f68330466a5c38"
     },
     "style": {
@@ -1580,7 +1588,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.  Thema: Bitcoin - FAQ's  Warum Bitcoin? Finde die Antwort.\n",
       "link": null,
-      "attendees": 3,
+      "attendees": 5,
       "nostr_note": "239736f17efca55fa47053fc0ab0fa0e02d50045ff78ac230ffc7adbecd46349"
     },
     "style": {
@@ -1665,15 +1673,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "start": "2025-10-06 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2523",
-      "location": "Landau",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "6169e5dd32eb10b75bf59a137f3c52b1cfc648ba3581b78ab03155af0989101c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2465,7 +2465,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2546",
+      "location": "El Paso Schwabach",
+      "description": "Wir treffen uns wieder mal im Schwabach. Dieses mal gibt es Mexikanisch. ",
+      "link": "https://www.restaurant-elpaso.de/",
+      "attendees": 2,
+      "nostr_note": "30694319104a05227f3ebebe3dd3cff02e0bd77b114bf1b14d7f2c0e4a981dbd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
