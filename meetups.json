@@ -153,8 +153,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "start": "2025-10-05 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2419",
+      "start": "2025-11-02 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2420",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
@@ -1162,10 +1162,10 @@
     "event": {
       "start": "2025-10-25 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1934",
-      "location": "Nürnberg",
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
+      "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
+      "link": "https://share.google/GKr52PlgURWx1UTGj",
+      "attendees": 1,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1578,7 +1578,7 @@
       "start": "2025-10-08 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2520",
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
-      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\n",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.  Thema: Bitcoin - FAQ's  Warum Bitcoin? Finde die Antwort.\n",
       "link": null,
       "attendees": 3,
       "nostr_note": "239736f17efca55fa47053fc0ab0fa0e02d50045ff78ac230ffc7adbecd46349"
@@ -2442,7 +2442,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2025-10-21 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2544",
+      "location": "BitcoinWERFT",
+      "description": null,
+      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
+      "attendees": 0,
+      "nostr_note": "727155c3983df2ec0e427c92e8f4e323df0030963f01964ab2a8ea10fd9dffee"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3043,7 +3051,7 @@
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
     },
     "style": {
