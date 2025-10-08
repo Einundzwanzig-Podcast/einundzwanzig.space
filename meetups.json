@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-10-11 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2548",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 2,
+      "nostr_note": "f186ba46ca9dfc0e5bfbb4bda3086ffc7d22534a6db731a0ec543c5af6bd23ff"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -342,7 +350,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "start": "2025-10-17 16:00:00",
+      "start": "2025-10-10 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2454",
       "location": "1848 Pütt",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns in der 1848 Pütt. 3. Freitag im Monat, 18 Uhr.",
@@ -1000,15 +1008,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "start": "2025-10-07 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2495",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de/",
-      "attendees": 0,
-      "nostr_note": "5fb4ca3c0dba47a05c61e9c59ef32ecf37241c6ab5c94eb7b3e86bceb8da02a9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1188,7 +1188,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1603,7 +1603,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.  Thema: Bitcoin - FAQ's  Warum Bitcoin? Finde die Antwort.\n",
       "link": null,
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "239736f17efca55fa47053fc0ab0fa0e02d50045ff78ac230ffc7adbecd46349"
     },
     "style": {
@@ -2367,7 +2367,15 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": null,
+    "event": {
+      "start": "2025-10-16 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2547",
+      "location": "Rommelshausen ",
+      "description": "Trattoria Toscana",
+      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "attendees": 3,
+      "nostr_note": "3193fa4a9340bd72eed995fac5243d48952736632e1b250a51cf257a9564282b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2486,7 +2494,7 @@
       "location": "El Paso Schwabach",
       "description": "Wir treffen uns wieder mal im Schwabach. Dieses mal gibt es Mexikanisch. ",
       "link": "https://www.restaurant-elpaso.de/",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "30694319104a05227f3ebebe3dd3cff02e0bd77b114bf1b14d7f2c0e4a981dbd"
     },
     "style": {
@@ -3539,9 +3547,9 @@
     "event": {
       "start": "2025-10-24 14:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1722",
-      "location": "Neusiedl am See, vermutlich Joe's Pub",
-      "description": "Bitcoin-Meetupt Nordburgenland\nBitcoin, Pizza & Bier",
-      "link": null,
+      "location": "Parndorf, Werk",
+      "description": "Bitcoin-Meetupt Nordburgenland\nBitcoin, Bowling & Bier",
+      "link": "https://werkbowling.at/",
       "attendees": 0,
       "nostr_note": "86028eabee3217fe25c02b7c0cc12cddc0490a1e4e290ff64429fbcdf6bd1804"
     },
