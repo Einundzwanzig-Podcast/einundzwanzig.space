@@ -350,8 +350,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "start": "2025-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2454",
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2455",
       "location": "1848 Pütt",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns in der 1848 Pütt. 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.1848puett.de/",
@@ -1180,7 +1180,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -2404,7 +2404,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-23 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2551",
+      "location": "Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": null,
+      "link": "https://kalyva.de/",
+      "attendees": 0,
+      "nostr_note": "7cf095df10080b2d0fe18bec3fe973d0cbdf161256b51f7862bdaaf1048f5a22"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2842,13 +2850,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-10-10 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2525",
+      "start": "2025-11-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2526",
       "location": "Höckelheim Don‘s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "c872784cea71a4271752260662414544a50e8780b07ad6824a8dc5e4998ace6c"
+      "nostr_note": "f924fb2841719350e1a40ebf340a1f01dc457eb15bbfcf2e9e6b610547229ca9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3446,8 +3454,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "start": "2025-10-10 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2189",
+      "start": "2025-11-14 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2190",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
@@ -3513,7 +3521,15 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "start": "2025-10-31 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2550",
+      "location": "Bar21",
+      "description": "Am Freitag, den 31. Oktober 2025, laden wir zum nächsten Themenabend in die Bar21 ein.\nAb 18:00 Uhr öffnen wir die Türen, um 18:30 Uhr startet der Vortrag „Bitcoin & Privatsphäre“.\nIm Anschluss gibt es ausreichend Zeit für Fragen, Antworten und Austausch in gemütlicher Runde.\n\nEintritt frei – komm vorbei und diskutiere mit uns über die Bedeutung von Privatsphäre im Bitcoin-Ökosystem.\n\nAlle Infos und Updates im Telegram-Kanal:\nhttps://t.me/Einundzwanzig_Linz\n",
+      "link": "https://www.bitcoin-club-linz.at/",
+      "attendees": 2,
+      "nostr_note": "6b28ef54a957edd97641a7f9f1da32dc833c2ca0547b9ea78d8555272e214cdb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
