@@ -9,7 +9,15 @@
     "city": "21Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "start": "2025-10-18 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2548",
+      "location": null,
+      "description": null,
+      "link": null,
+      "attendees": 4,
+      "nostr_note": "f186ba46ca9dfc0e5bfbb4bda3086ffc7d22534a6db731a0ec543c5af6bd23ff"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -676,8 +684,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-10-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1817",
+      "start": "2025-11-09 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1818",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
@@ -2478,7 +2486,7 @@
       "location": "El Paso Schwabach",
       "description": "Wir treffen uns wieder mal im Schwabach. Dieses mal gibt es Mexikanisch. ",
       "link": "https://www.restaurant-elpaso.de/",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "30694319104a05227f3ebebe3dd3cff02e0bd77b114bf1b14d7f2c0e4a981dbd"
     },
     "style": {
