@@ -628,7 +628,7 @@
       "location": "Sushi Sano, Brunnstraße 6, 80331 München",
       "description": "Essen, Trinken und Bitcoin",
       "link": "https://share.google/coHwEKTPCXp1VuFtr",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "7f91802078cd3f342347126bdd395d7e0ba939af550aaaecfa00c48031693e5f"
     },
     "style": {
@@ -1000,7 +1000,15 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-04 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2553",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "nostr_note": "5e0e1e5bf2bb597c8ce265f214099ebea6db627ab24fb01574193f4d3d95d858"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1180,7 +1188,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 5,
+      "attendees": 6,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1454,8 +1462,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-10-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1868",
+      "start": "2025-11-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1869",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
@@ -2676,7 +2684,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2025-10-16 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2552",
+      "location": "Donaueschingen / Hotel Sombea",
+      "description": "Unser Meetup Nummer 25. \nSchaut gern vorbei! Die Ausfahrt Donaueschingen Nord ist auf der Ausschilderung zwar gesperrt... Man kommt aber trotzdem zum Flugplatz.",
+      "link": "https://share.google/4KmrT7gfwjLnPVzEP",
+      "attendees": 1,
+      "nostr_note": "8768ffdcaa6b30a0dd19b40d3c26f42b8bdbe4c03ea51d81803e48796f234845"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
