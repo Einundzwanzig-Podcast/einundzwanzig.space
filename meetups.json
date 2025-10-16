@@ -15,7 +15,7 @@
       "location": null,
       "description": null,
       "link": null,
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "f186ba46ca9dfc0e5bfbb4bda3086ffc7d22534a6db731a0ec543c5af6bd23ff"
     },
     "style": {
@@ -199,13 +199,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-10-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2215",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-11-06 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2024",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -387,15 +387,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-10-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2505",
-      "location": "Schwerin ",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat um 19 Uhr. Den Ort für das nächste Treffen geben wir in der Telegram Gruppe bekannt.",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "eb9c10312ab6196bce9738577c66a37c72b7d812714c86f7d449217f91198c7a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1431,7 +1423,15 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "start": "2025-10-18 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2554",
+      "location": "HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 18.10.2025 statt. Treffpunkt ist im Volksgarten (https://maps.app.goo.gl/A9FANaE5WuqFCWZm9) in HN. Start around 17:00 Uhr.   Um zahlreiches erscheinen wird gebeten :-)\n",
+      "link": "https://maps.app.goo.gl/A9FANaE5WuqFCWZm9",
+      "attendees": 0,
+      "nostr_note": "3e4831c690bf5ab98965836ec0509bc2a67fa27b0e04e3a0c6452af37d6d4657"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1552,7 +1552,15 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": null,
+    "event": {
+      "start": "2025-10-19 09:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2555",
+      "location": "Seehaus Ingolstadt",
+      "description": "Am Sonntag ist wieder Zeit für unser Einundzwanzig-Meetup in Ingolstadt!\nHier wird gequatscht, gelacht, diskutiert und natürlich orangenes Wissen geteilt.\nKomm vorbei, tausch dich mit anderen aus und genieß eine entspannte Runde unter Gleichgesinnten.",
+      "link": "https://maps.app.goo.gl/3aJYD5Nz7h9cPeFu8",
+      "attendees": 0,
+      "nostr_note": "c9291fe3169fe56fff9ef1a87125fb3a39b4f07c8be1748c40542169d24f1660"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1612,7 +1620,15 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "start": "2025-11-08 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2557",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
+      "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\nDiesmal an einem Samstag, warum... wird noch nicht verraten.",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "8121801bba02cefad5e721c2402f42cce746fec4c8d8756ede6ca19be41aee85"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1673,8 +1689,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-10-15 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1829",
+      "start": "2025-11-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1830",
       "location": "",
       "description": null,
       "link": null,
@@ -2378,8 +2394,8 @@
       "start": "2025-10-16 16:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2547",
       "location": "Rommelshausen ",
-      "description": "Trattoria Toscana",
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
+      "description": "Sportgaststätte Fairplay\nKelterstr. 82\n71394 Kernen im Remstal\n",
+      "link": "https://www.fairplay-rom.com/kontakt-anfahrt-gastst%C3%A4tte/",
       "attendees": 5,
       "nostr_note": "3193fa4a9340bd72eed995fac5243d48952736632e1b250a51cf257a9564282b"
     },
@@ -2503,15 +2519,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "start": "2025-10-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2546",
-      "location": "El Paso Schwabach",
-      "description": "Wir treffen uns wieder mal im Schwabach. Dieses mal gibt es Mexikanisch. ",
-      "link": "https://www.restaurant-elpaso.de/",
-      "attendees": 5,
-      "nostr_note": "30694319104a05227f3ebebe3dd3cff02e0bd77b114bf1b14d7f2c0e4a981dbd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2690,7 +2698,7 @@
       "location": "Donaueschingen / Hotel Sombea",
       "description": "Unser Meetup Nummer 25. \nSchaut gern vorbei! Die Ausfahrt Donaueschingen Nord ist auf der Ausschilderung zwar gesperrt... Man kommt aber trotzdem zum Flugplatz.",
       "link": "https://share.google/4KmrT7gfwjLnPVzEP",
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "8768ffdcaa6b30a0dd19b40d3c26f42b8bdbe4c03ea51d81803e48796f234845"
     },
     "style": {
@@ -3100,13 +3108,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-11-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2311",
+      "start": "2025-10-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2556",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
-      "attendees": 1,
-      "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
+      "attendees": 0,
+      "nostr_note": "74207fa8bd4666fee7d748f0b9e5ea645ecef27a89ecd3fc0669663047cfcdca"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3667,13 +3675,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-11-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1749",
+      "start": "2025-10-18 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2311",
       "location": "Passau oder Schärding",
       "description": "50. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
-      "attendees": 0,
-      "nostr_note": "734fcc750d082e66b73b7da5b044965ad15de747d567b3647a8b6c6857486008"
+      "attendees": 1,
+      "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4127,13 +4135,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
     "twitter": null,
     "event": {
-      "start": "2025-10-15 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2540",
+      "start": "2025-10-22 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2549",
       "location": "Brig-Glis",
       "description": null,
       "link": null,
       "attendees": 1,
-      "nostr_note": "30f85d6c95aa29c3d4da45f05dd510077981b731b1e20424d83cc4fa88d281bc"
+      "nostr_note": "8b271e9b446af6cd36062eecc189928c39feb5526bc0c0e53cc85dd612754d0b"
     },
     "style": {
       "fill": "var(--color-accent)"
