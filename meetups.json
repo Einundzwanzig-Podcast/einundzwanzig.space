@@ -1276,7 +1276,7 @@
       47.491998,
       11.095393
     ],
-    "url": "@einundzwanzigGarmischPa",
+    "url": "https://t.me/einundzwanzigGarmischPa",
     "city": "Garmisch-Partenkirchen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-garmisch-partenkirchen",
     "twitter": null,
@@ -2390,15 +2390,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-10-16 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2547",
-      "location": "Rommelshausen ",
-      "description": "Sportgaststätte Fairplay\nKelterstr. 82\n71394 Kernen im Remstal\n",
-      "link": "https://www.fairplay-rom.com/kontakt-anfahrt-gastst%C3%A4tte/",
-      "attendees": 5,
-      "nostr_note": "3193fa4a9340bd72eed995fac5243d48952736632e1b250a51cf257a9564282b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2692,15 +2684,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2025-10-16 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2552",
-      "location": "Donaueschingen / Hotel Sombea",
-      "description": "Unser Meetup Nummer 25. \nSchaut gern vorbei! Die Ausfahrt Donaueschingen Nord ist auf der Ausschilderung zwar gesperrt... Man kommt aber trotzdem zum Flugplatz.",
-      "link": "https://share.google/4KmrT7gfwjLnPVzEP",
-      "attendees": 2,
-      "nostr_note": "8768ffdcaa6b30a0dd19b40d3c26f42b8bdbe4c03ea51d81803e48796f234845"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3561,13 +3545,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2025-10-31 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2550",
+      "start": "2025-10-23 16:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2559",
       "location": "Bar21",
-      "description": "Am Freitag, den 31. Oktober 2025, laden wir zum nächsten Themenabend in die Bar21 ein.\nAb 18:00 Uhr öffnen wir die Türen, um 18:30 Uhr startet der Vortrag „Bitcoin & Privatsphäre“.\nIm Anschluss gibt es ausreichend Zeit für Fragen, Antworten und Austausch in gemütlicher Runde.\n\nEintritt frei – komm vorbei und diskutiere mit uns über die Bedeutung von Privatsphäre im Bitcoin-Ökosystem.\n\nAlle Infos und Updates im Telegram-Kanal:\nhttps://t.me/Einundzwanzig_Linz\n",
-      "link": "https://www.bitcoin-club-linz.at/",
-      "attendees": 2,
-      "nostr_note": "6b28ef54a957edd97641a7f9f1da32dc833c2ca0547b9ea78d8555272e214cdb"
+      "description": "Mini-Meetup zwischendurch. Kein Programm, nur lockerer Austausch. Bist du dabei?",
+      "link": null,
+      "attendees": 1,
+      "nostr_note": "0ce0c8d61c6938212ee489e17358de87c1542d683d97bccdfdf23e38fa717700"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3759,7 +3743,7 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck",
     "twitter": null,
     "event": {
-      "start": "2025-11-01 16:00:00",
+      "start": "2026-01-01 16:00:00",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2391",
       "location": "Vöckklabruck",
       "description": "Erstes Treffen sobald genügend Teilnehmer.\nGenauere, aktuelle Infos in der Telegram Gruppe.",
