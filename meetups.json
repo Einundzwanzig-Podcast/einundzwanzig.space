@@ -1500,8 +1500,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-10-17 16:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1790",
+      "start": "2025-12-19 17:00:19",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1793",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
@@ -1626,7 +1626,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\nDiesmal an einem Samstag, warum... wird noch nicht verraten.",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "8121801bba02cefad5e721c2402f42cce746fec4c8d8756ede6ca19be41aee85"
     },
     "style": {
@@ -1840,13 +1840,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-10-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2117",
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2118",
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "24dede342b0543e72d26b3b6b4eb9e3428d77c92662c8b48126d162ee5975a05"
+      "nostr_note": "5abbaf56fdb73876fac29a105f2fa086e49501eb4e78abaf41cfd1ae75ef5ecc"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2690,6 +2690,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Schweden",
+    "latLng": [
+      59.875819,
+      14.994672
+    ],
+    "url": "https://t.me/+Vf7BMAYJ6IZiOTBi",
+    "city": "Kopparberg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweden",
+    "twitter": "strohhutleben",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Schweinfurt ",
     "latLng": [
       50.049099,
@@ -3105,21 +3120,6 @@
     }
   },
   {
-    "name": "Einunszwanzig Schweden",
-    "latLng": [
-      59.875819,
-      14.994672
-    ],
-    "url": "https://t.me/+Vf7BMAYJ6IZiOTBi",
-    "city": "Kopparberg",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einunszwanzig-schweden",
-    "twitter": "strohhutleben",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Flensburg",
     "latLng": [
       54.792313,
@@ -3280,15 +3280,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "start": "2025-10-17 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2504",
-      "location": "Blauer Adler",
-      "description": "Kommt vorbei lernt nette Leute kennen und habt gute Gespräche",
-      "link": "https://maps.app.goo.gl/ZY8D6XpZETDxXsvt9",
-      "attendees": 0,
-      "nostr_note": "7b1e9c65a9c309b28882f9b2d489b9fc4815050b4e95ac8afc611f73ba0c300d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3378,7 +3370,15 @@
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
-    "event": null,
+    "event": {
+      "start": "2025-11-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2560",
+      "location": "weXelerate GmbH - Auditorium - Praterstrasse 1, 1020 Vienna Austria ",
+      "description": "Warum Bitcoin für gemeinnützige Organisationen relevant ist\nBitcoin öffnet neue Wege für den gemeinnützigen Sektor. Doch wie funktionieren Spenden mit Bitcoin? Welches Fundraising-Potenzial steckt in der Community? Und kann Bitcoin als zensurresistentes Zahlungsmittel oder strategische Rücklage dienen?\n\nExpert:innen und Pionier:innen berichten, wie gemeinnütziges Engagement und Bitcoin zusammenfinden - verständlich, praxisnah und ohne Hype.\n\nWas Sie erwartet:\n- Keynote: „Fundraise Bitcoin!“ — von Friedbert Ottacher und Markus Lejsek (21NPO)\n- Keynote: \"Bitcoin für die Zivilgesellschaft\" — von Anita Posch (Bitcoin for Fairness)\n- Panel mit Anita Posch (Bitcoin For Fairness), Johannes Grill (Bitcoin Austria), Reinhard Heiserer (Jugend Eine Welt) & Thomas Lohninger (Epicenter.Works)\n- Ihre erste Bitcoin-Erfahrung: Wir bleiben nicht bei der Theorie! Mit einer praktischen Anleitung erhalten Sie live vor Ort Ihre ersten Satoshis auf eine Wallet.\n- Networking & Austausch: Im Anschluss an den offiziellen Teil laden wir Sie herzlich ein, bei Getränken und Appetithäppchen neue Kontakte zu knüpfen und den Abend gemeinsam ausklingen zu lassen.\n\nVeranstalter:\nEine Kooperation von Bitcoin Austria und 21NPO.",
+      "link": "https://pretix.bitcoin-austria.at/BA/NGO/",
+      "attendees": 0,
+      "nostr_note": "518d01384fb244293f445a75889ab132d44c5d636fd64015cc9415d7efe1fa88"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4096,8 +4096,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "start": "2025-10-17 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2326",
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2327",
       "location": null,
       "description": null,
       "link": null,
