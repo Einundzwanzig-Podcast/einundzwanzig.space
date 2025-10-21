@@ -1703,7 +1703,15 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "start": "2025-11-24 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2566",
+      "location": "Landau",
+      "description": "Details in den Gruppen",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "44ff1ddd0b8a64206bd59f52bb08f7e6534787c7f570dc15f95deaa6f97390f7"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1748,15 +1756,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-10-20 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2563",
-      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
-      "description": "Herzlich Willkommen zum zehnten Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
-      "link": "https://dachsbier.de/#braustueberl",
-      "attendees": 2,
-      "nostr_note": "06c6e2b424a2ec6df8cfa33d6ea57612a262889d8c3cca020d816fe1657587d2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3757,7 +3757,15 @@
     "city": "Wien",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-18 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2565",
+      "location": "weXelerate GmbH — Auditorium — Praterstrasse 1 — 1020 Vienna — Austria",
+      "description": "Von Sats zu Impact: Wie gemeinnützige Organisationen von Bitcoin profitieren können",
+      "link": "https://pretix.bitcoin-austria.at/BA/NGO/",
+      "attendees": 0,
+      "nostr_note": "afaeab9ace7a15f099ee1eac844ddb66d28ab344f09c8aabfcf8416d9ec4b94e"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
