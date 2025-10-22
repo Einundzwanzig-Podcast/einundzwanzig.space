@@ -28,19 +28,11 @@
       50.084476,
       7.770006
     ],
-    "url": "https://t.me/+UVPLGtWCGaNiM2Vi",
+    "url": "https://t.me/AndreasRoy_himself",
     "city": "Kaub am Rhein (Elsenburg)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-elsenburg-at-kaub-am-rhein",
     "twitter": null,
-    "event": {
-      "start": "2025-12-28 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2541",
-      "location": "Kaub",
-      "description": "geplant ist eine kleine Zitadelle in Kaub am Rhein für 2,5 Tage in einer ehemaligen CVJM Einrichtung - wir wollen das Thema Bitcoin mit Gleichgesinnten in besinnlicher Stimmung diskutieren, Neues kennenlernen und mit Bitcoinern und die es werden wollen in den Austausch gehen, da die nächste Zitadelle 2026 ja in Obanjan stattfindet und für viele die Anreise zu weit ist. \n\nmehr demnächst dazu... und bei Interesse gern vorab in der Telegram Gruppe für den Zeitraum und evtl Teilnahme abstimmen !!! ",
-      "link": "https://maps.app.goo.gl/eP343BuNffkYqU51A",
-      "attendees": 0,
-      "nostr_note": "3bda7c250f3199cc83ee78c6808fce98625bf39190b117cedf4d2ff9554b5fd0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -387,7 +379,15 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "start": "2025-11-19 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2570",
+      "location": "Unity-Bar, Arsenalstraße 36 ",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "75add814bd502af5a606a6bbb371dc3b05f124eac8c418c8efd31be7a85078fa"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -614,15 +614,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "start": "2025-10-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2490",
-      "location": "Sushi Sano, Brunnstraße 6, 80331 München",
-      "description": "Essen, Trinken und Bitcoin",
-      "link": "https://share.google/coHwEKTPCXp1VuFtr",
-      "attendees": 2,
-      "nostr_note": "7f91802078cd3f342347126bdd395d7e0ba939af550aaaecfa00c48031693e5f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1188,7 +1180,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 6,
+      "attendees": 8,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1930,7 +1922,15 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-01 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2567",
+      "location": "GOA Mühldorf am Inn",
+      "description": "Meetup in Mühldorf im Lokal GOA\nStadtplatz 15\n84453 Mühldorf am Inn",
+      "link": "https://maps.app.goo.gl/vDQYWyggT4FJg2uq6",
+      "attendees": 0,
+      "nostr_note": "32cc4382de114c33e8385c491d386ac1e2730d611aa3c43c87caf1515c4fd62a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2488,15 +2488,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "start": "2025-10-21 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2544",
-      "location": "BitcoinWERFT",
-      "description": null,
-      "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-rostock.html",
-      "attendees": 0,
-      "nostr_note": "727155c3983df2ec0e427c92e8f4e323df0030963f01964ab2a8ea10fd9dffee"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3015,7 +3007,15 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-10-29 17:21:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2568",
+      "location": "Heinsberg/Waldenrath",
+      "description": "Ein gemütliches Meetup in der Dorfkneipe",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "nostr_note": "73092d2a4a31bb316e597d4b2b7cee631b698f98d24cf30ed6a649be3f83f2cd"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3431,8 +3431,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-10-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2052",
+      "start": "2025-11-21 19:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2053",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
