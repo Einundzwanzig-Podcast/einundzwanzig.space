@@ -403,13 +403,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-10-22 18:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2517",
-      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #16",
-      "description": "Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars. [...]",
-      "link": "https://luma.com/4jn2n4sb",
+      "start": "2025-11-05 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2521",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786219/",
       "attendees": 0,
-      "nostr_note": "dc3e12e4451e8da2fe5365ef3eafb54a69d8e62fbbaeb5552b399e8e4fb55f27"
+      "nostr_note": "6569b426e6f1bdd11741b7023aa6ffc2a85dab8d29165f4ccce9307daea161dc"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1180,7 +1180,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei ⚡️",
       "description": "Dornauers Lebküchnerei im Handwerkerhof am Frauentor ⚡️\nKönigs-. und Frauentorzwinger 5b\n90402 Nürnberg\n⚡️Lightning Accepted",
       "link": "https://share.google/GKr52PlgURWx1UTGj",
-      "attendees": 8,
+      "attendees": 9,
       "nostr_note": "8a5eac7f2905c31607faf4ab5583a5450821a28ea13c264bcb9c47db79ae9067"
     },
     "style": {
@@ -1326,6 +1326,29 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-grenzland",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Grünstadt",
+    "latLng": [
+      49.56302,
+      8.16279
+    ],
+    "url": null,
+    "city": "Grünstadt",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt",
+    "twitter": "Manfred9571",
+    "event": {
+      "start": "2025-12-05 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2571",
+      "location": "Grünstadt Pfalz",
+      "description": "Erstes Meeting in Grünstadt Pfalz",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "16ac7b1ad1bbdf1e992f48d54ad3b6b44da58608c4e6bc04274983aa74d68708"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1900,8 +1923,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-10-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1843",
+      "start": "2025-11-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1844",
       "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": null,
@@ -3673,15 +3696,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "start": "2025-10-22 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2542",
-      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "129fe773d49cf2a534fd8af104d3343006d91f9e65b9b0abb51f46d8c1923b58"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3697,8 +3712,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-10-22 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1733",
+      "start": "2025-11-19 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1734",
       "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
       "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
       "link": "https://bitcoin-tirol.at/",
@@ -4119,13 +4134,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
     "twitter": null,
     "event": {
-      "start": "2025-10-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2549",
+      "start": "2025-10-29 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2561",
       "location": "Brig-Glis",
       "description": null,
       "link": null,
       "attendees": 1,
-      "nostr_note": "8b271e9b446af6cd36062eecc189928c39feb5526bc0c0e53cc85dd612754d0b"
+      "nostr_note": "9436c14e9303877b7c0c38076ddaf09e2c5910fd792d41631337ef09ceebd738"
     },
     "style": {
       "fill": "var(--color-accent)"
