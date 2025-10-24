@@ -2458,15 +2458,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "start": "2025-10-23 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2551",
-      "location": "Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": null,
-      "link": "https://kalyva.de/",
-      "attendees": 0,
-      "nostr_note": "7cf095df10080b2d0fe18bec3fe973d0cbdf161256b51f7862bdaaf1048f5a22"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3560,13 +3552,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "start": "2025-10-23 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2559",
+      "start": "2025-10-31 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2550",
       "location": "Bar21",
-      "description": "Mini-Meetup zwischendurch. Kein Programm, nur lockerer Austausch. Bist du dabei?",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "0ce0c8d61c6938212ee489e17358de87c1542d683d97bccdfdf23e38fa717700"
+      "description": "Am Freitag, den 31. Oktober 2025, laden wir zum nächsten Themenabend in die Bar21 ein.\nAb 18:00 Uhr öffnen wir die Türen, um 18:30 Uhr startet der Vortrag „Bitcoin & Privatsphäre“.\nIm Anschluss gibt es ausreichend Zeit für Fragen, Antworten und Austausch in gemütlicher Runde.\n\nEintritt frei – komm vorbei und diskutiere mit uns über die Bedeutung von Privatsphäre im Bitcoin-Ökosystem.\n\nAlle Infos und Updates im Telegram-Kanal:\nhttps://t.me/Einundzwanzig_Linz\n",
+      "link": "https://www.bitcoin-club-linz.at/",
+      "attendees": 2,
+      "nostr_note": "6b28ef54a957edd97641a7f9f1da32dc833c2ca0547b9ea78d8555272e214cdb"
     },
     "style": {
       "fill": "var(--color-accent)"
