@@ -9,7 +9,7 @@ block main
     section
       h1= title
 
-      article
+      article#logo
         h2 Logo quadratisch
         a.logo.logo-square(href=assetPath("/img/media/einundzwanzig-square.svg") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-square.svg") alt="Logo quadratisch")
@@ -34,7 +34,7 @@ block main
         a.telegram(href=assetPath("/img/media/einundzwanzig-telegram.png") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-telegram.png") alt="Telegram")
 
-      article
+      article#cover
         h2 Cover
         a.cover(href=assetPath("/img/media/einundzwanzig-cover-interview.png") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-cover-interview.png") alt="Cover Interview")
@@ -42,7 +42,7 @@ block main
         a.cover(href=assetPath("/img/media/einundzwanzig-cover-lesestunde.png") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-cover-lesestunde.png") alt="Cover Lesestunde")
 
-      article
+      article#praesentation
         h2 Präsentationsvorlage
         p
           = "Nutze diese "
@@ -58,7 +58,7 @@ block main
         img.presentation(src=assetPath("/img/media/einundzwanzig-praesentation.jpg") alt="Einundzwanzig Präsentationsvorlage")
         p Lasst uns gerne auch wissen, wenn du eine von dir erstellte Präsentation mit der Community teilen und hier veröffentlichen möchtest.
 
-      article
+      article#meetup_flyer
         h2 Meetup Flyer Vorlage
         p
           = "Von "
@@ -69,7 +69,7 @@ block main
           a(href="https://www.canva.com/design/DAEvn3g1ycs/cJ-4MfDZBvLHZN3SKRu5Cg/view?utm_content=DAEvn3g1ycs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview" target="_blank" rel="noopener noreferrer") Canva
         img.flyer(src=assetPath("/img/media/einundzwanzig-meetup-flyer-preview.jpg") alt="Einundzwanzig Meetup Flyer Vorlage")
 
-      article
+      article#wallpaper
         h2 Wallpaper
         a.wallpaper(href=assetPath("/img/media/einundzwanzig-wallpaper.png") target="_blank")
           img(src=assetPath("/img/media/einundzwanzig-wallpaper-preview.jpg") alt="Wallpaper")
@@ -87,7 +87,7 @@ block main
         p
           a(href="https://drive.google.com/drive/folders/1SWZfGja8DoYuXsV5shCPm67Bthgmgtl2" target="_blank" rel="noopener noreferrer") Weitere Wallpaper
 
-      article
+      article#schriften
         h2 Schriften
         ul.fonts
           li.font-bold
@@ -95,7 +95,7 @@ block main
           li.font-inconsolata
             a(href="https://fonts.google.com/specimen/Inconsolata" target="_blank" rel="nofollow noopener") Copy: Inconsolata
 
-      article
+      article#farben
         h2 Farben
         ul.colors
           li.orange #F7931A
@@ -103,7 +103,22 @@ block main
           li.nostrtalk #A915FF
           li.interview #151515
 
-      article
+      article#dokumente
         h2 Dokumente
         ul
-          li: a(href="/files/EINUNDZWANZIG-WhatWorkedForUs.pdf") What Worked For Us
+          li: a(href="/files/EINUNDZWANZIG-WhatWorkedForUs.pdf") Einundzwanzig: What Worked For Us
+          li
+            a(href="/files/Konzept_ProWo_-_Kaurischnecke_zum_Bitcoin.pdf" target="_blank") Schulprojekt: Von der Kaurischnecke zum Bitcoin
+            = " (von "
+            a(href="https://primal.net/p/nprofile1qqsz9m0vk8t5kxvn9nshd8y2j7t7ypkc0gur8dk9xm7x8769f4l6w7s8u6wsk" target="_blank" rel="noopener noreferrer") Pitti21
+            = " und "
+            a(href="https://primal.net/p/nprofile1qqswpk6hcuacv3wd9naarml8ptym5387r9f2vkw898ugmzyhcty6nrqes2f5w" target="_blank" rel="noopener noreferrer") katapai
+            = ")"
+          li
+            = "So schützen Sie Ihre Bitcoin vor neugierigen Blicken: "
+            a(href="/files/So_schuetzen_Sie_Ihre_Bitcoin_vor_neugierigen_Blicken.pdf" target="_blank") PDF
+            = " und "
+            a(href="/files/So_schuetzen_Sie_Ihre_Bitcoin_vor_neugierigen_Blicken.pptx" target="_blank") Präsentation
+            = " (von "
+            a(href="https://primal.net/DeWe" target="_blank" rel="noopener noreferrer") DeWe
+            = ")"
