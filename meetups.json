@@ -3575,13 +3575,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2025-10-24 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1722",
-      "location": "Parndorf, Werk",
-      "description": "Bitcoin-Meetupt Nordburgenland\nBitcoin, Bowling & Bier",
-      "link": "https://werkbowling.at/",
+      "start": "2025-11-21 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1723",
+      "location": "Neusiedl am See - vermutlich Joe's Pub",
+      "description": "Bitcoin-Meetup Nordburgenland\nBicoin, Pizza & Bier",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "86028eabee3217fe25c02b7c0cc12cddc0490a1e4e290ff64429fbcdf6bd1804"
+      "nostr_note": "024d006625a329f132f94ba7c0376f8de2543096a5e7858b819df082dbaa8a07"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3642,15 +3642,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "start": "2025-10-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2487",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 24.10.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "d22bb409b6a383e49e619b704ff338dc53bf99e953c32c95ca92693712534cd1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
