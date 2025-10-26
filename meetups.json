@@ -735,7 +735,15 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2574",
+      "location": "wird im Telegram Channel bekannt gegeben (nach Abstimmung)",
+      "description": "Augschburger Meetup. Kommt vorbei :)",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "519fe22428ff0e3cbe87d44bbfaf478f57ce9bdf3dff55957d311ecaac595996"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3028,6 +3036,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Weiden",
+    "latLng": [
+      49.680779,
+      12.18319
+    ],
+    "url": "https://t.me/+kCa_fJJ7D3U4N2Qy",
+    "city": "Weiden",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-weiden",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Westmünsterland",
     "latLng": [
       52.03582,
@@ -3634,7 +3657,15 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "start": "2025-11-21 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2572",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.11.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "9055c0d2a866a476b38934706bbaf2d5e313f9fc5247bfc8dc7ee6b76f09ec0c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
