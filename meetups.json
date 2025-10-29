@@ -1641,7 +1641,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
       "description": "Herzlich Willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.\nDiesmal an einem Samstag, mit besonderen Gästen.\n\nIm November als Themen-Highlight. „Leben auf Bitcoin“.\nGeht das heute schon und wenn ja, wie? \nFür alle ungeduldigen ein Tip. „Re:set Podcast“ Folge 1. ",
       "link": null,
-      "attendees": 5,
+      "attendees": 7,
       "nostr_note": "8121801bba02cefad5e721c2402f42cce746fec4c8d8756ede6ca19be41aee85"
     },
     "style": {
@@ -1779,7 +1779,15 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-10 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2576",
+      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
+      "description": "Herzlich Willkommen zum 11. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://dachsbier.de/#braustueberl",
+      "attendees": 3,
+      "nostr_note": "f0e72b44949b526049d8fd9e0b57e68d1154c194d1cc8803d564a844220fade6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2035,7 +2043,7 @@
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "a76abb90bef46e57b067082469266edf8d60c63827b3d9e4c1abf47850a53eba"
     },
     "style": {
