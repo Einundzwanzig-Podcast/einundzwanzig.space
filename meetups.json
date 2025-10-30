@@ -910,13 +910,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-10-29 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1652",
+      "start": "2025-11-26 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2294",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
-      "link": "https://maps.app.goo.gl/WJUisY3GXGtfPuSa9",
+      "link": null,
       "attendees": 0,
-      "nostr_note": "bbbed9b614da1aec6a6959a26a9c04ca4ade4f7fe676928174934c234930aeea"
+      "nostr_note": "e3996d7f0907791c51ef930db4567c53d62fcb4ccce5a8b0ccfc5f64c8112a43"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1344,7 +1344,7 @@
       49.56302,
       8.16279
     ],
-    "url": "Einundzwanzig Grünstadt",
+    "url": "https://portal.einundzwanzig.space/de/meetup/stream-calendar?meetup=316",
     "city": "Grünstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt",
     "twitter": "Manfred9571",
@@ -1417,8 +1417,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2025-10-29 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1605",
+      "start": "2025-11-26 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1606",
       "location": "Haltenhoffstr. 50 (bei CONDAT), in 30167 Hannover (Nordstadt)",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Bei CONDAT in der Haltenhoffstr. 50, in 30167 Hannover (Nordstadt)\n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
@@ -1785,7 +1785,7 @@
       "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
       "description": "Herzlich Willkommen zum 11. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
       "link": "https://dachsbier.de/#braustueberl",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "f0e72b44949b526049d8fd9e0b57e68d1154c194d1cc8803d564a844220fade6"
     },
     "style": {
@@ -3038,15 +3038,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "start": "2025-10-29 17:21:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2568",
-      "location": "Heinsberg/Waldenrath",
-      "description": "Ein gemütliches Meetup in der Dorfkneipe",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 0,
-      "nostr_note": "73092d2a4a31bb316e597d4b2b7cee631b698f98d24cf30ed6a649be3f83f2cd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4156,15 +4148,7 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
     "twitter": null,
-    "event": {
-      "start": "2025-10-29 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2561",
-      "location": "Brig-Glis",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "9436c14e9303877b7c0c38076ddaf09e2c5910fd792d41631337ef09ceebd738"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
