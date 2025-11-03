@@ -15,7 +15,7 @@
       "location": "Muse Restaurant",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "8c749a71f2f298f044dec99c79d59a1c53ce0ccd7064cd10aeeeae5e2a30c8f3"
     },
     "style": {
@@ -161,8 +161,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "start": "2025-11-02 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2420",
+      "start": "2025-12-07 15:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2421",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
@@ -629,15 +629,7 @@
     "city": "Chiemsee/Chiemgau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanig-wandern-chiemgau-berchtesgarden",
     "twitter": null,
-    "event": {
-      "start": "2025-11-02 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2014",
-      "location": "siehe Telegram Gruppe",
-      "description": "Mit Bitcoin etwas bewegen und heute auch noch deinen Körper dazu ;) ... schau bezüglich Strecke und Treffpunkt in die Telegram Gruppe rein oder schreib mir gerne unter post@herzenslicht.de, wenn du kein Telegram hast. Alle sind willkommen, die für sich neu losgehen wollen oder einfach Gleichgesinnte treffen möchten. Freu mich auf dich, Sabine!",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "0ea023e1d80314df80951675b6c257b89dd707cd2a7295b51508fe0a2c96e7c0"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
