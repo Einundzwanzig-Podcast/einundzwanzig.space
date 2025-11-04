@@ -10,12 +10,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
     "event": {
-      "start": "2025-11-08 17:00:00",
+      "start": "2025-11-08 15:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2564",
       "location": "Muse Restaurant",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 4,
       "nostr_note": "8c749a71f2f298f044dec99c79d59a1c53ce0ccd7064cd10aeeeae5e2a30c8f3"
     },
     "style": {
@@ -143,7 +143,7 @@
       "location": "Ristorante Maccaroni, Oberer Bürglaß 18, 96450 Coburg",
       "description": "Großer runder Tisch (Reserviert auf Bitcoin-Stammtisch)",
       "link": "https://maps.app.goo.gl/GSwsvNDzmho4V4Pb7",
-      "attendees": 3,
+      "attendees": 4,
       "nostr_note": "ade1d7769813878ea7c3a2e2aa16272d0ffb23c91a717d4f62a4f40940725f02"
     },
     "style": {
@@ -1169,10 +1169,10 @@
     "event": {
       "start": "2025-11-22 18:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1935",
-      "location": "Erlangen",
-      "description": null,
-      "link": null,
-      "attendees": 0,
+      "location": "Erlangen, TIO RUSTICA",
+      "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
+      "link": "https://share.google/ZuYzxzUNPCQO5S5QZ",
+      "attendees": 2,
       "nostr_note": "0a3d6f9f697a85c283e1bcf2fd3302fbd01f877464878fc5f0f8db219d3189c4"
     },
     "style": {
@@ -2510,7 +2510,15 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-11 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2579",
+      "location": "Hilpoltstein",
+      "description": "Wir machen ein Nikolaustreffen🎅 Dieses mal in Hilpoltstein im Gutmann zur Post. Sind alle Willkommen ob Anfänger oder Nerd.",
+      "link": "https://www.gutmann-zur-post.de/",
+      "attendees": 2,
+      "nostr_note": "03870e41d7ecb839175dd089460db384c8692fa69f6302edf556aaaac91811ad"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2901,7 +2909,15 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "start": "2025-11-15 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2578",
+      "location": "Radis Stacks",
+      "description": "Bei unserem Meetup im Stacks kann alles mit Bitcoin bezahlt werden.\nWenn gutes Wetter ist machen wir vorher noch einen Plebwalk, dazu dann aber mehr auf Signal oder Telegram.",
+      "link": null,
+      "attendees": 0,
+      "nostr_note": "60a64f393165b6064e268d733e8742dc2117ac6783acf90a14834dc520ca54e2"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3639,7 +3655,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.11.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "9055c0d2a866a476b38934706bbaf2d5e313f9fc5247bfc8dc7ee6b76f09ec0c"
     },
     "style": {
