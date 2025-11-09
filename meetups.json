@@ -644,12 +644,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-11-09 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1818",
+      "start": "2025-12-14 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1819",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
-      "attendees": 1,
+      "attendees": 0,
       "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
     },
     "style": {
@@ -2004,7 +2004,15 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-15 14:20:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2582",
+      "location": "Neubrandenburg",
+      "description": "📢 4. Einundzwanzig – Bitcoin Only Meetup in Neubrandenburg!\n📅 15.11. | Start: 15:21 Uhr | MyArea (Treptowerstraße 1, 17033 Neubrandenburg)\n\nAuch diesmal wieder offen für alle!\nMit spannendem Gastbeitrag:\n🕵️‍♀️ „Privatsphäre ist kein Verbrechen – die langsame Abschaffung des Briefgeheimnisses“\n\n💡 Special: Unter allen Teilnehmenden wird ein Exemplar des „Privatsphäre-Handbuchs“ von Timo Volkow verlost – mit persönlichem kleinen Mantra und Original Autogramm ✍️ \n\nBringt eure Fragen, Ideen und Neugier mit – diskutiert mit uns über Bitcoin, Privatsphäre & mehr! 💬\n🎟️ Eintritt frei | ☕ Getränke gegen Gebühr erhältlich\n\n#BitcoinMeetup #Einundzwanzig #Neubrandenburg #MyArea #Privatsphäre #BitcoinOnly #Community #EinundzwanzigMeetup #TimoVolkow",
+      "link": "https://maps.app.goo.gl/DNGf8QjUNHtLHwrP8?g_st=ipc",
+      "attendees": 0,
+      "nostr_note": "28e032076d6a10f5c08368aca0353e5eefb0c3a2ff5e3ed6ce015e8338dcb694"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3631,7 +3639,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.11.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "9055c0d2a866a476b38934706bbaf2d5e313f9fc5247bfc8dc7ee6b76f09ec0c"
     },
     "style": {
