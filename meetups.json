@@ -2479,7 +2479,15 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2583",
+      "location": "Craftbar Rostock | Margaretenstraße 41 | 18057 Rostock |",
+      "description": null,
+      "link": "https://21rostock.de/",
+      "attendees": 0,
+      "nostr_note": "51702ea62a3ba96881ce666e928664dfa1695c05cd3380bf6fe4ddda5546ea32"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
