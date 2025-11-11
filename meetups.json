@@ -329,16 +329,16 @@
       53.57568,
       7.9003
     ],
-    "url": "https://portal.einundzwanzig.space/de/meetup/meetup-events?l=de",
+    "url": "https://www.lavielepetit-jever.de/",
     "city": "Jever",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
       "start": "2025-11-21 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2455",
-      "location": "1848 Pütt",
-      "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns in der 1848 Pütt. 3. Freitag im Monat, 18 Uhr.",
-      "link": "https://www.1848puett.de/",
+      "location": "La Vie, Alter Markt 2 26441 Jever",
+      "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns im La Vie 3. Freitag im Monat, 18 Uhr.",
+      "link": "https://www.lavielepetit-jever.de/",
       "attendees": 0,
       "nostr_note": "66ade98424edc2cc4e1ce270d6135426e029a53fca4efff05d43ef23003bbe1d"
     },
@@ -953,7 +953,15 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-28 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2589",
+      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal Ende des Monats in Cham. Platzreservierungen finden ca. eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://la-cham.de/",
+      "attendees": 1,
+      "nostr_note": "6ea74bf61eb94cff16db4d65745e22680a0dfb803fcc3164af6bfde1bf19263a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1731,15 +1739,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "start": "2025-11-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2576",
-      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
-      "description": "Herzlich Willkommen zum 11. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
-      "link": "https://dachsbier.de/#braustueberl",
-      "attendees": 4,
-      "nostr_note": "f0e72b44949b526049d8fd9e0b57e68d1154c194d1cc8803d564a844220fade6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2171,10 +2171,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-12-05 17:00:00",
+      "start": "2025-12-06 17:00:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1436",
-      "location": "Restaurant KRETA, Nadorster Straße 53",
-      "description": "Zahlung nur noch in Euro!!",
+      "location": "Restaurant KRETA, Nadorster Straße 53, Oldenburg",
+      "description": "Verschoben auf Samstag!!",
       "link": "https://t.me/einundzwanzig_OL",
       "attendees": 0,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
@@ -2239,8 +2239,8 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "start": "2025-11-10 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2078",
+      "start": "2025-12-08 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2079",
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
@@ -2675,7 +2675,15 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "start": "2025-11-14 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2590",
+      "location": "Villingen-Schwenningen",
+      "description": "Pizza, Pasta, Bitcoin!\nBesucht uns gerne beim Meetup im \"La Locanda\".",
+      "link": "https://share.google/Sn0hSHHJH5Ju3Maay",
+      "attendees": 2,
+      "nostr_note": "eda7a6e830d5c139c4248e164d8dc212c1ab19640499eccabe6b2ffc8c0fb56a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
