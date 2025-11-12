@@ -2450,7 +2450,15 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-27 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2593",
+      "location": "Kalyva - Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": null,
+      "link": "https://kalyva.de/",
+      "attendees": 0,
+      "nostr_note": "9938776976a4465b03ca2452487dfd4ff9a1490ce5eb84b88a47a8ac381f0eeb"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
