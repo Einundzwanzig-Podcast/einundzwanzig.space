@@ -1164,7 +1164,7 @@
       "location": "Erlangen, TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://share.google/ZuYzxzUNPCQO5S5QZ",
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "0a3d6f9f697a85c283e1bcf2fd3302fbd01f877464878fc5f0f8db219d3189c4"
     },
     "style": {
@@ -2397,15 +2397,7 @@
     "city": "Remstal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-remstal",
     "twitter": "21Remstal",
-    "event": {
-      "start": "2025-11-13 17:20:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2581",
-      "location": "trattoria toscana",
-      "description": null,
-      "link": "https://www.gartenfreunde-rommelshausen.de/trattoria-toscana/",
-      "attendees": 5,
-      "nostr_note": "4a4e7b485c25f7c068853ccb53a9ccf55543a62423ac7287f0ae580bbfcb5756"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2850,13 +2842,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-11-13 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2038",
+      "start": "2025-12-11 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2039",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
-      "nostr_note": "f78afd2c990bacad0e8ffb6daca1ae7c36e347a7a2aed8a4035904bd7035de15"
+      "nostr_note": "a3e838a0347afaebfba70d83f3d379d224b8e4737134d504f395b019b2924f3c"
     },
     "style": {
       "fill": "var(--color-accent)"
