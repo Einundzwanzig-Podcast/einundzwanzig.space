@@ -2691,15 +2691,7 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": {
-      "start": "2025-11-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2590",
-      "location": "Villingen-Schwenningen",
-      "description": "Pizza, Pasta, Bitcoin!\nBesucht uns gerne beim Meetup im \"La Locanda\".",
-      "link": "https://share.google/Sn0hSHHJH5Ju3Maay",
-      "attendees": 2,
-      "nostr_note": "eda7a6e830d5c139c4248e164d8dc212c1ab19640499eccabe6b2ffc8c0fb56a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2903,13 +2895,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-11-14 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2526",
-      "location": "Höckelheim Don‘s Diner",
+      "start": "2025-12-12 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2527",
+      "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "f924fb2841719350e1a40ebf340a1f01dc457eb15bbfcf2e9e6b610547229ca9"
+      "nostr_note": "2725bb01d87cac5e4b317c20835784c2a6f3338793c83ca5354771607def37c4"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3507,12 +3499,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "start": "2025-11-14 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2190",
+      "start": "2025-12-12 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2191",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "ffe1f801827a8aedfcf170144f2581077bb3b5d0210e0175aceb4a52febd1086"
     },
     "style": {
