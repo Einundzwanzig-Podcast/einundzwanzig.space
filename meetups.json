@@ -2533,7 +2533,15 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-28 17:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2594",
+      "location": "Badhaus in Rottweil ",
+      "description": "Bitte um Anmeldung in der Telegram Gruppe.\n1 Woche vorher muss ich der Location die Personenzahl durchgeben. Vielen Dank!",
+      "link": "https://maps.app.goo.gl/ejLVHpsqfgZgRuCY7",
+      "attendees": 0,
+      "nostr_note": "f7507001ed23d728c6a1b1c9f3210371cdea3a345e464757a87fde8e881e6809"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
