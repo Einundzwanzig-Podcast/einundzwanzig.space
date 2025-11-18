@@ -3112,7 +3112,15 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "start": "2025-11-21 17:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2596",
+      "location": "Schmex-TexMex Balingen",
+      "description": "Anmeldung in der Telegram Meetup Gruppe. ",
+      "link": "https://share.google/C86NUNTI315vo4DvD",
+      "attendees": 0,
+      "nostr_note": "661e5cb9de8d14f98dfb1e9ff7801f25b77f1d874da60513ec6d93168ab33d2c"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3662,7 +3670,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.11.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "nostr_note": "9055c0d2a866a476b38934706bbaf2d5e313f9fc5247bfc8dc7ee6b76f09ec0c"
     },
     "style": {
