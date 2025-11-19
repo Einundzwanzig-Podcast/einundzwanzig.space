@@ -1071,9 +1071,9 @@
       "start": "2025-12-05 17:30:00",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2372",
       "location": "Ellwangen ",
-      "description": "Bistro Altstadt Ellwangen ",
-      "link": "http://www.bistro-altstadt.de/",
-      "attendees": 0,
+      "description": "Tzatziki Ellwangen",
+      "link": "https://tzatziki-ellwangen.de",
+      "attendees": 1,
       "nostr_note": "d2c0f7519fde55c69f3215287e27a5b51bf38d4de0ff3147ca31aa0114ce8ccf"
     },
     "style": {
@@ -1164,7 +1164,7 @@
       "location": "Erlangen, TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://share.google/ZuYzxzUNPCQO5S5QZ",
-      "attendees": 4,
+      "attendees": 5,
       "nostr_note": "0a3d6f9f697a85c283e1bcf2fd3302fbd01f877464878fc5f0f8db219d3189c4"
     },
     "style": {
@@ -3399,15 +3399,7 @@
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
-    "event": {
-      "start": "2025-11-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2560",
-      "location": "weXelerate GmbH - Auditorium - Praterstrasse 1, 1020 Vienna Austria ",
-      "description": "Warum Bitcoin für gemeinnützige Organisationen relevant ist\nBitcoin öffnet neue Wege für den gemeinnützigen Sektor. Doch wie funktionieren Spenden mit Bitcoin? Welches Fundraising-Potenzial steckt in der Community? Und kann Bitcoin als zensurresistentes Zahlungsmittel oder strategische Rücklage dienen?\n\nExpert:innen und Pionier:innen berichten, wie gemeinnütziges Engagement und Bitcoin zusammenfinden - verständlich, praxisnah und ohne Hype.\n\nWas Sie erwartet:\n- Keynote: „Fundraise Bitcoin!“ — von Friedbert Ottacher und Markus Lejsek (21NPO)\n- Keynote: \"Bitcoin für die Zivilgesellschaft\" — von Anita Posch (Bitcoin for Fairness)\n- Panel mit Anita Posch (Bitcoin For Fairness), Johannes Grill (Bitcoin Austria), Reinhard Heiserer (Jugend Eine Welt) & Thomas Lohninger (Epicenter.Works)\n- Ihre erste Bitcoin-Erfahrung: Wir bleiben nicht bei der Theorie! Mit einer praktischen Anleitung erhalten Sie live vor Ort Ihre ersten Satoshis auf eine Wallet.\n- Networking & Austausch: Im Anschluss an den offiziellen Teil laden wir Sie herzlich ein, bei Getränken und Appetithäppchen neue Kontakte zu knüpfen und den Abend gemeinsam ausklingen zu lassen.\n\nVeranstalter:\nEine Kooperation von Bitcoin Austria und 21NPO.",
-      "link": "https://pretix.bitcoin-austria.at/BA/NGO/",
-      "attendees": 0,
-      "nostr_note": "518d01384fb244293f445a75889ab132d44c5d636fd64015cc9415d7efe1fa88"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3786,15 +3778,7 @@
     "city": "Wien",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-wien",
     "twitter": null,
-    "event": {
-      "start": "2025-11-18 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2565",
-      "location": "weXelerate GmbH — Auditorium — Praterstrasse 1 — 1020 Vienna — Austria",
-      "description": "Von Sats zu Impact: Wie gemeinnützige Organisationen von Bitcoin profitieren können",
-      "link": "https://pretix.bitcoin-austria.at/BA/NGO/",
-      "attendees": 0,
-      "nostr_note": "afaeab9ace7a15f099ee1eac844ddb66d28ab344f09c8aabfcf8416d9ec4b94e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
