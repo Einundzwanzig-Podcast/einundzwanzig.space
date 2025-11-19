@@ -191,13 +191,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-11-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2216",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
+      "start": "2025-12-04 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2025",
+      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
+      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -379,15 +379,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "start": "2025-11-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2570",
-      "location": "Unity-Bar, Arsenalstraße 36 ",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "75add814bd502af5a606a6bbb371dc3b05f124eac8c418c8efd31be7a85078fa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1164,7 +1156,7 @@
       "location": "Erlangen, TIO RUSTICA",
       "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
       "link": "https://share.google/ZuYzxzUNPCQO5S5QZ",
-      "attendees": 5,
+      "attendees": 8,
       "nostr_note": "0a3d6f9f697a85c283e1bcf2fd3302fbd01f877464878fc5f0f8db219d3189c4"
     },
     "style": {
@@ -1695,12 +1687,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-11-19 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1830",
+      "start": "2025-12-17 18:00:00",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1831",
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -3239,7 +3231,7 @@
       "location": "Gourmet Wunderlich, Gartenstr 5 in 95213 Münchberg",
       "description": "Fichtelcoiner X Gourmet Wunderlich. ",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "nostr_note": "3b28bd97d3ab6d7fbac2191f9c98c0c22d544828b9e2e77bef565ca4fb743dde"
     },
     "style": {
@@ -3718,10 +3710,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-11-19 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1734",
-      "location": "Gasthaus Bierstindl (Ofenstube), Klostergasse 6, 6020 Innsbruck, Tirol",
-      "description": "Bitcoin Stammtisch Innsbruck - Einundzwanzig Tirol",
+      "start": "2025-12-17 16:30:00",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1735",
+      "location": "Christkindlmarkt Wiltener Platzl, Leopoldstr. 27 - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
+      "description": "Wir treffen uns am Mittwoch 17.12.2025 bereits um 17:30 Uhr und zwar am Christkindlmarkt Wiltener Platzl, Leopoldstr. 27, um mit einem ATH-Glühwein anzustoßen.\n\nAb 19:30 Uhr sind wir dann wieder im Gasthaus Bierstindl (Stindlsaal).",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
       "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
