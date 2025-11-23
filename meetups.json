@@ -1,28 +1,5 @@
 [
   {
-    "name": "21 Bitcoin Meetup Zypern",
-    "latLng": [
-      34.772015,
-      32.429737
-    ],
-    "url": "https://t.me/+CYfOSctGW35lOTY6",
-    "city": "21Bitcoin Zypern",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern",
-    "twitter": "KryptoJuenger82",
-    "event": {
-      "start": "2025-12-13 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2591",
-      "location": "Muse Restaurant",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
-    },
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "21 Elsenburg @ Kaub am Rhein",
     "latLng": [
       50.084476,
@@ -47,21 +24,6 @@
     "city": "Gießen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-giessen",
     "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "21 Meetup Paphos Zypern",
-    "latLng": [
-      34.772015,
-      32.429737
-    ],
-    "url": null,
-    "city": "21Bitcoin Zypern",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21-meetup-paphos-zypern",
-    "twitter": "KryptoJuenger82",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -153,12 +115,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "start": "2025-12-07 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2421",
+      "start": "2025-12-07T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2421",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
     "style": {
@@ -191,12 +154,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "start": "2025-12-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2025",
+      "start": "2025-12-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2025",
       "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
       "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
       "link": "https://www.meetup.com/bitcoin-lab-berlin",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
     },
     "style": {
@@ -304,12 +268,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
     "event": {
-      "start": "2025-12-10 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1992",
+      "start": "2025-12-10T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale/event/1992",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "7a466d13b7a08643dc576da6b80f74bd877d8eb8ef3447892410af5211505819"
     },
     "style": {
@@ -342,12 +307,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2455",
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/2456",
       "location": "La Vie, Alter Markt 2 26441 Jever",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns im La Vie 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.lavielepetit-jever.de/",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "66ade98424edc2cc4e1ce270d6135426e029a53fca4efff05d43ef23003bbe1d"
     },
     "style": {
@@ -395,12 +361,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "start": "2025-11-26 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2569",
+      "start": "2025-11-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2569",
       "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #17",
       "description": "​Es gibt wieder ein Online-Meetup-Format, und zwar in Form eines deutschsprachigen, überregionalen Bitcoin Socratic Seminars. [...]",
       "link": "https://luma.com/fygb0amt",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "f30d4d76b0ff73a9f1a843d9544f653d37c43e99d42682c75f4b4e4cf9c356af"
     },
     "style": {
@@ -448,13 +415,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-11-22 09:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1920",
+      "start": "2025-12-06T09:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/1921",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "nostr_note": "be416569b69ee654053a8f01d9ba11bd94b2bc8913d671695b1eab4a5bbaef14"
+      "might_attendees": 0,
+      "nostr_note": "339e8e396c93a43efed895c396924208242b2fb236ffbb959cd7b2cea547c6c2"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -561,12 +529,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
     "twitter": "toobiTx",
     "event": {
-      "start": "2025-12-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2510",
+      "start": "2025-12-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig/event/2510",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "f2d1b67cae21da7fa7a0b14bd596ebe66c8135ef20f607bf79e41468235aa142"
     },
     "style": {
@@ -644,12 +613,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
     "event": {
-      "start": "2025-12-14 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1819",
+      "start": "2025-12-14T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen/event/1819",
       "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
       "description": null,
       "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
     },
     "style": {
@@ -711,15 +681,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "start": "2025-11-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2574",
-      "location": "wird im Telegram Channel bekannt gegeben (nach Abstimmung)",
-      "description": "Augschburger Meetup. Kommt vorbei :)",
-      "link": null,
-      "attendees": 0,
-      "nostr_note": "519fe22428ff0e3cbe87d44bbfaf478f57ce9bdf3dff55957d311ecaac595996"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -840,12 +802,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "start": "2025-12-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1806",
+      "start": "2025-12-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/1806",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
     },
     "style": {
@@ -878,12 +841,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "start": "2025-11-26 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2294",
+      "start": "2025-11-26T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2294",
       "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
       "description": "Hohenlohestraße 4-6, 28209 Bremen",
       "link": null,
       "attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "e3996d7f0907791c51ef930db4567c53d62fcb4ccce5a8b0ccfc5f64c8112a43"
     },
     "style": {
@@ -931,12 +895,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
     "event": {
-      "start": "2025-12-10 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2106",
+      "start": "2025-12-10T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup/event/2106",
       "location": null,
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "62e61459409dc7d443fa47a6ec8c430f270cc79ec4aa3a1e9e5b92efc87d4271"
     },
     "style": {
@@ -954,12 +919,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
     "event": {
-      "start": "2025-11-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2589",
+      "start": "2025-11-28T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/2589",
       "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
       "description": "Wir treffen und regelmäßig einmal Ende des Monats in Cham. Platzreservierungen finden ca. eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
       "link": "https://la-cham.de/",
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "6ea74bf61eb94cff16db4d65745e22680a0dfb803fcc3164af6bfde1bf19263a"
     },
     "style": {
@@ -992,12 +958,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe",
     "twitter": null,
     "event": {
-      "start": "2025-12-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2177",
+      "start": "2025-12-06T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-detmoldlippe/event/2177",
       "location": "Cafe Mix, Detmold, Meierstr. 12",
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "092c4cd94d1e97f5905fb32c6df97caea074e63d05ba48b66144588db98b112b"
     },
     "style": {
@@ -1060,12 +1027,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "start": "2025-12-05 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2372",
+      "start": "2025-12-05T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2372",
       "location": "Ellwangen ",
       "description": "Tzatziki Ellwangen",
       "link": "https://tzatziki-ellwangen.de",
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "d2c0f7519fde55c69f3215287e27a5b51bf38d4de0ff3147ca31aa0114ce8ccf"
     },
     "style": {
@@ -1113,12 +1081,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
     "event": {
-      "start": "2025-12-10 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1858",
+      "start": "2025-12-10T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen/event/1858",
       "location": null,
       "description": "Meetup jeden zweiten Mittwoch im Monat!",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
     },
     "style": {
@@ -1151,13 +1120,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "start": "2025-11-22 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1935",
-      "location": "Erlangen, TIO RUSTICA",
-      "description": "Pizzeria TIO RUSTICA\nLudwig-Erhard-Straße 13\n91052 Erlangen",
-      "link": "https://share.google/ZuYzxzUNPCQO5S5QZ",
-      "attendees": 9,
-      "nostr_note": "0a3d6f9f697a85c283e1bcf2fd3302fbd01f877464878fc5f0f8db219d3189c4"
+      "start": "2025-12-13T19:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/1936",
+      "location": "Fürth, Cheers Pub & Grill",
+      "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
+      "link": "https://share.google/alCsPj9RoZ8Te8hdF",
+      "attendees": 4,
+      "might_attendees": 1,
+      "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1219,12 +1189,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
     "event": {
-      "start": "2025-12-11 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1701",
+      "start": "2025-12-11T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen/event/1701",
       "location": "Wird auf Telegram bekannt gegeben",
       "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "b543b4955f49ccb3a63b0c51137072d8db9d104e9f49e2307736167283b6a118"
     },
     "style": {
@@ -1317,12 +1288,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt",
     "twitter": "Manfred9571",
     "event": {
-      "start": "2025-12-05 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2571",
+      "start": "2025-12-05T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt/event/2571",
       "location": "Grünstadt Pfalz",
       "description": "Erstes Meeting in Grünstadt Pfalz",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "16ac7b1ad1bbdf1e992f48d54ad3b6b44da58608c4e6bc04274983aa74d68708"
     },
     "style": {
@@ -1385,12 +1357,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "start": "2025-11-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1606",
+      "start": "2025-11-26T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/1606",
       "location": "Haltenhoffstr. 50 (bei CONDAT), in 30167 Hannover (Nordstadt)",
       "description": "Einundzwanzig Hannover ₿ - Plebs together strong 💪\nOffene Gruppe für ₿ in Hannover. https://t.me/+RSXEIZ_xoq1lNDM6 Treffen für Vorträge zum Thema ₿: Bei CONDAT in der Haltenhoffstr. 50, in 30167 Hannover (Nordstadt)\n₿, die einzige Alternative zum Zentralismus ohne Staat/Bank.",
       "link": "https://maps.app.goo.gl/DWEoNTzEgWkU85vN9",
-      "attendees": 0,
+      "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "807cd300d5ba1637a89a5bd3b16e300e5b6bd0df6341bc164e46f07a6ac8cfb8"
     },
     "style": {
@@ -1453,12 +1426,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
     "event": {
-      "start": "2025-12-09 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1870",
+      "start": "2025-12-09T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef/event/1870",
       "location": null,
       "description": "Meetup jeden zweiten Dienstag im Monat!",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "fa0bdb00ff15ad4d67dfea4410bba0801c7c96b75fe305c499762eab9f12ba77"
     },
     "style": {
@@ -1491,12 +1465,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
     "event": {
-      "start": "2025-12-19 17:00:19",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1793",
+      "start": "2025-12-19T17:00:19.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim/event/1793",
       "location": "Gleich am Phönix (Aktualisierungen bei Telegram beachten)",
       "description": "Hier sind Alle willkommen (Neulinge, \"Alte\" Bitcoin Hasen, Techniphobe und Technik-Nerds) :-)",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "315d9a26eeeb550b542c19586f0500de1fa2d3df100537d136a281d9294987ca"
     },
     "style": {
@@ -1619,12 +1594,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "start": "2025-12-04 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2595",
+      "start": "2025-12-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2595",
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin“?  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Neben tollen Vorträgen rund um Bitcoin, gibt es jede Menge Austausch mit anderen Bitcoin-Interessierten. Freu dich auf einen spannenden Abend mit interessanten Themen, die unsere Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 3,
+      "attendees": 4,
+      "might_attendees": 0,
       "nostr_note": "3c5e7db2c966a6477be0ae351612ae0032b44eb800ee41a61ec40f426eab58fa"
     },
     "style": {
@@ -1687,12 +1663,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "start": "2025-12-17 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1831",
+      "start": "2025-12-17T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/1831",
       "location": "",
       "description": null,
       "link": null,
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -1710,12 +1687,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "start": "2025-11-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2566",
+      "start": "2025-11-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2566",
       "location": "Landau",
       "description": "Details in den Gruppen",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "44ff1ddd0b8a64206bd59f52bb08f7e6534787c7f570dc15f95deaa6f97390f7"
     },
     "style": {
@@ -1823,12 +1801,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "start": "2025-12-04 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1951",
+      "start": "2025-12-04T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz/event/1951",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "0109e0a02d2bec01adf9967ccfd56a551ad233950b1224361052272c2e90e7fd"
     },
     "style": {
@@ -1846,13 +1825,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2118",
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2119",
       "location": "Wird nach Abstimmung in Telegram Gruppe bekannt gegeben",
       "description": null,
       "link": null,
       "attendees": 0,
-      "nostr_note": "5abbaf56fdb73876fac29a105f2fa086e49501eb4e78abaf41cfd1ae75ef5ecc"
+      "might_attendees": 0,
+      "nostr_note": "515e4176bc8b664657ab874cedc8ed60b6bd11a97f024fce6bf04ad1e9d13754"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1914,12 +1894,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "start": "2025-11-26 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1844",
+      "start": "2025-11-26T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1844",
       "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": null,
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
@@ -1982,12 +1963,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
     "event": {
-      "start": "2025-11-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1895",
+      "start": "2025-12-27T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach/event/1896",
       "location": null,
       "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "f58d33faab9f37492bd4770de82528d9c4c39f352f69336679e8053bab413b53"
     },
     "style": {
@@ -2005,12 +1987,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "start": "2025-12-06 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1388",
+      "start": "2025-12-06T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/1388",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "a76abb90bef46e57b067082469266edf8d60c63827b3d9e4c1abf47850a53eba"
     },
     "style": {
@@ -2058,12 +2041,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland",
     "twitter": null,
     "event": {
-      "start": "2025-12-13 14:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2232",
+      "start": "2025-12-13T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-norddeutschland/event/2232",
       "location": "Der Schafstall, Am Büsenbach 35, 21256 Handeloh",
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "78733871cf4194328dd64e3dfff51fc909801f9ea02570d48bc541ba6dd6d3ff"
     },
     "style": {
@@ -2186,12 +2170,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "start": "2025-12-06 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1436",
+      "start": "2025-12-06T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/1436",
       "location": "Restaurant KRETA, Nadorster Straße 53, Oldenburg",
       "description": "Verschoben auf Samstag!!",
       "link": "https://t.me/einundzwanzig_OL",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "9cb5b902fbd3a22fc3c7d6d180e7876e21bd4c1f1078500fba03aa06369cbd09"
     },
     "style": {
@@ -2254,12 +2239,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "start": "2025-12-08 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2079",
+      "start": "2025-12-08T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2079",
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "5eb98d9cf9cb523a75cecf599c1eb6a1f85eb2d747234ca4e4e07b41f0e55394"
     },
     "style": {
@@ -2442,12 +2428,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
     "event": {
-      "start": "2025-11-27 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2593",
+      "start": "2025-11-27T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/2593",
       "location": "Kalyva - Kölner Str. 375, 51515 Kürten-Bechen",
       "description": null,
       "link": "https://kalyva.de/",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "9938776976a4465b03ca2452487dfd4ff9a1490ce5eb84b88a47a8ac381f0eeb"
     },
     "style": {
@@ -2494,15 +2481,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2583",
-      "location": "Craftbar Rostock | Margaretenstraße 41 | 18057 Rostock |",
-      "description": null,
-      "link": "https://21rostock.de/",
-      "attendees": 1,
-      "nostr_note": "51702ea62a3ba96881ce666e928664dfa1695c05cd3380bf6fe4ddda5546ea32"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2533,12 +2512,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
     "event": {
-      "start": "2025-11-28 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2594",
+      "start": "2025-11-28T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2594",
       "location": "Badhaus in Rottweil ",
       "description": "Bitte um Anmeldung in der Telegram Gruppe.\n1 Woche vorher muss ich der Location die Personenzahl durchgeben. Vielen Dank!",
       "link": "https://maps.app.goo.gl/ejLVHpsqfgZgRuCY7",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "f7507001ed23d728c6a1b1c9f3210371cdea3a345e464757a87fde8e881e6809"
     },
     "style": {
@@ -2841,12 +2821,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "start": "2025-12-11 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2039",
+      "start": "2025-12-11T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2039",
       "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
       "description": null,
       "link": "https://www.ramrob-ahrensburg.de/",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "a3e838a0347afaebfba70d83f3d379d224b8e4737134d504f395b019b2924f3c"
     },
     "style": {
@@ -2894,12 +2875,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "start": "2025-12-12 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2527",
+      "start": "2025-12-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2527",
       "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "2725bb01d87cac5e4b317c20835784c2a6f3338793c83ca5354771607def37c4"
     },
     "style": {
@@ -3067,12 +3049,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "start": "2025-11-24 17:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/1975",
+      "start": "2025-11-24T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/1975",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "97acdf02e5209344b32e9249c5b9745dbf8891f832d44556e18b42cea924193e"
     },
     "style": {
@@ -3104,15 +3087,7 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2596",
-      "location": "Schmex-TexMex Balingen",
-      "description": "Anmeldung in der Telegram Meetup Gruppe. ",
-      "link": "https://share.google/C86NUNTI315vo4DvD",
-      "attendees": 0,
-      "nostr_note": "661e5cb9de8d14f98dfb1e9ff7801f25b77f1d874da60513ec6d93168ab33d2c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3128,12 +3103,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "start": "2025-12-20 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2312",
+      "start": "2025-12-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2312",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
     },
     "style": {
@@ -3225,15 +3201,7 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2522",
-      "location": "Gourmet Wunderlich, Gartenstr 5 in 95213 Münchberg",
-      "description": "Fichtelcoiner X Gourmet Wunderlich. ",
-      "link": null,
-      "attendees": 3,
-      "nostr_note": "3b28bd97d3ab6d7fbac2191f9c98c0c22d544828b9e2e77bef565ca4fb743dde"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3249,12 +3217,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "start": "2025-11-24 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/meetup-events/l/2241",
+      "start": "2025-11-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2241",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "7c072677db2db7738f5e4a3e0bce4d2287deff12b7f3fc306c47f46122da9d2d"
     },
     "style": {
@@ -3452,12 +3421,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "start": "2025-11-21 19:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2053",
+      "start": "2025-12-19T19:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/2054",
       "location": "Schmuri (Pianokeller), 6600 Reutte",
       "description": "monatliches \"EasyMeetup\"",
       "link": "https://maps.app.goo.gl/rtCLTeYrLq16g2W47",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "286f59ad1bda4a2554b20c95b0dc082428ee58f936b1e395b011516de73a3f04"
     },
     "style": {
@@ -3490,12 +3460,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "start": "2025-12-12 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2191",
+      "start": "2025-12-12T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2191",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "ffe1f801827a8aedfcf170144f2581077bb3b5d0210e0175aceb4a52febd1086"
     },
     "style": {
@@ -3557,15 +3528,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2577",
-      "location": "Bar21",
-      "description": null,
-      "link": null,
-      "attendees": 1,
-      "nostr_note": "e3c91e6cf86144063a697e8c24bce51bed90a3ce037fb04ba3b4b36b0f7a52ae"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3581,13 +3544,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "start": "2025-11-21 15:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1723",
-      "location": "Neusiedl am See - vermutlich Joe's Pub",
-      "description": "Bitcoin-Meetup Nordburgenland\nBicoin, Pizza & Bier",
-      "link": null,
+      "start": "2026-01-23T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2609",
+      "location": "vermutlich Joe's Pub, Neusiedl am See",
+      "description": "Meetup - Bitcoin, Pizza und Bier",
+      "link": "https://einundzwanzig-nordbgld.at/",
       "attendees": 0,
-      "nostr_note": "024d006625a329f132f94ba7c0376f8de2543096a5e7858b819df082dbaa8a07"
+      "might_attendees": 0,
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3649,13 +3613,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
     "event": {
-      "start": "2025-11-21 18:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2572",
+      "start": "2025-12-19T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/2573",
       "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 21.11.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 19.12.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": null,
-      "attendees": 3,
-      "nostr_note": "9055c0d2a866a476b38934706bbaf2d5e313f9fc5247bfc8dc7ee6b76f09ec0c"
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "15ae7caf20f73804bea034e73df34dbadd8aacc9338a06e85d71c03a6b9500e9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3672,13 +3637,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "start": "2025-11-22 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1749",
+      "start": "2025-12-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1750",
       "location": "Passau oder Schärding",
-      "description": "51. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "52. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "nostr_note": "734fcc750d082e66b73b7da5b044965ad15de747d567b3647a8b6c6857486008"
+      "might_attendees": 0,
+      "nostr_note": "c4095f2fbeac689a834621042d336dbea4897774ad25104699d613b7ca9a7ebe"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3710,12 +3676,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
     "event": {
-      "start": "2025-12-17 16:30:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/1735",
+      "start": "2025-12-17T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol/event/1735",
       "location": "Christkindlmarkt Wiltener Platzl, Leopoldstr. 27 - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
       "description": "Wir treffen uns am Mittwoch 17.12.2025 bereits um 17:30 Uhr und zwar am Christkindlmarkt Wiltener Platzl, Leopoldstr. 27, um mit einem ATH-Glühwein anzustoßen.\n\nAb 19:30 Uhr sind wir dann wieder im Gasthaus Bierstindl (Stindlsaal).",
       "link": "https://bitcoin-tirol.at/",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
     },
     "style": {
@@ -3748,12 +3715,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck",
     "twitter": null,
     "event": {
-      "start": "2026-01-01 16:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/meetup-events/l/2391",
+      "start": "2026-01-01T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck/event/2391",
       "location": "Vöckklabruck",
       "description": "Erstes Treffen sobald genügend Teilnehmer.\nGenauere, aktuelle Infos in der Telegram Gruppe.",
       "link": "",
       "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "7c059d016c7030c73d0c24de30a867c457273d8a2e728193ee2af7dd3bd5e514"
     },
     "style": {
@@ -3920,6 +3888,21 @@
     "city": "Zürich",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-meetup-zuerich",
     "twitter": "bitcoin_ch",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Wallis",
+    "latLng": [
+      46.31458,
+      7.99037
+    ],
+    "url": "https://bitcoinwallis.ch",
+    "city": "Brig-Glis",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -4101,29 +4084,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "start": "2025-11-21 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/meetup-events/l/2327",
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau/event/2328",
       "location": null,
       "description": null,
       "link": null,
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "eb2ae4d7d8ac111f69104b200336578f2c5b7887df3ddd1fcd0b0c0aa4ad612c"
     },
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "Einundzwanzig Wallis",
-    "latLng": [
-      46.31458,
-      7.99037
-    ],
-    "url": "https://bitcoinwallis.ch",
-    "city": "Brig-Glis",
-    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-wallis",
-    "twitter": null,
-    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4141,6 +4110,45 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "21 Bitcoin Meetup Zypern",
+    "latLng": [
+      34.772015,
+      32.429737
+    ],
+    "url": "https://t.me/+CYfOSctGW35lOTY6",
+    "city": "21 Bitcoin Zypern",
+    "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
+    "twitter": "KryptoJuenger82",
+    "event": {
+      "start": "2025-12-13T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "location": "Muse Restaurant",
+      "description": "Bitcoin Meetup im Muse Restaurant",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Meetup Paphos Zypern",
+    "latLng": [
+      34.772015,
+      32.429737
+    ],
+    "url": null,
+    "city": "21 Bitcoin Zypern",
+    "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-meetup-paphos-zypern",
+    "twitter": "KryptoJuenger82",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
@@ -4169,12 +4177,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz",
     "twitter": "",
     "event": {
-      "start": "2025-11-28 17:00:00",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/meetup-events/l/2358",
+      "start": "2025-11-28T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz/event/2358",
       "location": "Baraka Café & Grill - Puerto de la Cruz",
       "description": "Hey Bitcoin-Fans! Lust auf ein entspanntes Bitcoin-Maximalisten-Meetup? Komm vorbei zu unserem Treffen im Baraka Café & Grill! Wir quatschen über Bitcoin, Blockchain, spannende Persönlichkeiten wie Michael Saylor, Adam Back, Andreas Antonopoulos und Jack Mallers sowie aktuelle Themen wie Lightning Network, Halving-Effekte, Mining-Trends und globale Adoption. Das alles bei leckeren Drinks und gutem Essen! Wo: Baraka Café & Grill, Puerto de la Cruz. Vibe: Locker, informell, für Neulinge und Bitcoin-Maximalisten. Keine Anmeldung nötig, einfach vorbeischauen! Wir freuen uns auf dich! Wenn wir nicht mehr in Sicht sind, haben wir vielleicht die Location kurzfristig gewechselt - von daher bitte pünktlich sein! ;-)\n\nENGLISH: Hey Bitcoin enthusiasts! Up for a relaxed Bitcoin Maximalist meetup? Join us at Baraka Café & Grill! We’ll dive into Bitcoin, blockchain, and discuss influential figures like Michael Saylor, Adam Back, Andreas Antonopoulos, and Jack Mallers. Plus, hot topics like the Lightning Network, halving impacts, mining trends, and global adoption – all over tasty drinks and great food! Where: Baraka Café & Grill, Puerto de la Cruz Vibe: Casual, laid-back, for newbies and Bitcoin Maximalists. No registration needed, just drop by! Looking forward to seeing you! If we are not on sight you are maybe late and we switched the location - so be on time! ;-)",
       "link": "https://g.co/kgs/TM1gW6D",
       "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "6951b1bf7435b4f4ffc4743128eafdb4bc6b646c1a9bec2af65dc9ef67d60dd8"
     },
     "style": {
