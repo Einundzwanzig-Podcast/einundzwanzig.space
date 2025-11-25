@@ -1709,17 +1709,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "id": 2566,
-      "start": "2025-11-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2566",
-      "location": "Landau",
-      "description": "Details in den Gruppen",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "44ff1ddd0b8a64206bd59f52bb08f7e6534787c7f570dc15f95deaa6f97390f7"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3085,9 +3075,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 1975,
-      "start": "2025-11-24T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/1975",
+      "id": 1976,
+      "start": "2025-12-22T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/1976",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://musikbistro.de",
@@ -3255,9 +3245,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "id": 2241,
-      "start": "2025-11-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2241",
+      "id": 2242,
+      "start": "2025-12-29T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2242",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
@@ -3959,7 +3949,17 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2617,
+      "start": "2025-11-25T18:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2617",
+      "location": "Brig-Glis, Stocki",
+      "description": "Schreib eine E-Mail — siehe Webseite",
+      "link": "https://bitcoin-wallis.ch",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "78b51b96fd0e1cf426bcd28a3762c99c39f2f623387b662eea2767aabc8203b5"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
