@@ -1142,7 +1142,7 @@
       "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
       "link": "https://share.google/alCsPj9RoZ8Te8hdF",
       "attendees": 4,
-      "might_attendees": 1,
+      "might_attendees": 2,
       "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
     "style": {
@@ -1669,7 +1669,17 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
-    "event": null,
+    "event": {
+      "id": 2619,
+      "start": "2026-01-02T19:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz/event/2619",
+      "location": "Cinegreth Kino Überlingen, Landungsplatz 14, Überlingen",
+      "description": "Filmvorführung \"Dirty Coin\" in Überlingen\n\nTicketpreis: 9,00 Euro pro Person an der Abendkasse\n\nWas erwartet dich?\n\nExklusive Vorführung des Films „Dirty Coin\" - ein\nfesselnder Dokumentarfilm, der Dich mitnimmt\nauf eine Reise an die unterschiedlichsten und\nentlegensten Orte der Welt des Bitcoin Mining.\nErfahre, warum Bitcoin Mining eine Schi üssel rolle\nbei der Energiewende spielen kann und bereits\njetzt das Leben von vielen Menschen verändert\nhat. (Englisch mit deutschen Untertiteln)\nIm Anschluss: Q&A und offene Diskussionsrunde\nmit Raum für spannende Gespräche und Fragen.\nFür alle, die sich für Bitcoin interessieren - ob\nBefürworter, Skeptiker oder Neugierige.",
+      "link": "https://ibb.co/gYqz973",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
