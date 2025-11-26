@@ -1678,7 +1678,7 @@
       "link": "https://ibb.co/gYqz973",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "3f6cf4b59d022b9249daf4af9f73b0482d8985625039840c07f73d23329666c7"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3959,17 +3959,7 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": {
-      "id": 2617,
-      "start": "2025-11-25T18:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2617",
-      "location": "Brig-Glis, Stocki",
-      "description": "Schreib eine E-Mail — siehe Webseite",
-      "link": "https://bitcoin-wallis.ch",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "78b51b96fd0e1cf426bcd28a3762c99c39f2f623387b662eea2767aabc8203b5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
