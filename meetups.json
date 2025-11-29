@@ -929,17 +929,7 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "id": 2589,
-      "start": "2025-11-28T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/2589",
-      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig einmal Ende des Monats in Cham. Platzreservierungen finden ca. eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://la-cham.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "6ea74bf61eb94cff16db4d65745e22680a0dfb803fcc3164af6bfde1bf19263a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -963,7 +953,7 @@
       "link": "https://www.lilienschaenke-sportsbar.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "1644bc3a90f220ecde501a01901bac1b6494c32d96ff4a6ff7dade0befcf399d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2529,7 +2519,17 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2623,
+      "start": "2025-12-11T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2623",
+      "location": "Schwabach Weihnachtsmarkt",
+      "description": "Wir treffen uns am Lödels Glühweinstand.",
+      "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2545,15 +2545,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
     "event": {
-      "id": 2594,
-      "start": "2025-11-28T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2594",
-      "location": "Badhaus in Rottweil ",
-      "description": "Bitte um Anmeldung in der Telegram Gruppe.\n1 Woche vorher muss ich der Location die Personenzahl durchgeben. Vielen Dank!",
-      "link": "https://maps.app.goo.gl/ejLVHpsqfgZgRuCY7",
+      "id": 2620,
+      "start": "2025-12-12T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2620",
+      "location": "Pizzeria Azzurra in Deilingen",
+      "description": "Weihnachts-Meetup von Einundzwanzig Rottweil und Zollernalb.\nBitte um Anmeldung in einer der Telegram Gruppen. Danke!",
+      "link": "https://maps.app.goo.gl/g7hkt2d6MwEJarka6",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "f7507001ed23d728c6a1b1c9f3210371cdea3a345e464757a87fde8e881e6809"
+      "nostr_note": "8bf4848f3c28e99d5402b49a2c8751c1c7230c4cb2a90a17d442326ab5b88ad5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4220,9 +4220,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz",
     "twitter": "",
     "event": {
-      "id": 2358,
-      "start": "2025-11-28T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz/event/2358",
+      "id": 2359,
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz/event/2359",
       "location": "Baraka Café & Grill - Puerto de la Cruz",
       "description": "Hey Bitcoin-Fans! Lust auf ein entspanntes Bitcoin-Maximalisten-Meetup? Komm vorbei zu unserem Treffen im Baraka Café & Grill! Wir quatschen über Bitcoin, Blockchain, spannende Persönlichkeiten wie Michael Saylor, Adam Back, Andreas Antonopoulos und Jack Mallers sowie aktuelle Themen wie Lightning Network, Halving-Effekte, Mining-Trends und globale Adoption. Das alles bei leckeren Drinks und gutem Essen! Wo: Baraka Café & Grill, Puerto de la Cruz. Vibe: Locker, informell, für Neulinge und Bitcoin-Maximalisten. Keine Anmeldung nötig, einfach vorbeischauen! Wir freuen uns auf dich! Wenn wir nicht mehr in Sicht sind, haben wir vielleicht die Location kurzfristig gewechselt - von daher bitte pünktlich sein! ;-)\n\nENGLISH: Hey Bitcoin enthusiasts! Up for a relaxed Bitcoin Maximalist meetup? Join us at Baraka Café & Grill! We’ll dive into Bitcoin, blockchain, and discuss influential figures like Michael Saylor, Adam Back, Andreas Antonopoulos, and Jack Mallers. Plus, hot topics like the Lightning Network, halving impacts, mining trends, and global adoption – all over tasty drinks and great food! Where: Baraka Café & Grill, Puerto de la Cruz Vibe: Casual, laid-back, for newbies and Bitcoin Maximalists. No registration needed, just drop by! Looking forward to seeing you! If we are not on sight you are maybe late and we switched the location - so be on time! ;-)",
       "link": "https://g.co/kgs/TM1gW6D",
