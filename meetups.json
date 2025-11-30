@@ -2526,9 +2526,9 @@
       "location": "Schwabach Weihnachtsmarkt",
       "description": "Wir treffen uns am Lödels Glühweinstand.",
       "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2934,7 +2934,17 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 2624,
+      "start": "2025-12-31T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2624",
+      "location": "Radis Stacks",
+      "description": "Am 31.12.2025 wollen wir gemeinsam mit euch Silvester unter dem Motto Satoshis Eve feiern.\nFür dieses Meetup/Event benötigt ihr Karten, die ihr über den unteren Link erwerben könnt.\nBeginn ist 18:00 Uhr und wir machen das ganze Open-end. Dies wird das  letzte Bitcoin Event 2025 und gleichzeitig das erste für 2026 sein😁\n\nDie Ticketpreise sind auf 80€ festgelegt und im Ticket sind Getränke und Speisen enthalten🍟🎉",
+      "link": "https://btcpay.unterdiesem.link/plugins/6wZWMdfGjxkDyt3gwcQ1RTKhD5Yyc8aaCKC6BkisMZvm/ticket/public/event/6d5ff5d6-5b71-455a-9955-1bf353193b7b/summary",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
