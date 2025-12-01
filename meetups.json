@@ -474,7 +474,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2625,
+      "start": "2025-12-06T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/2625",
+      "location": "Am Franconiabrunnen, Residenzplatz, Würzburg",
+      "description": "Hallo zusammen und schönen ersten Advent 🎄🕯️\n\nWie gewohnt um 11:30 Uhr am Franconiabrunnen auf dem Residenzplatz 😊\n\nHier die Eckdaten:\nWann? 06.12.2025, 11:30 Uhr\nWo? Am Franconiabrunnen, Residenzplatz\n\nDer Link, wenn ihr ihn teilen möchtet:\nhttps://bitcoinwalk.org/wuerzburg\n\nLiebe Grüße und schönen Sonntag!\n\nMarina",
+      "link": "https://bitcoinwalk.org/wuerzburg",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1621,7 +1631,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin“?  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Neben tollen Vorträgen rund um Bitcoin, gibt es jede Menge Austausch mit anderen Bitcoin-Interessierten. Freu dich auf einen spannenden Abend mit interessanten Themen, die unsere Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 5,
+      "attendees": 6,
       "might_attendees": 0,
       "nostr_note": "3c5e7db2c966a6477be0ae351612ae0032b44eb800ee41a61ec40f426eab58fa"
     },
@@ -2943,7 +2953,7 @@
       "link": "https://btcpay.unterdiesem.link/plugins/6wZWMdfGjxkDyt3gwcQ1RTKhD5Yyc8aaCKC6BkisMZvm/ticket/public/event/6d5ff5d6-5b71-455a-9955-1bf353193b7b/summary",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "2da63a098da3f15645f2d1674e3d5047266d3cfae344d390807b7114093578b4"
     },
     "style": {
       "fill": "var(--color-accent)"
