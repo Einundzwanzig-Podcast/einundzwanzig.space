@@ -368,9 +368,9 @@
       "id": 2580,
       "start": "2025-12-03T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2580",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786221/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Kleines Brauhaus Dicker Mann",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 03. Dezember 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~926.321\n\nOrt diesmal: Kleines Brauhaus Dicker Mann, Ramersdorf, Heinrich-Wieland-Straße 11, 81671 München",
+      "link": "https://luma.com/tejpx1vz",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "be825138ec2f0b80d83b0c8c341bf8dde84fa3f2bc6de704d30419670925fbea"
@@ -483,7 +483,7 @@
       "link": "https://bitcoinwalk.org/wuerzburg",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "429520fac879ed373e702b88a729faca0dd1077a7e8957cd602fa7b3a784eb6b"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -4460,6 +4460,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/se/meetup/tjugoett-stockholm",
     "twitter": "TjugoettSthlm08",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Levice",
+    "latLng": [
+      48.216389,
+      18.608056
+    ],
+    "url": "https://www.dvadsatjeden.org",
+    "city": "Levice",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-levice",
+    "twitter": "webiumsk",
+    "event": {
+      "id": 2626,
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-levice/event/2626",
+      "location": "Dosýta Burger & Beer, Ĺ. Štúra 5",
+      "description": "19.12.2025  vás pozývame na\nVianočná PARTY '25\n\na uzavrieme tak tento rok v BTC\n\n\nZačiatok o 18:00 v Dosýta Burger & Beer\n\nVečera - Kapustnica\n\nVoľný pokec o čomkoľvek\n\n21:00 Tombola \n\nZábava a pokec ...",
+      "link": "https://pay.dvadsatjeden.org/plugins/GVQwmBoEfPpYY4j7YysmVDbTKmFp24XsFvUZATANVqAY/ticket/public/event/35474026-bcfd-4dcb-8051-20fafb6a5e3d/summary",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
