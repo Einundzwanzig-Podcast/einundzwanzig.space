@@ -349,7 +349,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 2653,
+      "start": "2025-12-17T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/2653",
+      "location": "Unity-Bar",
+      "description": "\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.\n",
+      "link": "https://21schwerin.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -954,17 +964,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 2621,
-      "start": "2025-12-02T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/2621",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "1644bc3a90f220ecde501a01901bac1b6494c32d96ff4a6ff7dade0befcf399d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1151,8 +1151,8 @@
       "location": "Fürth, Cheers Pub & Grill",
       "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
       "link": "https://share.google/alCsPj9RoZ8Te8hdF",
-      "attendees": 4,
-      "might_attendees": 3,
+      "attendees": 5,
+      "might_attendees": 2,
       "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
     "style": {
@@ -1631,7 +1631,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin“?  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Neben tollen Vorträgen rund um Bitcoin, gibt es jede Menge Austausch mit anderen Bitcoin-Interessierten. Freu dich auf einen spannenden Abend mit interessanten Themen, die unsere Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": "3c5e7db2c966a6477be0ae351612ae0032b44eb800ee41a61ec40f426eab58fa"
     },
@@ -1729,7 +1729,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 2627,
+      "start": "2025-12-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2627",
+      "location": "Weihnachtsmarkt",
+      "description": "zweiter Geburtstag des Meetups!",
+      "link": "https://www.landau-tourismus.de/thomas-nast-nikolausmarkt",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2536,8 +2546,8 @@
       "location": "Schwabach Weihnachtsmarkt",
       "description": "Wir treffen uns am Lödels Glühweinstand.",
       "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 1,
-      "might_attendees": 0,
+      "attendees": 2,
+      "might_attendees": 1,
       "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
     "style": {
@@ -4459,6 +4469,21 @@
     "city": "Stockholm",
     "portalUrl": "https://portal.einundzwanzig.space/se/meetup/tjugoett-stockholm",
     "twitter": "TjugoettSthlm08",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Banská Bystrica",
+    "latLng": [
+      48.738611,
+      19.156944
+    ],
+    "url": "https://www.dvadsatjeden.org",
+    "city": "Banská bystrica",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
