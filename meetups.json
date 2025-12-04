@@ -358,7 +358,7 @@
       "link": "https://21schwerin.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "05ab436a093651271c42b7979b0ac5dd917f9c366b5df227bf0199d5b0a1f12b"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -375,15 +375,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 2580,
-      "start": "2025-12-03T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2580",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Kleines Brauhaus Dicker Mann",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 03. Dezember 2025, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~926.321\n\nOrt diesmal: Kleines Brauhaus Dicker Mann, Ramersdorf, Heinrich-Wieland-Straße 11, 81671 München",
-      "link": "https://luma.com/tejpx1vz",
+      "id": 2652,
+      "start": "2026-01-07T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2652",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786225/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "be825138ec2f0b80d83b0c8c341bf8dde84fa3f2bc6de704d30419670925fbea"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1631,7 +1631,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin“?  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Neben tollen Vorträgen rund um Bitcoin, gibt es jede Menge Austausch mit anderen Bitcoin-Interessierten. Freu dich auf einen spannenden Abend mit interessanten Themen, die unsere Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 7,
+      "attendees": 10,
       "might_attendees": 0,
       "nostr_note": "3c5e7db2c966a6477be0ae351612ae0032b44eb800ee41a61ec40f426eab58fa"
     },
@@ -1711,7 +1711,7 @@
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
@@ -2546,7 +2546,7 @@
       "location": "Schwabach Weihnachtsmarkt",
       "description": "Wir treffen uns am Lödels Glühweinstand.",
       "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 2,
+      "attendees": 4,
       "might_attendees": 1,
       "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
@@ -4196,10 +4196,10 @@
     "twitter": "KryptoJuenger82",
     "event": {
       "id": 2591,
-      "start": "2025-12-13T18:00:00.000000Z",
+      "start": "2025-12-13T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/2591",
       "location": "Muse Restaurant",
-      "description": "Bitcoin Meetup im Muse Restaurant",
+      "description": "Bitcoin Meetup im Muse Restaurant - immer Treffpunkt um 18.00 Uhr",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
       "attendees": 1,
       "might_attendees": 0,
@@ -4484,7 +4484,17 @@
     "city": "Banská bystrica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2654,
+      "start": "2025-12-16T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica/event/2654",
+      "location": "U Francúza",
+      "description": "Pozývame všetkých nadšencov aj nováčikov",
+      "link": "https://prevadzky.dvadsatjeden.org/explore/?type=event&sort=order-by-date",
+      "attendees": 0,
+      "might_attendees": 1,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
