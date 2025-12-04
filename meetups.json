@@ -155,15 +155,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2025,
-      "start": "2025-12-04T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2025",
-      "location": "Friedel Richter Restaurant, Torstr. 199, 10115 Berlin",
-      "description": "Berlin Bitcoin Stammtisch @ Friedel Richter",
-      "link": "https://www.meetup.com/bitcoin-lab-berlin",
+      "id": 2217,
+      "start": "2025-12-17T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2217",
+      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
+      "description": "Stammtisch Café Holzmarktperle",
+      "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "2c3bf5f271589ef6957ffe95c50c27f5d8a89d496317a3c76514a27e32f5212c"
+      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -555,9 +555,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
     "twitter": "toobiTx",
     "event": {
-      "id": 2510,
-      "start": "2025-12-04T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig/event/2510",
+      "id": 2511,
+      "start": "2026-02-05T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig/event/2511",
       "location": null,
       "description": null,
       "link": null,
@@ -694,7 +694,17 @@
     "city": "Ansbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach",
     "twitter": "21Ansbach",
-    "event": null,
+    "event": {
+      "id": 2655,
+      "start": "2025-12-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ansbach/event/2655",
+      "location": "Eiscafé-Pizzeria Italia, Herrngasse 8, 91541 Rothenburg ob der Tauber",
+      "description": "Hey Plebs!\n\nBevor der Weihnachtsstress 🎄🕯 losgeht, laden wir euch zum 2. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber ein! \n\n📅 19.12., 18:30 Uhr\n📍 Eiscafé-Pizzeria Italia, Herrngasse 8, Rothenburg ob der Tauber\n\nKommt vorbei, trefft tolle Leute, tauscht euch aus und tankt ein bisschen Orange Energy! ⚡️\nLasst uns gemeinsam lachen, diskutieren und einen richtig guten Abend haben.",
+      "link": "https://italia-rothenburg.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "7f23753abd1497d3405997beecb70a7b414b8cb212cb0b270b337a60d2727f31"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -830,9 +840,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "id": 1806,
-      "start": "2025-12-04T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/1806",
+      "id": 1807,
+      "start": "2026-01-03T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/1807",
       "location": "The 9th, Coworking Space Bonn",
       "description": null,
       "link": null,
@@ -932,7 +942,7 @@
       "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "62e61459409dc7d443fa47a6ec8c430f270cc79ec4aa3a1e9e5b92efc87d4271"
     },
     "style": {
@@ -1151,7 +1161,7 @@
       "location": "Fürth, Cheers Pub & Grill",
       "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
       "link": "https://share.google/alCsPj9RoZ8Te8hdF",
-      "attendees": 5,
+      "attendees": 7,
       "might_attendees": 2,
       "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
@@ -1624,17 +1634,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 2595,
-      "start": "2025-12-04T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2595",
-      "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin“?  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Neben tollen Vorträgen rund um Bitcoin, gibt es jede Menge Austausch mit anderen Bitcoin-Interessierten. Freu dich auf einen spannenden Abend mit interessanten Themen, die unsere Zukunft verändern können. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://www.schmiede-kempten.de",
-      "attendees": 10,
-      "might_attendees": 0,
-      "nostr_note": "3c5e7db2c966a6477be0ae351612ae0032b44eb800ee41a61ec40f426eab58fa"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1845,9 +1845,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
     "event": {
-      "id": 1951,
-      "start": "2025-12-04T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz/event/1951",
+      "id": 1952,
+      "start": "2026-01-01T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz/event/1952",
       "location": "Mainz",
       "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
       "link": "",
@@ -2550,6 +2550,21 @@
       "might_attendees": 1,
       "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Rothenburg ob der Tauber",
+    "latLng": [
+      49.3802,
+      10.1867
+    ],
+    "url": "https://t.me/+as2wcVLDYvk2Zjky",
+    "city": "Rothenburg ob der Tauber",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
