@@ -1059,17 +1059,7 @@
     "city": "Ellwangen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
-    "event": {
-      "id": 2372,
-      "start": "2025-12-05T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2372",
-      "location": "Ellwangen ",
-      "description": "Tzatziki Ellwangen",
-      "link": "https://tzatziki-ellwangen.de",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "d2c0f7519fde55c69f3215287e27a5b51bf38d4de0ff3147ca31aa0114ce8ccf"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1161,8 +1151,8 @@
       "location": "Fürth, Cheers Pub & Grill",
       "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
       "link": "https://share.google/alCsPj9RoZ8Te8hdF",
-      "attendees": 7,
-      "might_attendees": 2,
+      "attendees": 10,
+      "might_attendees": 3,
       "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
     "style": {
@@ -1324,17 +1314,7 @@
     "city": "Grünstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt",
     "twitter": "Manfred9571",
-    "event": {
-      "id": 2571,
-      "start": "2025-12-05T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gruenstadt/event/2571",
-      "location": "Grünstadt Pfalz",
-      "description": "Erstes Meeting in Grünstadt Pfalz",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "16ac7b1ad1bbdf1e992f48d54ad3b6b44da58608c4e6bc04274983aa74d68708"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4000,11 +3980,21 @@
       46.31458,
       7.99037
     ],
-    "url": "https://bitcoinwallis.ch",
+    "url": "https://bitcoin-wallis.ch",
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2656,
+      "start": "2025-12-06T12:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2656",
+      "location": "Brig Bahnhof",
+      "description": "13:13 Brig Bahnhof Spaziergang",
+      "link": "https://bitcoin-wallis.ch",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
