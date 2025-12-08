@@ -115,9 +115,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "id": 2421,
-      "start": "2025-12-07T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2421",
+      "id": 2422,
+      "start": "2026-01-04T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2422",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
@@ -469,7 +469,17 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2660,
+      "start": "2025-12-13T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2660",
+      "location": "Hamburg Stadtpark am Planetarium",
+      "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
+      "link": "https://bitcoinwalk.org/hamburg/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -909,7 +919,17 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2714,
+      "start": "2025-12-11T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl/event/2714",
+      "location": "Brühler Wirtshaus am Schloss",
+      "description": "Der zweite Donnerstag im Monat ist Meetup-Tag in Brühl! Bitte meldet euch in der Vorweihnachtszeit über Telegramm an. Das Brühler Wirtshaus am Schloss liegt direkt am Bahnhof und dem zugehörigen Parkplatz (gebührenpflichtig).",
+      "link": "https://t.me/+LgkAcZaB7dBkZjJi",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "bfcd49a1f67116e7274d064d3bcf804dbdec17c2d556e368aba3cf0fadb0a411"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1998,9 +2018,9 @@
       "id": 2597,
       "start": "2026-01-03T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2597",
-      "location": "Wird in der Telegram Gruppe bekannt gegeben",
+      "location": "Pension Schmidt Alter Steinweg 37, 48143 Münster, https://maps.app.goo.gl/C6ofLYz8Vm98fe379",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
-      "link": null,
+      "link": "https://maps.app.goo.gl/C6ofLYz8Vm98fe379",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "0f6f14b66113968df9bbd1865be8429e51a5a19455fe18b526c9441d2baed575"
@@ -2684,7 +2704,17 @@
     "city": "Handeloh",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2715,
+      "start": "2025-12-12T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall/event/2715",
+      "location": " Der Schafstall Am Büsenbach 35 21256 Handeloh",
+      "description": "Weihnachtsfeier im Schafstall\n\nWie letztes Jahr auch wollen wir ein kleines Bitcoin-Wichteln veranstalten. Ein Bügeleisen fängt zwar auch mit \"B\" an, aber vlt sollten wir uns dieses Jahr mehr auf das Bitcoin-B konzentrieren. Also bringt irgendeinen schön verpackten Bitcoin-Stuff mit, den ihr schon immer loswerden wolltet.\n\nWenn ihr Lust habt, kommt einfach ohne Anmeldung vorbei. Es wird sicherlich genauso lustig wie letztes Jahr 🎉",
+      "link": "https://der-schafstall.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
