@@ -1151,7 +1151,7 @@
       "location": "Fürth, Cheers Pub & Grill",
       "description": "Cheers im Pfeifndurla\nGustavstraße 36\n90762 Fürth\nab 19:00 Uhr Weihnachtsmarkt zum Glühwein trinken",
       "link": "https://share.google/alCsPj9RoZ8Te8hdF",
-      "attendees": 11,
+      "attendees": 12,
       "might_attendees": 3,
       "nostr_note": "68e81f574822048cf3c819c2d79e525bf08865a92c62d2d22b724e7b7c4bdcf3"
     },
@@ -2270,9 +2270,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "id": 2079,
-      "start": "2025-12-08T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2079",
+      "id": 2080,
+      "start": "2026-01-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2080",
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
@@ -2526,8 +2526,8 @@
       "location": "Schwabach Weihnachtsmarkt",
       "description": "Wir treffen uns am Lödels Glühweinstand.",
       "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 4,
-      "might_attendees": 1,
+      "attendees": 5,
+      "might_attendees": 2,
       "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
     "style": {
@@ -2819,17 +2819,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "id": 2659,
-      "start": "2025-12-08T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/2659",
-      "location": "Bräuhaus Solingen, Kieler Str. 1-3, 42697 Solingen",
-      "description": "Meetup Feeling, Smalltalk, Bitcoin Only, nette Leute treffen, usw.",
-      "link": "https://braeuhaus.net/",
-      "attendees": 4,
-      "might_attendees": 0,
-      "nostr_note": "d8595525056df57f41d644d3a66f44f043aca41ee8cf6215aaadf76b65f28bda"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3154,7 +3144,17 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2716,
+      "start": "2025-12-28T09:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden/event/2716",
+      "location": "Cafe del Sol in Wiesbaden",
+      "description": "Am So., 28.12. ab 10 Uhr findet dieses Jahr das letzte „Bitcoin Brunch Meetup“ im Café del Sol in Wiesbaden am Kochbrunnenplatz statt. Lockerste Atmosphäre in einer Location, die Urlaubsfeeling verbreitet. \nJeder ist Herzlich Willkommen!",
+      "link": "https://maps.app.goo.gl/4y9rHEq48phSqUPs8",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "e6f6661a3c1f87f100923541e9eb83d6c0c29fed6289cbaa10643e0444ce18e8"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4226,7 +4226,7 @@
       "location": "Muse Restaurant",
       "description": "Bitcoin Meetup im Muse Restaurant - immer Treffpunkt um 18.00 Uhr",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 1,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
     },
