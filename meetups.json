@@ -478,7 +478,7 @@
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "95d4cca6967e23b6d0a3f207484840ed85b146cf369794f23cf09b169eb3f1f9"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1444,17 +1444,7 @@
     "city": "Hennef",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
-    "event": {
-      "id": 1870,
-      "start": "2025-12-09T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef/event/1870",
-      "location": null,
-      "description": "Meetup jeden zweiten Dienstag im Monat!",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "fa0bdb00ff15ad4d67dfea4410bba0801c7c96b75fe305c499762eab9f12ba77"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1614,7 +1604,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 2719,
+      "start": "2026-01-15T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2719",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://t.me/EinundzwanzigKempten",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "fc759259615d1639c716f17f5c013be41a04ace5ed6a33b05dfed7fb22df9a4a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2629,7 +2629,17 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2717,
+      "start": "2025-12-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel/event/2717",
+      "location": "Bruder Jakob, St. Wendel",
+      "description": "Unser unregelmäßiger Stammtisch mit lauter normalen Leuten, die sich einfach nur für Bitcoin interessieren.",
+      "link": "https://signal.group/#CjQKIFyTdo1QN0tv83sirGNe1I2OxzZguVzkDSIGN1f0GwDKEhAurxID6rXx-v5F3Swgpc41",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2706,14 +2716,14 @@
     "twitter": null,
     "event": {
       "id": 2715,
-      "start": "2025-12-12T14:00:00.000000Z",
+      "start": "2025-12-13T14:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schafstall/event/2715",
       "location": " Der Schafstall Am Büsenbach 35 21256 Handeloh",
       "description": "Weihnachtsfeier im Schafstall\n\nWie letztes Jahr auch wollen wir ein kleines Bitcoin-Wichteln veranstalten. Ein Bügeleisen fängt zwar auch mit \"B\" an, aber vlt sollten wir uns dieses Jahr mehr auf das Bitcoin-B konzentrieren. Also bringt irgendeinen schön verpackten Bitcoin-Stuff mit, den ihr schon immer loswerden wolltet.\n\nWenn ihr Lust habt, kommt einfach ohne Anmeldung vorbei. Es wird sicherlich genauso lustig wie letztes Jahr 🎉",
       "link": "https://der-schafstall.de/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "72262fa5bdede0788934af001984ad35c5c5f2353a852ddbfd4761bbc8440ea1"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3621,9 +3631,9 @@
       "location": "Bar21",
       "description": "Bitcoin Stammtisch – Weihnachtsedition\nAm 11. Dezember treffen wir uns wieder in der Bar 21 – diesmal mit Winterstimmung und einem Foodtruck, der für solide Versorgung sorgt.\nErwarte gutes Essen, gute Gespräche und die übliche Mischung aus Fachsimpeln, Lachen und ganz leichtem Chaos.\n\nPerfekt, um das Jahr gemeinsam ausklingen zu lassen.\nAb 16:00 · Bar 21 Linz\n",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "70c98fc1ffac4b55b525da0580a000842547237b07cc49c717017fdb98a0a1e5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4004,17 +4014,7 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": {
-      "id": 2657,
-      "start": "2025-12-09T18:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2657",
-      "location": "Brig Stocki",
-      "description": "Glühwein degustieren",
-      "link": "https://bitcoin-wallis.ch",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "07963702dbf928a219fe6aed5aced3ef1c53f162eac7a2630581798210eb47f9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4226,7 +4226,7 @@
       "location": "Muse Restaurant",
       "description": "Bitcoin Meetup im Muse Restaurant - immer Treffpunkt um 18.00 Uhr",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 4,
+      "attendees": 6,
       "might_attendees": 0,
       "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
     },
@@ -4315,6 +4315,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/herbitcoin-la-palma",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Budapest Bitcoin Tech meetup",
+    "latLng": [
+      47.4925,
+      19.051389
+    ],
+    "url": "https://t.me/huszonegy",
+    "city": "Budapest",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budapest-bitcoin-tech-meetup",
+    "twitter": null,
+    "event": {
+      "id": 2718,
+      "start": "2025-12-11T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budapest-bitcoin-tech-meetup/event/2718",
+      "location": "Szokásos semi-secret privát helyszín a XI. kerületben",
+      "description": "Szokásos tech-fókuszú, \"cypherpunk\" bitcoiner találkozó, 1-2 mini előadással.\nHa nincs meg a helyszín, kérdezz a Telegram csoportban (https://t.me/huszonegy).",
+      "link": "https://t.me/huszonegy/49988/49993",
+      "attendees": 3,
+      "might_attendees": 0,
+      "nostr_note": "9d47e727608595ccb532b737697e53cbb27299cbcfd5d52759438c8e4c8ed8c2"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4518,7 +4543,7 @@
       "link": "https://prevadzky.dvadsatjeden.org/explore/?type=event&sort=order-by-date",
       "attendees": 0,
       "might_attendees": 1,
-      "nostr_note": ""
+      "nostr_note": "e764e038646973d10ab3523872945f43f4f740c7219ccd8893362b851b3249fe"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
