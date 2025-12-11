@@ -269,17 +269,7 @@
     "city": "Halle (Saale)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale",
     "twitter": null,
-    "event": {
-      "id": 1992,
-      "start": "2025-12-10T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-halle-saale/event/1992",
-      "location": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "7a466d13b7a08643dc576da6b80f74bd877d8eb8ef3447892410af5211505819"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -944,17 +934,7 @@
     "city": "Celle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup",
     "twitter": null,
-    "event": {
-      "id": 2106,
-      "start": "2025-12-10T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-celle-residenzstadtmeetup/event/2106",
-      "location": null,
-      "description": "Da wir auch mal unterschiedliche Lokalitäten besuchen, schaut doch für weitere Infos gern in unserer Telegramgruppe vorbei :)",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "62e61459409dc7d443fa47a6ec8c430f270cc79ec4aa3a1e9e5b92efc87d4271"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1104,17 +1084,7 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": {
-      "id": 1858,
-      "start": "2025-12-10T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen/event/1858",
-      "location": null,
-      "description": "Meetup jeden zweiten Mittwoch im Monat!",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "7f5e4fec6efce4a1a8d68e9c47985d28d8404f5a26905888b3e06851716d31d1"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1344,7 +1314,17 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2720,
+      "start": "2026-01-29T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2720",
+      "location": "Absinth Bar, Schanzenstraße 99 20357 Hamburg",
+      "description": "Einundzwanzig Meetup",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2526,8 +2506,8 @@
       "location": "Schwabach Weihnachtsmarkt",
       "description": "Wir treffen uns am Lödels Glühweinstand.",
       "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 5,
-      "might_attendees": 2,
+      "attendees": 6,
+      "might_attendees": 1,
       "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
     },
     "style": {
@@ -4226,7 +4206,7 @@
       "location": "Muse Restaurant",
       "description": "Bitcoin Meetup im Muse Restaurant - immer Treffpunkt um 18.00 Uhr",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 6,
+      "attendees": 8,
       "might_attendees": 0,
       "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
     },
