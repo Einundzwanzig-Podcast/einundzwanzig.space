@@ -1744,7 +1744,17 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2721,
+      "start": "2025-12-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain/event/2721",
+      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
+      "description": "Herzlich Willkommen zum 12. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://dachsbier.de/#braustueberl",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": "1f65b2309ae7e05d55857393712225bdbb49c8d95ea96d85cf8d8d76e0f47b60"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4206,7 +4216,7 @@
       "location": "Muse Restaurant",
       "description": "Bitcoin Meetup im Muse Restaurant - immer Treffpunkt um 18.00 Uhr",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 8,
+      "attendees": 9,
       "might_attendees": 0,
       "nostr_note": "3546212e225128f9a4a53a5c6d735e16964a6d2432a637db64813bc6e07ce3f5"
     },
@@ -4541,11 +4551,11 @@
     "twitter": "webiumsk",
     "event": {
       "id": 2626,
-      "start": "2025-12-19T17:00:00.000000Z",
+      "start": "2025-12-18T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-levice/event/2626",
       "location": "Dosýta Burger & Beer, Ĺ. Štúra 5",
-      "description": "19.12.2025  vás pozývame na\nVianočná PARTY '25\n\na uzavrieme tak tento rok v BTC\n\n\nZačiatok o 18:00 v Dosýta Burger & Beer\n\nVečera - Kapustnica\n\nVoľný pokec o čomkoľvek\n\n21:00 Tombola \n\nZábava a pokec ...",
-      "link": "https://pay.dvadsatjeden.org/plugins/GVQwmBoEfPpYY4j7YysmVDbTKmFp24XsFvUZATANVqAY/ticket/public/event/35474026-bcfd-4dcb-8051-20fafb6a5e3d/summary",
+      "description": "18.12.2025  vás pozývame na Bitcoin Pivo",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/levice-bitcoin-pivo-2/",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
