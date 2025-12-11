@@ -34,6 +34,6 @@ block main
       each m in upcomingMeetups
         li
           a(href=m.url data-meetup=JSON.stringify(m))
-            span= formatDate(`${m.event.start}Z`)
+            span= formatDate(m.event.start)
             = " - "
             span= m.name

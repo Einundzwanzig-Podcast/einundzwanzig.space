@@ -5,11 +5,6 @@
   "description": "Einundzwanzig Podcast Website",
   "repository": "git@github.com:Einundzwanzig-Podcast/einundzwanzig.space.git",
   "license": "MIT",
-  "config": {
-    "dist": "dist",
-    "port": "3000",
-    "domain": "einundzwanzig.space"
-  },
   "scripts": {
     "clean": "rm -rf dist generated && mkdir -p dist generated",
     "fetch": "node tasks/fetch_feed.js",
@@ -39,12 +34,12 @@
   },
   "devDependencies": {
     "@nostr-dev-kit/ndk": "2.18.1",
-    "autoprefixer": "10.4.21",
+    "autoprefixer": "10.4.22",
     "browser-sync": "3.0.4",
     "cross-env": "10.1.0",
     "csso-cli": "4.0.2",
-    "fast-xml-parser": "5.3.1",
-    "glob": "11.0.3",
+    "fast-xml-parser": "5.3.2",
+    "glob": "11.1.0",
     "html-entities": "2.6.0",
     "jstransformer-markdown-it": "3.0.0",
     "markdown-it": "14.1.0",

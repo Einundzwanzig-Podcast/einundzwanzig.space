@@ -15,7 +15,7 @@ const writeJSON = (file, data) => writeFileSync(file, JSON.stringify(data, null,
 
 let recentBlocks = []
 try {
-  recentBlocks = loadJson('https://mempool.observer/api/recentBlocks')
+  recentBlocks = loadJson('https://mempool.space/api/blocks/')
 } catch (err) {
   console.error('Could not load recent blocks:', err)
 }

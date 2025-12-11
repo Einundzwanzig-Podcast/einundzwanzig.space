@@ -55,7 +55,7 @@ const toggleModal = modalId => {
 const onMeetupMapMarkerClick = (m, modalId) => {
   console.log(m)
   const city = m.city ? m.city.trim() : ''
-  const date = m.event ? new Date(`${m.event.start}Z`) : null
+  const date = m.event ? new Date(m.event.start) : null
   const webUrl = m.url != m.websiteUrl ? m.websiteUrl : null
   const twitterUrl = m.twitter ? `https://x.com/${m.twitter}` : null
   const title = m.name + (city && !m.name.includes(city) ? ` (${city})` : '')
