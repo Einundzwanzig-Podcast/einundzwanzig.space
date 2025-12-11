@@ -522,5 +522,14 @@
     "v4v": {
       "address": "02c4f584c84ebf76bf3c18fb0f01262a921f240c528127c7a87237f19997c0f4cd"
     }
+  },
+  "jack": {
+    "name": "Jack",
+    "nostr": "npub1p5adune53lxp9tee9ksjfy2q03d39snq98rafr978ztwwhe94l7smyt7vk",
+    "v4v": {
+      "address": "02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945",
+      "customKey": "696969",
+      "customValue": "20"
+    }
   }
 }
