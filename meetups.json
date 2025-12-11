@@ -909,17 +909,7 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": {
-      "id": 2714,
-      "start": "2025-12-11T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl/event/2714",
-      "location": "Brühler Wirtshaus am Schloss",
-      "description": "Der zweite Donnerstag im Monat ist Meetup-Tag in Brühl! Bitte meldet euch in der Vorweihnachtszeit über Telegramm an. Das Brühler Wirtshaus am Schloss liegt direkt am Bahnhof und dem zugehörigen Parkplatz (gebührenpflichtig).",
-      "link": "https://t.me/+LgkAcZaB7dBkZjJi",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "bfcd49a1f67116e7274d064d3bcf804dbdec17c2d556e368aba3cf0fadb0a411"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1184,17 +1174,7 @@
     "city": "Friedrichshafen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
-    "event": {
-      "id": 1701,
-      "start": "2025-12-11T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen/event/1701",
-      "location": "Wird auf Telegram bekannt gegeben",
-      "description": "Bitte in Telegram Gruppe für das Meetup zusagen. Dort gibt es auch genauere Infos zum Ort und falls sich der Termin verschiebt. ",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "b543b4955f49ccb3a63b0c51137072d8db9d104e9f49e2307736167283b6a118"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1585,15 +1565,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 2719,
-      "start": "2026-01-15T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2719",
-      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://t.me/EinundzwanzigKempten",
+      "id": 2735,
+      "start": "2025-12-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2735",
+      "location": "Weihnachtsmarkt Rathauspl. 12, 87435 Kempten (Allgäu)",
+      "description": "Pleb-Weihnacht Kempten\n\nauch in diesem Jahr treffen wir uns wieder zur Plebweihnacht auf dem Kemptner Weihnachtsmarkt. Unser Treffpunkt liegt ca. vor der VR-Bank. Beim Allgäuer Hofbäck, mit schmackhaftem Essen und einem Glühweinstand. In Sats kann gezahlt werden. Wird bestimmt wieder ein toller Abend.",
+      "link": "https://www.kempten.de/weihnachtsmarkt-kempten-3690.html",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": "fc759259615d1639c716f17f5c013be41a04ace5ed6a33b05dfed7fb22df9a4a"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1751,7 +1731,7 @@
       "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
       "description": "Herzlich Willkommen zum 12. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
       "link": "https://dachsbier.de/#braustueberl",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": "1f65b2309ae7e05d55857393712225bdbb49c8d95ea96d85cf8d8d76e0f47b60"
     },
@@ -2509,17 +2489,7 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": {
-      "id": 2623,
-      "start": "2025-12-11T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2623",
-      "location": "Schwabach Weihnachtsmarkt",
-      "description": "Wir treffen uns am Lödels Glühweinstand.",
-      "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
-      "attendees": 6,
-      "might_attendees": 1,
-      "nostr_note": "099e3223d53b5caff1a739b87a549edbe259c88232593da2b9e6ce2ddcff4bba"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2589,7 +2559,17 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "id": 2734,
+      "start": "2025-12-16T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/2734",
+      "location": "Kulturcafé - Sankt-Johanner-Markt 24, 66111 Saarbrücken",
+      "description": "Meetup im Kulturcafé \n\nSankt-Johanner-Markt 24\n66111 Saarbrücken",
+      "link": "https://kulturcafe-sb.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "54ccec3ffcff7a5f3e99ec1d025f161ce58f8e0f0d26530f87222c97c2718075"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2879,17 +2859,7 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": {
-      "id": 2039,
-      "start": "2025-12-11T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2039",
-      "location": "RamRob Ahrensburg, Hagener Allee 23, 22926 Ahrensburg",
-      "description": null,
-      "link": "https://www.ramrob-ahrensburg.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "a3e838a0347afaebfba70d83f3d379d224b8e4737134d504f395b019b2924f3c"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3614,17 +3584,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "id": 2616,
-      "start": "2025-12-11T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/2616",
-      "location": "Bar21",
-      "description": "Bitcoin Stammtisch – Weihnachtsedition\nAm 11. Dezember treffen wir uns wieder in der Bar 21 – diesmal mit Winterstimmung und einem Foodtruck, der für solide Versorgung sorgt.\nErwarte gutes Essen, gute Gespräche und die übliche Mischung aus Fachsimpeln, Lachen und ganz leichtem Chaos.\n\nPerfekt, um das Jahr gemeinsam ausklingen zu lassen.\nAb 16:00 · Bar 21 Linz\n",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": "70c98fc1ffac4b55b525da0580a000842547237b07cc49c717017fdb98a0a1e5"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4319,17 +4279,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budapest-bitcoin-tech-meetup",
     "twitter": null,
-    "event": {
-      "id": 2718,
-      "start": "2025-12-11T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budapest-bitcoin-tech-meetup/event/2718",
-      "location": "Szokásos semi-secret privát helyszín a XI. kerületben",
-      "description": "Szokásos tech-fókuszú, \"cypherpunk\" bitcoiner találkozó, 1-2 mini előadással.\nHa nincs meg a helyszín, kérdezz a Telegram csoportban (https://t.me/huszonegy).",
-      "link": "https://t.me/huszonegy/49988/49993",
-      "attendees": 3,
-      "might_attendees": 0,
-      "nostr_note": "9d47e727608595ccb532b737697e53cbb27299cbcfd5d52759438c8e4c8ed8c2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4558,7 +4508,7 @@
       "link": "https://prevadzky.dvadsatjeden.org/listing/levice-bitcoin-pivo-2/",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "22ad607c8f07b7e2732e98608fc948c7273c23603828bd8b7412cf6826a2fb6a"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
