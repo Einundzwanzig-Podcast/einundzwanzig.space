@@ -2484,7 +2484,17 @@
     "city": "Rothenburg ob der Tauber",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2740,
+      "start": "2025-12-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2740",
+      "location": "Eiscafé-Pizzeria Italia, Herrngasse 8, 91541 Rothenburg ob der Tauber",
+      "description": "Hey Plebs!\n\nBevor der Weihnachtsstress 🎄🕯 losgeht, laden wir euch zum 2. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber ein! \n\n📅 19.12., 18:30 Uhr\n📍 Eiscafé-Pizzeria Italia, Herrngasse 8, Rothenburg ob der Tauber\n\nKommt vorbei, trefft tolle Leute, tauscht euch aus und tankt ein bisschen Orange Energy! ⚡️\nLasst uns gemeinsam lachen, diskutieren und einen richtig guten Abend haben.",
+      "link": "https://italia-rothenburg.de/",
+      "attendees": 1,
+      "might_attendees": 2,
+      "nostr_note": "185088b73781e5c38421af2771865e569fc276a5a71e82dc61cf0c68c0daf527"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2815,7 +2825,7 @@
       53.720821,
       10.33176
     ],
-    "url": "https://t.me/Einundzwanzig_Norden",
+    "url": "",
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
@@ -2890,15 +2900,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
     "event": {
-      "id": 2624,
-      "start": "2025-12-31T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2624",
-      "location": "Radis Stacks",
-      "description": "Am 31.12.2025 wollen wir gemeinsam mit euch Silvester unter dem Motto Satoshis Eve feiern.\nFür dieses Meetup/Event benötigt ihr Karten, die ihr über den unteren Link erwerben könnt.\nBeginn ist 18:00 Uhr und wir machen das ganze Open-end. Dies wird das  letzte Bitcoin Event 2025 und gleichzeitig das erste für 2026 sein😁\n\nDie Ticketpreise sind auf 80€ festgelegt und im Ticket sind Getränke und Speisen enthalten🍟🎉",
-      "link": "https://btcpay.unterdiesem.link/plugins/6wZWMdfGjxkDyt3gwcQ1RTKhD5Yyc8aaCKC6BkisMZvm/ticket/public/event/6d5ff5d6-5b71-455a-9955-1bf353193b7b/summary",
+      "id": 2741,
+      "start": "2025-12-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2741",
+      "location": "Radi's Stacks Trier",
+      "description": "Monatliches Bitcoin Meetup",
+      "link": "https://signal.group/#CjQKID1SnFktnZzgeFC9mhdTj_6GwYhWqKwwJMC63KEqUFQFEhD_JqToxYnwjh0RUAzYf-1W",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "2da63a098da3f15645f2d1674e3d5047266d3cfae344d390807b7114093578b4"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
