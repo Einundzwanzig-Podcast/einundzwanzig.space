@@ -629,17 +629,7 @@
     "city": "Aachen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen",
     "twitter": null,
-    "event": {
-      "id": 1819,
-      "start": "2025-12-14T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-aachen/event/1819",
-      "location": "Cafe Restaurant Papillon, Pontstraße 151, 52062 Aachen",
-      "description": null,
-      "link": "https://maps.app.goo.gl/4fN3Kdz1rgU6X5qe6",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "6f2011edd35065588bd0e94d92eb1541aeac483b935d051558395ee98ecf3e1e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
