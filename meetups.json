@@ -484,7 +484,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2742,
+      "start": "2025-12-20T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/2742",
+      "location": "Frankoniabrunnen, Residenzpl., 97070 Würzburg",
+      "description": "Ho ho ho! Langsam wird es weihnachtlich! 🎄🎅🏼\nIn dieser Stimmung treffen wir uns ein letztes Mal dieses Jahr am nächsten Samstag, den 20.12. 2025 für ein BitcoinWalk.\nGleicher Treffpunkt, gleiche Uhrzeit.\n\nBis Samstag!\n\nHo ho ho! Christmas is on the corner! 🎄🎅🏼\nWe'll follow the Christmas vibes and meet for a last BitcoinWalk next Saturday at the same place and time.\n\nSee you on SATurday!",
+      "link": "https://bitcoinwalk.org/wuerzburg/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "96ac79d971f09328c6e1cd2ee0c42699c64586933f7b7f0207985f1b4699c5be"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2519,17 +2529,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "id": 2734,
-      "start": "2025-12-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/2734",
-      "location": "Kulturcafé - Sankt-Johanner-Markt 24, 66111 Saarbrücken",
-      "description": "Meetup im Kulturcafé \n\nSankt-Johanner-Markt 24\n66111 Saarbrücken",
-      "link": "https://kulturcafe-sb.de/",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": "54ccec3ffcff7a5f3e99ec1d025f161ce58f8e0f0d26530f87222c97c2718075"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4439,17 +4439,7 @@
     "city": "Banská bystrica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
     "twitter": null,
-    "event": {
-      "id": 2654,
-      "start": "2025-12-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica/event/2654",
-      "location": "U Francúza",
-      "description": "Pozývame všetkých nadšencov aj nováčikov",
-      "link": "https://prevadzky.dvadsatjeden.org/explore/?type=event&sort=order-by-date",
-      "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "e764e038646973d10ab3523872945f43f4f740c7219ccd8893362b851b3249fe"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
