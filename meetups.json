@@ -121,7 +121,7 @@
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
@@ -155,15 +155,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2217,
-      "start": "2025-12-17T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2217",
-      "location": "Café Holzmarktperle, Holzmarkt 25, Berlin",
-      "description": "Stammtisch Café Holzmarktperle",
+      "id": 2640,
+      "start": "2026-01-08T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2640",
+      "location": "Restaurant Friedel Richter",
+      "description": "Das älteste Bitcoin Meet-up der Welt. Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "cb92dceacdf359ea459b12080665c2e287d9692085bd2e87bb15431861aacfa0"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -339,17 +339,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "id": 2653,
-      "start": "2025-12-17T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/2653",
-      "location": "Unity-Bar",
-      "description": "\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.\n",
-      "link": "https://21schwerin.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "05ab436a093651271c42b7979b0ac5dd917f9c366b5df227bf0199d5b0a1f12b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1285,15 +1275,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 2720,
-      "start": "2026-01-29T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2720",
+      "id": 2745,
+      "start": "2025-12-18T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2745",
       "location": "Absinth Bar, Schanzenstraße 99 20357 Hamburg",
-      "description": "Einundzwanzig Meetup",
+      "description": "Außerplanmäßiges Jahresend-Meetup ",
       "link": "https://absinth-bar.com/",
-      "attendees": 0,
+      "attendees": 3,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "a716d8a598a6a96cc2f008d5b92daf8809cd8ed3791d836291e32f49f971e0ff"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1364,7 +1354,17 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "id": 2744,
+      "start": "2025-12-20T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2744",
+      "location": "Volksgarten Heilbronn",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 20.12.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr. Um zahlreiches erscheinen wird gebeten :-",
+      "link": "https://maps.app.goo.gl/A9FANaE5WuqFCWZm9",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "3f121875d27c09827fe9227c1936c5f5d7e9f40402613bf4ee2fb064cb86bc4b"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1635,13 +1635,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "id": 1831,
-      "start": "2025-12-17T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/1831",
+      "id": 1832,
+      "start": "2026-01-21T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/1832",
       "location": "",
       "description": null,
       "link": null,
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
@@ -3626,7 +3626,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 19.12.25, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": null,
-      "attendees": 0,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": "15ae7caf20f73804bea034e73df34dbadd8aacc9338a06e85d71c03a6b9500e9"
     },
@@ -3684,17 +3684,7 @@
     "city": "Tirol",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
-    "event": {
-      "id": 1735,
-      "start": "2025-12-17T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol/event/1735",
-      "location": "Christkindlmarkt Wiltener Platzl, Leopoldstr. 27 - Gasthaus Bierstindl (Stindlsaal), Klostergasse 6, 6020 Innsbruck, Tirol",
-      "description": "Wir treffen uns am Mittwoch 17.12.2025 bereits um 17:30 Uhr und zwar am Christkindlmarkt Wiltener Platzl, Leopoldstr. 27, um mit einem ATH-Glühwein anzustoßen.\n\nAb 19:30 Uhr sind wir dann wieder im Gasthaus Bierstindl (Stindlsaal).",
-      "link": "https://bitcoin-tirol.at/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "40e017b8695a3141f68c10aaec938d5d3ee1fc094feda3e7c71d1e0e4f2b27ad"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3914,7 +3904,17 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2743,
+      "start": "2025-12-23T18:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2743",
+      "location": "Brig Glis",
+      "description": "Siehe \"Mehr Informationen\"",
+      "link": "https://bitcoin-wallis.ch",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "57ea9488e99cc9604f9eff19790630dcbaf0a6f95cd0e7e1fd5923e6e1827693"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
