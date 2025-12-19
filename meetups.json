@@ -1275,15 +1275,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 2745,
-      "start": "2025-12-18T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2745",
+      "id": 2720,
+      "start": "2026-01-29T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2720",
       "location": "Absinth Bar, Schanzenstraße 99 20357 Hamburg",
-      "description": "Außerplanmäßiges Jahresend-Meetup ",
+      "description": "Einundzwanzig Meetup",
       "link": "https://absinth-bar.com/",
-      "attendees": 3,
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "a716d8a598a6a96cc2f008d5b92daf8809cd8ed3791d836291e32f49f971e0ff"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2444,7 +2444,17 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "id": 2746,
+      "start": "2025-12-21T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2746",
+      "location": "Kurt-Dunkelmann-Str 2 18057 Rostock",
+      "description": "Nettes beisammen sein unterm Weihnachtsbaum.",
+      "link": "https://21rostoxk.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "e8b3847055b2a1c7b69ce849fcc10d6cfecfd94d7aa924f8e3f017abeaac1758"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4454,17 +4464,7 @@
     "city": "Levice",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-levice",
     "twitter": "webiumsk",
-    "event": {
-      "id": 2626,
-      "start": "2025-12-18T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-levice/event/2626",
-      "location": "Dosýta Burger & Beer, Ĺ. Štúra 5",
-      "description": "18.12.2025  vás pozývame na Bitcoin Pivo",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/levice-bitcoin-pivo-2/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "22ad607c8f07b7e2732e98608fc948c7273c23603828bd8b7412cf6826a2fb6a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
