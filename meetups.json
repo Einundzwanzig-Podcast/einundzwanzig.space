@@ -420,15 +420,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "id": 1922,
-      "start": "2025-12-20T09:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/1922",
+      "id": 1923,
+      "start": "2026-01-03T09:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/1923",
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
       "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "dee7e0e692f3dbf9ecc3ffc2a21e6ad30d748e1c4b6022823ba12287b9aeedba"
+      "might_attendees": 1,
+      "nostr_note": "86fc60e67381b7d9f777621f5b816de4a19dee07f20511ca0242a555c0685fdd"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -460,15 +460,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2661,
-      "start": "2025-12-20T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2661",
+      "id": 2662,
+      "start": "2025-12-27T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2662",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "cbfad78bfe0a4ed9e096a33785fdd2639170ebfff9f6d5cc877ccc2c79c40760"
+      "nostr_note": "c067e8d42dd15ffe50fb65eac0104b7b03577c0e554c58403b6a775f7e149325"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -484,17 +484,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": {
-      "id": 2742,
-      "start": "2025-12-20T10:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/2742",
-      "location": "Frankoniabrunnen, Residenzpl., 97070 Würzburg",
-      "description": "Ho ho ho! Langsam wird es weihnachtlich! 🎄🎅🏼\nIn dieser Stimmung treffen wir uns ein letztes Mal dieses Jahr am nächsten Samstag, den 20.12. 2025 für ein BitcoinWalk.\nGleicher Treffpunkt, gleiche Uhrzeit.\n\nBis Samstag!\n\nHo ho ho! Christmas is on the corner! 🎄🎅🏼\nWe'll follow the Christmas vibes and meet for a last BitcoinWalk next Saturday at the same place and time.\n\nSee you on SATurday!",
-      "link": "https://bitcoinwalk.org/wuerzburg/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "96ac79d971f09328c6e1cd2ee0c42699c64586933f7b7f0207985f1b4699c5be"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1354,17 +1344,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "id": 2744,
-      "start": "2025-12-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2744",
-      "location": "Volksgarten Heilbronn",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 20.12.2025 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr. Um zahlreiches erscheinen wird gebeten :-",
-      "link": "https://maps.app.goo.gl/A9FANaE5WuqFCWZm9",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "3f121875d27c09827fe9227c1936c5f5d7e9f40402613bf4ee2fb064cb86bc4b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2424,17 +2404,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "id": 2746,
-      "start": "2025-12-21T14:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2746",
-      "location": "Kurt-Dunkelmann-Str 2 18057 Rostock",
-      "description": "Nettes beisammen sein unterm Weihnachtsbaum.",
-      "link": "https://21rostock.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "e8b3847055b2a1c7b69ce849fcc10d6cfecfd94d7aa924f8e3f017abeaac1758"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2860,15 +2830,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
     "event": {
-      "id": 2741,
-      "start": "2025-12-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2741",
-      "location": "Radi's Stacks Trier",
-      "description": "Monatliches Bitcoin Meetup",
-      "link": "https://signal.group/#CjQKID1SnFktnZzgeFC9mhdTj_6GwYhWqKwwJMC63KEqUFQFEhD_JqToxYnwjh0RUAzYf-1W",
+      "id": 2624,
+      "start": "2025-12-31T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2624",
+      "location": "Radis Stacks",
+      "description": "Am 31.12.2025 wollen wir gemeinsam mit euch Silvester unter dem Motto Satoshis Eve feiern.\nFür dieses Meetup/Event benötigt ihr Karten, die ihr über den unteren Link erwerben könnt.\nBeginn ist 18:00 Uhr und wir machen das ganze Open-end. Dies wird das  letzte Bitcoin Event 2025 und gleichzeitig das erste für 2026 sein😁\n\nDie Ticketpreise sind auf 80€ festgelegt und im Ticket sind Getränke und Speisen enthalten🍟🎉",
+      "link": "https://btcpay.unterdiesem.link/plugins/6wZWMdfGjxkDyt3gwcQ1RTKhD5Yyc8aaCKC6BkisMZvm/ticket/public/event/6d5ff5d6-5b71-455a-9955-1bf353193b7b/summary",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "5dd7777ad32865b94d00c526660e9417c2aed4ee6a176e2d374b7f6dbd3d9b80"
+      "nostr_note": "2da63a098da3f15645f2d1674e3d5047266d3cfae344d390807b7114093578b4"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3085,9 +3055,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "id": 2312,
-      "start": "2025-12-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2312",
+      "id": 2313,
+      "start": "2026-01-17T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2313",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3605,15 +3575,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "id": 1750,
-      "start": "2025-12-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1750",
+      "id": 1751,
+      "start": "2026-01-17T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1751",
       "location": "Passau oder Schärding",
-      "description": "52. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "53. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "c4095f2fbeac689a834621042d336dbea4897774ad25104699d613b7ca9a7ebe"
+      "nostr_note": "42111b5db85629881a0da02f637ab65c9068e4c658f13d098283fd0ea4f23bd5"
     },
     "style": {
       "fill": "var(--color-accent)"
