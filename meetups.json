@@ -689,7 +689,17 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2752,
+      "start": "2026-01-16T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg/event/2752",
+      "location": "Wird über Telegram bekannt gegeben",
+      "description": "Z.Z. meistens im John Benton",
+      "link": "https://t.me/Einundzwanzig_Augsburg",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1939,17 +1949,7 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": {
-      "id": 2747,
-      "start": "2025-12-21T12:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg/event/2747",
-      "location": "Wasserski Seilbahn Neubrandenburg ",
-      "description": "Am Sonntag, 21. Dezember, ab 13 Uhr findet das Einundzwanzig Neubrandenburger Eisbaden statt! Dich erwarten mutige Eisbader und weitere Highlights wie das kostenfreie Testen von Frank’s Kälte-Push-Apparatur von Alphacooling, eine Live-Performance des lokalen Rappers Nonstop sowie ein Bitcoin-Info-Tisch mit Merch und Antworten auf alle Fragen rund um Bitcoin. Vor Ort gibt es Heißgetränke und Waffeln gegen Gebühr ☕🧇. Ob du selbst mit ins eiskalte Wasser gehst oder als Zuschauer anfeuerst – jeder ist herzlich willkommen. \n\nPLEBS TOGETHER STRONG!✊🏻❄️🔥\n\n",
-      "link": "https://t.me/EinundzwanzigNeubrandenburg",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "f19447ab610ae2285bf5dc1652d37725952366b934067965b4afb10efb11b180"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3559,7 +3559,17 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "id": 2751,
+      "start": "2026-01-24T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/2751",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 24.01.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "link": "https://www.bonami-freilassing.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
