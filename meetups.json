@@ -944,7 +944,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2754,
+      "start": "2026-01-06T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/2754",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2509,17 +2519,7 @@
     "city": "St. Wendel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel",
     "twitter": null,
-    "event": {
-      "id": 2717,
-      "start": "2025-12-22T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland-stammtisch-st-wendel/event/2717",
-      "location": "Bruder Jakob, St. Wendel",
-      "description": "Unser unregelmäßiger Stammtisch mit lauter normalen Leuten, die sich einfach nur für Bitcoin interessieren.",
-      "link": "https://signal.group/#CjQKIFyTdo1QN0tv83sirGNe1I2OxzZguVzkDSIGN1f0GwDKEhAurxID6rXx-v5F3Swgpc41",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "b470b3e6e5172d433cb6c93ac2fe6b3ffe0f16e1fbf5bf7d36dcb527d007f0b2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2990,15 +2990,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 1976,
-      "start": "2025-12-22T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/1976",
+      "id": 2722,
+      "start": "2026-01-26T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2722",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
-      "link": "https://musikbistro.de",
+      "link": "https://bitcoin-entdecken.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "97acdf02e5209344b32e9249c5b9745dbf8891f832d44556e18b42cea924193e"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4169,7 +4169,17 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 2753,
+      "start": "2026-01-08T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/2753",
+      "location": "1113 Bp, Ábel Jenő. 29.",
+      "description": "Technical meetup for freedom tech enthusiasts!\nBring your demo to show off your work!",
+      "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/d13dd88511924348384cf17dc26873ae19c38cf0e3491d582965dc23be5399ff",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
