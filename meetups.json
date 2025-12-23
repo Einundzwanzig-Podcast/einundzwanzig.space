@@ -3844,17 +3844,7 @@
     "city": "Brig-Glis",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis",
     "twitter": null,
-    "event": {
-      "id": 2743,
-      "start": "2025-12-23T18:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-wallis/event/2743",
-      "location": "Brig Glis",
-      "description": "Siehe \"Mehr Informationen\"",
-      "link": "https://bitcoin-wallis.ch",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "57ea9488e99cc9604f9eff19790630dcbaf0a6f95cd0e7e1fd5923e6e1827693"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
