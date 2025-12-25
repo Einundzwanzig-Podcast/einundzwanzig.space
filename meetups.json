@@ -1029,7 +1029,17 @@
     "city": "Ellwangen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2755,
+      "start": "2026-01-02T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2755",
+      "location": "Ellwangen ",
+      "description": "Meetup im Restaurant Tzatziki ",
+      "link": "https://tzatziki-ellwangen.de/",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1840,9 +1850,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "id": 1845,
-      "start": "2025-12-24T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1845",
+      "id": 1846,
+      "start": "2026-01-28T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1846",
       "location": null,
       "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
       "link": null,
