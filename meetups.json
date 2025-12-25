@@ -161,7 +161,7 @@
       "location": "Restaurant Friedel Richter",
       "description": "Das älteste Bitcoin Meet-up der Welt. Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -729,7 +729,17 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "id": 2767,
+      "start": "2026-01-16T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen/event/2767",
+      "location": "El Greco Reiterswiesen Bad Kissingen ",
+      "description": "Meetup 21 der Landkreise Bad Kissingen Bad Neustadt und Bad Brückenau",
+      "link": "https://t.me/einundzwanzig_BadKissingen",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
