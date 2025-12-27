@@ -696,7 +696,7 @@
       "location": "Wird über Telegram bekannt gegeben",
       "description": "Z.Z. meistens im John Benton",
       "link": "https://t.me/Einundzwanzig_Augsburg",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1048,7 +1048,7 @@
       "link": "https://tzatziki-ellwangen.de/",
       "attendees": 2,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "13e3b61ff199d1ecb99b5147c6342e605d01f11b92d0339a31af2c18a9ab7707"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2404,7 +2404,17 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2768,
+      "start": "2026-01-07T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln/event/2768",
+      "location": "Pizzeria La Fontana Rinteln, Weserstraße 7, 31737 Rinteln",
+      "description": "Offene Bitcoin-Gruppe in Rinteln. Unsere Treffen finden derzeit in der Pizzeria La Fontana statt. Jeden ersten Mittwoch im Monat kommen wir zusammen, um uns auszutauschen und zu vernetzen. Es besteht die Möglichkeit, an diesen Tagen auch Vorträge zu halten.",
+      "link": "https://lafontana-pizza.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3494,7 +3504,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 2769,
+      "start": "2026-01-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/2769",
+      "location": "Bar21 Linz-Ebelsberg",
+      "description": "Für alle, die zu viel Familie verarbeiten müssen:\nWir treffen uns zur Therapiestunde\nam 02.01.26 um 18:00 in der Bar21.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": "79b3f43f4af194c6c28de4e3c18981382efca1fae35c59d6c78adc3777c14a29"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4008,7 +4028,7 @@
       "link": "https://www.meetup.com/de-de/einundzwanzig-bitcoin-meetup-schweiz/events/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "ecbb0a2baa962cd31abd18bf06bdcb30f26e204919d708c3427006a735ee18ab"
     },
     "style": {
       "fill": "var(--color-accent)"
