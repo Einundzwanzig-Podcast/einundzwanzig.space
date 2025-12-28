@@ -460,15 +460,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2662,
-      "start": "2025-12-27T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2662",
+      "id": 2663,
+      "start": "2026-01-03T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2663",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "c067e8d42dd15ffe50fb65eac0104b7b03577c0e554c58403b6a775f7e149325"
+      "nostr_note": "3476ce9a60d886faf93ac2c22c460e2d33a1c86961eb4bd03980d9b517440168"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1154,7 +1154,17 @@
     "city": "Freiburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2770,
+      "start": "2026-01-22T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg/event/2770",
+      "location": "Martinsbräu/Kolbenkaffee Freiburg ",
+      "description": "Das nächste Bitcoin, Freiheit und Unternehmertum Event steht an! Dieses mal in Kooperation mit dem Team Freiheit.\n\nWir treffen uns um 17 Uhr im Martinsbräu und es wird wieder Tische zu spezifischen Themen geben. Ideal um zu Netzwerken und sich mit Gleichgesinnten auszutauschen.\n\nUm 19 00 Uhr gehen wir dann ins Kolbenkaffee, dass direkt neben dem Martinsbräu ist. \n\nDort wird um 19:15 Joana Cotar, die \"Bitcoin Politikerin\" einen kurzen Vortrag halten. Sie wird per Videostream dazugeschalten. \n\nDanach offenes Ende im Kolbenkaffee mit Networking, Austausch und Spaß!",
+      "link": "https://t.me/Einundzwanzig_Freiburg",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1929,17 +1939,7 @@
     "city": "Mönchengladbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
-    "event": {
-      "id": 1896,
-      "start": "2025-12-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach/event/1896",
-      "location": null,
-      "description": "Wir treffen uns jeden 4. Samstag, weiteres in der Telegram Gruppe:\nhttps://t.me/einundzwanzigmg",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "f58d33faab9f37492bd4770de82528d9c4c39f352f69336679e8053bab413b53"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
