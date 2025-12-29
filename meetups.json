@@ -1046,7 +1046,7 @@
       "location": "Ellwangen ",
       "description": "Meetup im Restaurant Tzatziki ",
       "link": "https://tzatziki-ellwangen.de/",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": "13e3b61ff199d1ecb99b5147c6342e605d01f11b92d0339a31af2c18a9ab7707"
     },
@@ -1637,7 +1637,7 @@
       "description": "Filmvorführung \"Dirty Coin\" in Überlingen\n\nTicketpreis: 9,00 Euro pro Person an der Abendkasse\n\nWas erwartet dich?\n\nExklusive Vorführung des Films „Dirty Coin\" - ein\nfesselnder Dokumentarfilm, der Dich mitnimmt\nauf eine Reise an die unterschiedlichsten und\nentlegensten Orte der Welt des Bitcoin Mining.\nErfahre, warum Bitcoin Mining eine Schi üssel rolle\nbei der Energiewende spielen kann und bereits\njetzt das Leben von vielen Menschen verändert\nhat. (Englisch mit deutschen Untertiteln)\nIm Anschluss: Q&A und offene Diskussionsrunde\nmit Raum für spannende Gespräche und Fragen.\nFür alle, die sich für Bitcoin interessieren - ob\nBefürworter, Skeptiker oder Neugierige.",
       "link": "https://ibb.co/gYqz973",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "3f6cf4b59d022b9249daf4af9f73b0482d8985625039840c07f73d23329666c7"
     },
     "style": {
@@ -3044,17 +3044,7 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": {
-      "id": 2716,
-      "start": "2025-12-28T09:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden/event/2716",
-      "location": "Cafe del Sol in Wiesbaden",
-      "description": "Am So., 28.12. ab 10 Uhr findet dieses Jahr das letzte „Bitcoin Brunch Meetup“ im Café del Sol in Wiesbaden am Kochbrunnenplatz statt. Lockerste Atmosphäre in einer Location, die Urlaubsfeeling verbreitet. \nJeder ist Herzlich Willkommen!",
-      "link": "https://maps.app.goo.gl/4y9rHEq48phSqUPs8",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "e6f6661a3c1f87f100923541e9eb83d6c0c29fed6289cbaa10643e0444ce18e8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4206,7 +4196,7 @@
       "location": "1113 Bp, Ábel Jenő. 29.",
       "description": "Technical meetup for freedom tech enthusiasts!\nBring your demo to show off your work!",
       "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/d13dd88511924348384cf17dc26873ae19c38cf0e3491d582965dc23be5399ff",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
