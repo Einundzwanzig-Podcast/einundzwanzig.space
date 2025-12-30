@@ -1679,7 +1679,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 2771,
+      "start": "2026-01-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2771",
+      "location": "Landau in der Pfalz",
+      "description": "Details in der Gruppe",
+      "link": "https://t.me/einundzwanzigld",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2136,7 +2146,7 @@
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
       "description": "Kleine Burg! Erstes Bitcoin Meetup in der neuen Location. ",
       "link": "https://www.kleineburg-ol.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": "44ba7dd8ef3bafbbf17cf290bfc80e83b98a30baea313fcbbb681bf235ba62e3"
     },
@@ -3190,9 +3200,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "id": 2242,
-      "start": "2025-12-29T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2242",
+      "id": 2243,
+      "start": "2026-01-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2243",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
@@ -4034,6 +4044,21 @@
     "city": "Schweiz",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-schweiz",
     "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig St.Gallen",
+    "latLng": [
+      47.425,
+      9.398
+    ],
+    "url": "https://t.me/einundzwanzigSG",
+    "city": "St. Gallen",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-stgallen",
+    "twitter": "",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
