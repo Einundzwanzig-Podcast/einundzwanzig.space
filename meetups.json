@@ -426,7 +426,7 @@
       "location": "Clarenbachstraße 2, 50931 Köln",
       "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
       "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 1,
       "nostr_note": "86fc60e67381b7d9f777621f5b816de4a19dee07f20511ca0242a555c0685fdd"
     },
@@ -696,7 +696,7 @@
       "location": "Wird über Telegram bekannt gegeben",
       "description": "Z.Z. meistens im John Benton",
       "link": "https://t.me/Einundzwanzig_Augsburg",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -963,7 +963,7 @@
       "link": "https://www.lilienschaenke-sportsbar.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "89fd5c806a3d25e661dc1696efcd8f7f530a19a56169ab07c55781646c3cdfc8"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2469,7 +2469,17 @@
     "city": "Roth",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2772,
+      "start": "2026-01-13T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2772",
+      "location": "Roth im Restaurant Le Kazoku",
+      "description": "Einfach mal wieder Plaudern.",
+      "link": "https://le-kazoku.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
