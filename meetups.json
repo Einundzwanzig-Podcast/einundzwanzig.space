@@ -163,7 +163,7 @@
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "bc1d630420a510765a75c91e76573c7239782a7f8e51e4fb4d65188e2f59bfb1"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -368,9 +368,9 @@
       "id": 2652,
       "start": "2026-01-07T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2652",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786225/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 07. Januar 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~931.326\n\nOrt diesmal: Königlicher Hirschgarten (Restaurant innen), Hirschgarten 1, 80639 München",
+      "link": "https://luma.com/fjwzpvgg",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "4c125ba5a1d105aca10075da605844469b8c1d391fd2e0108477b065eb6f5c51"
@@ -1784,17 +1784,7 @@
     "city": "Mainz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz",
     "twitter": "@EinundzwanzigMZ",
-    "event": {
-      "id": 1952,
-      "start": "2026-01-01T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mainz/event/1952",
-      "location": "Mainz",
-      "description": "Unser ₿itcoin Meetup findet in wechselnden Locations statt. \nBesucht zur Teilnahme unseren Telegramm Channel: https:t.me/Einundzwanzig_MAINZ   \nNeulinge und Plebs aus aller Welt willkommen! Wir freuen uns auf einen Austausch zu allen Themen rund um ₿itcoin",
-      "link": "",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "0109e0a02d2bec01adf9967ccfd56a551ad233950b1224361052272c2e90e7fd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4213,7 +4203,7 @@
       "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/d13dd88511924348384cf17dc26873ae19c38cf0e3491d582965dc23be5399ff",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "d2ba25c7c94a783900ba6e270348b8efbc37db0295f63b500c35a26e34d71f67"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
