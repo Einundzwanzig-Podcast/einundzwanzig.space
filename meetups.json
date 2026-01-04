@@ -420,15 +420,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "id": 1923,
-      "start": "2026-01-03T09:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/1923",
-      "location": "Clarenbachstraße 2, 50931 Köln",
-      "description": "Bitcoin Walk - jeden zweiten Samstag (14-tägig)\n\nInfo: https://bitcoinwalk.org/koeln/\nTelegram: https://t.me/+1H_Gyq1gtZNhMmY8",
-      "link": "https://maps.app.goo.gl/QvcnyRw4TVQpfeUk6",
-      "attendees": 1,
-      "might_attendees": 1,
-      "nostr_note": "86fc60e67381b7d9f777621f5b816de4a19dee07f20511ca0242a555c0685fdd"
+      "id": 2750,
+      "start": "2026-01-17T09:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/2750",
+      "location": "Treffpunkt Nähe Eingang Clarenbachstr.2 in Köln Lindenthal am Beginn des Clarenbachkanals.",
+      "description": "Wir laufen ca 2 h und lassen den Walk bei einer spanischen Cafebude auf dem Lindenthaler Wochenmarkt ausklingen.",
+      "link": "https://bitcoinwalk.org/koeln",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -460,15 +460,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2663,
-      "start": "2026-01-03T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2663",
+      "id": 2664,
+      "start": "2026-01-10T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2664",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "3476ce9a60d886faf93ac2c22c460e2d33a1c86961eb4bd03980d9b517440168"
+      "nostr_note": "6d05c636783be3cf6e4ae30e0fda006609e0e7ffaa0bd3b468e07ead6e8335a9"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -829,17 +829,7 @@
     "city": "Bonn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
-    "event": {
-      "id": 1807,
-      "start": "2026-01-03T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/1807",
-      "location": "The 9th, Coworking Space Bonn",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "7da631e7c1c3df2354ff87f97addb4c0d8c46d35e586a4c0fe87dcc60e494e90"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1565,15 +1555,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 2719,
+      "id": 2796,
       "start": "2026-01-15T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2719",
-      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2796",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
-      "link": "https://t.me/EinundzwanzigKempten",
-      "attendees": 2,
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "fc759259615d1639c716f17f5c013be41a04ace5ed6a33b05dfed7fb22df9a4a"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1935,12 +1925,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "id": 2597,
-      "start": "2026-01-03T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2597",
-      "location": "Pension Schmidt Alter Steinweg 37, 48143 Münster, https://maps.app.goo.gl/C6ofLYz8Vm98fe379",
+      "id": 2598,
+      "start": "2026-02-07T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2598",
+      "location": "Erphostraße 2, 48145 Münster, https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
-      "link": "https://maps.app.goo.gl/C6ofLYz8Vm98fe379",
+      "link": "https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "0f6f14b66113968df9bbd1865be8429e51a5a19455fe18b526c9441d2baed575"
@@ -2464,7 +2454,17 @@
     "city": "Rothenburg ob der Tauber",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2784,
+      "start": "2026-01-16T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2784",
+      "location": "Eiscafé-Pizzeria Italia, Herrngasse 8, 91541 Rothenburg ob der Tauber",
+      "description": "Wir treffen uns zum 3. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber.\n\n📅 16.01.2026, 18:30 Uhr\n📍 Eiscafé-Pizzeria Italia, Herrngasse 8, Rothenburg ob der Tauber",
+      "link": "https://t.me/+as2wcVLDYvk2Zjky",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2849,7 +2849,17 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 2797,
+      "start": "2026-01-16T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2797",
+      "location": "Ente in Zurlauben",
+      "description": "Das nächste Meetup ist in der \"Ente\" diese ist direkt neben dem Stacks.",
+      "link": "https://mempool.space",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
