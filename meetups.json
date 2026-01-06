@@ -1561,7 +1561,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 0,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2779,7 +2779,17 @@
     "city": "Stormarn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2799,
+      "start": "2026-01-08T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2799",
+      "location": "RamRob Ahrensburg",
+      "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "1ca14cc50f604fc7ced95283dbaca0dd47f527c31743fa7e2a6a98bd47f19cc1"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4084,7 +4094,17 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "id": 2798,
+      "start": "2026-01-10T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/2798",
+      "location": "Muse Restaurant",
+      "description": "Nächstes Meetup ist am 10.01.2026!\nHappy NEW YEAR!\nBeginn: 18:00 Uhr!\nSee you there",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 4,
+      "might_attendees": 0,
+      "nostr_note": "950b3da3e6d1d5ccbb730382826c1829f84f3693cacf53ab0f4a922a21992d33"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
