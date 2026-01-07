@@ -944,17 +944,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 2754,
-      "start": "2026-01-06T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/2754",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "89fd5c806a3d25e661dc1696efcd8f7f530a19a56169ab07c55781646c3cdfc8"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2438,7 +2428,7 @@
       "link": "https://le-kazoku.de/",
       "attendees": 3,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "fa7b9fdedccc372b78a6323c705dafe8e77c58270fb257c9287a93c19ffd7caa"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2866,7 +2856,7 @@
       "location": "Ente in Zurlauben",
       "description": "Das nächste Meetup ist in der \"Ente\" diese ist direkt neben dem Stacks.",
       "link": "https://mempool.space",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4101,7 +4091,7 @@
       "location": "Muse Restaurant",
       "description": "Nächstes Meetup ist am 10.01.2026!\nHappy NEW YEAR!\nBeginn: 18:00 Uhr!\nSee you there",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 4,
+      "attendees": 6,
       "might_attendees": 0,
       "nostr_note": "950b3da3e6d1d5ccbb730382826c1829f84f3693cacf53ab0f4a922a21992d33"
     },
