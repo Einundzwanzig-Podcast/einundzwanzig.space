@@ -365,15 +365,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 2652,
-      "start": "2026-01-07T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2652",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nWann: Mittwoch, 07. Januar 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~931.326\n\nOrt diesmal: Königlicher Hirschgarten (Restaurant innen), Hirschgarten 1, 80639 München",
-      "link": "https://luma.com/fjwzpvgg",
+      "id": 2811,
+      "start": "2026-02-04T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2811",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://www.meetup.com/bitcoin-munich/events/306786226/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "4c125ba5a1d105aca10075da605844469b8c1d391fd2e0108477b065eb6f5c51"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1551,7 +1551,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 2,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2364,17 +2364,7 @@
     "city": "Rinteln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln",
     "twitter": null,
-    "event": {
-      "id": 2768,
-      "start": "2026-01-07T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rinteln/event/2768",
-      "location": "Pizzeria La Fontana Rinteln, Weserstraße 7, 31737 Rinteln",
-      "description": "Offene Bitcoin-Gruppe in Rinteln. Unsere Treffen finden derzeit in der Pizzeria La Fontana statt. Jeden ersten Mittwoch im Monat kommen wir zusammen, um uns auszutauschen und zu vernetzen. Es besteht die Möglichkeit, an diesen Tagen auch Vorträge zu halten.",
-      "link": "https://lafontana-pizza.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "f140ef97715b05a259631db7c9023cc89cdbb32221f39ecb96a39a2ecfcb5aae"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2856,7 +2846,7 @@
       "location": "Ente in Zurlauben",
       "description": "Das nächste Meetup ist in der \"Ente\" diese ist direkt neben dem Stacks.",
       "link": "https://mempool.space",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
