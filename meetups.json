@@ -155,15 +155,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2640,
-      "start": "2026-01-08T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2640",
-      "location": "Restaurant Friedel Richter",
-      "description": "Das älteste Bitcoin Meet-up der Welt. Torstraße 199, 10115 Berlin.",
+      "id": 2628,
+      "start": "2026-01-21T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2628",
+      "location": "Café Holzmarktperle",
+      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "bc1d630420a510765a75c91e76573c7239782a7f8e51e4fb4d65188e2f59bfb1"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1551,9 +1551,9 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "a4682bb755365f08e7eb7f86e20685eb688a7bcd5eae517cd9b8be9c59ea132b"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1830,15 +1830,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "id": 1846,
-      "start": "2026-01-28T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1846",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
-      "attendees": 0,
+      "id": 2814,
+      "start": "2026-01-09T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/2814",
+      "location": "Beethhoven Flingern, Eingang Beethovenstr. 38, 40233 Düsseldorf",
+      "description": "Düsseldorfer Bitcoin Freitags-Meetup.\n\nGute Vibes, Gute Leute. Jeder mit guter Stimmung ist willkommen. Gerne auch Einsteiger.\n\nKeine Finanzberatung, nur Spass, technischer Austausch (Nerdtalk (wenig)).",
+      "link": "https://www.beethoven-flingern.de/",
+      "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": "71cf133d34008ca861295115be5200a7dcbd8e5599d5c9a13cca7b8595263d8b"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2394,7 +2394,17 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "id": 2812,
+      "start": "2026-01-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2812",
+      "location": "Kurt-Dunkelmann-Str 2 18057 Rostock",
+      "description": "Moin Leute,\nraus aus der Komfortzone und sportlich mit Bitcoin in 2026 starten.\nDer passende Auftakt dazu ist unser Termin am 21.01.2026.\n\nAustausch auf Augenhöhe, ein klarer Blick auf Bitcoin und genug Raum für Fragen, Einordnung und Diskussion. Kein Hype, kein Verkaufsgerede, sondern Substanz und Verständnis.\n\nWer 2026 bewusst angehen will, sollte sich den Abend vormerken.",
+      "link": "https://21rostock.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2760,15 +2770,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "id": 2799,
-      "start": "2026-01-08T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2799",
+      "id": 2800,
+      "start": "2026-02-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2800",
       "location": "RamRob Ahrensburg",
       "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "1ca14cc50f604fc7ced95283dbaca0dd47f527c31743fa7e2a6a98bd47f19cc1"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4081,7 +4091,7 @@
       "location": "Muse Restaurant",
       "description": "Nächstes Meetup ist am 10.01.2026!\nHappy NEW YEAR!\nBeginn: 18:00 Uhr!\nSee you there",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": "950b3da3e6d1d5ccbb730382826c1829f84f3693cacf53ab0f4a922a21992d33"
     },
@@ -4184,17 +4194,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": {
-      "id": 2753,
-      "start": "2026-01-08T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/2753",
-      "location": "1113 Bp, Ábel Jenő. 29.",
-      "description": "Technical meetup for freedom tech enthusiasts!\nBring your demo to show off your work!",
-      "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/d13dd88511924348384cf17dc26873ae19c38cf0e3491d582965dc23be5399ff",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "d2ba25c7c94a783900ba6e270348b8efbc37db0295f63b500c35a26e34d71f67"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
