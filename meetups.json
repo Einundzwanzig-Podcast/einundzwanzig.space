@@ -698,7 +698,7 @@
       "link": "https://t.me/Einundzwanzig_Augsburg",
       "attendees": 2,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "8018b4415b1a6fec46c5b81091bdfe98fe472093f1f0a252ffd0b522406d1c2f"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -738,7 +738,7 @@
       "link": "https://t.me/einundzwanzig_BadKissingen",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "5f2191bb203173e0b56c015f8e6d5c170319b650fffc78e38000ecc3a6a75d30"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1104,7 +1104,17 @@
     "city": "Franken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
-    "event": null,
+    "event": {
+      "id": 2815,
+      "start": "2026-01-24T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2815",
+      "location": "Bamberg tba",
+      "description": "Meetup Lokal wird noch bestimmt",
+      "link": "https://share.google/qmvc7hnXlDwt3JieH",
+      "attendees": 4,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1830,15 +1840,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "id": 2814,
-      "start": "2026-01-09T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/2814",
-      "location": "Beethhoven Flingern, Eingang Beethovenstr. 38, 40233 Düsseldorf",
-      "description": "Düsseldorfer Bitcoin Freitags-Meetup.\n\nGute Vibes, Gute Leute. Jeder mit guter Stimmung ist willkommen. Gerne auch Einsteiger.\n\nKeine Finanzberatung, nur Spass, technischer Austausch (Nerdtalk (wenig)).",
-      "link": "https://www.beethoven-flingern.de/",
+      "id": 1846,
+      "start": "2026-01-28T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1846",
+      "location": null,
+      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
+      "link": null,
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": "71cf133d34008ca861295115be5200a7dcbd8e5599d5c9a13cca7b8595263d8b"
+      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2089,17 +2099,7 @@
     "city": "Oldenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
-    "event": {
-      "id": 2588,
-      "start": "2026-01-09T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/2588",
-      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
-      "description": "Kleine Burg! Erstes Bitcoin Meetup in der neuen Location. ",
-      "link": "https://www.kleineburg-ol.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "44ba7dd8ef3bafbbf17cf290bfc80e83b98a30baea313fcbbb681bf235ba62e3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2426,7 +2426,7 @@
       "location": "Roth im Restaurant Le Kazoku",
       "description": "Einfach mal wieder Plaudern.",
       "link": "https://le-kazoku.de/",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": "fa7b9fdedccc372b78a6323c705dafe8e77c58270fb257c9287a93c19ffd7caa"
     },
@@ -2453,7 +2453,7 @@
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "771f7847b6b7db1733225860565409c112f6392fc5f7e0a5df7034ae575b9bdc"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2825,15 +2825,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2528,
-      "start": "2026-01-09T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2528",
+      "id": 2529,
+      "start": "2026-02-13T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2529",
       "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "aa6d98d95083471a75e3a913f390dcd725141efa6699b195c74b919dc3538181"
+      "nostr_note": "ae6ab1f925591351e5089a69073b724b0198b49a772f7d15c12999cf9f48f6e1"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2858,7 +2858,7 @@
       "link": "https://mempool.space",
       "attendees": 2,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "ff8172b3c170f3404988d8196ad6169b52c758c0ab6141d1d6f18e86600f4fb9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3415,9 +3415,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "id": 2192,
-      "start": "2026-01-09T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2192",
+      "id": 2193,
+      "start": "2026-02-13T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2193",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
