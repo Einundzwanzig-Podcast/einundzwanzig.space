@@ -428,7 +428,7 @@
       "link": "https://bitcoinwalk.org/koeln",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "b3e2cb7f9e5b629c4a2200acde56fc62c59b30c2df1cfe2e1b8a0abee84df880"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -460,15 +460,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2664,
-      "start": "2026-01-10T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2664",
+      "id": 2665,
+      "start": "2026-01-17T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2665",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "6d05c636783be3cf6e4ae30e0fda006609e0e7ffaa0bd3b468e07ead6e8335a9"
+      "nostr_note": "f55ca28c8bcd44d8b159530fab3104864c94936c30a6e333bdd3a4cf181f753f"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1026,7 +1026,7 @@
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1111,7 +1111,7 @@
       "location": "Bamberg tba",
       "description": "Meetup Lokal wird noch bestimmt",
       "link": "https://share.google/qmvc7hnXlDwt3JieH",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1561,7 +1561,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 5,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": "a4682bb755365f08e7eb7f86e20685eb688a7bcd5eae517cd9b8be9c59ea132b"
     },
@@ -2426,7 +2426,7 @@
       "location": "Roth im Restaurant Le Kazoku",
       "description": "Einfach mal wieder Plaudern.",
       "link": "https://le-kazoku.de/",
-      "attendees": 4,
+      "attendees": 6,
       "might_attendees": 0,
       "nostr_note": "fa7b9fdedccc372b78a6323c705dafe8e77c58270fb257c9287a93c19ffd7caa"
     },
@@ -4084,17 +4084,7 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "id": 2798,
-      "start": "2026-01-10T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/2798",
-      "location": "Muse Restaurant",
-      "description": "Nächstes Meetup ist am 10.01.2026!\nHappy NEW YEAR!\nBeginn: 18:00 Uhr!\nSee you there",
-      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 7,
-      "might_attendees": 0,
-      "nostr_note": "950b3da3e6d1d5ccbb730382826c1829f84f3693cacf53ab0f4a922a21992d33"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
