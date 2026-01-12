@@ -1559,9 +1559,9 @@
       "start": "2026-01-15T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2796",
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. Thema: Bitcoin-Zyklen – Geschichte, Muster, Prognosen",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 7,
+      "attendees": 8,
       "might_attendees": 0,
       "nostr_note": "a4682bb755365f08e7eb7f86e20685eb688a7bcd5eae517cd9b8be9c59ea132b"
     },
@@ -2426,7 +2426,7 @@
       "location": "Roth im Restaurant Le Kazoku",
       "description": "Einfach mal wieder Plaudern.",
       "link": "https://le-kazoku.de/",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": "fa7b9fdedccc372b78a6323c705dafe8e77c58270fb257c9287a93c19ffd7caa"
     },
@@ -2499,7 +2499,17 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "id": 2827,
+      "start": "2026-01-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/2827",
+      "location": "Treffpunkt wird in den Telegram- und Signal-Gruppen abgesprochen",
+      "description": "Saarbrücker Bitcoin-Stammtisch für alle, die Interesse am Bitcoin haben. Andere coins besprechen wir nicht.\n\nWas am Stammtisch besprochen wird, sollte eher vertraulich behandelt werden, wenn etwas weitergegeben wird, sollte es zumindest keiner Person zugeordnet werden können.",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "c55d17c4a4f447b04743d2ac5882c3c7d67247ac152f6ad21a5878f64854f0ef"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
