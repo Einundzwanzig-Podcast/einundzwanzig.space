@@ -1658,7 +1658,7 @@
       "link": "https://t.me/einundzwanzigld",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "e59388f006786290a5043227328c07a5f789b993be2746a0d54291aeb46fec30"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1864,7 +1864,17 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2829,
+      "start": "2026-01-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn/event/2829",
+      "location": "Bistro Goa",
+      "description": "Gemütliches Pleb Treffen, Diskussionen, Erklärungen, alles kann, nichts muss \n",
+      "link": "https://www.cafe-goa.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2160,9 +2170,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "id": 2080,
-      "start": "2026-01-12T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2080",
+      "id": 2081,
+      "start": "2026-02-09T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2081",
       "location": "An d. Mühle 40, 15345 Altlandsberg",
       "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
       "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
@@ -2469,7 +2479,17 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2830,
+      "start": "2026-01-23T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2830",
+      "location": "Rössle in Irslingen",
+      "description": "Bitte um Anmeldung in der Telegram Gruppe. Vielen Dank!",
+      "link": "https://maps.app.goo.gl/g7hkt2d6MwEJarka6",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4094,7 +4114,17 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "id": 2828,
+      "start": "2026-02-14T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/2828",
+      "location": "Muse Restaurant",
+      "description": "Nächstes Meetup ist wieder im Muse Restaurant ab 18:00 Uhr.\nWir freuen uns auf euch!",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
