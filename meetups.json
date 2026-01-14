@@ -1374,7 +1374,17 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "id": 2832,
+      "start": "2026-01-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2832",
+      "location": "Volksgarten HN",
+      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 17.01.2026 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches Erscheinen wird gebeten\n",
+      "link": "https://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "cf626ed0833505a44fc1583774a67ab1f633ba91f01606835bbb05cc71bec31a"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1561,7 +1571,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. Thema: Bitcoin-Zyklen – Geschichte, Muster, Prognosen",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 8,
+      "attendees": 9,
       "might_attendees": 0,
       "nostr_note": "a4682bb755365f08e7eb7f86e20685eb688a7bcd5eae517cd9b8be9c59ea132b"
     },
@@ -1594,7 +1604,17 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": null,
+    "event": {
+      "id": 2831,
+      "start": "2026-01-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/2831",
+      "location": "Noch nicht 100% sicher ",
+      "description": "Um den genauen Ort zu erfahren komm in die Koblenz Gruppe. ",
+      "link": "https://t.me/Einundzwanzig_Ko",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1632,7 +1652,7 @@
       "description": null,
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
     },
     "style": {
@@ -2430,15 +2450,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2772,
-      "start": "2026-01-13T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2772",
-      "location": "Roth im Restaurant Le Kazoku",
-      "description": "Einfach mal wieder Plaudern.",
-      "link": "https://le-kazoku.de/",
-      "attendees": 7,
+      "id": 2773,
+      "start": "2026-02-12T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2773",
+      "location": "Hilpoltstein",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "fa7b9fdedccc372b78a6323c705dafe8e77c58270fb257c9287a93c19ffd7caa"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3514,7 +3534,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 2833,
+      "start": "2026-01-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/2833",
+      "location": "Bar21",
+      "description": "Stuhlkreis, aber ohne Stühle.\nKein Vortrag – nur offene Runde zu Bitcoin & Lightning. Komm wie du bist, bleib so lang du magst.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3533,10 +3563,10 @@
       "id": 2609,
       "start": "2026-01-23T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2609",
-      "location": "vermutlich Joe's Pub, Neusiedl am See",
-      "description": "Meetup - Bitcoin, Pizza und Bier",
+      "location": "Das Neu-Neusiedler, Untere Hauptstraße 6, Neusiedl am See",
+      "description": "https://www.neuneusiedler.at/\n\nMeetup - Bitcoin, Burger und Bier",
       "link": "https://einundzwanzig-nordbgld.at/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
