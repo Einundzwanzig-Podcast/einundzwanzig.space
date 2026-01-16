@@ -1111,7 +1111,7 @@
       "location": "Bamberg tba",
       "description": "Meetup Lokal wird noch bestimmt",
       "link": "https://share.google/qmvc7hnXlDwt3JieH",
-      "attendees": 5,
+      "attendees": 6,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1153,7 +1153,7 @@
       "link": "https://t.me/Einundzwanzig_Freiburg",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "a99dd77c1233d065bcb6409df200ab56c9c13d699356b4279fff3dc503166c81"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1564,17 +1564,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 2796,
-      "start": "2026-01-15T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2796",
-      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. Thema: Bitcoin-Zyklen – Geschichte, Muster, Prognosen",
-      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 12,
-      "might_attendees": 0,
-      "nostr_note": "a4682bb755365f08e7eb7f86e20685eb688a7bcd5eae517cd9b8be9c59ea132b"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1613,7 +1603,7 @@
       "link": "https://t.me/Einundzwanzig_Ko",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "6950fee83ef0786ac91746b1f2f72732d48df3cc7bf90095da16fa8531b3cfef"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2539,17 +2529,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "id": 2827,
-      "start": "2026-01-15T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/2827",
-      "location": "Treffpunkt wird in den Telegram- und Signal-Gruppen abgesprochen",
-      "description": "Saarbrücker Bitcoin-Stammtisch für alle, die Interesse am Bitcoin haben. Andere coins besprechen wir nicht.\n\nWas am Stammtisch besprochen wird, sollte eher vertraulich behandelt werden, wenn etwas weitergegeben wird, sollte es zumindest keiner Person zugeordnet werden können.",
-      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "c55d17c4a4f447b04743d2ac5882c3c7d67247ac152f6ad21a5878f64854f0ef"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3679,7 +3659,17 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "id": 2835,
+      "start": "2026-01-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria/event/2835",
+      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
+      "description": "Das lange Warten hat ein Ende: Wir haben am 21.01.26 ein spontanes Stammtisch-Treffen um 18 Uhr im Don Alfredo!!!!\nEgal ob Beginner oder eingefleischter Bitcoiner, alle sind Willkommen!",
+      "link": "https://t.me/Einundzwanzig_Styria",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "0538f1897f623a97914cd6f60c5934788dd9ac9ff4e3477fba8b0d0ccd8597a6"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4058,7 +4048,7 @@
       "link": "https://www.bitcoinweesen.ch/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "793ab482633f272998b21d80bbe7a155e7d22aec462c082fdc3e7df959b7c03d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4299,7 +4289,17 @@
     "city": "Liechtenstein",
     "portalUrl": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2834,
+      "start": "2026-02-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein/event/2834",
+      "location": "Restaurant Tang, Dorfstrasse 29, 9491 Ruggell",
+      "description": "Liebe Bitcoin-Enthusiasten und Freunde der dezentralen Revolution\n\nEs ist endlich wieder soweit! Nach viel zu langer Zeit möchte ich euch herzlich zum nächsten Einundzwanzig Bitcoin Meetup Liechtenstein einladen. Gemeinsam tauchen wir ein in die neuesten technologischen Entwicklungen, teilen spannenden Gossip und diskutieren über die aktuellsten Geschehnisse im Bitcoin-Space.\n\nPhilipp",
+      "link": "https://www.meetup.com/de-de/einundzwanzig-meetup-liechtenstein/events/312896175/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
