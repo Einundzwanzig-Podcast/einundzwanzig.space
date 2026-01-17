@@ -300,9 +300,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "id": 2584,
-      "start": "2026-01-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/2584",
+      "id": 2585,
+      "start": "2026-02-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/2585",
       "location": "La Vie, Alter Markt 2 26441 Jever ",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns im La Vie. Immer am 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.lavielepetit-jever.de/",
@@ -584,7 +584,17 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": null,
+    "event": {
+      "id": 2836,
+      "start": "2026-01-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen/event/2836",
+      "location": "Hufnagel, Perlach ",
+      "description": "Bitcoin Meetup im Hufnagel in München Perlach. Gemütliche Bayrische Wirtschaft mit gutem Essen und Bier.",
+      "link": "https://www.der-hufnagel.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "a86f28e303152e4ffeba6b17580765272ad03fa44b32d025e5f13e206d961d45"
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -689,17 +699,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "id": 2752,
-      "start": "2026-01-16T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg/event/2752",
-      "location": "Wird über Telegram bekannt gegeben",
-      "description": "Z.Z. meistens im John Benton",
-      "link": "https://t.me/Einundzwanzig_Augsburg",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": "8018b4415b1a6fec46c5b81091bdfe98fe472093f1f0a252ffd0b522406d1c2f"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -729,17 +729,7 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": {
-      "id": 2767,
-      "start": "2026-01-16T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen/event/2767",
-      "location": "El Greco Reiterswiesen Bad Kissingen ",
-      "description": "Meetup 21 der Landkreise Bad Kissingen Bad Neustadt und Bad Brückenau",
-      "link": "https://t.me/einundzwanzig_BadKissingen",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "5f2191bb203173e0b56c015f8e6d5c170319b650fffc78e38000ecc3a6a75d30"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1883,7 +1873,7 @@
       "link": "https://www.cafe-goa.de/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "d1f75e3b5d2d1ea6845c9250a8a9af0bd62bd4ed01c1099296cc352d8980bc22"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2465,15 +2455,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber",
     "twitter": null,
     "event": {
-      "id": 2784,
-      "start": "2026-01-16T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2784",
-      "location": "Eiscafé-Pizzeria Italia, Herrngasse 8, 91541 Rothenburg ob der Tauber",
-      "description": "Wir treffen uns zum 3. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber.\n\n📅 16.01.2026, 18:30 Uhr\n📍 Eiscafé-Pizzeria Italia, Herrngasse 8, Rothenburg ob der Tauber",
+      "id": 2785,
+      "start": "2026-02-20T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2785",
+      "location": "wird noch bekannt gegeben",
+      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt wird hier und in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "771f7847b6b7db1733225860565409c112f6392fc5f7e0a5df7034ae575b9bdc"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2498,7 +2488,7 @@
       "link": "https://maps.app.goo.gl/g7hkt2d6MwEJarka6",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "cdc28abaaa2d0e2522010cf0ef542578a72954ca3a53dc078c2807d7bb8a354e"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2879,17 +2869,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "id": 2797,
-      "start": "2026-01-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/2797",
-      "location": "Ente in Zurlauben",
-      "description": "Das nächste Meetup ist in der \"Ente\" diese ist direkt neben dem Stacks.",
-      "link": "https://mempool.space",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": "ff8172b3c170f3404988d8196ad6169b52c758c0ab6141d1d6f18e86600f4fb9"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3523,7 +3503,7 @@
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "003537b8cccc86df28fa2dad094be9f6d67fb5801b9d2bf3f9144ce8b9ee999d"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3548,7 +3528,7 @@
       "link": "https://einundzwanzig-nordbgld.at/",
       "attendees": 1,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "57b1bc0c3d10cf42d3a67473270433785b6cb05aff53bfd664399b9d8ba59cd6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4095,9 +4075,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "id": 2329,
-      "start": "2026-01-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau/event/2329",
+      "id": 2330,
+      "start": "2026-02-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau/event/2330",
       "location": null,
       "description": null,
       "link": null,
