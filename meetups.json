@@ -419,17 +419,7 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
-    "event": {
-      "id": 2750,
-      "start": "2026-01-17T09:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/2750",
-      "location": "Treffpunkt Nähe Eingang Clarenbachstr.2 in Köln Lindenthal am Beginn des Clarenbachkanals.",
-      "description": "Wir laufen ca 2 h und lassen den Walk bei einer spanischen Cafebude auf dem Lindenthaler Wochenmarkt ausklingen.",
-      "link": "https://bitcoinwalk.org/koeln",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "b3e2cb7f9e5b629c4a2200acde56fc62c59b30c2df1cfe2e1b8a0abee84df880"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -460,15 +450,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2665,
-      "start": "2026-01-17T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2665",
+      "id": 2666,
+      "start": "2026-01-24T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2666",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "f55ca28c8bcd44d8b159530fab3104864c94936c30a6e333bdd3a4cf181f753f"
+      "nostr_note": "1046c548730a07dd48028761770e478a064cb0758069b5d7609a1a337e8e25f6"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -515,6 +505,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Club Orange Meetup",
+    "latLng": [
+      51.23632,
+      7.159921
+    ],
+    "url": "https://app.cluborange.org/SG9Bg4zO",
+    "city": "Wuppertal",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup",
+    "twitter": null,
+    "event": {
+      "id": 2837,
+      "start": "2026-01-30T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup/event/2837",
+      "location": "Lise-Meitner-Str. 1-13, 42119 Wuppertal -> 1-3 / Haus 1 - Etg. 0",
+      "description": "Wo genau muss ich hin: \nHaus 1, Türe öffnen, die Treppe hoch, die Glastüren durch, dann rechts und auf Bitcoin Logo achten.\n\nAuftakt 2026 | 30.01.2026\nEgal ob Einsteiger oder Bitcoin-OG – jeder ist willkommen.\nWer mehr über Bitcoin erfahren, darüber sprechen und Gleichgesinnte treffen möchte, ist herzlich eingeladen.",
+      "link": "https://app.cluborange.org/SG9Bg4zO",
+      "attendees": 2,
+      "might_attendees": 2,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1101,9 +1116,9 @@
       "location": "Bamberg tba",
       "description": "Meetup Lokal wird noch bestimmt",
       "link": "https://share.google/qmvc7hnXlDwt3JieH",
-      "attendees": 6,
+      "attendees": 8,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1364,17 +1379,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "id": 2832,
-      "start": "2026-01-17T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2832",
-      "location": "Volksgarten HN",
-      "description": "Servus HN Gemeinde, nächstes Meet-up findet am 17.01.2026 statt. Treffpunkt ist im Volksgarten in HN. Start around 17:00 Uhr.   Um zahlreiches Erscheinen wird gebeten\n",
-      "link": "https://maps.app.goo.gl/Lbi2z2dUoExDjE9ZA",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "cf626ed0833505a44fc1583774a67ab1f633ba91f01606835bbb05cc71bec31a"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1660,6 +1665,21 @@
       "might_attendees": 0,
       "nostr_note": "e59388f006786290a5043227328c07a5f789b993be2746a0d54291aeb46fec30"
     },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Landkreis Tuttlingen",
+    "latLng": [
+      47.984,
+      8.819
+    ],
+    "url": null,
+    "city": "Tuttlingen",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landkreis-tuttlingen",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2729,7 +2749,17 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2838,
+      "start": "2026-01-21T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/2838",
+      "location": "New Forge Coworking Prinzenstraße 2a 42697 Solingen",
+      "description": "Neugierig auf Bitcoin? Oder fragst Du Dich: \"Bin ich zu spät dran, um einzusteigen?\" Dann komm zu unserer Infoveranstaltung - für absolute Anfängerinnen und Anfänger, genauso wie für Fortgeschrittene.\n\nSteckt dahinter nur \"get rich quick\" oder ein langfristiger finanzieller, technologischer und gesellschaftlicher Wandel?\n\nWas ist Bitcoin eigentlich?\nWelches Problem löst Bitcoin?\nWas sind typische Fehler von Einsteigern?\nWas ist der Unterschied zu anderen Kryptowährungen? \nIst Bitcoin eine Umweltsau und wird nur von Kriminellen genutzt? \n\nBei uns bekommst Du Antworten auf Deine Fragen für einen sicheren Einstieg in die Welt von Bitcoin.",
+      "link": "https://t.me/einundzwanzig_solingen",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "d0f045cb9f881a996bd756000510958c35a7981378225db9330b3b6251db5e63"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3075,9 +3105,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "id": 2313,
-      "start": "2026-01-17T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2313",
+      "id": 2314,
+      "start": "2026-02-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2314",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3598,7 +3628,7 @@
       "link": "https://www.bonami-freilassing.de/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "6cfa8184eb73c2f6d81dae1fe4bf7f2ed057e9756e94242b3e6a9a7e6aa0a5b2"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3615,15 +3645,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "id": 1751,
-      "start": "2026-01-17T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1751",
+      "id": 1752,
+      "start": "2026-02-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1752",
       "location": "Passau oder Schärding",
-      "description": "53. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "54. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "42111b5db85629881a0da02f637ab65c9068e4c658f13d098283fd0ea4f23bd5"
+      "nostr_note": "b2420354747320235f5791644516f33942c7a6d3a1bceceb1f62ea8e38f1cb02"
     },
     "style": {
       "fill": "var(--color-accent)"
