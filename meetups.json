@@ -866,11 +866,11 @@
     "twitter": "Einundzwanzig_N",
     "event": {
       "id": 2295,
-      "start": "2026-01-28T17:30:00.000000Z",
+      "start": "2026-01-29T17:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2295",
-      "location": "Schwarzer Hermann (Nähe Hauptbahnhof)",
-      "description": "Hohenlohestraße 4-6, 28209 Bremen",
-      "link": null,
+      "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
+      "description": "Bahnhofspl. 13, 28195 Bremen, Deutschland",
+      "link": "http://restaurant-uebersee.de/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "9e510cfdf8a0996c1ded210deb42d197c2baa655ecf0610c135601c842bcf6cb"
@@ -1116,7 +1116,7 @@
       "location": "Bamberg tba",
       "description": "Meetup Lokal wird noch bestimmt",
       "link": "https://share.google/qmvc7hnXlDwt3JieH",
-      "attendees": 8,
+      "attendees": 9,
       "might_attendees": 0,
       "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
     },
@@ -1664,17 +1664,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "id": 2771,
-      "start": "2026-01-19T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2771",
-      "location": "Landau in der Pfalz",
-      "description": "Details in der Gruppe",
-      "link": "https://t.me/einundzwanzigld",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "e59388f006786290a5043227328c07a5f789b993be2746a0d54291aeb46fec30"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3068,7 +3058,7 @@
       "link": "https://bitcoin-entdecken.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "79e695c2f182792242d7703a9054a66c8fba738bef89feb361f21f7a2772f0eb"
     },
     "style": {
       "fill": "var(--color-accent)"
