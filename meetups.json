@@ -155,15 +155,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2628,
-      "start": "2026-01-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2628",
-      "location": "Café Holzmarktperle",
-      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
+      "id": 2641,
+      "start": "2026-02-05T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2641",
+      "location": "Restaurant Friedel Richter",
+      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "efe38608a0944b8fb89786730521b0bb349ab48bceabbef24f390ff07c4e2a11"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -339,17 +339,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "id": 2749,
-      "start": "2026-01-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/2749",
-      "location": "Arsenalstraße 36, Rumbar Unity",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
-      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "b488a1a1a220d933d70b8e70e9d52b2adbf333414052296c38733104677a0cf3"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -474,7 +464,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2844,
+      "start": "2026-01-31T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/2844",
+      "location": "Frankoniabrunnen am Residenzplatz, 97070 Würzburg",
+      "description": "BitcoinWalk Würzburg\nTreffpunkt: Frankoniabrunnen am Residenzplatz, 97070 Würzburg\n31.1.26 um 11:30 Uhr\nSee you on SATurday!",
+      "link": "https://bitcoinwalk.org/wuerzburg/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -599,17 +599,7 @@
     "city": "München",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen",
     "twitter": "EinundzwanzigM",
-    "event": {
-      "id": 2836,
-      "start": "2026-01-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenchen/event/2836",
-      "location": "Hufnagel, Perlach ",
-      "description": "Bitcoin Meetup im Hufnagel in München Perlach. Gemütliche Bayrische Wirtschaft mit gutem Essen und Bier.",
-      "link": "https://www.der-hufnagel.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "a86f28e303152e4ffeba6b17580765272ad03fa44b32d025e5f13e206d961d45"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1116,7 +1106,7 @@
       "location": "SandwiTches Bamberg",
       "description": "SandwiTches Sprizz&Melts, Frauenstraße 5 + 9, 96047 Bamberg",
       "link": "http://www.sandwitches-bamberg.de",
-      "attendees": 9,
+      "attendees": 11,
       "might_attendees": 0,
       "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
     },
@@ -1639,17 +1629,7 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": {
-      "id": 1832,
-      "start": "2026-01-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/1832",
-      "location": "",
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "e901d3f73cf3ddbed50b02e7f9ccdb92daba1eb2000cd980fced2ae51af2ec61"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2425,15 +2405,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
     "event": {
-      "id": 2812,
-      "start": "2026-01-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2812",
+      "id": 2813,
+      "start": "2026-02-21T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2813",
       "location": "Kurt-Dunkelmann-Str 2 18057 Rostock",
-      "description": "Moin Leute,\nraus aus der Komfortzone und sportlich mit Bitcoin in 2026 starten.\nDer passende Auftakt dazu ist unser Termin am 21.01.2026.\n\nAustausch auf Augenhöhe, ein klarer Blick auf Bitcoin und genug Raum für Fragen, Einordnung und Diskussion. Kein Hype, kein Verkaufsgerede, sondern Substanz und Verständnis.\n\nWer 2026 bewusst angehen will, sollte sich den Abend vormerken.",
+      "description": "Bitcoin Treff Rostock erwartet dich.\nOffener Austausch, klare Worte und ein sachlicher Blick auf Bitcoin.\nKein Hype, kein Verkaufsdruck. Einfach ein ehrliches Treffen auf Augenhöhe.",
       "link": "https://21rostock.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "af85e5c863c5d0957a16b64a8fcc8da26b2bc3006650b5edc728868cc96e7679"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2749,17 +2729,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "id": 2838,
-      "start": "2026-01-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/2838",
-      "location": "New Forge Coworking Prinzenstraße 2a 42697 Solingen",
-      "description": "Neugierig auf Bitcoin? Oder fragst Du Dich: \"Bin ich zu spät dran, um einzusteigen?\" Dann komm zu unserer Infoveranstaltung - für absolute Anfängerinnen und Anfänger, genauso wie für Fortgeschrittene.\n\nSteckt dahinter nur \"get rich quick\" oder ein langfristiger finanzieller, technologischer und gesellschaftlicher Wandel?\n\nWas ist Bitcoin eigentlich?\nWelches Problem löst Bitcoin?\nWas sind typische Fehler von Einsteigern?\nWas ist der Unterschied zu anderen Kryptowährungen? \nIst Bitcoin eine Umweltsau und wird nur von Kriminellen genutzt? \n\nBei uns bekommst Du Antworten auf Deine Fragen für einen sicheren Einstieg in die Welt von Bitcoin.",
-      "link": "https://t.me/einundzwanzig_solingen",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "d0f045cb9f881a996bd756000510958c35a7981378225db9330b3b6251db5e63"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3679,17 +3649,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "id": 2835,
-      "start": "2026-01-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria/event/2835",
-      "location": "Don Alfredo, Kalvariengürtel 1, 8020 Graz",
-      "description": "Das lange Warten hat ein Ende: Wir haben am 21.01.26 ein spontanes Stammtisch-Treffen um 18 Uhr im Don Alfredo!!!!\nEgal ob Beginner oder eingefleischter Bitcoiner, alle sind Willkommen!",
-      "link": "https://t.me/Einundzwanzig_Styria",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "0538f1897f623a97914cd6f60c5934788dd9ac9ff4e3477fba8b0d0ccd8597a6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
