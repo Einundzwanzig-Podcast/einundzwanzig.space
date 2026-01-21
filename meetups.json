@@ -526,7 +526,7 @@
       "location": "Lise-Meitner-Str. 1-13, 42119 Wuppertal -> 1-3 / Haus 1 - Etg. 0",
       "description": "Wo genau muss ich hin: \nHaus 1, Türe öffnen, die Treppe hoch, die Glastüren durch, dann rechts und auf Bitcoin Logo achten.\n\nAuftakt 2026 | 30.01.2026\nEgal ob Einsteiger oder Bitcoin-OG – jeder ist willkommen.\nWer mehr über Bitcoin erfahren, darüber sprechen und Gleichgesinnte treffen möchte, ist herzlich eingeladen.",
       "link": "https://app.cluborange.org/SG9Bg4zO",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 2,
       "nostr_note": ""
     },
@@ -3274,7 +3274,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2842,
+      "start": "2026-02-13T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/2842",
+      "location": "Blauer Adler",
+      "description": "Socialpleb`n",
+      "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
