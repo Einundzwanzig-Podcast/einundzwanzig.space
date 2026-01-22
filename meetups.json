@@ -1106,7 +1106,7 @@
       "location": "SandwiTches Bamberg",
       "description": "SandwiTches Sprizz&Melts, Frauenstraße 5 + 9, 96047 Bamberg",
       "link": "http://www.sandwitches-bamberg.de",
-      "attendees": 11,
+      "attendees": 12,
       "might_attendees": 0,
       "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
     },
@@ -2944,7 +2944,17 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "id": 2845,
+      "start": "2026-02-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel/event/2845",
+      "location": "Brasserie Balthazar, Wittlich",
+      "description": "Bitcoin Meetup in der Brasserie Balthazar ab 18 Uhr",
+      "link": "https://maps.app.goo.gl/Vv777QQwgpzapSMJ8",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
