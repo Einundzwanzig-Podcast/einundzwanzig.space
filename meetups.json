@@ -528,7 +528,7 @@
       "link": "https://app.cluborange.org/SG9Bg4zO",
       "attendees": 4,
       "might_attendees": 2,
-      "nostr_note": ""
+      "nostr_note": "553b00d66a78a951c726ca9c6398dfa5008a30eeb678122040e775966d398933"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -939,7 +939,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2846,
+      "start": "2026-02-03T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/2846",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1844,17 +1854,7 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
     "twitter": null,
-    "event": {
-      "id": 2829,
-      "start": "2026-01-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn/event/2829",
-      "location": "Bistro Goa",
-      "description": "Gemütliches Pleb Treffen, Diskussionen, Erklärungen, alles kann, nichts muss \n",
-      "link": "https://www.cafe-goa.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "d1f75e3b5d2d1ea6845c9250a8a9af0bd62bd4ed01c1099296cc352d8980bc22"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2459,17 +2459,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "id": 2830,
-      "start": "2026-01-23T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2830",
-      "location": "Rössle in Irslingen",
-      "description": "Bitte um Anmeldung in der Telegram Gruppe. Vielen Dank!",
-      "link": "https://maps.app.goo.gl/g7hkt2d6MwEJarka6",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "cdc28abaaa2d0e2522010cf0ef542578a72954ca3a53dc078c2807d7bb8a354e"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3494,17 +3484,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "id": 2833,
-      "start": "2026-01-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/2833",
-      "location": "Bar21",
-      "description": "Stuhlkreis, aber ohne Stühle.\nKein Vortrag – nur offene Runde zu Bitcoin & Lightning. Komm wie du bist, bleib so lang du magst.",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "003537b8cccc86df28fa2dad094be9f6d67fb5801b9d2bf3f9144ce8b9ee999d"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3520,15 +3500,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland",
     "twitter": "21_nordbgld",
     "event": {
-      "id": 2609,
-      "start": "2026-01-23T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2609",
-      "location": "Das Neu-Neusiedler, Untere Hauptstraße 6, Neusiedl am See",
-      "description": "https://www.neuneusiedler.at/\n\nMeetup - Bitcoin, Burger und Bier",
+      "id": 2610,
+      "start": "2026-03-20T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2610",
+      "location": "vermutlich im Werk, Parndorf",
+      "description": "Meetup - Bitcoin, Bowling (?) & Bier",
       "link": "https://einundzwanzig-nordbgld.at/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "57b1bc0c3d10cf42d3a67473270433785b6cb05aff53bfd664399b9d8ba59cd6"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
