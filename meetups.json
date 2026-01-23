@@ -122,7 +122,7 @@
       "description": "Regelmäßiges Treffen",
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
     "style": {
@@ -1106,7 +1106,7 @@
       "location": "SandwiTches Bamberg",
       "description": "SandwiTches Sprizz&Melts, Frauenstraße 5 + 9, 96047 Bamberg",
       "link": "http://www.sandwitches-bamberg.de",
-      "attendees": 12,
+      "attendees": 13,
       "might_attendees": 0,
       "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
     },
@@ -1139,17 +1139,7 @@
     "city": "Freiburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
     "twitter": null,
-    "event": {
-      "id": 2770,
-      "start": "2026-01-22T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg/event/2770",
-      "location": "Martinsbräu/Kolbenkaffee Freiburg ",
-      "description": "Das nächste Bitcoin, Freiheit und Unternehmertum Event steht an! Dieses mal in Kooperation mit dem Team Freiheit.\n\nWir treffen uns um 17 Uhr im Martinsbräu und es wird wieder Tische zu spezifischen Themen geben. Ideal um zu Netzwerken und sich mit Gleichgesinnten auszutauschen.\n\nUm 19 00 Uhr gehen wir dann ins Kolbenkaffee, dass direkt neben dem Martinsbräu ist. \n\nDort wird um 19:15 Joana Cotar, die \"Bitcoin Politikerin\" einen kurzen Vortrag halten. Sie wird per Videostream dazugeschalten. \n\nDanach offenes Ende im Kolbenkaffee mit Networking, Austausch und Spaß!",
-      "link": "https://t.me/Einundzwanzig_Freiburg",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "a99dd77c1233d065bcb6409df200ab56c9c13d699356b4279fff3dc503166c81"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1308,7 +1298,7 @@
       "link": "https://absinth-bar.com/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "a0f66c62339f9162d6553864b5f0b3af6cddd51c966b1178322159ee605212d6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1589,17 +1579,7 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": {
-      "id": 2831,
-      "start": "2026-01-22T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/2831",
-      "location": "Noch nicht 100% sicher ",
-      "description": "Um den genauen Ort zu erfahren komm in die Koblenz Gruppe. ",
-      "link": "https://t.me/Einundzwanzig_Ko",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "6950fee83ef0786ac91746b1f2f72732d48df3cc7bf90095da16fa8531b3cfef"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2458,10 +2438,10 @@
       "id": 2785,
       "start": "2026-02-20T17:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2785",
-      "location": "wird noch bekannt gegeben",
-      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt wird hier und in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
+      "location": "Taj Mahal, Klingengasse 12, 91541 Rothenburg ob der Tauber",
+      "description": "Wir treffen uns zum 4. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber.\n20.2.26 um 18:30 Uhr im Taj Mahal, Klingengasse 12, 91541 Rothenburg ob der Tauber (https://tajmahal-rothenburg.de/)",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3616,7 +3596,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 24.01.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": "6cfa8184eb73c2f6d81dae1fe4bf7f2ed057e9756e94242b3e6a9a7e6aa0a5b2"
     },
@@ -4030,15 +4010,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz",
     "twitter": null,
     "event": {
-      "id": 2739,
-      "start": "2026-01-22T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz/event/2739",
-      "location": "TBD, Weesen",
-      "description": "Bitcoin Weesen ist ein monatliches Treffen, an dem erfahrene Bitcoiner Fragen rund um diese bedeutende Innovation mit Interessierten bespricht, und praktische Unterstützung im Umgang mit Bitcoin bietet.\n\nWir freuen uns über jede Teilnahme. Möchtest Du mal genauer wissen, was der Bitcoin ist? Oder hast Du praktische Fragen zur Handhabung von Bitcoin? Oder möchtest Du mit uns darüber sprechen, wie Bitcoin unsere Gesellschaft und unsere Welt verändert? Dann komm doch an unser nächstes Treffen.\n\nInfos zu Bitcoin Weesen unter https://www.bitcoinweesen.ch/",
-      "link": "https://www.bitcoinweesen.ch/",
+      "id": 2738,
+      "start": "2026-02-06T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz/event/2738",
+      "location": "TBD",
+      "description": "https://www.meetup.com/de-de/einundzwanzig-bitcoin-meetup-schweiz/events/\nWir treffen uns jeden ersten Freitag irgendwo in der Ostschweiz in lockerer Stammtischrunde um über die neuesten Bitcoin Ereignissen und Entwicklungen zu reden.\n\nAnfänger sind jederzeit willkommen.\n\nWir zeigen wie man eine Bitcoin Wallet installiert und die ersten Satoshis (Bruchteile von Bitcoin) erhält.",
+      "link": "https://www.meetup.com/de-de/einundzwanzig-bitcoin-meetup-schweiz/events/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "793ab482633f272998b21d80bbe7a155e7d22aec462c082fdc3e7df959b7c03d"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
