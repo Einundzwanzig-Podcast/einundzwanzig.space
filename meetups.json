@@ -440,15 +440,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2666,
-      "start": "2026-01-24T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2666",
+      "id": 2667,
+      "start": "2026-01-31T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2667",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "1046c548730a07dd48028761770e478a064cb0758069b5d7609a1a337e8e25f6"
+      "nostr_note": "c8db290e865f13f8aeeb1dd134dc2137bf7b15d9925312ef66329ec1fd30594c"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -473,7 +473,7 @@
       "link": "https://bitcoinwalk.org/wuerzburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "58b88cc6865688d170bce056a9ad0390e6be4b4e785dc3018b925f0394b1cc25"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1110,15 +1110,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "id": 2815,
-      "start": "2026-01-24T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2815",
-      "location": "SandwiTches Bamberg",
-      "description": "SandwiTches Sprizz&Melts, Frauenstraße 5 + 9, 96047 Bamberg",
-      "link": "http://www.sandwitches-bamberg.de",
-      "attendees": 13,
+      "id": 2816,
+      "start": "2026-02-28T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2816",
+      "location": "Nürnberg tbd ⚡️",
+      "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
+      "link": "https://dornauers.de/",
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "0631a7c0568b36de252c27320f5dfd769eb70b2296c9f88b00969308795941e6"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1855,21 +1855,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Meetup Mühldorf am Inn",
-    "latLng": [
-      48.23896,
-      12.52761
-    ],
-    "url": "https://t.me/+KUpZ5NKm-IxjYTQ6",
-    "city": "Mühldorf am Inn",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-muehldorf-am-inn",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Memmingen",
     "latLng": [
       47.9867696,
@@ -1908,6 +1893,21 @@
     "url": "https://t.me/einundzwanzigmg",
     "city": "Mönchengladbach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Mühldorf am Inn",
+    "latLng": [
+      48.23896,
+      12.52761
+    ],
+    "url": "https://t.me/+KUpZ5NKm-IxjYTQ6",
+    "city": "Mühldorf am Inn",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
     "twitter": null,
     "event": null,
     "style": {
@@ -3464,7 +3464,17 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2848,
+      "start": "2026-01-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe/event/2848",
+      "location": "Plaschlhof, Sportplatzweg 1, 4552 Wartberg",
+      "description": "Triff Bitcoiner aus der Umgebung, wir freuen uns auf dich!",
+      "link": "https://maps.app.goo.gl/oSm7edC3JG7H3cZu6?g_st=ic",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": "4a17a1c2e7817a0e206ee90035897f794cb72a8c9e74939e43b49dd475a59d48"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3579,17 +3589,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 2751,
-      "start": "2026-01-24T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/2751",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 24.01.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "6cfa8184eb73c2f6d81dae1fe4bf7f2ed057e9756e94242b3e6a9a7e6aa0a5b2"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
