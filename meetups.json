@@ -1559,7 +1559,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 2847,
+      "start": "2026-02-06T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2847",
+      "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten (Allgäu)",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. \n\nFreut euch diesmal wieder auf einen besonderen Gast. Infos folgen.\n",
+      "link": "https://www.schmiede-kempten.de",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
