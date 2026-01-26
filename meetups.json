@@ -1116,7 +1116,7 @@
       "location": "Nürnberg tbd ⚡️",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
       "link": "https://dornauers.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2349,7 +2349,17 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2850,
+      "start": "2026-01-29T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/2850",
+      "location": "Kalyva - Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": "Einundzwanzig Meetup",
+      "link": "https://kalyva.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": "0ead085c40858d53b3bd4ea5ab55ba3715f7f447953fc19304d23968bc135f36"
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
