@@ -862,7 +862,7 @@
       "description": "Bahnhofspl. 13, 28195 Bremen, Deutschland",
       "link": "http://restaurant-uebersee.de/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "9e510cfdf8a0996c1ded210deb42d197c2baa655ecf0610c135601c842bcf6cb"
     },
     "style": {
@@ -979,7 +979,17 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "id": 2855,
+      "start": "2026-02-06T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/2855",
+      "location": "Reisbach 94419",
+      "description": "Am Freitag 6. Februar ab 18:30 findet der 13. Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Geierbräu statt.",
+      "link": "https://t.me/einundzwanzig_dgf",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1840,15 +1850,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "id": 1846,
+      "id": 2854,
       "start": "2026-01-28T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/1846",
-      "location": null,
-      "description": "Treffen jeden 4. Mittwoch im Monat. Die Termine werden in der Gruppe angepinnt.",
-      "link": null,
-      "attendees": 1,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/2854",
+      "location": "Café Beethoven, Eingang Beethovenstr. 38, 40233 Düsseldorf",
+      "description": "Meetup für alle mit guten Vibes und Spass an Bitcoin.\nAnfänger sind Willkommen. Kein reiner tech. Talk, sondern ehr rheinischer Talk ;-)\nKeine Sorge Experten sind auch da um alle Fragen zu beantworten. Keine Finanzberatung, keine Kryptos! Bitcoin only.",
+      "link": "https://beethoven-flingern.de/",
+      "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "b1fe84538e2ea597a218114710bc743832c0f0fa473eb902f7508d2c0e07ba86"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1909,7 +1919,17 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2851,
+      "start": "2026-02-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2851",
+      "location": "NEUE LOCATION WIRD BALD PREIS GEGEBEN",
+      "description": "Bisher haben wir \"spontane\" Meetups organisiert, sind aber derzeit dabei einige Locations für einen regelmäßige Treffen zu organisieren. Sobald dies erledigt ist, wird hier aktualisiert. \n\nFreut euch aber gerne schon auf ein Meetup im Februar 2026. ",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3020,15 +3040,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 2722,
-      "start": "2026-01-26T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2722",
+      "id": 2723,
+      "start": "2026-02-23T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2723",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "79e695c2f182792242d7703a9054a66c8fba738bef89feb361f21f7a2772f0eb"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3190,14 +3210,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "id": 2243,
-      "start": "2026-01-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2243",
+      "id": 2244,
+      "start": "2026-02-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2244",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "7c072677db2db7738f5e4a3e0bce4d2287deff12b7f3fc306c47f46122da9d2d"
     },
     "style": {
@@ -3482,7 +3502,7 @@
       "description": "Triff Bitcoiner aus der Umgebung, wir freuen uns auf dich!",
       "link": "https://maps.app.goo.gl/oSm7edC3JG7H3cZu6?g_st=ic",
       "attendees": 2,
-      "might_attendees": 0,
+      "might_attendees": 2,
       "nostr_note": "4a17a1c2e7817a0e206ee90035897f794cb72a8c9e74939e43b49dd475a59d48"
     },
     "style": {
@@ -3622,7 +3642,7 @@
       "description": "54. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "b2420354747320235f5791644516f33942c7a6d3a1bceceb1f62ea8e38f1cb02"
     },
     "style": {
