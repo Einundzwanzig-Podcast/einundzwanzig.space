@@ -710,6 +710,21 @@
     }
   },
   {
+    "name": "Einundzwanzig Backnang",
+    "latLng": [
+      48.946389,
+      9.430556
+    ],
+    "url": "https://t.me/einundzwanzigBacknang",
+    "city": "Backnang",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-backnang",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Bad Iburg",
     "latLng": [
       51.8260823,
@@ -3534,7 +3549,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 2856,
+      "start": "2026-02-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/2856",
+      "location": "Bar21",
+      "description": "Kein Thema",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4248,6 +4273,21 @@
     "url": "https://t.me/huszonegy",
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budapest-teszt-meetup",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Miskolc Bitcoin Meetup",
+    "latLng": [
+      48.103064,
+      20.790043
+    ],
+    "url": null,
+    "city": "Miskolc",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/miskolc-bitcoin-meetup",
     "twitter": null,
     "event": null,
     "style": {
