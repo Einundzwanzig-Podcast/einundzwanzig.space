@@ -339,7 +339,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 2861,
+      "start": "2026-02-17T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/2861",
+      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
+      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -449,6 +459,31 @@
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "c8db290e865f13f8aeeb1dd134dc2137bf7b15d9925312ef66329ec1fd30594c"
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "BitcoinWalk Hannover",
+    "latLng": [
+      52.375893,
+      9.73201
+    ],
+    "url": "https://t.me/+fLF5nZz73Xs1NmFk",
+    "city": "Hannover",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
+    "twitter": null,
+    "event": {
+      "id": 2866,
+      "start": "2026-02-07T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2866",
+      "location": "Siehe Gruppe",
+      "description": "Der BitcoinWalk ist ein Spaziergang, der alle zwei Wochen samstags in Hannover stattfindet. Hier treffen sich Bitcoin-Enthusiasten, um sich bei echten Gesprächen auszutauschen.\nDie Spaziergänge sind eine Einladung, den Bildschirm mal beiseitezulegen, sich zu bewegen, neue Menschen aus der Bitcoin-Community kennenzulernen – und, wenn man gerade erst einsteigt, auch etwas über Bitcoin zu lernen.\n\nOrt und Zeit: Siehe Homepage bzw. Telegram Gruppe oder Nostr Chat",
+      "link": "https://bitcoinwalk.org/hannover/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -870,14 +905,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 2295,
-      "start": "2026-01-29T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2295",
+      "id": 2296,
+      "start": "2026-02-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2296",
       "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
       "description": "Bahnhofspl. 13, 28195 Bremen, Deutschland",
       "link": "http://restaurant-uebersee.de/",
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "9e510cfdf8a0996c1ded210deb42d197c2baa655ecf0610c135601c842bcf6cb"
     },
     "style": {
@@ -1324,17 +1359,7 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": {
-      "id": 2720,
-      "start": "2026-01-29T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/2720",
-      "location": "Absinth Bar, Schanzenstraße 99 20357 Hamburg",
-      "description": "Einundzwanzig Meetup",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "a0f66c62339f9162d6553864b5f0b3af6cddd51c966b1178322159ee605212d6"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1364,7 +1389,17 @@
     "city": "Hannover",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2888,
+      "start": "2026-02-22T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2888",
+      "location": "Haltenhoffstr. 50, 30167 Hannover",
+      "description": "Bitcoin entdecken - Informationstag\nSonntag, 22.02.2026, 12:21 - 21:21 Uhr\nHaltenhoffstr. 50, 30167 Hannover\n\nEs erwartet dich ein informatives Programm mit inspirierenden Vorträgen sowie verschiedene Räume voller faszinierender Eindrücke und Anregungen. Der Eintritt ist kostenlos und ohne Anmeldung möglich. \n\nEntdecke mit uns:\n+ welche Eigenschaften die steigende Nachfrage begründen\n+ welche Nutzen Bitcoin dir bieten kann\n+ worauf bei Erwerb und Verwahrung zu achten ist\n+ wieso Bitcoin in Zukunft weltweit eine immer wichtigere Rolle spielen wird und Vieles mehr\n\nNutze die Gelegenheit und begib dich auf eine Entdeckungsreise durch den Bitcoin-Kaninchenbau! \n\nDer Informationstag bietet keine Finanz- oder Steuerberatung und keine Anlageempfehlung. ",
+      "link": "https://gesundes-geld.info",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1589,9 +1624,9 @@
       "start": "2026-02-06T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2847",
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten (Allgäu)",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. \n\nFreut euch diesmal wieder auf einen besonderen Gast. Infos folgen.\n",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. \n\nFreut euch diesmal auf einen tollen Vortrag zum Thema \"Bitcoin im Unternehmen\". Dazu besucht uns ein Mitarbeiter von Coinfinity. Neben Unternehmern sind auch Einsteiger und erfahrene Bitcoiner aufgefordert teilzunehmen und ihre Fragen mitzubringen. Wann hat man schon mal die Möglichkeit, live einem Bitcoin-only-Pionier fragen zu stellen?\n",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1925,12 +1960,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
     "twitter": null,
     "event": {
-      "id": 2851,
+      "id": 2862,
       "start": "2026-02-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2851",
-      "location": "NEUE LOCATION WIRD BALD PREIS GEGEBEN",
-      "description": "Bisher haben wir \"spontane\" Meetups organisiert, sind aber derzeit dabei einige Locations für einen regelmäßige Treffen zu organisieren. Sobald dies erledigt ist, wird hier aktualisiert. \n\nFreut euch aber gerne schon auf ein Meetup im Februar 2026. ",
-      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2862",
+      "location": "Hammerwirt Adresse: Hammer 2, 84453 Mühldorf am Inn",
+      "description": "DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nJeden 3ten Freitag im Monat um 18 Uhr im Stüberl des Hammerwirts sowie im Biergarten im Sommer \nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
+      "link": "https://www.hammerwirt.de/gastronomie/#stueberl",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -1956,7 +1991,7 @@
       "location": "Erphostraße 2, 48145 Münster, https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": "https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": "0f6f14b66113968df9bbd1865be8429e51a5a19455fe18b526c9441d2baed575"
     },
@@ -2374,17 +2409,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "id": 2850,
-      "start": "2026-01-29T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/2850",
-      "location": "Kalyva - Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": "Einundzwanzig Meetup",
-      "link": "https://kalyva.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "0ead085c40858d53b3bd4ea5ab55ba3715f7f447953fc19304d23968bc135f36"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2459,9 +2484,9 @@
       "start": "2026-02-12T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2773",
       "location": "Hilpoltstein",
-      "description": "Genaueres wird noch bekannt gegeben.",
-      "link": "https://gesundes-geld.net/",
-      "attendees": 0,
+      "description": "Wir treffen uns im SHEPHERDS im Fürstenhof in Hilpoltstein. Da waren wir auch schon im Sommer in schönen Biergarten an der Stadtmauer.",
+      "link": "https://www.shepherds-food.de/",
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2999,17 +3024,7 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": {
-      "id": 2858,
-      "start": "2026-01-29T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath/event/2858",
-      "location": "Heinsberg / Waldenrath",
-      "description": "Ein gemütlicher Stammtisch in der Dorfkneipe. Start ab 18:21 Uhr.",
-      "link": "https://gaststaette-feltmann.de/",
-      "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3556,7 +3571,7 @@
       "location": "Bar21",
       "description": "Kein Thema",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
