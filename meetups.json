@@ -1864,17 +1864,7 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": {
-      "id": 2854,
-      "start": "2026-01-28T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/2854",
-      "location": "Café Beethoven, Eingang Beethovenstr. 38, 40233 Düsseldorf",
-      "description": "Meetup für alle mit guten Vibes und Spass an Bitcoin.\nAnfänger sind Willkommen. Kein reiner tech. Talk, sondern ehr rheinischer Talk ;-)\nKeine Sorge Experten sind auch da um alle Fragen zu beantworten. Keine Finanzberatung, keine Kryptos! Bitcoin only.",
-      "link": "https://beethoven-flingern.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3009,7 +2999,17 @@
     "city": "Heinsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2858,
+      "start": "2026-01-29T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-waldenrath/event/2858",
+      "location": "Heinsberg / Waldenrath",
+      "description": "Ein gemütlicher Stammtisch in der Dorfkneipe. Start ab 18:21 Uhr.",
+      "link": "https://gaststaette-feltmann.de/",
+      "attendees": 0,
+      "might_attendees": 1,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3644,7 +3644,17 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "id": 2857,
+      "start": "2026-02-20T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/2857",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 20.02.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "link": "https://www.bonami-freilassing.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4275,6 +4285,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budapest-teszt-meetup",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "HUSZONEGY Bitcoin meetup",
+    "latLng": [
+      47.4925,
+      19.051389
+    ],
+    "url": "https://t.me/huszonegy",
+    "city": "Budapest",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/huszonegy-bitcoin-meetup",
+    "twitter": "HUSZONEGYworld",
+    "event": {
+      "id": 2860,
+      "start": "2026-02-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/huszonegy-bitcoin-meetup/event/2860",
+      "location": "Perspective Bar 1072 Bp. Klauzál u. 26-28.",
+      "description": "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.\n\nIdőpont: 2026. február 26. (csütörtök), 18:00\nHelyszín: Perspective Bar 1072 Bp. Klauzál u. 26-28.\n\nTervezett program:\n18:00 Érkezés\n18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi\n18:30 Bemutatkozó kör – akinek van kedve\n19:00 Ginger tárca és coinjoin bemutató – Molnár Dávid (Ginger Wallet)\n20:00 Kötetlen beszélgetés\n\nRegisztráció:\nA szervezés megkönnyítése érdekében kérünk, regisztrálj az alábbi űrlap kitöltésével: bitcoinmentor.hu/meetup\n\nA program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.\n\nA részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
+      "link": "https://bitcoinmentor.hu/meetup",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
