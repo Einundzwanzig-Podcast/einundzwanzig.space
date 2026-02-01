@@ -450,15 +450,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2667,
-      "start": "2026-01-31T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2667",
+      "id": 2668,
+      "start": "2026-02-07T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2668",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "c8db290e865f13f8aeeb1dd134dc2137bf7b15d9925312ef66329ec1fd30594c"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -499,17 +499,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": {
-      "id": 2844,
-      "start": "2026-01-31T10:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/2844",
-      "location": "Frankoniabrunnen am Residenzplatz, 97070 Würzburg",
-      "description": "BitcoinWalk Würzburg\nTreffpunkt: Frankoniabrunnen am Residenzplatz, 97070 Würzburg\n31.1.26 um 11:30 Uhr\nSee you on SATurday!",
-      "link": "https://bitcoinwalk.org/wuerzburg/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "58b88cc6865688d170bce056a9ad0390e6be4b4e785dc3018b925f0394b1cc25"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1956,7 +1946,7 @@
       "location": "Hammerwirt Adresse: Hammer 2, 84453 Mühldorf am Inn",
       "description": "DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nJeden 3ten Freitag im Monat um 18 Uhr im Stüberl des Hammerwirts sowie im Biergarten im Sommer \nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
       "link": "https://www.hammerwirt.de/gastronomie/#stueberl",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2476,7 +2466,7 @@
       "location": "Hilpoltstein",
       "description": "Wir treffen uns im SHEPHERDS im Fürstenhof in Hilpoltstein. Da waren wir auch schon im Sommer in schönen Biergarten an der Stadtmauer.",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
