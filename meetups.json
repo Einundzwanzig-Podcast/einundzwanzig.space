@@ -115,14 +115,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "id": 2423,
-      "start": "2026-02-01T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2423",
+      "id": 2424,
+      "start": "2026-03-01T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2424",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
     "style": {
@@ -368,9 +368,9 @@
       "id": 2811,
       "start": "2026-02-04T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2811",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://www.meetup.com/bitcoin-munich/events/306786226/",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Kleines Brauhaus Dicker Mann",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Mittwoch, 04. Februar 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~935.047\n\nOrt diesmal: Kleines Brauhaus Dicker Mann, Ramersdorf, Heinrich-Wieland-Straße 11, 81671 München",
+      "link": "https://luma.com/cz9z1c98",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -1189,7 +1189,17 @@
     "city": "Freiburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2889,
+      "start": "2026-02-26T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg/event/2889",
+      "location": "Martinsbräu Freiburg ",
+      "description": "Alle Infos zum Bitcoin Event am 26. Februar 🚀\n\nWir treffen uns im Martinsbräu zum lockeren Austausch – mit Thementischen rund um Bitcoin, Freiheit & Unternehmertum. Setz dich einfach an den Tisch, der dich am meisten interessiert: Fragen stellen, lernen, diskutieren, netzwerken. Wenn du ins Martinsbräu kommst, frag einfach nach dem Bitcoin Tisch und du wirst zu uns gebracht.\n\n🎁 Bonus: Ich bringe wieder Bitcoin Blinks von Coinfinity mit – ein Bitcoin Buch, das dir Bitcoin super leicht verständlich macht.\n\n⭐️ Highlight im Martinsbräu: Leo Mattes spricht an einem Tisch über Praxeologie – die Wissenschaft des menschlichen Handelns und ein starkes Fundament, um Ökonomie und Bitcoin wirklich zu verstehen.\n\nAb 19:00 Uhr wechseln wir ins Kolbenkaffee: Dort hält Leo einen Vortrag über Bitcoin Mining. Mining verbindet Bitcoin mit der realen Welt – und räumt mit Mythen auf wie „Stromverschwendung“ oder „schlecht für die Umwelt“. Danach bleibt viel Zeit für Q&A und Networking.\n\nUnd keine Sorge: Heute wird nicht nur das Bitcoin-Netzwerk stärker – sondern auch eures. 😉",
+      "link": "https://t.me/Einundzwanzig_Freiburg",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1606,7 +1616,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten (Allgäu)",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. \n\nFreut euch diesmal auf einen tollen Vortrag zum Thema \"Bitcoin im Unternehmen\". Dazu besucht uns ein Mitarbeiter von Coinfinity. Neben Unternehmern sind auch Einsteiger und erfahrene Bitcoiner aufgefordert teilzunehmen und ihre Fragen mitzubringen. Wann hat man schon mal die Möglichkeit, live einem Bitcoin-only-Pionier fragen zu stellen?\n",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2139,7 +2149,17 @@
     "city": "Oldenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2891,
+      "start": "2026-02-06T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/2891",
+      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
+      "description": "Los geht es ab 18 Uhr. Jeder ist willkommen bei unserem Bitcoin only Meetup in der Kleinen Burg.",
+      "link": "https://www.kleineburg-ol.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
