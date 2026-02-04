@@ -540,11 +540,21 @@
       51.23632,
       7.159921
     ],
-    "url": "https://app.cluborange.org/SG9Bg4zO",
+    "url": "https://orangelounge.io/",
     "city": "Wuppertal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2894,
+      "start": "2026-02-27T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup/event/2894",
+      "location": "Lise-Meitner-Straße 1-3, 42119 Wuppertal, Germany",
+      "description": "Egal ob Einsteiger oder Bitcoin-OG – jeder ist willkommen. 🧡\n\nWer mehr über Bitcoin erfahren, darüber sprechen und Gleichgesinnte treffen möchte, ist herzlich eingeladen.",
+      "link": "https://orangelounge.io/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -969,17 +979,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 2846,
-      "start": "2026-02-03T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/2846",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1156,7 +1156,7 @@
       "location": "Nürnberg tbd ⚡️",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
       "link": "https://dornauers.de/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1954,7 +1954,7 @@
       "start": "2026-02-20T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2862",
       "location": "Hammerwirt Adresse: Hammer 2, 84453 Mühldorf am Inn",
-      "description": "DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nJeden 3ten Freitag im Monat um 18 Uhr im Stüberl des Hammerwirts sowie im Biergarten im Sommer \nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
+      "description": "*Bitcoin Fundamentals Grundlagenkurs* + DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nJeden 3ten Freitag im Monat um 18 Uhr im Stüberl des Hammerwirts sowie im Biergarten im Sommer \nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
       "link": "https://www.hammerwirt.de/gastronomie/#stueberl",
       "attendees": 1,
       "might_attendees": 0,
@@ -1982,7 +1982,7 @@
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": "https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
       "attendees": 1,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "0f6f14b66113968df9bbd1865be8429e51a5a19455fe18b526c9441d2baed575"
     },
     "style": {
