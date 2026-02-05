@@ -365,14 +365,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 2811,
-      "start": "2026-02-04T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2811",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Kleines Brauhaus Dicker Mann",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Mittwoch, 04. Februar 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~935.047\n\nOrt diesmal: Kleines Brauhaus Dicker Mann, Ramersdorf, Heinrich-Wieland-Straße 11, 81671 München",
-      "link": "https://luma.com/cz9z1c98",
+      "id": 2890,
+      "start": "2026-03-04T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2890",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://luma.com/sr7c8x54",
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -1616,7 +1616,7 @@
       "location": "Alte Schmiede, Memminger Str. 68, 87439 Kempten (Allgäu)",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong. \n\nFreut euch diesmal auf einen tollen Vortrag zum Thema \"Bitcoin im Unternehmen\". Dazu besucht uns ein Mitarbeiter von Coinfinity. Neben Unternehmern sind auch Einsteiger und erfahrene Bitcoiner aufgefordert teilzunehmen und ihre Fragen mitzubringen. Wann hat man schon mal die Möglichkeit, live einem Bitcoin-only-Pionier fragen zu stellen?\n",
       "link": "https://www.schmiede-kempten.de",
-      "attendees": 8,
+      "attendees": 10,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1694,7 +1694,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 2895,
+      "start": "2026-02-25T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2895",
+      "location": "Landau in der Pfalz",
+      "description": "Wechselnde Locations - Details in den Gruppen.",
+      "link": "https://t.me/einundzwanzigld",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1829,7 +1839,17 @@
     "city": "Mannheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
-    "event": null,
+    "event": {
+      "id": 2896,
+      "start": "2026-02-20T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2896",
+      "location": "wechselnde Locations",
+      "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
+      "link": "https://t.me/Einundzwanzig_MANNHEIM",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4359,17 +4379,7 @@
     "city": "Liechtenstein",
     "portalUrl": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein",
     "twitter": null,
-    "event": {
-      "id": 2834,
-      "start": "2026-02-04T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/li/meetup/einundzwanzig-liechtenstein/event/2834",
-      "location": "Restaurant Tang, Dorfstrasse 29, 9491 Ruggell",
-      "description": "Liebe Bitcoin-Enthusiasten und Freunde der dezentralen Revolution\n\nEs ist endlich wieder soweit! Nach viel zu langer Zeit möchte ich euch herzlich zum nächsten Einundzwanzig Bitcoin Meetup Liechtenstein einladen. Gemeinsam tauchen wir ein in die neuesten technologischen Entwicklungen, teilen spannenden Gossip und diskutieren über die aktuellsten Geschehnisse im Bitcoin-Space.\n\nPhilipp",
-      "link": "https://www.meetup.com/de-de/einundzwanzig-meetup-liechtenstein/events/312896175/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
