@@ -542,5 +542,19 @@
       "customKey": "696969",
       "customValue": "8"
     }
+  },
+  "DrShift": {
+    "name": "DrShift",
+    "twitter": "DrShift3",
+    "nostr": "npub17c2szua46mc8ndp4grvy4z5465x0qxjge8tqx7vyu0vkqr24y2hssuuy6f",
+    "github": "DoktorShift",
+    "text": "Spreading light - [DrShift.dev](https://drshift.dev)",
+    "image": "/img/participants/drshift.jpg",
+    "v4v": {
+      "address": "023d9c506d636d6fb215c3995609447fa2e7b136550884596f8d8cbfbff23b2479"
+    },
+    "aliases": [
+      "DrShift"
+    ]
   }
 }
