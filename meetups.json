@@ -2334,7 +2334,17 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2915,
+      "start": "2026-02-19T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/2915",
+      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern",
+      "description": "Da die Pfälzer dieses Portal anscheinend ignorieren, tragen die Saarländer, wenn sie mal wieder deren Meetup übernehmen, dieses hier ein als Geschichtszeugnis.\n",
+      "link": "https://t.me/einundzwanzigPfalz",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2654,7 +2664,17 @@
     "city": "Saarland",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland",
     "twitter": "einundzwanzigSL",
-    "event": null,
+    "event": {
+      "id": 2914,
+      "start": "2026-02-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarland/event/2914",
+      "location": "Bruder Jakob, St. Wendel",
+      "description": "Wie immer starten wir mit Burger und dann gehts weiter ins Irish Pub.\nDa die Plätze im Bruder Jakob begrenzt sind, bitte vorher in der Signal Gruppe anmelden. Oder gegen 20 Uhr im Irish Pub dazustoßen. ",
+      "link": "https://maps.app.goo.gl/eXyzSMM4wuZrsXtf6",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4634,6 +4654,21 @@
     "city": "Levice",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-levice",
     "twitter": "webiumsk",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Zvolen",
+    "latLng": [
+      48.570556,
+      19.1175
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Zvolen",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-zvolen",
+    "twitter": "https://x.com/Dvadsatjeden",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
