@@ -450,9 +450,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2668,
-      "start": "2026-02-07T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2668",
+      "id": 2669,
+      "start": "2026-02-14T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2669",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -475,9 +475,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2866,
-      "start": "2026-02-07T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2866",
+      "id": 2877,
+      "start": "2026-02-21T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2877",
       "location": "Siehe Gruppe",
       "description": "Der BitcoinWalk ist ein Spaziergang, der alle zwei Wochen samstags in Hannover stattfindet. Hier treffen sich Bitcoin-Enthusiasten, um sich bei echten Gesprächen auszutauschen.\nDie Spaziergänge sind eine Einladung, den Bildschirm mal beiseitezulegen, sich zu bewegen, neue Menschen aus der Bitcoin-Community kennenzulernen – und, wenn man gerade erst einsteigt, auch etwas über Bitcoin zu lernen.\n\nOrt und Zeit: Siehe Homepage bzw. Telegram Gruppe oder Nostr Chat",
       "link": "https://bitcoinwalk.org/hannover/",
@@ -2015,14 +2015,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "id": 2598,
-      "start": "2026-02-07T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2598",
-      "location": "Erphostraße 2, 48145 Münster, https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
+      "id": 2599,
+      "start": "2026-03-07T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2599",
+      "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
-      "link": "https://maps.app.goo.gl/rCR74Tkv3UDEJ8se8",
-      "attendees": 1,
-      "might_attendees": 1,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": "0f6f14b66113968df9bbd1865be8429e51a5a19455fe18b526c9441d2baed575"
     },
     "style": {
@@ -4609,7 +4609,17 @@
     "city": "Banská bystrica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": null,
+    "event": {
+      "id": 2916,
+      "start": "2026-02-25T21:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica/event/2916",
+      "location": "U Francúza – Jazz Klub, Horná 65/12, 974 01 Banská Bystrica, Slovensko",
+      "description": "Anarchokapitalizmus je myšlienkový smer, ktorého základným prvkom je dobrovoľnosť konania. Vychádza z rakúskej ekonomickej školy a praxeológiou dokazuje, že dobrovoľné interakcie medzi ľuďmi sú oveľa efektívnejšie, ako štátne regulácie. Počas prednášky si povieme základné prvky anarchokapitalizmu a môžeme si aj modelovať, ako by niektoré segmenty riešil trh, ak by nebol v štátnej správe. Napríklad zdravotníctvo, či financie.\n\nŠpeciálny hosť: Vlastimil Švec",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/banska-bystrica-anarchokapitalizmus-prejav-odvahy-alebo-utopia/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4624,7 +4634,42 @@
     "city": "Levice",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-levice",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": null,
+    "event": {
+      "id": 2917,
+      "start": "2026-02-26T21:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-levice/event/2917",
+      "location": "Dosýta Burger & Beer, Ľudovíta Štúra 5, Levice, Slovakia",
+      "description": "Tentokrát privítame rečníka až Bratislavy. Cotsoor nám porozpráva o aplikácii vexl z dielne SatoshiLabs (o.i. vyrábajú aj Trezor) a pobavíme  sa o návrate k peer-to-peer obchodovaniu - možnostiach, úskaliach, výhodách. Vstup je voľný a každý je vítaný",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/levice-vexl-p2p/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Nitra",
+    "latLng": [
+      48.3069,
+      18.0864
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Nitra",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-nitra",
+    "twitter": "https://x.com/Dvadsatjeden",
+    "event": {
+      "id": 2918,
+      "start": "2026-02-27T21:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-nitra/event/2918",
+      "location": "Jazz caffe, Radlinského 110/13, 949 01 Nitra, Slovensko",
+      "description": "KRYPTOPIVO NITRA\nPozývame vás na ďalšie neformálne stretnutie BitcoinPivo Nitra\n🗓️ 27. február.2026 (piatok) o 18:00\n📍 Jazz Caffe, Radlinského 110/13, Nitra\nZastaviť sa môžete kedykoľvek, posedíme do cca 21:00.\n🪙 Vstupné: zadarmo\n🅿️ Parkovanie: možné na ulici Fraňa Mojtu, prípadne ďalšie možnosti nájdete tu:\nhttps://nitra.sk/parkovanie/\nPozvaný je každý, koho zaujíma:\n₿ Bitcoin, kryptomeny, ťažba (mining), úschova, nákup a predaj, bezpečnosť, sloboda, svetové trhy. Cieľom je budovať komunitu a pravidelne sa stretávať pri spoločných témach. V prípade otázok ma neváhajte kontaktovať:\n✉️ 21(zavináč)tomas(bodka)8shield.net\nTešíme sa na vás!\n🍻 Bitcoin & Pivo = ideálna kombinácia!",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/bitcoin-pivo-nitra/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
