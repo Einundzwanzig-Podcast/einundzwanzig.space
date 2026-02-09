@@ -440,6 +440,31 @@
     }
   },
   {
+    "name": "Bitcoin entdecken Hannover",
+    "latLng": [
+      52.375893,
+      9.73201
+    ],
+    "url": "https://t.me/+RSXEIZ_xoq1lNDM6",
+    "city": "Hannover",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-entdecken-hannover",
+    "twitter": null,
+    "event": {
+      "id": 2919,
+      "start": "2026-02-22T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-entdecken-hannover/event/2919",
+      "location": "Haltenhoffstr. 50, 30167 Hannover",
+      "description": "Bitcoin entdecken - Informationstag\nSonntag, 22.02.2026, 12:21 - 21:21 Uhr Haltenhoffstr. 50, 30167 Hannover Es erwartet dich ein informatives Programm mit inspirierenden Vorträgen sowie verschiedene Räume voller faszinierender Eindrücke und Anregungen. Der Eintritt ist kostenlos und ohne Anmeldung möglich. Entdecke mit uns: + welche Eigenschaften die steigende Nachfrage begründen + welche Nutzen Bitcoin dir bieten kann + worauf bei Erwerb und Verwahrung zu achten ist + wieso Bitcoin in Zukunft weltweit eine immer wichtigere Rolle spielen wird und Vieles mehr Nutze die Gelegenheit und begib dich auf eine Entdeckungsreise durch den Bitcoin-Kaninchenbau! Der Informationstag bietet keine Finanz- oder Steuerberatung und keine Anlageempfehlung.",
+      "link": "https://einundzwanzig.space/gesundes-geld/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "BitcoinWalk Hamburg",
     "latLng": [
       53.551086,
@@ -1176,7 +1201,7 @@
       "location": "Nürnberg tbd ⚡️",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
       "link": "https://dornauers.de/",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1400,12 +1425,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "id": 2888,
-      "start": "2026-02-22T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2888",
+      "id": 2920,
+      "start": "2026-02-25T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2920",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
-      "description": "Bitcoin entdecken - Informationstag\nSonntag, 22.02.2026, 12:21 - 21:21 Uhr\nHaltenhoffstr. 50, 30167 Hannover\n\nEs erwartet dich ein informatives Programm mit inspirierenden Vorträgen sowie verschiedene Räume voller faszinierender Eindrücke und Anregungen. Der Eintritt ist kostenlos und ohne Anmeldung möglich. \n\nEntdecke mit uns:\n+ welche Eigenschaften die steigende Nachfrage begründen\n+ welche Nutzen Bitcoin dir bieten kann\n+ worauf bei Erwerb und Verwahrung zu achten ist\n+ wieso Bitcoin in Zukunft weltweit eine immer wichtigere Rolle spielen wird und Vieles mehr\n\nNutze die Gelegenheit und begib dich auf eine Entdeckungsreise durch den Bitcoin-Kaninchenbau! \n\nDer Informationstag bietet keine Finanz- oder Steuerberatung und keine Anlageempfehlung. ",
-      "link": "https://gesundes-geld.info",
+      "description": "Öffentliches Treffen mit Vorträgen zu ₿itcoin und verwandten Themen. Immer am \"₿ittwoch\" zum Ende jeden Monats. Schaue gerne in die Telegram Gruppe oder komme spontan vorbei. Die Treffen dauern oftmals bis spät in die Nacht. \nJeder ist Willkommen. Alle Fragen dürfen gestellt werden. https://t.me/+RSXEIZ_xoq1lNDM6",
+      "link": "https://t.me/+RSXEIZ_xoq1lNDM6",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -2536,7 +2561,7 @@
       "location": "Hilpoltstein",
       "description": "Wir treffen uns im SHEPHERDS im Fürstenhof in Hilpoltstein. Da waren wir auch schon im Sommer in schönen Biergarten an der Stadtmauer.",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },
