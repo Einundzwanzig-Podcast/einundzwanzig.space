@@ -84,6 +84,31 @@
     "city": "Aschaffenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
+    "event": {
+      "id": 2979,
+      "start": "2026-03-12T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2979",
+      "location": "Mainaschaff",
+      "description": "Mainhatten\n\nAktuell wird noch nach einem anderen Ort fürs Meetup ausschau gehalten. Sollte sich etwas ändern gibt's die Info in Telegram und auch hier.",
+      "link": "https://t.me/einundzwanzig_aschaffenburg",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Aschebersch",
+    "latLng": [
+      49.973019,
+      9.14901
+    ],
+    "url": "https://t.me/einundzwanzig_aschaffenburg",
+    "city": "Aschaffenburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschebersch",
+    "twitter": "https://x.com/21Aschaffenburg",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1201,7 +1226,7 @@
       "location": "Nürnberg tbd ⚡️",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
       "link": "https://dornauers.de/",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1464,7 +1489,17 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": null,
+    "event": {
+      "id": 2990,
+      "start": "2026-02-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2990",
+      "location": "Volksgarten Heilbronn",
+      "description": "GM, wie immer 3. Samstag im Monat findet unser Meetup im Volksgarten statt.\nBezahlung in Sats ist möglich :)",
+      "link": "https://www.volksgarten.hn/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2284,17 +2319,7 @@
     "city": "Altlandsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
-    "event": {
-      "id": 2081,
-      "start": "2026-02-09T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/2081",
-      "location": "An d. Mühle 40, 15345 Altlandsberg",
-      "description": "Das Einundzwanzig Ost-Brandenburg Meetup findet monatlich im Restaurant zur Mühle im schönen Altlandsberg (15345) an jedem 2ten Montag statt. Wir haben einen Tisch reserviert. Platz für mehr ist genug da, meldet euch einfach vorher an. Jeder der an Bitcoin und anderen \"kontroversen\" Themen interessiert ist, ist herzlich eingeladen. Schaut auch in unser Telegram Gruppe vorbei für aktuelle Informationen manchmal ist die Mühle voll und wir müssen ausweichen. GM ",
-      "link": "https://maps.app.goo.gl/P1sqPvQiAT1tNNkTA",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "5eb98d9cf9cb523a75cecf599c1eb6a1f85eb2d747234ca4e4e07b41f0e55394"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2561,7 +2586,7 @@
       "location": "Hilpoltstein",
       "description": "Wir treffen uns im SHEPHERDS im Fürstenhof in Hilpoltstein. Da waren wir auch schon im Sommer in schönen Biergarten an der Stadtmauer.",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 0,
       "nostr_note": ""
     },
