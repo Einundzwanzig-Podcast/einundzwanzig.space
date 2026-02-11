@@ -1749,7 +1749,17 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2993,
+      "start": "2026-02-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/2993",
+      "location": "Markthalle Körnerstraße",
+      "description": "Bitcoin Meetup",
+      "link": "https://t.me/einundzwanzig_koeln/21972",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3206,7 +3216,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4656,7 +4666,7 @@
       19.156944
     ],
     "url": "https://www.dvadsatjeden.org",
-    "city": "Banská bystrica",
+    "city": "Banská Bystrica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
     "twitter": "https://x.com/Dvadsatjeden",
     "event": {
@@ -4666,6 +4676,31 @@
       "location": "U Francúza – Jazz Klub, Horná 65/12, 974 01 Banská Bystrica, Slovensko",
       "description": "Anarchokapitalizmus je myšlienkový smer, ktorého základným prvkom je dobrovoľnosť konania. Vychádza z rakúskej ekonomickej školy a praxeológiou dokazuje, že dobrovoľné interakcie medzi ľuďmi sú oveľa efektívnejšie, ako štátne regulácie. Počas prednášky si povieme základné prvky anarchokapitalizmu a môžeme si aj modelovať, ako by niektoré segmenty riešil trh, ak by nebol v štátnej správe. Napríklad zdravotníctvo, či financie.\n\nŠpeciálny hosť: Vlastimil Švec",
       "link": "https://prevadzky.dvadsatjeden.org/listing/banska-bystrica-anarchokapitalizmus-prejav-odvahy-alebo-utopia/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Banská Štiavnica",
+    "latLng": [
+      48.4589,
+      18.8922
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Banská Štiavnica",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-stiavnica",
+    "twitter": "https://x.com/Dvadsatjeden",
+    "event": {
+      "id": 2991,
+      "start": "2026-02-19T22:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-stiavnica/event/2991",
+      "location": "ArtCafe, Akademická 2, Banská Štiavnica, Banskobystrický kraj, Slovensko",
+      "description": "Pozývame vás na tradičné Bitcoin pivo tentokrát si budete môcť zaspomínať a zahrať retro pingpong  v novom šate pingSATOSHIpong  ...  Hra sa hrá za LN mikroplatby ... aby sme z cviku nevyšli ... ,)\n\n19.februára 2026 v Art Cafe, Akademická 2, Banská Štiavnica",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/banska-stiavnica-bitcoin-pivo-3/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
