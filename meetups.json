@@ -187,7 +187,7 @@
       "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1089,7 +1089,17 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "id": 2995,
+      "start": "2026-03-06T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/2995",
+      "location": "Reisbach 94419",
+      "description": "Am Freitag 6. März ab 18:30 findet der 14. Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Geierbräu statt",
+      "link": "https://t.me/einundzwanzig_dgf",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1223,11 +1233,11 @@
       "id": 2816,
       "start": "2026-02-28T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2816",
-      "location": "Nürnberg tbd ⚡️",
-      "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️",
-      "link": "https://dornauers.de/",
-      "attendees": 4,
-      "might_attendees": 0,
+      "location": "Nürnberg, Dornauers Lebküchnerei und Chocolaterie im Handwerkerhof ⚡️ ",
+      "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️\nHandwerkerhof\nKönigstraße 82\n90402 Nürnberg\n(Lightning Zahlung möglich)",
+      "link": "https://share.google/DVJPgT2ozXhbpCddM",
+      "attendees": 8,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1689,7 +1699,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 2997,
+      "start": "2026-03-04T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/2997",
+      "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
+      "description": "Herzlich willkommen beim Bitcoin-Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop Thema: Sicher im Netz. Worauf müssen Bitcoiner achten.\n\n\nBis dahin…. Plebs together strong.",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2711,7 +2731,7 @@
       "location": "Bruder Jakob, St. Wendel",
       "description": "Wie immer starten wir mit Burger und dann gehts weiter ins Irish Pub.\nDa die Plätze im Bruder Jakob begrenzt sind, bitte vorher in der Signal Gruppe anmelden. Oder gegen 20 Uhr im Irish Pub dazustoßen. ",
       "link": "https://maps.app.goo.gl/eXyzSMM4wuZrsXtf6",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4425,26 +4445,16 @@
     }
   },
   {
-    "name": "HUSZONEGY Bitcoin meetup",
+    "name": "Győr Bitcoin meetup",
     "latLng": [
-      47.4925,
-      19.051389
+      47.683503,
+      17.634283
     ],
-    "url": "https://t.me/huszonegy",
-    "city": "Budapest",
-    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/huszonegy-bitcoin-meetup",
-    "twitter": "HUSZONEGYworld",
-    "event": {
-      "id": 2860,
-      "start": "2026-02-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/huszonegy-bitcoin-meetup/event/2860",
-      "location": "Perspective Bar 1072 Bp. Klauzál u. 26-28.",
-      "description": "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.\n\nIdőpont: 2026. február 26. (csütörtök), 18:00\nHelyszín: Perspective Bar 1072 Bp. Klauzál u. 26-28.\n\nTervezett program:\n18:00 Érkezés\n18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi\n18:30 Bemutatkozó kör – akinek van kedve\n19:00 Ginger tárca és coinjoin bemutató – Molnár Dávid (Ginger Wallet)\n20:00 Kötetlen beszélgetés\n\nRegisztráció:\nA szervezés megkönnyítése érdekében kérünk, regisztrálj az alábbi űrlap kitöltésével: bitcoinmentor.hu/meetup\n\nA program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.\n\nA részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
-      "link": "https://bitcoinmentor.hu/meetup",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "url": null,
+    "city": "Győr",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/gyor-bitcoin-meetup",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4460,6 +4470,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/miskolc-bitcoin-meetup",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Perspective Bar Bitcoin meetup",
+    "latLng": [
+      47.4925,
+      19.051389
+    ],
+    "url": "https://t.me/huszonegy",
+    "city": "Budapest",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup",
+    "twitter": "HUSZONEGYworld",
+    "event": {
+      "id": 2860,
+      "start": "2026-02-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup/event/2860",
+      "location": "Perspective Bar 1072 Bp. Klauzál u. 26-28.",
+      "description": "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.\n\nIdőpont: 2026. február 26. (csütörtök), 18:00\nHelyszín: Perspective Bar 1072 Bp. Klauzál u. 26-28.\n\nTervezett program:\n18:00 Érkezés\n18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi\n18:30 Bemutatkozó kör – akinek van kedve\n19:00 Ginger tárca és coinjoin bemutató – Molnár Dávid (Ginger Wallet)\n20:00 Kötetlen beszélgetés\n\nRegisztráció:\nA szervezés megkönnyítése érdekében kérünk, regisztrálj az alábbi űrlap kitöltésével: bitcoinmentor.hu/meetup\n\nA program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.\n\nA részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
+      "link": "https://bitcoinmentor.hu/meetup",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
