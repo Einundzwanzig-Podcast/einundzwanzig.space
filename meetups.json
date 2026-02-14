@@ -2009,17 +2009,7 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": {
-      "id": 2998,
-      "start": "2026-02-13T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/2998",
-      "location": "Birkenstraße 46, 40233 Düsseldorf",
-      "description": "Es wird Themen zu Bitcoin geben, Themen mit Bitcoin, Themen über Bitcoin und auch Themen zu Bitcoin Events und wenn Bitcoin nicht schon genug ist, dann kann man was Essen und über Bitcoin reden :-)",
-      "link": "https://www.schmalbauch.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2549,7 +2539,17 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 2999,
+      "start": "2026-02-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/2999",
+      "location": "Kalyva Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": ".",
+      "link": "https://kalyva.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2669,17 +2669,7 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": {
-      "id": 2902,
-      "start": "2026-02-13T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/2902",
-      "location": "Gasthaus Krone, Villingendorf ",
-      "description": "Bitte um Anmeldung in der Telegram Gruppe. Plätze sind auf 12 Personen begrenzt aufgrund einem eigenen Raum. Danke!",
-      "link": "https://maps.app.goo.gl/g7hkt2d6MwEJarka6",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3045,15 +3035,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2529,
-      "start": "2026-02-13T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2529",
+      "id": 2530,
+      "start": "2026-03-13T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2530",
       "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "ae6ab1f925591351e5089a69073b724b0198b49a772f7d15c12999cf9f48f6e1"
+      "nostr_note": "80840f4a2345deac0170214516b222e45348bbb67f78b07d8afcca480fb04ece"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3455,9 +3445,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
     "event": {
-      "id": 2842,
-      "start": "2026-02-13T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/2842",
+      "id": 2843,
+      "start": "2026-03-06T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/2843",
       "location": "Blauer Adler",
       "description": "Socialpleb`n",
       "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
@@ -3645,9 +3635,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "id": 2193,
-      "start": "2026-02-13T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2193",
+      "id": 2194,
+      "start": "2026-03-13T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2194",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
