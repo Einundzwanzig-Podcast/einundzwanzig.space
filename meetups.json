@@ -2689,17 +2689,7 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": {
-      "id": 2911,
-      "start": "2026-02-15T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/2911",
-      "location": "Kulturcafé",
-      "description": "Einundzwanzig Saarbrücken",
-      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4671,7 +4661,7 @@
       "location": "U Francúza – Jazz Klub, Horná 65/12, 974 01 Banská Bystrica, Slovensko",
       "description": "Anarchokapitalizmus je myšlienkový smer, ktorého základným prvkom je dobrovoľnosť konania. Vychádza z rakúskej ekonomickej školy a praxeológiou dokazuje, že dobrovoľné interakcie medzi ľuďmi sú oveľa efektívnejšie, ako štátne regulácie. Počas prednášky si povieme základné prvky anarchokapitalizmu a môžeme si aj modelovať, ako by niektoré segmenty riešil trh, ak by nebol v štátnej správe. Napríklad zdravotníctvo, či financie.\n\nŠpeciálny hosť: Vlastimil Švec",
       "link": "https://prevadzky.dvadsatjeden.org/listing/banska-bystrica-anarchokapitalizmus-prejav-odvahy-alebo-utopia/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4765,6 +4755,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-trencin",
     "twitter": "https://x.com/Dvadsatjeden",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Virtuálny MeetUp",
+    "latLng": [
+      48.685816,
+      19.5024876
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Valaská",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-virtualny-meetup",
+    "twitter": "https://x.com/Dvadsatjeden",
+    "event": {
+      "id": 3000,
+      "start": "2026-02-20T21:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-virtualny-meetup/event/3000",
+      "location": "MGP4+82 Valaská, Slovakia",
+      "description": "Na pripojenie stačí Android telefón/tablet, po novom aj iPhone alebo Windows PC, funguje aj steamdeck a linux na ktorom rozbehnete Windows hry cez steam (na PC s funkčným mikrofónom a sluchátkami je to asi najlepšíe xperience hned po VR headsete) mikrofón (ideálne zo sluchatkami), no ak máte VR headset a trackre tak je to samozrejme najlepší experience 😁. Ak idete cez mobil/tablet, odporúčam mať pripojenú nabíjačku\n\nAko sa pripojiť:\n1. Zaregistrujte sa na vrchat.com/home (treba email ku ktorému mate prístup, pýta to overovací kód pri prihlásení na inú platformu), nastavte si nick\n2. Stiahnite si aplikáciu VR chat (link na domovskej stránke podla platformy vrchat.com), prihláste sa\n3. Pridajte sa do skupiny a napíšte váš nick aby sme sa vedeli pridať na rovnaký VR svet\n\nhttps://signal.group/#CjQKIFTm5tQBh3f_dbajANofwysjBnaPS7AqhB2gpiXYWO3TEhDdFzlo3ViVZGLwFjXXQkOx\n\nmáme aj VRchat skupinu (zobrazí sa po prihlásení) https://vrc.group/21SK.4482\n\nAk si to chcete s niekým odskúšať napíšte do signal skupiny, určite sa niekto nájde 😉\n\nmajte na pamäti že je to online a ktokoľvek to môže nahrávať tak sa správajte rovnako ako vo verejných signál skupinách\n\nMobilnej verzii vadia niektoré VPN",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/virtualny-meetup-xvi/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
