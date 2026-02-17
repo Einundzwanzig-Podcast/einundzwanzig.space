@@ -1141,7 +1141,7 @@
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1697,7 +1697,7 @@
       "description": "Herzlich willkommen beim Bitcoin-Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop Thema: Sicher im Netz. Worauf müssen Bitcoiner achten.\n\n\nBis dahin…. Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
       "attendees": 1,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -2899,7 +2899,17 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3001,
+      "start": "2026-02-18T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/3001",
+      "location": "Prinzenstraße 2a, 42697 Solingen",
+      "description": "Binformed!\nInformationen für jeden mit und ohne Vorkenntnisse",
+      "link": "https://www.newforge.space/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
