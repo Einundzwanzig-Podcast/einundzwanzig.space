@@ -364,17 +364,7 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": {
-      "id": 2861,
-      "start": "2026-02-17T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/2861",
-      "location": "Rumbar Unity - 19053 Schwerin, Arsenalstraße 36",
-      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
-      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4705,6 +4695,31 @@
     }
   },
   {
+    "name": "21 Bratislava",
+    "latLng": [
+      48.1439,
+      17.1097
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Bratislava",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-bratislava",
+    "twitter": "https://x.com/Dvadsatjeden",
+    "event": {
+      "id": 3003,
+      "start": "2026-02-21T21:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-bratislava/event/3003",
+      "location": "ŠNYT Dulák, Dulovo námestie 5a, 821 08 Bratislava-Ružinov, Slovakia",
+      "description": "Prídite pokecať.\n\nPri kúpe vstupenky netreba dávať skutočný email, stačí \"heslo\" obsahujúce \"@\" . Žiaden mail vám aj tak nepríde. Vstupenky sú dostupné do 12:00 20.02.2026\n\nTešíme sa na vás!\n\nVítaní sú všetci!",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/ba-21-meetup-s-kvizom-a-k-a-%e2%82%bfivo-v-%e2%82%bflave-02-26/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "21 Levice",
     "latLng": [
       48.216389,
@@ -4746,6 +4761,31 @@
       "location": "Jazz caffe, Radlinského 110/13, 949 01 Nitra, Slovensko",
       "description": "KRYPTOPIVO NITRA\nPozývame vás na ďalšie neformálne stretnutie BitcoinPivo Nitra\n🗓️ 27. február.2026 (piatok) o 18:00\n📍 Jazz Caffe, Radlinského 110/13, Nitra\nZastaviť sa môžete kedykoľvek, posedíme do cca 21:00.\n🪙 Vstupné: zadarmo\n🅿️ Parkovanie: možné na ulici Fraňa Mojtu, prípadne ďalšie možnosti nájdete tu:\nhttps://nitra.sk/parkovanie/\nPozvaný je každý, koho zaujíma:\n₿ Bitcoin, kryptomeny, ťažba (mining), úschova, nákup a predaj, bezpečnosť, sloboda, svetové trhy. Cieľom je budovať komunitu a pravidelne sa stretávať pri spoločných témach. V prípade otázok ma neváhajte kontaktovať:\n✉️ 21(zavináč)tomas(bodka)8shield.net\nTešíme sa na vás!\n🍻 Bitcoin & Pivo = ideálna kombinácia!",
       "link": "https://prevadzky.dvadsatjeden.org/listing/bitcoin-pivo-nitra/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Partizánske",
+    "latLng": [
+      48.6253,
+      18.3725
+    ],
+    "url": "https://www.dvadsatjeden.org/",
+    "city": "Partizánske",
+    "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-partizanske",
+    "twitter": "https://x.com/Dvadsatjeden",
+    "event": {
+      "id": 3002,
+      "start": "2026-02-19T22:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-partizanske/event/3002",
+      "location": "Rudolfa Jašíka 158, Partizánske, Slovensko",
+      "description": "Bitcoin meetup: Oplatí sa ťažba v roku 2026?\n\nŤažba kryptomien sa neustále mení. Má dnes ešte zmysel? Aké sú náklady, riziká a príležitosti v aktuálnom trhu?\n\nNa meetupe sa pozrieme na realitu ťažby v roku 2026, aktuálne trendy v kryptomenách a budúcnosť miningu. Diskusia je otvorená pre začiatočníkov aj pokročilých.",
+      "link": "https://prevadzky.dvadsatjeden.org/listing/bitcoin-meetup-partizanske-2/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
