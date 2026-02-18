@@ -3584,7 +3584,17 @@
     "city": "Reutte",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3004,
+      "start": "2026-02-20T19:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3004",
+      "location": "Schmuri (Pianokeller Reutte)",
+      "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)",
+      "link": "https://maps.app.goo.gl/1Ls1KWDRDVA2XggZ8",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
