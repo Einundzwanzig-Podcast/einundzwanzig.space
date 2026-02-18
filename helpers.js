@@ -1,6 +1,6 @@
 const { decode, encode } = require('html-entities')
 const { mkdirSync, writeFileSync } = require('fs')
-const { dirname, join, resolve } = require('path')
+const { dirname, join, resolve, sep } = require('path')
 const meta = require('./content/meta.json')
 const dir = resolve(__dirname, '.')
 
@@ -10,7 +10,9 @@ const { _tr: mdTransformer } = transformer(require('jstransformer-markdown-it'))
 
 const config = {
   typographer: true,
-  html: true
+  // SECURITY FIX: Disable HTML to prevent XSS attacks
+  // If HTML is needed, implement proper sanitization
+  html: false
 }
 
 // monkey-patch render function to pass custom options
@@ -95,7 +97,16 @@ const assetUrl = (path, protocol = 'https') => {
 }
 
 const write = (name, data) => {
-  const dst = join(dir, name)
+  // SECURITY FIX: Prevent path traversal attacks
+  // Resolve path and ensure it stays within the project directory
+  const dst = resolve(dir, name)
+  const allowedDir = resolve(dir)
+  
+  // Check if the resolved destination is within the allowed directory
+  if (!dst.startsWith(allowedDir + sep) && dst !== allowedDir) {
+    throw new Error(`Path traversal detected: ${name}`)
+  }
+  
   mkdirSync(dirname(dst), { recursive: true })
   writeFileSync(dst, data)
 }
