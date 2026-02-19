@@ -180,14 +180,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2629,
-      "start": "2026-02-18T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2629",
-      "location": " Café Holzmarktperle",
-      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
+      "id": 2642,
+      "start": "2026-03-05T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2642",
+      "location": "Restaurant Friedel Richter",
+      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -1749,17 +1749,7 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": {
-      "id": 2992,
-      "start": "2026-02-18T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/2992",
-      "location": "Potpurri",
-      "description": "Bitcoin Meetup",
-      "link": "https://t.me/einundzwanzig_koeln/21971",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2889,17 +2879,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "id": 3001,
-      "start": "2026-02-18T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/3001",
-      "location": "Prinzenstraße 2a, 42697 Solingen",
-      "description": "Binformed!\nInformationen für jeden mit und ohne Vorkenntnisse",
-      "link": "https://www.newforge.space/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3786,7 +3766,7 @@
       "location": "₿onami. BAR. RESTAURANT.",
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 20.02.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
