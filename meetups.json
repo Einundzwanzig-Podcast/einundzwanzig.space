@@ -945,9 +945,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 2296,
-      "start": "2026-02-19T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2296",
+      "id": 2297,
+      "start": "2026-03-19T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2297",
       "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
       "description": "Bahnhofsplatz 13, 28195 Bremen, Deutschland (Eingang zum Übersee-Museum)\n(nur Barzahlung und EC-Karte ab 20€ möglich!!!)",
       "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
@@ -1834,7 +1834,17 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3016,
+      "start": "2026-02-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain/event/3016",
+      "location": "Weilheim Gaststätte Dachsbräu (Bräustüberl)",
+      "description": "Herzlich Willkommen zum 13. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://dachsbier.de/#braustueberl",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2364,17 +2374,7 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "id": 2915,
-      "start": "2026-02-19T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/2915",
-      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern",
-      "description": "Da die Pfälzer dieses Portal anscheinend ignorieren, tragen die Saarländer, wenn sie mal wieder deren Meetup übernehmen, dieses hier ein als Geschichtszeugnis.\n",
-      "link": "https://t.me/einundzwanzigPfalz",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2509,17 +2509,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "id": 2999,
-      "start": "2026-02-19T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/2999",
-      "location": "Kalyva Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": ".",
-      "link": "https://kalyva.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3356,7 +3346,7 @@
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 1,
       "nostr_note": "7c072677db2db7738f5e4a3e0bce4d2287deff12b7f3fc306c47f46122da9d2d"
     },
@@ -4020,6 +4010,31 @@
     }
   },
   {
+    "name": "Bitcoin Davos",
+    "latLng": [
+      46.8024,
+      9.8414
+    ],
+    "url": "https://t.me/bitcoindavos",
+    "city": "Davos",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-davos",
+    "twitter": null,
+    "event": {
+      "id": 3015,
+      "start": "2026-02-21T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-davos/event/3015",
+      "location": "Grischa – DAS Hotel Davos",
+      "description": "## Bitcoin Davos Kickoff\nFirst official meetup of the Bitcoin Davos community.\n\n## What\nIntroduction round, discuss community direction, plan regular meetups and local adoption initiatives. Technical discussions welcome.\n\n## Who\nLocal Bitcoiners, developers, node runners, anyone interested in building Bitcoin presence in Davos region.\n\n## Format\nCasual gathering - introductions, gauge community interests (technical education, merchant adoption, development discussions), coordinate future events.",
+      "link": "https://t.me/bitcoindavos",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Meetup Zürich",
     "latLng": [
       47.3744489,
@@ -4669,17 +4684,7 @@
     "city": "Banská Štiavnica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-stiavnica",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 2991,
-      "start": "2026-02-19T22:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-stiavnica/event/2991",
-      "location": "ArtCafe, Akademická 2, Banská Štiavnica, Banskobystrický kraj, Slovensko",
-      "description": "Pozývame vás na tradičné Bitcoin pivo tentokrát si budete môcť zaspomínať a zahrať retro pingpong  v novom šate pingSATOSHIpong  ...  Hra sa hrá za LN mikroplatby ... aby sme z cviku nevyšli ... ,)\n\n19.februára 2026 v Art Cafe, Akademická 2, Banská Štiavnica",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/banska-stiavnica-bitcoin-pivo-3/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4769,17 +4774,7 @@
     "city": "Partizánske",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-partizanske",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 3002,
-      "start": "2026-02-19T22:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-partizanske/event/3002",
-      "location": "Rudolfa Jašíka 158, Partizánske, Slovensko",
-      "description": "Bitcoin meetup: Oplatí sa ťažba v roku 2026?\n\nŤažba kryptomien sa neustále mení. Má dnes ešte zmysel? Aké sú náklady, riziká a príležitosti v aktuálnom trhu?\n\nNa meetupe sa pozrieme na realitu ťažby v roku 2026, aktuálne trendy v kryptomenách a budúcnosť miningu. Diskusia je otvorená pre začiatočníkov aj pokročilých.",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/bitcoin-meetup-partizanske-2/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
