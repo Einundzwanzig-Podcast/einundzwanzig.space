@@ -147,7 +147,7 @@
       "description": "Regelmäßiges Treffen",
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
     "style": {
@@ -325,9 +325,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever",
     "twitter": null,
     "event": {
-      "id": 2585,
-      "start": "2026-02-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/2585",
+      "id": 2586,
+      "start": "2026-03-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/2586",
       "location": "La Vie, Alter Markt 2 26441 Jever ",
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns im La Vie. Immer am 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.lavielepetit-jever.de/",
@@ -386,7 +386,7 @@
       "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
       "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
       "link": "https://luma.com/sr7c8x54",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -539,7 +539,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3017,
+      "start": "2026-02-28T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3017",
+      "location": "Frankoniabrunnen am Residenzplatz, 97070 Würzburg",
+      "description": "BitcoinWalk Würzburg\nTreffpunkt: Frankoniabrunnen am Residenzplatz, 97070 Würzburg\n28.02.26 um 11:30 Uhr\nSee you on SATurday! ",
+      "link": "https://bitcoinwalk.org/wuerzburg/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -769,17 +779,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": {
-      "id": 2913,
-      "start": "2026-02-20T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg/event/2913",
-      "location": "Anna, Annahöfe Augsburg",
-      "description": "Monatliches 21er Meetup\nFür weitere Infos: siehe Telegram.",
-      "link": "https://t.me/Einundzwanzig_Augsburg",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1920,9 +1920,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim",
     "twitter": "EinundzwanzigMA",
     "event": {
-      "id": 2896,
-      "start": "2026-02-20T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2896",
+      "id": 2897,
+      "start": "2026-03-20T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2897",
       "location": "wechselnde Locations",
       "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
@@ -2060,13 +2060,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
     "twitter": null,
     "event": {
-      "id": 2862,
-      "start": "2026-02-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2862",
+      "id": 2863,
+      "start": "2026-03-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/2863",
       "location": "Hammerwirt Adresse: Hammer 2, 84453 Mühldorf am Inn",
-      "description": "*Bitcoin Fundamentals Grundlagenkurs* + DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nJeden 3ten Freitag im Monat um 18 Uhr im Stüberl des Hammerwirts sowie im Biergarten im Sommer \nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
+      "description": "*BITCOIN 4U WORKSHOP mit Evi Wimmer* + DER Bitcoin Stammtisch in der Kreisstadt Mühldorf am Inn.\n\nMit Evi Wimmer und ihrem Bitcoin 4U Workshop\nWir freuen uns euch\nNeue Gesichter sind herzlich willkommen\n\n",
       "link": "https://www.hammerwirt.de/gastronomie/#stueberl",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2605,13 +2605,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber",
     "twitter": null,
     "event": {
-      "id": 2785,
-      "start": "2026-02-20T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2785",
-      "location": "Taj Mahal, Klingengasse 12, 91541 Rothenburg ob der Tauber",
-      "description": "Wir treffen uns zum 4. einundzwanzig Bitcoin-Meetup in Rothenburg ob der Tauber.\n20.2.26 um 18:30 Uhr im Taj Mahal, Klingengasse 12, 91541 Rothenburg ob der Tauber (https://tajmahal-rothenburg.de/)",
+      "id": 2786,
+      "start": "2026-03-20T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2786",
+      "location": "wird noch bekannt gegeben",
+      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt wird hier und in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3555,11 +3555,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "id": 3004,
-      "start": "2026-02-20T19:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3004",
+      "id": 3005,
+      "start": "2026-03-20T19:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3005",
       "location": "Schmuri (Pianokeller Reutte)",
-      "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)",
+      "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)\n",
       "link": "https://maps.app.goo.gl/1Ls1KWDRDVA2XggZ8",
       "attendees": 0,
       "might_attendees": 0,
@@ -3749,17 +3749,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 2857,
-      "start": "2026-02-20T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/2857",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 20.02.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4240,9 +4230,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
     "twitter": null,
     "event": {
-      "id": 2330,
-      "start": "2026-02-20T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau/event/2330",
+      "id": 2331,
+      "start": "2026-03-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau/event/2331",
       "location": null,
       "description": null,
       "link": null,
@@ -4804,17 +4794,7 @@
     "city": "Valaská",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-virtualny-meetup",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 3000,
-      "start": "2026-02-20T21:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-virtualny-meetup/event/3000",
-      "location": "MGP4+82 Valaská, Slovakia",
-      "description": "Na pripojenie stačí Android telefón/tablet, po novom aj iPhone alebo Windows PC, funguje aj steamdeck a linux na ktorom rozbehnete Windows hry cez steam (na PC s funkčným mikrofónom a sluchátkami je to asi najlepšíe xperience hned po VR headsete) mikrofón (ideálne zo sluchatkami), no ak máte VR headset a trackre tak je to samozrejme najlepší experience 😁. Ak idete cez mobil/tablet, odporúčam mať pripojenú nabíjačku\n\nAko sa pripojiť:\n1. Zaregistrujte sa na vrchat.com/home (treba email ku ktorému mate prístup, pýta to overovací kód pri prihlásení na inú platformu), nastavte si nick\n2. Stiahnite si aplikáciu VR chat (link na domovskej stránke podla platformy vrchat.com), prihláste sa\n3. Pridajte sa do skupiny a napíšte váš nick aby sme sa vedeli pridať na rovnaký VR svet\n\nhttps://signal.group/#CjQKIFTm5tQBh3f_dbajANofwysjBnaPS7AqhB2gpiXYWO3TEhDdFzlo3ViVZGLwFjXXQkOx\n\nmáme aj VRchat skupinu (zobrazí sa po prihlásení) https://vrc.group/21SK.4482\n\nAk si to chcete s niekým odskúšať napíšte do signal skupiny, určite sa niekto nájde 😉\n\nmajte na pamäti že je to online a ktokoľvek to môže nahrávať tak sa správajte rovnako ako vo verejných signál skupinách\n\nMobilnej verzii vadia niektoré VPN",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/virtualny-meetup-xvi/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
