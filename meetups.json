@@ -490,9 +490,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2670,
-      "start": "2026-02-21T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2670",
+      "id": 2671,
+      "start": "2026-02-28T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2671",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -515,9 +515,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2877,
-      "start": "2026-02-21T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2877",
+      "id": 2867,
+      "start": "2026-03-07T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2867",
       "location": "Siehe Gruppe",
       "description": "Der BitcoinWalk ist ein Spaziergang, der alle zwei Wochen samstags in Hannover stattfindet. Hier treffen sich Bitcoin-Enthusiasten, um sich bei echten Gesprächen auszutauschen.\nDie Spaziergänge sind eine Einladung, den Bildschirm mal beiseitezulegen, sich zu bewegen, neue Menschen aus der Bitcoin-Community kennenzulernen – und, wenn man gerade erst einsteigt, auch etwas über Bitcoin zu lernen.\n\nOrt und Zeit: Siehe Homepage bzw. Telegram Gruppe oder Nostr Chat",
       "link": "https://bitcoinwalk.org/hannover/",
@@ -1479,17 +1479,7 @@
     "city": "Heilbronn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn",
     "twitter": "EinundzwanzigHN",
-    "event": {
-      "id": 2990,
-      "start": "2026-02-21T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/2990",
-      "location": "Volksgarten Heilbronn",
-      "description": "GM, wie immer 3. Samstag im Monat findet unser Meetup im Volksgarten statt.\nBezahlung in Sats ist möglich :)",
-      "link": "https://www.volksgarten.hn/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1564,17 +1554,7 @@
     "city": "Furtwangen / Linach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald",
     "twitter": null,
-    "event": {
-      "id": 2840,
-      "start": "2026-02-21T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/2840",
-      "location": "Gasthaus Rössle, Weißenbach 6a, 78141 Schönwald im Schwarzwald",
-      "description": "📌 GENESIS MEETUP – INFO\n🪙 Bitcoin only Meetup – Hoch Schwarzwald 🌲\nAlles beginnt mit einem Genesis-Moment 💸.\nWir bringen Bitcoin-Menschen zusammen / mitten im Schwarzwald.\n📍 Ort:\nGasthaus Rössle\nSchönwald im Schwarzwald\nhttps://share.google/IIUTg4l5IhlDAV8tD\n📆 Datum:\n21. Februar 2026\n⏰ Uhrzeit:\n17:30 Uhr\n👥 Teilnehmerzahl:\nMaximal 21 Personen (first come, first served)\n🧡 Worum geht’s?\nEhrlicher Austausch, gute Gespräche und echte Community.\nFür alle, die Bitcoin verstanden haben oder verstehen wollen.\nKein Trading. Keine Altcoins. Bitcoin only.\n⚠️ Hinweis:\nWeitere Infos, Ablauf und ggf. Anmeldung werden hier im Kanal bekanntgegeben.\n🧡 Einundzwanzig2️⃣1️⃣.\n🧡 Schwarzwald🌲.\n🧡 Bitcoin🤑.\nStay humble. Stack sats. ⚡️",
-      "link": "https://t.me/+DFWMJUsN0GhhOTky",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2554,17 +2534,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "id": 2813,
-      "start": "2026-02-21T14:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/2813",
-      "location": "Kurt-Dunkelmann-Str 2 18057 Rostock",
-      "description": "Bitcoin Treff Rostock erwartet dich.\nOffener Austausch, klare Worte und ein sachlicher Blick auf Bitcoin.\nKein Hype, kein Verkaufsdruck. Einfach ein ehrliches Treffen auf Augenhöhe.",
-      "link": "https://21rostock.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2629,7 +2599,17 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3018,
+      "start": "2026-03-20T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/3018",
+      "location": "Weinstube Russ in Rottweil",
+      "description": "Bitte um Anmeldung in der Telegram Gruppe! Vielen Dank!",
+      "link": "https://maps.app.goo.gl/EgHb2UX3BkvtLsbV9",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3225,9 +3205,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "id": 2314,
-      "start": "2026-02-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2314",
+      "id": 2315,
+      "start": "2026-03-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2315",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3664,7 +3644,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 3019,
+      "start": "2026-03-06T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3019",
+      "location": "Bar21",
+      "description": "Du willst starten, weißt aber nicht wie? Genau dafür ist dieser Abend da.\nFragen stellen - App installieren - Erste Sats bewegen.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3765,15 +3755,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "id": 1752,
-      "start": "2026-02-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1752",
+      "id": 1753,
+      "start": "2026-03-21T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1753",
       "location": "Passau oder Schärding",
-      "description": "54. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "55. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "b2420354747320235f5791644516f33942c7a6d3a1bceceb1f62ea8e38f1cb02"
+      "might_attendees": 0,
+      "nostr_note": "64adab7d6912f27c58a39ae000b5cb7630d3e5706e2c2252fdf931b07c4fe5bd"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4009,17 +3999,7 @@
     "city": "Davos",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-davos",
     "twitter": null,
-    "event": {
-      "id": 3015,
-      "start": "2026-02-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/bitcoin-davos/event/3015",
-      "location": "Grischa – DAS Hotel Davos",
-      "description": "## Bitcoin Davos Kickoff\nFirst official meetup of the Bitcoin Davos community.\n\n## What\nIntroduction round, discuss community direction, plan regular meetups and local adoption initiatives. Technical discussions welcome.\n\n## Who\nLocal Bitcoiners, developers, node runners, anyone interested in building Bitcoin presence in Davos region.\n\n## Format\nCasual gathering - introductions, gauge community interests (technical education, merchant adoption, development discussions), coordinate future events.",
-      "link": "https://t.me/bitcoindavos",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4689,17 +4669,7 @@
     "city": "Bratislava",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-bratislava",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 3003,
-      "start": "2026-02-21T21:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-bratislava/event/3003",
-      "location": "ŠNYT Dulák, Dulovo námestie 5a, 821 08 Bratislava-Ružinov, Slovakia",
-      "description": "Prídite pokecať.\n\nPri kúpe vstupenky netreba dávať skutočný email, stačí \"heslo\" obsahujúce \"@\" . Žiaden mail vám aj tak nepríde. Vstupenky sú dostupné do 12:00 20.02.2026\n\nTešíme sa na vás!\n\nVítaní sú všetci!",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/ba-21-meetup-s-kvizom-a-k-a-%e2%82%bfivo-v-%e2%82%bflave-02-26/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
