@@ -464,17 +464,7 @@
     "city": "Hannover",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-entdecken-hannover",
     "twitter": null,
-    "event": {
-      "id": 2919,
-      "start": "2026-02-22T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-entdecken-hannover/event/2919",
-      "location": "Haltenhoffstr. 50, 30167 Hannover",
-      "description": "Bitcoin entdecken - Informationstag\nSonntag, 22.02.2026, 12:21 - 21:21 Uhr Haltenhoffstr. 50, 30167 Hannover Es erwartet dich ein informatives Programm mit inspirierenden Vorträgen sowie verschiedene Räume voller faszinierender Eindrücke und Anregungen. Der Eintritt ist kostenlos und ohne Anmeldung möglich. Entdecke mit uns: + welche Eigenschaften die steigende Nachfrage begründen + welche Nutzen Bitcoin dir bieten kann + worauf bei Erwerb und Verwahrung zu achten ist + wieso Bitcoin in Zukunft weltweit eine immer wichtigere Rolle spielen wird und Vieles mehr Nutze die Gelegenheit und begib dich auf eine Entdeckungsreise durch den Bitcoin-Kaninchenbau! Der Informationstag bietet keine Finanz- oder Steuerberatung und keine Anlageempfehlung.",
-      "link": "https://einundzwanzig.space/gesundes-geld/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3064,17 +3054,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "id": 2845,
-      "start": "2026-02-22T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel/event/2845",
-      "location": "Brasserie Balthazar, Wittlich",
-      "description": "Bitcoin Meetup in der Brasserie Balthazar ab 18 Uhr",
-      "link": "https://maps.app.goo.gl/Vv777QQwgpzapSMJ8",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3739,7 +3719,17 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "id": 3020,
+      "start": "2026-03-27T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3020",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 27.03.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\n",
+      "link": "https://www.bonami-freilassing.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
