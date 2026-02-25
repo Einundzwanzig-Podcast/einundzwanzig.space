@@ -769,7 +769,17 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3022,
+      "start": "2026-03-20T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg/event/3022",
+      "location": "Wechselnde Örtlichkeiten bitte aus Telegram entnehmen, zuletzt:Anna, Annhöfe, Augsburg",
+      "description": "Meetup immer am 3. Freitag im Monat.\n\nWechselnde Örtlichkeiten bitte aus Telegram entnehmen, zuletzt:Anna, Annhöfe, Augsburg",
+      "link": "https://t.me/Einundzwanzig_Augsburg",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1949,7 +1959,17 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3021,
+      "start": "2026-02-25T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3021",
+      "location": "Ackerstraße 106, 40233 Düsseldorf",
+      "description": "Nette Leute, Unterhaltung, Tolle Gespräche ",
+      "link": "https://beethoven-flingern.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
