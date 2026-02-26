@@ -364,7 +364,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 3068,
+      "start": "2026-03-18T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3068",
+      "location": "Arsenalstraße 36, Unity-Bar, \"Rumbar Unity\"",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
+      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -383,8 +393,8 @@
       "id": 2890,
       "start": "2026-03-04T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/2890",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nFormat: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Mittwoch, 04. März 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~939.319\n\nOrt diesmal: Königlicher Hirschgarten (Restaurant innen), Hirschgarten 1, 80639 München",
       "link": "https://luma.com/sr7c8x54",
       "attendees": 1,
       "might_attendees": 0,
@@ -1216,7 +1226,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei und Chocolaterie im Handwerkerhof ⚡️ ",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️\nHandwerkerhof\nKönigstraße 82\n90402 Nürnberg\n(Lightning Zahlung möglich)",
       "link": "https://share.google/DVJPgT2ozXhbpCddM",
-      "attendees": 8,
+      "attendees": 10,
       "might_attendees": 2,
       "nostr_note": ""
     },
@@ -1440,9 +1450,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "id": 2920,
-      "start": "2026-02-25T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2920",
+      "id": 2921,
+      "start": "2026-03-25T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2921",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "description": "Öffentliches Treffen mit Vorträgen zu ₿itcoin und verwandten Themen. Immer am \"₿ittwoch\" zum Ende jeden Monats. Schaue gerne in die Telegram Gruppe oder komme spontan vorbei. Die Treffen dauern oftmals bis spät in die Nacht. \nJeder ist Willkommen. Alle Fragen dürfen gestellt werden. https://t.me/+RSXEIZ_xoq1lNDM6",
       "link": "https://t.me/+RSXEIZ_xoq1lNDM6",
@@ -1745,13 +1755,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "id": 2895,
-      "start": "2026-02-25T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2895",
-      "location": "Landau in der Pfalz",
-      "description": "Wechselnde Locations - Details in den Gruppen.",
-      "link": "https://t.me/einundzwanzigld",
-      "attendees": 1,
+      "id": 2910,
+      "start": "2026-04-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2910",
+      "location": "Volkshochschule Landau (Maximilianstraße), ehemalige Alte Post, Maximilianstraße 7, 76829 Landau in der Pfalz, Raum: Saal 03, 1. Stock",
+      "description": "Vortrag \"Bitcoin für Einsteiger und Interessierte\" von Stephan Jung in der VHS Landau",
+      "link": "https://volkshochschule-landau.de/Veranstaltung/cmx690b28f65bfd4.html",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1959,17 +1969,7 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": {
-      "id": 3021,
-      "start": "2026-02-25T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3021",
-      "location": "Ackerstraße 106, 40233 Düsseldorf",
-      "description": "Nette Leute, Unterhaltung, Tolle Gespräche ",
-      "link": "https://beethoven-flingern.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3731,10 +3731,10 @@
     "twitter": "21Salzburg",
     "event": {
       "id": 3020,
-      "start": "2026-03-27T18:00:00.000000Z",
+      "start": "2026-03-28T18:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3020",
       "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 27.03.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\n",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 28.03.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland\n\n",
       "link": "https://www.bonami-freilassing.de/",
       "attendees": 0,
       "might_attendees": 0,
@@ -4249,7 +4249,17 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "id": 3069,
+      "start": "2026-03-14T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/3069",
+      "location": "Muse Restaurant",
+      "description": "Diesmal wieder im MUSE Restaurant um 18:00 Uhr!\nWir freuen uns auf euch!",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 4,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4629,17 +4639,7 @@
     "city": "Banská Bystrica",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 2916,
-      "start": "2026-02-25T21:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-banska-bystrica/event/2916",
-      "location": "U Francúza – Jazz Klub, Horná 65/12, 974 01 Banská Bystrica, Slovensko",
-      "description": "Anarchokapitalizmus je myšlienkový smer, ktorého základným prvkom je dobrovoľnosť konania. Vychádza z rakúskej ekonomickej školy a praxeológiou dokazuje, že dobrovoľné interakcie medzi ľuďmi sú oveľa efektívnejšie, ako štátne regulácie. Počas prednášky si povieme základné prvky anarchokapitalizmu a môžeme si aj modelovať, ako by niektoré segmenty riešil trh, ak by nebol v štátnej správe. Napríklad zdravotníctvo, či financie.\n\nŠpeciálny hosť: Vlastimil Švec",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/banska-bystrica-anarchokapitalizmus-prejav-odvahy-alebo-utopia/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
