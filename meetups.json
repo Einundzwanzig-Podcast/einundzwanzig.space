@@ -1259,17 +1259,7 @@
     "city": "Freiburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg",
     "twitter": null,
-    "event": {
-      "id": 2889,
-      "start": "2026-02-26T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-freiburg/event/2889",
-      "location": "Martinsbräu Freiburg ",
-      "description": "Alle Infos zum Bitcoin Event am 26. Februar 🚀\n\nWir treffen uns im Martinsbräu zum lockeren Austausch – mit Thementischen rund um Bitcoin, Freiheit & Unternehmertum. Setz dich einfach an den Tisch, der dich am meisten interessiert: Fragen stellen, lernen, diskutieren, netzwerken. Wenn du ins Martinsbräu kommst, frag einfach nach dem Bitcoin Tisch und du wirst zu uns gebracht.\n\n🎁 Bonus: Ich bringe wieder Bitcoin Blinks von Coinfinity mit – ein Bitcoin Buch, das dir Bitcoin super leicht verständlich macht.\n\n⭐️ Highlight im Martinsbräu: Leo Mattes spricht an einem Tisch über Praxeologie – die Wissenschaft des menschlichen Handelns und ein starkes Fundament, um Ökonomie und Bitcoin wirklich zu verstehen.\n\nAb 19:00 Uhr wechseln wir ins Kolbenkaffee: Dort hält Leo einen Vortrag über Bitcoin Mining. Mining verbindet Bitcoin mit der realen Welt – und räumt mit Mythen auf wie „Stromverschwendung“ oder „schlecht für die Umwelt“. Danach bleibt viel Zeit für Q&A und Networking.\n\nUnd keine Sorge: Heute wird nicht nur das Bitcoin-Netzwerk stärker – sondern auch eures. 😉",
-      "link": "https://t.me/Einundzwanzig_Freiburg",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1419,7 +1409,17 @@
     "city": "Hamburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3072,
+      "start": "2026-03-26T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3072",
+      "location": "Sternschanze, Absinth-Bar",
+      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4256,7 +4256,7 @@
       "location": "Muse Restaurant",
       "description": "Diesmal wieder im MUSE Restaurant um 18:00 Uhr!\nWir freuen uns auf euch!",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4419,17 +4419,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup",
     "twitter": "HUSZONEGYworld",
-    "event": {
-      "id": 2860,
-      "start": "2026-02-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup/event/2860",
-      "location": "Perspective Bar 1072 Bp. Klauzál u. 26-28.",
-      "description": "Újabb bitcoin meetup bp belvárosában februárban. Ezúttal egy előadás lesz műsoron.\n\nIdőpont: 2026. február 26. (csütörtök), 18:00\nHelyszín: Perspective Bar 1072 Bp. Klauzál u. 26-28.\n\nTervezett program:\n18:00 Érkezés\n18:15 Köszöntő, a HUSZONEGY csoport rövid bemutatása - Árpi\n18:30 Bemutatkozó kör – akinek van kedve\n19:00 Ginger tárca és coinjoin bemutató – Molnár Dávid (Ginger Wallet)\n20:00 Kötetlen beszélgetés\n\nRegisztráció:\nA szervezés megkönnyítése érdekében kérünk, regisztrálj az alábbi űrlap kitöltésével: bitcoinmentor.hu/meetup\n\nA program változhat! Bővebb információ a Telegram csoportban. A bitcoinra koncentrálunk, egyéb kriptókat ignoráljuk.\n\nA részvétel ingyenes, a helyszínt a fogyasztásunkkal támogatjuk.",
-      "link": "https://bitcoinmentor.hu/meetup",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4684,17 +4674,7 @@
     "city": "Levice",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-levice",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 2917,
-      "start": "2026-02-26T21:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-levice/event/2917",
-      "location": "Dosýta Burger & Beer, Ľudovíta Štúra 5, Levice, Slovakia",
-      "description": "Tentokrát privítame rečníka až Bratislavy. Cotsoor nám porozpráva o aplikácii vexl z dielne SatoshiLabs (o.i. vyrábajú aj Trezor) a pobavíme  sa o návrate k peer-to-peer obchodovaniu - možnostiach, úskaliach, výhodách. Vstup je voľný a každý je vítaný",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/levice-vexl-p2p/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
