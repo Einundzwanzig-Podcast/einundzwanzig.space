@@ -4385,11 +4385,21 @@
       47.683503,
       17.634283
     ],
-    "url": null,
+    "url": "https://t.me/huszonegy",
     "city": "Győr",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/gyor-bitcoin-meetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3082,
+      "start": "2026-03-04T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/gyor-bitcoin-meetup/event/3082",
+      "location": "John Bull Pub, 9021 Győr, Aradi vértanúk útja 3",
+      "description": "Bitcoin meetup - Győr, március 4, szerda 17:00tól\n9021 Győr, Aradi vértanúk útja 3, John Bull Pub\n\n\nFő témák:\n-Hardveres tárcák használata:beállítás, privátkulcs helyreállítás több különböző hardver walletbe\n\n-P2P platformok használata:Robosats,Peach, Bisq stb. — hogyan működnek, előnyök és kockázatok\n\n-Privátkulcsok biztonságos tárolása: jó gyakorlatok és veszélyek elkerülése\n\n\nEzeken felül persze kötetlen beszélgetés,tapasztalat megosztás.\n\n\nRészvételi szándékot kérlek jelezd a Huszonegy telegram csoportjában, a Győr topicon belül!\n\n\nHozz magaddal kérdéseket és tapasztalatokat — mindenkit szeretettel várunk!\n\n",
+      "link": "https://t.me/huszonegy",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
