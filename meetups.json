@@ -594,17 +594,7 @@
     "city": "Wuppertal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup",
     "twitter": null,
-    "event": {
-      "id": 2894,
-      "start": "2026-02-27T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup/event/2894",
-      "location": "Lise-Meitner-Straße 1-3, 42119 Wuppertal, Germany",
-      "description": "Egal ob Einsteiger oder Bitcoin-OG – jeder ist willkommen. 🧡\n\nWer mehr über Bitcoin erfahren, darüber sprechen und Gleichgesinnte treffen möchte, ist herzlich eingeladen.",
-      "link": "https://orangelounge.io/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1226,7 +1216,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei und Chocolaterie im Handwerkerhof ⚡️ ",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️\nHandwerkerhof\nKönigstraße 82\n90402 Nürnberg\n(Lightning Zahlung möglich)",
       "link": "https://share.google/DVJPgT2ozXhbpCddM",
-      "attendees": 10,
+      "attendees": 12,
       "might_attendees": 2,
       "nostr_note": ""
     },
@@ -4305,9 +4295,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz",
     "twitter": "",
     "event": {
-      "id": 2361,
-      "start": "2026-02-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz/event/2361",
+      "id": 2362,
+      "start": "2026-03-27T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/es/meetup/bitcoin-tenerife-puerto-de-la-cruz/event/2362",
       "location": "Baraka Café & Grill - Puerto de la Cruz",
       "description": "Hey Bitcoin-Fans! Lust auf ein entspanntes Bitcoin-Maximalisten-Meetup? Komm vorbei zu unserem Treffen im Baraka Café & Grill! Wir quatschen über Bitcoin, Blockchain, spannende Persönlichkeiten wie Michael Saylor, Adam Back, Andreas Antonopoulos und Jack Mallers sowie aktuelle Themen wie Lightning Network, Halving-Effekte, Mining-Trends und globale Adoption. Das alles bei leckeren Drinks und gutem Essen! Wo: Baraka Café & Grill, Puerto de la Cruz. Vibe: Locker, informell, für Neulinge und Bitcoin-Maximalisten. Keine Anmeldung nötig, einfach vorbeischauen! Wir freuen uns auf dich! Wenn wir nicht mehr in Sicht sind, haben wir vielleicht die Location kurzfristig gewechselt - von daher bitte pünktlich sein! ;-)\n\nENGLISH: Hey Bitcoin enthusiasts! Up for a relaxed Bitcoin Maximalist meetup? Join us at Baraka Café & Grill! We’ll dive into Bitcoin, blockchain, and discuss influential figures like Michael Saylor, Adam Back, Andreas Antonopoulos, and Jack Mallers. Plus, hot topics like the Lightning Network, halving impacts, mining trends, and global adoption – all over tasty drinks and great food! Where: Baraka Café & Grill, Puerto de la Cruz Vibe: Casual, laid-back, for newbies and Bitcoin Maximalists. No registration needed, just drop by! Looking forward to seeing you! If we are not on sight you are maybe late and we switched the location - so be on time! ;-)",
       "link": "https://g.co/kgs/TM1gW6D",
@@ -4365,21 +4355,6 @@
     }
   },
   {
-    "name": "Budapest TESZT meetup",
-    "latLng": [
-      47.4925,
-      19.051389
-    ],
-    "url": "https://t.me/huszonegy",
-    "city": "Budapest",
-    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budapest-teszt-meetup",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Győr Bitcoin meetup",
     "latLng": [
       47.683503,
@@ -4414,7 +4389,17 @@
     "city": "Miskolc",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/miskolc-bitcoin-meetup",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3083,
+      "start": "2026-03-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/miskolc-bitcoin-meetup/event/3083",
+      "location": "Hotel Aurora - 3519 Miskolctapolca, Fagyöngy utca 2-4.",
+      "description": "Kötetlen beszélgetés a bitcoinról\nHotel Aurora - 3519 Miskolctapolca, Fagyöngy utca 2-4.\n2026. március 24.\n",
+      "link": "https://bitcoinmiskolc.hu/februari-bitcoin-meetup/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4429,6 +4414,21 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup",
     "twitter": "HUSZONEGYworld",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Teszt Bitcoin meetup",
+    "latLng": [
+      47.4925,
+      19.051389
+    ],
+    "url": "https://t.me/huszonegy",
+    "city": "Budapest",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/teszt-bitcoin-meetup",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -4699,17 +4699,7 @@
     "city": "Nitra",
     "portalUrl": "https://portal.einundzwanzig.space/sk/meetup/21-nitra",
     "twitter": "https://x.com/Dvadsatjeden",
-    "event": {
-      "id": 2918,
-      "start": "2026-02-27T21:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/sk/meetup/21-nitra/event/2918",
-      "location": "Jazz caffe, Radlinského 110/13, 949 01 Nitra, Slovensko",
-      "description": "KRYPTOPIVO NITRA\nPozývame vás na ďalšie neformálne stretnutie BitcoinPivo Nitra\n🗓️ 27. február.2026 (piatok) o 18:00\n📍 Jazz Caffe, Radlinského 110/13, Nitra\nZastaviť sa môžete kedykoľvek, posedíme do cca 21:00.\n🪙 Vstupné: zadarmo\n🅿️ Parkovanie: možné na ulici Fraňa Mojtu, prípadne ďalšie možnosti nájdete tu:\nhttps://nitra.sk/parkovanie/\nPozvaný je každý, koho zaujíma:\n₿ Bitcoin, kryptomeny, ťažba (mining), úschova, nákup a predaj, bezpečnosť, sloboda, svetové trhy. Cieľom je budovať komunitu a pravidelne sa stretávať pri spoločných témach. V prípade otázok ma neváhajte kontaktovať:\n✉️ 21(zavináč)tomas(bodka)8shield.net\nTešíme sa na vás!\n🍻 Bitcoin & Pivo = ideálna kombinácia!",
-      "link": "https://prevadzky.dvadsatjeden.org/listing/bitcoin-pivo-nitra/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
