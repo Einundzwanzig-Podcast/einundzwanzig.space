@@ -140,14 +140,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "id": 2424,
-      "start": "2026-03-01T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2424",
+      "id": 2425,
+      "start": "2026-04-05T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2425",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
     "style": {
@@ -1656,7 +1656,7 @@
       "location": "Herzwerk, Kurt-Blaschke-Straße 7, 87439 Kempten (Allgäu)",
       "description": "Herzlich willkommen beim Bitcoin-Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. \nFreu dich auf einen spannenden Abend mit interessanten Themen, die deine Zukunft verändern können. Wir freuen uns, dich in unserer Runde begrüßen zu dürfen.\n\nWorkshop Thema: Sicher im Netz. Worauf müssen Bitcoiner achten.\n\n\nBis dahin…. Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -3621,7 +3621,7 @@
       "location": "Bar21",
       "description": "Du willst starten, weißt aber nicht wie? Genau dafür ist dieser Abend da.\nFragen stellen - App installieren - Erste Sats bewegen.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3804,17 +3804,7 @@
     "city": "Vöcklabruck",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck",
     "twitter": null,
-    "event": {
-      "id": 2391,
-      "start": "2026-03-01T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-voecklabruck/event/2391",
-      "location": "Vöckklabruck",
-      "description": "Erstes Treffen sobald genügend Teilnehmer.\nGenauere, aktuelle Infos in der Telegram Gruppe.",
-      "link": "https://t.me/+xNYEqUiVIv9iYWY0",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": "7c059d016c7030c73d0c24de30a867c457273d8a2e728193ee2af7dd3bd5e514"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
