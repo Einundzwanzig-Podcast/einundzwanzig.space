@@ -1060,11 +1060,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
     "event": {
-      "id": 2995,
-      "start": "2026-03-06T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/2995",
+      "id": 2996,
+      "start": "2026-04-03T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/2996",
       "location": "Reisbach 94419",
-      "description": "Am Freitag 6. März ab 18:30 findet der 14. Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Geierbräu statt",
+      "description": "Am 3. April ab 18:30 findet der 15. Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Geier statt.",
       "link": "https://t.me/einundzwanzig_dgf",
       "attendees": 0,
       "might_attendees": 0,
@@ -1115,13 +1115,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "id": 2757,
-      "start": "2026-03-06T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2757",
+      "id": 2758,
+      "start": "2026-04-10T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2758",
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2210,13 +2210,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "id": 2892,
-      "start": "2026-03-06T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/2892",
+      "id": 2893,
+      "start": "2026-04-03T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/2893",
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
       "description": "Los geht es ab 18 Uhr. Jeder ist willkommen bei unserem Bitcoin only Meetup in der Kleinen Burg.",
       "link": "https://www.kleineburg-ol.de/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3369,17 +3369,7 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "id": 2843,
-      "start": "2026-03-06T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/2843",
-      "location": "Blauer Adler",
-      "description": "Socialpleb`n",
-      "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3640,12 +3630,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "id": 3019,
-      "start": "2026-03-06T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3019",
+      "id": 3084,
+      "start": "2026-03-26T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3084",
       "location": "Bar21",
-      "description": "Du willst starten, weißt aber nicht wie? Genau dafür ist dieser Abend da.\nFragen stellen - App installieren - Erste Sats bewegen.",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/",
+      "description": "Jenseits von Plattformen und Algorithmen:\nWie funktioniert das „andere“ Internet?\n\nNostr, direkte Verschlüsselung, Relays, Lightning-Integration –\nein technischer Überblick mit Protom.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/vortrag-nostr-26-03-2026/",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
