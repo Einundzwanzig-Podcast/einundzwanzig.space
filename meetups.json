@@ -180,11 +180,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2642,
-      "start": "2026-03-05T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2642",
-      "location": "Restaurant Friedel Richter",
-      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
+      "id": 2630,
+      "start": "2026-03-18T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2630",
+      "location": "Café Holzmarktperle",
+      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
@@ -615,9 +615,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
     "twitter": "toobiTx",
     "event": {
-      "id": 2512,
-      "start": "2026-03-05T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig/event/2512",
+      "id": 2513,
+      "start": "2026-04-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig/event/2513",
       "location": null,
       "description": null,
       "link": null,
@@ -1019,7 +1019,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3088,
+      "start": "2026-04-07T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3088",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2516,7 +2526,7 @@
       "location": "Wilhelm Tell, Bahnhofstr. 25, 91126 Schwabach",
       "description": "Wir Treffen uns dieses mal wieder in Schwabach in der Gastwirtschaft Willhelm Tell, mit guten fränkischen Essen.\nDer Nebenraum ist für uns reserviert, so können wir in ruhiger Atmosphäre gute Gespräche führen.\n\n",
       "link": "https://www.gaststaette-wilhelm-tell.com/",
-      "attendees": 7,
+      "attendees": 8,
       "might_attendees": 0,
       "nostr_note": ""
     },
