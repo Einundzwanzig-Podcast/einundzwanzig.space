@@ -539,7 +539,17 @@
     "city": "Würzburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3089,
+      "start": "2026-03-14T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3089",
+      "location": "Franconiabrunnen (Residenz), Residenzpl. 2A, 97070 Würzburg",
+      "description": "14.03.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
+      "link": "https://bitcoinwalk.org/wuerzburg/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2526,8 +2536,8 @@
       "location": "Wilhelm Tell, Bahnhofstr. 25, 91126 Schwabach",
       "description": "Wir Treffen uns dieses mal wieder in Schwabach in der Gastwirtschaft Willhelm Tell, mit guten fränkischen Essen.\nDer Nebenraum ist für uns reserviert, so können wir in ruhiger Atmosphäre gute Gespräche führen.\n\n",
       "link": "https://www.gaststaette-wilhelm-tell.com/",
-      "attendees": 9,
-      "might_attendees": 0,
+      "attendees": 11,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -2551,7 +2561,7 @@
       "location": "wird noch bekannt gegeben",
       "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt wird hier und in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
