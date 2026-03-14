@@ -541,10 +541,10 @@
     "twitter": null,
     "event": {
       "id": 3089,
-      "start": "2026-03-14T10:30:00.000000Z",
+      "start": "2026-03-21T10:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3089",
       "location": "Franconiabrunnen (Residenz), Residenzpl. 2A, 97070 Würzburg",
-      "description": "14.03.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
+      "description": "21.03.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
       "link": "https://bitcoinwalk.org/wuerzburg/",
       "attendees": 0,
       "might_attendees": 0,
@@ -1446,7 +1446,7 @@
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "description": "Öffentliches Treffen mit Vorträgen zu ₿itcoin und verwandten Themen. Immer am \"₿ittwoch\" zum Ende jeden Monats. Schaue gerne in die Telegram Gruppe oder komme spontan vorbei. Die Treffen dauern oftmals bis spät in die Nacht. \nJeder ist Willkommen. Alle Fragen dürfen gestellt werden. https://t.me/+RSXEIZ_xoq1lNDM6",
       "link": "https://t.me/+RSXEIZ_xoq1lNDM6",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1719,7 +1719,17 @@
     "city": "Köln",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3113,
+      "start": "2026-03-26T18:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3113",
+      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
+      "description": "Weitere Infos in der Telegram-Gruppe.",
+      "link": "https://t.me/einundzwanzig_koeln",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2945,15 +2955,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2530,
-      "start": "2026-03-13T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2530",
+      "id": 2531,
+      "start": "2026-04-10T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2531",
       "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "80840f4a2345deac0170214516b222e45348bbb67f78b07d8afcca480fb04ece"
+      "nostr_note": "35596761bab8c0cdb99a57430bc8648292f0043c83aadf60b1467cc80c501475"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3575,9 +3585,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "id": 2194,
-      "start": "2026-03-13T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2194",
+      "id": 2195,
+      "start": "2026-04-10T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2195",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
@@ -4256,7 +4266,7 @@
       "location": "Muse Restaurant",
       "description": "Diesmal wieder im MUSE Restaurant um 18:00 Uhr!\nWir freuen uns auf euch!",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": ""
     },
