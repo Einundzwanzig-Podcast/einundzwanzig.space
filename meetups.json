@@ -490,9 +490,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2673,
-      "start": "2026-03-14T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2673",
+      "id": 2674,
+      "start": "2026-03-21T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2674",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -3624,7 +3624,17 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3114,
+      "start": "2026-03-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe/event/3114",
+      "location": "Restaurant Plaschlhof 4552 Wartberg, Sportplatzweg 1",
+      "description": "Komm vorbei und triff Bitcoiner aus der Gegend! Wir freuen uns!!",
+      "link": "https://maps.app.goo.gl/TrcgL3kbsDqstbhQ7?g_st=ic",
+      "attendees": 3,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4259,17 +4269,7 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "id": 3069,
-      "start": "2026-03-14T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/3069",
-      "location": "Muse Restaurant",
-      "description": "Diesmal wieder im MUSE Restaurant um 18:00 Uhr!\nWir freuen uns auf euch!",
-      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 7,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
