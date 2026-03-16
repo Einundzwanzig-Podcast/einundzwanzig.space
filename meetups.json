@@ -2479,7 +2479,17 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3115,
+      "start": "2026-03-19T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/3115",
+      "location": "Taverne Kalyva, Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": "Meetup Rheinisch Bergischer Kreis",
+      "link": "https://kalyva.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
