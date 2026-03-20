@@ -935,9 +935,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 2297,
-      "start": "2026-03-19T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2297",
+      "id": 2298,
+      "start": "2026-04-16T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2298",
       "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
       "description": "Bahnhofsplatz 13, 28195 Bremen, Deutschland (Eingang zum Übersee-Museum)\n(nur Barzahlung und EC-Karte ab 20€ möglich!!!)",
       "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
@@ -2469,17 +2469,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "id": 3115,
-      "start": "2026-03-19T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/3115",
-      "location": "Taverne Kalyva, Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": "Meetup Rheinisch Bergischer Kreis",
-      "link": "https://kalyva.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
