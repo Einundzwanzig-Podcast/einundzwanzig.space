@@ -480,9 +480,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2674,
-      "start": "2026-03-21T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2674",
+      "id": 2675,
+      "start": "2026-03-28T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2675",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -505,9 +505,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2878,
-      "start": "2026-03-21T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2878",
+      "id": 2868,
+      "start": "2026-04-04T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2868",
       "location": "Siehe Gruppe",
       "description": "Der BitcoinWalk ist ein Spaziergang, der alle zwei Wochen samstags in Hannover stattfindet. Hier treffen sich Bitcoin-Enthusiasten, um sich bei echten Gesprächen auszutauschen.\nDie Spaziergänge sind eine Einladung, den Bildschirm mal beiseitezulegen, sich zu bewegen, neue Menschen aus der Bitcoin-Community kennenzulernen – und, wenn man gerade erst einsteigt, auch etwas über Bitcoin zu lernen.\n\nOrt und Zeit: Siehe Homepage bzw. Telegram Gruppe oder Nostr Chat",
       "link": "https://bitcoinwalk.org/hannover/",
@@ -530,11 +530,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
     "event": {
-      "id": 3089,
-      "start": "2026-03-21T10:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3089",
+      "id": 3090,
+      "start": "2026-03-28T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3090",
       "location": "Franconiabrunnen (Residenz), Residenzpl. 2A, 97070 Würzburg",
-      "description": "21.03.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
+      "description": "28.03.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
       "link": "https://bitcoinwalk.org/wuerzburg/",
       "attendees": 0,
       "might_attendees": 0,
@@ -1004,7 +1004,17 @@
     "city": "Cham",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3116,
+      "start": "2026-03-28T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3116",
+      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://la-cham.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1714,7 +1724,7 @@
       "start": "2026-03-26T18:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3113",
       "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
-      "description": "Weitere Infos in der Telegram-Gruppe.",
+      "description": "Vortrag zu Agentic Commerce und Bitcoin.\n\nThema: Wie bezahlen KI-Agenten? Einblick in aktuelle Protokoll-Entwicklungen, Vor- und Nachteile sowie die Rolle von Bitcoin.",
       "link": "https://t.me/einundzwanzig_koeln",
       "attendees": 0,
       "might_attendees": 0,
@@ -3165,9 +3175,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "id": 2315,
-      "start": "2026-03-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2315",
+      "id": 2316,
+      "start": "2026-04-18T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2316",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3765,15 +3775,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "id": 1753,
-      "start": "2026-03-21T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1753",
+      "id": 1754,
+      "start": "2026-04-18T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1754",
       "location": "Passau oder Schärding",
-      "description": "55. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "56. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "64adab7d6912f27c58a39ae000b5cb7630d3e5706e2c2252fdf931b07c4fe5bd"
+      "nostr_note": "c3279ed514a44328d1914bdfddf30d6394a3431ff103647cfa6b5b400d99252c"
     },
     "style": {
       "fill": "var(--color-accent)"
