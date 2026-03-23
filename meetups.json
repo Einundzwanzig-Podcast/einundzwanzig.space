@@ -1216,7 +1216,7 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)\n",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1659,7 +1659,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3117,
+      "start": "2026-04-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3117",
+      "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten, 1.Stock",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Alex von Frankenberg erweist uns die Ehre mit einen kleinen Vortrag und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve zum Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
+      "link": "https://t.me/EinundzwanzigKempten",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3289,17 +3299,7 @@
     "city": "Berlin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/plebwalk-berlin",
     "twitter": null,
-    "event": {
-      "id": 3086,
-      "start": "2026-03-22T13:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/plebwalk-berlin/event/3086",
-      "location": "S-Bahnhof Tegel",
-      "description": "Willkommen zum 19. PlebWalk.\n\nHast du Lust, einen entspannten Tag in der Natur zu verbringen, etwas für deine körperliche und geistige Gesundheit zu tun, über Bitcoin zu sprechen und Zeit mit tollen Bitcoinern zu verbringen? Natürlich sind auch Neulinge und zukünftige Bitcoiner willkommen.\n\nLOS GEHT'S!\n\n22.03.2026 Plebwalk Berlin Tegler Forst/See\nTreffpunkt: S-Bahnhof Tegel\nEndpunkt: S-Bahnhof Tegel\n\nUhrzeit: 14:00 Uhr (Bitte pünktlich sein! Die maximale Wartezeit beträgt 15 Minuten, so dass wir spätestens um 14:15 Uhr mit dem PlebWalk beginnen können).\nDauer: 3-4 Std\n\nÖffentliche Verkehrsmittel: S25\nStrecke: 12,5 km Tegler Forst/See\n\nBei Fragen kontaktiert gerne die PlebWalk Telegram Gruppe (https://t.me/plebwalk_berlin).\n",
-      "link": "https://meetu.ps/e/PTqx6/10jFqJ/i",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
