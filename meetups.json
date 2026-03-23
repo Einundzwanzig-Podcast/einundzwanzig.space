@@ -1216,7 +1216,7 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)\n",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 7,
+      "attendees": 8,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3130,9 +3130,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 2724,
-      "start": "2026-03-23T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2724",
+      "id": 2725,
+      "start": "2026-04-27T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2725",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
@@ -3470,7 +3470,7 @@
       47.516232,
       14.550072
     ],
-    "url": "https://bitcoin-austria.at/events/",
+    "url": "",
     "city": "Austria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-austria",
     "twitter": "bitcoin_at",
@@ -3614,17 +3614,7 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": {
-      "id": 3114,
-      "start": "2026-03-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe/event/3114",
-      "location": "Restaurant Plaschlhof 4552 Wartberg, Sportplatzweg 1",
-      "description": "Komm vorbei und triff Bitcoiner aus der Gegend! Wir freuen uns!!",
-      "link": "https://maps.app.goo.gl/TrcgL3kbsDqstbhQ7?g_st=ic",
-      "attendees": 3,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3799,7 +3789,17 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "id": 3118,
+      "start": "2026-03-26T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria/event/3118",
+      "location": "Rox Graz, Joaneumring 5, 8010 Graz",
+      "description": "Das ist das erste Meetup im heurigen gregorianischen Kalenderjahr. Wir sind schon sehr gespannt auf eure Geschichten und wer was vom Christkind bekommen hat.\n\nFreuen uns auf ein gemütliches Zusammenkommen bei Trank und Speis.\n\nhttps://www.rox-graz.at/",
+      "link": "https://www.rox-graz.at/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
