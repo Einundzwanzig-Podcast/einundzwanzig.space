@@ -2534,7 +2534,17 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": null,
+    "event": {
+      "id": 3119,
+      "start": "2026-04-25T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/3119",
+      "location": "BitcoinWERFT Kurt-Dunkelmann-Str 2 18057 Rostock",
+      "description": "Bitcoin verstehen. Bitcoin nutzen.\nKontrolle übernehmen.\nDiese Veranstaltung richtet sich an Einsteiger, die Bitcoin verstehen und praktisch anwenden möchten. Neben einer Grundlagen-Session gibt es einen vertiefenden Workshop mit begrenzter Teilnehmerzahl.",
+      "link": "https://bitcoinerleben.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4397,7 +4407,7 @@
       "description": "Kötetlen beszélgetés a bitcoinról\nHotel Aurora - 3519 Miskolctapolca, Fagyöngy utca 2-4.\n2026. március 24.\n",
       "link": "https://bitcoinmiskolc.hu/februari-bitcoin-meetup/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
