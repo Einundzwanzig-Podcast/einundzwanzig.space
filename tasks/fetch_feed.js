@@ -30,7 +30,7 @@ const parseEpisode = e => {
   const description = replacements(e.description.__cdata).trim()
   const descriptionPlain = stripHTML(description)
   let [, categoryName = 'News', number, titlePlain] = title.match(
-    /([\w\s]+?)?\s?#(\d+) - (.*)/
+    /([\w\s]+?)?\s?#?(\d+(?:\.)?\d+) - (.*)/
   ) || [, , , title]
   if (!number) categoryName = 'Verschiedenes'
   if (categoryName === 'Der-Weg') categoryName = 'Der Weg'
