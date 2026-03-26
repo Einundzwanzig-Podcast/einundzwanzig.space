@@ -393,8 +393,8 @@
       "id": 3070,
       "start": "2026-04-01T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3070",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nOrt diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Kleines Brauhaus Dicker Mann",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nOrt diesmal: Kleines Brauhaus Dicker Mann, Ramersdorf, Heinrich-Wieland-Straße 11, 81671 München",
       "link": "https://luma.com/2udy72at",
       "attendees": 0,
       "might_attendees": 0,
@@ -1226,7 +1226,7 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)\n",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 13,
+      "attendees": 14,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1410,9 +1410,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 3072,
-      "start": "2026-03-26T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3072",
+      "id": 3073,
+      "start": "2026-04-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3073",
       "location": "Sternschanze, Absinth-Bar",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -1740,11 +1740,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "id": 3113,
-      "start": "2026-03-26T18:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3113",
-      "location": "Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln",
-      "description": "Vortrag zu Agentic Commerce und Bitcoin.\n\nThema: Wie bezahlen KI-Agenten? Einblick in aktuelle Protokoll-Entwicklungen, Vor- und Nachteile sowie die Rolle von Bitcoin.",
+      "id": 3092,
+      "start": "2026-04-15T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3092",
+      "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
+      "description": "Weitere Infos in der Telegram-Gruppe.",
       "link": "https://t.me/einundzwanzig_koeln",
       "attendees": 0,
       "might_attendees": 0,
@@ -3664,17 +3664,7 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": {
-      "id": 3084,
-      "start": "2026-03-26T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3084",
-      "location": "Bar21",
-      "description": "Jenseits von Plattformen und Algorithmen:\nWie funktioniert das „andere“ Internet?\n\nNostr, direkte Verschlüsselung, Relays, Lightning-Integration –\nein technischer Überblick mit Protom.",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/vortrag-nostr-26-03-2026/",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3809,17 +3799,7 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": {
-      "id": 3118,
-      "start": "2026-03-26T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria/event/3118",
-      "location": "Rox Graz, Joaneumring 5, 8010 Graz",
-      "description": "Das ist das erste Meetup im heurigen gregorianischen Kalenderjahr. Wir sind schon sehr gespannt auf eure Geschichten und wer was vom Christkind bekommen hat.\n\nFreuen uns auf ein gemütliches Zusammenkommen bei Trank und Speis.\n\nhttps://www.rox-graz.at/",
-      "link": "https://www.rox-graz.at/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4379,17 +4359,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": {
-      "id": 3122,
-      "start": "2026-03-26T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3122",
-      "location": "https://budabit.club/spaces/budabit.nostr1.com/calendar/22246a21abcd3a7cf8d98e0448e6cb3098f63db7539d3fa90303c917d2e46903",
-      "description": "Bring the demos.",
-      "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/22246a21abcd3a7cf8d98e0448e6cb3098f63db7539d3fa90303c917d2e46903#9883293239040606",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
