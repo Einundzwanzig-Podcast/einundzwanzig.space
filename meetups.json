@@ -364,7 +364,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 3120,
+      "start": "2026-04-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3120",
+      "location": " Unity-Bar (\"Rumbar Unity\".), Arsenalstraße 36 ",
+      "description": "\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.\n",
+      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -526,7 +536,7 @@
       9.953355
     ],
     "url": "https://t.me/+gxh485iUEPg3YTJk",
-    "city": "Würzburg ",
+    "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
     "event": {
@@ -1216,7 +1226,7 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)\n",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 8,
+      "attendees": 13,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1440,13 +1450,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "id": 2921,
-      "start": "2026-03-25T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2921",
+      "id": 2922,
+      "start": "2026-04-29T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2922",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "description": "Öffentliches Treffen mit Vorträgen zu ₿itcoin und verwandten Themen. Immer am \"₿ittwoch\" zum Ende jeden Monats. Schaue gerne in die Telegram Gruppe oder komme spontan vorbei. Die Treffen dauern oftmals bis spät in die Nacht. \nJeder ist Willkommen. Alle Fragen dürfen gestellt werden. https://t.me/+RSXEIZ_xoq1lNDM6",
       "link": "https://t.me/+RSXEIZ_xoq1lNDM6",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1664,7 +1674,7 @@
       "start": "2026-04-15T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3117",
       "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten, 1.Stock",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Alex von Frankenberg erweist uns die Ehre mit einen kleinen Vortrag und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve zum Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Alex von Frankenberg erweist uns die Ehre mit einem Vortrag über Institutionelle Adoption (ETF's, Firmen, Staaten) und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve mit dem Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
       "link": "https://t.me/EinundzwanzigKempten",
       "attendees": 2,
       "might_attendees": 0,
@@ -3376,7 +3386,7 @@
       9.953355
     ],
     "url": "https://t.me/einundzwanzig_wuerzburg",
-    "city": "Würzburg ",
+    "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
     "event": null,
@@ -3661,7 +3671,7 @@
       "location": "Bar21",
       "description": "Jenseits von Plattformen und Algorithmen:\nWie funktioniert das „andere“ Internet?\n\nNostr, direkte Verschlüsselung, Relays, Lightning-Integration –\nein technischer Überblick mit Protom.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/vortrag-nostr-26-03-2026/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4369,7 +4379,17 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 3122,
+      "start": "2026-03-26T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3122",
+      "location": "https://budabit.club/spaces/budabit.nostr1.com/calendar/22246a21abcd3a7cf8d98e0448e6cb3098f63db7539d3fa90303c917d2e46903",
+      "description": "Bring the demos.",
+      "link": "https://budabit.club/spaces/budabit.nostr1.com/calendar/22246a21abcd3a7cf8d98e0448e6cb3098f63db7539d3fa90303c917d2e46903#9883293239040606",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
