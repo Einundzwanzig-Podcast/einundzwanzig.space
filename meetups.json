@@ -62,14 +62,24 @@
   {
     "name": "21Neumarkt",
     "latLng": [
-      0,
-      0
+      49.2775,
+      11.462
     ],
-    "url": "https://21Neumarkt.de",
-    "city": "92318 Neumarkt",
+    "url": "https://chat.whatsapp.com/HbxJAlaAr4c7riPQHMk5ct",
+    "city": "92318 Neumarkt in der Oberpfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3134,
+      "start": "2026-04-30T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3134",
+      "location": "Bürgerhaus Neumarkt Fischergasse 1 92318 Neumarkt in der Oberpfalz",
+      "description": "Unsere Bitcoin-Events finden jeden letzten Donnerstag im Monat statt und bieten dir die perfekte Gelegenheit, dich mit Gleichgesinnten auszutauschen.\n\nIm Mittelpunkt steht ein offenes Gespräch rund um Bitcoin – egal ob Einsteiger oder Fortgeschrittene, jeder ist willkommen. Je nach Termin gibt es zusätzlich spannende Vorträge zu aktuellen Themen, die neue Perspektiven und Wissen vermitteln.\n\nFür kurzfristige Änderungen oder Updates empfehlen wir, unserer WhatsApp-Gruppe beizutreten, damit du immer auf dem neuesten Stand bleibst.\nhttps://chat.whatsapp.com/HbxJAlaAr4c7riPQHMk5ct\n\n\nKomm vorbei, stell deine Fragen und werde Teil der Community!",
+      "link": "https://21neumarkt.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1039,17 +1049,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 3088,
-      "start": "2026-04-07T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3088",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2769,7 +2769,17 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
+    "event": {
+      "id": 3133,
+      "start": "2026-04-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar/event/3133",
+      "location": "Hotel Sombea Donaueschingen, Dürrheimer Str. 82, 78166 Donaueschingen",
+      "description": "Immer hereinspaziert beim lustig lockeren und freiheitlichen Bitcoin-Stammtisch von Einundzwanzig Schwarzwald-Baar. Neulinge, wie auch alte Hasen sind herzlich willkommen 😉",
+      "link": "https://t.me/einundzwanzigsbk",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3500,6 +3510,21 @@
     }
   },
   {
+    "name": "Bitcoin Basics Vienna",
+    "latLng": [
+      48.208176,
+      16.373819
+    ],
+    "url": null,
+    "city": "Wien",
+    "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-basics-vienna",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin21 ",
     "latLng": [
       47.0708678,
@@ -3664,7 +3689,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 3142,
+      "start": "2026-04-18T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3142",
+      "location": "Bar21",
+      "description": "Offener Stammtisch ohne Vortrag – dafür Zeit für deine Fragen.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/bitcoin-stammtisch-linz-maerz-2026/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
