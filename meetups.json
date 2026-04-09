@@ -1244,7 +1244,17 @@
     "city": "Frankfurt am Main",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
-    "event": null,
+    "event": {
+      "id": 3143,
+      "start": "2026-04-16T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main/event/3143",
+      "location": "Massif Central im Bethmannhof, Bethmannstraße 7-9",
+      "description": "Das nächste Meetup wieder im Gebäude der ältesten Privatbank Deutschland. Wir treffen uns zum gemütlichen Beisammensein, Austausch und Diskussionen im Bistro “Massif Central”.",
+      "link": "https://btcffm.org/de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1913,10 +1923,10 @@
       "id": 2898,
       "start": "2026-04-17T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2898",
-      "location": "wechselnde Locations",
+      "location": "Pizzeria Diego´s (pay with Lightning)",
       "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2560,13 +2570,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2775,
-      "start": "2026-04-09T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2775",
-      "location": "Aeroplio-Zeppelin Hilpoltsteiner Str. 4191154 Roth",
-      "description": "Wir teffen in Aeroplio-Zeppelin in Roth.",
-      "link": "https://www.zeppelin-roth.de/",
-      "attendees": 5,
+      "id": 2776,
+      "start": "2026-05-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2776",
+      "location": "Hilpoltstein",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2930,9 +2940,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "id": 2802,
-      "start": "2026-04-09T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2802",
+      "id": 2803,
+      "start": "2026-05-14T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2803",
       "location": "RamRob Ahrensburg",
       "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!\n",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
@@ -2992,7 +3002,7 @@
       "description": null,
       "link": null,
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "35596761bab8c0cdb99a57430bc8648292f0043c83aadf60b1467cc80c501475"
     },
     "style": {
