@@ -1135,9 +1135,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "id": 2758,
-      "start": "2026-04-10T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2758",
+      "id": 2759,
+      "start": "2026-05-08T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2759",
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
@@ -1559,7 +1559,17 @@
     "city": "Hildesheim",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3146,
+      "start": "2026-04-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim/event/3146",
+      "location": "Restaurant Gleich am Phönixgelände",
+      "description": "Für alle Bitcoin-Interessierten",
+      "link": "https://t.me/EinundzwanzigHildesheim",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2995,15 +3005,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2531,
-      "start": "2026-04-10T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2531",
+      "id": 2532,
+      "start": "2026-05-08T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2532",
       "location": "Höckelheim Don’s Diner",
       "description": null,
       "link": null,
       "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "35596761bab8c0cdb99a57430bc8648292f0043c83aadf60b1467cc80c501475"
+      "might_attendees": 0,
+      "nostr_note": "8eff474657f2d4c2c03a271591a9c1858a109c5dfddfbe941fd6993fbaf58f1a"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3630,9 +3640,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau",
     "twitter": "tschahnschpange",
     "event": {
-      "id": 2195,
-      "start": "2026-04-10T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2195",
+      "id": 2196,
+      "start": "2026-05-08T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-braunau/event/2196",
       "location": "Pommers Schlosstaverne Ranshofen, ",
       "description": "Für Bitcoiner und Neugierige",
       "link": "https://maps.app.goo.gl/y22cfWGaiCCy31FM8?g_st=com.google.maps.preview.copy",
