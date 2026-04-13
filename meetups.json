@@ -3535,11 +3535,21 @@
       48.208176,
       16.373819
     ],
-    "url": null,
+    "url": "https://t.me/lesfemmesorange",
     "city": "Wien",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/bitcoin-basics-vienna",
-    "twitter": null,
-    "event": null,
+    "twitter": "lesfemmesorange",
+    "event": {
+      "id": 3155,
+      "start": "2026-08-08T07:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/bitcoin-basics-vienna/event/3155",
+      "location": "Bitcoin.Wien; Getreidemarkt 18/4, 1010 Wien",
+      "description": "Du möchtest dich endlich auf die Reise begeben, deine erste Wallet erstellen, erste Sats kaufen, einen Sparplan erstellen und erfahren worum es denn wirklich hinter dem „digitalen Gold“ geht? Dann bist du hier genau richtig!\n\nIn diesem Präsenz Kurs in Wien werden wir Themen besprechen wie u.a. unsere Geldgeschichte, heutige Problematik des Geldes, Eigenverantwortung und warum Bitcoin für so vieles die Lösung sein könnte. \n\nEinfach, praxisnah und verständlich möchten ich und andere erfahrene Bitcoiner dir helfen, den ersten Schritt zu wagen, um sicher und gut informiert, deine Reise zu starten.\n\nDie Details zum Kurs sowie den Ort erhältst du nach erfolgter Registrierung.\n\n\nmit freundlicher Unterstützung von LFO – Les Femmes Orange und Bitcoin Austria",
+      "link": "https://bitucation.com/kurs/vor-ort-bitcoin-basics-in-wien-8-august-2026/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3741,7 +3751,7 @@
       "location": "Neufeldersee Hotel",
       "description": "Bitcoin Burgenland - Konferenz",
       "link": "https://www.rettedeingeld.at/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
