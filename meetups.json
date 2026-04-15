@@ -1027,14 +1027,24 @@
   {
     "name": "Einundzwanzig Cham",
     "latLng": [
-      49.219311,
-      12.66754
+      49.218073,
+      12.666118
     ],
     "url": "https://t.me/BitcoinMeetupCham",
-    "city": "Cham",
+    "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3157,
+      "start": "2026-04-26T09:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3157",
+      "location": "Wasserwirtschaft / Oberer Regenanger 3 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden ca. eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1584,7 +1594,17 @@
     "city": "Furtwangen / Linach",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3172,
+      "start": "2026-04-25T15:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3172",
+      "location": "Wird im Telegram-Kanal bekannt gegeben",
+      "description": "Monatliches Bitcoin Meetup Hochschwarzwald\n\nLocation wird im Telegram-Kanal bekanntgegeben!\nTritt unserem Kanal bei und bleib informiert.",
+      "link": "https://t.me/+DFWMJUsN0GhhOTky",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1694,9 +1714,9 @@
       "start": "2026-04-15T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3117",
       "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten, 1.Stock",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Alex von Frankenberg erweist uns die Ehre mit einem Vortrag über Institutionelle Adoption (ETF's, Firmen, Staaten) und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve21 mit dem Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Dr. Alex von Frankenberg erweist uns die Ehre mit einem Vortrag über Institutionelle Adoption (ETF's, Firmen, Staaten) und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve21 mit dem Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
       "link": "https://t.me/EinundzwanzigKempten",
-      "attendees": 8,
+      "attendees": 10,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1766,7 +1786,7 @@
       "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
       "description": "Weitere Infos in der Telegram-Gruppe.",
       "link": "https://t.me/einundzwanzig_koeln",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1809,7 +1829,17 @@
     "city": "Tuttlingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landkreis-tuttlingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3181,
+      "start": "2026-04-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landkreis-tuttlingen/event/3181",
+      "location": "Hauserei (Landgasthof Hauser), Haubergstraße 3, 78194 Hattingen (Immendingen)",
+      "description": "Erster Bitcoin-Stammtisch im Landkreis Tuttlingen! 🟠\n\nOrt: Hauserei (Landgasthof Hauser), Haubergstraße 3, 78194 Hattingen (Immendingen)\n\nKomm vorbei, lern Bitcoin kennen und triff Gleichgesinnte!\nWeitere Infos im Telegram-Kanal: https://t.me/+RfX9Epp4qiVmYTcy",
+      "link": "https://t.me/+RfX9Epp4qiVmYTcy",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2269,7 +2299,17 @@
     "city": "Oldenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3158,
+      "start": "2026-05-08T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3158",
+      "location": "Kleine Burg, Burgstraße 2, 26122 Odenburg",
+      "description": "Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke von der Speisekarte.",
+      "link": "https://www.kleineburg-ol.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3039,7 +3079,17 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 3182,
+      "start": "2026-04-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3182",
+      "location": "Ente in Zurlauben",
+      "description": "Auf unserem Meetup könnt ihr natürlich mit Bitcoin zahlen.\n\nWenn ihr kommen möchtet sagt bitte hier oder auf Signal zu.",
+      "link": "https://mempool.space/de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
