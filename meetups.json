@@ -190,11 +190,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2631,
-      "start": "2026-04-15T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2631",
-      "location": "Café Holzmarktperle",
-      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
+      "id": 2644,
+      "start": "2026-05-07T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2644",
+      "location": "Restaurant Friedel Richter",
+      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
@@ -342,7 +342,7 @@
       "description": "Bitcoin Meetup im Herzen Jevers. Wir treffen uns im La Vie. Immer am 3. Freitag im Monat, 18 Uhr.",
       "link": "https://www.lavielepetit-jever.de/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": "da0b2ccf326c9f292a2c9e681b054befe81e8fce8820bae054a8221acad3e3ce"
     },
     "style": {
@@ -375,11 +375,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
     "event": {
-      "id": 3120,
-      "start": "2026-04-15T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3120",
-      "location": " Unity-Bar (\"Rumbar Unity\".), Arsenalstraße 36 ",
-      "description": "\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.\n",
+      "id": 3121,
+      "start": "2026-05-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3121",
+      "location": "Unity-Bar \"Rumbar Unity\", Arsenalstraße 36 ",
+      "description": "Erlebe die Zukunft des digitalen Geldes hautnah - beim Bitcoin Treffen in Schwerin. Tauche ein in die Welt der virtuellen Währungen und vernetze dich mit Gleichgesinnten in der malerischen Region Mecklenburg-Vorpommerns.\n\n\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.\n",
       "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
       "attendees": 0,
       "might_attendees": 0,
@@ -1709,17 +1709,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 3117,
-      "start": "2026-04-15T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3117",
-      "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten, 1.Stock",
-      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. \n\nDieses mal sind wir zu Gast in unserer neuen Bitcoin-Metropole. \nZum Einstand besucht uns ein ganz besonderer Bitcoiner. Dr. Alex von Frankenberg erweist uns die Ehre mit einem Vortrag über Institutionelle Adoption (ETF's, Firmen, Staaten) und beantwortet bestimmt viele eurer Fragen. Das warm up gestaltet @Nordkurve21 mit dem Thema \"Kryptographie und Seed-Sicherheit\". Er wird diesen Vortrag auf der BTC-Swiss in Kreuzlingen halten und wir sind bei der Generalprobe live dabei.\n\nAuf jeden Fall ein muß für ALLE Allgäuer Plebs.\nBis dahin…Plebs together strong.",
-      "link": "https://t.me/EinundzwanzigKempten",
-      "attendees": 10,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1780,13 +1770,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "id": 3092,
-      "start": "2026-04-15T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3092",
+      "id": 3093,
+      "start": "2026-05-20T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3093",
       "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
       "description": "Weitere Infos in der Telegram-Gruppe.",
       "link": "https://t.me/einundzwanzig_koeln",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4384,7 +4374,17 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "id": 3183,
+      "start": "2026-04-18T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/3183",
+      "location": "Muse Restaurant",
+      "description": "Diesmal treffen wir uns wieder im MUSE Restaurant, da das Elysia noch zu hat bis Mai.",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 3,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
