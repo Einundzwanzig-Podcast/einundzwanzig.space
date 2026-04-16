@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:03:13 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-3.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-2.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #126 - Specter]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-126-specter]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-126-specter</link>
+      <guid isPermaLink="false">dd707b83-3b71-46bd-b33a-b3108e5da436</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 26 Sep 2025 17:53:47 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/108856754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F5049a6a6-734e-bd7f-23ae-d35846a65776.mp3" length="20417533" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:42:32</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1758904359749-1549c638c7b73.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #126">126</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#298 - mNAV]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-298-mnav]]></description>
@@ -417,28 +435,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #121 - Ballert auf Lautlos]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-121-ballert-auf-lautlos]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-121-ballert-auf-lautlos</link>
-      <guid isPermaLink="false">0205c709-e403-498a-ae35-341f7d77828c</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sun, 06 Jul 2025 06:21:29 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/105088617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2Fad70a5e9-3464-5cca-cc6a-60d2bf8abfe1.mp3" length="73510445" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:27:29</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1751801178319-5448265c91735.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #121">121</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="PaddePadde" address="0337094f7fd7978b546777eefcabfdd5c5b54c953791837df442e8ac9bcacade87" customKey="696969" customValue="7" type="node" split="33"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/paddepadde-b21b8d6794c640260a9b5ca7bd12adaa.jpg" href="https://njump.me/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
     </item>
   </channel>
 </rss>

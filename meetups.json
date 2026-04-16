@@ -965,9 +965,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 2298,
-      "start": "2026-04-16T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2298",
+      "id": 2299,
+      "start": "2026-05-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2299",
       "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
       "description": "Bahnhofsplatz 13, 28195 Bremen, Deutschland (Eingang zum Übersee-Museum)\n(nur Barzahlung und EC-Karte ab 20€ möglich!!!)",
       "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
@@ -1236,8 +1236,8 @@
       "location": "Fürth, Zu den sieben Schwaben",
       "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
       "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
-      "attendees": 6,
-      "might_attendees": 0,
+      "attendees": 5,
+      "might_attendees": 2,
       "nostr_note": ""
     },
     "style": {
@@ -1254,17 +1254,7 @@
     "city": "Frankfurt am Main",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
-    "event": {
-      "id": 3143,
-      "start": "2026-04-16T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main/event/3143",
-      "location": "Massif Central im Bethmannhof, Bethmannstraße 7-9",
-      "description": "Das nächste Meetup wieder im Gebäude der ältesten Privatbank Deutschland. Wir treffen uns zum gemütlichen Beisammensein, Austausch und Diskussionen im Bistro “Massif Central”.",
-      "link": "https://btcffm.org/de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1795,12 +1785,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
     "event": {
-      "id": 3132,
-      "start": "2026-04-16T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3132",
-      "location": "Landau in der Pfalz",
-      "description": "Details in den Gruppen.",
-      "link": "https://t.me/einundzwanzigld",
+      "id": 2910,
+      "start": "2026-04-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2910",
+      "location": "Volkshochschule Landau (Maximilianstraße), ehemalige Alte Post, Maximilianstraße 7, 76829 Landau in der Pfalz, Raum: Saal 03, 1. Stock",
+      "description": "Vortrag \"Bitcoin für Einsteiger und Interessierte\" von Stephan Jung in der VHS Landau",
+      "link": "https://volkshochschule-landau.de/Veranstaltung/cmx690b28f65bfd4.html",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -4381,7 +4371,7 @@
       "location": "Muse Restaurant",
       "description": "Diesmal treffen wir uns wieder im MUSE Restaurant, da das Elysia noch zu hat bis Mai.",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 0,
       "nostr_note": ""
     },

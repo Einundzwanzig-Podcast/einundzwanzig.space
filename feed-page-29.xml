@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:03:13 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg #04 - Intuitiv ist Bitcoin einfach richtig]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-04-intuitiv-ist-bitcoin-einfach-richtig]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-04-intuitiv-ist-bitcoin-einfach-richtig</link>
+      <guid isPermaLink="false">d6941516-d314-4a3b-a56d-316b66e6ab40</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 23 Aug 2020 19:04:23 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/18473135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-23%2F72564266-820a-e108-5525-392879b8ea07.mp3" length="46609266" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:52:29</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1598209261045-8d143816b90bd.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #04">04</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Interview #09 - Nachlassverwaltung mit Marc Steiner]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-09-nachlassverwaltung-mit-marc-steiner]]></description>
@@ -405,25 +419,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #06 - Blockchain Bundesverband mit Markus Büch]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-06-blockchain-bundesverband-mit-markus-buech]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-06-blockchain-bundesverband-mit-markus-buech</link>
-      <guid isPermaLink="false">00e038cc-696e-4384-a9d1-87eff5ab0ccf</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 15 May 2020 05:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/13747359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-14%2F73127137-44100-2-10ca6b3d1912b.m4a" length="57229816" type="audio/x-m4a"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:09:53</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1589468282256-7177045ace74.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #06">06</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
     </item>
   </channel>
 </rss>

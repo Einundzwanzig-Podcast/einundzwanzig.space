@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:03:13 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Lesestunde #10 - Freie Privatstädte von Titus Gebel]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-10-freie-privatstaedte-von-titus-gebel]]></description>
+      <link>https://einundzwanzig.space/podcast/lesestunde-10-freie-privatstaedte-von-titus-gebel</link>
+      <guid isPermaLink="false">5affca49-b523-44a1-986d-9c097431ccf4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 16 May 2021 18:55:07 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/33617551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-16%2F8a42b74b-5e0f-d2de-16ae-b03cb397ab50.mp3" length="71366529" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:14:20</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1621191316463-318037e2bc738.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Lesestunde #10">10</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Lesestunde #09 - Das Letzte Wort zu Bitcoin's Energieverbrauch - Nic Carter]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-09-das-letzte-wort-zu-bitcoins-energieverbrauch-nic-carter]]></description>
@@ -370,24 +384,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1617020114275-cdb773b3c3b52.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #35">35</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[Interview #34 - Spieltheorie, Zentralbanken und Bitcoin mit Christian Rieck]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-34-spieltheorie-zentralbanken-und-bitcoin-mit-christian-rieck]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-34-spieltheorie-zentralbanken-und-bitcoin-mit-christian-rieck</link>
-      <guid isPermaLink="false">53feb272-a457-4025-b4b7-bcba9243fded</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 26 Mar 2021 05:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/29782895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-23%2Faf7a78cc-0d07-c1d2-0e03-0e88fa8f44c1.mp3" length="60279900" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:02:16</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1616536565517-fff488d34ec42.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #34">34</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
     </item>
   </channel>
 </rss>
