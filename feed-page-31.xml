@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslsheet.xml"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient name="Einundzwanzig" type="node" split="100" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
+    </podcast:value>
+    <title><![CDATA[Einundzwanzig, der Bitcoin Podcast]]></title>
+    <description><![CDATA[Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
+    <link>https://einundzwanzig.space/</link>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <atom:link href="https://einundzwanzig.space/feed-page-31.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-30.xml" rel="prev" type="application/rss+xml"></atom:link>
+    <copyright><![CDATA[Einundzwanzig]]></copyright>
+    <language><![CDATA[de]]></language>
+    <itunes:author>Einundzwanzig</itunes:author>
+    <itunes:summary>Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in &quot;Der Weg&quot; wie andere Leute zu Bitcoin gekommen sind.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Einundzwanzig</itunes:name>
+      <itunes:email>einundzwanzigpodcast@pm.me</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#16 - Shitcoin Trading im Turm]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-16-shitcoin-trading-im-turm]]></description>
+      <link>https://einundzwanzig.space/podcast/news-16-shitcoin-trading-im-turm</link>
+      <guid isPermaLink="false">0a620d24-a9f6-40a8-983c-f0f9a26ce9dd</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 16 Jan 2020 20:35:57 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/9738934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43773946-44100-2-0f3f60c6cb7b7.m4a" length="108362882" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:14:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703646624-ece48e38d3738.jpg"></itunes:image>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #16">16</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#15 - Honigdachs in the house]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-15-honigdachs-in-the-house]]></description>
+      <link>https://einundzwanzig.space/podcast/news-15-honigdachs-in-the-house</link>
+      <guid isPermaLink="false">036ae486-582f-49bc-abd4-9a3432f1270f</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 08 Jan 2020 22:46:23 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/9570307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-8%2F42638750-48000-2-d79f47c75c7d4.mp3" length="73404288" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:16:27</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703655941-98d8d7976ae82.jpg"></itunes:image>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #15">15</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#14 - Neuer Block, Neues Jahr]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-14-neuer-block-neues-jahr]]></description>
+      <link>https://einundzwanzig.space/podcast/news-14-neuer-block-neues-jahr</link>
+      <guid isPermaLink="false">bfe7ef61-6e9d-4d51-a803-ab9150d0e48e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 01 Jan 2020 22:29:05 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/9438349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-1%2F41594960-48000-2-a2b099104ef5.mp3" length="68654785" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>01:13:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703720347-c5ff911476722.jpg"></itunes:image>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #14">14</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#13 - HoHoHodl]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-13-hohohodl]]></description>
+      <link>https://einundzwanzig.space/podcast/news-13-hohohodl</link>
+      <guid isPermaLink="false">bbc278a5-7006-467c-b5f5-45f4822470b7</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 25 Dec 2019 22:28:19 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/9282881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-25%2F40643863-44100-2-b7468a9152453.m4a" length="98008927" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:06:17</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703731121-81053cf82447d.jpg"></itunes:image>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #13">13</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#12 - All I Want For Christmas is Bitcoin]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-12-all-i-want-for-christmas-is-bitcoin]]></description>
+      <link>https://einundzwanzig.space/podcast/news-12-all-i-want-for-christmas-is-bitcoin</link>
+      <guid isPermaLink="false">e2c27330-fe3e-4193-8399-50ccccfe343e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 18 Dec 2019 21:55:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/9093136/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-18%2F39452028-44100-2-9df86837ea55.mp3" length="43110949" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>00:45:44</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703739751-9ba01458b3e4f.jpg"></itunes:image>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #12">12</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#11 - Haarige Hörerfragen mit Hasu]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-11-haarige-hoererfragen-mit-hasu]]></description>
+      <link>https://einundzwanzig.space/podcast/news-11-haarige-hoererfragen-mit-hasu</link>
+      <guid isPermaLink="false">a8095f19-9d5c-9f84-aa9d-10f8af1be5cc</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 11 Dec 2019 22:56:10 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8952016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-11%2F38111009-44100-2-89a946d8bd465.m4a" length="126104479" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:25:16</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703765000-18b4ab9bf0bdd.jpg"></itunes:image>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #11">11</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#10 - Super Toxic]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-10-super-toxic]]></description>
+      <link>https://einundzwanzig.space/podcast/news-10-super-toxic</link>
+      <guid isPermaLink="false">5a58e678-daca-ad8b-e7f7-6cb16b2371f2</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 04 Dec 2019 23:55:12 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8814168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-4%2F36674062-48000-2-231021f3d4b3.mp3" length="51841477" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:57:33</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703771919-c7a4f695c32ae.jpg"></itunes:image>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #10">10</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#09 - Diese modernen Bitcoin-Menschen]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-09-diese-modernen-bitcoin-menschen]]></description>
+      <link>https://einundzwanzig.space/podcast/news-09-diese-modernen-bitcoin-menschen</link>
+      <guid isPermaLink="false">b8ba1612-ce23-a83b-3469-d25aa65f22f1</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 27 Nov 2019 22:11:57 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8693588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-27%2F35906004-48000-2-47150f63a98b1.m4a" length="81377854" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:54:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703780971-b41fdc9e14a8b.jpg"></itunes:image>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #09">09</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#08 - Ein Huhn kostet 185135 Satoshis]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-08-ein-huhn-kostet-185135-satoshis]]></description>
+      <link>https://einundzwanzig.space/podcast/news-08-ein-huhn-kostet-185135-satoshis</link>
+      <guid isPermaLink="false">180813cd-64ee-619e-7092-4a588df8be68</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 20 Nov 2019 22:27:17 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8564965/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-20%2F35015809-44100-1-9cbb0deab03fc.mp3" length="55421896" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:09:59</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703794783-ba8973cd4ddc6.jpg"></itunes:image>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #08">08</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#07 - The currency of the future, chicken!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-07-the-currency-of-the-future-chicken]]></description>
+      <link>https://einundzwanzig.space/podcast/news-07-the-currency-of-the-future-chicken</link>
+      <guid isPermaLink="false">e5a35ab5-e278-5871-0519-a5584640482d</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 13 Nov 2019 22:38:05 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8437559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-13%2F34111605-44100-2-c06945c8c11a.m4a" length="69139869" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:11:09</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703806318-644388b8ab84d.jpg"></itunes:image>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #07">07</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#06 - The Wolf of Bitcoinstreet]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-06-the-wolf-of-bitcoinstreet]]></description>
+      <link>https://einundzwanzig.space/podcast/news-06-the-wolf-of-bitcoinstreet</link>
+      <guid isPermaLink="false">492c7459-8c9b-a26b-a576-ae0f7734c82b</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 06 Nov 2019 22:01:31 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/8299466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-6%2F33119903-44100-1-2e8d00c1fd17a.mp3" length="44937597" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>00:58:44</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703824198-8e5aacf88a4e6.jpg"></itunes:image>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #06">06</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#05 - Wiedergeburt]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-05-wiedergeburt]]></description>
+      <link>https://einundzwanzig.space/podcast/news-05-wiedergeburt</link>
+      <guid isPermaLink="false">a401ebc0-4a8f-83b6-5994-e35d9801ac0a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 30 Oct 2019 20:55:09 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/7864019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-30%2F31755923-44100-1-2712f5e3f6c6b.mp3" length="17386782" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:22:35</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703831807-0ce5830c497e1.jpg"></itunes:image>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #05">05</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#04 - Wale und physische Bitcoins]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-04-wale-und-physische-bitcoins]]></description>
+      <link>https://einundzwanzig.space/podcast/news-04-wale-und-physische-bitcoins</link>
+      <guid isPermaLink="false">c1b9d86b-6693-7e13-6897-175d3dab83c2</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 11 Sep 2019 20:23:49 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4614183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-11%2F23299483-44100-1-ac194d18d1001.mp3" length="51441407" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>01:01:14</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703840431-2d776dc4ff786.jpg"></itunes:image>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #04">04</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#03 - Morgenstund' hat Bitcoin im Mund]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-03-morgenstund-hat-bitcoin-im-mund]]></description>
+      <link>https://einundzwanzig.space/podcast/news-03-morgenstund-hat-bitcoin-im-mund</link>
+      <guid isPermaLink="false">a91e0507-ec8f-b4cd-d25a-d603e397c354</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 05 Sep 2019 05:37:48 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4507117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-5%2F22539102-44100-1-270b99d22e10b.mp3" length="46272034" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:55:05</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703858633-08935972cf416.jpg"></itunes:image>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #03">03</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#02 - Selbst der Dümmste erkennt, dass hier nur Geld gedruckt wird]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-02-selbst-der-duemmste-erkennt-dass-hier-nur-geld-gedruckt-wird]]></description>
+      <link>https://einundzwanzig.space/podcast/news-02-selbst-der-duemmste-erkennt-dass-hier-nur-geld-gedruckt-wird</link>
+      <guid isPermaLink="false">3a5a62d3-de64-67ca-1132-02fccfd37bc0</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 28 Aug 2019 20:27:01 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4403815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-28%2F21964938-44100-1-4f0fba14b919f.mp3" length="48119988" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>00:57:17</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703888417-760e4e7e8028c.jpg"></itunes:image>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #02">02</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#01 - Es gibt Bitcoin, und es gibt Shitcoins]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-01-es-gibt-bitcoin-und-es-gibt-shitcoins]]></description>
+      <link>https://einundzwanzig.space/podcast/news-01-es-gibt-bitcoin-und-es-gibt-shitcoins</link>
+      <guid isPermaLink="false">90a3fb7e-25fe-982b-edc6-15198f53e544</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 21 Aug 2019 20:01:17 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4310841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-21%2F21435761-44100-1-b27252adfc601.mp3" length="43709474" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>00:52:01</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703879215-b48744e56bb17.jpg"></itunes:image>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #01">01</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslsheet.xml"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient name="Einundzwanzig" type="node" split="100" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
+    </podcast:value>
+    <title><![CDATA[Einundzwanzig, der Bitcoin Podcast]]></title>
+    <description><![CDATA[Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
+    <link>https://einundzwanzig.space/</link>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <atom:link href="https://einundzwanzig.space/feed-page-6.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-5.xml" rel="prev" type="application/rss+xml"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-7.xml" rel="next" type="application/rss+xml"></atom:link>
+    <copyright><![CDATA[Einundzwanzig]]></copyright>
+    <language><![CDATA[de]]></language>
+    <itunes:author>Einundzwanzig</itunes:author>
+    <itunes:summary>Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in &quot;Der Weg&quot; wie andere Leute zu Bitcoin gekommen sind.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Einundzwanzig</itunes:name>
+      <itunes:email>einundzwanzigpodcast@pm.me</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg #98 - Bitcoin ist Gemeinwohl ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-98-bitcoin-ist-gemeinwohl]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-98-bitcoin-ist-gemeinwohl</link>
+      <guid isPermaLink="false">b1aa1347-96ed-42e7-832e-f0c8cf32c3dc</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 12 Dec 2024 10:52:01 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95731100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-12%2F2f211b9d-ee4d-9476-fcbb-e6b683bb87cb.mp3" length="105349876" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:54:52</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1734000499364-2b77c9906f4a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Der Weg #98">98</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#266 - The Great ReSat]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-266-the-great-resat]]></description>
+      <link>https://einundzwanzig.space/podcast/news-266-the-great-resat</link>
+      <guid isPermaLink="false">bb37b560-ad80-451f-ad0c-24b32e3fe920</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 11 Dec 2024 21:57:34 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95709967/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-11%2Fc6345aa1-a2da-58cc-6686-2398b791886d.mp3" length="80469390" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:27:04</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #266">266</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#265 - Die Nacht der 100.000]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-265-die-nacht-der-100000]]></description>
+      <link>https://einundzwanzig.space/podcast/news-265-die-nacht-der-100000</link>
+      <guid isPermaLink="false">ac41cf90-8daa-4227-803a-7ea89e403be4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 06 Dec 2024 17:52:37 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95466402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-6%2F527e640e-cf2a-3001-5313-b3f0555153cd.mp3" length="144337701" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>02:30:20</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #265">265</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/alex-f2dcbf3ee6f18d3715bdba855a15ce18.jpg" href="https://njump.me/npub14r770s5wrqpm8jmzur5arnm9aum9x0wasaxwczael54xhjggl7ws5lygc6">Alex</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[NostrTalk #16 - der Nostrweg - feat. Münzweg Podcast]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-16-der-nostrweg-feat-muenzweg-podcast]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-16-der-nostrweg-feat-muenzweg-podcast</link>
+      <guid isPermaLink="false">654d7f43-39c3-467d-b8f3-4d00a029a282</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 02 Dec 2024 20:27:53 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95260529/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-2%2F3830cf9e-fd77-34c8-d1ae-65e6c2b76bff.mp3" length="154143389" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>01:04:13</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1733170913282-d5f8848f51faa.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #16">16</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="d0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Manu" address="03c4360e8cd8f78974c3d5c3f6dfa2fb3e02df9e66b5555a7fdbdc77cd19f723d7" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/d0enakalle-28bdf8d90b0165517c807e285004231b.png" href="https://njump.me/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/manu-148e81e8a364b48d0fed41c61c83e68a.jpg" href="https://njump.me/npub1rnvr3w3n24eysawq3upwssv3c5vg6sy5zj6wapv7asetj7l2enhs8usa5v">Manu</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#264 - Zu zweit ist es doch am schönsten]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-264-zu-zweit-ist-es-doch-am-schoensten]]></description>
+      <link>https://einundzwanzig.space/podcast/news-264-zu-zweit-ist-es-doch-am-schoensten</link>
+      <guid isPermaLink="false">006186c8-964e-455c-a8af-c9704d1556e3</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 29 Nov 2024 09:32:26 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95121658/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-29%2F65db0606-a3c3-8a11-42a7-2dd9c91beab4.mp3" length="106731232" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:51:09</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #264">264</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#263 - We are in it for the technology!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-263-we-are-in-it-for-the-technology]]></description>
+      <link>https://einundzwanzig.space/podcast/news-263-we-are-in-it-for-the-technology</link>
+      <guid isPermaLink="false">fc80b2df-72a1-4afa-b807-9a9aff79ae09</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 22 Nov 2024 08:14:55 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/94797862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-22%2F62b5a55b-7803-1fe8-59b7-838659a5a422.mp3" length="127702045" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>02:13:00</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #263">263</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/chris-22b3d2d13cbb8fb3c3b62ccff66af0d2.jpg" href="https://njump.me/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/alex-f2dcbf3ee6f18d3715bdba855a15ce18.jpg" href="https://njump.me/npub14r770s5wrqpm8jmzur5arnm9aum9x0wasaxwczael54xhjggl7ws5lygc6">Alex</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[NostrTalk #15 - Cypherpunk Future is Now - mit Max Hillebrand]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-15-cypherpunk-future-is-now-mit-max-hillebrand]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-15-cypherpunk-future-is-now-mit-max-hillebrand</link>
+      <guid isPermaLink="false">f0a86b6d-8baf-4ff6-b99b-cdc6ff35f44c</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Tue, 19 Nov 2024 17:23:46 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/94494303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-15%2F95b0aadd-6e58-43b8-0429-fff1da3c374c.mp3" length="194344909" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:20:58</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1731714092257-d5fd76f4ae36e.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #15">15</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Lassmiranda" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="9" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/lassmiranda-2f58c8fa042324d9e5937b7cedc44158.jpg" href="https://njump.me/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/max-996768c9e40edd8bf2c32b508aa64a77.jpg" href="https://towardsliberty.com/">Max</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#262 - Lando, die Stimme der Vernunft]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-262-lando-die-stimme-der-vernunft]]></description>
+      <link>https://einundzwanzig.space/podcast/news-262-lando-die-stimme-der-vernunft</link>
+      <guid isPermaLink="false">12faaecb-16c6-43c9-ba96-00c49ad34a95</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 15 Nov 2024 11:18:20 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/94464539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-15%2F6065bb05-b130-21df-4b6e-1b6baa328a15.mp3" length="114374814" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:59:07</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #262">262</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#261 - Alby guten Dinge sind 5]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-261-alby-guten-dinge-sind-5]]></description>
+      <link>https://einundzwanzig.space/podcast/news-261-alby-guten-dinge-sind-5</link>
+      <guid isPermaLink="false">97fda1c3-d261-4529-a54c-5d988204eedb</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 06 Nov 2024 21:11:37 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/94069379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-6%2F3c417bc1-9feb-210e-c959-6e0f196d7e60.mp3" length="84144871" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:51:23</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #261">261</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/chris-22b3d2d13cbb8fb3c3b62ccff66af0d2.jpg" href="https://njump.me/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/stacksats-f9b7855d8d2d9e058f76d4f5169048ca.jpg" href="https://njump.me/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/bumi-e883bbacf4e823afb9d151d72ddfce1a.jpg" href="https://getalby.com/">Bumi</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#260 - Another BRICS in the Stuhl]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-260-another-brics-in-the-stuhl]]></description>
+      <link>https://einundzwanzig.space/podcast/news-260-another-brics-in-the-stuhl</link>
+      <guid isPermaLink="false">6d248425-fecf-47e2-af21-81bd08629584</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 30 Oct 2024 21:36:58 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/93760389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-30%2F5b8fe1bc-bc2b-a06a-2619-2237e6c7ab65.mp3" length="50684585" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:00:20</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #260">260</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="13" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person>Molo</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/netdiver-39604cd805a4be4d5aac140c46aa0c3f.png" href="https://njump.me/npub1z77juddgcul5la7jq578nsurpxh99633ccanngf863m4gh6gv2msm009sr">NetDiver</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Der Weg #97 - Bitcoin ist die Hoffmann-Brille ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-97-bitcoin-ist-die-hoffmann-brille]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-97-bitcoin-ist-die-hoffmann-brille</link>
+      <guid isPermaLink="false">9f57dd3b-cd1c-482d-823f-18ce50c38b02</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 28 Oct 2024 12:16:32 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/93636572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-28%2Fbadac67b-9e10-3be9-abac-036bc27add64.mp3" length="147014557" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:16:34</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1730117752904-71404b8afd197.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Der Weg #97">97</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#259 - Der denkende Ratgeber]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-259-der-denkende-ratgeber]]></description>
+      <link>https://einundzwanzig.space/podcast/news-259-der-denkende-ratgeber</link>
+      <guid isPermaLink="false">e91424d1-6d23-4a9f-a5e6-0fc06d450fda</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 25 Oct 2024 11:32:10 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/93519334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-25%2F238a9320-2861-dcd7-b748-f9aebce61cb5.mp3" length="71562055" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:14:31</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #259">259</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[NostrTalk #14 - Herr der Schlüssel]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-14-herr-der-schluessel]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-14-herr-der-schluessel</link>
+      <guid isPermaLink="false">b44b5675-f0cd-4d77-b237-738383b786a0</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 19 Oct 2024 11:30:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92988573/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-13%2Ff2c87f1a-7016-5b07-0db3-f9818192256e.mp3" length="131124480" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:54:38</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1728859721522-99fcf9335d613.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #14">14</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#258 - Ab in den Keller!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-258-ab-in-den-keller]]></description>
+      <link>https://einundzwanzig.space/podcast/news-258-ab-in-den-keller</link>
+      <guid isPermaLink="false">8ad6029d-822b-4102-b880-63cfdd99e359</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 17 Oct 2024 15:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/93151258/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-17%2Fddffadee-0d09-e117-a911-cc871006ca27.mp3" length="172421036" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:11:50</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #258">258</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/netdiver-39604cd805a4be4d5aac140c46aa0c3f.png" href="https://njump.me/npub1z77juddgcul5la7jq578nsurpxh99633ccanngf863m4gh6gv2msm009sr">NetDiver</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Zitadellenbett-Geflüster]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-zitadellenbett-gefluester]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-zitadellenbett-gefluester</link>
+      <guid isPermaLink="false">e148c41d-b6b2-47b4-aa27-8204d05eda5c</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 16 Oct 2024 20:23:56 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/93142721/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-16%2Fd4a10f6a-0d89-d61e-ae01-4cadb801e0bf.mp3" length="25890117" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:26:58</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1729110192434-61bea2427a295.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title><![CDATA[FilterFrei #03 - Radikalisierung am Schulhof]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/filterfrei-03-radikalisierung-am-schulhof]]></description>
+      <link>https://einundzwanzig.space/podcast/filterfrei-03-radikalisierung-am-schulhof</link>
+      <guid isPermaLink="false">c0a2c562-95c9-40a7-b0d6-8e0446c22239</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 13 Oct 2024 17:22:59 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92975423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-13%2F3e3c5860-d4e1-4214-7517-8af06e10eadd.mp3" length="309985751" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>02:09:09</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1728839546271-77b109620f0d9.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="FilterFrei #03">03</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kid" address="025f4a49593dbd8b455c220bdbd8d5fc770f75264b9b2abf6d7dc91f2669efd3ae" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Manu" address="03c4360e8cd8f78974c3d5c3f6dfa2fb3e02df9e66b5555a7fdbdc77cd19f723d7" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Actionslave" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/kid-899582a195e5eab9dbd30a139630ce81.jpg" href="https://njump.me/npub1v4kfwysl44e8wrhp62ma8yek3kskn4r2jmxvx5js7wqpq7dc54ls5ejwyx">Kid</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/manu-148e81e8a364b48d0fed41c61c83e68a.jpg" href="https://njump.me/npub1rnvr3w3n24eysawq3upwssv3c5vg6sy5zj6wapv7asetj7l2enhs8usa5v">Manu</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#257 - Peter Todd is Craig Wright!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-257-peter-todd-is-craig-wright]]></description>
+      <link>https://einundzwanzig.space/podcast/news-257-peter-todd-is-craig-wright</link>
+      <guid isPermaLink="false">6d77f536-688a-4a8d-82b3-e437f2071622</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 10 Oct 2024 08:26:30 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92829172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2Fae95118f-3a97-6ba8-f1da-10d7f5096ec3.mp3" length="90479328" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:34:14</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #257">257</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Molo" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="13" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person>Molo</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#256 - First Whale Problems]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-256-first-whale-problems]]></description>
+      <link>https://einundzwanzig.space/podcast/news-256-first-whale-problems</link>
+      <guid isPermaLink="false">4acd7e61-5f86-4105-a5ab-e7012a5da3ca</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 04 Oct 2024 06:58:24 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92567977/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-4%2F7121aef2-634c-6567-0c44-a117cf7b1b72.mp3" length="97940743" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:42:00</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #256">256</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Argentiniens libertäre Zeitenwende]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-argentiniens-libertaere-zeitenwende]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-argentiniens-libertaere-zeitenwende</link>
+      <guid isPermaLink="false">7f5bdd4d-3d4c-4c6b-b667-22c6de6d8126</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 03 Oct 2024 14:50:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92536780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-3%2F55f1e91a-64e9-8662-3c1b-5380025c06e1.mp3" length="14509096" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title><![CDATA[NostrTalk #13 - No Reputation Airdrop]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-13-no-reputation-airdrop]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-13-no-reputation-airdrop</link>
+      <guid isPermaLink="false">e53716b4-d7eb-4a15-8035-371706ee59d4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 28 Sep 2024 13:30:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92248203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F21cde6a3-7918-4b1e-ad25-b98627d82e69.mp3" length="136657005" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:56:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1727387437837-d6c77b240102e.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #13">13</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/d0enakalle-28bdf8d90b0165517c807e285004231b.png" href="https://njump.me/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#255 - Bitcoin Mausi]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-255-bitcoin-mausi]]></description>
+      <link>https://einundzwanzig.space/podcast/news-255-bitcoin-mausi</link>
+      <guid isPermaLink="false">4340d3d0-28df-415d-a524-e6980982dec6</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 26 Sep 2024 08:34:43 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92219139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F8447fe44-f070-8705-3e79-7f814d94bb11.mp3" length="72772252" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:15:47</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #255">255</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+  </channel>
+</rss>

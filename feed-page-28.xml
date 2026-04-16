@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslsheet.xml"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient name="Einundzwanzig" type="node" split="100" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
+    </podcast:value>
+    <title><![CDATA[Einundzwanzig, der Bitcoin Podcast]]></title>
+    <description><![CDATA[Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
+    <link>https://einundzwanzig.space/</link>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Wed, 15 Apr 2026 13:46:00 GMT</lastBuildDate>
+    <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-27.xml" rel="prev" type="application/rss+xml"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="next" type="application/rss+xml"></atom:link>
+    <copyright><![CDATA[Einundzwanzig]]></copyright>
+    <language><![CDATA[de]]></language>
+    <itunes:author>Einundzwanzig</itunes:author>
+    <itunes:summary>Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in &quot;Der Weg&quot; wie andere Leute zu Bitcoin gekommen sind.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Einundzwanzig</itunes:name>
+      <itunes:email>einundzwanzigpodcast@pm.me</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#55 - Macrostrategy ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-55-macrostrategy]]></description>
+      <link>https://einundzwanzig.space/podcast/news-55-macrostrategy</link>
+      <guid isPermaLink="false">4b03f26c-52cf-4f45-912a-d5d5feb77ca2</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 28 Oct 2020 22:30:44 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21787079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-28%2F1ae381dd-53c2-7ee3-6a8f-b31694562c35.mp3" length="56828397" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:01:15</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #55">55</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #15 - Geld, Zentralbanken und Hyperinflation mit Ingo Sauer]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-15-geld-zentralbanken-und-hyperinflation-mit-ingo-sauer]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-15-geld-zentralbanken-und-hyperinflation-mit-ingo-sauer</link>
+      <guid isPermaLink="false">7b1da0cf-9833-4383-8075-61750e866ecf</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 26 Oct 2020 06:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21588021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-25%2Fc150d62d-7403-1fc9-a4be-cd313862cc8f.mp3" length="94019712" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:37:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1603708770280-a9e9a3e9724b3.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #15">15</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[Der Weg #07 - Bitcoin ist ehrlich]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-07-bitcoin-ist-ehrlich]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-07-bitcoin-ist-ehrlich</link>
+      <guid isPermaLink="false">004b1353-48e6-4a3d-804b-974300d424a8</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 25 Oct 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21540326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2Fed7ef588-eb7c-6569-89b2-3f3869768a0e.mp3" length="49519318" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:49:33</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1603469668627-5099bb823964c.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #07">07</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[Lesestunde #04 - Bitcoin entdecken Kapitel 1: Was ist Bitcoin? - Yan Pritzker]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-04-bitcoin-entdecken-kapitel-1-was-ist-bitcoin-yan-pritzker]]></description>
+      <link>https://einundzwanzig.space/podcast/lesestunde-04-bitcoin-entdecken-kapitel-1-was-ist-bitcoin-yan-pritzker</link>
+      <guid isPermaLink="false">5f543397-8688-4a01-9e3f-ac2a2f196258</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21192982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-01-01%2F3880d0e02f48b07ac7f49c261b75b3a9.m4a" length="22743236" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1602856160626-793d87e9e12e5.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Lesestunde #04">04</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#54 - PayPal Päpste & Bitcoin Brüder]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-54-paypal-paepste-bitcoin-brueder]]></description>
+      <link>https://einundzwanzig.space/podcast/news-54-paypal-paepste-bitcoin-brueder</link>
+      <guid isPermaLink="false">17155862-c7b7-4be6-81c4-0151097f8d50</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 21 Oct 2020 19:34:56 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21442624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-21%2F9f6ebff3-db02-8478-3172-7b5063a6741a.mp3" length="61805610" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:00:06</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #54">54</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #14 - Photon SDK mit Tankred Hase]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-14-photon-sdk-mit-tankred-hase]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-14-photon-sdk-mit-tankred-hase</link>
+      <guid isPermaLink="false">5cdce9e7-ee02-493c-9958-a6da50fd722e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 19 Oct 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21207263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-16%2F9acc88d5-5bd3-5eab-3abf-db3e21a858b4.mp3" length="44811727" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:46:10</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1602874037818-888389a69b516.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #14">14</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#53 - Cryptopoly]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-53-cryptopoly]]></description>
+      <link>https://einundzwanzig.space/podcast/news-53-cryptopoly</link>
+      <guid isPermaLink="false">436ffffb-074b-4007-9068-321bf7f847d6</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 14 Oct 2020 18:24:38 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21101154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-14%2F4485ee66-8741-6b17-0467-f9c7c225dbc6.mp3" length="55585152" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:57:54</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #53">53</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #13 - Die geldpolitische Lage mit Gunther Schnabl]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-13-die-geldpolitische-lage-mit-gunther-schnabl]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-13-die-geldpolitische-lage-mit-gunther-schnabl</link>
+      <guid isPermaLink="false">76b8b2c7-b64a-4ae9-85d5-604d559556f0</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Tue, 13 Oct 2020 04:58:05 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20996004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-12%2F01403438-d734-9c8e-34cf-b6c4b3f0e220.mp3" length="47562647" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:49:05</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1602539429994-8b88fdf9c4a49.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #13">13</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#52 - Anzeige ist raus! ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-52-anzeige-ist-raus]]></description>
+      <link>https://einundzwanzig.space/podcast/news-52-anzeige-ist-raus</link>
+      <guid isPermaLink="false">3ee06383-c52d-4a3a-b61a-cb93634e5c3e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 07 Oct 2020 14:34:06 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20747967/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-7%2Fceba60a8-be47-d61c-6137-466eaeaa3943.mp3" length="49989600" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>01:15:07</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #52">52</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #12 - Bitcoin UX und die Design Community mit Christoph Ono]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-12-bitcoin-ux-und-die-design-community-mit-christoph-ono]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-12-bitcoin-ux-und-die-design-community-mit-christoph-ono</link>
+      <guid isPermaLink="false">6dd901a5-6053-48d5-a97e-95201a5fcf1e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 05 Oct 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20528463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F48f1a43e-935c-44b4-bf13-3ce013d6134d.mp3" length="53596714" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:55:20</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1601668273152-b09e4fd761f86.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #12">12</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[Der Weg #06 - Bitcoin ist eine einmalige Chance]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-06-bitcoin-ist-eine-einmalige-chance]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-06-bitcoin-ist-eine-einmalige-chance</link>
+      <guid isPermaLink="false">a607562c-4e0e-4a32-8bbd-4d83c27e813d</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 04 Oct 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20553764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F4beeef90-de98-d01e-1de8-9c9526d5629c.mp3" length="43342373" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:49:49</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1601726191163-46411a4686a58.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #06">06</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#51 - Inflationspropaganda ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-51-inflationspropaganda]]></description>
+      <link>https://einundzwanzig.space/podcast/news-51-inflationspropaganda</link>
+      <guid isPermaLink="false">b0f46af2-3d49-4a53-a7f1-904fa9fcee97</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 30 Sep 2020 18:51:09 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20415895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-30%2Fcf3710a5-fb37-278a-ab9f-b61e3cad4d02.mp3" length="74376977" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:27:42</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #51">51</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#50 - Hodlerstrasse 21]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-50-hodlerstrasse-21]]></description>
+      <link>https://einundzwanzig.space/podcast/news-50-hodlerstrasse-21</link>
+      <guid isPermaLink="false">0831fc31-4612-401b-a631-c87c9fd88403</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 23 Sep 2020 18:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20039718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-23%2F55381141-4e0d-a3ec-622c-abff25cf8eab.mp3" length="68558592" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:11:24</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #50">50</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#49 - The Sailor of Bitcoin]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-49-the-sailor-of-bitcoin]]></description>
+      <link>https://einundzwanzig.space/podcast/news-49-the-sailor-of-bitcoin</link>
+      <guid isPermaLink="false">d2b62011-8998-4d4b-b9e7-8d453083c773</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 16 Sep 2020 21:08:54 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19715560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-16%2Fe54f12c3-9ca1-cedf-ea24-d8b940999560.mp3" length="55581021" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:11:08</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #49">49</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #11 - Kryptoanarchie und Bitcoin-only leben mit Max Hillebrand]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-11-kryptoanarchie-und-bitcoin-only-leben-mit-max-hillebrand]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-11-kryptoanarchie-und-bitcoin-only-leben-mit-max-hillebrand</link>
+      <guid isPermaLink="false">790a31ed-b09f-457a-888a-934d0086348a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 14 Sep 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19383308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-10%2F7c3c5448-a8a5-b1d2-a6a9-122e6a597a31.mp3" length="59695770" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:01:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599755387847-d176a570f17ad.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #11">11</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Interview #10 - Alex von Frankenberg]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-10-alex-von-frankenberg]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-10-alex-von-frankenberg</link>
+      <guid isPermaLink="false">5fb8d756-a4e8-4409-9a0b-03decc0aadba</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 10 Sep 2020 20:18:16 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19394643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-10%2F1aed3f04-423c-5d84-7097-e1b9e8ae00a9.mp3" length="73353600" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:16:24</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599769104940-d0f26116d9057.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #10">10</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#48 - Block Lives Matter]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-48-block-lives-matter]]></description>
+      <link>https://einundzwanzig.space/podcast/news-48-block-lives-matter</link>
+      <guid isPermaLink="false">30207a90-f8ad-4d5a-872c-cf1d1db9af04</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 09 Sep 2020 21:26:39 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19342574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-9%2F58acd1c3-ae67-0de3-d61f-91fd767a740b.mp3" length="90316416" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:35:26</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #48">48</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Der Weg #05 - Bitcoin ist der perfekte Wertspeicher]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-05-bitcoin-ist-der-perfekte-wertspeicher]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-05-bitcoin-ist-der-perfekte-wertspeicher</link>
+      <guid isPermaLink="false">4d391115-ffb1-43a0-90b1-373c15841d40</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 06 Sep 2020 11:19:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19037712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-3%2F2c0f4220-fcc2-1177-1008-7bd291f6ffb0.mp3" length="67642630" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:48:25</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599172150013-992adb06ab877.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #05">05</podcast:episode>
+    </item>
+    <item>
+      <title><![CDATA[#47 - Krypto ist Bitcoin]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-47-krypto-ist-bitcoin]]></description>
+      <link>https://einundzwanzig.space/podcast/news-47-krypto-ist-bitcoin</link>
+      <guid isPermaLink="false">201985d2-92ab-4d09-b68b-63774f3ef410</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 02 Sep 2020 19:48:26 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/18975928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-2%2Fb4715dad-6106-6955-a837-433eb6aaa5e7.mp3" length="49733376" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:51:48</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #47">47</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[#46 - Lass Bitcoin laufen statt im Fiat zu ersaufen]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-46-lass-bitcoin-laufen-statt-im-fiat-zu-ersaufen]]></description>
+      <link>https://einundzwanzig.space/podcast/news-46-lass-bitcoin-laufen-statt-im-fiat-zu-ersaufen</link>
+      <guid isPermaLink="false">8ab3b82b-ec1a-4a3a-b5b0-90553ff2f5a7</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 26 Aug 2020 20:54:43 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/18634234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-26%2Fcc78a009-4a44-f68e-0999-ab736a2cf40d.mp3" length="60393314" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:02:50</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #46">46</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+    <item>
+      <title><![CDATA[Der Weg #04 - Intuitiv ist Bitcoin einfach richtig]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-04-intuitiv-ist-bitcoin-einfach-richtig]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-04-intuitiv-ist-bitcoin-einfach-richtig</link>
+      <guid isPermaLink="false">d6941516-d314-4a3b-a56d-316b66e6ab40</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 23 Aug 2020 19:04:23 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/18473135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-23%2F72564266-820a-e108-5525-392879b8ea07.mp3" length="46609266" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:52:29</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1598209261045-8d143816b90bd.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #04">04</podcast:episode>
+    </item>
+  </channel>
+</rss>
