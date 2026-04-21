@@ -400,12 +400,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 3123,
-      "start": "2026-05-06T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3123",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n​Erwartete Anzahl Besucher: 30-40\n\n​Wann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://luma.com/mr83toih",
+      "id": 3185,
+      "start": "2026-04-22T18:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3185",
+      "location": "₿⚒️ Deutsches Bitcoin Online Socratic Seminar #20",
+      "description": "Das deutschsprachige, überregionale Online Bitcoin Socratic Seminar.\n\nWas ist ein Socratic Seminar?\n\n    https://bitcoinmagazine.com/culture/op-ed-want-to-learn-about-bitcoin-try-a-local-socratic-seminar\n\ntl;dr offener, moderierter Austausch zu aktuellen Bitcoin-Themen und News vorwiegend technischer Natur. Papers, Issues und Pull Requests, Neue Versionen vielfach eingesetzter Tools, Vulnerabilities,... Generelle News, die etwa politische oder finanzwirtschaftliche Aspekte betreffen, werden teilweise auch angeschnitten.",
+      "link": "https://bitcoinsocratic.de/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -3039,7 +3039,17 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 3186,
+      "start": "2026-05-15T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3186",
+      "location": "Ente in Zurlauben",
+      "description": "Unser Meetup ist wieder in der Ente in Zurlauben. Hier könnt ihr mit Bitcoin zahlen und natürlich gut bürgerlich essen.\nWenn ihr Interesse habt, einfach hier oder auf Signal zusagen und vorbei kommen.\nFalls ihr doch nicht könnt, sagt bitte vorher ab.",
+      "link": "https://media.tenor.com/T1gwEs0mYQQAAAAC/cool-duck.gif",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
