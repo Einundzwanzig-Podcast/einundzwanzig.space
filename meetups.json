@@ -604,17 +604,7 @@
     "city": "Wuppertal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup",
     "twitter": null,
-    "event": {
-      "id": 3126,
-      "start": "2026-04-24T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup/event/3126",
-      "location": "Lise-Meitner-Straße 1-3, 42119 Wuppertal",
-      "description": "Du willst dich mit anderen Bitcoin-Interessierten vernetzen, dich informieren und austauschen?\n\nDann komm vorbei – du bist herzlich eingeladen! 🟠\n\nEgal ob du neue Kontakte suchst, Fragen zu deinem Bitcoin-Setup hast oder einfach Lust auf gute Gespräche in entspannter Runde – wir freuen uns riesig auf dich.",
-      "link": "https://orangelounge.io/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1236,7 +1226,7 @@
       "location": "Fürth, Zu den sieben Schwaben",
       "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
       "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
-      "attendees": 7,
+      "attendees": 11,
       "might_attendees": 3,
       "nostr_note": ""
     },
@@ -1784,17 +1774,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "id": 2910,
-      "start": "2026-04-24T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/2910",
-      "location": "Volkshochschule Landau (Maximilianstraße), ehemalige Alte Post, Maximilianstraße 7, 76829 Landau in der Pfalz, Raum: Saal 03, 1. Stock",
-      "description": "Vortrag \"Bitcoin für Einsteiger und Interessierte\" von Stephan Jung in der VHS Landau",
-      "link": "https://volkshochschule-landau.de/Veranstaltung/cmx690b28f65bfd4.html",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1809,17 +1789,7 @@
     "city": "Tuttlingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landkreis-tuttlingen",
     "twitter": null,
-    "event": {
-      "id": 3181,
-      "start": "2026-04-24T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landkreis-tuttlingen/event/3181",
-      "location": "Hauserei (Landgasthof Hauser), Haubergstraße 3, 78194 Hattingen (Immendingen)",
-      "description": "Erster Bitcoin-Stammtisch im Landkreis Tuttlingen! 🟠\n\nOrt: Hauserei (Landgasthof Hauser), Haubergstraße 3, 78194 Hattingen (Immendingen)\n\nKomm vorbei, lern Bitcoin kennen und triff Gleichgesinnte!\nWeitere Infos im Telegram-Kanal: https://t.me/+RfX9Epp4qiVmYTcy",
-      "link": "https://t.me/+RfX9Epp4qiVmYTcy",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3729,7 +3699,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 3187,
+      "start": "2026-05-08T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3187",
+      "location": "Bar21",
+      "description": "Stammtisch – ohne Thema\n\nKein Vortrag, kein Programm – einfach zusammenkommen, reden und Bitcoin-Luft schnuppern. Ob Einsteiger oder erfahrener Bitcoiner: jeder ist willkommen.\n\nKein Vorwissen notwendig – offen für alle.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/08-mai-stammtisch/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3814,17 +3794,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3127,
-      "start": "2026-04-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3127",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 24.04.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
