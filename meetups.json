@@ -500,9 +500,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2679,
-      "start": "2026-04-25T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2679",
+      "id": 2680,
+      "start": "2026-05-02T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2680",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -550,11 +550,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
     "event": {
-      "id": 3129,
-      "start": "2026-04-25T09:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3129",
+      "id": 3191,
+      "start": "2026-05-09T09:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3191",
       "location": "Franconiabrunnen (Residenz), Residenzpl. 2A, 97070 Würzburg",
-      "description": "BitcoinWalk Würzburg\nTreffpunkt: Frankoniabrunnen am Residenzplatz, 97070 Würzburg\n25.04.26 um 11:30 Uhr\nBis bald! 🙌 See you on SATurday!",
+      "description": "9.5.26 um 11:30 Uhr\nTreffpunkt: Franconiabrunnen (Residenz)\n\nhttps://bitcoinwalk.org/wuerzburg/\n\nBis bald! 🙌",
       "link": "https://bitcoinwalk.org/wuerzburg/",
       "attendees": 0,
       "might_attendees": 0,
@@ -1049,7 +1049,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3190,
+      "start": "2026-05-05T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3190",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1220,14 +1230,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "id": 2820,
-      "start": "2026-04-25T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2820",
-      "location": "Fürth, Zu den sieben Schwaben",
-      "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
-      "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
-      "attendees": 11,
-      "might_attendees": 3,
+      "id": 2823,
+      "start": "2026-05-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2823",
+      "location": "Bamberg tbd",
+      "description": "Bamberg tbd",
+      "link": "https://share.google/WPKs4TY9AHAfESvy1",
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -1575,11 +1585,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald",
     "twitter": null,
     "event": {
-      "id": 3172,
-      "start": "2026-04-25T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3172",
-      "location": "Gasthaus Wilhelmshöhe, Lukas-Kuner-Weg 1, Rohrhardsberg, 78136 Schonach im Schwarzwald",
-      "description": "Monatliches Bitcoin Meetup Hochschwarzwald\n\nGasthaus Wilhelmshöhe, Lukas-Kuner-Weg 1, Rohrhardsberg, 78136 Schonach im Schwarzwald\nReservierung auf Roman Reher. Tritt unserem Telegram-Kanal bei und bleib informiert.",
+      "id": 3173,
+      "start": "2026-05-09T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3173",
+      "location": "Wird im Telegram-Kanal bekannt gegeben",
+      "description": "Monatliches Bitcoin Meetup Hochschwarzwald\n\nLocation wird im Telegram-Kanal bekanntgegeben!\nTritt unserem Kanal bei und bleib informiert.",
       "link": "https://t.me/+DFWMJUsN0GhhOTky",
       "attendees": 0,
       "might_attendees": 0,
@@ -2025,9 +2035,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach",
     "twitter": null,
     "event": {
-      "id": 2906,
-      "start": "2026-04-25T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach/event/2906",
+      "id": 2907,
+      "start": "2026-05-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moenchengladbach/event/2907",
       "location": "Wird in Telegram bakannt gegeben",
       "description": "Willkommen beim Bitcoin Stammtisch in Mönchengladbach!\n\nWir treffen uns jeden 4. Samstag des Monats an wechselnden Orten in und um der Stadt.\nEgal ob du neu bei Bitcoin bist, oder ob du ein eingesessener OG bist, bei uns bist du immer herzlich willkommen.\nBring auch gerne deine No-Coiner Freunde mit, wir machen was draus.\n\nBis bald!",
       "link": "https://www.bitcoin-treff.com/standorte/einundzwanzig-m%C3%B6nchengladbach.html",
@@ -2544,17 +2554,7 @@
     "city": "Rostock",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock",
     "twitter": "EinundzwanzigRO",
-    "event": {
-      "id": 3119,
-      "start": "2026-04-25T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rostock/event/3119",
-      "location": "BitcoinWERFT Kurt-Dunkelmann-Str 2 18057 Rostock",
-      "description": "Bitcoin verstehen. Bitcoin nutzen.\nKontrolle übernehmen.\nDiese Veranstaltung richtet sich an Einsteiger, die Bitcoin verstehen und praktisch anwenden möchten. Neben einer Grundlagen-Session gibt es einen vertiefenden Workshop mit begrenzter Teilnehmerzahl.",
-      "link": "https://bitcoinerleben.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
