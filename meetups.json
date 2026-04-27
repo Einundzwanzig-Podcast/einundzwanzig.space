@@ -1024,17 +1024,7 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "id": 3157,
-      "start": "2026-04-26T09:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3157",
-      "location": "Wasserwirtschaft / Oberer Regenanger 3 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden ca. eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://wasserwirtschaft-cham.de/kontakt/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1784,7 +1774,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 3202,
+      "start": "2026-05-22T15:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3202",
+      "location": "Landau in der Pfalz",
+      "description": "Meetup zum Pizza Day",
+      "link": "https://t.me/einundzwanzigld",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2019,7 +2019,17 @@
     "city": "Moers",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3193,
+      "start": "2026-05-07T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers/event/3193",
+      "location": "wird in der Telegram Gruppe bekanntgegeben",
+      "description": "Regelmäßiges meetup am 1. Donnerstag des Monats",
+      "link": "https://t.me/einundzwanzigMoers",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3007,7 +3017,7 @@
       "description": "Unser Meetup ist wieder in der Ente in Zurlauben. Hier könnt ihr mit Bitcoin zahlen und natürlich gut bürgerlich essen.\nWenn ihr Interesse habt, einfach hier oder auf Signal zusagen und vorbei kommen.\nFalls ihr doch nicht könnt, sagt bitte vorher ab.",
       "link": "https://media.tenor.com/T1gwEs0mYQQAAAAC/cool-duck.gif",
       "attendees": 1,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
