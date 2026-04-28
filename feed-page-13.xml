@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 22:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:23:52 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-13.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-12.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,25 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#192 - Lightning Zahlung im Geschäft]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-192-lightning-zahlung-im-geschaeft]]></description>
+      <link>https://einundzwanzig.space/podcast/news-192-lightning-zahlung-im-geschaeft</link>
+      <guid isPermaLink="false">4f2f3bd1-e0e6-4e19-bae8-db147ba50967</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 19 Jul 2023 21:07:33 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/73614435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-19%2F0fe05fef-e301-078e-1ce3-950091b29ad8.mp3" length="160161635" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:51:13</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>192</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #192">192</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
     <item>
       <title><![CDATA[On Tour #2 - Zitadelle 2023]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-on-tour-2-zitadelle-2023]]></description>
@@ -436,30 +455,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#179 - Proof of Word]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-179-proof-of-word]]></description>
-      <link>https://einundzwanzig.space/podcast/news-179-proof-of-word</link>
-      <guid isPermaLink="false">51a77a8e-3ddf-4d38-8deb-5147c6540d2a</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 19 Apr 2023 21:20:17 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/68936793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-19%2F713f2f51-9fd9-a6f4-4c8b-33dc64843449.mp3" length="280750135" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:56:58</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #179">179</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="toobittofail" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="rVstXVOghc9Jb1a1QoFz" type="node" split="33"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/toobittofail-8cc92ad83082175736d60056a47be4c9.jpg" href="https://njump.me/npub1pzcj8yfs3kx2thtjpz3agr2w54m52kv9a2933smqyt6n6k2ql3aq2d0wlx">Too Bit to Fail</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/justanothernode-e576b7e2c5afa03047a2dc00701abd18.jpg" href="https://njump.me/npub1xhtqzpaqqynfapmwkn92anx8am3953xv4gkpncmyuwmdqdl42c5srpaydc">Just Another Node</podcast:person>
     </item>
   </channel>
 </rss>

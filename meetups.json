@@ -400,12 +400,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 3123,
-      "start": "2026-05-06T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3123",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n​Erwartete Anzahl Besucher: 30-40\n\n​Wann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://luma.com/mr83toih",
+      "id": 3204,
+      "start": "2026-05-01T10:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3204",
+      "location": "₿🥾 Hiking / PlebWalk: Starnberg ➜ Maisinger Seehof",
+      "description": "Am Freitag, 1. Mai (Feiertag) plebwalken und pilgern wir wieder von Starnberg aus zum Maisinger Seehof, zwischen dem Starnberger See und dem Ammersee gelegen, der Bitcoin akzeptiert. Der Wanderweg führt durch die sehr schöne Maisinger Schlucht. Für die Strecke benötigt man zirka eine Stunde.\n\nWann: Freitag, 01. Mai 2026, Treffpunkt 12:30 Uhr mittags, Blockzeit ~947.443\n\n​Ort diesmal: Treffpunkt \"Caffè-Eis-Tabak Gelatino\"-Kiosk an der S-Bahn-Station Starnberg (Seepromenade) direkt am Seeufer\n\n[...]",
+      "link": "https://luma.com/fexq7v82",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -588,21 +588,6 @@
     "url": "https://t.me/+Aywy5oJoa4k4N2Qy",
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Club Orange Meetup",
-    "latLng": [
-      51.23632,
-      7.159921
-    ],
-    "url": "https://orangelounge.io/",
-    "city": "Wuppertal",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/club-orange-meetup",
     "twitter": null,
     "event": null,
     "style": {
@@ -1159,7 +1144,17 @@
     "city": "Erding",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3207,
+      "start": "2026-05-16T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-erding/event/3207",
+      "location": "Herzogstube, Kleiner Platz 8, 85435 Erding, Germany",
+      "description": "Der Erdinger Bitcoin Stammtisch trifft sich dieses mal im Zentrum von Erding. Bis bald auf ein gemütliches treffen !",
+      "link": "https://herzogstubn.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1689,7 +1684,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3205,
+      "start": "2026-05-08T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3205",
+      "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten",
+      "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3325,6 +3330,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Orange Lounge",
+    "latLng": [
+      51.23632,
+      7.159921
+    ],
+    "url": "https://orangelounge.io/",
+    "city": "Wuppertal",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/orange-lounge",
+    "twitter": null,
+    "event": {
+      "id": 3206,
+      "start": "2026-05-22T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/orange-lounge/event/3206",
+      "location": "Lise-Meitner-Straße 1-3, 42119 Wuppertal",
+      "description": "Bitcoin Pizza Day\nDu willst dich mit anderen Bitcoin-Interessierten vernetzen, dich informieren und austauschen? Dann komm vorbei – du bist herzlich eingeladen! 🟠 Egal ob du neue Kontakte suchst, Fragen zu deinem Bitcoin-Setup hast oder einfach Lust auf gute Gespräche in entspannter Runde – wir freuen uns riesig auf dich.",
+      "link": "https://orangelounge.io",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
