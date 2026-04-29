@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 10:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:28:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-12.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-11.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Lesestunde #28 - 1984 (George Orwell)]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-28-1984-george-orwell]]></description>
+      <link>https://einundzwanzig.space/podcast/lesestunde-28-1984-george-orwell</link>
+      <guid isPermaLink="false">d7e34441-72cf-49a6-b489-aa1a8b1d5c08</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 02 Oct 2023 13:34:06 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/76669090/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F6826e1ac-07d3-7604-f711-4327818f72ac.mp3" length="56808950" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:41:37</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Lesestunde #28">28</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="13" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
+      <podcast:person>Molo</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#202 - Wer das liest, ist doof!]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-202-wer-das-liest-ist-doof]]></description>
@@ -453,26 +473,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #81 - Bitcoin ist unfassbar]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-81-bitcoin-ist-unfassbar]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-81-bitcoin-ist-unfassbar</link>
-      <guid isPermaLink="false">c5920d20-4117-42c5-bcdf-9858aea36ee6</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 21 Jul 2023 14:03:29 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/73682602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-21%2F9ccd3778-3593-88c0-5c4d-f1c420f439d0.mp3" length="122342426" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:03:43</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1689948185545-391ca86f18b24.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Der Weg #81">81</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 10:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:28:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-14.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-13.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg #76 - Bitcoin is Connecting People]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-76-bitcoin-is-connecting-people]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-76-bitcoin-is-connecting-people</link>
+      <guid isPermaLink="false">ff6f85c6-f80d-4899-9d0f-dc4b827e930c</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 24 Apr 2023 08:00:02 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/69184383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F5554270f-2588-c624-a58c-c93c3b911d07.mp3" length="100838425" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:52:31</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1682323081819-d1dadcaf0dc88.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Der Weg #76">76</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#179 - Proof of Word]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-179-proof-of-word]]></description>
@@ -444,24 +464,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/lassmiranda-2f58c8fa042324d9e5937b7cedc44158.jpg" href="https://njump.me/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #88 - Jesse & Bitcoin Ekasi]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-88-jesse-bitcoin-ekasi]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-88-jesse-bitcoin-ekasi</link>
-      <guid isPermaLink="false">2f0724bc-fef2-4560-af86-bcdaf9073fec</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sat, 28 Jan 2023 06:30:06 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/63983824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F2b8d013e-907b-0deb-099d-57310920e623.mp3" length="168198720" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:10:04</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1674595349270-22a294a05a241.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #88">88</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
   </channel>
 </rss>

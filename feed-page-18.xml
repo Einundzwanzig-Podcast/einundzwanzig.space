@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 10:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:28:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-18.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-17.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Satoshis Beach 2022 - Special]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/satoshis-beach-2022-special]]></description>
+      <link>https://einundzwanzig.space/podcast/satoshis-beach-2022-special</link>
+      <guid isPermaLink="false">d76cbd2e-1118-4148-a871-542a2393a297</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 20 Jun 2022 13:14:31 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/53741697/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-20%2F97e36cd2-eabb-2fed-17f9-97c86d6ef4c9.mp3" length="55678509" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:38:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1655730861697-bd0dffaf74086.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Satoshis Beach #2022">2022</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Der Weg #51 - Bitcoin ist unser Lebensretter]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-51-bitcoin-ist-unser-lebensretter]]></description>
@@ -432,25 +446,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
       <podcast:person>Molo</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#129 - Dvadesetjedan]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-129-dvadesetjedan]]></description>
-      <link>https://einundzwanzig.space/podcast/news-129-dvadesetjedan</link>
-      <guid isPermaLink="false">b86b3e40-5102-40cd-b978-4d289ac6eceb</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 13 Apr 2022 19:49:21 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/50551644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-13%2Feae14a21-3923-e7ac-71c7-971ad7dc2fb6.mp3" length="72575385" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:19:37</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #129">129</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
     </item>
   </channel>
 </rss>

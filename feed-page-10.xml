@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 10:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:28:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-10.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-9.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,30 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #07 - Boating Safety Npubs]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-07-boating-safety-npubs]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-07-boating-safety-npubs</link>
+      <guid isPermaLink="false">958061d2-92c6-4cda-b468-6e328d6d45fd</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 18 Feb 2024 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/82802890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-17%2Facf2c126-edef-6995-9006-351548bc675a.mp3" length="137917470" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:57:27</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1708181438892-f6ab959db0394.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #07">07</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="D0enakalle" address="0342643d329bea96befc58e65579c333a9f20eee48eaefa8c76d9bdf68a18d6220" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Anti" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="2pXYvwPFFCa3ff9CbjfV" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/d0enakalle-28bdf8d90b0165517c807e285004231b.png" href="https://njump.me/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/anti-0ec448eaa6a2c55eef90fa16ef2040e8.jpg" href="https://njump.me/npub1yu25lwrnht0knsl2swsd5mn966s4p54l3aejplpnzsjg6aryt3jq9t9xxs">Anti</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/stacksats-f9b7855d8d2d9e058f76d4f5169048ca.jpg" href="https://njump.me/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#222 - Opa erzählt vom Krieg]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-222-opa-erzaehlt-vom-krieg]]></description>
@@ -447,24 +471,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #97 - Noch Liquid(e)? - mit Michi von Boltz zu Sidechains & Liquid Swaps]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-97-noch-liquide-mit-michi-von-boltz-zu-sidechains-liquid-swaps]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-97-noch-liquide-mit-michi-von-boltz-zu-sidechains-liquid-swaps</link>
-      <guid isPermaLink="false">fc2e76b1-7756-43db-a1f0-21218fe298bd</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 11 Dec 2023 04:55:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/79837189/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-10%2Fb111effd-dac5-0a72-3c40-08a3e7de8a68.mp3" length="69746964" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:29:03</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1702246208076-0dcd14214fb1d.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #97">97</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
     </item>
   </channel>
 </rss>
