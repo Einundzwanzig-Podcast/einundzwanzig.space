@@ -400,12 +400,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 3204,
-      "start": "2026-05-01T10:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3204",
-      "location": "₿🥾 Hiking / PlebWalk: Starnberg ➜ Maisinger Seehof",
-      "description": "Am Freitag, 1. Mai (Feiertag) plebwalken und pilgern wir wieder von Starnberg aus zum Maisinger Seehof, zwischen dem Starnberger See und dem Ammersee gelegen, der Bitcoin akzeptiert. Der Wanderweg führt durch die sehr schöne Maisinger Schlucht. Für die Strecke benötigt man zirka eine Stunde.\n\nWann: Freitag, 01. Mai 2026, Treffpunkt 12:30 Uhr mittags, Blockzeit ~947.443\n\n​Ort diesmal: Treffpunkt \"Caffè-Eis-Tabak Gelatino\"-Kiosk an der S-Bahn-Station Starnberg (Seepromenade) direkt am Seeufer\n\n[...]",
-      "link": "https://luma.com/fexq7v82",
+      "id": 3123,
+      "start": "2026-05-06T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3123",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n​Erwartete Anzahl Besucher: 30-40\n\n​Wann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://luma.com/mr83toih",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -894,7 +894,17 @@
     "city": "Bitburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
     "twitter": "EinundzwanzigBi",
-    "event": null,
+    "event": {
+      "id": 3209,
+      "start": "2026-05-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg/event/3209",
+      "location": "Restaurant Zagreb",
+      "description": "Meetup im Restaurant Zagreb in Bitburg ab 18 Uhr",
+      "link": "https://maps.app.goo.gl/TdB5cUcT2UmMrdLb7",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
