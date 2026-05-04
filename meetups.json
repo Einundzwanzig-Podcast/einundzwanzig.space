@@ -150,13 +150,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
     "event": {
-      "id": 2426,
-      "start": "2026-05-03T14:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2426",
+      "id": 2427,
+      "start": "2026-06-07T14:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2427",
       "location": "spontan (siehe Telegram Gruppe)",
       "description": "Regelmäßiges Treffen",
       "link": null,
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
     },
@@ -1701,7 +1701,7 @@
       "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -2644,7 +2644,17 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3210,
+      "start": "2026-05-22T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/3210",
+      "location": "Pizzeria \"Da Bruno\" in Rottweil",
+      "description": "Wir feiern den Bitcoin Pizza-Day!\nAnmeldung bitte in der Telegram Gruppe. Danke",
+      "link": "https://dabruno-rw.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2946,7 +2956,7 @@
     "twitter": null,
     "event": {
       "id": 2803,
-      "start": "2026-05-14T16:00:00.000000Z",
+      "start": "2026-05-07T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2803",
       "location": "RamRob Ahrensburg",
       "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!\n",
