@@ -403,8 +403,8 @@
       "id": 3123,
       "start": "2026-05-06T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3123",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n​Erwartete Anzahl Besucher: 30-40\n\n​Wann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Königlicher Hirschgarten",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\n​Erwartete Anzahl Besucher: 30-40\n\nWann: Mittwoch, 06. Mai 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~948.165\n\nOrt diesmal: Königlicher Hirschgarten (je nach Wetter bewirteter Biergartenbereich oder Restaurant), Hirschgarten 1, 80639 München",
       "link": "https://luma.com/mr83toih",
       "attendees": 0,
       "might_attendees": 0,
@@ -1034,17 +1034,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 3190,
-      "start": "2026-05-05T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3190",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1161,7 +1151,7 @@
       "location": "Herzogstube, Kleiner Platz 8, 85435 Erding, Germany",
       "description": "Der Erdinger Bitcoin Stammtisch trifft sich dieses mal im Zentrum von Erding. Bis bald auf ein gemütliches treffen !",
       "link": "https://herzogstubn.de/",
-      "attendees": 1,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3655,7 +3645,7 @@
       47.48748,
       10.71948
     ],
-    "url": "https://t.me/einundzwanzig_AUSSERFERN",
+    "url": "",
     "city": "Reutte",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
