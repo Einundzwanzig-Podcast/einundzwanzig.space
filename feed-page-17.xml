@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 01 May 2026 21:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:57:39 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-17.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-16.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,28 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#148 - Kill Switch]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-148-kill-switch]]></description>
+      <link>https://einundzwanzig.space/podcast/news-148-kill-switch</link>
+      <guid isPermaLink="false">7d6ef088-b5a3-480b-b638-59e1ae122c4b</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 31 Aug 2022 21:07:09 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/56919734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-1%2F5e47b000-23ed-0630-3fa8-d74e288c4e2b.mp3" length="95099971" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:53:12</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #148">148</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/chris-22b3d2d13cbb8fb3c3b62ccff66af0d2.jpg" href="https://njump.me/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #58 - Bitcoin ist der beste Lehrer]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-58-bitcoin-ist-der-beste-lehrer]]></description>
@@ -425,24 +447,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1656106210836-17d24a55b5811.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #52">52</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #79 - Probleme in der Pflege und Bitcoin als Lösung?]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-79-probleme-in-der-pflege-und-bitcoin-als-loesung]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-79-probleme-in-der-pflege-und-bitcoin-als-loesung</link>
-      <guid isPermaLink="false">29dcd868-dfd4-4201-843c-f7ac140afd32</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 24 Jun 2022 04:00:09 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/53760628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-20%2F53d5eb49-561a-7f0c-77d0-6f7c7b28e7e9.mp3" length="71385743" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:04:19</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1655752924279-5bb0e63c5528b.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #79">79</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
