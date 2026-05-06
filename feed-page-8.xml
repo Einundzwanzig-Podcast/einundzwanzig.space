@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 05 May 2026 16:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:46:33 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-8.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-7.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,30 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#246 - He died like a dog]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-246-he-died-like-a-dog]]></description>
+      <link>https://einundzwanzig.space/podcast/news-246-he-died-like-a-dog</link>
+      <guid isPermaLink="false">6b7603a1-30a2-4823-9a12-56335e89f688</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 25 Jul 2024 21:53:39 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/89675098/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-25%2F629c88bf-54f9-c633-fad7-0ab121786bf0.mp3" length="110685967" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:55:18</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #246">246</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="StackSats" address="02bc3fae0be2045433dad90090aba2fb0083e92f33f67eb962b60cb82db5fedae1" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Wantclue" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="MNy1b07YmuaEQyE9WtjT" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/stacksats-f9b7855d8d2d9e058f76d4f5169048ca.jpg" href="https://njump.me/npub1hycynfhz23ardfmf9kgwfw4gpyqj2fsh24r2zuehg4x7lx4kn5cqsqv4y3">StackSats</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/wantclue-4b95ffcd4817ec94cc1fb252691a52e3.jpg" href="https://www.wantclue.de">WantClue</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #109 - Die Zukunft von Lightning mit Tidebinder]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-109-die-zukunft-von-lightning-mit-tidebinder]]></description>
@@ -443,25 +467,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #106 - Rückkehr zu Wissenschaft und Rechtsordnung - mit Michael Esfeld]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-106-rueckkehr-zu-wissenschaft-und-rechtsordnung-mit-michael-esfeld]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-106-rueckkehr-zu-wissenschaft-und-rechtsordnung-mit-michael-esfeld</link>
-      <guid isPermaLink="false">2b8971bb-da8f-4a77-b96a-cbdd20958820</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 06 May 2024 04:15:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/86221337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-2%2F0841735f-0400-d61a-6f55-612c36167f23.mp3" length="53274354" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:09:46</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1714658985476-5a12ab79de284.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #106">106</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Spok (Audioproduktion)" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" customKey="696969" customValue="15" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/spok-80eab20f01135d8462657d33411c5842.png" href="https://fairtalk.tv">spok</podcast:person>
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 05 May 2026 16:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:46:33 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,21 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #11 - Kryptoanarchie und Bitcoin-only leben mit Max Hillebrand]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-11-kryptoanarchie-und-bitcoin-only-leben-mit-max-hillebrand]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-11-kryptoanarchie-und-bitcoin-only-leben-mit-max-hillebrand</link>
+      <guid isPermaLink="false">790a31ed-b09f-457a-888a-934d0086348a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 14 Sep 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19383308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-10%2F7c3c5448-a8a5-b1d2-a6a9-122e6a597a31.mp3" length="59695770" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:01:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599755387847-d176a570f17ad.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #11">11</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #10 - Alex von Frankenberg]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-10-alex-von-frankenberg]]></description>
@@ -395,25 +410,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #07 - Die Österreichische Schule und Bitcoin mit Rahim Taghizadegan]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-07-die-oesterreichische-schule-und-bitcoin-mit-rahim-taghizadegan]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-07-die-oesterreichische-schule-und-bitcoin-mit-rahim-taghizadegan</link>
-      <guid isPermaLink="false">1ed6a26b-a835-4200-a09d-1314b89d0e8b</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 26 Jun 2020 05:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/15661169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-24%2F85013536-44100-2-3c4b38ac15d42.mp3" length="54529796" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:56:23</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1593027234034-e43f3d2ccaaa4.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #07">07</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
     </item>
   </channel>
 </rss>

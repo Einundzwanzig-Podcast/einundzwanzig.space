@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 05 May 2026 16:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:46:33 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-13.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-12.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,31 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#194 - Lightning Löwe entlaufen]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-194-lightning-loewe-entlaufen]]></description>
+      <link>https://einundzwanzig.space/podcast/news-194-lightning-loewe-entlaufen</link>
+      <guid isPermaLink="false">bec07f02-f2ca-4070-8a1e-f2290b7619c6</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 04 Aug 2023 08:09:15 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74230909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-4%2F40b8d172-03c6-02e7-4090-52d0e57b46d3.mp3" length="118784913" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:52:46</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #194">194</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="El Bitcoin Ambassador" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="10" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Molo" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="13" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="PaddePadde" address="0337094f7fd7978b546777eefcabfdd5c5b54c953791837df442e8ac9bcacade87" customKey="696969" customValue="7" type="node" split="25"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/elbitcoinamb-ee2e7fc2c84bd9814c52ca706f5cfb81.jpg" href="https://njump.me/npub184842f0yqe7ee9kra6ufsmddmxs6q2cl5jutp3qns2a62t99na6s4n7t00">El Bitcoin Ambassador</podcast:person>
+      <podcast:person>Molo</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/paddepadde-b21b8d6794c640260a9b5ca7bd12adaa.jpg" href="https://njump.me/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #82 - Bitcoin ist ein Arbeitszeit-Speicher]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-82-bitcoin-ist-ein-arbeitszeit-speicher]]></description>
@@ -427,26 +452,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #77 - Das Tool was uns alle fixen wird]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-77-das-tool-was-uns-alle-fixen-wird]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-77-das-tool-was-uns-alle-fixen-wird</link>
-      <guid isPermaLink="false">32223f13-8a9e-4bf7-bbd2-2c9060ef9198</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 05 May 2023 04:00:58 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/69787783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-4%2Ff02f6ff0-2bce-4a84-64e6-854dae79f50e.mp3" length="91974346" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:47:54</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1683211576485-d2b6b08fc851f.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Der Weg #77">77</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
   </channel>
 </rss>
