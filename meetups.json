@@ -1691,7 +1691,7 @@
       "location": "Bitcoin Metropole, Rathausstr. 2, 87435 Kempten",
       "description": "Herzlich willkommen beim Bitcoin Meetup Kempten. Du stellst Dir die Frage „Warum Bitcoin?“  Dann bist Du beim Kemptner Bitcoin-Stammtisch genau richtig. Hier findest Du viele interessante Gesprächspartner, die den Bitcoin-Kaninchenbau schon etwas erkundet haben. Wir freuen uns, Dich in unserer Runde begrüßen zu dürfen. Bis dahin…Plebs together strong.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -2601,7 +2601,7 @@
       "location": "Hilpoltstein",
       "description": "Wir treffen uns im Shepherds in Hilpotstein.",
       "link": "https://www.shepherds-food.de/",
-      "attendees": 1,
+      "attendees": 4,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -3459,7 +3459,17 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3213,
+      "start": "2026-05-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/3213",
+      "location": "Portanova",
+      "description": "Wir feiern den !BITCOIN PIZZA DAY! im Portanova. \nEs wird wieder ein Pizza all can eat geben für 15€ p.P. Getränke sind nicht im Preis inbegriffen.\n\nWir können uns dann in aller Ruhe durch die verschiedenen Sorten probieren und den Abend gemeinsam genießen!\nAnmeldung hier im Portal oder alternative in der Telegram Gruppe. (Bitte keine doppelte Anmeldung).\n\nRistorante Portanova\nJulius-Echter-Straße 15, 97084 Würzburg",
+      "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
