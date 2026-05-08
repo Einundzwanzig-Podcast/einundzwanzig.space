@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-18.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-17.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,25 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#139 - Liquidation]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-139-liquidation]]></description>
+      <link>https://einundzwanzig.space/podcast/news-139-liquidation</link>
+      <guid isPermaLink="false">4851643a-889a-4c9e-a2e6-2bf0bcaa1597</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 29 Jun 2022 21:39:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/54186193/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-29%2F2277759b-26b7-261b-4138-c5cad6a524df.mp3" length="63782928" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:13:35</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #139">139</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Jan-Paul" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #52 - Bitcoin ist der Büchsenöffner]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-52-bitcoin-ist-der-buechsenoeffner]]></description>
@@ -423,26 +442,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Gespräch zu "Unveräußerliche Eigentumsrechte" - Special]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-gespraech-zu-unveraeuerliche-eigentumsrechte-special]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-gespraech-zu-unveraeuerliche-eigentumsrechte-special</link>
-      <guid isPermaLink="false">25669099-9aab-4ff4-94d4-13fef00eb989</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 29 Apr 2022 13:13:34 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/51274860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-29%2Fcbeb0dcf-602e-0531-409d-3b8c1661d5df.mp3" length="75112701" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:17:47</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1651236168092-62dfc80320629.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>

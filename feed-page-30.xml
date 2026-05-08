@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-30.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#38 - Göttliche Grants]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-38-goettliche-grants]]></description>
+      <link>https://einundzwanzig.space/podcast/news-38-goettliche-grants</link>
+      <guid isPermaLink="false">8b2f73fc-75b3-4d53-822a-38c68839ed11</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 01 Jul 2020 21:16:34 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/15990961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-6-1%2F86896169-44100-2-47ad0808efa2b.mp3" length="86961616" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:30:24</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596702531786-fe3a6af47e85d.jpg"></itunes:image>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #38">38</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #07 - Die Österreichische Schule und Bitcoin mit Rahim Taghizadegan]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-07-die-oesterreichische-schule-und-bitcoin-mit-rahim-taghizadegan]]></description>
@@ -376,27 +396,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Interview #03">03</podcast:episode>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#23 - Euro-Cost-Averaging gegen den Endboss]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-23-euro-cost-averaging-gegen-den-endboss]]></description>
-      <link>https://einundzwanzig.space/podcast/news-23-euro-cost-averaging-gegen-den-endboss</link>
-      <guid isPermaLink="false">a11ac498-b219-4426-8a77-a13cff576c4a</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 04 Mar 2020 21:57:09 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/10823635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-4%2F54394767-44100-2-857eebe8146f4.mp3" length="59435227" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:02:18</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596703554447-aa7f54dddd6e2.jpg"></itunes:image>
-      <itunes:episode>23</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #23">23</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
     </item>
   </channel>
 </rss>

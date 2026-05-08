@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-20.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-19.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,27 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#122 - Canada Promoted Self-Custody]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-122-canada-promoted-self-custody]]></description>
+      <link>https://einundzwanzig.space/podcast/news-122-canada-promoted-self-custody</link>
+      <guid isPermaLink="false">299c6bf4-c9a3-4b91-a3b2-b40059a81671</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 23 Feb 2022 22:03:26 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/48117051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-23%2F2dcaecc4-58fb-d0af-fb26-acd8da953bdb.mp3" length="167350968" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:32:32</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
+      <itunes:episode>122</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #122">122</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Lassmiranda" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="9" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/lassmiranda-2f58c8fa042324d9e5937b7cedc44158.jpg" href="https://njump.me/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Lesestunde #22 - Buchclub "Layered Money"]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-22-buchclub-layered-money]]></description>
@@ -429,28 +450,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/jeff-f189411efe1eb3b2c1485c1640083aaa.jpg" href="https://fulmo.org/">Jeff</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Lage der Nation - Special]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-lage-der-nation-special]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-lage-der-nation-special</link>
-      <guid isPermaLink="false">91530ce2-8d1e-41f0-a121-5ac8ee2a4531</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sat, 01 Jan 2022 11:48:51 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/45065542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-1%2Ff3e0af52-7b46-4b3b-55e7-9c8d022539f3.mp3" length="60215252" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:11:41</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1641037145316-7e07438ede65b.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="33"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>

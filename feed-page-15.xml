@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-15.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-14.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #89 - Einblick in Terahash]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-89-einblick-in-terahash]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-89-einblick-in-terahash</link>
+      <guid isPermaLink="false">ed7bb764-d43e-4275-99fe-dedb258f8194</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 10 Feb 2023 06:21:01 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/64677427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F32767db4-78ae-49a7-9f21-1e5d0847b71d.mp3" length="186287943" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:17:37</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1675804611359-d273874714c2b.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #89">89</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[#170 - Meet-Up Meisterschaften]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-170-meet-up-meisterschaften]]></description>
@@ -434,26 +448,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#160 - Woran hat et jelegen?]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-160-woran-hat-et-jelegen]]></description>
-      <link>https://einundzwanzig.space/podcast/news-160-woran-hat-et-jelegen</link>
-      <guid isPermaLink="false">844e347c-9950-4b0c-8ea8-de06ad46e45e</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 23 Nov 2022 21:09:54 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/61110288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-23%2F66e2af9e-2891-159a-85fc-838a26bf25e8.mp3" length="72799293" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:15:49</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #160">160</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
   </channel>
 </rss>

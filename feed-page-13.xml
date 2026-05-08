@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-13.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-12.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,27 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#195 - Escape to 21 World]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-195-escape-to-21-world]]></description>
+      <link>https://einundzwanzig.space/podcast/news-195-escape-to-21-world</link>
+      <guid isPermaLink="false">37406576-5d1e-4bce-8419-26968602013d</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 09 Aug 2023 23:57:07 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74448855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F7d703c96-3979-250c-4c41-276aec846f31.mp3" length="100298198" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:30:21</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #195">195</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#194 - Lightning Löwe entlaufen]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-194-lightning-loewe-entlaufen]]></description>
@@ -432,26 +453,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#182 - FOSS Gruß aus dem Mempool]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-182-foss-gru-aus-dem-mempool]]></description>
-      <link>https://einundzwanzig.space/podcast/news-182-foss-gru-aus-dem-mempool</link>
-      <guid isPermaLink="false">8db989e7-a21d-4f73-a251-c738f811c84a</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 11 May 2023 05:49:44 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/70179100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-11%2F44b593ce-97e1-7276-8a18-e4559ea1ed3f.mp3" length="54873888" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:54:47</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #182">182</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="gmblr247" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
     </item>
   </channel>
 </rss>

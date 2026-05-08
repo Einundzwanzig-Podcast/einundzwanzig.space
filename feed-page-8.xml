@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-8.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-7.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#247 - Du verkaufst deine Bitcoin nicht!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-247-du-verkaufst-deine-bitcoin-nicht]]></description>
+      <link>https://einundzwanzig.space/podcast/news-247-du-verkaufst-deine-bitcoin-nicht</link>
+      <guid isPermaLink="false">e257aa23-057e-4a9d-bd97-3c6d5904c61b</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 01 Aug 2024 21:03:04 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/89952005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-1%2F5e4fad6d-2df9-0547-782d-4f48a157d4e1.mp3" length="56294901" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:58:36</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #247">247</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Chris" address="03aa66e2a8ff6da4e9f431bbd89585ef564835a0d977b40955a92a68235e4f09e1" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/chris-22b3d2d13cbb8fb3c3b62ccff66af0d2.jpg" href="https://njump.me/npub1r8343wqpra05l3jnc4jud4xz7vlnyeslf7gfsty7ahpf92rhfmpsmqwym8">Chris</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#246 - He died like a dog]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-246-he-died-like-a-dog]]></description>
@@ -447,26 +467,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #235">235</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[NostrTalk #10 - nostr ist ein Fluss - mit Jan-Paul]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul]]></description>
-      <link>https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul</link>
-      <guid isPermaLink="false">a71aed1a-a56d-4f60-8ae5-b2409f71d73c</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Tue, 07 May 2024 19:50:49 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/86438505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2Fe5d7c05f-a3a1-f84c-15ad-1a8c86611842.mp3" length="167902586" type="audio/mpeg"></enclosure>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>01:09:57</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1715106957962-ba68a2b3338d1.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="NostrTalk #10">10</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Jan-Paul" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
     </item>
   </channel>
 </rss>

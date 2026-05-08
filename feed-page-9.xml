@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:08:58 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-9.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-8.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #10 - nostr ist ein Fluss - mit Jan-Paul]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-10-nostr-ist-ein-fluss-mit-jan-paul</link>
+      <guid isPermaLink="false">a71aed1a-a56d-4f60-8ae5-b2409f71d73c</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Tue, 07 May 2024 19:50:49 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/86438505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2Fe5d7c05f-a3a1-f84c-15ad-1a8c86611842.mp3" length="167902586" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>01:09:57</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1715106957962-ba68a2b3338d1.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #10">10</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Jan-Paul" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #106 - Rückkehr zu Wissenschaft und Rechtsordnung - mit Michael Esfeld]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-106-rueckkehr-zu-wissenschaft-und-rechtsordnung-mit-michael-esfeld]]></description>
@@ -428,26 +448,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/elbitcoinamb-ee2e7fc2c84bd9814c52ca706f5cfb81.jpg" href="https://njump.me/npub184842f0yqe7ee9kra6ufsmddmxs6q2cl5jutp3qns2a62t99na6s4n7t00">El Bitcoin Ambassador</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/loddi-cdd4b3e94b651c19acf10a721bed5b36.jpg" href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #102 - Noch etwas Sahne oben drauf - mit Julian Liniger zu Relai]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-102-noch-etwas-sahne-oben-drauf-mit-julian-liniger-zu-relai]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-102-noch-etwas-sahne-oben-drauf-mit-julian-liniger-zu-relai</link>
-      <guid isPermaLink="false">e688d795-dd81-4025-b872-ce6471db169a</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 01 Mar 2024 20:21:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/83429237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F59992d87-addb-b7e8-eec5-7ba476148d7e.mp3" length="183124435" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:47:40</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1709302019049-c5e3860ad87c3.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #102">102</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/ole-87dfe53dabe684ab1f06590ff7152163.jpg" href="https://medium.com/@dercheapi">Ole</podcast:person>
     </item>
   </channel>
 </rss>
