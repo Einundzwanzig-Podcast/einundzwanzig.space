@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:39:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-13.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-12.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,23 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[On Tour #3 - Sommerfest in der Heide 2023]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-on-tour-3-sommerfest-in-der-heide-2023]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-on-tour-3-sommerfest-in-der-heide-2023</link>
+      <guid isPermaLink="false">42b33b9c-7b5c-4641-9da3-064d292930a7</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 11 Aug 2023 04:21:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/74460140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2Fdac87502-edba-cbdc-9642-9f26c98224b6.mp3" length="39414793" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:42:47</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1691669471555-c52ccbace3211.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="BenMitFleck" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="12" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/benmitfleck-70bd05719d76531633624a51f6b31857.jpg" href="https://x.com/BenMitFleck">BenMitFleck</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#195 - Escape to 21 World]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-195-escape-to-21-world]]></description>
@@ -433,26 +450,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #78 - Bitcoin ist mein Bergbauernhof]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-78-bitcoin-ist-mein-bergbauernhof]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-78-bitcoin-ist-mein-bergbauernhof</link>
-      <guid isPermaLink="false">17050c8e-34ed-4969-b98d-6d559807f1d6</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 12 May 2023 09:52:37 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/70249218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-12%2Fa2cd94fb-8d5d-d92f-be33-28a816c2674b.mp3" length="136262139" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:10:58</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1683885127272-9cbe8d400997b.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Der Weg #78">78</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
     </item>
   </channel>
 </rss>

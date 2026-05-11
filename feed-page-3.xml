@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:39:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-3.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-2.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #130 - Argentinien mit Dr. Ingo Sauer Teil 2]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-130-argentinien-mit-dr-ingo-sauer-teil-2]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-130-argentinien-mit-dr-ingo-sauer-teil-2</link>
+      <guid isPermaLink="false">c38ca7cd-e62d-4ca9-8dd0-fdf4a4be49f2</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 27 Oct 2025 13:27:10 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/110273163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-27%2Fbd2deaec-37d9-5ee5-f9ee-42c6b017e166.mp3" length="51274526" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:18:10</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1761571596496-0aff8bc3ce6f8.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #130">130</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[#302 - Schwule beim ersten Date]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-302-schwule-beim-ersten-date]]></description>
@@ -431,25 +445,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
       <podcast:person>Aaron</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #123 - Tiefer Staat mit Ullrich Mies]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-123-tiefer-staat-mit-ullrich-mies]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-123-tiefer-staat-mit-ullrich-mies</link>
-      <guid isPermaLink="false">3ce655ed-f88a-4f72-9358-173f0207b960</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 18 Aug 2025 04:21:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/106822378/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-16%2F85475e4a-6054-125e-3575-0eb777eafb1e.mp3" length="62103552" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:07:14</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1755099051236-5d9e2b4b8b71e.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #123">123</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Spok" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" customKey="696969" customValue="15" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/spok-80eab20f01135d8462657d33411c5842.png" href="https://fairtalk.tv">spok</podcast:person>
     </item>
   </channel>
 </rss>

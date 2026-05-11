@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:39:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-26.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg #12 - Bitcoin ist Verantwortung]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-12-bitcoin-ist-verantwortung]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-12-bitcoin-ist-verantwortung</link>
+      <guid isPermaLink="false">b8402140-53fb-409e-bb57-40e3fb513041</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 17 Apr 2021 13:59:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/31618114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-17%2F97f313ac-2f05-0d4d-a2ca-1e2b1c91cd0e.mp3" length="43681955" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:45:41</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1618667957315-084591c7f8ba5.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Der Weg #12">12</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Lesestunde #07 - Das Gesetz von Frederic Bastiat ]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-07-das-gesetz-von-frederic-bastiat]]></description>
@@ -382,20 +396,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #08 - Bitcoin ist die größte Revolution überhaupt]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-08-bitcoin-ist-die-groete-revolution-ueberhaupt]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-08-bitcoin-ist-die-groete-revolution-ueberhaupt</link>
-      <guid isPermaLink="false">c9f4ea3e-7de7-4306-9a37-732c1005cc2d</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sat, 20 Feb 2021 20:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/26998052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-20%2F1a40a8a0-5f0a-eeed-47e0-c5056b976054.mp3" length="35711746" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:41:15</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1613842473588-37af3606838ea.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Der Weg #08">08</podcast:episode>
     </item>
   </channel>
 </rss>

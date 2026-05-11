@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:39:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-31.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-30.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,21 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #03 - Chaincode Residency und Arbeit an Bitcoin Core mit Fabian Jahr]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-03-chaincode-residency-und-arbeit-an-bitcoin-core-mit-fabian-jahr]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-03-chaincode-residency-und-arbeit-an-bitcoin-core-mit-fabian-jahr</link>
+      <guid isPermaLink="false">02630f0e-13ed-490e-977e-7f2b3f8eba64</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 06 Mar 2020 17:06:11 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/10877271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-6%2F55002860-44100-2-6abdf06f5def1.m4a" length="39568385" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:48:50</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1583514380287-292caf015e10e.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #03">03</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#23 - Euro-Cost-Averaging gegen den Endboss]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-23-euro-cost-averaging-gegen-den-endboss]]></description>
@@ -440,27 +455,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #05">05</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#04 - Wale und physische Bitcoins]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-04-wale-und-physische-bitcoins]]></description>
-      <link>https://einundzwanzig.space/podcast/news-04-wale-und-physische-bitcoins</link>
-      <guid isPermaLink="false">c1b9d86b-6693-7e13-6897-175d3dab83c2</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 11 Sep 2019 20:23:49 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4614183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-11%2F23299483-44100-1-ac194d18d1001.mp3" length="51441407" type="audio/mpeg"></enclosure>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:duration>01:01:14</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703840431-2d776dc4ff786.jpg"></itunes:image>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #04">04</podcast:episode>
       <podcast:value type="lightning" method="keysend">
         <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
         <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>

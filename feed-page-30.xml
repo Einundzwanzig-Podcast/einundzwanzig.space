@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 20:39:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-30.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,27 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#39 - Die Einundzwanzig Zitadelle]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-39-die-einundzwanzig-zitadelle]]></description>
+      <link>https://einundzwanzig.space/podcast/news-39-die-einundzwanzig-zitadelle</link>
+      <guid isPermaLink="false">1b8c860e-9c0c-4dcd-a72e-147fe268ca8a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 09 Jul 2020 20:39:04 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/16346752/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-9%2F88893860-44100-2-117b0a3dd0481.m4a" length="61660331" type="audio/x-m4a"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:03:32</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596702512364-51fa5e6cf017a.jpg"></itunes:image>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #39">39</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#38 - Göttliche Grants]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-38-goettliche-grants]]></description>
@@ -381,21 +402,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #03 - Chaincode Residency und Arbeit an Bitcoin Core mit Fabian Jahr]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-03-chaincode-residency-und-arbeit-an-bitcoin-core-mit-fabian-jahr]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-03-chaincode-residency-und-arbeit-an-bitcoin-core-mit-fabian-jahr</link>
-      <guid isPermaLink="false">02630f0e-13ed-490e-977e-7f2b3f8eba64</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 06 Mar 2020 17:06:11 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/10877271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-6%2F55002860-44100-2-6abdf06f5def1.m4a" length="39568385" type="audio/x-m4a"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:48:50</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1583514380287-292caf015e10e.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #03">03</podcast:episode>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>
