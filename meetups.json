@@ -205,6 +205,21 @@
     }
   },
   {
+    "name": "Bitcoin Dev & Culture Coffee Meetup",
+    "latLng": [
+      52.5170365,
+      13.3888599
+    ],
+    "url": "https://t.me/SaturdayBlock",
+    "city": "Berlin",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dev-culture-coffee-meetup",
+    "twitter": "SaturdayBlock",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Dresden",
     "latLng": [
       51.0493286,
