@@ -1024,7 +1024,17 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3215,
+      "start": "2026-05-23T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3215",
+      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://la-cham.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1039,7 +1049,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3214,
+      "start": "2026-06-02T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3214",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1921,10 +1941,10 @@
     "twitter": "EinundzwanzigMA",
     "event": {
       "id": 2899,
-      "start": "2026-05-15T17:00:00.000000Z",
+      "start": "2026-05-22T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2899",
-      "location": "wechselnde Locations",
-      "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
+      "location": "Trattoria Pizzeria Diego´s Mannheim",
+      "description": "🍕 BITCOIN PIZZA DAY 2026 🍕\n\nAm 22. Mai feiern wir wieder den legendären Bitcoin Pizza Day – den Moment, in dem Geschichte geschrieben wurde.\n\n📅 Datum: 22. Mai 2026\n⏰ Uhrzeit: ab 18:30 Uhr\n📍 Ort: Trattoria Pizzeria Diego’s\nRömerstr. 102, 68259 Mannheim\n\n⚡️ Zahlung möglich mit Lightning ⚡️\n\nGemeinsam erinnern wir an Laszlos legendären Kauf von 2 Pizzen für 10.000 BTC im Jahr 2010  ⚡️\n",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
       "attendees": 0,
       "might_attendees": 0,
@@ -2580,14 +2600,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2776,
-      "start": "2026-05-12T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2776",
-      "location": "Hilpoltstein",
-      "description": "Wir treffen uns im Shepherds in Hilpotstein.",
-      "link": "https://www.shepherds-food.de/",
-      "attendees": 7,
-      "might_attendees": 2,
+      "id": 2777,
+      "start": "2026-06-11T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2777",
+      "location": "Schwabach ",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -4433,6 +4453,21 @@
     "url": "https://t.me/HerBitcoin_LaPalma",
     "city": "Puntagorda , Canary Islands , La Palma",
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/herbitcoin-la-palma",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Bitcoin Pizza Day",
+    "latLng": [
+      47.4925,
+      19.051389
+    ],
+    "url": "https://web.telegram.org/k/#@huszonegy",
+    "city": "Budapest",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/bitcoin-pizza-day",
     "twitter": null,
     "event": null,
     "style": {
