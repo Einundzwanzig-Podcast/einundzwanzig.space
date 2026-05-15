@@ -1240,14 +1240,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "id": 2823,
-      "start": "2026-05-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2823",
-      "location": "Bamberg tbd",
-      "description": "Bamberg tbd",
-      "link": "https://share.google/WPKs4TY9AHAfESvy1",
-      "attendees": 1,
-      "might_attendees": 1,
+      "id": 3216,
+      "start": "2026-05-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/3216",
+      "location": "Pizzeria Mediterran, Coburg",
+      "description": "Pizzeria Mediterran\nWeichengereuth 50 (direkt an der B4)\n96450 Coburg\n\nWir feiern den Bitcoin Pizza Day!\n",
+      "link": "https://maps.app.goo.gl/MqPjA9SqUFUgAMQG8",
+      "attendees": 2,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -1709,7 +1709,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3219,
+      "start": "2026-05-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3219",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
+      "description": "Silent Payments | Cake Wallet\nVortrag mit Konstantin Ullrich + Fragen & Antworten rund um Privacy & Wallets.",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4384,7 +4394,17 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-meetup-paphos-zypern",
     "twitter": "KryptoJuenger82",
-    "event": null,
+    "event": {
+      "id": 3217,
+      "start": "2026-05-16T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-meetup-paphos-zypern/event/3217",
+      "location": "Muse Restaurant",
+      "description": "Für alle kurzentschlossenen ist diesen Samstag Meetup! ",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4469,7 +4489,17 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/bitcoin-pizza-day",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3218,
+      "start": "2026-05-22T13:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/bitcoin-pizza-day/event/3218",
+      "location": "1113 Bp, Ábel Jenő u. 29. (Parkolás utcán, fizetős)",
+      "description": "Egy biztos: Lesz pizzasütés, meg tábortűz, annak aki akar virslit stb-t sütni nyárson. \n\nCsaládos program! Nagy a kert és múltkor is jót játszotak a gyerekek. \nA bitcoin a szabadságról szól első sorban, nem kockulásról. Ez a nap arra való, hogy szorosabbra fűzzük a kapcsolatot családi szinten is, úgyhogy feleséget, párodat, gyereket ne hagyd otthon!",
+      "link": "https://portal.huszonegy.world/hu/meetup/bitcoin-pizza-day",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
