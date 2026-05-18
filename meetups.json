@@ -899,17 +899,7 @@
     "city": "Bitburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg",
     "twitter": "EinundzwanzigBi",
-    "event": {
-      "id": 3209,
-      "start": "2026-05-17T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bitburg/event/3209",
-      "location": "Restaurant Zagreb",
-      "description": "Meetup im Restaurant Zagreb in Bitburg ab 18 Uhr",
-      "link": "https://maps.app.goo.gl/TdB5cUcT2UmMrdLb7",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1699,7 +1689,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3221,
+      "start": "2026-05-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3221",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
+      "description": "KI Vortrag – KI für alle verstehen\n\nEin einfacher Kurs über künstliche Intelligenz und wie moderne KI heute genutzt wird.",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2519,7 +2519,17 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3220,
+      "start": "2026-05-28T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/3220",
+      "location": "Taverna Kalyva, Kölner Str. 375, 51515 Kürten-Bechen",
+      "description": "Meetup",
+      "link": "https://www.kalyva.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3027,8 +3037,8 @@
   {
     "name": "Einundzwanzig Uelzen",
     "latLng": [
-      5.26302,
-      10.55822
+      52.964976,
+      10.560545
     ],
     "url": "https://t.me/+YD3Z_KHPks5jMTMy",
     "city": "Uelzen ",
@@ -3255,6 +3265,21 @@
     }
   },
   {
+    "name": "KI für alle",
+    "latLng": [
+      47.7267063,
+      10.3168835
+    ],
+    "url": "https://razue.github.io/bitcoin_metropole_kempten/",
+    "city": "Kempten",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/ki-fuer-alle",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Kirchheim Teck ",
     "latLng": [
       48.64769,
@@ -3452,8 +3477,8 @@
   {
     "name": "Zeitz",
     "latLng": [
-      0,
-      0
+      51.049164,
+      12.134999
     ],
     "url": "https://t.me/meetup21zz",
     "city": "Zeitz",
@@ -4417,8 +4442,8 @@
   {
     "name": "HerBitcoin La Palma",
     "latLng": [
-      28.774647,
-      17.979409
+      28.519123,
+      -17.832978
     ],
     "url": "https://t.me/HerBitcoin_LaPalma",
     "city": "Puntagorda , Canary Islands , La Palma",
@@ -4587,6 +4612,21 @@
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Divdesmitviens Latvia",
+    "latLng": [
+      56.95,
+      24.1
+    ],
+    "url": "https://t.me/+R8Oq5pu49Hk1ZWY6",
+    "city": "Riga",
+    "portalUrl": "https://portal.einundzwanzig.space/lv/meetup/divdesmitviens-latvia",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
     }
   },
   {
