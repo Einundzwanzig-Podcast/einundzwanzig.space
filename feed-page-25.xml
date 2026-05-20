@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 19 May 2026 19:29:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:51:12 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#88 - Bullish On Lightning]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-88-bullish-on-lightning]]></description>
+      <link>https://einundzwanzig.space/podcast/news-88-bullish-on-lightning</link>
+      <guid isPermaLink="false">5c9ee5ab-9cd6-4cf2-81cc-abd61b0b0866</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 16 Jun 2021 20:18:22 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/35615319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-16%2F406ae58f-2f75-b0b1-ff5e-bf0e7d94022a.mp3" length="54917328" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:57:12</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #88">88</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #44 - Scam the Scammers mit cercatrova]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-44-scam-the-scammers-mit-cercatrova]]></description>
@@ -383,22 +403,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episode>13</itunes:episode>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Der Weg #13">13</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[Lesestunde #08 - Monte Crypto von Tom Hillenbrand]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-08-monte-crypto-von-tom-hillenbrand]]></description>
-      <link>https://einundzwanzig.space/podcast/lesestunde-08-monte-crypto-von-tom-hillenbrand</link>
-      <guid isPermaLink="false">40943e01-f4e1-466e-ba92-4c2fe15ed445</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 23 Apr 2021 08:38:36 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/32035435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F28c0c33d-fad7-1e5e-4dd6-0e17da02608d.mp3" length="89408468" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:32:44</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1619167124970-01c2a370e1ec2.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Lesestunde #08">08</podcast:episode>
-      <podcast:person img="https://einundzwanzig.space/img/participants/jeff-f189411efe1eb3b2c1485c1640083aaa.jpg" href="https://fulmo.org/">Jeff</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>
