@@ -904,7 +904,17 @@
     "city": "Bonn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3225,
+      "start": "2026-06-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3225",
+      "location": "The 9th, Sandkaule 9-11, 53111 Bonn (bei gutem Wetter an der Garage auf der Rückseite des Gebäudes",
+      "description": "Bonn Bitcoin Meetup",
+      "link": "https://t.me/einundzwanzig_bonn",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1294,7 +1304,17 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "id": 3232,
+      "start": "2026-06-18T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3232",
+      "location": "Lindenhof Keulos ",
+      "description": "Das nächste Meetup findet am Donnerstag, den 18.06. ab 18:30 Uhr statt. Dieses Mal wieder im Lindenhof in Keulos 😁 ",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1734,7 +1754,17 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
-    "event": null,
+    "event": {
+      "id": 3224,
+      "start": "2026-05-30T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz/event/3224",
+      "location": "Bismarckturm Konstanz Grillparty",
+      "description": "Hi\nAm 30.5. wird es sonnig und bis zu 26 Grad.\nWir treffen uns am Bismarckturm in Konstanz zum grillen. \nWir haben einen Grillplatz und Holzkohle.\nParkplätze sind direkt am Bismarckurm. \n\nUnter uns liegt Konstanz und der Bodensee und man sieht die Schweiz und den Untersee. \nStarlink Internetverbindung und Musik gibt es auch. \nJeder Bringt selber Essen und trinken. \nUnd am Besten auch noch einen Sonnenschirm ^^\n\nWilkommen bei Einundzwanzig Konstanz. See you there!\n",
+      "link": "https://web.telegram.org/a/#-1001690233461",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3001,7 +3031,7 @@
       "location": "Northeim, DinX Dinner",
       "description": "Quatschen über bitcoin",
       "link": "https://signal.group/#CjQKIKf11rBE3_bnP9K6Z499DT3mZnYm3r-hXX_tGB1kLEemEhDDNih5R5T-vdSbmrtbG4HH",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
