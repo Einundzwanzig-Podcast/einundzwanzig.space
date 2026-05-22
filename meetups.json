@@ -95,9 +95,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
     "event": {
-      "id": 2981,
-      "start": "2026-05-21T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2981",
+      "id": 2982,
+      "start": "2026-06-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2982",
       "location": "Mainaschaff ",
       "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
@@ -389,7 +389,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 3234,
+      "start": "2026-06-17T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3234",
+      "location": "Unity-Bar \"Rumbar Unity\", Arsenalstraße 36",
+      "description": "Erlebe die Zukunft des digitalen Geldes hautnah - beim Bitcoin Treffen in Schwerin. Tauche ein in die Welt der virtuellen Währungen und vernetze dich mit Gleichgesinnten in der malerischen Region Mecklenburg-Vorpommerns.\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
+      "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -945,9 +955,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 2299,
-      "start": "2026-05-21T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2299",
+      "id": 2300,
+      "start": "2026-06-18T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2300",
       "location": "Restaurant \"Übersee\" (Bremen-Hauptbahnhof)",
       "description": "Bahnhofsplatz 13, 28195 Bremen, Deutschland (Eingang zum Übersee-Museum)\n(nur Barzahlung und EC-Karte ab 20€ möglich!!!)",
       "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
@@ -1227,7 +1237,7 @@
       "description": "Pizzeria Mediterran\nWeichengereuth 50 (direkt an der B4)\n96450 Coburg\n\nWir feiern den Bitcoin Pizza Day!\n",
       "link": "https://maps.app.goo.gl/MqPjA9SqUFUgAMQG8",
       "attendees": 4,
-      "might_attendees": 1,
+      "might_attendees": 2,
       "nostr_note": ""
     },
     "style": {
@@ -2214,7 +2224,17 @@
     "city": "Nordhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3236,
+      "start": "2026-05-22T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-nordhausen/event/3236",
+      "location": "Pizza-Haus (Stolberger Str.)",
+      "description": "Zur Feier des Bitcoin-Pizza-Tages treffen wir uns natürlich bei der besten Pizza-Bude in der Umgebung!",
+      "link": "https://t.me/einundzwanzig_nordhausen",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2293,9 +2313,9 @@
       "id": 3159,
       "start": "2026-06-05T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3159",
-      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
-      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.\n\n",
-      "link": "https://www.kleineburg-ol.de/",
+      "location": "Stau 91, 26122 Oldenburg",
+      "description": "Diesmal ausnahmsweise im \"Glut & Wasser\"! Bitcoin only Meetup! Essen und Getränke gibt's von der Speisekarte.\n\n",
+      "link": "https://www.glutundwasser.de/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -3680,9 +3700,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern",
     "twitter": null,
     "event": {
-      "id": 3007,
-      "start": "2026-05-21T18:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3007",
+      "id": 3008,
+      "start": "2026-06-19T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3008",
       "location": "Schmuri (Pianokeller Reutte)",
       "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)\n",
       "link": "https://maps.app.goo.gl/1Ls1KWDRDVA2XggZ8",
@@ -3924,7 +3944,17 @@
     "city": "Styria",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria",
     "twitter": "EinundzwanzigSt",
-    "event": null,
+    "event": {
+      "id": 3233,
+      "start": "2026-05-22T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-styria/event/3233",
+      "location": "Weinstadl Olarizi, Entschendorf 41, 8321 St. Margarethen an der Raab",
+      "description": "Freitag, der 22. Mai ist der weltweit bekannte Bitcoin Pizza Day.\n\nUnd einundzwanzig Styria zelebriert ihn gemütlich bei einer Pizza im Weinstadl Olarizi in Entschendorf.\n\nGemütliches Zusammenkommen startet ab 17 Uhr, open-end.\n\nhttps://maps.app.goo.gl/ynRCXAFTLMV8tevR9",
+      "link": "https://maps.app.goo.gl/ynRCXAFTLMV8tevR9",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4491,7 +4521,7 @@
       "location": "1113 Bp, Ábel Jenő u. 29. (Parkolás utcán, fizetős)",
       "description": "Egy biztos: Lesz pizzasütés, meg tábortűz, annak aki akar virslit stb-t sütni nyárson. \n\nCsaládos program! Nagy a kert és múltkor is jót játszotak a gyerekek. \nA bitcoin a szabadságról szól első sorban, nem kockulásról. Ez a nap arra való, hogy szorosabbra fűzzük a kapcsolatot családi szinten is, úgyhogy feleséget, párodat, gyereket ne hagyd otthon!",
       "link": "https://portal.huszonegy.world/hu/meetup/bitcoin-pizza-day",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 1,
       "nostr_note": ""
     },
