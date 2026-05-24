@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 20 May 2026 20:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:56:38 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-23.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,25 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #49 - Paraguay und Liberation Travel mit Max Hillebrand]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-49-paraguay-und-liberation-travel-mit-max-hillebrand]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-49-paraguay-und-liberation-travel-mit-max-hillebrand</link>
+      <guid isPermaLink="false">470cd5f2-b87c-425d-86ff-0fdc997ad06d</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 12 Aug 2021 10:01:03 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/38605457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-11%2Fb12b3b09-ec04-6920-31ed-f665c7cdb41b.mp3" length="94912217" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>02:05:56</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628762409152-d6631652de54.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #49">49</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/max-996768c9e40edd8bf2c32b508aa64a77.jpg" href="https://towardsliberty.com/">Max</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Zitadelle-Special - Schweizundzwanzig - von der Bar]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-zitadelle-special-schweizundzwanzig-von-der-bar]]></description>
@@ -402,20 +421,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #16">16</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[Lesestunde #12 - Zum Abschluß des Marxschen Systems ]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-12-zum-abschlu-des-marxschen-systems]]></description>
-      <link>https://einundzwanzig.space/podcast/lesestunde-12-zum-abschlu-des-marxschen-systems</link>
-      <guid isPermaLink="false">4b3a68f4-763b-4baf-946f-d3f2ce7e4f57</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sun, 20 Jun 2021 04:05:15 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/35822560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2Fe8dfdfd9-f655-43df-f906-8f59511cfe19.mp3" length="61337599" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:03:53</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1624161922422-8f2b4f8220267.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Lesestunde #12">12</podcast:episode>
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 20 May 2026 20:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:56:38 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-27.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #20 - Jonas Schnelli]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-20-jonas-schnelli]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-20-jonas-schnelli</link>
+      <guid isPermaLink="false">fd85300b-729c-4b76-ad73-c8ef68c40c82</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 21 Dec 2020 05:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/24200052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-19%2F7cefb6f1-4678-8dbf-c781-7782b14593ad.mp3" length="51217135" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:53:21</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1608543412989-d03f030b68e0e.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #20">20</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[#62 - Bitcoin Versicherung]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-62-bitcoin-versicherung]]></description>
@@ -387,20 +401,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #12 - Bitcoin UX und die Design Community mit Christoph Ono]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-12-bitcoin-ux-und-die-design-community-mit-christoph-ono]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-12-bitcoin-ux-und-die-design-community-mit-christoph-ono</link>
-      <guid isPermaLink="false">6dd901a5-6053-48d5-a97e-95201a5fcf1e</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 05 Oct 2020 04:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/20528463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F48f1a43e-935c-44b4-bf13-3ce013d6134d.mp3" length="53596714" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:55:20</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1601668273152-b09e4fd761f86.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #12">12</podcast:episode>
     </item>
   </channel>
 </rss>
