@@ -3339,7 +3339,17 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": null,
+    "event": {
+      "id": 3238,
+      "start": "2026-06-20T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/muenchberg/event/3238",
+      "location": "Gourmet Wunderlich, Gartenstr 5. 95213 Münchberg ",
+      "description": "Yumyum, lecker Snacker",
+      "link": "https://portal.einundzwanzig.space/de/meetup/296/events/create",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
