@@ -70,9 +70,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
     "twitter": null,
     "event": {
-      "id": 3135,
-      "start": "2026-05-28T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3135",
+      "id": 3136,
+      "start": "2026-06-25T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3136",
       "location": "Bürgerhaus Neumarkt Fischergasse 1 92318 Neumarkt in der Oberpfalz",
       "description": "Unsere Bitcoin-Events finden jeden letzten Donnerstag im Monat statt und bieten dir die perfekte Gelegenheit, dich mit Gleichgesinnten auszutauschen.\n\nIm Mittelpunkt steht ein offenes Gespräch rund um Bitcoin – egal ob Einsteiger oder Fortgeschrittene, jeder ist willkommen. Je nach Termin gibt es zusätzlich spannende Vorträge zu aktuellen Themen, die neue Perspektiven und Wissen vermitteln.\n\nFür kurzfristige Änderungen oder Updates empfehlen wir, unserer WhatsApp-Gruppe beizutreten, damit du immer auf dem neuesten Stand bleibst.\nhttps://chat.whatsapp.com/HbxJAlaAr4c7riPQHMk5ct\n\n\nKomm vorbei, stell deine Fragen und werde Teil der Community!",
       "link": "https://21neumarkt.de",
@@ -1020,6 +1020,31 @@
     }
   },
   {
+    "name": "Einundzwanzig Cottbus - Bitcoin Stammtisch",
+    "latLng": [
+      51.740802,
+      14.334745
+    ],
+    "url": "https://t.me/einundzwanzig_cb",
+    "city": "Cottbus",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch",
+    "twitter": null,
+    "event": {
+      "id": 3343,
+      "start": "2026-06-11T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3343",
+      "location": "RK Endspurt 1909 Cottbus e.V. Dresdener Str. 18 03050 Cottbus",
+      "description": "Wir sind der lokale Bitcoin Stammtisch für Cottbus.\n\nInteresse mitbringen reicht.",
+      "link": "https://t.me/einundzwanzig_cb",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Darmstadt",
     "latLng": [
       49.8851869,
@@ -1410,9 +1435,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 3074,
-      "start": "2026-05-28T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3074",
+      "id": 3075,
+      "start": "2026-06-25T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3075",
       "location": "Sternschanze, Absinth-Bar",
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
@@ -2339,7 +2364,17 @@
     "city": "Altlandsberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3342,
+      "start": "2026-06-08T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3342",
+      "location": "Mühle Altlandsberg",
+      "description": "Wir sind der lokale Bitcoin Stammtisch für den Raum Ostbrandburg. Wir treffen uns jeden 2. Montag im Monat, im Gasthaus zur Mühle in Altlandsberg. Interesse mitbringen reicht.",
+      "link": "https://t.me/einundzwanzig_bbost",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2519,17 +2554,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "id": 3220,
-      "start": "2026-05-28T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/3220",
-      "location": "Taverna Kalyva, Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": "Meetup",
-      "link": "https://www.kalyva.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3848,9 +3873,9 @@
       "id": 3203,
       "start": "2026-05-29T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3203",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 29.05.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
+      "location": "Monkeys cafe.bar",
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 29.05.26, ab 19h Wo: Monkeys cafe.bar., Imbergstraße 2a, 5020 Salzburg, Austria",
+      "link": "https://www.monkeys-salzburg.at/",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
