@@ -3869,17 +3869,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3203,
-      "start": "2026-05-29T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3203",
-      "location": "Monkeys cafe.bar",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 29.05.26, ab 19h Wo: Monkeys cafe.bar., Imbergstraße 2a, 5020 Salzburg, Austria",
-      "link": "https://www.monkeys-salzburg.at/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
