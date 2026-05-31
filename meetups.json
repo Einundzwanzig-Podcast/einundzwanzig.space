@@ -96,7 +96,7 @@
     "twitter": "21Aschaffenburg",
     "event": {
       "id": 2982,
-      "start": "2026-06-21T16:30:00.000000Z",
+      "start": "2026-06-19T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2982",
       "location": "Mainaschaff ",
       "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
@@ -515,9 +515,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2684,
-      "start": "2026-05-30T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2684",
+      "id": 2685,
+      "start": "2026-06-06T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2685",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -1769,17 +1769,7 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger",
     "twitter": "einundzwanzigKN",
-    "event": {
-      "id": 3224,
-      "start": "2026-05-30T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger/event/3224",
-      "location": "Bismarckturm Konstanz Grillparty",
-      "description": "Hi\nAm 30.5. wird es sonnig und bis zu 26 Grad.\nWir treffen uns am Bismarckturm in Konstanz zum grillen. \nWir haben einen Grillplatz und Holzkohle.\nParkplätze sind direkt am Bismarckurm. \n\nUnter uns liegt Konstanz und der Bodensee und man sieht die Schweiz und den Untersee. \nStarlink Internetverbindung und Musik gibt es auch. \nJeder Bringt selber Essen und trinken. \nUnd am Besten auch noch einen Sonnenschirm ^^\n\nWilkommen bei Einundzwanzig Konstanz. See you there!\n",
-      "link": "https://web.telegram.org/a/#-1001690233461",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
