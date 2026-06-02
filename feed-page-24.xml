@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 19:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:50:59 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-23.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,25 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #50 - Der Nixon-Schock]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-50-der-nixon-schock]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-50-der-nixon-schock</link>
+      <guid isPermaLink="false">34fa2922-993f-4840-ae48-7956ae38edbc</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 15 Aug 2021 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/38760817/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-14%2F6eb5dd9d-1eb3-f0aa-95a0-7a57fca094ce.mp3" length="81456900" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:24:51</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1628926110187-5e6189f53fbf5.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #50">50</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #49 - Paraguay und Liberation Travel mit Max Hillebrand]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-49-paraguay-und-liberation-travel-mit-max-hillebrand]]></description>
@@ -406,21 +425,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #16 - Bitcoin ist die Rettung]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-16-bitcoin-ist-die-rettung]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-16-bitcoin-ist-die-rettung</link>
-      <guid isPermaLink="false">ee066d65-74da-4e85-8315-495f90b59190</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sun, 20 Jun 2021 14:52:52 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/35837927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F3b0c9e29-561d-8c12-700e-ecabf870a3dd.mp3" length="72136373" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:08:23</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1624195806740-a4e95641f6d7b.jpg"></itunes:image>
-      <itunes:episode>16</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Der Weg #16">16</podcast:episode>
     </item>
   </channel>
 </rss>

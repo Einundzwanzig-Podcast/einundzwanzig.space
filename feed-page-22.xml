@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 19:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:50:59 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-22.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-21.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #64 - Bitcoin und Banker]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-64-bitcoin-und-banker]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-64-bitcoin-und-banker</link>
+      <guid isPermaLink="false">a0e2917c-ff3b-402f-84e6-394cb06e5f0a</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 22 Nov 2021 05:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/43516925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-17%2Fedba4bdd-6271-f0a1-c7c2-5dfa898a25e6.mp3" length="69665282" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:26:22</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1637189561436-45cfd0f438b8e.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #64">64</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Loddi" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="34PPUPz9Cs23eZ5XY5Hi" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/loddi-cdd4b3e94b651c19acf10a721bed5b36.jpg" href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #31 - Bitcoin ist ein Easter Egg]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-31-bitcoin-ist-ein-easter-egg]]></description>
@@ -420,28 +440,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:episode display="Interview #61">61</podcast:episode>
       <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#101 - Coinjoin Week]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-101-coinjoin-week]]></description>
-      <link>https://einundzwanzig.space/podcast/news-101-coinjoin-week</link>
-      <guid isPermaLink="false">d2d10e56-01dd-401f-8839-b1332110d1e2</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 29 Sep 2021 19:29:06 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/41040074/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-29%2F33215bd9-37e1-a484-3d28-3657df882345.mp3" length="65856573" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:08:36</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #101">101</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Egge" address="02283e063b3121177fe8ed0c88806fe05b38cf5e192ff8c89e3bdc9b4df05dde21" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="33"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/egge-c75845de2c1b1e7661251a0224be540b.jpg" href="https://njump.me/npub1gvyhrc9pe745xnqyn9309jgg5yqeunfv2fyfhnjvzlj6dkzvqdcsj38j8a">Egge</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
     </item>
   </channel>
 </rss>
