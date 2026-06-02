@@ -940,9 +940,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "id": 3225,
-      "start": "2026-06-02T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3225",
+      "id": 3226,
+      "start": "2026-07-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3226",
       "location": "The 9th, Sandkaule 9-11, 53111 Bonn (bei gutem Wetter an der Garage auf der Rückseite des Gebäudes",
       "description": "Bonn Bitcoin Meetup",
       "link": "https://t.me/einundzwanzig_bonn",
@@ -1089,17 +1089,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 3214,
-      "start": "2026-06-02T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3214",
-      "location": "Lilienschänke, Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
-      "link": "https://www.lilienschaenke-sportsbar.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
