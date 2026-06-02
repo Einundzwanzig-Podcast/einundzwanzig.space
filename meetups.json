@@ -505,6 +505,31 @@
     }
   },
   {
+    "name": "Bitcoin-Sommerfest-Bayern",
+    "latLng": [
+      48.628471,
+      12.49782
+    ],
+    "url": "https://t.me/einundzwanzig_dgf",
+    "city": "Dingolfing",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-sommerfest-bayern",
+    "twitter": null,
+    "event": {
+      "id": 3360,
+      "start": "2026-07-26T07:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-sommerfest-bayern/event/3360",
+      "location": "Geier-Bräu, Marktplatz 48, 94419 Reisbach",
+      "description": "Wir laden euch herzlich zum Bitcoin-Stammtisch Sommerfest beim Geier ein – in seinem schönen, idyllischen Biergarten.  🌞🍻🍗\n\n\nLos geht’s gemütlich mit einem Weißwurstfrühstück. Vielleicht klappt es sogar noch mit einem Sponsor – wir sind dran. 😅\n\nIm Laufe des Tages werden wir außerdem mit einem Grillbuffet kulinarisch versorgt.  🥩🥗🥓🧇\n\n\nIm Mittelpunkt steht ganz klar der lockere Austausch in entspannter Atmosphäre.  🤜🤛🙌👐🫶\n\nEs wird keine festen Vorträge, Kurse oder einen durchgetakteten Zeitplan geben.\n\nEinfach zusammenkommen, quatschen, essen, trinken und eine gute Zeit haben.  👀\n\n\nVielleicht ergibt sich spontan auch etwas Livemusik, falls sich noch Musiker finden. 🥳🥁🎸\n\n\nWer mit dem Camper unterwegs ist: Am nahegelegenen Stausee kann man auch gut übernachten. 😴🚐\n\n\nDa wir für das Event etwas Planungssicherheit brauchen, ist eine Anmeldung bei mir erforderlich.  \n\nDie 21 € für das Buffet müssen im Voraus per Lightning bezahlt werden.  ⚡️⚡️⚡️\n\nDas Event findet bei fast jedem Wetter statt.\nZum Anmelden. oder bei weiteren Fragen schreibt mich einfach an.",
+      "link": "https://t.me/einundzwanzig_dgf",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "BitcoinWalk Hamburg",
     "latLng": [
       53.551086,
@@ -814,7 +839,17 @@
     "city": "Bad Kissingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen",
     "twitter": "SunshineFreak",
-    "event": null,
+    "event": {
+      "id": 3352,
+      "start": "2026-06-19T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen/event/3352",
+      "location": "El Greco Reiterswiesen Bad Kissingen ",
+      "description": "Meetup Bad Kissingen und Umgebung!\nImmer am dritten Freitag des Monats im El Greco Reuterswiesen.\nStart um 18.21 Uhr. \nLockere Atmosphäre, ungezwungen, im seperaten Raum.\nKleine Vorträge, Workshops oder größere Veranstaltung werden hier geplant. \nBesondere Abende, wie Bitcoin PizzaDay, Bitcoin Wanderung zur Heckenwirtschaft, Bitcoin Picknick oder Weihnachtsfeier!\nKomm und sei dabei. \nJeder ist herzlich Willkommen.\nNo Coiner wie Toxic Maxi.\nBringt eure Freunde mit :)\n\nFür andere aktuelle Locations, oder mögliche Termin Verschiebungen, schaut nach dem angepinnten Beitrag in unserer Telegramm Gruppe!",
+      "link": "https://t.me/einundzwanzig_BadKissingen",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3119,7 +3154,17 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": null,
+    "event": {
+      "id": 3359,
+      "start": "2026-06-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel/event/3359",
+      "location": "Wittlich",
+      "description": "Meetup ab 18 Uhr in der Brasserie Balthazar",
+      "link": "https://maps.app.goo.gl/cQ6ar6X65mTzpSZN8",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4453,6 +4498,21 @@
     "url": "https://t.me/HerBitcoin_LaPalma",
     "city": "Puntagorda , Canary Islands , La Palma",
     "portalUrl": "https://portal.einundzwanzig.space/es/meetup/herbitcoin-la-palma",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Meetup 2026 Plebsegeltörn",
+    "latLng": [
+      43.858511,
+      15.502274
+    ],
+    "url": null,
+    "city": "Vrgada",
+    "portalUrl": "https://portal.einundzwanzig.space/hr/meetup/meetup-2026-plebsegeltoern",
     "twitter": null,
     "event": null,
     "style": {
