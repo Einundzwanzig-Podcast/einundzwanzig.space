@@ -229,7 +229,17 @@
     "city": "Dresden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3361,
+      "start": "2026-06-25T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3361",
+      "location": "Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden",
+      "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website verfügbar.\nDort gibt es auch einen Kalender-Feed zum abonnieren.",
+      "link": "https://bitcoin-dresden.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -2634,9 +2644,9 @@
       "start": "2026-06-11T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2777",
       "location": "Schwabach ",
-      "description": "Genaueres wird noch bekannt gegeben.",
-      "link": "https://gesundes-geld.net/",
-      "attendees": 1,
+      "description": "Wir treffen uns in der Gaststätte Wilhelm Tell. Fellon hat für uns das Nebenzimmer reserviert, wenn das Wetter passt können wir auch den schönen Biergarten nutzen. ",
+      "link": "https://www.gaststaette-wilhelm-tell.com",
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
