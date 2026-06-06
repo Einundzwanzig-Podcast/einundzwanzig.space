@@ -1185,13 +1185,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "id": 2760,
-      "start": "2026-06-05T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2760",
+      "id": 2761,
+      "start": "2026-07-03T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2761",
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1276,7 +1276,7 @@
       "location": "Nürnberg, Dornauers Lebküchnerei und Chocolaterie (Fürther Str.)⚡️ ",
       "description": "Dornauers Lebküchnerei und Chocolaterie ⚡️ \nFürther Straße 188\n90429 Nürnberg\n(Lightning Zahlung möglich)\n! Specter Shield (Lite) Workshop Details in der Telegram-Gruppe\n",
       "link": "https://share.google/E3DVs8WAwK5ekVKwt",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1749,17 +1749,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 3237,
-      "start": "2026-06-05T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3237",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Jeden Monat treffen sich Bitcoin-interessierte Menschen aus dem Allgäu und Umgebung zum Einundzwanzig Meetup in Kempten.\nAustausch, Bitcoin, Freiheit, Technik, Memes, gute Gespräche und entspannte Atmosphäre.\n\nEgal ob Anfänger oder Maxi, komm vorbei, lern Leute kennen und hab einfach einen guten Abend mit der Community 🧡",
-      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 3,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2320,12 +2310,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "id": 3159,
-      "start": "2026-06-05T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3159",
-      "location": "Stau 91, 26122 Oldenburg",
-      "description": "Diesmal ausnahmsweise im \"Glut & Wasser\"! Bitcoin only Meetup! Essen und Getränke gibt's von der Speisekarte.\n\n",
-      "link": "https://www.glutundwasser.de/",
+      "id": 3160,
+      "start": "2026-07-05T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3160",
+      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
+      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.\n\n",
+      "link": "https://www.kleineburg-ol.de/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
