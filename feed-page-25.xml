@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 21:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 19:49:45 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,28 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#89 - Update your Nodes!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-89-update-your-nodes]]></description>
+      <link>https://einundzwanzig.space/podcast/news-89-update-your-nodes</link>
+      <guid isPermaLink="false">2a1907d7-d02f-4b72-ad30-303c284896f9</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 23 Jun 2021 20:35:20 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/36049828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-23%2F99f03630-5397-8868-47b6-e8891214dfbc.mp3" length="58409958" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:56:34</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #89">89</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Egge" address="02283e063b3121177fe8ed0c88806fe05b38cf5e192ff8c89e3bdc9b4df05dde21" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/egge-c75845de2c1b1e7661251a0224be540b.jpg" href="https://njump.me/npub1gvyhrc9pe745xnqyn9309jgg5yqeunfv2fyfhnjvzlj6dkzvqdcsj38j8a">Egge</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #45 - Aprycot Media und die Bitcoin-Story mit Fab]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-45-aprycot-media-und-die-bitcoin-story-mit-fab]]></description>
@@ -379,27 +401,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620385448412-ad5352fa3326c.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #39">39</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[#82 - Yirmibir]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-82-yirmibir]]></description>
-      <link>https://einundzwanzig.space/podcast/news-82-yirmibir</link>
-      <guid isPermaLink="false">d099310c-ebe9-49da-a539-b8cb4ee92b92</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 05 May 2021 20:52:02 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/32904779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-5%2F04d3c5ed-4463-fac8-4409-8f07a99189e0.mp3" length="77042415" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:20:15</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #82">82</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
     </item>
   </channel>
 </rss>
