@@ -2646,8 +2646,8 @@
       "location": "Schwabach ",
       "description": "Wir treffen uns in der Gaststätte Wilhelm Tell. Fellon hat für uns das Nebenzimmer reserviert, wenn das Wetter passt können wir auch den schönen Biergarten nutzen. ",
       "link": "https://www.gaststaette-wilhelm-tell.com",
-      "attendees": 4,
-      "might_attendees": 2,
+      "attendees": 6,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -4574,7 +4574,17 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 3407,
+      "start": "2026-06-18T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3407",
+      "location": "1113 Bp. Ábel Jenő u 29.",
+      "description": "Bear market van, demók nem maradhatnak el!! Five is készül BudaBit demóval ⚡️",
+      "link": "https://portal.huszonegy.world/hu/meetup/budabit-cypherpunk-meetup",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4610,16 +4620,26 @@
     }
   },
   {
-    "name": "Perspective Bar Bitcoin meetup",
+    "name": "SideQuest Bar Bitcoin meetup",
     "latLng": [
       47.4925,
       19.051389
     ],
     "url": "https://t.me/huszonegy",
     "city": "Budapest",
-    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/perspective-bar-bitcoin-meetup",
+    "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/sidequest-bar-bitcoin-meetup",
     "twitter": "HUSZONEGYworld",
-    "event": null,
+    "event": {
+      "id": 3406,
+      "start": "2026-07-02T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/sidequest-bar-bitcoin-meetup/event/3406",
+      "location": "SideQuest Bar 1072 Budapest, Klauzál u. 26-28.",
+      "description": "Ezúttal előadás nélkül találkozunk, és a beszélgetésé a főszerep.",
+      "link": "https://side-quest.bar/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
