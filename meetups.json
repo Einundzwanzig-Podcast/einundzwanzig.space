@@ -1075,13 +1075,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch",
     "twitter": null,
     "event": {
-      "id": 3343,
-      "start": "2026-06-11T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3343",
+      "id": 3344,
+      "start": "2026-07-09T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3344",
       "location": "RK Endspurt 1909 Cottbus e.V. Dresdener Str. 18 03050 Cottbus",
       "description": "Wir sind der lokale Bitcoin Stammtisch für Cottbus.\n\nInteresse mitbringen reicht.",
       "link": "https://t.me/einundzwanzig_cb",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2564,7 +2564,17 @@
     "city": "Rhoihesse",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen",
     "twitter": "einundzwanzigrh",
-    "event": null,
+    "event": {
+      "id": 3408,
+      "start": "2026-09-26T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinhessen/event/3408",
+      "location": "Westhofen WOMO-Stellplatz",
+      "description": "Plebwalk Rheinhessen durch das Land der 1000 Hügel\nTreffen auf dem WOMO-Stellplatz in Westhofen ab 10.00 Uhr\nWandern durch die Weinberge startet dann um 12.21 Uhr",
+      "link": "http://t.me/plebwalkrheinhessen",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2640,14 +2650,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2777,
-      "start": "2026-06-11T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2777",
-      "location": "Schwabach ",
-      "description": "Wir treffen uns in der Gaststätte Wilhelm Tell. Fellon hat für uns das Nebenzimmer reserviert, wenn das Wetter passt können wir auch den schönen Biergarten nutzen. ",
-      "link": "https://www.gaststaette-wilhelm-tell.com",
-      "attendees": 6,
-      "might_attendees": 1,
+      "id": 2778,
+      "start": "2026-07-14T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2778",
+      "location": "Roth",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -2990,11 +3000,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "id": 2804,
-      "start": "2026-06-11T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2804",
+      "id": 2805,
+      "start": "2026-07-09T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2805",
       "location": "RamRob Ahrensburg",
-      "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!",
+      "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!\n",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
       "attendees": 0,
       "might_attendees": 0,
@@ -3789,17 +3799,7 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": {
-      "id": 3369,
-      "start": "2026-06-11T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe/event/3369",
-      "location": "Restaurant Plaschlhof, Sportplatzweg 1, 4552 Wartberg an der Krems",
-      "description": "Triff Bitcoiner aus der Umgebung - wir freuen uns auf einen schönen Abend!",
-      "link": "https://maps.app.goo.gl/yXgTVQLcZDkokLg76?g_st=ic",
-      "attendees": 2,
-      "might_attendees": 1,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
