@@ -550,9 +550,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2686,
-      "start": "2026-06-13T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2686",
+      "id": 2687,
+      "start": "2026-06-20T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2687",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -2504,7 +2504,17 @@
     "city": "Recklinghausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": "EinundzwanzigRE",
-    "event": null,
+    "event": {
+      "id": 3409,
+      "start": "2026-06-15T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3409",
+      "location": "Restaurant Nonna di Mia (Markt 3 45657 Recklinghausen) ",
+      "description": "Regelmäßig (monatlich) stattfindendes Treffen von Menschen, die an Bitcoin interessiert sind. Netzwerkbildung, Austausch von Informationen und Meinungen⚡️",
+      "link": "https://nonnadimia.de/standorte/recklinghausen",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
