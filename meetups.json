@@ -196,7 +196,7 @@
       "location": "Café Holzmarktperle",
       "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1844,7 +1844,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 3428,
+      "start": "2026-06-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3428",
+      "location": "Landau in der Pfalz",
+      "description": "Details in den Gruppen",
+      "link": "https://t.me/einundzwanzigld",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1981,10 +1991,10 @@
     "twitter": "EinundzwanzigMA",
     "event": {
       "id": 2900,
-      "start": "2026-06-19T17:00:00.000000Z",
+      "start": "2026-06-19T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/2900",
-      "location": "wechselnde Locations",
-      "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
+      "location": "Rheinterrassen Mannheim ",
+      "description": "EINUNDZWANZIG MANNHEIM\n\nBITCOIN MEETUP\n\n📅 Freitag, 19. Juni 2026\n🕡 Ab 18:30 Uhr\n\n📍 Rheinterrassen Mannheim\nAuf der Wiese direkt am Rhein\n\n🍕 Gemeinsame Pizza-Bestellung vor Ort\n🍺 Getränke gerne selbst mitbringen\n⚡ Lightning Beer Tap vor Ort\n👨‍👩‍👧‍👦 Familie und Freunde willkommen\n\n    #PLEBSTOGETHERSTRONG",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
       "attendees": 0,
       "might_attendees": 0,
@@ -3942,7 +3952,7 @@
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 03.07.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": "https://www.bonami-freilassing.de/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -4451,7 +4461,7 @@
       "location": "Muse Restaurant",
       "description": "Hello again zum Juni - Meetup!",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 1,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
