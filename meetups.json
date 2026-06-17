@@ -1750,14 +1750,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3374,
-      "start": "2026-06-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3374",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kemtpen",
+      "id": 3373,
+      "start": "2026-06-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3373",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kempten",
       "description": "Bitcoin Einsteiger Vortrag\n\nWas ist Bitcoin und warum sprechen immer mehr Menschen darüber? In diesem kostenlosen Vortrag lernst du die Grundlagen von Bitcoin, Wallets, Sicherheit und Selbstverwahrung, einfach erklärt, ohne Vorwissen.\n\nSchon länger bei Bitcoin dabei? Dann empfehle den Vortrag gerne weiter und bringe Freunde, Familie oder Kollegen einfach mit. ",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1804,7 +1804,17 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger",
     "twitter": "einundzwanzigKN",
-    "event": null,
+    "event": {
+      "id": 3430,
+      "start": "2026-07-11T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger/event/3430",
+      "location": "Beachparty Hemishofen (BTC Payment accepted)",
+      "description": "Seit über 25 Jahren organisieren wir von Helft und Helfen Schweiz und Konstanz die Beachparty in Hemishofen zwischen Stein am Rhein und Schaffhausen. \nAlles ehrenamtlich. Die Erlöse gehen in die Schulprojekte in Nicaragua.\n\nDieses Jahr kann man auch mit Bitcoin bezahlen. \nAlso lasst uns aus der Beach Party eine Bicoinbeachparty machen ;) \n\nHüpfburg, Essen und Trinken, Live Musik.\nAbends DJ und Cocktailbar. Normalerweise kommen so 600 bis 800 Menschen. \nDie letzten gehen irgendwann am nächsten Morgen. \n\nEs ist kein exklusives Bitcoin Event. \n\n",
+      "link": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1997,7 +2007,7 @@
       "description": "EINUNDZWANZIG MANNHEIM\n\nBITCOIN MEETUP\n\n📅 Freitag, 19. Juni 2026\n🕡 Ab 18:30 Uhr\n\n📍 Rheinterrassen Mannheim\nAuf der Wiese direkt am Rhein\n\n🍕 Gemeinsame Pizza-Bestellung vor Ort\n🍺 Getränke gerne selbst mitbringen\n⚡ Lightning Beer Tap vor Ort\n👨‍👩‍👧‍👦 Familie und Freunde willkommen\n\n    #PLEBSTOGETHERSTRONG",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -2331,10 +2341,10 @@
     "twitter": null,
     "event": {
       "id": 3160,
-      "start": "2026-07-05T16:00:00.000000Z",
+      "start": "2026-07-03T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3160",
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
-      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.\n\n",
+      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.",
       "link": "https://www.kleineburg-ol.de/",
       "attendees": 0,
       "might_attendees": 0,
@@ -4471,7 +4481,7 @@
       "location": "Muse Restaurant",
       "description": "Hello again zum Juni - Meetup!",
       "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 0,
       "nostr_note": ""
     },
