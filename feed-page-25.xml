@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 19:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:40:11 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-24.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #46 - Pocket Bitcoin]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-46-pocket-bitcoin]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-46-pocket-bitcoin</link>
+      <guid isPermaLink="false">5f0706c9-e4b0-47a0-ba7c-e19d9464d056</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 25 Jun 2021 09:22:44 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/36032688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-23%2F18ef563d-c0ea-f794-9c6b-2f627b435fbb.mp3" length="66065135" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:08:49</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1624461204875-b17545851c399.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #46">46</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#89 - Update your Nodes!]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-89-update-your-nodes]]></description>
@@ -387,20 +407,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episode>14</itunes:episode>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Der Weg #14">14</podcast:episode>
-    </item>
-    <item>
-      <title><![CDATA[Interview #39 - mit Marc Friedrich und Florian Kössler]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-39-mit-marc-friedrich-und-florian-koessler]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-39-mit-marc-friedrich-und-florian-koessler</link>
-      <guid isPermaLink="false">ab335357-d97a-4650-a1bb-d9ff355fa928</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 07 May 2021 17:44:10 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/33011620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-7%2F9a01fcb9-8479-a7e6-9ed1-c2fbde9b849d.mp3" length="77310327" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:20:31</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620385448412-ad5352fa3326c.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #39">39</podcast:episode>
     </item>
   </channel>
 </rss>

@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 19:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:40:11 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #14 - Photon SDK mit Tankred Hase]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-14-photon-sdk-mit-tankred-hase]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-14-photon-sdk-mit-tankred-hase</link>
+      <guid isPermaLink="false">5cdce9e7-ee02-493c-9958-a6da50fd722e</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 19 Oct 2020 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/21207263/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-16%2F9acc88d5-5bd3-5eab-3abf-db3e21a858b4.mp3" length="44811727" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:46:10</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1602874037818-888389a69b516.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #14">14</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[#53 - Cryptopoly]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-53-cryptopoly]]></description>
@@ -382,20 +396,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Lesestunde #03 - Die Bitcoin Reise - Gigi]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-03-die-bitcoin-reise-gigi]]></description>
-      <link>https://einundzwanzig.space/podcast/lesestunde-03-die-bitcoin-reise-gigi</link>
-      <guid isPermaLink="false">83bc15d8-9e39-4ee6-9c8d-710c1d4a2b9c</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 31 Jul 2020 08:00:57 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/17346352/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F94578591-44100-2-bc8f10d817018.m4a" length="12131268" type="audio/x-m4a"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:12:30</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596182466125-650a68499cc76.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Lesestunde #03">03</podcast:episode>
     </item>
   </channel>
 </rss>

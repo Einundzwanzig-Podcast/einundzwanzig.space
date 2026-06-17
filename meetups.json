@@ -190,13 +190,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2633,
-      "start": "2026-06-17T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2633",
-      "location": "Café Holzmarktperle",
-      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
+      "id": 2646,
+      "start": "2026-07-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2646",
+      "location": "Restaurant Friedel Richter",
+      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -400,9 +400,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
     "event": {
-      "id": 3234,
-      "start": "2026-06-17T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3234",
+      "id": 3235,
+      "start": "2026-07-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3235",
       "location": "Unity-Bar \"Rumbar Unity\", Arsenalstraße 36",
       "description": "Erlebe die Zukunft des digitalen Geldes hautnah - beim Bitcoin Treffen in Schwerin. Tauche ein in die Welt der virtuellen Währungen und vernetze dich mit Gleichgesinnten in der malerischen Region Mecklenburg-Vorpommerns.\n\nWillkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
       "link": "https://www.bitcoin-treff.com/standorte/bitcoin-meetup-schwerin-einundzwanzig.html",
@@ -1804,17 +1804,7 @@
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger",
     "twitter": "einundzwanzigKN",
-    "event": {
-      "id": 3430,
-      "start": "2026-07-11T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz-bitcoin-fuer-anfaenger/event/3430",
-      "location": "Beachparty Hemishofen (BTC Payment accepted)",
-      "description": "Seit über 25 Jahren organisieren wir von Helft und Helfen Schweiz und Konstanz die Beachparty in Hemishofen zwischen Stein am Rhein und Schaffhausen. \nAlles ehrenamtlich. Die Erlöse gehen in die Schulprojekte in Nicaragua.\n\nDieses Jahr kann man auch mit Bitcoin bezahlen. \nAlso lasst uns aus der Beach Party eine Bicoinbeachparty machen ;) \n\nHüpfburg, Essen und Trinken, Live Musik.\nAbends DJ und Cocktailbar. Normalerweise kommen so 600 bis 800 Menschen. \nDie letzten gehen irgendwann am nächsten Morgen. \n\nEs ist kein exklusives Bitcoin Event. \n\n",
-      "link": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1830,9 +1820,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln",
     "twitter": null,
     "event": {
-      "id": 3094,
-      "start": "2026-06-17T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3094",
+      "id": 3095,
+      "start": "2026-07-15T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3095",
       "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
       "description": "Weitere Infos in der Telegram-Gruppe.",
       "link": "https://t.me/einundzwanzig_koeln",
@@ -3579,7 +3569,17 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3431,
+      "start": "2026-07-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/3431",
+      "location": "Blauer Adler",
+      "description": "Wie immer. Nette Leute gute Gespräche :)",
+      "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3896,9 +3896,9 @@
     "twitter": "21_nordbgld",
     "event": {
       "id": 2613,
-      "start": "2026-06-19T14:00:00.000000Z",
+      "start": "2026-06-19T15:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2613",
-      "location": "vermutlich La Takeria, Neusiedl am See",
+      "location": "La Takeria, Neusiedl am See",
       "description": "Einundzwanzig Nordburgenland Sommerfest",
       "link": "https://einundzwanzig-nordbgld.at/",
       "attendees": 0,
@@ -4180,6 +4180,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/baden-bitcoin-club",
     "twitter": "bitcoinbaden",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Beach Party am Rhein (BTC Payment Accepted) ",
+    "latLng": [
+      47.6758,
+      8.8382
+    ],
+    "url": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
+    "city": "Hemishofen ",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/beach-party-am-rhein-btc-payment-accepted",
+    "twitter": "@catanthai",
+    "event": {
+      "id": 3432,
+      "start": "2026-07-11T11:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/beach-party-am-rhein-btc-payment-accepted/event/3432",
+      "location": "Beachparty Hemishofen (BTC Payment accepted)",
+      "description": "Seit über 25 Jahren organisieren wir von Helft und Helfen Schweiz und Konstanz die Beachparty in Hemishofen zwischen Stein am Rhein und Schaffhausen.\nAlles ehrenamtlich. Die Erlöse gehen in die Schulprojekte in Nicaragua.\n\n\nDieses Jahr kann man auch mit Bitcoin bezahlen.\nAlso lasst uns aus der Beach Party eine Bicoinbeachparty machen ;)\n\n\nHüpfburg, Essen und Trinken, Live Musik.\nAbends DJ und Cocktailbar. Normalerweise kommen so 600 bis 800 Menschen.\nDie letzten gehen irgendwann am nächsten Morgen.\n\n\nEs ist kein exklusives Bitcoin Event.",
+      "link": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
