@@ -989,17 +989,7 @@
     "city": "Bremen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
-    "event": {
-      "id": 2300,
-      "start": "2026-06-18T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/2300",
-      "location": "SCHWARZER HERMANN (nähe Bremen-Hauptbahnhof)",
-      "description": "Hohenlohestraße 4-6, 28209 Bremen, Deutschland \n",
-      "link": "https://www.schwarzerhermann.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "9e510cfdf8a0996c1ded210deb42d197c2baa655ecf0610c135601c842bcf6cb"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1355,11 +1345,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
     "event": {
-      "id": 3232,
-      "start": "2026-06-18T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3232",
-      "location": "Lindenhof Keulos ",
-      "description": "Das nächste Meetup findet am Donnerstag, den 18.06. ab 18:30 Uhr statt. Dieses Mal wieder im Lindenhof in Keulos 😁 ",
+      "id": 3433,
+      "start": "2026-07-30T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3433",
+      "location": "Lindenhof in Keulos ",
+      "description": "Das nächste Meetup findet am Donnerstag, den 30.07. ab 18:30 Uhr statt. Dieses Mal wieder im Lindenhof in Keulos 😁",
       "link": "https://keulos.beepworld.de/",
       "attendees": 1,
       "might_attendees": 0,
@@ -1756,7 +1746,7 @@
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kempten",
       "description": "Bitcoin Einsteiger Vortrag\n\nWas ist Bitcoin und warum sprechen immer mehr Menschen darüber? In diesem kostenlosen Vortrag lernst du die Grundlagen von Bitcoin, Wallets, Sicherheit und Selbstverwahrung, einfach erklärt, ohne Vorwissen.\n\nSchon länger bei Bitcoin dabei? Dann empfehle den Vortrag gerne weiter und bringe Freunde, Familie oder Kollegen einfach mit. ",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -2336,7 +2326,7 @@
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
       "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.",
       "link": "https://www.kleineburg-ol.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2609,17 +2599,7 @@
     "city": "Rheinisch-Bergischer Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis",
     "twitter": null,
-    "event": {
-      "id": 3429,
-      "start": "2026-06-18T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rheinisch-bergischer-kreis/event/3429",
-      "location": "Taverna Kalyva, Kölner Str. 375, 51515 Kürten-Bechen",
-      "description": "Meetup",
-      "link": "https://www.kalyva.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4639,17 +4619,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": {
-      "id": 3407,
-      "start": "2026-06-18T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3407",
-      "location": "1113 Bp. Ábel Jenő u 29.",
-      "description": "Bear market van, demók nem maradhatnak el!! Five is készül BudaBit demóval ⚡️",
-      "link": "https://portal.huszonegy.world/hu/meetup/budabit-cypherpunk-meetup",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
