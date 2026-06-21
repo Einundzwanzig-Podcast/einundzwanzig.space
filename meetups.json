@@ -550,9 +550,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2687,
-      "start": "2026-06-20T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2687",
+      "id": 2688,
+      "start": "2026-06-27T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2688",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -575,13 +575,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2881,
-      "start": "2026-06-20T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2881",
+      "id": 2871,
+      "start": "2026-07-04T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2871",
       "location": "Siehe Gruppe",
       "description": "Der BitcoinWalk ist ein Spaziergang, der alle zwei Wochen samstags in Hannover stattfindet. Hier treffen sich Bitcoin-Enthusiasten, um sich bei echten Gesprächen auszutauschen.\nDie Spaziergänge sind eine Einladung, den Bildschirm mal beiseitezulegen, sich zu bewegen, neue Menschen aus der Bitcoin-Community kennenzulernen – und, wenn man gerade erst einsteigt, auch etwas über Bitcoin zu lernen.\n\nOrt und Zeit: Siehe Homepage bzw. Telegram Gruppe oder Nostr Chat",
       "link": "https://bitcoinwalk.org/hannover/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3099,17 +3099,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "id": 3239,
-      "start": "2026-06-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3239",
-      "location": "Ente in Zurlauben",
-      "description": "Auf Unserem monatlichem Meetup ist jeder willkommen. Also kommt gerne vorbei und das beste ist, ihr könnt hier sogar mit Sats bezahlen.",
-      "link": "https://ichsuche.unterdiesem.link/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3254,7 +3244,17 @@
     "city": "Vreden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3443,
+      "start": "2026-07-16T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland/event/3443",
+      "location": "Adresse Roseweiss, Zur Synagoge 2 48691 Vreden",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3325,9 +3325,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau",
     "twitter": null,
     "event": {
-      "id": 2318,
-      "start": "2026-06-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2318",
+      "id": 2319,
+      "start": "2026-07-18T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2319",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": null,
@@ -3449,17 +3449,7 @@
     "city": "Münchberg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/muenchberg",
     "twitter": "Fichtelcoiner",
-    "event": {
-      "id": 3238,
-      "start": "2026-06-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/muenchberg/event/3238",
-      "location": "Gourmet Wunderlich, Gartenstr 5. 95213 Münchberg ",
-      "description": "Yumyum, lecker Snacker",
-      "link": "https://portal.einundzwanzig.space/de/meetup/296/events/create",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3970,15 +3960,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding",
     "twitter": null,
     "event": {
-      "id": 1756,
-      "start": "2026-06-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1756",
+      "id": 1757,
+      "start": "2026-07-18T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1757",
       "location": "Passau oder Schärding",
-      "description": "58. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
+      "description": "59. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "65b21867e6f59c8aeebc7ee7969b9ec86abdc78849a132591e6da8f243f7ea8d"
+      "nostr_note": "58cfa4831a5b66734d0034431910541df54e555d921f9022a32873ee10217fd9"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -4469,17 +4459,7 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern",
     "twitter": "KryptoJuenger82",
-    "event": {
-      "id": 3241,
-      "start": "2026-06-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21-bitcoin-meetup-zypern/event/3241",
-      "location": "Muse Restaurant",
-      "description": "Hello again zum Juni - Meetup!",
-      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 5,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
