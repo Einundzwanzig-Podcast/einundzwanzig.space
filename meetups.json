@@ -3174,17 +3174,7 @@
     "city": "Ulmen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel",
     "twitter": "EinundzwanzigVE",
-    "event": {
-      "id": 3359,
-      "start": "2026-06-21T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-vulkaneifel/event/3359",
-      "location": "Wittlich",
-      "description": "Meetup ab 18 Uhr in der Brasserie Balthazar",
-      "link": "https://maps.app.goo.gl/cQ6ar6X65mTzpSZN8",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
