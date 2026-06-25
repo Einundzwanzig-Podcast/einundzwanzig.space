@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 17:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:18:03 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-26.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #40 - Mining und Lightning Network Basics mit Joko]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-40-mining-und-lightning-network-basics-mit-joko]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-40-mining-und-lightning-network-basics-mit-joko</link>
+      <guid isPermaLink="false">8a83eb81-d970-4647-b4fe-007115b59ff5</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 10 May 2021 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/33162385/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-9%2Fed5783fd-cb48-41fd-ea7c-82fc9b0ce756.mp3" length="75101055" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:17:46</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620587190053-bdc67e6e04c0e.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #40">40</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #14 - Bitcoin stimmt mich positiv für die Zukunft]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-14-bitcoin-stimmt-mich-positiv-fuer-die-zukunft]]></description>
@@ -372,20 +390,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/max-996768c9e40edd8bf2c32b508aa64a77.jpg" href="https://towardsliberty.com/">Max</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#75 - Legales Insiderwissen]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-75-legales-insiderwissen]]></description>
-      <link>https://einundzwanzig.space/podcast/news-75-legales-insiderwissen</link>
-      <guid isPermaLink="false">b2b57e71-10a5-4ecd-a11b-eff4c58dd521</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 17 Mar 2021 21:48:19 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/29271552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-17%2F7aa25230-c602-676c-4b0f-2366e4bdc53c.mp3" length="72193670" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:15:12</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #75">75</podcast:episode>
     </item>
   </channel>
 </rss>
