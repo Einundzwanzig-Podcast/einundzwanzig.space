@@ -432,7 +432,7 @@
       "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
       "link": "https://luma.com/6nfch5wl",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1099,7 +1099,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3553,
+      "start": "2026-07-07T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3553",
+      "location": "Lilienschänke, Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet in der Lilienschänke ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://www.lilienschaenke-sportsbar.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1191,7 +1201,7 @@
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1276,7 +1286,7 @@
       "location": "Plebwalk zum Rabbithole / Elbersberg in der fränkischen Schweiz",
       "description": "Treffpunkt:\nGaststätte Kapellenhof\nKapellenweg 13\n91278 Pottenstein-Elbersberg\nGemeinsames Mittagessen, anschließend Wanderung bis ca. 17:00 Uhr\nHighlights auf der Route: Himmelsleiter (Aussichtsturm), Rabbithole (Hasenloch Höhle), Kneipen im Bach, Quellwasser abfüllen\nWanderung findet nur bei schönem Wetter statt!",
       "link": "https://share.google/slcwTt9JRqVG0sQUG",
-      "attendees": 9,
+      "attendees": 11,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3485,9 +3495,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "id": 2248,
-      "start": "2026-06-29T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2248",
+      "id": 2249,
+      "start": "2026-07-27T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2249",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
@@ -4730,9 +4740,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3378,
-      "start": "2026-06-30T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3378",
+      "id": 3379,
+      "start": "2026-07-07T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3379",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
