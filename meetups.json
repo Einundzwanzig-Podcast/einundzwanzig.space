@@ -95,12 +95,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
     "event": {
-      "id": 2983,
-      "start": "2026-07-21T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2983",
-      "location": "Mainaschaff ",
-      "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
-      "link": "https://t.me/einundzwanzig_aschaffenburg",
+      "id": 3559,
+      "start": "2026-07-03T10:40:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/3559",
+      "location": "test2",
+      "description": "test",
+      "link": null,
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -428,8 +428,8 @@
       "id": 3351,
       "start": "2026-07-01T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3351",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 30-40\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Da Raffaella",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Mittwoch, 01. Juli 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~956.237\n\n​Ort diesmal: Restaurant Da Raffaella, Hohenschwangaustr. 17, 81549 München",
       "link": "https://luma.com/6nfch5wl",
       "attendees": 0,
       "might_attendees": 1,
@@ -1059,7 +1059,17 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3555,
+      "start": "2026-07-11T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3555",
+      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://la-cham.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2697,7 +2707,7 @@
       "description": "Genaueres wird noch bekannt gegeben.",
       "link": "https://gesundes-geld.net/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
