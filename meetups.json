@@ -190,11 +190,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin",
     "twitter": null,
     "event": {
-      "id": 2646,
-      "start": "2026-07-02T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2646",
-      "location": "Restaurant Friedel Richter",
-      "description": "Das älteste Bitcoin Meet-up der Welt. Stammtisch an jedem 1. Donnerstag im Monat, Torstraße 199, 10115 Berlin.",
+      "id": 2634,
+      "start": "2026-07-15T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2634",
+      "location": "Café Holzmarktperle",
+      "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
       "attendees": 0,
       "might_attendees": 0,
@@ -960,9 +960,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn",
     "twitter": null,
     "event": {
-      "id": 3226,
-      "start": "2026-07-02T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3226",
+      "id": 3227,
+      "start": "2026-08-06T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3227",
       "location": "The 9th, Sandkaule 9-11, 53111 Bonn (bei gutem Wetter an der Garage auf der Rückseite des Gebäudes",
       "description": "Bonn Bitcoin Meetup",
       "link": "https://t.me/einundzwanzig_bonn",
@@ -1306,7 +1306,7 @@
       "location": "Plebwalk zum Rabbithole / Elbersberg in der fränkischen Schweiz",
       "description": "Treffpunkt:\nGaststätte Kapellenhof\nKapellenweg 13\n91278 Pottenstein-Elbersberg\nGemeinsames Mittagessen, anschließend Wanderung bis ca. 17:00 Uhr\nHighlights auf der Route: Himmelsleiter (Aussichtsturm), Rabbithole (Hasenloch Höhle), Kneipen im Bach, Quellwasser abfüllen\nWanderung findet nur bei schönem Wetter statt!",
       "link": "https://share.google/slcwTt9JRqVG0sQUG",
-      "attendees": 11,
+      "attendees": 12,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1780,13 +1780,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3435,
-      "start": "2026-07-07T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3435",
+      "id": 3588,
+      "start": "2026-07-04T17:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3588",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Einundzwanzig Kempten, Cambodunum Meetup\n\nBitcoin, gute Gespräche und entspannter Austausch mit Gleichgesinnten.\n\nEgal ob Bitcoiner seit Jahren oder einfach neugierig auf das Thema, komm vorbei, lerne neue Menschen kennen und diskutiere über Bitcoin, Freiheit, Technik und die Zukunft.\n\nJeder ist willkommen. Wir freuen uns auf einen entspannten Abend mit der Community 🧡",
+      "description": "Hochwertiger Nostr-Vortrag, gute Gespräche und Community-Abend, \nRalph und MarkusTurm werden etwas zu Nostr erzählen, zu Kickstr, zu media.einundzwanzig.space \n\nda stadtfest ist kann man das ja mit etwas party danach verbrinden",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2130,9 +2130,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers",
     "twitter": null,
     "event": {
-      "id": 3195,
-      "start": "2026-07-02T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers/event/3195",
+      "id": 3196,
+      "start": "2026-08-06T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers/event/3196",
       "location": "wird in der Telegram Gruppe bekanntgegeben",
       "description": "Regelmäßiges meetup am 1. Donnerstag des Monats",
       "link": "https://t.me/einundzwanzigMoers",
@@ -2219,7 +2219,17 @@
     "city": "Neubrandenburg ",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3587,
+      "start": "2026-07-30T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg/event/3587",
+      "location": "MyArea in Neubrandenburg ",
+      "description": "🎙️ Meetup trifft Podcast – Einundzwanzig Neubrandenburg\n\nDieses Meetup ist etwas Besonderes.\n\nBevor wir gemeinsam in den Abend starten, entsteht vor Ort eine Podcast-Folge mit Paul Steinborn vom Mobilen Podcast. Dabei sprechen wir über Bitcoin, den Aufbau einer regionalen Community und darüber, warum persönliche Begegnungen auch im digitalen Zeitalter unverzichtbar sind.\n\nAb 18:21 Uhr öffnen wir die Türen für alle Bitcoin-Interessierten.\n\nEgal ob du gerade deine ersten Schritte mit Bitcoin machst oder schon lange dabei bist, dieses Meetup lebt vom offenen Austausch. Es geht nicht um Vorträge oder Verkaufsveranstaltungen, sondern um Gespräche auf Augenhöhe, gegenseitiges Lernen und den Aufbau einer starken regionalen Bitcoin-Community.\n\nDas erwartet dich\n\n🎙️ Einblicke hinter die Kulissen einer Podcast-Produktion\n\n🤝 Meet & Greet mit Paul Steinborn vom Mobilen Podcast\n\n🧡 Austausch mit der Bitcoin-Community aus Neubrandenburg und Umgebung\n\n💬 Offene Gespräche, Fragen und Diskussionen rund um Bitcoin\n\nNeue Kontakte, Inspiration und gemeinsames Lernen\n\nFür wen ist das Meetup?\n\nFür alle.\n\nGanz gleich ob Student, Berufstätiger, Unternehmer oder Rentner, wenn dich Bitcoin interessiert oder du einfach neugierig bist, bist du herzlich willkommen.\n\nVorkenntnisse sind nicht erforderlich.\n\nGetränke\n\nVor Ort stehen Kaffee sowie verschiedene alkoholfreie Getränke gegen einen kleinen Kostenbeitrag zur Verfügung.\n\nDie Bezahlung ist sowohl bar als auch bequem per Lightning möglich.\n\nWann?\n\n30. Juli 2025\n\nBeginn: 18:21 Uhr\n\nEintritt: Freu/Value for Value\n\nWo?\n\nMyArea Coworking Space\n\nFriedländer Straße 1\n\n17033 Neubrandenburg\n\n⸻\n\nBitcoin verbindet Generationen.\n\nKomm vorbei, lerne neue Menschen kennen und werde Teil der Einundzwanzig-Community in Neubrandenburg. Wir freuen uns auf einen inspirierenden Abend mit guten Gesprächen, neuen Ideen und jeder Menge Bitcoin.\n\n🧡 Ich freue mich auf euch, euer Stop Loss von Einundzwanzig Neubrandenburg!",
+      "link": "https://www.myarea.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4644,17 +4654,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/sidequest-bar-bitcoin-meetup",
     "twitter": "HUSZONEGYworld",
-    "event": {
-      "id": 3406,
-      "start": "2026-07-02T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/sidequest-bar-bitcoin-meetup/event/3406",
-      "location": "SideQuest Bar 1072 Budapest, Klauzál u. 26-28.",
-      "description": "Gyere el egy kellemes nyár-esti kötetlen beszélgetésre bitcoinról, bitcoinerekkel! Lehet a téma az örökzöld \"hol vegyek? hogy tároljam? hol költsem\" hármas, de bármi más, mint bitcoin-alapú kölcsön, a várható hazai jogszabályváltozások, Nostr vagy mesh hálózatok, Saylor papa, BIP110, vagy Lightning és Spark és Ark, biztos, hogy találsz valakit, akivel kellemesen és hasznosan elbeszélgethetsz. Várunk!",
-      "link": "https://side-quest.bar/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
