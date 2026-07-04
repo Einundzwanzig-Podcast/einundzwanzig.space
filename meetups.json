@@ -95,13 +95,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
     "event": {
-      "id": 3559,
-      "start": "2026-07-03T10:40:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/3559",
-      "location": "test2",
-      "description": "test",
-      "link": null,
-      "attendees": 0,
+      "id": 2983,
+      "start": "2026-07-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2983",
+      "location": "Mainaschaff ",
+      "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
+      "link": "https://t.me/einundzwanzig_aschaffenburg",
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -480,9 +480,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "id": 3560,
-      "start": "2026-07-04T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3560",
+      "id": 3562,
+      "start": "2026-07-18T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3562",
       "location": "Clarenbachstr 2, 50931 Lindenthal",
       "description": "Der Bitcoin Walk Köln ist ein kostenloser, 14-tägiger Samstagsspaziergang in Köln-Lindenthal. Meist treffen sich etwa 5 bis 15 Bitcoin-Interessierte am Clarenbach-Kanal, um sich in entspannter Atmosphäre zu bewegen, kennenzulernen und über Bitcoin auszutauschen. Einsteiger sind ausdrücklich willkommen.\nbitcoinwalk.org",
       "link": "https://t.me/+wh9ljtBWdyAwYjhi",
@@ -1215,13 +1215,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen",
     "twitter": null,
     "event": {
-      "id": 2761,
-      "start": "2026-07-03T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2761",
+      "id": 2762,
+      "start": "2026-08-07T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2762",
       "location": "Ellwangen",
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1306,7 +1306,7 @@
       "location": "Plebwalk zum Rabbithole / Elbersberg in der fränkischen Schweiz",
       "description": "Treffpunkt:\nGaststätte Kapellenhof\nKapellenweg 13\n91278 Pottenstein-Elbersberg\nGemeinsames Mittagessen, anschließend Wanderung bis ca. 17:00 Uhr\nHighlights auf der Route: Himmelsleiter (Aussichtsturm), Rabbithole (Hasenloch Höhle), Kneipen im Bach, Quellwasser abfüllen\nWanderung findet nur bei schönem Wetter statt!",
       "link": "https://share.google/slcwTt9JRqVG0sQUG",
-      "attendees": 12,
+      "attendees": 14,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2380,14 +2380,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg",
     "twitter": null,
     "event": {
-      "id": 3160,
-      "start": "2026-07-03T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3160",
+      "id": 3161,
+      "start": "2026-08-07T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3161",
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
       "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.",
       "link": "https://www.kleineburg-ol.de/",
       "attendees": 1,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -3334,7 +3334,17 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3594,
+      "start": "2026-07-12T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden/event/3594",
+      "location": "Cafe del Sol Wiesbaden",
+      "description": "Bitcoin Brunch in Wiesbaden. Lockere Atmosphäre. Tolle Gespräche. Neue Bekanntschaften.",
+      "link": "https://web.telegram.org/k/#@einundzwanzigwiesbaden",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3879,7 +3889,17 @@
     "city": "Linz",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
-    "event": null,
+    "event": {
+      "id": 3591,
+      "start": "2026-07-11T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3591",
+      "location": "Bar21",
+      "description": "Kein Vortrag, kein Programm – einfach zusammenkommen, reden und Bitcoin-Luft schnuppern. Ob Einsteiger oder erfahrener Bitcoiner: jeder ist willkommen.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/11-07-stammtisch/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3964,17 +3984,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3370,
-      "start": "2026-07-03T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3370",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 03.07.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
