@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 07:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:19:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-26.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,21 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #41 - Regulatorisch konformes Mining und Miningpool Observer mit Timo (0xB10C)]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-41-regulatorisch-konformes-mining-und-miningpool-observer-mit-timo-0xb10c]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-41-regulatorisch-konformes-mining-und-miningpool-observer-mit-timo-0xb10c</link>
+      <guid isPermaLink="false">9dc0b5e3-7ab1-491b-bdd0-bc7780f2ac71</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 14 May 2021 04:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/33446375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-13%2F5709c6f0-4184-ef4a-383b-7deed7afe0da.mp3" length="47094280" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:48:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1620945521149-577493d8d167f.jpg"></itunes:image>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Interview #41">41</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#83 - Die Pfützen köcheln]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-83-die-pfuetzen-koecheln]]></description>
@@ -379,20 +394,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/jeff-f189411efe1eb3b2c1485c1640083aaa.jpg" href="https://fulmo.org/">Jeff</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #10 - Bitcoin ist ein friedlicher Protest]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-10-bitcoin-ist-ein-friedlicher-protest]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-10-bitcoin-ist-ein-friedlicher-protest</link>
-      <guid isPermaLink="false">b9ef2b82-589f-491d-8701-a5aef228cda0</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sat, 20 Mar 2021 15:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/28854252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-13%2Fcee5db2c-2c8e-4e55-d281-7e3463b291ae.mp3" length="45145815" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:49:31</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1615647071112-d46f096636822.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Der Weg #10">10</podcast:episode>
     </item>
   </channel>
 </rss>

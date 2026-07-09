@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 07:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:19:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-30.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,27 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#45 - Brokesats Mountain]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-45-brokesats-mountain]]></description>
+      <link>https://einundzwanzig.space/podcast/news-45-brokesats-mountain</link>
+      <guid isPermaLink="false">5c935b83-5df3-43ec-9fc9-8239acd1b9bd</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 19 Aug 2020 19:04:25 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/18284685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-19%2F141065f0-c1f4-79d6-acab-c18810efbb27.mp3" length="35944704" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:37:26</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #45">45</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#44 - Church of Satoshi]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-44-church-of-satoshi]]></description>
@@ -405,20 +426,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Lesestunde #02 - Bitcoins Gesellschaftsvertrag - Hasu]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-02-bitcoins-gesellschaftsvertrag-hasu]]></description>
-      <link>https://einundzwanzig.space/podcast/lesestunde-02-bitcoins-gesellschaftsvertrag-hasu</link>
-      <guid isPermaLink="false">3e988a21-444e-464f-9fce-d4fbe0737913</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Fri, 01 May 2020 07:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/12981292/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-27%2F68094946-44100-2-a428774d6ddd2.m4a" length="30836526" type="audio/x-m4a"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:15:30</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1596133880416-a7aa0b622fb8a.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Lesestunde #02">02</podcast:episode>
     </item>
   </channel>
 </rss>

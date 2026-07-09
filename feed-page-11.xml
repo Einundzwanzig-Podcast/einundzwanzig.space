@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 07:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:19:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-11.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-10.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[NostrTalk #05 - tu felix Nostria - mit Rahim Taghizadegan]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/nostrtalk-05-tu-felix-nostria-mit-rahim-taghizadegan]]></description>
+      <link>https://einundzwanzig.space/podcast/nostrtalk-05-tu-felix-nostria-mit-rahim-taghizadegan</link>
+      <guid isPermaLink="false">776056fa-7f0c-4fa7-9cb3-984af82f0720</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 27 Jan 2024 19:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/81866115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-27%2F74bf016c-5087-3902-91e6-bf8a6863141d.mp3" length="147992055" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:01:39</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1706373839303-d7698e74e117f.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="NostrTalk #05">05</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #101 - Bitcoin Atlantis 2024 with André Loja]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-101-bitcoin-atlantis-2024-with-andr-loja]]></description>
@@ -434,20 +452,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/ole-87dfe53dabe684ab1f06590ff7152163.jpg" href="https://medium.com/@dercheapi">Ole</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#210 - Viva la veintiuno, carajo]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-210-viva-la-veintiuno-carajo]]></description>
-      <link>https://einundzwanzig.space/podcast/news-210-viva-la-veintiuno-carajo</link>
-      <guid isPermaLink="false">3e7bf5cb-d6e9-450b-9726-c820764edabe</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 23 Nov 2023 14:06:02 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/79037025/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2F62ceddbd-0ae4-ed39-c2ce-4c77c4cae4be.mp3" length="323676582" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>02:45:31</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #210">210</podcast:episode>
     </item>
   </channel>
 </rss>
