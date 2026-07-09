@@ -101,7 +101,7 @@
       "location": "Mainaschaff ",
       "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -504,7 +504,17 @@
     "city": "Westerwald",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3610,
+      "start": "2026-08-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-westerwald/event/3610",
+      "location": "Schau in Telegram",
+      "description": "In Telegram bekommst du die genaue Location",
+      "link": "https://t.me/BitcoinWesterWald",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -811,7 +821,7 @@
       "location": "Augsburg",
       "description": "Meetup immer am 3. Freitag im Monat. Wechselnde Örtlichkeiten bitte aus Telegram entnehmen",
       "link": "https://t.me/Einundzwanzig_Augsburg",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1770,12 +1780,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3550,
-      "start": "2026-07-08T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3550",
+      "id": 3589,
+      "start": "2026-07-13T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3589",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Bitcoin Einsteiger Vortrag\n\nWas ist Bitcoin und warum sprechen immer mehr Menschen darüber? In diesem kostenlosen Vortrag lernst du die Grundlagen von Bitcoin, Wallets, Sicherheit und Selbstverwahrung, einfach erklärt, ohne Vorwissen.",
-      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "description": "KI-Einsteiger-Vortrag, Wie Künstliche Intelligenz Zeit spart, Prozesse optimiert und einfach im Unternehmen eingesetzt werden kann. Praktische Beispiele und erste Schritte zur Implementierung.",
+      "link": "https://bitcoinmetropole.de",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -1809,7 +1819,17 @@
     "city": "Koblenz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
-    "event": null,
+    "event": {
+      "id": 3597,
+      "start": "2026-08-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/3597",
+      "location": "Abwechselde Location ",
+      "description": "In Telegram bekommst du die genaue Location",
+      "link": "https://t.me/Einundzwanzig_Ko",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2789,7 +2809,17 @@
     "city": "Saarbrücken",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
     "twitter": "bitcoinsbsb",
-    "event": null,
+    "event": {
+      "id": 3596,
+      "start": "2026-07-19T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken/event/3596",
+      "location": "Kulturcafe",
+      "description": "Stammtisch, Rückfragen auf Signal oder Telegram",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
