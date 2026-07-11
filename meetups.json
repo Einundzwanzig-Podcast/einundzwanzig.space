@@ -1306,8 +1306,8 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 1,
-      "might_attendees": 0,
+      "attendees": 3,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -3145,15 +3145,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2534,
-      "start": "2026-07-10T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2534",
+      "id": 2535,
+      "start": "2026-08-14T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2535",
       "location": "Northeim, DinX Dinner",
-      "description": "Quatschen über bitcoin",
+      "description": "bitcoin",
       "link": "https://signal.group/#CjQKIKf11rBE3_bnP9K6Z499DT3mZnYm3r-hXX_tGB1kLEemEhDDNih5R5T-vdSbmrtbG4HH",
       "attendees": 0,
-      "might_attendees": 1,
-      "nostr_note": "d28eda3ba03990759b7a9889790356e5f4a43a9cb77ed0f196edbf00ad88c8bd"
+      "might_attendees": 0,
+      "nostr_note": "71421b61d6b946641cf3b34c650516ab505a650e74ba6f4e3ce30a3bbe3b410a"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3336,7 +3336,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3361,7 +3361,7 @@
       "location": "Cafe del Sol Wiesbaden",
       "description": "Bitcoin Brunch in Wiesbaden. Lockere Atmosphäre. Tolle Gespräche. Neue Bekanntschaften.",
       "link": "https://web.telegram.org/k/#@einundzwanzigwiesbaden",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4189,7 +4189,17 @@
     "city": "Lyss",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3611,
+      "start": "2026-07-12T01:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland/event/3611",
+      "location": "NachBar Marktplatz Lyss",
+      "description": "WM public Viewing unter Bitcoinern. \nzeig dich mit Orange Merch",
+      "link": "https://t.me/Einundzwanzig_Seeland",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
