@@ -570,9 +570,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2690,
-      "start": "2026-07-11T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2690",
+      "id": 2691,
+      "start": "2026-07-18T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2691",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -1017,7 +1017,7 @@
       "description": "Wir treffen uns immer am 3. (dritten) Donnerstag im Monat ab 18:30 Uhr im Restaurant \"Übersee\", Bremen-Hauptbahnhof.",
       "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1079,17 +1079,7 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "id": 3555,
-      "start": "2026-07-11T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3555",
-      "location": "L.A. Live Style Café / Badstrasse 19 / 93413 Cham / DE",
-      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden eine Woche vor dem Meetup statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
-      "link": "https://la-cham.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3354,17 +3344,7 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": {
-      "id": 3594,
-      "start": "2026-07-12T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden/event/3594",
-      "location": "Cafe del Sol Wiesbaden",
-      "description": "Bitcoin Brunch in Wiesbaden. Lockere Atmosphäre. Tolle Gespräche. Neue Bekanntschaften.",
-      "link": "https://web.telegram.org/k/#@einundzwanzigwiesbaden",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3910,13 +3890,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "id": 3591,
-      "start": "2026-07-11T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3591",
+      "id": 3592,
+      "start": "2026-07-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3592",
       "location": "Bar21",
-      "description": "Kein Vortrag, kein Programm – einfach zusammenkommen, reden und Bitcoin-Luft schnuppern. Ob Einsteiger oder erfahrener Bitcoiner: jeder ist willkommen.",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/11-07-stammtisch/",
-      "attendees": 1,
+      "description": "Sommer. Sats. Gespräche.\n\nDer Sommer-Stammtisch – entspannt, offen, ohne Programm. Bitcoin, Lightning, NOSTR und alles was euch bewegt. Einfach kommen, alle sind willkommen!\n\nKein Vorwissen notwendig – offen für alle.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/30-juli-st/",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4189,17 +4169,7 @@
     "city": "Lyss",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland",
     "twitter": null,
-    "event": {
-      "id": 3611,
-      "start": "2026-07-12T01:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/32-einezwaenzg-seeland/event/3611",
-      "location": "NachBar Marktplatz Lyss",
-      "description": "WM public Viewing unter Bitcoinern. \nzeig dich mit Orange Merch",
-      "link": "https://t.me/Einundzwanzig_Seeland",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4244,17 +4214,7 @@
     "city": "Hemishofen ",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/beach-party-am-rhein-btc-payment-accepted",
     "twitter": "@catanthai",
-    "event": {
-      "id": 3432,
-      "start": "2026-07-11T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/ch/meetup/beach-party-am-rhein-btc-payment-accepted/event/3432",
-      "location": "Beachparty Hemishofen (BTC Payment accepted)",
-      "description": "Seit über 25 Jahren organisieren wir von Helft und Helfen Schweiz und Konstanz die Beachparty in Hemishofen zwischen Stein am Rhein und Schaffhausen.\nAlles ehrenamtlich. Die Erlöse gehen in die Schulprojekte in Nicaragua.\n\n\nDieses Jahr kann man auch mit Bitcoin bezahlen.\nAlso lasst uns aus der Beach Party eine Bicoinbeachparty machen ;)\n\n\nHüpfburg, Essen und Trinken, Live Musik.\nAbends DJ und Cocktailbar. Normalerweise kommen so 600 bis 800 Menschen.\nDie letzten gehen irgendwann am nächsten Morgen.\n\n\nEs ist kein exklusives Bitcoin Event.",
-      "link": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
