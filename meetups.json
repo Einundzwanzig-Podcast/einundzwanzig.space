@@ -486,7 +486,7 @@
       "location": "Clarenbachstr 2, 50931 Lindenthal",
       "description": "Der Bitcoin Walk Köln ist ein kostenloser, 14-tägiger Samstagsspaziergang in Köln-Lindenthal. Meist treffen sich etwa 5 bis 15 Bitcoin-Interessierte am Clarenbach-Kanal, um sich in entspannter Atmosphäre zu bewegen, kennenzulernen und über Bitcoin auszutauschen. Einsteiger sind ausdrücklich willkommen.\nbitcoinwalk.org",
       "link": "https://t.me/+wh9ljtBWdyAwYjhi",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1314,7 +1314,17 @@
     "city": "Frankfurt am Main",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
-    "event": null,
+    "event": {
+      "id": 3612,
+      "start": "2026-07-23T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main/event/3612",
+      "location": "Massif Central im Bethmannhof, Bethmannstraße 7-9",
+      "description": "Das nächste Meetup wieder im Gebäude der ältesten Privatbank Deutschland. Diesmal „Peace Love & BBQ\" im Innenhof von “Massif Central” – es gibt gegrilltes -Fleisch, Fisch, Vegetarisch und dazu wechselnde Salate – inkl. Austausch und Diskussionen um Bitcoin wie auch um das Bitcoin Meetup selbst.\n\nKoordinaten: 50.110097 8.679097\nDonnerstag: 16.07.2026 bereits ab 18:00 Uhr\n\nMassif Central\nim Bethmannhof, Bethmannstraße 7-9\n60311 FFM\n\n👉 btcffm.org\n👉 X: https://x.com/BTCFFM\n👉 Nostr: #npub1m3msk8ssz6rv3kvqmsavufry0qayzxx5cldx22plrhlrntgkmh7qr37c50\n👉 Meetup: https://www.meetup.com/bitcoin-usergroup/\n\n🧡 Value 4 Value - Unterstütze das Meetup: https://geyser.fund/project/frankfurterbitcoinmeetup",
+      "link": "https://btcffm.org/de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1770,12 +1780,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3589,
-      "start": "2026-07-13T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3589",
+      "id": 3614,
+      "start": "2026-07-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3614",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "KI-Einsteiger-Vortrag, Wie Künstliche Intelligenz Zeit spart, Prozesse optimiert und einfach im Unternehmen eingesetzt werden kann. Praktische Beispiele und erste Schritte zur Implementierung.",
-      "link": "https://bitcoinmetropole.de",
+      "description": "Unser Cambodunum Meetup ist der perfekte Ort, um sich mit anderen Bitcoin-Interessierten auszutauschen, neue Kontakte zu knüpfen und gemeinsam über aktuelle Themen zu sprechen, egal ob Einsteiger oder Bitcoiner.\nDieses Mal erwartet euch zusätzlich ein besonderer Vortrag von Markus Turm\n\n🇦🇷 Milei & Argentinien\nWas können wir daraus lernen?\nZwischen Inflation, Reformen und Bitcoin, Welche Lehren lassen sich aus Argentiniens Entwicklung ziehen?\nReferent:Markus Turm",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
@@ -2036,7 +2046,7 @@
       "location": "wechselnde Locations",
       "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.\n",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2450,9 +2460,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "id": 3242,
-      "start": "2026-07-13T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3242",
+      "id": 3243,
+      "start": "2026-08-10T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3243",
       "location": "Mühle Altlandsberg",
       "description": "Wir sind der lokale Bitcoin Stammtisch für den Raum Ostbrandburg. Wir treffen uns jeden 2. Montag im Monat, im Gasthaus zur Mühle in Altlandsberg. Interesse mitbringen reicht.",
       "link": "https://t.me/einundzwanzig_bbost",
@@ -3896,7 +3906,7 @@
       "location": "Bar21",
       "description": "Sommer. Sats. Gespräche.\n\nDer Sommer-Stammtisch – entspannt, offen, ohne Programm. Bitcoin, Lightning, NOSTR und alles was euch bewegt. Einfach kommen, alle sind willkommen!\n\nKein Vorwissen notwendig – offen für alle.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/30-juli-st/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4619,7 +4629,17 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 3613,
+      "start": "2026-07-16T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3613",
+      "location": "Ábel Jenő u. 29.",
+      "description": "Cypherpunk meetup with technical discussion and demos from the developers of the freedom tech ecosystem!",
+      "link": "https://budabit.club",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4770,9 +4790,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3380,
-      "start": "2026-07-14T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3380",
+      "id": 3381,
+      "start": "2026-07-21T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3381",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
