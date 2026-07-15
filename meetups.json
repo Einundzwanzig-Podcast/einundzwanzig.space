@@ -1296,7 +1296,7 @@
       "location": "Erlangen Pizzeria Tio Rustica",
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 4,
+      "attendees": 5,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -1786,7 +1786,7 @@
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
       "description": "Unser Cambodunum Meetup ist der perfekte Ort, um sich mit anderen Bitcoin-Interessierten auszutauschen, neue Kontakte zu knüpfen und gemeinsam über aktuelle Themen zu sprechen, egal ob Einsteiger oder Bitcoiner.\nDieses Mal erwartet euch zusätzlich ein besonderer Vortrag von Markus Turm\n\n🇦🇷 Milei & Argentinien\nWas können wir daraus lernen?\nZwischen Inflation, Reformen und Bitcoin, Welche Lehren lassen sich aus Argentiniens Entwicklung ziehen?\nReferent:Markus Turm",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 1,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1804,7 +1804,17 @@
     "city": "Kiel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kiel",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3615,
+      "start": "2026-07-17T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kiel/event/3615",
+      "location": "Boegckestrasse 100, 24159 Kiel / Bato's Spezialitätenrestaurant",
+      "description": "Wir wollen unserem nordischen Meetup in Kiel mal wieder etwas frischen Wind einhauchen, hier in dieser Location haben wir wieder einen Raum für uns und können uns in etwas ruhiger Atmosphäre treffen. ",
+      "link": "https://batos-flughafen-restaurants.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2730,14 +2740,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2778,
-      "start": "2026-07-14T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2778",
-      "location": "Roth AEROPLIO-ZEPPELIN",
-      "description": "Wir treffen uns im Biergarten des Restaurant AEROPLIO-ZEPPELIN in Roth\nHilpoltsteiner Str. 41",
-      "link": "https://zeppelin-roth.de/",
-      "attendees": 4,
-      "might_attendees": 1,
+      "id": 2779,
+      "start": "2026-08-13T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2779",
+      "location": "Hilpoltstein",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -3386,11 +3396,11 @@
     "twitter": null,
     "event": {
       "id": 2319,
-      "start": "2026-07-18T16:00:00.000000Z",
+      "start": "2026-07-26T07:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/2319",
-      "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
+      "location": "Wir sind dieses mal mit auf den Sommerfest in Dingolfing",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
-      "link": null,
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
