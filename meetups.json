@@ -1000,12 +1000,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen",
     "twitter": "Einundzwanzig_N",
     "event": {
-      "id": 3543,
-      "start": "2026-07-16T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/3543",
-      "location": "SCHWARZER HERMANN (nähe Bremen-Hauptbahnhof)",
-      "description": "Wir treffen uns immer am 3. (dritten) Donnerstag im Monat ab 18:30 Uhr diesmal im Biergarten vom SCHWARZER HERMANN,nähe Bremen-Hauptbahnhof.",
-      "link": "https://startpage.mapquest.com/de/bremen/schwarzer-hermann-809945213",
+      "id": 3544,
+      "start": "2026-08-20T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/3544",
+      "location": "ÜBERSEE, Bahnhofspl. 13, 28195 Bremen",
+      "description": "Wir treffen uns immer am 3. (dritten) Donnerstag im Monat ab 18:30 Uhr im Restaurant \"Übersee\", Bremen-Hauptbahnhof.",
+      "link": "https://maps.app.goo.gl/U73mvrW28bP1izQW8",
       "attendees": 0,
       "might_attendees": 1,
       "nostr_note": ""
@@ -1801,7 +1801,7 @@
       "location": "Boegckestrasse 100, 24159 Kiel / Bato's Spezialitätenrestaurant",
       "description": "Wir wollen unserem nordischen Meetup in Kiel mal wieder etwas frischen Wind einhauchen, hier in dieser Location haben wir wieder einen Raum für uns und können uns in etwas ruhiger Atmosphäre treffen. ",
       "link": "https://batos-flughafen-restaurants.de/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1820,14 +1820,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz",
     "twitter": "EinundzwanzigKo",
     "event": {
-      "id": 3597,
-      "start": "2026-08-21T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/3597",
-      "location": "Abwechselde Location ",
-      "description": "In Telegram bekommst du die genaue Location",
-      "link": "https://t.me/Einundzwanzig_Ko",
-      "attendees": 0,
-      "might_attendees": 0,
+      "id": 3622,
+      "start": "2026-07-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/3622",
+      "location": "Hauptstraße 1 56424 Mogendorf",
+      "description": "Bitcoin",
+      "link": null,
+      "attendees": null,
+      "might_attendees": null,
       "nostr_note": ""
     },
     "style": {
@@ -2816,7 +2816,7 @@
       "location": "Kulturcafe",
       "description": "Stammtisch, Rückfragen auf Signal oder Telegram",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-saarbruecken",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3305,9 +3305,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland",
     "twitter": null,
     "event": {
-      "id": 3443,
-      "start": "2026-07-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland/event/3443",
+      "id": 3444,
+      "start": "2026-08-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland/event/3444",
       "location": "Adresse Roseweiss, Zur Synagoge 2 48691 Vreden",
       "description": null,
       "link": null,
@@ -3906,7 +3906,7 @@
       "location": "Bar21",
       "description": "Sommer. Sats. Gespräche.\n\nDer Sommer-Stammtisch – entspannt, offen, ohne Programm. Bitcoin, Lightning, NOSTR und alles was euch bewegt. Einfach kommen, alle sind willkommen!\n\nKein Vorwissen notwendig – offen für alle.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/30-juli-st/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4629,17 +4629,7 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": {
-      "id": 3613,
-      "start": "2026-07-16T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/3613",
-      "location": "Ábel Jenő u. 29.",
-      "description": "Cypherpunk meetup with technical discussion and demos from the developers of the freedom tech ecosystem!",
-      "link": "https://budabit.club",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
