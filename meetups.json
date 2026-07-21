@@ -399,7 +399,17 @@
     "city": "Schwerin",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig",
     "twitter": "EinundzwanzigSN",
-    "event": null,
+    "event": {
+      "id": 3625,
+      "start": "2026-08-19T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3625",
+      "location": "In der Unity-Bar, Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
+      "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
+      "link": "https://21schwerin.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1109,7 +1119,17 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3624,
+      "start": "2026-08-04T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3624",
+      "location": "Restaurant Fohlenhof, Kranichsteiner Str. 90, 64289 Darmstadt",
+      "description": "Unser ₿itcoin Meetup findet im Fohlenhof ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
+      "link": "https://maps.app.goo.gl/7GjdXduKprtTxnJP6",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1891,7 +1911,7 @@
       "location": "Landau",
       "description": "Monatliches Meetup, Details in den Gruppen",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2565,9 +2585,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": "EinundzwanzigRE",
     "event": {
-      "id": 3410,
-      "start": "2026-07-20T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3410",
+      "id": 3411,
+      "start": "2026-08-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3411",
       "location": "Restaurant Nonna di Mia (Markt 3, 45657 Recklinghausen)",
       "description": "Regelmäßig (jeden dritten Montag im Monat) stattfindendes Treffen von Menschen, die an Bitcoin interessiert sind. Netzwerkbildung, Austausch von Informationen und Meinungen⚡️",
       "link": "https://nonnadimia.de/standorte/recklinghausen",
@@ -3400,6 +3420,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/flensburg",
     "twitter": null,
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Hamburger Bitcoin Stammtisch",
+    "latLng": [
+      53.551086,
+      9.993682
+    ],
+    "url": "https://t.me/hamburgerbitcoinstammtisch",
+    "city": "Hamburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch",
+    "twitter": null,
+    "event": {
+      "id": 3627,
+      "start": "2026-08-05T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3627",
+      "location": "Absinthbar, Schanzenstraße 99, Hamburg.",
+      "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
+      "link": "https://absinth-bar.com/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4770,9 +4815,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3381,
-      "start": "2026-07-21T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3381",
+      "id": 3382,
+      "start": "2026-07-28T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3382",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
