@@ -1166,7 +1166,7 @@
       "location": "Reisbach 94419 beim Geierbräu",
       "description": "Wir laden herzlich ein zum Einundzwanzig Sommerfest im Herzen Niederbayerns beim Geierbräu im Biergarten. Für Verpflegung ist bestens gesorgt: Weißwurstfrühstück und leckere Schmankerl vom Grill sind geplant. Weitere Infos folgen.",
       "link": "https://t.me/einundzwanzig_dgf",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1850,7 +1850,7 @@
       47.659216,
       9.1750718
     ],
-    "url": "https://t.me/Einundzwanzig_Konstanz",
+    "url": "https://t.me/+tc2hDM_NSds2MDEy",
     "city": "Konstanz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz",
     "twitter": "einundzwanzigKN",
@@ -3401,7 +3401,7 @@
       "location": "Wir sind dieses mal mit auf den Sommerfest in Dingolfing",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": "1b7118681df6b4e4345b2cedeb10ddddadcc249ebbaac76f4539e2bb2bd9884e"
     },
@@ -4061,7 +4061,7 @@
       "location": "Dieses mal sind wir auf dem Sommerfest in Dingolfing",
       "description": "59. Meetup der Passauer und Schärdinger Plebs - Wir wechseln immer zwischen den Gaststätten und treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4562,6 +4562,31 @@
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Prag",
+    "latLng": [
+      50.087811,
+      14.42046
+    ],
+    "url": "",
+    "city": "Prag",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag",
+    "twitter": null,
+    "event": {
+      "id": 3634,
+      "start": "2026-07-27T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3634",
+      "location": "Bar No.7",
+      "description": "Deutschsprachiges Bitcoin-only Meetup in Prag. Schaut in den Chat für mehr Infos. LFG!",
+      "link": "https://signal.group/#CjQKINp9aNXAz_jJ3m9W5Dipu-EzL0V6vptZ1eBoFxHtGaP_EhDpkaPrhjTvDWkM83od6nK7",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
