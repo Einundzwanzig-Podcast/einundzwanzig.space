@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 20:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:31:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-26.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-25.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,21 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Lesestunde #09 - Das Letzte Wort zu Bitcoin's Energieverbrauch - Nic Carter]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-09-das-letzte-wort-zu-bitcoins-energieverbrauch-nic-carter]]></description>
+      <link>https://einundzwanzig.space/podcast/lesestunde-09-das-letzte-wort-zu-bitcoins-energieverbrauch-nic-carter</link>
+      <guid isPermaLink="false">5372b39f-550f-4e3a-bfdb-d88cac6dc6b5</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sat, 15 May 2021 10:34:48 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/33506913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F9e5438a2-84d6-08de-f85b-dfdf1f93f0f8.mp3" length="30535508" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:24:03</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1621023680574-baca92b9a0e5b.jpg"></itunes:image>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <podcast:episode display="Lesestunde #09">09</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Interview #41 - Regulatorisch konformes Mining und Miningpool Observer mit Timo (0xB10C)]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-41-regulatorisch-konformes-mining-und-miningpool-observer-mit-timo-0xb10c]]></description>
@@ -373,27 +388,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#76 - Marsianer Aufstand]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-76-marsianer-aufstand]]></description>
-      <link>https://einundzwanzig.space/podcast/news-76-marsianer-aufstand</link>
-      <guid isPermaLink="false">2b38662a-09c6-43fc-97ef-bd5e0d77f237</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 25 Mar 2021 00:17:22 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/29882486/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-24%2F8435a963-a71f-2425-6657-f8b5b3c3e0d0.mp3" length="109587438" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:55:12</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #76">76</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/jeff-f189411efe1eb3b2c1485c1640083aaa.jpg" href="https://fulmo.org/">Jeff</podcast:person>
     </item>
   </channel>
 </rss>

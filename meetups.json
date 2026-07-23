@@ -230,9 +230,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
     "twitter": null,
     "event": {
-      "id": 3362,
-      "start": "2026-07-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3362",
+      "id": 3363,
+      "start": "2026-08-27T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3363",
       "location": "Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden",
       "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website verfügbar.\nDort gibt es auch einen Kalender-Feed zum abonnieren.",
       "link": "https://bitcoin-dresden.de/",
@@ -1166,8 +1166,8 @@
       "location": "Reisbach 94419 beim Geierbräu",
       "description": "Wir laden herzlich ein zum Einundzwanzig Sommerfest im Herzen Niederbayerns beim Geierbräu im Biergarten. Für Verpflegung ist bestens gesorgt: Weißwurstfrühstück und leckere Schmankerl vom Grill sind geplant. Weitere Infos folgen.",
       "link": "https://t.me/einundzwanzig_dgf",
-      "attendees": 1,
-      "might_attendees": 0,
+      "attendees": null,
+      "might_attendees": null,
       "nostr_note": ""
     },
     "style": {
@@ -1324,17 +1324,7 @@
     "city": "Frankfurt am Main",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main",
     "twitter": "BTCFFM",
-    "event": {
-      "id": 3612,
-      "start": "2026-07-23T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-frankfurt-am-main/event/3612",
-      "location": "Massif Central im Bethmannhof, Bethmannstraße 7-9",
-      "description": "Das nächste Meetup wieder im Gebäude der ältesten Privatbank Deutschland. Diesmal „Peace Love & BBQ\" im Innenhof von “Massif Central” – es gibt gegrilltes -Fleisch, Fisch, Vegetarisch und dazu wechselnde Salate – inkl. Austausch und Diskussionen um Bitcoin wie auch um das Bitcoin Meetup selbst.\n\nKoordinaten: 50.110097 8.679097\nDonnerstag: 16.07.2026 bereits ab 18:00 Uhr\n\nMassif Central\nim Bethmannhof, Bethmannstraße 7-9\n60311 FFM\n\n👉 btcffm.org\n👉 X: https://x.com/BTCFFM\n👉 Nostr: #npub1m3msk8ssz6rv3kvqmsavufry0qayzxx5cldx22plrhlrntgkmh7qr37c50\n👉 Meetup: https://www.meetup.com/bitcoin-usergroup/\n\n🧡 Value 4 Value - Unterstütze das Meetup: https://geyser.fund/project/frankfurterbitcoinmeetup",
-      "link": "https://btcffm.org/de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }

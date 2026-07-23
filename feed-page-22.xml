@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 20:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:31:57 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-22.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-21.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,22 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #67 - Digitaler Euro mit Gunther Schnabl]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-67-digitaler-euro-mit-gunther-schnabl]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-67-digitaler-euro-mit-gunther-schnabl</link>
+      <guid isPermaLink="false">e9f109b7-ed53-4901-a138-845c613dbc5b</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 10 Dec 2021 05:00:00 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/44569157/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-8%2Fdd7eae83-7e1c-0dd4-069c-d993f1979665.mp3" length="46171807" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:47:35</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1638999588465-045a404ee9c96.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #67">67</podcast:episode>
+      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#111 - NVTs]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-111-nvts]]></description>
@@ -451,26 +467,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Der Weg #26 - Bitcoin ist ein Lehrmeister]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-26-bitcoin-ist-ein-lehrmeister]]></description>
-      <link>https://einundzwanzig.space/podcast/der-weg-26-bitcoin-ist-ein-lehrmeister</link>
-      <guid isPermaLink="false">b630f610-9157-434d-9500-6e485d2a7e6f</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Sat, 16 Oct 2021 13:13:49 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/41875638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-16%2F84071706-78e6-be98-31d0-53c7527bf2e1.mp3" length="54270075" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:01:01</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1634390021240-e53aba9d1c9ec.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Der Weg #26">26</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Daniel" address="0201d14101401add234ebe3bc0e3020a39726daadf82bc3fa6b9871c4f5b17ab3f" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
     </item>
   </channel>
 </rss>
