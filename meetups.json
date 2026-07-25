@@ -1300,13 +1300,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "id": 2818,
-      "start": "2026-07-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2818",
-      "location": "Erlangen Pizzeria Tio Rustica",
-      "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
-      "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 7,
+      "id": 2821,
+      "start": "2026-08-22T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2821",
+      "location": "Fürth, Zu den sieben Schwaben",
+      "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
+      "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
+      "attendees": 0,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -1780,14 +1780,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3614,
-      "start": "2026-07-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3614",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Unser Cambodunum Meetup ist der perfekte Ort, um sich mit anderen Bitcoin-Interessierten auszutauschen, neue Kontakte zu knüpfen und gemeinsam über aktuelle Themen zu sprechen, egal ob Einsteiger oder Bitcoiner.\nDieses Mal erwartet euch zusätzlich ein besonderer Vortrag von Markus Turm\n\n🇦🇷 Milei & Argentinien\nWas können wir daraus lernen?\nZwischen Inflation, Reformen und Bitcoin, Welche Lehren lassen sich aus Argentiniens Entwicklung ziehen?\nReferent:Markus Turm",
+      "id": 3590,
+      "start": "2026-07-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3590",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kempten ",
+      "description": "KI-Einsteiger-Vortrag: Wie Künstliche Intelligenz Zeit spart, Prozesse optimiert und einfach im Unternehmen eingesetzt werden kann. Praktische Beispiele und erste Schritte zur Implementierung.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 5,
-      "might_attendees": 0,
+      "attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -1964,7 +1964,17 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3647,
+      "start": "2026-07-27T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain/event/3647",
+      "location": "Allgäuer Hof Weilheim",
+      "description": "Herzlich Willkommen zum 15. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
+      "link": "https://www.xn--allguerhof-weilheim-jwb.de/",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3624,17 +3634,7 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": {
-      "id": 3431,
-      "start": "2026-07-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/3431",
-      "location": "Blauer Adler",
-      "description": "Wie immer. Nette Leute gute Gespräche :)",
-      "link": "https://maps.app.goo.gl/cv423pQfjEce7J918",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
