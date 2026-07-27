@@ -1483,10 +1483,10 @@
       "id": 3076,
       "start": "2026-07-30T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3076",
-      "location": "Sternschanze, Absinth-Bar",
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
-      "link": "https://absinth-bar.com/",
-      "attendees": 0,
+      "location": "Sternschanze",
+      "description": "... vermutlich nicht in der Absinth Bar. Als Alternative: \nAltes Mädchen\nLagerstraße 28b\n20357 Hamburg",
+      "link": "https://altes-maedchen.com/de/",
+      "attendees": 2,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -1766,8 +1766,8 @@
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kempten ",
       "description": "KI-Einsteiger-Vortrag: Wie Künstliche Intelligenz Zeit spart, Prozesse optimiert und einfach im Unternehmen eingesetzt werden kann. Praktische Beispiele und erste Schritte zur Implementierung.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 0,
-      "might_attendees": 1,
+      "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -3595,6 +3595,21 @@
     }
   },
   {
+    "name": "Traunreut",
+    "latLng": [
+      47.9617,
+      12.5987
+    ],
+    "url": "https://t.me/+idwsSz6DR35hMTYy",
+    "city": "Traunreut",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/traunreut",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Würzburg ",
     "latLng": [
       49.791306,
@@ -5125,6 +5140,31 @@
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/charleston-bitcoin-meetup",
     "twitter": "bitcoin_CHS",
     "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Indy Bitcoin Meetup",
+    "latLng": [
+      39.7684,
+      -86.1581
+    ],
+    "url": "https://indybitcoinmeetup.com/",
+    "city": "Indianapolis",
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup",
+    "twitter": "IndyBitcoin",
+    "event": {
+      "id": 3648,
+      "start": "2026-08-15T22:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup/event/3648",
+      "location": "Refinery 46, 2201 E 46th St, Indianapolis, IN 46205",
+      "description": "Experience the historic, meat-forward tradition of the American beefsteak dinner, brought to life with modern culinary precision. Join us at Refinery 46 in Indianapolis on August 15th from 6pm to 9pm for an uncompromising evening of prime Indiana grass-fed beef, artisanal bread, and American beer. This is more than a meal; it’s an immersive, experience featuring four of your favorite cuts of beef, paired with condiments to enhance the flavor if you so please.",
+      "link": "https://pay.zaprite.com/order/odp_IOZwinnsxn?pl=pl_WjZUb24nT1",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
