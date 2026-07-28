@@ -1486,8 +1486,8 @@
       "location": "Sternschanze",
       "description": "... vermutlich nicht in der Absinth Bar. Als Alternative: \nAltes Mädchen\nLagerstraße 28b\n20357 Hamburg",
       "link": "https://altes-maedchen.com/de/",
-      "attendees": 2,
-      "might_attendees": 1,
+      "attendees": 3,
+      "might_attendees": 2,
       "nostr_note": ""
     },
     "style": {
@@ -1826,9 +1826,9 @@
     "twitter": "einundzwanzigKN",
     "event": {
       "id": 3437,
-      "start": "2026-07-31T17:00:00.000000Z",
+      "start": "2026-08-01T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz/event/3437",
-      "location": "Wird in Telegram bekannt gegeben",
+      "location": "Weinwiese Radolfzell - Treffpunkt an der Mole",
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei!\nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
       "attendees": 0,
@@ -1944,17 +1944,7 @@
     "city": "Lechrain",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain",
     "twitter": null,
-    "event": {
-      "id": 3647,
-      "start": "2026-07-27T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-lechrain/event/3647",
-      "location": "Allgäuer Hof Weilheim",
-      "description": "Herzlich Willkommen zum 15. Bitcoin-Stammtisch im Lechrain. Ob alter Hase, technikbegeistert, skeptisch oder einfach nur neugierig – bei uns ist jede*r willkommen. Wir treffen uns in lockerer Runde, um uns über Bitcoin, digitale Freiheit, aktuelle Entwicklungen und natürlich auch ganz Alltägliches auszutauschen.\n\nDu musst kein Experte sein – Interesse reicht völlig! Komm gern auf uns zu, stell Fragen oder hör einfach erstmal zu.\n\nSchön, dass du da bist – wir freuen uns auf den Austausch mit dir! 🧡",
-      "link": "https://www.xn--allguerhof-weilheim-jwb.de/",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2169,7 +2159,17 @@
     "city": "Mühldorf am Inn",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3654,
+      "start": "2026-08-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/3654",
+      "location": "Hammerwirt Hammer 2, 84453 Mühldorf",
+      "description": "Monatliches Meetup für Jung und Alt, Neuling wie alte Bitcoiner 🧡",
+      "link": "https://www.hammerwirt.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2724,8 +2724,8 @@
       "start": "2026-08-13T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2779",
       "location": "Hilpoltstein",
-      "description": "Genaueres wird noch bekannt gegeben.",
-      "link": "https://gesundes-geld.net/",
+      "description": "Wir treffen uns in Hilpoltstein in der Fuchsmühle. Ein neues Restaurant mit Biergarten und leckeren Essen.",
+      "link": "https://www.diefuchsmuehle.de/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -3310,13 +3310,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 2728,
-      "start": "2026-07-27T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2728",
+      "id": 2729,
+      "start": "2026-08-24T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2729",
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3550,9 +3550,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg",
     "twitter": "Rabbit_BTC_Club",
     "event": {
-      "id": 2249,
-      "start": "2026-07-27T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2249",
+      "id": 2250,
+      "start": "2026-08-31T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2250",
       "location": "Magdeburg",
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
@@ -4550,9 +4550,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag",
     "twitter": null,
     "event": {
-      "id": 3634,
-      "start": "2026-07-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3634",
+      "id": 3641,
+      "start": "2026-08-10T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3641",
       "location": "Bar No.7",
       "description": "Deutschsprachiges Bitcoin-only Meetup in Prag. Schaut in den Chat für mehr Infos. LFG!",
       "link": "https://signal.group/#CjQKINp9aNXAz_jJ3m9W5Dipu-EzL0V6vptZ1eBoFxHtGaP_EhDpkaPrhjTvDWkM83od6nK7",
@@ -4815,9 +4815,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3382,
-      "start": "2026-07-28T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3382",
+      "id": 3383,
+      "start": "2026-08-04T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3383",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
