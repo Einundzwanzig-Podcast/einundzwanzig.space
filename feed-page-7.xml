@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 01:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:23:07 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-7.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-6.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,29 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[FilterFrei 04 - Teil 1 - Value Pioniere]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/filterfrei-04-teil-1-value-pioniere]]></description>
+      <link>https://einundzwanzig.space/podcast/filterfrei-04-teil-1-value-pioniere</link>
+      <guid isPermaLink="false">60a81301-c6b7-42e5-8578-94d0dec38291</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 15 Dec 2024 09:59:15 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/95847366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-15%2F8a70836f-f84b-03c0-95aa-55992ce0582b.mp3" length="139085345" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:57:57</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1734256429732-86aff29f8f292.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="FilterFrei #04">04</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Kid" address="025f4a49593dbd8b455c220bdbd8d5fc770f75264b9b2abf6d7dc91f2669efd3ae" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Too Bit to Fail" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="rVstXVOghc9Jb1a1QoFz" type="node" split="33"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/kid-899582a195e5eab9dbd30a139630ce81.jpg" href="https://njump.me/npub1v4kfwysl44e8wrhp62ma8yek3kskn4r2jmxvx5js7wqpq7dc54ls5ejwyx">Kid</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/toobittofail-8cc92ad83082175736d60056a47be4c9.jpg" href="https://njump.me/npub1pzcj8yfs3kx2thtjpz3agr2w54m52kv9a2933smqyt6n6k2ql3aq2d0wlx">Too Bit to Fail</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Der Weg #98 - Bitcoin ist Gemeinwohl ]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-98-bitcoin-ist-gemeinwohl]]></description>
@@ -421,24 +444,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/d0enakalle-28bdf8d90b0165517c807e285004231b.png" href="https://njump.me/npub1d0enakaludyvruzdndcgl4glkcqyfpvp9tdtf8cawzkskekhcu2sq9xlas">D0enakalle</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#255 - Bitcoin Mausi]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-255-bitcoin-mausi]]></description>
-      <link>https://einundzwanzig.space/podcast/news-255-bitcoin-mausi</link>
-      <guid isPermaLink="false">4340d3d0-28df-415d-a524-e6980982dec6</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 26 Sep 2024 08:34:43 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92219139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-26%2F8447fe44-f070-8705-3e79-7f814d94bb11.mp3" length="72772252" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:15:47</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #255">255</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
     </item>
   </channel>
 </rss>
