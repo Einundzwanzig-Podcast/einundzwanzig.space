@@ -1149,7 +1149,17 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "id": 3661,
+      "start": "2026-08-05T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/3661",
+      "location": "Reisbach 94419 beim Geierbräu",
+      "description": "Meetup",
+      "link": "https://t.me/einundzwanzig_dgf",
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1520,9 +1530,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "id": 2925,
-      "start": "2026-07-29T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2925",
+      "id": 2926,
+      "start": "2026-08-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2926",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "description": "Öffentliches Treffen mit Vorträgen zu ₿itcoin und verwandten Themen. Immer am \"₿ittwoch\" zum Ende jeden Monats. Schaue gerne in die Telegram Gruppe oder komme spontan vorbei. Die Treffen dauern oftmals bis spät in die Nacht. \nJeder ist Willkommen. Alle Fragen dürfen gestellt werden. https://t.me/+RSXEIZ_xoq1lNDM6",
       "link": "https://t.me/+RSXEIZ_xoq1lNDM6",
@@ -1760,14 +1770,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3655,
-      "start": "2026-07-29T18:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3655",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Morgen Abend Nostr vortrag! \n\nKurzfristig ist der Ralph da und wir machen Nostr für Anfânger, Tipps und Tricks \n\n20:30 Uhr",
+      "id": 3590,
+      "start": "2026-07-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3590",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 - Kempten ",
+      "description": "KI-Einsteiger-Vortrag: Wie Künstliche Intelligenz Zeit spart, Prozesse optimiert und einfach im Unternehmen eingesetzt werden kann. Praktische Beispiele und erste Schritte zur Implementierung.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 0,
-      "might_attendees": 1,
+      "attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -1874,17 +1884,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "id": 3552,
-      "start": "2026-07-29T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3552",
-      "location": "Landau",
-      "description": "Monatliches Meetup, Details in den Gruppen",
-      "link": null,
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2166,7 +2166,7 @@
       "location": "Hammerwirt Hammer 2, 84453 Mühldorf",
       "description": "Monatliches Meetup für Jung und Alt, Neuling wie alte Bitcoiner 🧡",
       "link": "https://www.hammerwirt.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2309,7 +2309,17 @@
     "city": "Ostwestfalen-Lippe",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl",
     "twitter": "einundzwanzigOW",
-    "event": null,
+    "event": {
+      "id": 3656,
+      "start": "2026-08-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl/event/3656",
+      "location": "Bielefeld, Entrada",
+      "description": "Austausch und Get-together zu Bitcoin und freiheitlichen Themen.\nHäufig finden Vorträge statt, die den Abend thematisch prägen können.",
+      "link": "https://www.entrada-bielefeld.de/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
