@@ -480,9 +480,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "id": 3565,
-      "start": "2026-08-01T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3565",
+      "id": 3566,
+      "start": "2026-08-15T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3566",
       "location": "Clarenbachstr 2, 50931 Lindenthal",
       "description": "Der Bitcoin Walk Köln ist ein kostenloser, 14-tägiger Samstagsspaziergang in Köln-Lindenthal. Meist treffen sich etwa 5 bis 15 Bitcoin-Interessierte am Clarenbach-Kanal, um sich in entspannter Atmosphäre zu bewegen, kennenzulernen und über Bitcoin auszutauschen. Einsteiger sind ausdrücklich willkommen.\nbitcoinwalk.org",
       "link": "https://t.me/+wh9ljtBWdyAwYjhi",
@@ -1374,7 +1374,17 @@
     "city": "Fulda",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
-    "event": null,
+    "event": {
+      "id": 3662,
+      "start": "2026-09-02T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3662",
+      "location": "Lindenhof Keulos",
+      "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier! Jeder ist willkommen 🍻",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
