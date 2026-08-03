@@ -149,17 +149,7 @@
     "city": "Bielefeld",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner",
     "twitter": null,
-    "event": {
-      "id": 2429,
-      "start": "2026-08-02T14:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bielefelder-bitcoiner/event/2429",
-      "location": "spontan (siehe Telegram Gruppe)",
-      "description": "Regelmäßiges Treffen",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": "02cc9325fa9a17fefdbd3788cc78669b51f2d9a363e2a6210cf187a50bd96411"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1116,7 +1106,7 @@
       "location": "Restaurant Fohlenhof, Kranichsteiner Str. 90, 64289 Darmstadt",
       "description": "Unser ₿itcoin Meetup findet im Fohlenhof ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
       "link": "https://maps.app.goo.gl/7GjdXduKprtTxnJP6",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1672,14 +1662,24 @@
   {
     "name": "Einundzwanzig Hochtaunuskreis",
     "latLng": [
-      50.2853755,
-      8.5036801
+      50.350795852317,
+      8.523168
     ],
     "url": "https://t.me/bitcoin_hochtaunuskreis",
     "city": "Hochtaunuskreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3663,
+      "start": "2026-08-11T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis/event/3663",
+      "location": "Bembel & Gretel, Marktpl. 7, 61250 Usingen",
+      "description": "Unser regelmäßiger Bitcoin-Stammtisch trifft sich an jedem zweiten Dienstag im Monat um 18:30 Uhr im Restaurant Bembel & Gretel in Usingen (Bembel & Gretel, Marktpl. 7, 61250 Usingen). \n\nHier sind alle herzlich eingeladen – vom neugierigen Einsteiger bis zum erfahrenen Profi – um sich ganz zwanglos mit Gleichgesinnten auszutauschen. \n\nKomm einfach vorbei, ohne Anmeldung oder Formalitäten, und genießt einen entspannten Abend rund um das Thema Bitcoin! Kostenlos und unverbindlich, aber herzlich und persönlich.",
+      "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
