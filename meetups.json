@@ -96,10 +96,10 @@
     "twitter": "21Aschaffenburg",
     "event": {
       "id": 2984,
-      "start": "2026-08-21T16:30:00.000000Z",
+      "start": "2026-08-12T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2984",
-      "location": "Mainaschaff ",
-      "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
+      "location": "Mainaschaff",
+      "description": "Location wird auf Telegram oder hier kommuniziert.",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
       "attendees": 0,
       "might_attendees": 0,
@@ -1281,12 +1281,12 @@
     "twitter": "einundzwanzigFR",
     "event": {
       "id": 2821,
-      "start": "2026-08-22T17:00:00.000000Z",
+      "start": "2026-08-07T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2821",
       "location": "Fürth, Zu den sieben Schwaben",
       "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
       "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
-      "attendees": 0,
+      "attendees": 3,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -1371,7 +1371,7 @@
       "location": "Lindenhof Keulos",
       "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier! Jeder ist willkommen 🍻",
       "link": "https://keulos.beepworld.de/",
-      "attendees": 0,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3296,7 +3296,7 @@
       "location": "Musikbistro Friedberg",
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3314,7 +3314,17 @@
     "city": "Wiesbaden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3716,
+      "start": "2026-08-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wiesbaden/event/3716",
+      "location": "Weingut Ernst Rußler Stand 106 Weinfest Wiesbaden",
+      "description": "WeinundzWanzig\n\nDas vierte \"Weinundzwanzig\" steht bevor. Jeder ist herzlichst Wilkommen!! Es sind drei Tische beim Weingut Rußler reserviert für uns. Wer ab 18 Uhr Richtung Weinfest gemeinsam mitlaufen möchte, kann gern zu mir an die Firma kommen und davor parken. Die Adresse lautet „Lessingstr. in 65185 Wiesbaden“. Als Anhaltspunkt dient das Dorint Hotel fürs Navi. Ansonsten treffen wir uns dann an besagtem Weinstand.",
+      "link": "https://weinundzwanzig.onepage.me/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3392,7 +3402,7 @@
       "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
       "link": "https://absinth-bar.com/",
       "attendees": 0,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_note": ""
     },
     "style": {
@@ -4545,6 +4555,21 @@
     }
   },
   {
+    "name": "Jednadvacet Brno",
+    "latLng": [
+      49.195278,
+      16.608333
+    ],
+    "url": "https://bitcoinbrno.cz",
+    "city": "Brno",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-brno",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Mallorca (MBD)",
     "latLng": [
       39.56945,
@@ -4795,9 +4820,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3383,
-      "start": "2026-08-04T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3383",
+      "id": 3384,
+      "start": "2026-08-11T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3384",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
