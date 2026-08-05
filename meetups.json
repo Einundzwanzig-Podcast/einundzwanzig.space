@@ -418,8 +418,8 @@
       "id": 3554,
       "start": "2026-08-05T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3554",
-      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Mittwoch, 05. August 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~961.186\n\n​Ort diesmal: Wirtshaus am Bavariapark (Self-Service Biergartenbereich oder Halle), Theresienhöhe 15, 80339 München",
       "link": "https://luma.com/lqr5qhcq",
       "attendees": 0,
       "might_attendees": 0,
@@ -1099,17 +1099,7 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": {
-      "id": 3624,
-      "start": "2026-08-04T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/3624",
-      "location": "Restaurant Fohlenhof, Kranichsteiner Str. 90, 64289 Darmstadt",
-      "description": "Unser ₿itcoin Meetup findet im Fohlenhof ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda\n",
-      "link": "https://maps.app.goo.gl/7GjdXduKprtTxnJP6",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1286,7 +1276,7 @@
       "location": "Fürth, Zu den sieben Schwaben",
       "description": "Zu den sieben Schwaben\nOtto-Seeling-Promenade 20, 90762 Fürth",
       "link": "https://share.google/YMuXiGm3TGwjxMFnQ",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 1,
       "nostr_note": ""
     },
@@ -1769,7 +1759,17 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3717,
+      "start": "2026-08-05T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3717",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
+      "description": "DIY-Seed-Workshop, ganz spontan morgen!\n\nDurch die aktuellen Ereignisse rund um Hardware-Wallets und den Coldcard Firmware Bug ist das Thema gerade wichtiger denn je.\n\nWenn du verstehen möchtest, wie du deine Bitcoin-Seeds komplett selbst und mit echter physischer Entropie erstellen kannst, dann komm vorbei.\n\nKeine Vorkenntnisse nötig.",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2728,8 +2728,8 @@
       "id": 2791,
       "start": "2026-08-21T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2791",
-      "location": "wird noch bekannt gegeben",
-      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt wird hier und in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
+      "location": "wird in Telegram Gruppe bekannt gegeben",
+      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
       "attendees": 0,
       "might_attendees": 0,
@@ -3736,7 +3736,7 @@
       "location": "Bitcoin.Wien; Getreidemarkt 18/4, 1010 Wien",
       "description": "Du möchtest dich endlich auf die Reise begeben, deine erste Wallet erstellen, erste Sats kaufen, einen Sparplan erstellen und erfahren worum es denn wirklich hinter dem „digitalen Gold“ geht? Dann bist du hier genau richtig!\n\nIn diesem Präsenz Kurs in Wien werden wir Themen besprechen wie u.a. unsere Geldgeschichte, heutige Problematik des Geldes, Eigenverantwortung und warum Bitcoin für so vieles die Lösung sein könnte. \n\nEinfach, praxisnah und verständlich möchten ich und andere erfahrene Bitcoiner dir helfen, den ersten Schritt zu wagen, um sicher und gut informiert, deine Reise zu starten.\n\nDie Details zum Kurs sowie den Ort erhältst du nach erfolgter Registrierung.\n\n\nmit freundlicher Unterstützung von LFO – Les Femmes Orange und Bitcoin Austria",
       "link": "https://bitucation.com/kurs/vor-ort-bitcoin-basics-in-wien-8-august-2026/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
