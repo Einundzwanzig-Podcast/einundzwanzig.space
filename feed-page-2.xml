@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 20:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:52:53 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-2.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg 2.05 - Bitcoin ist Qualität]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-205-bitcoin-ist-qualitaet]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-205-bitcoin-ist-qualitaet</link>
+      <guid isPermaLink="false">48f5cb2d-1b0a-4762-ab4a-518383220719</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Fri, 24 Apr 2026 20:21:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/119009600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2F519a9481-6644-2843-4aad-7796bcb244da.mp3" length="94684128" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:04:29</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1777061721023-9ed3561bc3343.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Der Weg #2.05">2.05</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Marcelinho" address="03169e6367b648f13b4f3aaa786913dfc8f054fc445c78276286e3fe6509939fde" customKey="696969" customValue="3" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/marcelinho-e3ef9a12545026a6863ff94408392160.jpg" href="https://njump.me/npub16cpe069rjz6pm5t42xcyhcn66f5rr04k64df3g03fk2wctlrlhsqycedcd">Marcelinho</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#321 - Es kommt dir schon entgegen, Cheers]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-321-es-kommt-dir-schon-entgegen-cheers]]></description>
@@ -425,27 +445,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[GrapheneOS - Folge 1 - Vorstellung]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-grapheneos-folge-1-vorstellung]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-grapheneos-folge-1-vorstellung</link>
-      <guid isPermaLink="false">bfbe0d58-73c7-4cc7-ab72-14a7c0522e74</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 21 Jan 2026 20:11:55 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/114356396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-21%2F3ff6a9e4-39f6-2c77-9807-2801b55b3bf9.mp3" length="125362463" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:22:03</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1777487376788-711575f84c67.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Jack" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="20" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Johnny" address="0200ca251a93e635d9390d833265b3bf96609f6170ba3561a65a261797b924bb8c" customKey="696969" customValue="8" type="node" split="33"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person href="https://njump.me/npub1p5adune53lxp9tee9ksjfy2q03d39snq98rafr978ztwwhe94l7smyt7vk">Jack</podcast:person>
-      <podcast:person href="https://njump.me/npub1qwk7lv5ze5pzps85yn7a96h2rv6nwcude0ydry5lzayuxqmldvtqel8uzv">Johnny</podcast:person>
     </item>
   </channel>
 </rss>
