@@ -415,12 +415,12 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 3554,
-      "start": "2026-08-05T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3554",
-      "location": "₿🍻 Bitcoin Munich Stammtisch — Wirtshaus am Bavariapark",
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Mittwoch, 05. August 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~961.186\n\n​Ort diesmal: Wirtshaus am Bavariapark (Self-Service Biergartenbereich oder Halle), Theresienhöhe 15, 80339 München",
-      "link": "https://luma.com/lqr5qhcq",
+      "id": 3722,
+      "start": "2026-09-02T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3722",
+      "location": "₿🍻 Bitcoin Munich Stammtisch (Wechselnde/Alternating Locations)",
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://luma.com/57xneg75",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
@@ -1129,17 +1129,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "id": 3661,
-      "start": "2026-08-05T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/3661",
-      "location": "Reisbach 94419 beim Geierbräu",
-      "description": "Meetup",
-      "link": "https://t.me/einundzwanzig_dgf",
-      "attendees": null,
-      "might_attendees": null,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1666,7 +1656,7 @@
       "location": "Bembel & Gretel, Marktpl. 7, 61250 Usingen",
       "description": "Unser regelmäßiger Bitcoin-Stammtisch trifft sich an jedem zweiten Dienstag im Monat um 18:30 Uhr im Restaurant Bembel & Gretel in Usingen (Bembel & Gretel, Marktpl. 7, 61250 Usingen). \n\nHier sind alle herzlich eingeladen – vom neugierigen Einsteiger bis zum erfahrenen Profi – um sich ganz zwanglos mit Gleichgesinnten auszutauschen. \n\nKomm einfach vorbei, ohne Anmeldung oder Formalitäten, und genießt einen entspannten Abend rund um das Thema Bitcoin! Kostenlos und unverbindlich, aber herzlich und persönlich.",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1760,11 +1750,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3717,
-      "start": "2026-08-05T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3717",
+      "id": 3718,
+      "start": "2026-08-12T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3718",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "DIY-Seed-Workshop, ganz spontan morgen!\n\nDurch die aktuellen Ereignisse rund um Hardware-Wallets und den Coldcard Firmware Bug ist das Thema gerade wichtiger denn je.\n\nWenn du verstehen möchtest, wie du deine Bitcoin-Seeds komplett selbst und mit echter physischer Entropie erstellen kannst, dann komm vorbei.\n\nKeine Vorkenntnisse nötig.",
+      "description": "Markus Turm hält einen allgemeinen Vortrag über Multisig. Der Abend ist mit dem monatlichen Einundzwanzig Cambodunum Meetup kombiniert. Meldet euch an oder kommt einfach vorbei,  Fragen rund um Bitcoin sind willkommen, und wir helfen gerne ",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 1,
       "might_attendees": 0,
@@ -1856,7 +1846,7 @@
       "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
       "description": "Weitere Infos in der Telegram-Gruppe.",
       "link": "https://t.me/einundzwanzig_koeln",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3395,14 +3385,14 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch",
     "twitter": null,
     "event": {
-      "id": 3627,
-      "start": "2026-08-05T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3627",
+      "id": 3628,
+      "start": "2026-09-02T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3628",
       "location": "Absinthbar, Schanzenstraße 99, Hamburg.",
       "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
       "link": "https://absinth-bar.com/",
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_note": ""
     },
     "style": {
@@ -3638,6 +3628,21 @@
     "url": "https://t.me/+wNgJ6sTsTOljMjFi",
     "city": "03096",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/zollernalb-balingen",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Zwickau MeetUp",
+    "latLng": [
+      50.7189,
+      12.4961
+    ],
+    "url": "https://t.me/einundzwanzigsachsen/1231",
+    "city": "Zwickau",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/zwickau-meetup",
     "twitter": null,
     "event": null,
     "style": {
