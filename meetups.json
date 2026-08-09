@@ -101,7 +101,7 @@
       "location": "Mainaschaff",
       "description": "Location wird auf Telegram oder hier kommuniziert.",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -550,9 +550,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2694,
-      "start": "2026-08-08T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2694",
+      "id": 2695,
+      "start": "2026-08-15T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2695",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -1351,7 +1351,7 @@
       "location": "Startpunkt „Extratour Kuppenweg“",
       "description": "🥾 Wir werden gemeinsam den Extratour Kuppenweg in der Rhön bestreiten.\n\nEinem der schönsten Rundwanderwege der Rhön! Der Weg führt uns durch die charakteristische Kuppenlandschaft mit herrlichen Ausblicken, vorbei an Wiesen, Wäldern und den typischen Basaltkuppen dieser einzigartigen Mittelgebirgsregion.\n\n📍 Treffpunkt: \nWanderparkplatz Kuppenweg\nhttps://maps.app.goo.gl/b5SySm8mcPqFQArbA?g_st=ac\n\n🕒 Uhrzeit: 11:30 Uhr\n📅 Datum: Sonntag 09.08.2026\n\nUnterwegs bietet sich eine willkommene Rast im Würzburger Karl-Straub-Haus an, wo wir uns stärken können – ideal für eine Pause mit Essen und Trinken🌭🍟🍻, bevor es anschließend wieder zurück geht.🥾⛰",
       "link": "https://t.me/einundzwanzigFD/5266",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1864,7 +1864,17 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 3724,
+      "start": "2026-08-13T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3724",
+      "location": "Landau",
+      "description": "Details in der Gruppe.",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2165,9 +2175,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "id": 2604,
-      "start": "2026-08-08T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2604",
+      "id": 2605,
+      "start": "2026-09-05T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2605",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "description": "Wir treffen uns jeden 1. Samstag im Monat in Münster in wechselnden Lokalitäten. Der genaue Ort wird immer rechtzeitig bekannt gegeben.",
       "link": null,
