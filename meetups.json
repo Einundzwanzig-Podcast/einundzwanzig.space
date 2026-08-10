@@ -1329,7 +1329,17 @@
     "city": "Friedrichshafen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3726,
+      "start": "2026-08-11T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-friedrichshafen/event/3726",
+      "location": "Unterbaumgarten 3/1, 88097 Eriskirch-Unterbaumgarten",
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1345,13 +1355,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
     "event": {
-      "id": 3723,
-      "start": "2026-08-09T09:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3723",
-      "location": "Startpunkt „Extratour Kuppenweg“",
-      "description": "🥾 Wir werden gemeinsam den Extratour Kuppenweg in der Rhön bestreiten.\n\nEinem der schönsten Rundwanderwege der Rhön! Der Weg führt uns durch die charakteristische Kuppenlandschaft mit herrlichen Ausblicken, vorbei an Wiesen, Wäldern und den typischen Basaltkuppen dieser einzigartigen Mittelgebirgsregion.\n\n📍 Treffpunkt: \nWanderparkplatz Kuppenweg\nhttps://maps.app.goo.gl/b5SySm8mcPqFQArbA?g_st=ac\n\n🕒 Uhrzeit: 11:30 Uhr\n📅 Datum: Sonntag 09.08.2026\n\nUnterwegs bietet sich eine willkommene Rast im Würzburger Karl-Straub-Haus an, wo wir uns stärken können – ideal für eine Pause mit Essen und Trinken🌭🍟🍻, bevor es anschließend wieder zurück geht.🥾⛰",
-      "link": "https://t.me/einundzwanzigFD/5266",
-      "attendees": 1,
+      "id": 3662,
+      "start": "2026-09-02T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3662",
+      "location": "Lindenhof Keulos",
+      "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier! Jeder ist willkommen 🍻",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3129,7 +3139,17 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 3725,
+      "start": "2026-08-14T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3725",
+      "location": "Ente in Zurlauben",
+      "description": "Dies wird das erste Trierer Meetup sein wo es Badges geben wird, also kommt vorbei.",
+      "link": null,
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3356,7 +3376,7 @@
     "twitter": null,
     "event": {
       "id": 3616,
-      "start": "2026-08-15T16:30:00.000000Z",
+      "start": "2026-08-15T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/3616",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "description": "Wir treffen uns einmal im Monat zum Stammtisch, Workshop oder offener Diskussion. Immer am 3. Samstag im Monat. Infos darüber findet ihr in der Telegramm Gruppe",
