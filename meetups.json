@@ -208,7 +208,7 @@
       "id": 3363,
       "start": "2026-08-27T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3363",
-      "location": "Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden",
+      "location": "ECCE am Zentralwerk, Riesaer Straße 32, 01127 Dresden",
       "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website verfügbar.\nDort gibt es auch einen Kalender-Feed zum abonnieren.",
       "link": "https://bitcoin-dresden.de/",
       "attendees": 0,
@@ -584,7 +584,17 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3730,
+      "start": "2026-08-15T09:45:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-wuerzburg/event/3730",
+      "location": "Residenzplatz, Würzburg",
+      "description": "tcoinWalk Würzburg\nTreffpunkt: Frankoniabrunnen am Residenzplatz, 97070 Würzburg\n15.08. 26 um 11:45 Uhr\nBis bald! 🙌 See you on SATurday!",
+      "link": "https://bitcoinwalk.org/wuerzburg",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -1075,9 +1085,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch",
     "twitter": null,
     "event": {
-      "id": 3345,
-      "start": "2026-08-13T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3345",
+      "id": 3346,
+      "start": "2026-09-10T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3346",
       "location": "RK Endspurt 1909 Cottbus e.V. Dresdener Str. 18 03050 Cottbus",
       "description": "Wir sind der lokale Bitcoin Stammtisch für Cottbus.\n\nInteresse mitbringen reicht.",
       "link": "https://t.me/einundzwanzig_cb",
@@ -1750,11 +1760,11 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3720,
-      "start": "2026-08-13T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3720",
+      "id": 3719,
+      "start": "2026-08-20T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3719",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "KI-Einsteiger Vortrag für alle, die verstehen möchten, was heute schon mit KI möglich ist. Egal ob für den Alltag, Social Media, das eigene Unternehmen oder um einfach mit der Zeit zu gehen, kommt vorbei, stellt eure Fragen und entdeckt, wie KI euch Zeit sparen und vieles einfacher machen kann",
+      "description": "Bitcoin Einsteigerkurs für alle, die Bitcoin von Grund auf verstehen möchten. Teilt den Termin gerne mit Freunden, Familie oder jedem, der davon profitieren könnte. Wir nehmen uns Zeit für alle Fragen und erklären alles einfach und verständlich.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 0,
       "might_attendees": 0,
@@ -1864,17 +1874,7 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": {
-      "id": 3724,
-      "start": "2026-08-13T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3724",
-      "location": "Landau",
-      "description": "Details in der Gruppe.",
-      "link": null,
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2700,13 +2700,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2779,
-      "start": "2026-08-13T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2779",
-      "location": "Hilpoltstein",
-      "description": "Wir treffen uns in Hilpoltstein in der Fuchsmühle. Ein neues Restaurant mit Biergarten und leckeren Essen.",
-      "link": "https://www.diefuchsmuehle.de/",
-      "attendees": 4,
+      "id": 2780,
+      "start": "2026-09-08T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2780",
+      "location": "Schwabach ",
+      "description": "Genaueres wird noch bekannt gegeben.",
+      "link": "https://gesundes-geld.net/",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3050,9 +3050,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
     "twitter": null,
     "event": {
-      "id": 2806,
-      "start": "2026-08-13T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2806",
+      "id": 2807,
+      "start": "2026-09-10T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2807",
       "location": "RamRob Ahrensburg",
       "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!\n",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
