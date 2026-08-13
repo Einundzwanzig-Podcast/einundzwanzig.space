@@ -95,31 +95,16 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg",
     "twitter": "21Aschaffenburg",
     "event": {
-      "id": 2984,
-      "start": "2026-08-12T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2984",
-      "location": "Da Vinci, Aschaffenburg",
-      "description": "Leiderer Stadtweg 49, 63741 Aschaffenburg",
+      "id": 2985,
+      "start": "2026-09-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2985",
+      "location": "Mainaschaff ",
+      "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Aschebersch",
-    "latLng": [
-      49.973019,
-      9.14901
-    ],
-    "url": "https://t.me/einundzwanzig_aschaffenburg",
-    "city": "Aschaffenburg",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/aschebersch",
-    "twitter": "https://x.com/21Aschaffenburg",
-    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -186,7 +171,7 @@
       "location": "Café Holzmarktperle",
       "description": "Bitcoin am Holzmarkt (Holzmarktstraße 25, 10243 Berlin). Stammtisch an jedem 3. Mittwoch im Monat.",
       "link": "https://www.meetup.com/bitcoin-lab-berlin/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -629,6 +614,21 @@
     "city": "Aderzhofen/Bussen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bussen",
     "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "DELETE",
+    "latLng": [
+      51.81263,
+      14.18417
+    ],
+    "url": "",
+    "city": "03096",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/delete",
+    "twitter": "",
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -1750,13 +1750,13 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3718,
-      "start": "2026-08-12T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3718",
+      "id": 3720,
+      "start": "2026-08-13T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3720",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "description": "Markus Turm hält einen allgemeinen Vortrag über Multisig. Der Abend ist mit dem monatlichen Einundzwanzig Cambodunum Meetup kombiniert. Meldet euch an oder kommt einfach vorbei,  Fragen rund um Bitcoin sind willkommen, und wir helfen gerne ",
+      "description": "KI-Einsteiger Vortrag für alle, die verstehen möchten, was heute schon mit KI möglich ist. Egal ob für den Alltag, Social Media, das eigene Unternehmen oder um einfach mit der Zeit zu gehen, kommt vorbei, stellt eure Fragen und entdeckt, wie KI euch Zeit sparen und vieles einfacher machen kann",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 3,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
