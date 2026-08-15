@@ -381,7 +381,7 @@
       "location": "In der Unity-Bar, Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
       "description": "Willkommen in Schwerin, der Landeshauptstadt von Mecklenburg-Vorpommern. Hier gibt es nicht nur eine malerische Altstadt, ein imposantes Schloss und eine idyllische Seenlandschaft, sondern auch eine aktive Bitcoin Community. Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".\n\nBei unseren Treffen ist jeder herzlich willkommen. Wir reden über Bitcoin, aber auch über Themen wie Ökonomie, Technik und Philosophie. Es gibt keine Vorgaben, jeder kann sich einbringen und mitdiskutieren. Es ist immer wieder eine neue Erfahrung, bekannte Gesichter zu treffen oder neue Mitglieder in unserer Runde zu begrüßen. Es ist einfach einer der schönsten Tage im Monat!\n\nIn der Bar könnt ihr nicht nur leckere Cocktails und Drinks genießen, sondern auch mit Bitcoin bezahlen. Der Barbesitzer oder mittlerweile auch die Mitarbeiterin akzeptieren sowohl Bitcoin-Lightning als auch Onchain BTC. Aber auch wer sein Fiat-Geld loswerden möchte, kann dies natürlich gerne tun.\n\nWir freuen uns auch auf dich! Sei Teil unserer Einundzwanzig Schwerin Telegram-Gruppe und tausche dich mit anderen Bitcoin-Begeisterten aus. Als Admin der Gruppe heiße ich dich herzlich willkommen.",
       "link": "https://21schwerin.de",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2706,7 +2706,7 @@
       "location": "Schwabach ",
       "description": "Genaueres wird noch bekannt gegeben.",
       "link": "https://gesundes-geld.net/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3105,15 +3105,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen",
     "twitter": null,
     "event": {
-      "id": 2535,
-      "start": "2026-08-14T15:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2535",
+      "id": 2536,
+      "start": "2026-09-11T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/2536",
       "location": "Northeim, DinX Dinner",
       "description": "bitcoin",
       "link": "https://signal.group/#CjQKIKf11rBE3_bnP9K6Z499DT3mZnYm3r-hXX_tGB1kLEemEhDDNih5R5T-vdSbmrtbG4HH",
       "attendees": 0,
       "might_attendees": 0,
-      "nostr_note": "71421b61d6b946641cf3b34c650516ab505a650e74ba6f4e3ce30a3bbe3b410a"
+      "nostr_note": "6d3ae8b5ca951d0768c78bffa9172e8be39b40dcf7e555ce6f9ddc80b60d870b"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -3129,17 +3129,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "id": 3725,
-      "start": "2026-08-14T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3725",
-      "location": "Ente in Zurlauben",
-      "description": "Dies wird das erste Trierer Meetup sein wo es Badges geben wird, also kommt vorbei.",
-      "link": null,
-      "attendees": null,
-      "might_attendees": null,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4009,17 +3999,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3595,
-      "start": "2026-08-14T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3595",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Freitag, 14.08.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
