@@ -1266,7 +1266,7 @@
       "location": "Bamberg tbd",
       "description": "Bamberg tbd",
       "link": "https://share.google/WPKs4TY9AHAfESvy1",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -5189,6 +5189,21 @@
     "city": "Birmingham, AL",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/magic-city-bitcoin",
     "twitter": "BtcBirmingham",
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Marion Bitcoin Meetup",
+    "latLng": [
+      40.534291,
+      -85.720118
+    ],
+    "url": null,
+    "city": "Marion",
+    "portalUrl": "https://portal.einundzwanzig.space/us/meetup/marion-bitcoin-meetup",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
