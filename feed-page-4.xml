@@ -345,8 +345,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1755099051236-5d9e2b4b8b71e.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #123">123</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Spok" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" customKey="696969" customValue="15" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Spok" address="03b5ca2ceef3572eb4b8acfbc7755dab0dce24ed790e6945339cfcbe631e838600" customKey="696969" customValue="15" type="node" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/spok-80eab20f01135d8462657d33411c5842.png" href="https://fairtalk.tv">spok</podcast:person>

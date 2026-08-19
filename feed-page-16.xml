@@ -65,9 +65,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1674239548972-f9d1a44c7ede2.jpg"></itunes:image>
       <itunes:episodeType>bonus</itunes:episodeType>
       <podcast:episode display="Interview #87">87</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
@@ -144,8 +145,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #166">166</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Tanksen" address="03d07c6075d640e680d54bd5201df087bc1fc56cbc084ab3aed54c3d96a486a919" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/tanksen-771451f937fe048e58de1c9269553afb.jpg" href="https://njump.me/npub1umpg95dp5x7uwf2trd5n9hejc5t29al3qdk3nxehh8snz2dr4unqcjw9r5">Tanksen</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
@@ -163,9 +165,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #165">165</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -205,11 +208,12 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #164">164</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="25"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="20"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="20"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
@@ -230,8 +234,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1670951050101-87c549e543ac5.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #67">67</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
@@ -249,8 +254,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #163">163</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
@@ -351,8 +357,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1669447913596-568c52e153ae.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Der Weg #65">65</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>

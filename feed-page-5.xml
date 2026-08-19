@@ -61,8 +61,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1752011067725-06b666473f7bb.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #122">122</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
@@ -145,9 +146,10 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #288">288</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Actionslave" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="50"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Actionslave" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="euI6eYCkLAi8DrICWNa1" type="node" split="33"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="33"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/actionslave-736240a4525ecbb2a0ae14a9e932d189.jpg" href="https://njump.me/npub1zjgyjhcdpfgux7c6qmrp8yhm6yvs8p9h32urr84du3vhsnj70vlsre4e8l">actionslave</podcast:person>
@@ -188,10 +190,11 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #286">286</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="33"></podcast:valueRecipient>
-        <podcast:valueRecipient name="El Bitcoin Ambassador" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="10" type="node" split="33"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
+        <podcast:valueRecipient name="El Bitcoin Ambassador" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="10" type="node" split="25"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
@@ -424,8 +427,9 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1742757444359-057bdc48da457.jpg"></itunes:image>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="Interview #119">119</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="100"></podcast:valueRecipient>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Quillie" address="02324936a19ff162f5a5809db9e4d26037f21ff5b076728b9ba483ea21f8ec5d15" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
