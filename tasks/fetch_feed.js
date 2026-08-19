@@ -168,15 +168,16 @@ const parseEpisode = e => {
     }, [])
 
     if (value.length) {
+      const method = value.some(p => p.type === 'lnaddress') ? 'lnaddress' : 'keysend'
       updated['podcast:value'] = {
         __attr: {
           type: 'lightning',
-          method: 'keysend'
+          method
         },
         'podcast:valueRecipient': value.map(p => ({
           __attr: {
             ...p,
-            type: 'node',
+            type: p.type || 'node',
             split: Math.round(100 / value.length)
           }
         }))

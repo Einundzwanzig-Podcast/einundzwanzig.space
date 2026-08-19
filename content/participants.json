@@ -49,7 +49,14 @@
     "github": "dennisreimann",
     "url": "https://d11n.net",
     "text": "Mag Open Source und schreibt lieber Software als Texte über sich selbst 👨🏻‍💻",
-    "image": "/img/participants/dennis.jpg"
+    "image": "/img/participants/dennis.jpg",
+    "v4v": {
+      "address": "v4v@d11n.net",
+      "type": "lnaddress"
+    },
+    "aliases": [
+      "d11n"
+    ]
   },
   "daniel": {
     "name": "Daniel",
