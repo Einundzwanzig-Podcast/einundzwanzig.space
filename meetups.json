@@ -1266,7 +1266,7 @@
       "location": "Bamberg tbd",
       "description": "Bamberg tbd",
       "link": "https://share.google/WPKs4TY9AHAfESvy1",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1616,7 +1616,7 @@
       "location": "Restaurant Gleich am Phönixgelände",
       "description": "Für alle Bitcoin-Interessierten",
       "link": "https://t.me/EinundzwanzigHildesheim",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3604,7 +3604,17 @@
     "city": "Traunreut",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/traunreut",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3746,
+      "start": "2026-08-21T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/traunreut/event/3746",
+      "location": "La Piazza Pamir",
+      "description": "Das erste Treffen zum Kennenlernen und Gespräch über Bitcoin und seine Möglichkeiten.",
+      "link": "https://www.parlante.eu/aktivitaten/bitcoin-meetup-traunreut/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4845,9 +4855,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3385,
-      "start": "2026-08-18T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3385",
+      "id": 3386,
+      "start": "2026-08-25T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3386",
       "location": "Boquete, Panama",
       "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
       "link": "https://t.me/einundzwanzigpanama",
@@ -5147,11 +5157,11 @@
   {
     "name": "Asheville Bitcoiners",
     "latLng": [
-      35.595909,
-      -82.550041
+      35.595363,
+      -82.550841
     ],
     "url": null,
-    "city": "Asheville",
+    "city": "Asheville, NC",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/asheville-bitcoiners",
     "twitter": "avlbitcoiners",
     "event": null,
@@ -5162,11 +5172,11 @@
   {
     "name": "Charleston Bitcoin Meetup",
     "latLng": [
-      32.776474,
-      -79.931053
+      32.788436,
+      -79.939931
     ],
     "url": null,
-    "city": "Charleston",
+    "city": "Charleston, SC",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/charleston-bitcoin-meetup",
     "twitter": "bitcoin_CHS",
     "event": null,
@@ -5177,11 +5187,11 @@
   {
     "name": "Indy Bitcoin Meetup",
     "latLng": [
-      39.7684,
-      -86.1581
+      39.768333,
+      -86.15835
     ],
     "url": "https://indybitcoinmeetup.com/",
-    "city": "Indianapolis",
+    "city": "Indianapolis, IN",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup",
     "twitter": "IndyBitcoin",
     "event": {
@@ -5202,8 +5212,8 @@
   {
     "name": "Magic City Bitcoin",
     "latLng": [
-      33.518589,
-      -86.810356
+      33.520682,
+      -86.802433
     ],
     "url": "https://www.meetup.com/members/361882918/",
     "city": "Birmingham, AL",
@@ -5217,11 +5227,11 @@
   {
     "name": "Marion Bitcoin Meetup",
     "latLng": [
-      40.534291,
-      -85.720118
+      40.558374,
+      -85.659144
     ],
     "url": null,
-    "city": "Marion",
+    "city": "Marion, IN",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/marion-bitcoin-meetup",
     "twitter": null,
     "event": null,
@@ -5232,11 +5242,11 @@
   {
     "name": "TWENTY-ONE USA",
     "latLng": [
-      39.89288,
-      -101.905937
+      38,
+      -97
     ],
     "url": "https://t.me/+YChlvzkBt1xkYjRi",
-    "city": "United-States",
+    "city": "United States",
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/twenty-one-usa",
     "twitter": "twentyone_usa",
     "event": null,
