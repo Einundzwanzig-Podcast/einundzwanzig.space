@@ -525,9 +525,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2696,
-      "start": "2026-08-22T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2696",
+      "id": 2697,
+      "start": "2026-08-29T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2697",
       "location": "Hamburg Stadtpark am Planetarium",
       "description": "BitcoinWalk – ein wöchentliches Samstagstreffen, bei dem Bitcoin-Enthusiasten zu einem Spaziergang in der Natur zusammenkommen und sich an echten Gesprächen beteiligen können.",
       "link": "https://bitcoinwalk.org/hamburg/",
@@ -1625,9 +1625,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald",
     "twitter": null,
     "event": {
-      "id": 3176,
-      "start": "2026-08-22T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3176",
+      "id": 3177,
+      "start": "2026-09-26T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3177",
       "location": "Wird im Telegram-Kanal bekannt gegeben",
       "description": "Monatliches Bitcoin Meetup Hochschwarzwald\n\nLocation wird im Telegram-Kanal bekanntgegeben!\nTritt unserem Kanal bei und bleib informiert.",
       "link": "https://t.me/+DFWMJUsN0GhhOTky",
@@ -1734,7 +1734,17 @@
     "city": "Kassel",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3750,
+      "start": "2026-09-17T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kassel-bitcoin/event/3750",
+      "location": "Forsters Garden Kassel Bettenhausen",
+      "description": null,
+      "link": "https://fosters-garden.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4463,6 +4473,21 @@
     "url": "https://t.me/Einundzwanzig_Thurgau",
     "city": "Thurgau",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-thurgau",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Uster⁠",
+    "latLng": [
+      47.3492,
+      8.7196
+    ],
+    "url": "https://t.me/einundzwanzig_uster",
+    "city": "Uster",
+    "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-uster",
     "twitter": null,
     "event": null,
     "style": {
