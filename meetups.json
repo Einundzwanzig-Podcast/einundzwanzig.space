@@ -154,7 +154,7 @@
       10.86834
     ],
     "url": "https://t.me/BitcoinBeachMeetupTravemuende",
-    "city": "Travemünde ",
+    "city": "Travemünde",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-beach-luebeck-travemuende",
     "twitter": "BTravemuende",
     "event": null,
@@ -2199,7 +2199,21 @@
     "city": "Düsseldorf",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3751,
+      "start": "2026-08-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3751",
+      "location": "Rheinwiese direkt am Apollo-Varieté, Parlamentsufer, 40213 Düsseldorf",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Bitcoin Picknick auf der Rheinwiese. Jeder ist willkommen der sich für Technik, Ökonomie oder sonstige Themen rund um Bitcoin interessiert. Neulinge sind ebenfalls willkommen. Voraussetzung: Gute Stimmung und Spass.\n\n\n(Keine Finanzberatung, keine Politik, keine Shitcoins)",
+      "link": "https://t.me/einundzwanzig_duesseldorf",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2314,7 +2328,7 @@
       13.27532
     ],
     "url": "https://t.me/EinundzwanzigNeubrandenburg",
-    "city": "Neubrandenburg ",
+    "city": "Neubrandenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
     "event": null,
@@ -2507,7 +2521,7 @@
       7.94238
     ],
     "url": "https://t.me/Einundzwanzig_Ortenaukreis",
-    "city": "Offenburg ",
+    "city": "Offenburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ortenaukreisoffenburg",
     "twitter": "21ortenaukreis",
     "event": null,
@@ -3072,7 +3086,7 @@
       10.23116
     ],
     "url": "https://t.me/+DbKEUzfakuwyNGJi",
-    "city": "Schweinfurt ",
+    "city": "Schweinfurt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweinfurt",
     "twitter": null,
     "event": null,
@@ -3162,7 +3176,7 @@
       13.71362
     ],
     "url": "https://t.me/einundzwanzigspreewald",
-    "city": "Spreewald ",
+    "city": "Spreewald",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-spreewald",
     "twitter": "schlabendorf",
     "event": null,
@@ -3221,7 +3235,7 @@
       9.01803
     ],
     "url": "https://t.me/+mEqPNx7Xx_M4MGQ6",
-    "city": "Region Strohgäu ",
+    "city": "Region Strohgäu",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
     "event": null,
@@ -3309,7 +3323,7 @@
       10.560545
     ],
     "url": "https://t.me/+YD3Z_KHPks5jMTMy",
-    "city": "Uelzen ",
+    "city": "Uelzen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-uelzen",
     "twitter": "Groundy831",
     "event": null,
@@ -3462,9 +3476,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 2729,
-      "start": "2026-08-24T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2729",
+      "id": 2730,
+      "start": "2026-09-28T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2730",
       "location": "Musikbistro Friedberg",
       "osm_name": null,
       "osm_type": null,
@@ -3472,7 +3486,7 @@
       "osm_address": null,
       "description": "Bismarckstraße 32, 61169 Friedberg (Hessen)",
       "link": "https://bitcoin-entdecken.de",
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3605,7 +3619,7 @@
       9.45394
     ],
     "url": "https://t.me/einundzwanzigStuttgart",
-    "city": "Kirchheim Teck ",
+    "city": "Kirchheim Teck",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/kirchheim-teck",
     "twitter": null,
     "event": null,
@@ -3754,7 +3768,7 @@
       8.34
     ],
     "url": null,
-    "city": "Sylt ",
+    "city": "Sylt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/sylt",
     "twitter": "@Steffux75",
     "event": null,
@@ -3844,7 +3858,7 @@
       9.19161
     ],
     "url": "https://t.me/einundzwanzigLudwigsburg",
-    "city": "Ludwigsburg ",
+    "city": "Ludwigsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ludwigsburg",
     "twitter": "einundzwanzigLB",
     "event": null,
@@ -4410,7 +4424,7 @@
       8.8382
     ],
     "url": "https://helft-uns-helfen.ch/2026/03/09/11-juli-2016-beachparty-in-hemishofen/",
-    "city": "Hemishofen ",
+    "city": "Hemishofen",
     "portalUrl": "https://portal.einundzwanzig.space/ch/meetup/beach-party-am-rhein-btc-payment-accepted",
     "twitter": "@catanthai",
     "event": null,
@@ -4744,9 +4758,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag",
     "twitter": null,
     "event": {
-      "id": 3635,
-      "start": "2026-08-24T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3635",
+      "id": 3642,
+      "start": "2026-09-14T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3642",
       "location": "Bar No.7",
       "osm_name": null,
       "osm_type": null,
