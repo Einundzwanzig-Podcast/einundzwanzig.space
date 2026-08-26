@@ -47,8 +47,8 @@
   {
     "name": "21Bissendorf (est. 798421)",
     "latLng": [
-      51.8260823,
-      8.1453352
+      52.27196,
+      8.047635
     ],
     "url": "https://t.me/einundzwanzig_bissendorf",
     "city": "Osnabrück",
@@ -493,7 +493,7 @@
       "osm_address": null,
       "description": "Der Bitcoin Walk Köln ist ein kostenloser, 14-tägiger Samstagsspaziergang in Köln-Lindenthal. Meist treffen sich etwa 5 bis 15 Bitcoin-Interessierte am Clarenbach-Kanal, um sich in entspannter Atmosphäre zu bewegen, kennenzulernen und über Bitcoin auszutauschen. Einsteiger sind ausdrücklich willkommen.\nbitcoinwalk.org",
       "link": "https://t.me/+wh9ljtBWdyAwYjhi",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -861,8 +861,8 @@
   {
     "name": "Einundzwanzig Bad Iburg",
     "latLng": [
-      51.8260823,
-      8.1453352
+      52.27196,
+      8.047635
     ],
     "url": "https://t.me/einundzwanzigbadiburg",
     "city": "Osnabrück",
@@ -1235,7 +1235,7 @@
       "osm_address": null,
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1936,14 +1936,14 @@
       "id": 3438,
       "start": "2026-08-29T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz/event/3438",
-      "location": "Wird in Telegram bekannt gegeben",
+      "location": "Constanzer Wirtshaus",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei!\nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2473,11 +2473,11 @@
   {
     "name": "Einundzwanzig Oelde",
     "latLng": [
-      51.8260823,
-      8.1453352
+      51.826068,
+      8.145495
     ],
     "url": "https://t.me/EinundzwanzigOelde",
-    "city": "Osnabrück",
+    "city": "Oelde",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oelde",
     "twitter": null,
     "event": null,
@@ -2532,8 +2532,8 @@
   {
     "name": "Einundzwanzig Osnabrück",
     "latLng": [
-      51.8260823,
-      8.1453352
+      52.27196,
+      8.047635
     ],
     "url": "https://t.me/Einundzwanzig_OS",
     "city": "Osnabrück",
@@ -3059,21 +3059,6 @@
     "city": "Schwarzwald-Baar-Kreis",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schwarzwald-baar",
     "twitter": "derflx",
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "Einundzwanzig Schweden",
-    "latLng": [
-      59.875819,
-      14.994672
-    ],
-    "url": "https://t.me/+Vf7BMAYJ6IZiOTBi",
-    "city": "Kopparberg",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-schweden",
-    "twitter": "strohhutleben",
     "event": null,
     "style": {
       "fill": "var(--color-accent)"
@@ -5056,9 +5041,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3386,
-      "start": "2026-08-25T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3386",
+      "id": 3387,
+      "start": "2026-09-01T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3387",
       "location": "Boquete, Panama",
       "osm_name": null,
       "osm_type": null,
@@ -5177,6 +5162,21 @@
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Einundzwanzig Schweden",
+    "latLng": [
+      59.874506,
+      14.990385
+    ],
+    "url": "https://t.me/+Vf7BMAYJ6IZiOTBi",
+    "city": "Kopparberg",
+    "portalUrl": "https://portal.einundzwanzig.space/se/meetup/einundzwanzig-schweden",
+    "twitter": "strohhutleben",
+    "event": null,
+    "style": {
+      "fill": "var(--color-accent)"
     }
   },
   {
