@@ -70,9 +70,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
     "twitter": null,
     "event": {
-      "id": 3138,
-      "start": "2026-08-27T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3138",
+      "id": 3139,
+      "start": "2026-09-24T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3139",
       "location": "Bürgerhaus Neumarkt Fischergasse 1 92318 Neumarkt in der Oberpfalz",
       "osm_name": null,
       "osm_type": null,
@@ -102,7 +102,7 @@
       "id": 2985,
       "start": "2026-09-21T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2985",
-      "location": "Mainaschaff ",
+      "location": "Mainaschaff",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
@@ -217,15 +217,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
     "twitter": null,
     "event": {
-      "id": 3363,
-      "start": "2026-08-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3363",
-      "location": "ECCE am Zentralwerk, Riesaer Straße 32, 01127 Dresden",
+      "id": 3728,
+      "start": "2026-09-09T15:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3728",
+      "location": "LaVie Coffee, Wallstraße 11, 01067 Dresden",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website verfügbar.\nDort gibt es auch einen Kalender-Feed zum abonnieren.",
+      "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website...",
       "link": "https://bitcoin-dresden.de/",
       "attendees": 0,
       "might_attendees": 0,
@@ -251,36 +251,6 @@
     }
   },
   {
-    "name": "Bitcoin Karlsruhe",
-    "latLng": [
-      49.0068705,
-      8.4034195
-    ],
-    "url": "https://www.meetup.com/BitcoinKarlsruhe/",
-    "city": "Karlsruhe",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-karlsruhe",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Bitcoin Leipzig",
-    "latLng": [
-      51.3406321,
-      12.3747329
-    ],
-    "url": "https://www.meetup.com/de-DE/Leipziger-Bitcoin-Stammtisch/",
-    "city": "Leipzig",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-leipzig",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Bitcoin MeetUp Chiemsee/Chiemgau",
     "latLng": [
       47.854901,
@@ -289,21 +259,6 @@
     "url": "https://t.me/+wAD27rhDgDYzZmEy",
     "city": "Chiemsee/Chiemgau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-chiemseechiemgau",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Bitcoin Meetup - Einundzwanzig Potsdam",
-    "latLng": [
-      52.4009309,
-      13.0591397
-    ],
-    "url": "https://t.me/Einundzwanzig_Potsdam",
-    "city": "Potsdam",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-einundzwanzig-potsdam",
     "twitter": null,
     "event": null,
     "style": {
@@ -434,7 +389,7 @@
       "osm_address": null,
       "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
       "link": "https://luma.com/57xneg75",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -452,21 +407,6 @@
     "city": "Haidmühle",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-talknetwork",
     "twitter": "@AmityAge",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "Bitcoin Ulm",
-    "latLng": [
-      48.3974003,
-      9.9934336
-    ],
-    "url": "https://www.meetup.com/de-DE/Bitcoin-Ulm/",
-    "city": "Ulm",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-ulm",
-    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -650,21 +590,6 @@
     }
   },
   {
-    "name": "DELETE",
-    "latLng": [
-      51.81263,
-      14.18417
-    ],
-    "url": "",
-    "city": "03096",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/delete",
-    "twitter": "",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "EINUNDZWANZIG Bochum",
     "latLng": [
       51.481846,
@@ -689,21 +614,6 @@
     "city": "Leipzig",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-leipzig",
     "twitter": "toobiTx",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
-    "name": "EINUNDZWANZIG Mannheim",
-    "latLng": [
-      49.4892913,
-      8.4673098
-    ],
-    "url": "https://t.me/Einundzwanzig_MANNHEIM",
-    "city": "Mannheim",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim-1",
-    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -874,7 +784,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Bad Kissingen ",
+    "name": "Einundzwanzig Bad Kissingen",
     "latLng": [
       50.2007,
       10.0804
@@ -887,7 +797,7 @@
       "id": 3355,
       "start": "2026-09-18T16:30:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen/event/3355",
-      "location": "El Greco Reiterswiesen Bad Kissingen ",
+      "location": "El Greco Reiterswiesen Bad Kissingen",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
@@ -1450,32 +1360,17 @@
       "id": 3731,
       "start": "2026-08-30T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen/event/3731",
-      "location": "Restaurant Delizia, Untermarkt 12, 63571 Gelnhausen",
+      "location": "Restaurant Delizia, Untermarkt 12, 63571 Gelnhausen",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Das 6. Einundzwanzig Gelnhausen Meetup.\nJeder ist herzlich eingeladen.\nEs ist keine Anmeldung erforderlich. ",
+      "description": "Das 6. Einundzwanzig Gelnhausen Meetup.\nJeder ist herzlich eingeladen.\nEs ist keine Anmeldung erforderlich.",
       "link": "https://t.me/einundzwanzig_gelnhausen/582",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "Einundzwanzig Gießen",
-    "latLng": [
-      50.587222,
-      8.669722
-    ],
-    "url": "https://t.me/einundzwanzig_giessen",
-    "city": "Gießen",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-giessen",
-    "twitter": null,
-    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1536,9 +1431,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 3077,
-      "start": "2026-08-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3077",
+      "id": 3078,
+      "start": "2026-09-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3078",
       "location": "Sternschanze, Absinth-Bar",
       "osm_name": null,
       "osm_type": null,
@@ -1580,9 +1475,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover",
     "twitter": null,
     "event": {
-      "id": 2926,
-      "start": "2026-08-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2926",
+      "id": 2927,
+      "start": "2026-09-30T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2927",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "osm_name": null,
       "osm_type": null,
@@ -1859,21 +1754,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 3721,
-      "start": "2026-08-27T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3721",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "KI-Einsteiger Vortrag für alle, die verstehen möchten, was heute schon mit KI möglich ist. Egal ob für den Alltag, Social Media, das eigene Unternehmen oder um einfach mit der Zeit zu gehen, kommt vorbei, stellt eure Fragen und entdeckt, wie KI euch Zeit sparen und vieles einfacher machen kann.",
-      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1907,7 +1788,7 @@
       "id": 3598,
       "start": "2026-09-21T16:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/3598",
-      "location": "Abwechselde Location ",
+      "location": "Abwechselde Location",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
@@ -1943,7 +1824,7 @@
       "osm_address": null,
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei!\nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2200,15 +2081,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
     "twitter": null,
     "event": {
-      "id": 3751,
-      "start": "2026-08-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3751",
-      "location": "Rheinwiese direkt am Apollo-Varieté, Parlamentsufer, 40213 Düsseldorf",
+      "id": 3752,
+      "start": "2026-09-23T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3752",
+      "location": "Monatlich wechselnd (Abstimmung in Telegramm)",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Bitcoin Picknick auf der Rheinwiese. Jeder ist willkommen der sich für Technik, Ökonomie oder sonstige Themen rund um Bitcoin interessiert. Neulinge sind ebenfalls willkommen. Voraussetzung: Gute Stimmung und Spass.\n\n\n(Keine Finanzberatung, keine Politik, keine Shitcoins)",
+      "description": "Lockeres Meetup - Bitcoin only. Jeder ist willkommen der sich für Technik, Ökonomie oder sonstige Themen rund um Bitcoin interessiert. Neulinge sind ebenfalls willkommen. Voraussetzung: Gute Stimmung und Spass.\n\n\n(Keine Finanzberatung, keine Politik, keine Shitcoins)",
       "link": "https://t.me/einundzwanzig_duesseldorf",
       "attendees": 0,
       "might_attendees": 0,
@@ -2322,7 +2203,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Neubrandenburg ",
+    "name": "Einundzwanzig Neubrandenburg",
     "latLng": [
       53.56414,
       13.27532
@@ -2367,7 +2248,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Norderstedt ",
+    "name": "Einundzwanzig Norderstedt",
     "latLng": [
       53.6735,
       9.98563
@@ -2723,7 +2604,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Remstal ",
+    "name": "Einundzwanzig Remstal",
     "latLng": [
       48.806591,
       9.31957
@@ -2842,7 +2723,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Roth Schwabach Weißenburg ",
+    "name": "Einundzwanzig Roth Schwabach Weißenburg",
     "latLng": [
       49.24761,
       11.091209
@@ -2855,7 +2736,7 @@
       "id": 2780,
       "start": "2026-09-08T17:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2780",
-      "location": "Schwabach ",
+      "location": "Schwabach",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
@@ -2889,7 +2770,7 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt in unserer Telegram Gruppe zeitnah bekannt gegeben. ",
+      "description": "Wir treffen uns jeden 3. Freitag im Monat, 18:30 Uhr. Treffpunkt in unserer Telegram Gruppe zeitnah bekannt gegeben.",
       "link": "https://t.me/+as2wcVLDYvk2Zjky",
       "attendees": 0,
       "might_attendees": 0,
@@ -3065,7 +2946,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Schweinfurt ",
+    "name": "Einundzwanzig Schweinfurt",
     "latLng": [
       50.049099,
       10.23116
@@ -3155,7 +3036,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Spreewald ",
+    "name": "Einundzwanzig Spreewald",
     "latLng": [
       51.850361,
       13.71362
@@ -3203,7 +3084,7 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!\n",
+      "description": "Moin und willkommen beim Meetup Einundzwanzig Stormarn! Wir treffen uns jeden 2. Donnerstag im Monat ab 18:00 Uhr im Ramrob Ahrensburg, bei leckerem Essen und guten Getränken, um über Bitcoin und die Welt zu sprechen - kommt gerne rum!",
       "link": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn",
       "attendees": 0,
       "might_attendees": 0,
@@ -3332,21 +3213,6 @@
     }
   },
   {
-    "name": "Einundzwanzig Ulm ",
-    "latLng": [
-      48.3974003,
-      9.9934336
-    ],
-    "url": "https://t.me/Einundzwandig_Ulm",
-    "city": "Ulm",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ulm-1",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
     "name": "Einundzwanzig Villingen-Schwenningen",
     "latLng": [
       48.059402,
@@ -3392,7 +3258,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Waldenrath ",
+    "name": "Einundzwanzig Waldenrath",
     "latLng": [
       51.0654268,
       6.0984461
@@ -3598,7 +3464,7 @@
     }
   },
   {
-    "name": "Kirchheim Teck ",
+    "name": "Kirchheim Teck",
     "latLng": [
       48.64769,
       9.45394
@@ -3658,7 +3524,7 @@
     }
   },
   {
-    "name": "Münchberg ",
+    "name": "Münchberg",
     "latLng": [
       50.191189,
       11.78886
@@ -3747,7 +3613,7 @@
     }
   },
   {
-    "name": "Sylt ",
+    "name": "Sylt",
     "latLng": [
       54.95,
       8.34
@@ -3777,7 +3643,7 @@
     }
   },
   {
-    "name": "Würzburg ",
+    "name": "Würzburg",
     "latLng": [
       49.791306,
       9.953355
@@ -3837,7 +3703,7 @@
     }
   },
   {
-    "name": "einundzwanzig Ludwigsburg ",
+    "name": "einundzwanzig Ludwigsburg",
     "latLng": [
       48.89731,
       9.19161
@@ -3882,7 +3748,7 @@
     }
   },
   {
-    "name": "21 Million steps to go ",
+    "name": "21 Million steps to go",
     "latLng": [
       47.516232,
       14.550072
@@ -3927,7 +3793,7 @@
     }
   },
   {
-    "name": "Bitcoin21 ",
+    "name": "Bitcoin21",
     "latLng": [
       47.0708678,
       15.4382786
@@ -3990,7 +3856,7 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)\n",
+      "description": "unser monatliches MeetUp - ohne Anmeldung - einfach vorbeikommen :-)",
       "link": "https://maps.app.goo.gl/1Ls1KWDRDVA2XggZ8",
       "attendees": 0,
       "might_attendees": 0,
@@ -4373,7 +4239,7 @@
     }
   },
   {
-    "name": "BTC Schwyz ",
+    "name": "BTC Schwyz",
     "latLng": [
       47.04084,
       8.78711
@@ -4403,7 +4269,7 @@
     }
   },
   {
-    "name": "Beach Party am Rhein (BTC Payment Accepted) ",
+    "name": "Beach Party am Rhein (BTC Payment Accepted)",
     "latLng": [
       47.6758,
       8.8382
@@ -4508,7 +4374,7 @@
     }
   },
   {
-    "name": "EINUNDZWANZIG BASEL  - BITCOIN BASEL",
+    "name": "EINUNDZWANZIG BASEL - BITCOIN BASEL",
     "latLng": [
       47.5581077,
       7.5878261
@@ -4568,7 +4434,7 @@
     }
   },
   {
-    "name": "Einundzwanzig Eschenbach ",
+    "name": "Einundzwanzig Eschenbach",
     "latLng": [
       47.24083,
       8.92266
@@ -5049,7 +4915,7 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit. ",
+      "description": "Gringo Markt im Tap Out gegenüber der Feria. Am Bratwurststand von Tino. Beste Zeit zwischen 10h und 11:30h Ortszeit.",
       "link": "https://t.me/einundzwanzigpanama",
       "attendees": 0,
       "might_attendees": 0,
