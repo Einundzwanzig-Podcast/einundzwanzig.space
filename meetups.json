@@ -423,9 +423,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln",
     "twitter": null,
     "event": {
-      "id": 3568,
-      "start": "2026-08-29T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3568",
+      "id": 3570,
+      "start": "2026-09-12T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3570",
       "location": "Clarenbachstr 2, 50931 Lindenthal",
       "osm_name": null,
       "osm_type": null,
@@ -433,7 +433,7 @@
       "osm_address": null,
       "description": "Der Bitcoin Walk Köln ist ein kostenloser, 14-tägiger Samstagsspaziergang in Köln-Lindenthal. Meist treffen sich etwa 5 bis 15 Bitcoin-Interessierte am Clarenbach-Kanal, um sich in entspannter Atmosphäre zu bewegen, kennenzulernen und über Bitcoin auszutauschen. Einsteiger sind ausdrücklich willkommen.\nbitcoinwalk.org",
       "link": "https://t.me/+wh9ljtBWdyAwYjhi",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -497,9 +497,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2697,
-      "start": "2026-08-29T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2697",
+      "id": 2698,
+      "start": "2026-09-05T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2698",
       "location": "Hamburg Stadtpark am Planetarium",
       "osm_name": null,
       "osm_type": null,
@@ -1754,7 +1754,21 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3765,
+      "start": "2026-09-09T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3765",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Referent: Antonio Ilin. Ein verständlicher Einstieg in die Welt der künstlichen Intelligenz – einfach erklärt und ohne Vorkenntnisse",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1824,7 +1838,7 @@
       "osm_address": null,
       "description": "Wir treffen uns einmal im Monat und tauschen uns zu aktuellen Themen Rund um Bitcoin aus. Wir sind ein offenes Meetup, es ist jede Person willkommen! Egal, ob du noch völlig neu im Bitcoin-Space bist oder schon zu Satoshis Zeiten dabei warst, komm einfach vorbei!\nDas Meetup findet immer in der letzten Woche des Monats statt. Der Wochentag des Meetups wechselt monatlich von Do-Sa durch. Damit möchten wir möglichst vielen Personen die Chance geben, teilzunehmen.",
       "link": "https://sites.google.com/view/21-meetup-kn/startseite",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
