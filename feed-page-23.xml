@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 15:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-23.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-22.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,20 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Lesestunde #19 - Bitcoin wird Weltreservewährung]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-19-bitcoin-wird-weltreservewaehrung]]></description>
+      <link>https://einundzwanzig.space/podcast/lesestunde-19-bitcoin-wird-weltreservewaehrung</link>
+      <guid isPermaLink="false">d642ffe4-d666-4878-b71a-23ddd504e805</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Sun, 31 Oct 2021 09:52:16 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/42593654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-31%2Fcfd67e8b-efd1-d879-1878-029d0c7f0f2a.mp3" length="34157450" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1635673929676-ea81fc1d8d84a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Lesestunde #19">19</podcast:episode>
+    </item>
     <item>
       <title><![CDATA[Der Weg #28 - Bitcoin ist der Gegenpol]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-28-bitcoin-ist-der-gegenpol]]></description>
@@ -419,26 +433,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:episode display="News #99">99</podcast:episode>
       <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #56 - John Law, "Der erste MMTler" mit Michael Ladwig]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-56-john-law-der-erste-mmtler-mit-michael-ladwig]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-56-john-law-der-erste-mmtler-mit-michael-ladwig</link>
-      <guid isPermaLink="false">cdf0eccb-ccc4-4102-a7b2-e04969ac9fce</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 13 Sep 2021 04:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/40088363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F879dbcb8-96b5-1750-8ec2-0db7d3a163b2.mp3" length="55312686" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:57:11</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1631260411777-5c7f7b6d69124.jpg"></itunes:image>
-      <itunes:episodeType>bonus</itunes:episodeType>
-      <podcast:episode display="Interview #56">56</podcast:episode>
-      <podcast:value type="lightning" method="lnaddress">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>

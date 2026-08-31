@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 15:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-8.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-7.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#257 - Peter Todd is Craig Wright!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-257-peter-todd-is-craig-wright]]></description>
+      <link>https://einundzwanzig.space/podcast/news-257-peter-todd-is-craig-wright</link>
+      <guid isPermaLink="false">6d77f536-688a-4a8d-82b3-e437f2071622</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 10 Oct 2024 08:26:30 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/92829172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-10%2Fae95118f-3a97-6ba8-f1da-10d7f5096ec3.mp3" length="90479328" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:34:14</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #257">257</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Molo" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="13" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person>Molo</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#256 - First Whale Problems]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-256-first-whale-problems]]></description>
@@ -432,32 +450,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/daniel-30cddb10950123f7402abe8feb69b9c8.jpg" href="https://njump.me/npub1xv4z0eswam7k2zfytsm09mfaxv8a2dugtk566hvp45keysmeezgsqu47m5">Daniel</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#245 - Knapp daneben ist auch vorbei]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-245-knapp-daneben-ist-auch-vorbei]]></description>
-      <link>https://einundzwanzig.space/podcast/news-245-knapp-daneben-ist-auch-vorbei</link>
-      <guid isPermaLink="false">370c8429-7c94-4e0c-8b85-a0dfd56bcd20</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 18 Jul 2024 20:40:37 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/89396116/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2F6214b60c-8ac3-be57-a626-ed4e4eed72b9.mp3" length="154732320" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:30:18</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #245">245</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="BenMitFleck" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="12" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Paddepadde" address="0337094f7fd7978b546777eefcabfdd5c5b54c953791837df442e8ac9bcacade87" customKey="696969" customValue="7" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Flashman" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="9Ra8pecnRoS3sMQ3PQAc" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Loddi" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="34PPUPz9Cs23eZ5XY5Hi" type="node" split="20"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/benmitfleck-70bd05719d76531633624a51f6b31857.jpg" href="https://x.com/BenMitFleck">BenMitFleck</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/paddepadde-b21b8d6794c640260a9b5ca7bd12adaa.jpg" href="https://njump.me/npub1gvqkjccl9urg93svaw60jqkk3ux8r3ycl5t3rlvc9uzjeu0agfuss8x8qy">Paddepadde</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/flashman-59e42d3faf6bf202803edc78f59fccd4.jpg" href="https://x.com/FlashmanBTC">Flashman</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/loddi-cdd4b3e94b651c19acf10a721bed5b36.jpg" href="https://open.spotify.com/show/3W7s0euoJl6Z6CD4wf45b9">Loddi</podcast:person>
     </item>
   </channel>
 </rss>

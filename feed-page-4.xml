@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 15:31:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-4.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-3.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Interview #129 - Privatsphäre mit Timo ]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-129-privatsphaere-mit-timo]]></description>
+      <link>https://einundzwanzig.space/podcast/interview-129-privatsphaere-mit-timo</link>
+      <guid isPermaLink="false">1d205c8d-0079-4f5e-9644-379fa19c7cd4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 06 Oct 2025 20:45:18 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/109301778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-6%2Fb1f34645-fc8c-3261-a807-e6f6ac6cb2eb.mp3" length="14358796" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:29:54</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1759818327304-9d4b5437deeb9.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Interview #129">129</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#299 - Denn, letzte Nacht fuhr'n wir einen Panzer]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-299-denn-letzte-nacht-fuhrn-wir-einen-panzer]]></description>
@@ -429,19 +447,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Infos Zitadelle 2025 Teil2]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-infos-zitadelle-2025-teil2]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-infos-zitadelle-2025-teil2</link>
-      <guid isPermaLink="false">a90e842e-e3a9-453b-9053-0360ea312060</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 24 Jul 2025 05:27:47 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/105918087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F4312c491-2d45-8c8d-3315-185c416c52d0.mp3" length="12421667" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:14:46</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
