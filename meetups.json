@@ -1089,7 +1089,21 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "id": 3772,
+      "start": "2026-09-09T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/3772",
+      "location": "Geier-Bräu, Marktplatz 48, 94419 Reisbach",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Meetup",
+      "link": "https://t.me/einundzwanzig_dgf",
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1356,21 +1370,7 @@
     "city": "Gelnhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen",
     "twitter": null,
-    "event": {
-      "id": 3731,
-      "start": "2026-08-30T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen/event/3731",
-      "location": "Restaurant Delizia, Untermarkt 12, 63571 Gelnhausen",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Das 6. Einundzwanzig Gelnhausen Meetup.\nJeder ist herzlich eingeladen.\nEs ist keine Anmeldung erforderlich.",
-      "link": "https://t.me/einundzwanzig_gelnhausen/582",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1755,15 +1755,15 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3765,
-      "start": "2026-09-09T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3765",
+      "id": 3770,
+      "start": "2026-09-08T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3770",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Referent: Antonio Ilin. Ein verständlicher Einstieg in die Welt der künstlichen Intelligenz – einfach erklärt und ohne Vorkenntnisse",
+      "description": "Referent: Seb. Ein verständlicher Einstieg in Bitcoin, einfach erklärt, praxisnah und ohne Vorkenntnisse",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 0,
       "might_attendees": 0,
@@ -3454,7 +3454,7 @@
       "osm_address": null,
       "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
       "link": "https://absinth-bar.com/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
