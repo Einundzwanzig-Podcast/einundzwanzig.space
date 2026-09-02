@@ -2755,9 +2755,9 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Genaueres wird noch bekannt gegeben.",
-      "link": "https://gesundes-geld.net/",
-      "attendees": 2,
+      "description": "Schwabach ist wieder an der Reihe. Wir treffen uns in der Gaststätte Wilhelm Tel.\nDie letzte Zeit ist ja viel passiert, somit gibt‘s viel zu erzählen.",
+      "link": "https://www.gaststaette-wilhelm-tell.com/",
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3651,7 +3651,21 @@
     "city": "Traunreut",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/traunreut",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3775,
+      "start": "2026-09-23T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/traunreut/event/3775",
+      "location": null,
+      "osm_name": "La Piazza Pamir",
+      "osm_type": "node",
+      "osm_id": 11403973671,
+      "osm_address": "La Piazza Pamir, 18, Rathausplatz, Parzing, Traunreut, Landkreis Traunstein, Bayern, 83301, Deutschland",
+      "description": "Erstes Kennenlernen.Wo liegen die Interessen.",
+      "link": "https://parlante.eu/aktivitaten/bitcoin-meetup-traunreut/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -4613,6 +4627,35 @@
     }
   },
   {
+    "name": "Bitcoinerský oběd",
+    "latLng": [
+      50.087811,
+      14.42046
+    ],
+    "url": null,
+    "city": "Prag",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/bitcoinersky-obed",
+    "twitter": null,
+    "event": {
+      "id": 3776,
+      "start": "2026-09-03T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/bitcoinersky-obed/event/3776",
+      "location": null,
+      "osm_name": "Zlaté Sele",
+      "osm_type": "node",
+      "osm_id": 1392150444,
+      "osm_address": "Zlaté Sele, 40/1, Na Proseku, Prosek, Praha 9, obvod Praha 9, Praha, 190 00, Česko",
+      "description": "pravidelný bitcoinerský oběd",
+      "link": "https://jdetedoprd.ele",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Einundzwanzig Prag",
     "latLng": [
       50.087811,
@@ -4652,16 +4695,16 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-brno",
     "twitter": null,
     "event": {
-      "id": 3735,
-      "start": "2026-09-28T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-brno/event/3735",
-      "location": "TBA",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Pravidelný hospodský sraz - Bitcoin Beer / Dinner. Bez přednášek, jen sraz, poradna, ale hlavně tam, kde jde platit Bitcoinem.",
-      "link": "https://signal.group/#CjQKIL2KyHPPAotCRX1bQS2Kx_NV46s7om25K23Sy5Sf_u2pEhB1vJrPckxkIryjgdeTybmx",
+      "id": 3774,
+      "start": "2026-09-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-brno/event/3774",
+      "location": null,
+      "osm_name": "Test",
+      "osm_type": "way",
+      "osm_id": 88758940,
+      "osm_address": "Test, Dolní promenáda, Janské Lázně, okres Trutnov, Královéhradecký kraj, 542 25, Česko",
+      "description": "testovací akce\n\n# nadpis\n## podnadpis\ndruhý odstavec s [odkazem](https://example.com)",
+      "link": "http://example.com",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
