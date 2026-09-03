@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-21.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-20.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,23 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Besuch bei Satoshi's Bleibe - Special]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-besuch-bei-satoshis-bleibe-special]]></description>
+      <link>https://einundzwanzig.space/podcast/verschiedenes-besuch-bei-satoshis-bleibe-special</link>
+      <guid isPermaLink="false">0adc7394-b5cc-49c5-9a0c-dd68fd03ede4</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Mon, 21 Feb 2022 16:12:59 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/47986812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F91197b42-227d-9893-6bd3-35cb80e42b15.mp3" length="54086115" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:37:33</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1645459917652-a98d7ea37120b.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Interview #72 - Scrit mit The Real Smuggler]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-72-scrit-mit-the-real-smuggler]]></description>
@@ -430,34 +447,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Fab" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="ZYvOGSB3bfrZfSCJ8btf" type="node" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/fab-4078ecb99abf1e74f5f3d484ca319499.jpg" href="http://fabthefox.com">Fab</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#114 - 12 Months Rollback]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-114-12-months-rollback]]></description>
-      <link>https://einundzwanzig.space/podcast/news-114-12-months-rollback</link>
-      <guid isPermaLink="false">19d7b542-33b4-456c-9c69-6bffa8a28d38</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 30 Dec 2021 11:13:53 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/45475516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-30%2Ff998a053-1c80-d536-ac3d-cd26bb5705f1.mp3" length="73958712" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:17:02</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
-      <itunes:episode>114</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #114">114</podcast:episode>
-      <podcast:value type="lightning" method="lnaddress">
-        <podcast:valueRecipient name="Kemal" address="02e01367e1d7818a7e9a0e8a52badd5c32615e07568dbe0497b6a47f9bef89d6af" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Lassmiranda" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="9" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ole" address="03686128db3100e8a66caa3a50943aa72b80c00b3f8700ec01f3bf2e3657d69d54" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Joko" address="03f51df0183b2083d678d867d7441ba7e8dbf1bfdd23729d702b81a8b128e3e876" type="node" split="20"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="20"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/kemal-544e5750ef0076d3d865931ea78663cf.jpg" href="https://ideasarelikeflames.com/">Kemal</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/lassmiranda-2f58c8fa042324d9e5937b7cedc44158.jpg" href="https://njump.me/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/ole-87dfe53dabe684ab1f06590ff7152163.jpg" href="https://medium.com/@dercheapi">Ole</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/joko-1a96f974a59b3e65af1936dd6eadcd30.png" href="https://btc21.de">Joko</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/patrick-2c8f42df23506e21d9457e785b57c3de.jpg" href="https://x.com/PatrickZGW">Patrick</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
     </item>
   </channel>
 </rss>

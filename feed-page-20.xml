@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-20.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-19.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#130 - Psycho Holiday]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-130-psycho-holiday]]></description>
+      <link>https://einundzwanzig.space/podcast/news-130-psycho-holiday</link>
+      <guid isPermaLink="false">406e9576-aa9c-43f1-92fe-de5364582801</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 20 Apr 2022 19:51:01 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/50859064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-20%2F88977659-d500-ee87-c2d7-d71b5d0198d1.mp3" length="20054016" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:41:09</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/2173598/2173598-1602858623777-ddf1309f31053.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #130">130</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Lassmiranda" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="9" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/lassmiranda-2f58c8fa042324d9e5937b7cedc44158.jpg" href="https://njump.me/npub1pzptxv5nwqnr8mvz88ll6sq3hwq2c3yv439pr9puguzvwn5qz8jsj3ax2p">Lassmiranda</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Lesestunde #23 - "Der freie Markt und seine Feinde", Ludwig von Mises]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/lesestunde-23-der-freie-markt-und-seine-feinde-ludwig-von-mises]]></description>
@@ -446,23 +464,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
       <podcast:person>Molo</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Besuch bei Satoshi's Bleibe - Special]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-besuch-bei-satoshis-bleibe-special]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-besuch-bei-satoshis-bleibe-special</link>
-      <guid isPermaLink="false">0adc7394-b5cc-49c5-9a0c-dd68fd03ede4</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Mon, 21 Feb 2022 16:12:59 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/47986812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-21%2F91197b42-227d-9893-6bd3-35cb80e42b15.mp3" length="54086115" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:37:33</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1645459917652-a98d7ea37120b.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="cercatrova" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="i4xaXQ68q9TobfuwPrh3" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/cercatrova-e1cddb327b5566f5fe2b0caba08bb85d.jpg" href="https://bitcoin-mentoring.me">Cerca</podcast:person>
     </item>
   </channel>
 </rss>

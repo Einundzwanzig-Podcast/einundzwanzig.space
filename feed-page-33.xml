@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/xslsheet.xml"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+  <channel>
+    <podcast:value type="lightning" method="keysend">
+      <podcast:valueRecipient name="Einundzwanzig" type="node" split="100" address="03a09f56bba3d2c200cc55eda2f1f069564a97c1fb74345e1560e2868a8ab3d7d0"></podcast:valueRecipient>
+    </podcast:value>
+    <title><![CDATA[Einundzwanzig, der Bitcoin Podcast]]></title>
+    <description><![CDATA[Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
+    <link>https://einundzwanzig.space/</link>
+    <generator>Anchor Podcasts</generator>
+    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
+    <atom:link href="https://einundzwanzig.space/feed-page-33.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
+    <atom:link href="https://einundzwanzig.space/feed-page-32.xml" rel="prev" type="application/rss+xml"></atom:link>
+    <copyright><![CDATA[Einundzwanzig]]></copyright>
+    <language><![CDATA[de]]></language>
+    <itunes:author>Einundzwanzig</itunes:author>
+    <itunes:summary>Toximalistisches Infotainment für bullishe Bitcoiner! 
+
+Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in &quot;Der Weg&quot; wie andere Leute zu Bitcoin gekommen sind.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Einundzwanzig</itunes:name>
+      <itunes:email>einundzwanzigpodcast@pm.me</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"></itunes:category>
+    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#01 - Es gibt Bitcoin, und es gibt Shitcoins]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-01-es-gibt-bitcoin-und-es-gibt-shitcoins]]></description>
+      <link>https://einundzwanzig.space/podcast/news-01-es-gibt-bitcoin-und-es-gibt-shitcoins</link>
+      <guid isPermaLink="false">90a3fb7e-25fe-982b-edc6-15198f53e544</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 21 Aug 2019 20:01:17 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/4310841/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-21%2F21435761-44100-1-b27252adfc601.mp3" length="43709474" type="audio/mpeg"></enclosure>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:duration>00:52:01</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/2173598/2173598-1596703879215-b48744e56bb17.jpg"></itunes:image>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #01">01</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
+  </channel>
+</rss>

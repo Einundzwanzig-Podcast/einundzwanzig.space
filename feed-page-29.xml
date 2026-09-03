@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 10:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-29.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-28.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,27 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#59 - Befreit die Sats!]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-59-befreit-die-sats]]></description>
+      <link>https://einundzwanzig.space/podcast/news-59-befreit-die-sats</link>
+      <guid isPermaLink="false">d73cbeef-4fe7-4c87-aab8-348ca04c7285</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Thu, 26 Nov 2020 06:05:30 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/23119708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2F93bd57c8-a16c-c03c-6c71-687d18f0f815.mp3" length="79726549" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:23:02</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #59">59</podcast:episode>
+      <podcast:value type="lightning" method="lnaddress">
+        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Gigi" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/gigi-7f02c618348cd93f19d5d71811454baa.jpg" href="https://dergigi.com">Gigi</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#58 - Das unendliche Gulasch]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-58-das-unendliche-gulasch]]></description>
@@ -385,20 +406,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
         <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="100"></podcast:valueRecipient>
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Interview #10 - Alex von Frankenberg]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/interview-10-alex-von-frankenberg]]></description>
-      <link>https://einundzwanzig.space/podcast/interview-10-alex-von-frankenberg</link>
-      <guid isPermaLink="false">5fb8d756-a4e8-4409-9a0b-03decc0aadba</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 10 Sep 2020 20:18:16 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/19394643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-10%2F1aed3f04-423c-5d84-7097-e1b9e8ae00a9.mp3" length="73353600" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:16:24</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/2173598/2173598-1599769104940-d0f26116d9057.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="Interview #10">10</podcast:episode>
     </item>
   </channel>
 </rss>
