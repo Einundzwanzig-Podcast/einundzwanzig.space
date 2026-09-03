@@ -379,17 +379,17 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
     "event": {
-      "id": 3722,
-      "start": "2026-09-02T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3722",
-      "location": "Alter Wirt Ramersdorf, Aribonenstraße 6, 81669 München",
+      "id": 3773,
+      "start": "2026-10-07T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3773",
+      "location": "Wechselnd, tba. Vorschläge willkommen!",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\n​Format: Freizeit, entspanntes gemeinsames Abhängen, in der Regel kein festes Programm, einfach spontane Gespräche\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Mittwoch, 02. September 2026, ab 18:00 Uhr lokale Zeit (CET), Blockzeit ~965.200\n\n​Ort diesmal: Alter Wirt Ramersdorf, Aribonenstraße 6, 81669 München",
-      "link": "https://luma.com/57xneg75",
-      "attendees": 1,
+      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
+      "link": "https://luma.com/t3gwsb4m",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -804,7 +804,7 @@
       "osm_address": null,
       "description": "Meetup Bad Kissingen und Umgebung!\nImmer am dritten Freitag des Monats im El Greco Reuterswiesen.\nStart um 18.21 Uhr. \nLockere Atmosphäre, ungezwungen, im seperaten Raum.\nKleine Vorträge, Workshops oder größere Veranstaltung werden hier geplant. \nBesondere Abende, wie Bitcoin PizzaDay, Bitcoin Wanderung zur Heckenwirtschaft, Bitcoin Picknick oder Weihnachtsfeier!\nKomm und sei dabei. \nJeder ist herzlich Willkommen.\nNo Coiner wie Toxic Maxi.\nBringt eure Freunde mit :)\n\nFür andere aktuelle Locations, oder mögliche Termin Verschiebungen, schaut nach dem angepinnten Beitrag in unserer Telegramm Gruppe!",
       "link": "https://t.me/einundzwanzig_BadKissingen",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1327,17 +1327,17 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
     "event": {
-      "id": 3662,
-      "start": "2026-09-02T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3662",
+      "id": 3778,
+      "start": "2026-10-07T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3778",
       "location": "Lindenhof Keulos",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier! Jeder ist willkommen 🍻",
-      "link": "https://keulos.beepworld.de/",
-      "attendees": 3,
+      "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier. Jeder ist herzlich willkommen! 😊",
+      "link": "https://keulos.beepworld.de/index.htm",
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1370,7 +1370,21 @@
     "city": "Gelnhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3779,
+      "start": "2026-09-27T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen/event/3779",
+      "location": null,
+      "osm_name": "Delizia",
+      "osm_type": "node",
+      "osm_id": 8917524247,
+      "osm_address": "Delizia, 12, Untermarkt, Gelnhausen-Mitte, Gelnhausen, Main-Kinzig-Kreis, Hessen, 63571, Deutschland",
+      "description": "7. Meetup Gelnhausen\n\nSonntag, 27.09.2026\nAb 18:00 Uhr\n\nRestaurant Delizia\nUntermarkt 12\n63571 Gelnhausen\n\nEinfach vorbei kommen, es ist keine Anmeldung erforderlich. 😃\n\nMeetup Badges können gesammelt werden.",
+      "link": "https://t.me/einundzwanzig_gelnhausen/602",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2757,7 +2771,7 @@
       "osm_address": null,
       "description": "Schwabach ist wieder an der Reihe. Wir treffen uns in der Gaststätte Wilhelm Tel.\nDie letzte Zeit ist ja viel passiert, somit gibt‘s viel zu erzählen.",
       "link": "https://www.gaststaette-wilhelm-tell.com/",
-      "attendees": 3,
+      "attendees": 5,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3444,9 +3458,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch",
     "twitter": null,
     "event": {
-      "id": 3628,
-      "start": "2026-09-02T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3628",
+      "id": 3629,
+      "start": "2026-10-07T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3629",
       "location": "Absinthbar, Schanzenstraße 99, Hamburg.",
       "osm_name": null,
       "osm_type": null,
@@ -3454,7 +3468,7 @@
       "osm_address": null,
       "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
       "link": "https://absinth-bar.com/",
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -4627,6 +4641,35 @@
     }
   },
   {
+    "name": "21Bitcoin Zypern",
+    "latLng": [
+      34.772015,
+      32.429737
+    ],
+    "url": null,
+    "city": "21 Bitcoin Zypern",
+    "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern",
+    "twitter": null,
+    "event": {
+      "id": 3777,
+      "start": "2026-09-12T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern/event/3777",
+      "location": "Muse Restaurant Paphos",
+      "osm_name": "Muse",
+      "osm_type": "way",
+      "osm_id": 206329183,
+      "osm_address": "Muse, 1, Mousalla, Έξω Βρύση, Agios Theodoros, Δήμος Πάφου, Επαρχία Πάφου, Κύπρος, 8047, Κύπρος - Kıbrıs",
+      "description": "Willkommen beim 21 Bitcoin Meetup Zypern in Paphos",
+      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoinerský oběd",
     "latLng": [
       50.087811,
@@ -4636,21 +4679,7 @@
     "city": "Prag",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/bitcoinersky-obed",
     "twitter": null,
-    "event": {
-      "id": 3776,
-      "start": "2026-09-03T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/bitcoinersky-obed/event/3776",
-      "location": null,
-      "osm_name": "Zlaté Sele",
-      "osm_type": "node",
-      "osm_id": 1392150444,
-      "osm_address": "Zlaté Sele, 40/1, Na Proseku, Prosek, Praha 9, obvod Praha 9, Praha, 190 00, Česko",
-      "description": "pravidelný bitcoinerský oběd",
-      "link": "https://jdetedoprd.ele",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
