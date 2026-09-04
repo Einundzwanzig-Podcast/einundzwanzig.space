@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:48:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-6.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-5.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#278 - Zollundzwanzig]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-278-zollundzwanzig]]></description>
+      <link>https://einundzwanzig.space/podcast/news-278-zollundzwanzig</link>
+      <guid isPermaLink="false">43696a38-7bae-48ff-b2b9-438a8dd19499</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 09 Apr 2025 20:42:08 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/101079150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-9%2F030cb5db-dcbc-557e-055b-aea2097e4497.mp3" length="78991485" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>01:08:15</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #278">278</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#277 - Wir schreiben Geschichte]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-277-wir-schreiben-geschichte]]></description>
@@ -441,29 +459,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/quillie-3ef54a72c7c03c06213c2bda00b7ff42.jpg" href="https://njump.me/npub1dskk3wspds53g9larr48cp4hxlkpg0ma2mtclh2y5key3pr9yhkqjvjuc2">Quillie</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/manu-148e81e8a364b48d0fed41c61c83e68a.jpg" href="https://njump.me/npub1rnvr3w3n24eysawq3upwssv3c5vg6sy5zj6wapv7asetj7l2enhs8usa5v">Manu</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[Start9 - Special]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-start9-special]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-start9-special</link>
-      <guid isPermaLink="false">cb1cdd9b-e740-4458-88b6-f77cc23c5390</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Thu, 09 Jan 2025 21:31:34 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/96832560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-9%2Fc838d62e-6926-4145-57f2-c6853f7293e0.mp3" length="67115877" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:29:52</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1736457732786-741b4a4c6c6fb.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:value type="lightning" method="lnaddress">
-        <podcast:valueRecipient name="Dennis" address="v4v@d11n.net" type="lnaddress" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Gambler" address="030a58b8653d32b99200a2334cfe913e51dc7d155aa0116c176657a4f1722677a3" customKey="696969" customValue="V1OvXEGj8Dn2pbLtGaog" type="node" split="25"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Ben" address="02b1278809d2853516d30b9af8d7bb3b1845d1beeed18ee22a9ccaddfe7f30a794" type="node" split="25"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/dennis-81c62e50422b680306fb23d30b139719.jpg" href="https://d11n.net">Dennis</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/gmblr247-3db80ee31d38936ddef69ccf63be5f31.jpg" href="https://njump.me/npub10t8npnmqhpwx9w8k232kess7gqtdlr6kqjemdzf8jnughwqd0gwsez0924">Gambler</podcast:person>
-      <podcast:person img="https://einundzwanzig.space/img/participants/ben-56f9da1f0b481f76196ee23b210eb99e.jpg" href="https://njump.me/npub1nkvn9xl8pzklk24777uvzlxvsuzn9hvhuuqjlmfce9h2xxkvutusxl5a52">Ben</podcast:person>
     </item>
   </channel>
 </rss>

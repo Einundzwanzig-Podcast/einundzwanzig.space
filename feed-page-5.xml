@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 13:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:48:30 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-5.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed-page-4.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,24 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[#123 - Privatsphäre und leben mit Bitcoin Teil1]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-123-privatsphaere-und-leben-mit-bitcoin-teil1]]></description>
+      <link>https://einundzwanzig.space/podcast/news-123-privatsphaere-und-leben-mit-bitcoin-teil1</link>
+      <guid isPermaLink="false">82453d66-2928-4f4b-a3dc-0f5cbfee39b2</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Wed, 13 Aug 2025 11:33:32 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/106813149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-13%2Fc940d990-3155-01d8-adca-d8e2cc47b28d.mp3" length="28653229" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:34:06</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="News #123">123</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
+    </item>
     <item>
       <title><![CDATA[#292 - Markus gibt den Löffel ab]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-292-markus-gibt-den-loeffel-ab]]></description>
@@ -419,24 +437,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[#278 - Zollundzwanzig]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/news-278-zollundzwanzig]]></description>
-      <link>https://einundzwanzig.space/podcast/news-278-zollundzwanzig</link>
-      <guid isPermaLink="false">43696a38-7bae-48ff-b2b9-438a8dd19499</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Wed, 09 Apr 2025 20:42:08 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/101079150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-9%2F030cb5db-dcbc-557e-055b-aea2097e4497.mp3" length="78991485" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>01:08:15</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:episode display="News #278">278</podcast:episode>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Markus" address="03a7ffe8a38b8670f8ffccf45789b8f3e4f8acb5651e0f7389e70ed84043166be0" customKey="696969" customValue="1" type="node" split="100"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/markus-8c913dc022bceb0508edf3ddb4f7523d.jpg" href="https://njump.me/npub17fqtu2mgf7zueq2kdusgzwr2lqwhgfl2scjsez77ddag2qx8vxaq3vnr8y">Markus</podcast:person>
     </item>
   </channel>
 </rss>
