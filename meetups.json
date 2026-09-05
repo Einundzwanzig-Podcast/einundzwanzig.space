@@ -497,9 +497,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2698,
-      "start": "2026-09-05T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2698",
+      "id": 2699,
+      "start": "2026-09-12T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2699",
       "location": "Hamburg Stadtpark am Planetarium",
       "osm_name": null,
       "osm_type": null,
@@ -526,9 +526,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2873,
-      "start": "2026-09-05T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2873",
+      "id": 2884,
+      "start": "2026-09-19T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2884",
       "location": "Siehe Gruppe",
       "osm_name": null,
       "osm_type": null,
@@ -2255,7 +2255,21 @@
     "city": "Niederrhein",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3853,
+      "start": "2026-09-11T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/niederrhein-einundzwanzig-meetups/event/3853",
+      "location": "Wesel",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Location wird in der Telegran Gruppe angegeben.",
+      "link": null,
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -5398,7 +5412,7 @@
       "id": 3780,
       "start": "2026-09-16T23:00:00.000000Z",
       "portalLink": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup/event/3780",
-      "location": "Union Jack Pub, 921 Broad Ripple Avenue, Indianapolis, IN 46220",
+      "location": null,
       "osm_name": "Union Jack Pub",
       "osm_type": "node",
       "osm_id": 10642155292,
