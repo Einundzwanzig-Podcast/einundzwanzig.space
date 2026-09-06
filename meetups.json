@@ -985,7 +985,21 @@
     "city": "Brühl",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3855,
+      "start": "2026-09-10T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bruehl/event/3855",
+      "location": "Brühler Wirtshaus (Parkplatz am Bahnhof vorhanden)",
+      "osm_name": "Brühler Wirtshaus",
+      "osm_type": "way",
+      "osm_id": 1180920431,
+      "osm_address": "Brühler Wirtshaus, Max-Ernst-Allee, Vochem, Brühl, Rhein-Erft-Kreis, Nordrhein-Westfalen, 50321, Deutschland",
+      "description": "Jeden zweiten Donnerstag im Monat treffen wir uns zum regulären Bitcoin-Meetup im Brühler Wirtshaus. Kommt vorbei, ins Gespräch und gestaltet die dezentrale Bewegung mit.",
+      "link": "https://t.me/+LgkAcZaB7dBkZjJi",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1899,7 +1913,21 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 3854,
+      "start": "2026-09-21T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3854",
+      "location": "Landau",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2212,9 +2240,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "id": 2605,
-      "start": "2026-09-05T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2605",
+      "id": 2606,
+      "start": "2026-10-03T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2606",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "osm_name": null,
       "osm_type": null,
@@ -2832,7 +2860,21 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3856,
+      "start": "2026-09-18T16:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/3856",
+      "location": "Gasthof zum Goldenen Apfel in Rottweil",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "goldenerapfel-rottweil.de",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4771,7 +4813,7 @@
     }
   },
   {
-    "name": "♠️ 21 HODL'em Poker [🟢ONLINE]",
+    "name": "♠️ 21 HODL'em Poker",
     "latLng": [
       50.087811,
       14.42046
