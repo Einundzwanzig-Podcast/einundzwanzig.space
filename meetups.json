@@ -1029,7 +1029,21 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3859,
+      "start": "2026-09-13T08:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3859",
+      "location": "https://maps.app.goo.gl/RyWGB8e5xApv5tU6A",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Gemeinsame Wanderung im Bayrischen Wald. Wird be schlechtem Wetter abgesagt. Gern in die Telegramm Gruppe kommen für Details. Reine Wanderzeit ca 4 Std. Einkehr zur Stärkung ist geplant. Wir freuen uns auf euer kommen.",
+      "link": "https://t.me/BitcoinMeetupCham",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1138,6 +1152,35 @@
     }
   },
   {
+    "name": "Einundzwanzig Düsseldorf Meetup",
+    "latLng": [
+      51.2254018,
+      6.7763137
+    ],
+    "url": "https://t.me/einundzwanzig_duesseldorf",
+    "city": "Düsseldorf",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
+    "twitter": null,
+    "event": {
+      "id": 3860,
+      "start": "2026-09-11T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3860",
+      "location": "wird noch abgestimmt in der TG Gruppe",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": null,
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-accent)"
+    }
+  },
+  {
     "name": "Einundzwanzig Elbe-Elster",
     "latLng": [
       51.6273649,
@@ -1221,7 +1264,21 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3858,
+      "start": "2026-09-09T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen/event/3858",
+      "location": "Essen Rüttenscheid",
+      "osm_name": "Rüttenscheid",
+      "osm_type": "relation",
+      "osm_id": 3201278,
+      "osm_address": "Rüttenscheid, Stadtbezirk II, Essen, Nordrhein-Westfalen, Deutschland",
+      "description": "Bitcoin Stammtisch. Genauer Treffpunkt wird noch abgestimmt.",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1764,7 +1821,7 @@
       "osm_address": null,
       "description": null,
       "link": "https://fosters-garden.de",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -2122,35 +2179,6 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-altoetting",
     "twitter": null,
     "event": null,
-    "style": {
-      "fill": "var(--color-accent)"
-    }
-  },
-  {
-    "name": "Einundzwanzig Meetup Düsseldorf",
-    "latLng": [
-      51.2254018,
-      6.7763137
-    ],
-    "url": "https://t.me/einundzwanzig_duesseldorf",
-    "city": "Düsseldorf",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf",
-    "twitter": null,
-    "event": {
-      "id": 3752,
-      "start": "2026-09-23T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3752",
-      "location": "Monatlich wechselnd (Abstimmung in Telegramm)",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Lockeres Meetup - Bitcoin only. Jeder ist willkommen der sich für Technik, Ökonomie oder sonstige Themen rund um Bitcoin interessiert. Neulinge sind ebenfalls willkommen. Voraussetzung: Gute Stimmung und Spass.\n\n\n(Keine Finanzberatung, keine Politik, keine Shitcoins)",
-      "link": "https://t.me/einundzwanzig_duesseldorf",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2813,7 +2841,7 @@
       "osm_address": null,
       "description": "Schwabach ist wieder an der Reihe. Wir treffen uns in der Gaststätte Wilhelm Tel.\nDie letzte Zeit ist ja viel passiert, somit gibt‘s viel zu erzählen.",
       "link": "https://www.gaststaette-wilhelm-tell.com/",
-      "attendees": 6,
+      "attendees": 7,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3632,7 +3660,21 @@
     "city": "Wuppertal",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/orange-lounge",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3857,
+      "start": "2026-09-25T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/orange-lounge/event/3857",
+      "location": "Lise-Meitner-Straße 1-3, 42119 Wuppertal",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "aktuelle Themen. Bitcoin, KI, Technik, Smalltalk usw.",
+      "link": "https://members.orangelounge.io/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
