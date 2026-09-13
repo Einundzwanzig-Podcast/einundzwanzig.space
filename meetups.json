@@ -1015,21 +1015,7 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": {
-      "id": 3859,
-      "start": "2026-09-13T08:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3859",
-      "location": "https://maps.app.goo.gl/RyWGB8e5xApv5tU6A",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Gemeinsame Wanderung im Bayrischen Wald. Wird be schlechtem Wetter abgesagt. Gern in die Telegramm Gruppe kommen für Details. Reine Wanderzeit ca 4 Std. Einkehr zur Stärkung ist geplant. Wir freuen uns auf euer kommen.",
-      "link": "https://t.me/BitcoinMeetupCham",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1277,7 +1263,7 @@
       "osm_address": "Cafe Esspress, 33, Austraße, Haingebiet, Inselstadt, Bamberg, Bayern, 96047, Deutschland",
       "description": "Cafe Esspress\nAustraße 33\n96047 Bamberg\n\nnächste Parkhäuser: Karstadt Tiefgarage, Parkhaus Löwenbrücke",
       "link": "https://share.google/WPKs4TY9AHAfESvy1",
-      "attendees": 5,
+      "attendees": 9,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -1779,7 +1765,7 @@
       "osm_address": null,
       "description": null,
       "link": "https://fosters-garden.de",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_note": ""
     },
@@ -3205,21 +3191,7 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": {
-      "id": 3732,
-      "start": "2026-09-12T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3732",
-      "location": "Ente in Zurlauben",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Bei diesem Meetup müsst ihr dabei sein. Es wird das letzte Meetup in der Ente sein, da sie danach schließen. Also kommt rum, habt Spaß und ihr könnt natürlich in Sats zahlen.\n\nRein Zufällig wird unser Meetup 4 Jahre alt🔥\n#PlebsTogetherStrong",
-      "link": null,
-      "attendees": null,
-      "might_attendees": null,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4022,16 +3994,16 @@
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz",
     "twitter": "Einundzwanzig_L",
     "event": {
-      "id": 3850,
-      "start": "2026-09-12T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3850",
+      "id": 3851,
+      "start": "2026-10-01T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3851",
       "location": "bar21, Linz",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Zusammenkommen, austauschen, Bitcoin leben – unser Sommerfest ist der entspannte Ausklang der warmen Monate. Kalte Getränke, gute Gespräche und die ganze Community an einem Tisch. Offen für alle – Einsteiger herzlich willkommen!",
-      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/12-september-sommerfest/",
+      "description": "Was an diesem Abend passiert, steht noch nicht fest – und das ist Absicht. Vielleicht ein Vortrag, vielleicht eine Diskussion über Lightning, Nostr oder Mining, vielleicht einfach nur ein Bier. Sicher ist: gute Gespräche unter Menschen, die Bitcoin verstehen wollen. Kein Vorwissen notwendig – offen für alle.",
+      "link": "https://www.bitcoin-club-linz.at/veranstaltungen/01-oktober-vl/",
       "attendees": 1,
       "might_attendees": 0,
       "nostr_note": ""
@@ -4707,21 +4679,7 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern",
     "twitter": null,
-    "event": {
-      "id": 3777,
-      "start": "2026-09-12T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern/event/3777",
-      "location": "Muse Restaurant Paphos",
-      "osm_name": "Muse",
-      "osm_type": "way",
-      "osm_id": 206329183,
-      "osm_address": "Muse, 1, Mousalla, Έξω Βρύση, Agios Theodoros, Δήμος Πάφου, Επαρχία Πάφου, Κύπρος, 8047, Κύπρος - Kıbrıs",
-      "description": "Willkommen beim 21 Bitcoin Meetup Zypern in Paphos",
-      "link": "https://portal.einundzwanzig.space/de/meetup/21-bitcoin-meetup-zypern/event/2591",
-      "attendees": 3,
-      "might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
