@@ -1287,17 +1287,17 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken",
     "twitter": "einundzwanzigFR",
     "event": {
-      "id": 2824,
-      "start": "2026-09-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2824",
-      "location": "Bamberg",
-      "osm_name": "Cafe Esspress",
-      "osm_type": "node",
-      "osm_id": 771212876,
-      "osm_address": "Cafe Esspress, 33, Austraße, Haingebiet, Inselstadt, Bamberg, Bayern, 96047, Deutschland",
-      "description": "Cafe Esspress\nAustraße 33\n96047 Bamberg\n\nnächste Parkhäuser: Karstadt Tiefgarage, Parkhaus Löwenbrücke",
-      "link": "https://share.google/WPKs4TY9AHAfESvy1",
-      "attendees": 17,
+      "id": 2826,
+      "start": "2026-10-24T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2826",
+      "location": "Nürnberg, Dornauers Lebküchnerei & Chocolaterie ⚡️",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Dornauers Lebküchnerei & Chocolaterie ⚡️\ntbd",
+      "link": "https://dornauers.de/",
+      "attendees": 1,
       "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1683,9 +1683,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald",
     "twitter": null,
     "event": {
-      "id": 3177,
-      "start": "2026-09-26T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3177",
+      "id": 3178,
+      "start": "2026-10-24T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3178",
       "location": "Wird im Telegram-Kanal bekannt gegeben",
       "osm_name": null,
       "osm_type": null,
@@ -1759,23 +1759,7 @@
     "city": "Ingolstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt",
     "twitter": "EinundzwanzigIN",
-    "event": {
-      "id": 3890,
-      "start": "2026-09-27T11:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ingolstadt/event/3890",
-      "location": "Der Eingang befindet sich auf der Seeseite",
-      "osm_name": "Seehaus",
-      "osm_type": "node",
-      "osm_id": 295609667,
-      "osm_address": "Seehaus, 2, Mitterschüttweg, Antoniusschwaige, Probierlweg, Mitte, Ingolstadt, Bayern, 85049, Deutschland",
-      "description": "Viele Blöcke sind in diesem Sommer vergangen – Zeit, noch einmal zurückzublicken und den Sommer gemeinsam ausklingen zu lassen.\n\nWir treffen uns im Seehaus am Baggersee bei mediterranem Essen, schönem Blick auf den See und hoffentlich gutem Wetter. Wie immer ist Zeit für Gespräche rund um Bitcoin und alles, was uns sonst bewegt.\n\nWer danach noch Lust hat, kann sich einem gemeinsamen Spaziergang am See anschließen.",
-      "link": "https://seehausingolstadt.de",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2079,7 +2063,23 @@
     "city": "Lübeck",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 3912,
+      "start": "2026-10-29T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck/event/3912",
+      "location": "Ohana, Hüxstr",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2611,7 +2611,23 @@
     "city": "Pfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3911,
+      "start": "2026-10-15T15:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/3911",
+      "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern Kaiserslautern",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Bitcoin Only Bro, steht im Portfolio...\n.... ich hab FOMO",
+      "link": "https://t.me/einundzwanzigPfalz",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4170,23 +4186,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3745,
-      "start": "2026-09-26T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3745",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 26.09.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
