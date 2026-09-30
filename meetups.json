@@ -233,7 +233,7 @@
       "osm_address": null,
       "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website....",
       "link": "https://bitcoin-dresden.de/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1206,7 +1206,7 @@
       "osm_address": null,
       "description": "Meetup (Location wird in der Telegramgruppe immer aktuell bekannt gegeben.)",
       "link": "https://t.me/+dHocs392vNJhY2Yy",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -2606,7 +2606,7 @@
       "osm_address": null,
       "description": "Bitcoin Only Bro, steht im Portfolio...\n.... ich hab FOMO",
       "link": "https://t.me/einundzwanzigPfalz",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -4763,21 +4763,6 @@
     }
   },
   {
-    "name": "BTC MEET-UP",
-    "latLng": [
-      50.6406644,
-      13.8244461
-    ],
-    "url": null,
-    "city": "Teplice",
-    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/btc-meet-up",
-    "twitter": "@TomBures81",
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "Bitcoinerský oběd",
     "latLng": [
       50.087811,
@@ -4912,6 +4897,21 @@
       "nostr_might_attendees": null,
       "nostr_note": ""
     },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Jednadvacet Teplice",
+    "latLng": [
+      50.6406644,
+      13.8244461
+    ],
+    "url": null,
+    "city": "Teplice",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/btc-meet-up",
+    "twitter": "@TomBures81",
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
