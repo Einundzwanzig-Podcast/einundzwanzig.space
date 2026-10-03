@@ -512,23 +512,7 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg",
     "twitter": null,
-    "event": {
-      "id": 3917,
-      "start": "2026-10-03T08:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg/event/3917",
-      "location": null,
-      "osm_name": "Schwarze Kiste",
-      "osm_type": "node",
-      "osm_id": 5939751062,
-      "osm_address": "Schwarze Kiste, 106b, Oberländer Straße, Hochzoll Süd, Hochzoll-Süd, Hochzoll, Augsburg, Bayern, 86163, Deutschland",
-      "description": "Wir treffen uns am Hochablass und laufen dann am Kuhsee und Siebentischwald solange es Spaß macht.",
-      "link": null,
-      "attendees": 5,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -544,9 +528,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg",
     "twitter": null,
     "event": {
-      "id": 2702,
-      "start": "2026-10-03T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2702",
+      "id": 2703,
+      "start": "2026-10-10T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2703",
       "location": "Hamburg Stadtpark am Planetarium",
       "osm_name": null,
       "osm_type": null,
@@ -575,9 +559,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover",
     "twitter": null,
     "event": {
-      "id": 2874,
-      "start": "2026-10-03T10:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2874",
+      "id": 2885,
+      "start": "2026-10-17T10:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2885",
       "location": "Siehe Gruppe",
       "osm_name": null,
       "osm_type": null,
@@ -1557,7 +1541,7 @@
       "osm_address": null,
       "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
       "link": "https://absinth-bar.com/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3324,7 +3308,23 @@
     "city": "Trier",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier",
     "twitter": "EinundzwanzigTR",
-    "event": null,
+    "event": {
+      "id": 3920,
+      "start": "2026-10-16T16:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3920",
+      "location": "Der Ort wird auf Signal bekannt gegeben",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Das nächste Meetup ist am 16.10 ab 18 Uhr. Allerdings steht die Location noch nicht fest. Solltet ihr kommen wollen, könnt ihr gerne hier zusagen oder alternativ auf Signal wo ich (Sirius) den Ort bekannt gebe.",
+      "link": null,
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_attendees": null,
+      "nostr_might_attendees": null,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
