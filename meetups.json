@@ -1989,7 +1989,23 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 3922,
+      "start": "2026-10-26T17:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3922",
+      "location": "Landau",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": null,
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2151,8 +2167,8 @@
       "osm_address": null,
       "description": "Wir treffen uns jeden 3. Freitag im Monat um 19 Uhr in wechselnden Locations, über die wir per Telegram und Signal mitteilen.",
       "link": "https://t.me/Einundzwanzig_MANNHEIM",
-      "attendees": 2,
-      "might_attendees": 0,
+      "attendees": 3,
+      "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
@@ -2309,9 +2325,9 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster",
     "twitter": "einundzwanzigMS",
     "event": {
-      "id": 2606,
-      "start": "2026-10-03T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2606",
+      "id": 2607,
+      "start": "2026-11-07T18:00:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2607",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "osm_name": null,
       "osm_type": null,
@@ -4958,7 +4974,23 @@
     "city": "Teplice",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/btc-meet-up",
     "twitter": "@TomBures81",
-    "event": null,
+    "event": {
+      "id": 3921,
+      "start": "2026-11-17T15:30:00.000000Z",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/btc-meet-up/event/3921",
+      "location": "Metropole Teplice",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Na programu bude 1. kolo BTC LIGY - nová soutěž o ceny formou kvízu jak pro nováčky, tak i pro pokročilé. \nDále bude také na programu dobrovolná soutěž závody motokár a pokud zbyde síla tak i bowling.\nPokec nejenom na bitcoinovová témata v přátelské a uvolněné atmosféře je samozřejmostí.\n\nPřijďte mezi nás. Budeme se těšit. Prosím přidejte se do skupiny Signal a potvrďte svoji účast. \n\nhttps://jednadvacet.org/liga",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
