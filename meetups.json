@@ -72,6 +72,7 @@
     "event": {
       "id": 3140,
       "start": "2026-10-29T17:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3140",
       "location": "Bürgerhaus Neumarkt Fischergasse 1 92318 Neumarkt in der Oberpfalz",
       "osm_name": null,
@@ -103,6 +104,7 @@
     "event": {
       "id": 2986,
       "start": "2026-10-21T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2986",
       "location": "Mainaschaff",
       "osm_name": null,
@@ -179,6 +181,7 @@
     "event": {
       "id": 2637,
       "start": "2026-10-21T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-berlin/event/2637",
       "location": "Café Holzmarktperle",
       "osm_name": null,
@@ -225,6 +228,7 @@
     "event": {
       "id": 3729,
       "start": "2026-10-08T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3729",
       "location": "Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden",
       "osm_name": null,
@@ -233,7 +237,7 @@
       "osm_address": null,
       "description": "Wir treffen uns regelmäßig im Fährgarten; Änderungen sind zeitnah in der Gruppe und auf der Website....",
       "link": "https://bitcoin-dresden.de/",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -316,6 +320,7 @@
     "event": {
       "id": 3171,
       "start": "2026-10-16T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-jever/event/3171",
       "location": "La Vie, Alter Markt 2 26441 Jever",
       "osm_name": null,
@@ -362,6 +367,7 @@
     "event": {
       "id": 3878,
       "start": "2026-10-21T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-meetup-schwerin-einundzwanzig/event/3878",
       "location": "Regelmäßig treffen wir uns an jedem 3. Mittwoch im Monat in der Unity-Bar, um 19 Uhr. Diese befindet sich in der Arsenalstraße 36 und trägt den passenden Namen \"Rumbar Unity\".",
       "osm_name": "Rumbar",
@@ -390,23 +396,7 @@
     "city": "München (80807)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen",
     "twitter": "bitcoinmuc",
-    "event": {
-      "id": 3773,
-      "start": "2026-10-07T16:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-muenchen/event/3773",
-      "location": "Wechselnd, tba. Vorschläge willkommen!",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Willkommen beim ersten und originalen Stammtisch der Münchner Bitcoin-Enthusiasten! Jeden ersten Mittwoch im Monat trifft sich ab 18 Uhr die regionale Szene in wechselnden Lokalitäten zur zwanglosen Plauderei über die technologischen, ökonomischen und gesellschaftlichen Aspekte von Bitcoin.\n\nErwartete Anzahl Besucher: 20-30\n\nWann: Jeder erster Mittwoch im Monat ab 18 Uhr\n\n​Ort diesmal: Wechselnd, tba. Vorschläge willkommen!",
-      "link": "https://luma.com/t3gwsb4m",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -439,6 +429,7 @@
     "event": {
       "id": 3574,
       "start": "2026-10-10T08:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-walk-koeln/event/3574",
       "location": "Clarenbachstr 2, 50931 Lindenthal",
       "osm_name": null,
@@ -530,6 +521,7 @@
     "event": {
       "id": 2703,
       "start": "2026-10-10T10:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hamburg/event/2703",
       "location": "Hamburg Stadtpark am Planetarium",
       "osm_name": null,
@@ -561,6 +553,7 @@
     "event": {
       "id": 2885,
       "start": "2026-10-17T10:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-hannover/event/2885",
       "location": "Siehe Gruppe",
       "osm_name": null,
@@ -772,6 +765,7 @@
     "event": {
       "id": 3029,
       "start": "2026-10-16T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-augsburg/event/3029",
       "location": "Augsburg",
       "osm_name": null,
@@ -833,6 +827,7 @@
     "event": {
       "id": 3356,
       "start": "2026-10-16T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bad-kissingen/event/3356",
       "location": "El Greco Reiterswiesen Bad Kissingen",
       "osm_name": null,
@@ -939,6 +934,7 @@
     "event": {
       "id": 3230,
       "start": "2026-11-05T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bonn/event/3230",
       "location": "The 9th, Sandkaule 9-11, 53111 Bonn (bei gutem Wetter an der Garage auf der Rückseite des Gebäudes",
       "osm_name": null,
@@ -985,6 +981,7 @@
     "event": {
       "id": 3546,
       "start": "2026-10-15T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-bremen/event/3546",
       "location": "...siehe TG oder SIGNAL !",
       "osm_name": null,
@@ -1076,6 +1073,7 @@
     "event": {
       "id": 3347,
       "start": "2026-10-08T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cottbus-bitcoin-stammtisch/event/3347",
       "location": "RK Endspurt 1909 Cottbus e.V. Dresdener Str. 18 03050 Cottbus",
       "osm_name": null,
@@ -1134,23 +1132,7 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": {
-      "id": 3918,
-      "start": "2026-10-07T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/3918",
-      "location": "Reisbach Yushu",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Am Mittwoch  7. Oktober ab 18:30 findet der 20. Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Yushu statt.  Mehr Infos in der Telegram Gruppe",
-      "link": null,
-      "attendees": null,
-      "might_attendees": null,
-      "nostr_attendees": null,
-      "nostr_might_attendees": null,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1183,6 +1165,7 @@
     "event": {
       "id": 3753,
       "start": "2026-10-28T18:00:00.000000Z",
+      "title": "",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-meetup-duesseldorf/event/3753",
       "location": "Monatlich wechselnd (Abstimmung in Telegramm)",
       "osm_name": null,
@@ -1229,6 +1212,7 @@
     "event": {
       "id": 2765,
       "start": "2026-11-06T17:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ellwangen/event/2765",
       "location": "Ellwangen",
       "osm_name": null,
@@ -1320,6 +1304,7 @@
     "event": {
       "id": 2826,
       "start": "2026-10-24T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-franken/event/2826",
       "location": "Nürnberg, Dornauers Lebküchnerei & Chocolaterie ⚡️",
       "osm_name": null,
@@ -1409,17 +1394,18 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda",
     "twitter": "einundzwanzigFD",
     "event": {
-      "id": 3778,
-      "start": "2026-10-07T16:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3778",
+      "id": 3929,
+      "start": "2026-11-04T17:30:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-fulda/event/3929",
       "location": "Lindenhof Keulos",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Gemütliches Beisammensein bei gut bürgerlichem Essen und leckerem Bier. Jeder ist herzlich willkommen! 😊",
-      "link": "https://keulos.beepworld.de/index.htm",
-      "attendees": 2,
+      "description": "Gemütliches Beisammensein in lockerer Runde. Mittwoch ist Schnitzeltag! 😃",
+      "link": "https://keulos.beepworld.de/",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1517,13 +1503,14 @@
     "event": {
       "id": 3079,
       "start": "2026-10-29T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3079",
-      "location": "Sternschanze, Absinth-Bar",
+      "location": "Hamburg",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Absinth Bar\nSchanzenstraße 99\n20357 Hamburg",
+      "description": "Wo wir uns zukünftig treffen? Das wissen wir so in two weeks :-)",
       "link": "https://absinth-bar.com/",
       "attendees": 1,
       "might_attendees": 0,
@@ -1563,6 +1550,7 @@
     "event": {
       "id": 2928,
       "start": "2026-10-28T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hannover/event/2928",
       "location": "Haltenhoffstr. 50, 30167 Hannover",
       "osm_name": null,
@@ -1609,6 +1597,7 @@
     "event": {
       "id": 3924,
       "start": "2026-10-17T15:00:00.000000Z",
+      "title": "Meetup in der Waldgaststätte Jägerhaus",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-heilbronn/event/3924",
       "location": null,
       "osm_name": "Waldgaststätte Jägerhaus",
@@ -1685,6 +1674,7 @@
     "event": {
       "id": 3152,
       "start": "2026-10-16T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hildesheim/event/3152",
       "location": "Restaurant Gleich am Phönixgelände",
       "osm_name": null,
@@ -1716,6 +1706,7 @@
     "event": {
       "id": 3178,
       "start": "2026-10-24T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochschwarzwald/event/3178",
       "location": "Wird im Telegram-Kanal bekannt gegeben",
       "osm_name": null,
@@ -1747,6 +1738,7 @@
     "event": {
       "id": 3665,
       "start": "2026-10-13T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis/event/3665",
       "location": "Bembel & Gretel, Marktpl. 7, 61250 Usingen",
       "osm_name": null,
@@ -1853,6 +1845,7 @@
     "event": {
       "id": 3769,
       "start": "2026-10-10T17:00:00.000000Z",
+      "title": "Demografie und Fiat",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3769",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kemtpen",
       "osm_name": null,
@@ -1899,6 +1892,7 @@
     "event": {
       "id": 3599,
       "start": "2026-10-21T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koblenz/event/3599",
       "location": "Abwechselde Location",
       "osm_name": null,
@@ -1930,6 +1924,7 @@
     "event": {
       "id": 3440,
       "start": "2026-10-30T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-konstanz/event/3440",
       "location": "Wird in Telegram bekannt gegeben",
       "osm_name": null,
@@ -1961,6 +1956,7 @@
     "event": {
       "id": 3098,
       "start": "2026-10-21T17:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-koeln/event/3098",
       "location": "entweder Potpourri, Mauenheimer Str. 92, 50733 Köln oder Markthalle Körnerstraße, Körnerstraße 21, 50823 Köln, siehe Telegram-Gruppe",
       "osm_name": null,
@@ -1992,6 +1988,7 @@
     "event": {
       "id": 3922,
       "start": "2026-10-26T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/3922",
       "location": "Landau",
       "osm_name": null,
@@ -2113,6 +2110,7 @@
     "event": {
       "id": 3912,
       "start": "2026-10-29T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck/event/3912",
       "location": "Ohana, Hüxstr",
       "osm_name": null,
@@ -2159,6 +2157,7 @@
     "event": {
       "id": 3632,
       "start": "2026-10-16T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-mannheim/event/3632",
       "location": "Wirtshaus Münzplatz Q6,6",
       "osm_name": null,
@@ -2250,6 +2249,7 @@
     "event": {
       "id": 3199,
       "start": "2026-11-05T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-moers/event/3199",
       "location": "wird in der Telegram Gruppe bekanntgegeben",
       "osm_name": null,
@@ -2296,6 +2296,7 @@
     "event": {
       "id": 3887,
       "start": "2026-10-17T16:00:00.000000Z",
+      "title": "Bitcoin Meetup",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muehldorf-am-inn/event/3887",
       "location": "Hammerwirt Hammer 2, 84453 Mühldorf",
       "osm_name": "2",
@@ -2327,6 +2328,7 @@
     "event": {
       "id": 2607,
       "start": "2026-11-07T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-muenster/event/2607",
       "location": "Wird in der Telegram Gruppe bekannt gegeben",
       "osm_name": null,
@@ -2358,6 +2360,7 @@
     "event": {
       "id": 3927,
       "start": "2026-12-12T12:21:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg/event/3927",
       "location": "Wasserski-Seilbahn Neubrandenburg",
       "osm_name": null,
@@ -2464,6 +2467,7 @@
     "event": {
       "id": 3657,
       "start": "2026-10-16T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-owl/event/3657",
       "location": "Bielefeld, Entrada",
       "osm_name": null,
@@ -2540,6 +2544,7 @@
     "event": {
       "id": 3164,
       "start": "2026-11-06T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3164",
       "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
       "osm_name": null,
@@ -2616,6 +2621,7 @@
     "event": {
       "id": 3245,
       "start": "2026-10-12T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3245",
       "location": "Mühle Altlandsberg",
       "osm_name": null,
@@ -2677,6 +2683,7 @@
     "event": {
       "id": 3911,
       "start": "2026-10-15T15:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/3911",
       "location": "Wurst-Küch, Wilhelmstraße 29, 67655 Kaiserslautern Kaiserslautern",
       "osm_name": null,
@@ -2753,6 +2760,7 @@
     "event": {
       "id": 3413,
       "start": "2026-10-19T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3413",
       "location": "Restaurant Nonna di Mia (Markt 3, 45657 Recklinghausen)",
       "osm_name": null,
@@ -2781,7 +2789,24 @@
     "city": "Regensburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg",
     "twitter": "EinundzwanzigRg",
-    "event": null,
+    "event": {
+      "id": 3928,
+      "start": "2026-11-08T10:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-regensburg/event/3928",
+      "location": "Gasthof Parzefall, Obertraublinger Str. 54, 93055 Regensburg-Burgweinting",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Immer am ERSTEN Sonntag im Monat, trifft sich die Gruppe EINUNDZWANZIG Regensburg und tauscht sich gemütlich über das Thema Bitcoin aus. Egal ob Anfänger oder Fortgeschrittener, jeder ist herzlich willkommen.",
+      "link": "https://www.bitcoin-regensburg.de",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2904,6 +2929,7 @@
     "event": {
       "id": 2781,
       "start": "2026-10-08T17:00:00.000000Z",
+      "title": "Gemütliches beisammen sein mit viel direkten Austausch.",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2781",
       "location": "Roth",
       "osm_name": "Die Bar im Löwenkeller",
@@ -2913,7 +2939,7 @@
       "description": "Wir treffen uns im Löwenkeller in Roth. Ab 19:00",
       "link": "http://www.loewenkeller-roth.de/",
       "attendees": 5,
-      "might_attendees": 1,
+      "might_attendees": 2,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
@@ -2935,6 +2961,7 @@
     "event": {
       "id": 2793,
       "start": "2026-10-16T16:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rothenburg-ob-der-tauber/event/2793",
       "location": "wird in Telegram Gruppe bekannt gegeben",
       "osm_name": null,
@@ -3251,6 +3278,7 @@
     "event": {
       "id": 2808,
       "start": "2026-10-08T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-stormarn/event/2808",
       "location": "RamRob Ahrensburg",
       "osm_name": null,
@@ -3312,6 +3340,7 @@
     "event": {
       "id": 3869,
       "start": "2026-10-09T15:00:00.000000Z",
+      "title": "Bitcoin verstehen. Wissen teilen. Menschen treffen.",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-suedniedersachsen/event/3869",
       "location": "Dinx Diner",
       "osm_name": null,
@@ -3343,6 +3372,7 @@
     "event": {
       "id": 3920,
       "start": "2026-10-16T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-trier/event/3920",
       "location": "Der Ort wird auf Signal bekannt gegeben",
       "osm_name": null,
@@ -3479,6 +3509,7 @@
     "event": {
       "id": 3446,
       "start": "2026-10-15T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-westmuensterland/event/3446",
       "location": "Adresse Roseweiss, Zur Synagoge 2 48691 Vreden",
       "osm_name": null,
@@ -3510,6 +3541,7 @@
     "event": {
       "id": 2731,
       "start": "2026-10-26T17:30:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2731",
       "location": "Musikbistro Friedberg",
       "osm_name": null,
@@ -3571,6 +3603,7 @@
     "event": {
       "id": 3618,
       "start": "2026-10-17T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-und-libertaere-passau/event/3618",
       "location": "Abwechselnd in Passau oder Schärding - genaueres in der Telegramm Gruppe",
       "osm_name": null,
@@ -3615,17 +3648,18 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch",
     "twitter": null,
     "event": {
-      "id": 3629,
-      "start": "2026-10-07T17:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3629",
-      "location": "Absinthbar, Schanzenstraße 99, Hamburg.",
+      "id": 3630,
+      "start": "2026-11-04T18:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/hamburger-bitcoin-stammtisch/event/3630",
+      "location": "Hamburg.",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Stammtisch ist am ersten Mittwoch jeden Monats",
+      "description": "Wo wir uns zukünftig treffen? Das wissen wir so in two weeks :-)",
       "link": "https://absinth-bar.com/",
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3738,6 +3772,7 @@
     "event": {
       "id": 3909,
       "start": "2026-10-30T16:00:00.000000Z",
+      "title": "Orange Lounge Meetup",
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/orange-lounge/event/3909",
       "location": "Technology Center Wuppertal W-tec GmbH, Lise-Meitner-Straße 1-13, 42119 Wuppertal",
       "osm_name": null,
@@ -3784,6 +3819,7 @@
     "event": {
       "id": 2252,
       "start": "2026-10-26T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/rabbit-bitcoin-club-magdeburg/event/2252",
       "location": "Magdeburg",
       "osm_name": null,
@@ -4055,6 +4091,7 @@
     "event": {
       "id": 3012,
       "start": "2026-10-21T18:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-ausserfern/event/3012",
       "location": "Schmuri (Pianokeller Reutte)",
       "osm_name": null,
@@ -4161,6 +4198,7 @@
     "event": {
       "id": 3852,
       "start": "2026-10-23T16:00:00.000000Z",
+      "title": "Fachvortrag: Zeus – Dein Lightning Node in der Hosentasche",
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-linz/event/3852",
       "location": "bar21, Linz",
       "osm_name": null,
@@ -4192,6 +4230,7 @@
     "event": {
       "id": 2615,
       "start": "2026-11-20T15:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-nordburgenland/event/2615",
       "location": "vermutlich Joe's Pub, Neusiedl am See",
       "osm_name": null,
@@ -4283,6 +4322,7 @@
     "event": {
       "id": 1760,
       "start": "2026-10-17T16:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-schaerding/event/1760",
       "location": "Passau oder Schärding",
       "osm_name": null,
@@ -4719,6 +4759,7 @@
     "event": {
       "id": 3896,
       "start": "2026-11-06T18:00:00.000000Z",
+      "title": "EINUNDZWANZIG Bitcoin Meetup Ostschweiz",
       "portalLink": "https://portal.einundzwanzig.space/ch/meetup/einundzwanzig-ostschweiz/event/3896",
       "location": null,
       "osm_name": "Imperium Pizza & More",
@@ -4885,6 +4926,7 @@
     "event": {
       "id": 3643,
       "start": "2026-10-12T17:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3643",
       "location": "Bar No.7",
       "osm_name": null,
@@ -4916,6 +4958,7 @@
     "event": {
       "id": 3905,
       "start": "2026-10-14T17:00:00.000000Z",
+      "title": "Pokec o svobodě - volná diskuze",
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-brno/event/3905",
       "location": "škola GEEK",
       "osm_name": null,
@@ -4947,6 +4990,7 @@
     "event": {
       "id": 3908,
       "start": "2026-10-22T16:00:00.000000Z",
+      "title": "21 meetup #12",
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kyjov/event/3908",
       "location": null,
       "osm_name": "Yalla bar",
@@ -4993,6 +5037,7 @@
     "event": {
       "id": 3921,
       "start": "2026-11-17T15:30:00.000000Z",
+      "title": "BTC LIGA 1.KOLO Teplice + Motokáry, bowling, pokec",
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/btc-meet-up/event/3921",
       "location": "Metropole Teplice",
       "osm_name": null,
@@ -5024,6 +5069,7 @@
     "event": {
       "id": 3914,
       "start": "2026-10-21T16:00:00.000000Z",
+      "title": "Setkání pro bitcoinery a především nováčky",
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-ceske-budejovice/event/3914",
       "location": "Restaurace Masné krámy, Krajinská 13, České Budějovice",
       "osm_name": null,
@@ -5055,6 +5101,7 @@
     "event": {
       "id": 3923,
       "start": "2026-10-14T16:00:00.000000Z",
+      "title": "Bitcoinový kvíz (BTC liga)",
       "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-sumperk/event/3923",
       "location": "Sidequest",
       "osm_name": "55/30",
@@ -5084,9 +5131,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/21-hodlem-poker",
     "twitter": "@HODLem_Poker",
     "event": {
-      "id": 3785,
-      "start": "2026-10-07T17:30:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/21-hodlem-poker/event/3785",
+      "id": 3786,
+      "start": "2026-10-14T17:30:00.000000Z",
+      "title": "Bitcoin Poker Therapy",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/21-hodlem-poker/event/3786",
       "location": "online hra (anywhere) - [iOs | Android | Windows]",
       "osm_name": null,
       "osm_type": null,
@@ -5357,6 +5405,7 @@
     "event": {
       "id": 3393,
       "start": "2026-10-13T08:00:00.000000Z",
+      "title": null,
       "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3393",
       "location": "Boquete, Panama",
       "osm_name": null,
@@ -5731,16 +5780,17 @@
     "portalUrl": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup",
     "twitter": "IndyBitcoin",
     "event": {
-      "id": 3867,
-      "start": "2026-10-07T23:00:00.000000Z",
-      "portalLink": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup/event/3867",
+      "id": 3930,
+      "start": "2026-10-21T23:00:00.000000Z",
+      "title": "Indy Bitcoin Meetup 61",
+      "portalLink": "https://portal.einundzwanzig.space/us/meetup/indy-bitcoin-meetup/event/3930",
       "location": null,
-      "osm_name": "Half Liter Beer & BBQ Hall",
-      "osm_type": "way",
-      "osm_id": 1365086571,
-      "osm_address": "Half Liter Beer & BBQ Hall, 5301, Winthrop Avenue, Meridian Kessler, Indianapolis, Washington Township, Marion County, Indiana, 46220, United States",
-      "description": "Indy BitDevs is a place for free and open Bitcoin education in Indianapolis, Indiana. Discussions will be technical in nature, but are open to people of all skill levels.\n\nIndy BitDevs is a smaller group with a technical focus that meets on the first Wednesday of each month.\n\nIndy Bitcoin Meetup is the main group the meets on the third Wednesday of the month.\n\nRecently, this group is focused on identifying and building projects that they perceive will help bitcoin or its users in the Indianapolis and Indiana area. If you want to share ideas with other builders, you are most welcome to attend.",
-      "link": "https://www.meetup.com/indianapolis-bitcoin-meetup/events/316575307/",
+      "osm_name": "Union Jack Pub",
+      "osm_type": "node",
+      "osm_id": 10642155292,
+      "osm_address": "Union Jack Pub, 921, Broad Ripple Avenue, Broad Ripple, Wellington, Indianapolis, Washington Township, Marion County, Indiana, 46220, United States",
+      "description": "Our next meetup will be on Wednesday, October 21st, from 7–9 p.m. at Union Jack Pub in Broad Ripple.\n\nThis meetup marks 5 years since our first meetup - we've never missed a month. Isaiah is going to give a recap of what's happened in bitcoin in the last 5 years with Q/A at the end.\n\nThe presentation will start promptly at 7:30pm.\n\nIf you haven’t been to a meetup yet, we meet on the third Wednesday of every month. Newcomers are always welcome!\n\nWe’ve been averaging 25–30 guests per meetup, and there’s always a handful of new faces. It doesn’t matter if you’re a longtime Bitcoiner or brand new to the space - everyone is welcome.\n\nFree drinks will be provided by our friends at Megawatt! Megawatt is a Bitcoin mining company that was founded at our meetup. If you’re thinking about getting into mining, check them out at megawatthq.com",
+      "link": "https://www.meetup.com/indianapolis-bitcoin-meetup/events/316881710/",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
