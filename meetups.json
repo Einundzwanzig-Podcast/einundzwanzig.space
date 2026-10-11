@@ -1330,7 +1330,7 @@
       "osm_address": null,
       "description": "Dornauers Lebküchnerei & Chocolaterie ⚡️\ntbd",
       "link": "https://dornauers.de/",
-      "attendees": 3,
+      "attendees": 4,
       "might_attendees": 3,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1859,24 +1859,7 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": {
-      "id": 3769,
-      "start": "2026-10-10T17:00:00.000000Z",
-      "title": "Demografie und Fiat",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3769",
-      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kemtpen",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Demografie und Fiat, Die Faktoren des Wachstums",
-      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4224,7 +4207,7 @@
       "osm_address": null,
       "description": "Protom zeigt die neue Version der Zeus App – die Wallet, die sich mit deiner eigenen Node verbindet: Onchain, Lightning, NWC (Apps verbinden), Swaps, Cashu für private Zahlungen, QR Payments und mehr. Kein Vorwissen notwendig – offen für alle.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/23-oktober-zeus/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -4366,7 +4349,7 @@
       "description": "62. Meetup der Passauer und Schärdinger Plebs - kommt in die Gruppe um den Ort zu erfahren. Wir wechseln immer zwischen den Gaststätten",
       "link": null,
       "attendees": 1,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": "c76007c481ad8b2d6bee1e5d95703094d26d30534faccf68af297deffc458be9"
@@ -5016,6 +4999,38 @@
       "osm_address": null,
       "description": "Co čekat od Pokecu? \nSedneme si a povídáme si o svobodě: co pro nás znamená, kde nám chybí a co s tím. \nPřijít může kdokoliv s kýmkoliv, nic si nemusíš chystat. \nTěšíme se na tebe ❤️",
       "link": "https://pokecosvobode.cz/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Jednadvacet Jihlava",
+    "latLng": [
+      49.396064,
+      15.5903065
+    ],
+    "url": "https://jednadvacet.org/jihlava",
+    "city": "Jihlava",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-jihlava",
+    "twitter": null,
+    "event": {
+      "id": 3935,
+      "start": "2026-10-21T16:00:00.000000Z",
+      "title": "₿EET UP",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-jihlava/event/3935",
+      "location": "Restaurace Jihlavský Parlament na Terasách",
+      "osm_name": "5628/26",
+      "osm_type": "node",
+      "osm_id": 3100250418,
+      "osm_address": "5628/26, Havlíčkova, Brtnické předměstí, Jihlava, okres Jihlava, Kraj Vysočina, 586 01, Česko",
+      "description": "Sraz oranžových Vysočíňanů. Vždy 21. v měsící, pokud konsenzus nebo Satoshi neurčí jinak (:",
+      "link": null,
       "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
