@@ -836,7 +836,7 @@
       "osm_address": "Bad Kissingen, Landkreis Bad Kissingen, Bayern, 97688, Deutschland",
       "description": "Meetup Bad Kissingen und Umgebung!\nImmer am dritten Freitag des Monats im El Greco Reuterswiesen.\nStart um 18.21 Uhr. \nLockere Atmosphäre, ungezwungen, im seperaten Raum.\nKleine Vorträge, Workshops oder größere Veranstaltung werden hier geplant. \nBesondere Abende, wie Bitcoin PizzaDay, Bitcoin Wanderung zur Heckenwirtschaft, Bitcoin Picknick oder Weihnachtsfeier!\nKomm und sei dabei. \nJeder ist herzlich Willkommen.\nNo Coiner wie Toxic Maxi.\nBringt eure Freunde mit :)\n\nFür andere aktuelle Locations, oder mögliche Termin Verschiebungen, schaut nach dem angepinnten Beitrag in unserer Telegramm Gruppe!",
       "link": "https://maps.app.goo.gl/KGG2pg41YbtzVcgXA?g_st=ac",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1072,7 +1072,24 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3936,
+      "start": "2026-10-25T10:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/3936",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Wir treffen und regelmäßig einmal im Monat in Cham. Platzreservierungen finden in der Regel bis Mitte des Monats statt. Bitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. Spontane Besucher sind natürlich herzlich willkommen. Wir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://wasserwirtschaft-cham.de/kontakt/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1288,7 +1305,24 @@
     "city": "Essen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3950,
+      "start": "2026-10-14T17:00:00.000000Z",
+      "title": "Meetup Essen",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-essen/event/3950",
+      "location": null,
+      "osm_name": "Essen",
+      "osm_type": "relation",
+      "osm_id": 62713,
+      "osm_address": "Essen, Nordrhein-Westfalen, Deutschland",
+      "description": "Meetup Essen",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1859,7 +1893,24 @@
     "city": "Kempten",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
-    "event": null,
+    "event": {
+      "id": 3958,
+      "start": "2026-10-15T15:30:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3958",
+      "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Bitcoin Einsteigervortrag\nReferent: Sepp. Bitcoin verstehen. Wissen schadet nicht.",
+      "link": "https://razue.github.io/bitcoin_metropole_kempten/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2476,7 +2527,7 @@
       "osm_address": null,
       "description": "Austausch und Get-together zu Bitcoin und freiheitlichen Themen.\nHäufig finden Vorträge statt, die den Abend thematisch prägen können.",
       "link": "https://www.entrada-bielefeld.de/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3215,7 +3266,24 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3949,
+      "start": "2026-10-19T17:00:00.000000Z",
+      "title": "Meetup",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/3949",
+      "location": "Bayrisches Wirtshaus",
+      "osm_name": "Bayrisches Wirtshaus",
+      "osm_type": "node",
+      "osm_id": 11001174546,
+      "osm_address": "Bayrisches Wirtshaus, 86, Düsseldorfer Straße, O-Quartier, Ohligs-Mitte, Ohligs/Aufderhöhe/Merscheid, Solingen, Nordrhein-Westfalen, 42697, Deutschland",
+      "description": "Meetup",
+      "link": "https://bayrisches-wirtshaus-ohligs.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
