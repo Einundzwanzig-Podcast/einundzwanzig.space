@@ -1330,7 +1330,7 @@
       "osm_address": null,
       "description": "Dornauers Lebküchnerei & Chocolaterie ⚡️\ntbd",
       "link": "https://dornauers.de/",
-      "attendees": 9,
+      "attendees": 10,
       "might_attendees": 5,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -2563,13 +2563,13 @@
       "start": "2026-11-06T17:00:00.000000Z",
       "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3164",
-      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
+      "location": "Stau 91, 26122 Oldenburg",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.",
-      "link": "https://www.kleineburg-ol.de/",
+      "description": "Bitcoin only Meetup! Dieses Mal wieder im \"Glut & Wasser\".",
+      "link": "https://www.glutundwasser.de/",
       "attendees": null,
       "might_attendees": null,
       "nostr_attendees": null,
@@ -5140,6 +5140,21 @@
     }
   },
   {
+    "name": "Jednadvacet Olomouc",
+    "latLng": [
+      49.5940567,
+      17.251143
+    ],
+    "url": null,
+    "city": "Olomouc",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-olomouc",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Jednadvacet Plzen",
     "latLng": [
       49.7477415,
@@ -5161,7 +5176,7 @@
       "osm_address": "Bowling, 1093, Třemošná, okres Plzeň-sever, Plzeňský kraj, Jihozápad, 330 11, Česko",
       "description": "Neformalni setkani, kde probirame novinky ze sveta bitcoinu. Novacci vitani. Umime anglicky. O miste konani vzdy hlasujeme v signalove skupine.\nInformal meetup where we discuss latest news from world of bitcoin. Newcomers welcome. We can comunicate in english. We vote about venue in signal group.",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
