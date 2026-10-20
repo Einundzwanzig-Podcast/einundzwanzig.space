@@ -820,7 +820,7 @@
       "description": "Meetup Bad Kissingen und Umgebung!\n\nImmer am dritten Freitag des Monats im \"Nostos\" Reiterswiesen.\nStart um 18.21 Uhr. \nLockere Atmosphäre, ungezwungen, im seperaten Raum.\nKleine Vorträge, Workshops oder größere Veranstaltung werden hier geplant. \nBesondere Abende, wie Bitcoin PizzaDay, Bitcoin Wanderung zur Heckenwirtschaft, Bitcoin Picknick oder Weihnachtsfeier!\nKomm und sei dabei. \nJeder ist herzlich Willkommen.\nNo Coiner wie Toxic Maxi.\nBringt eure Freunde mit :)\n\nFür andere aktuelle Locations, oder mögliche Termin Verschiebungen, schaut nach dem angepinnten Beitrag in unserer Telegramm Gruppe!",
       "link": "https://maps.app.goo.gl/KGG2pg41YbtzVcgXA?g_st=ac",
       "attendees": 1,
-      "might_attendees": 0,
+      "might_attendees": 1,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
@@ -1544,9 +1544,9 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Wo wir uns zukünftig treffen? Das wissen wir so in two weeks :-)",
-      "link": "https://absinth-bar.com/",
-      "attendees": 1,
+      "description": "Wo wir uns zukünftig treffen???",
+      "link": "https://omaps.app/w4LUJzeT4p/Alstertanne",
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -2758,10 +2758,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen",
     "twitter": "EinundzwanzigRE",
     "event": {
-      "id": 3413,
-      "start": "2026-10-19T16:00:00.000000Z",
+      "id": 3414,
+      "start": "2026-11-16T17:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3413",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-recklinghausen/event/3414",
       "location": "Restaurant Nonna di Mia (Markt 3, 45657 Recklinghausen)",
       "osm_name": null,
       "osm_type": null,
@@ -3232,24 +3232,7 @@
     "city": "Solingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen",
     "twitter": null,
-    "event": {
-      "id": 3949,
-      "start": "2026-10-19T17:00:00.000000Z",
-      "title": "Meetup",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-solingen/event/3949",
-      "location": "Bayrisches Wirtshaus",
-      "osm_name": "Bayrisches Wirtshaus",
-      "osm_type": "node",
-      "osm_id": 11001174546,
-      "osm_address": "Bayrisches Wirtshaus, 86, Düsseldorfer Straße, O-Quartier, Ohligs-Mitte, Ohligs/Aufderhöhe/Merscheid, Solingen, Nordrhein-Westfalen, 42697, Deutschland",
-      "description": "Meetup",
-      "link": "https://bayrisches-wirtshaus-ohligs.de/",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3520,7 +3503,7 @@
       "osm_address": "Salute, 12, Liebigstraße, Gewerbegebiet Nord Neustädter Straße, Hammerweg, Weiden in der Oberpfalz, Bayern, 92637, Deutschland",
       "description": "Egal ob du neu in den Bitcoin-Kaninchenbau einsteigst und Orientierung suchst oder ob du bereits Experte bist, bei uns ist jeder Willkommen - im Vordergrund stehen interessante Gespräche. Melde dich einfach über unsere Telegram-Gruppe.",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3691,8 +3674,8 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Wo wir uns zukünftig treffen? Das wissen wir so in two weeks :-)",
-      "link": "https://absinth-bar.com/",
+      "description": "Wo wir uns zukünftig treffen???",
+      "link": "https://omaps.app/w4LUJzeT4p/Alstertanne",
       "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
@@ -4959,6 +4942,38 @@
     "city": "21 Bitcoin Zypern",
     "portalUrl": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern",
     "twitter": null,
+    "event": {
+      "id": 3968,
+      "start": "2026-11-07T17:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/cy/meetup/21bitcoin-zypern/event/3968",
+      "location": "Muse Restaurant",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "November Meetup - Beginn: 18.00 Uhr!\nWir freuen uns auf euch!",
+      "link": null,
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "21 Meetup",
+    "latLng": [
+      50.5608165,
+      15.912897
+    ],
+    "url": null,
+    "city": "Trutnov",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/21-meetup",
+    "twitter": null,
     "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -5140,16 +5155,48 @@
     }
   },
   {
+    "name": "Jednadvacet Ledeč nad Sázavou",
+    "latLng": [
+      49.6950166,
+      15.2777763
+    ],
+    "url": "https://jednadvacet.org/ledec",
+    "city": "Ledeč nad Sázavou",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-ledec-nad-sazavou",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Jednadvacet Olomouc",
     "latLng": [
       49.5940567,
       17.251143
     ],
-    "url": null,
+    "url": "https://jednadvacet.org/olomouc",
     "city": "Olomouc",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-olomouc",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3967,
+      "start": "2026-11-16T17:00:00.000000Z",
+      "title": "1. kolo BTC ligy",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-olomouc/event/3967",
+      "location": "Restaurace Stodola",
+      "osm_name": "77/7",
+      "osm_type": "way",
+      "osm_id": 58279918,
+      "osm_address": "77/7, Litovelská, Šibeník, Olomouc-západ, Hejčín, Olomouc, okres Olomouc, Olomoucký kraj, 779 00, Česko",
+      "description": "První kolo BTC ligy pro nováčky i pokročilé. Stodola - salónek. Těšíme se na příjemné setkání :)",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5563,10 +5610,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3394,
-      "start": "2026-10-20T08:00:00.000000Z",
+      "id": 3395,
+      "start": "2026-10-27T09:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3394",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3395",
       "location": "Boquete, Panama",
       "osm_name": null,
       "osm_type": null,
