@@ -486,7 +486,24 @@
     "city": "Augsburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3970,
+      "start": "2026-10-31T09:30:00.000000Z",
+      "title": "PlebWalk mit Stadtführung: Auf den Spuren von Jakob Fugger",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg/event/3970",
+      "location": null,
+      "osm_name": "Rathausplatz",
+      "osm_type": "relation",
+      "osm_id": 4016445,
+      "osm_address": "Rathausplatz, Innenstadt, St. Ulrich-Dom, Innenstadt, Augsburg, Bayern, 86152, Deutschland",
+      "description": "Am 31.10. feiern wir den Bitcoin Whitepaper Day auf der Straße! Gemeinsam ziehen wir mit unserer Stadtführerin LX durch Augsburg und folgen den Spuren von Jakob Fugger, dem Mann, der schon im 16. Jahrhundert gezeigt hat, was hartes Geld und ein gutes Netzwerk bewegen können.\n\nTreffpunkt ist am Rathausplatz um 10:21 Uhr. Die Tour dauert ca. 1,5 bis 2,1 Stunden – also im Durchschnitt rund 12 Bitcoin-Blöcke. Der Walk ist kostenlos und läuft auf Value4Value-Basis: Du gibst, was dir das Erlebnis wert ist. Bring gerne Schuhe, offene Fragen und Lust auf Austausch mit.",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -3491,24 +3508,7 @@
     "city": "Weiden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-weiden",
     "twitter": null,
-    "event": {
-      "id": 3965,
-      "start": "2026-10-20T16:30:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-weiden/event/3965",
-      "location": "Salute, Liebigstraße 12, 92637 Weiden // Tisch-Reservierung auf Oskar Müller nähe Billard-Bereich",
-      "osm_name": "Salute",
-      "osm_type": "node",
-      "osm_id": 1656093450,
-      "osm_address": "Salute, 12, Liebigstraße, Gewerbegebiet Nord Neustädter Straße, Hammerweg, Weiden in der Oberpfalz, Bayern, 92637, Deutschland",
-      "description": "Egal ob du neu in den Bitcoin-Kaninchenbau einsteigst und Orientierung suchst oder ob du bereits Experte bist, bei uns ist jeder Willkommen - im Vordergrund stehen interessante Gespräche. Melde dich einfach über unsere Telegram-Gruppe.",
-      "link": null,
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3602,7 +3602,24 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3971,
+      "start": "2026-10-23T16:30:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen/event/3971",
+      "location": "Schmex in Balingen",
+      "osm_name": "Balingen",
+      "osm_type": "relation",
+      "osm_id": 2779376,
+      "osm_address": "Balingen, VVG der Stadt Balingen, Zollernalbkreis, Baden-Württemberg, 72336, Deutschland",
+      "description": "Kommt vorbei aus nah und fern ⚡️",
+      "link": "https://t.me/+Jk5Xj_4kwfE4NGRi",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -5110,14 +5127,29 @@
       "osm_type": "node",
       "osm_id": 3100250418,
       "osm_address": "5628/26, Havlíčkova, Brtnické předměstí, Jihlava, okres Jihlava, Kraj Vysočina, 586 01, Česko",
-      "description": "Sraz oranžových Vysočíňanů. Vždy 21. v měsící, pokud konsenzus nebo Satoshi neurčí jinak (:",
+      "description": "Sraz oranžových Vysočíňanů. Vždy 21. v měsící, pokud konsenzus nebo Satoshi neurčí jinak (:\n20:00 - 1.kolo BTC LIGY",
       "link": null,
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
     },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
+    "name": "Jednadvacet Kolín",
+    "latLng": [
+      50.0288894,
+      15.2011571
+    ],
+    "url": null,
+    "city": "Kolín",
+    "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kolin",
+    "twitter": null,
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
