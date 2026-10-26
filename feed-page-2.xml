@@ -11,7 +11,7 @@
 Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse in Bitcoin und der Welt. Die News der Woche, zusätzlich Interviews und die besten Artikel als Lesestunde. Außerdem erfährst du in "Der Weg" wie andere Leute zu Bitcoin gekommen sind.]]></description>
     <link>https://einundzwanzig.space/</link>
     <generator>Anchor Podcasts</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 19:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:31:27 GMT</lastBuildDate>
     <atom:link href="https://einundzwanzig.space/feed-page-2.xml" rel="self" type="application/rss+xml"></atom:link>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"></atom:link>
     <atom:link href="https://einundzwanzig.space/feed.xml" rel="prev" type="application/rss+xml"></atom:link>
@@ -30,6 +30,26 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"></itunes:category>
     <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2173598/2173598-1602858626067-eff3149ca679a.jpg"></itunes:image>
+    <item>
+      <title><![CDATA[Der Weg 2.09 - Bitcoin ist unregierbar]]></title>
+      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/der-weg-209-bitcoin-ist-unregierbar]]></description>
+      <link>https://einundzwanzig.space/podcast/der-weg-209-bitcoin-ist-unregierbar</link>
+      <guid isPermaLink="false">a8f692f5-0c87-4d03-b3a4-d9e5f4d23e43</guid>
+      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
+      <pubDate>Tue, 02 Jun 2026 19:47:20 GMT</pubDate>
+      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/120912972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2Fe36b2f95-a75d-57b7-a0c2-c5d1e77f5ad9.mp3" length="83634456" type="audio/mpeg"></enclosure>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:54:16</itunes:duration>
+      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1780429063300-b4e50d0d7dfbe.jpg"></itunes:image>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:episode display="Der Weg #2.09">2.09</podcast:episode>
+      <podcast:value type="lightning" method="keysend">
+        <podcast:valueRecipient name="Marcelinho" address="03169e6367b648f13b4f3aaa786913dfc8f054fc445c78276286e3fe6509939fde" customKey="696969" customValue="3" type="node" split="50"></podcast:valueRecipient>
+        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
+      </podcast:value>
+      <podcast:person img="https://einundzwanzig.space/img/participants/marcelinho-e3ef9a12545026a6863ff94408392160.jpg" href="https://njump.me/npub16cpe069rjz6pm5t42xcyhcn66f5rr04k64df3g03fk2wctlrlhsqycedcd">Marcelinho</podcast:person>
+      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
+    </item>
     <item>
       <title><![CDATA[Zitadelle 2026 - Infos]]></title>
       <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/zitadelle-2026-infos]]></description>
@@ -426,25 +446,6 @@ Einmal die Woche sitzen wir zusammen und besprechen die aktuellen Geschehnisse i
       </podcast:value>
       <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
       <podcast:person img="https://einundzwanzig.space/img/participants/marcelinho-e3ef9a12545026a6863ff94408392160.jpg" href="https://njump.me/npub16cpe069rjz6pm5t42xcyhcn66f5rr04k64df3g03fk2wctlrlhsqycedcd">Marcelinho</podcast:person>
-    </item>
-    <item>
-      <title><![CDATA[GrapheneOS - Folge 3 - Installation]]></title>
-      <description><![CDATA[Shownotes: https://einundzwanzig.space/podcast/verschiedenes-grapheneos-folge-3-installation]]></description>
-      <link>https://einundzwanzig.space/podcast/verschiedenes-grapheneos-folge-3-installation</link>
-      <guid isPermaLink="false">019e484e-8122-4f65-af1a-faf674084103</guid>
-      <dc:creator><![CDATA[Einundzwanzig]]></dc:creator>
-      <pubDate>Tue, 17 Mar 2026 18:54:47 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/d8d3c38/podcast/play/117076156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2F2557433d-847a-90f9-57b8-b318b994f86b.mp3" length="68606063" type="audio/mpeg"></enclosure>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:duration>00:44:40</itunes:duration>
-      <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/2173598/2173598-1777487453273-8660e0f03f6a6.jpg"></itunes:image>
-      <itunes:episodeType>full</itunes:episodeType>
-      <podcast:value type="lightning" method="keysend">
-        <podcast:valueRecipient name="Sirius" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="5" type="node" split="50"></podcast:valueRecipient>
-        <podcast:valueRecipient name="Jack" address="02926b19109c70bc8dafa980fd65a1bff673d3a52603b816aa80d27f7961dfa945" customKey="696969" customValue="20" type="node" split="50"></podcast:valueRecipient>
-      </podcast:value>
-      <podcast:person img="https://einundzwanzig.space/img/participants/sirius-c41e43f2c43d56550d56e0282e781ba3.jpg" href="https://njump.me/npub1v4lgwjv7qfn3t7qjscpsgz9vqvspf6hecdp2ckgp0dz89uqn5slsgrhw3p">Sirius</podcast:person>
-      <podcast:person href="https://njump.me/npub1p5adune53lxp9tee9ksjfy2q03d39snq98rafr978ztwwhe94l7smyt7vk">Jack</podcast:person>
     </item>
   </channel>
 </rss>
