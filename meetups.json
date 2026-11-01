@@ -477,21 +477,6 @@
     }
   },
   {
-    "name": "BitcoinWalk Augsburg",
-    "latLng": [
-      48.3668041,
-      10.8986971
-    ],
-    "url": null,
-    "city": "Augsburg",
-    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg",
-    "twitter": null,
-    "event": null,
-    "style": {
-      "fill": "var(--color-neutral-50)"
-    }
-  },
-  {
     "name": "BitcoinWalk Hamburg",
     "latLng": [
       53.551086,
@@ -1860,16 +1845,16 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten",
     "twitter": "MountBitcoin21",
     "event": {
-      "id": 3977,
-      "start": "2026-10-31T18:00:00.000000Z",
+      "id": 3979,
+      "start": "2026-11-06T18:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3977",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-kempten/event/3979",
       "location": "Bitcoin Metropole, Rathausstraße 2, 87435 Kempten",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Halloween trifft Whitepaper Day: 18 Jahre Bitcoin Whitepaper. Vortrag, Kostüm-Motto \"Komm als Satoshi\" und ein Preis in Sats für das beste Kostüm.",
+      "description": "Spezial-Meetup der Einundzwanzig-Community. Jeder bringt seine eigene Pizza mit, selbstgemacht oder gekauft.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
       "attendees": 0,
       "might_attendees": 0,
@@ -2341,10 +2326,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg",
     "twitter": null,
     "event": {
-      "id": 3927,
-      "start": "2026-12-12T12:21:00.000000Z",
+      "id": 3998,
+      "start": "2026-11-28T12:21:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg/event/3927",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-neubrandenburg/event/3998",
       "location": "Wasserski-Seilbahn Neubrandenburg",
       "osm_name": null,
       "osm_type": null,
@@ -2352,7 +2337,7 @@
       "osm_address": null,
       "description": "Charity-Eisbaden, Gemeinsam für unsere Kinder 🧊❤️\n\nGemeinsam mit Einundzwanzig Neubrandenburg gehen wir an der Wasserski-Seilbahn Neubrandenburg für den guten Zweck ins kalte Wasser. Mit unseren Eisbade-Events sammeln wir für regionale Kinder- und Jugendprojekte.\n\nFür warme Getränke und Waffeln ist gegen Gebühr gesorgt. Wer unsere Aktion unterstützen möchte, kann bereits ab dem ersten Eisbaden unseren Spendentopf mitfüllen.\n\nOb Bitcoiner, Eisbader, Unterstützer oder neugieriger Zuschauer, jeder ist willkommen!\n\nKommt vorbei, verlasst eure Komfortzone, traut euch ins kalte Wasser und tut dabei Gutes für unsere Kinder. 🧊💪❤️\n\nGemeinsam für unsere Kinder.",
       "link": "https://einundzwanzig-charity-eisbaden.de/",
-      "attendees": 1,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -2956,7 +2941,24 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 3999,
+      "start": "2026-11-13T17:30:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/3999",
+      "location": "Ristorante Italia Parkhotel",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": "https://maps.app.goo.gl/UjDKhQnbmweyLTL58",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3741,6 +3743,21 @@
     }
   },
   {
+    "name": "PlebWalk Augsburg",
+    "latLng": [
+      48.3668041,
+      10.8986971
+    ],
+    "url": null,
+    "city": "Augsburg",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoinwalk-augsburg",
+    "twitter": null,
+    "event": null,
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "PlebWalk Berlin",
     "latLng": [
       52.5170365,
@@ -4253,24 +4270,7 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": {
-      "id": 3932,
-      "start": "2026-10-31T18:00:00.000000Z",
-      "title": "Bitcoin Whitepaper Day – Trick or Treat",
-      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/3932",
-      "location": "₿onami. BAR. RESTAURANT.",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 31.10.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
-      "link": null,
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
