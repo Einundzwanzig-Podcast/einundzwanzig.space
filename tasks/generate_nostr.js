@@ -34,6 +34,8 @@ Object.entries(participants).forEach(([key, { nostr: npub }]) => {
   names[id] = new NDKUser({ npub }).pubkey
 })
 
+names['dennis-sync'] = new NDKUser({ npub: 'npub1u4xur24lmsrn7z9c8rkqxkmhvtf05c0r8u86urzwj6vu2fgfgccq7jrctw' }).pubkey
+
 Object.entries(members).forEach(([key, { npub, pubkey, nip05_handle }]) => {
   if (!nip05_handle) return
   const id = nip05_handle.replace(/[\s]/g, '_')
