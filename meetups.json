@@ -4190,7 +4190,7 @@
       "osm_address": null,
       "description": "Deine Kommunikation. Ohne Internet. Im Workshop mit Protom baust du dir dein eigenes Mesh-Netzwerk: Peer-to-Peer, Long Range, Off-Grid, unabhängig. Wir flashen die Hardware, richten die Node ein und bringen sie ins lokale Mesh. In fünf Schritten zum eigenen Node – Hardware T1000-E (hosentaschentauglich) oder optional Solar Node P1-Pro. Notebook mitbringen wenn möglich. Eigenen Node gewünscht? Hardware bitte vorbestellen. Kein Vorwissen notwendig – offen für alle.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/12-november-meshcore/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -5141,7 +5141,24 @@
     "city": "Plzeň",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/btc-beer-plzen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4014,
+      "start": "2026-11-12T16:00:00.000000Z",
+      "title": "BTC liga PLZEN",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/btc-beer-plzen/event/4014",
+      "location": null,
+      "osm_name": "Wallis",
+      "osm_type": "node",
+      "osm_id": 296794034,
+      "osm_address": "Wallis, 74/11, Palackého, Vnitřní Město, Plzeň 3, Plzeň, okres Plzeň-město, Plzeňský kraj, Jihozápad, 301 00, Česko",
+      "description": "Odehrajeme prvni kolo BTC ligy. Mame rezervu dve mista k sezeni, kdyby nekdo chtel hrat bez predchoziho oznameni\n\nWe will play first round of BTC league. We have two spare chairs in case somebody would like to join us unannounced.",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
