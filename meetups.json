@@ -3876,7 +3876,24 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4017,
+      "start": "2026-11-13T18:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/4017",
+      "location": "Blauer Adler",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Gute Leute gute Gespräche",
+      "link": "https://maps.app.goo.gl/jaZUXZWp8BZRuJY96?g_st=ac",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
