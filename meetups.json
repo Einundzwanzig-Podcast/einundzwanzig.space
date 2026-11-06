@@ -1298,7 +1298,7 @@
       "osm_address": null,
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -4165,7 +4165,24 @@
     "city": "Kirchdorf an der Krems",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4019,
+      "start": "2026-11-16T18:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-kirchdorfooe/event/4019",
+      "location": "Restaurant Plaschlhof",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Triff Bitcoiner aus der Umgebung, wir freuen uns auf dich!",
+      "link": "https://maps.app.goo.gl/4e3dBCW5dWjqY2XU7?g_st=ic",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
