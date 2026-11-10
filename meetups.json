@@ -2621,10 +2621,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg",
     "twitter": null,
     "event": {
-      "id": 3246,
-      "start": "2026-11-09T17:30:00.000000Z",
+      "id": 3247,
+      "start": "2026-12-14T17:30:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3246",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-ost-brandenburg-altlandsberg/event/3247",
       "location": "Mühle Altlandsberg",
       "osm_name": null,
       "osm_type": null,
@@ -4321,7 +4321,24 @@
     "city": "Salzburg",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg",
     "twitter": "21Salzburg",
-    "event": null,
+    "event": {
+      "id": 4028,
+      "start": "2026-12-12T18:00:00.000000Z",
+      "title": "Bitcoin, Punch & Blocks: Xmas Ho-Ho-HoDL",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-salzburg/event/4028",
+      "location": "₿onami. BAR. RESTAURANT.",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 12.12.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
+      "link": "https://www.bonami-freilassing.de/",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4971,10 +4988,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag",
     "twitter": null,
     "event": {
-      "id": 3644,
-      "start": "2026-11-09T18:00:00.000000Z",
+      "id": 3638,
+      "start": "2026-11-23T18:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3644",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3638",
       "location": "Bar No.7",
       "osm_name": null,
       "osm_type": null,
@@ -5096,7 +5113,24 @@
     "city": "Kyjov",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kyjov",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4029,
+      "start": "2026-11-26T17:00:00.000000Z",
+      "title": "21 meetup #13 + BTC liga",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kyjov/event/4029",
+      "location": null,
+      "osm_name": "Kyjovský pivovar",
+      "osm_type": "way",
+      "osm_id": 180701550,
+      "osm_address": "Kyjovský pivovar, 596/64, třída Komenského, Nětčice, Kyjov, okres Hodonín, Jihomoravský kraj, 697 01, Česko",
+      "description": "Příští kyjovský meetup tedy proběhne v Kyjovském pivovaru (https://www.kyjovsky-pivovar.cz/) ve čtvrtek 26. listopadu 2026. Začneme velkolepě v 18:00 prohlídkou pivovaru s ochutnávkou piv přímo z tanků (cca 1h) a poté bude následovat 1. kolo BTC ligy (více info zde https://jednadvacet.org/liga), které se jako kyjovský tým účastníme.\n\nČas bude samozřejmě i na diskuse o novinkách v Bitcoinu, Jednadvacítce a vůbec.\nMožnost zapůjčení knih s Bitcoinovou tématikou.\nNováčci vítáni, rádi ohledně Bitcoinu poradíme, pomůžeme a odpovíme na otázky.\n\nDoražte v hojném počtu, ať to stojí za to!\n\nJsme na Signalu: https://signal.group/#CjQKIJhfbQz2adVWLlHNBjtMuqLcxhrWPGfYfcchawih9SFuEhAojzGzxVEmIVJgKeK6mx5_",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5606,10 +5640,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3397,
-      "start": "2026-11-10T09:00:00.000000Z",
+      "id": 3398,
+      "start": "2026-11-17T09:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3397",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3398",
       "location": "Boquete, Panama",
       "osm_name": null,
       "osm_type": null,
