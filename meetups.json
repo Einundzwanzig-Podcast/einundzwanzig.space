@@ -201,6 +201,38 @@
     }
   },
   {
+    "name": "Bitcoin Chiemsee/Chiemgau MeetUp",
+    "latLng": [
+      47.854901,
+      12.347379
+    ],
+    "url": "https://t.me/ChiemseeBitcoinMeetUp",
+    "city": "Chiemsee/Chiemgau",
+    "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-chiemseechiemgau-meetup",
+    "twitter": null,
+    "event": {
+      "id": 4036,
+      "start": "2026-12-13T17:00:00.000000Z",
+      "title": "Chiemsee Bitcoin Stammtisch (monatlich)",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-chiemseechiemgau-meetup/event/4036",
+      "location": "Ratskeller Aschau, fragt am Tresen nach dem Bitcoin Stammtisch. Die Besitzerin Barbara ist auch Bitcoinerin und immer am Termin anweswend:)",
+      "osm_name": "Ratskeller",
+      "osm_type": "way",
+      "osm_id": 264035077,
+      "osm_address": "Ratskeller, 31, Kampenwandstraße, Hub, Aschau im Chiemgau, Landkreis Rosenheim, Bayern, 83229, Deutschland",
+      "description": "Willkommen zum monatlichen Treffen des Chiemgau Bitcoin & Blockchain Meetups! :)\n\nIch habe Tische im Ratskeller Aschau in Aschau reserviert. Dort können wir in Ruhe über Bitcoin und die neusten Trends in der Blockchain Technologie reden. Lasst uns einfach drauf los quatschen und austauschen, es gibt keine wirkliche Agenda.\n\nEs wird bestimmt alle Gesprächsthemen über Bitcoin & Blockchain geben, zum Beispiel gesellschaftliche, soziale, technologische, finanzielle, etc.\n\nJeder ist willkommen: Kompletter Neueinsteiger, der nur mal was von Bitcoin & Blockchain gehört hat, Anfänger, Fortgeschritten und Profis. Jede Meinung und Erfahrung ist wichtig :)\n\nBonus: Essen und Getränke können mit Bitcoin bezahlt werden 🥳\n\nKeine Werbeveranstaltung! Leute, die aktiv nur Finanzprodukte bewerben oder was verkaufen wollen sind unerwünscht.\n\nNatürlich keine Teilnehmergebühr, nur das Essen und Trinken müsst ihr selber zahlen.\n\nOrt der Veranstaltung: Ratskeller Aschau\n\nDer Stammtisch wird jeden zweiten Sonntag des Monats stattfinden :)\n\nUnsere WhatsApp Gruppe: https://chat.whatsapp.com/FXJV73IVPlh4dKBpJ9Kcvp\nUnsere Telegram Gruppe: https://t.me/+wAD27rhDgDYzZmEy\n\nIch freue mich auf euer Kommen!\n\nLiebe Grüße\n\nKonsti",
+      "link": "https://www.meetup.com/de-de/chiemseebitcoinandblockchainmeetup/",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
+    "style": {
+      "fill": "var(--color-neutral-50)"
+    }
+  },
+  {
     "name": "Bitcoin Dev & Culture Coffee Meetup",
     "latLng": [
       52.5170365,
@@ -1643,24 +1675,7 @@
     "city": "Hennef",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef",
     "twitter": null,
-    "event": {
-      "id": 4020,
-      "start": "2026-11-10T18:00:00.000000Z",
-      "title": "November Bitcoin MeetUp Hennef",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hennef/event/4020",
-      "location": "Hennef (Sieg)",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Weitere Informationen und die MeetUp-Location findest Du in unserer Telegram-Gruppe.\nFollow the white rabbit.",
-      "link": "https://t.me/einundzwanzig_hennef",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1755,10 +1770,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis",
     "twitter": null,
     "event": {
-      "id": 3666,
-      "start": "2026-11-10T17:30:00.000000Z",
+      "id": 3667,
+      "start": "2026-12-08T17:30:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis/event/3666",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hochtaunuskreis/event/3667",
       "location": "Bembel & Gretel, Marktpl. 7, 61250 Usingen",
       "osm_name": null,
       "osm_type": null,
@@ -2895,19 +2910,19 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg",
     "twitter": null,
     "event": {
-      "id": 2782,
-      "start": "2026-11-10T18:00:00.000000Z",
+      "id": 2783,
+      "start": "2026-12-10T18:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2782",
-      "location": "Hilpolstein Gutmann zur Post",
-      "osm_name": "Gutmann zur Post",
-      "osm_type": "node",
-      "osm_id": 256198446,
-      "osm_address": "Gutmann zur Post, 8, Marktstraße, Hilpoltstein, Landkreis Roth, Bayern, 91161, Deutschland",
-      "description": "Wir treffen uns in Hipolstein in Gutmann zur Post, für einen gemütlichen Abendplausch. Auch Neulinge sind gerne Willkommen.",
-      "link": "https://www.gutmann-zur-post.de/",
-      "attendees": 4,
-      "might_attendees": 1,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-roth-schwabach-weissenburg/event/2783",
+      "location": "Schwabach Weihnachtsmarkt",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Wir gehen wieder auf den Weihnachtsmarkt, und treffen uns am Lödels Glühweinstand.\nDer Termin könnte sich auch noch um eine Woche verschieben, genaueres wenn die Termine für den Markt bekannt sind.",
+      "link": "https://verkehrsverein-schwabach.de/weihnachtsmarkt/",
+      "attendees": 0,
+      "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
@@ -4333,7 +4348,7 @@
       "osm_address": null,
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 12.12.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": "https://www.bonami-freilassing.de/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -5051,24 +5066,7 @@
     "city": "Hradec Králové",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-hradubice",
     "twitter": null,
-    "event": {
-      "id": 4015,
-      "start": "2026-11-10T16:00:00.000000Z",
-      "title": "Meetup, BTC Liga",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-hradubice/event/4015",
-      "location": null,
-      "osm_name": "Cup Bab Korean Bistro",
-      "osm_type": "node",
-      "osm_id": 11559968584,
-      "osm_address": "Cup Bab Korean Bistro, 153/9, Velké náměstí, Hradec Králové-historické jádro, Střed města - historická část, Věkoše, Hradec Králové, okres Hradec Králové, Královéhradecký kraj, 500 03, Česko",
-      "description": "Pravidelný Hradubický meetup (Hradecký+Pardubický).\nStřídavě jeden měsíc v HK, další v Pardubicích.\n\n🚀 STARTUJE BTC LIGA!\nNavazujeme na dosavadní bitcoinové kvízy a posouváme je do celoroční soutěže napříč Českem a Slovenskem. 🇨🇿🇸🇰\n🏆 4 kola za rok – body se sčítají do celkového pořadí\n📅 Každé město si zvolí vlastní termín kola\n🌍 Týmy soutěží s týmy z celé ČR a SR\n▶️ 1. kolo: říjen–prosinec 2026\n🟢 Nováčci\n🔴 Pokročilí\nKaždá úroveň má vlastní otázky, žebříček i ceny.\n🎁 Hraje se o Braiins BMM 101, Braiins Deck, Trezory, Štosáky, BTC vouchery, vstupenky na konference, Bitcoin by Satoshi, Firefish, merch partnerů a další ceny. A chystáme i velké překvapení. 👀\n🌐 jednadvacet.org/liga\n\n\nMožnost zapůjčení knih s Bitcoinovou tématikou.\n\nNováčci vítáni, rádi ohledně Bitcoinu pomůžeme, odpovíme na otázky.\n\nV místě, kde je možnost platit Bitcoinem, přes Lightning a přímo.\n\nJsme na Signalu, Nostru, Meshcore, Bitchatu.\n \nhttps://signal.group/#CjQKIIaGqyW7upOGzkOuLUIEvE-CXs5K7UplTERCU5MoOda1EhBgAvQoeHAO5hfDPCv6dGin\n \nNostr:\nnpub1hkpceqpcvlwm4axzpjj9a8s0mah8g26xywf6qun96hsh7xwx4nespxtnzk\n\nMeshcore\n#21hradubice\n594f7daee591d0664f65fccfc00e670d",
-      "link": null,
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5489,7 +5487,24 @@
     "city": "Budapest",
     "portalUrl": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup",
     "twitter": "",
-    "event": null,
+    "event": {
+      "id": 4035,
+      "start": "2026-11-13T15:00:00.000000Z",
+      "title": "BudaBit Demo Day",
+      "portalLink": "https://portal.einundzwanzig.space/hu/meetup/budabit-cypherpunk-meetup/event/4035",
+      "location": "Online Community Call",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Join us for an hour of Freedom tech discussion with demos from builders in the space!\nDetails in the community calendar:\nhttps://budabit.club/c/naddr1qvzqqqramcpzqz5wewjgdrqnu85ye3wttrqzc87s3qxeuk3955zsa6t2mzskd47gqyv8wumn8ghj7un9d3shjtnzw4jxzcnfwshxxmr4vgqyqvrp8pjkxcnpxsurvwrrxyek2vt98q6xxce4vd3r2wrrxqexxvtxvscrswpsvsuk2dtpxg6kzdfsx5cx2efexeskgwrpxymrvephvvuqvnlda2/calendar",
+      "link": "https://budabit.club/c/naddr1qvzqqqramcpzqz5wewjgdrqnu85ye3wttrqzc87s3qxeuk3955zsa6t2mzskd47gqyv8wumn8ghj7un9d3shjtnzw4jxzcnfwshxxmr4vgqyqvrp8pjkxcnpxsurvwrrxyek2vt98q6xxce4vd3r2wrrxqexxvtxvscrswpsvsuk2dtpxg6kzdfsx5cx2efexeskgwrpxymrvephvvuqvnlda2/calendar",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
