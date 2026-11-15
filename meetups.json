@@ -1700,7 +1700,7 @@
       "osm_address": null,
       "description": "Für alle Bitcoin-Interessierten",
       "link": "https://t.me/EinundzwanzigHildesheim",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3792,7 +3792,7 @@
       "osm_address": null,
       "description": "Solltest Du Interesse an interessanten Gesprächen und Diskussionen über Bitcoin haben oder etwas darüber erfahren und lernen wollen, besuche (https://instagram.com/rabbit.btc) und schreibe uns eine Nachricht oder folge uns und erfahre über die Story, wo genau ein MeetUp stattfindet.\n\nDie immer variierenden MeetUps werden von und mit den Mitgliedern der Telegram-Gruppe des Rabbit Bitcoin Clubs abgestimmt.\n\nMitglied wird nur, wer ein MeetUp mindestens einmal besucht hat.\n\nWir sind sehr daran interessiert, die Menschen in und um Magdeburg kennenzulernen, möchten die Gruppe jedoch frei von Spam und Scam halten.\n\nIn diesem Sinne: Wir freuen uns darauf Dich kennenzulernen :)",
       "link": "https://www.instagram.com/rabbit.btc",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3857,7 +3857,24 @@
     "city": "Würzburg",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/wuerzburg",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4051,
+      "start": "2026-12-18T18:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/wuerzburg/event/4051",
+      "location": "Blauer Adler",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Wir sprechen in einer gemütlichen Runde über Bitcoin, bei Essen und Trinken, wer mag. 😃",
+      "link": "https://maps.app.goo.gl/TvkfNEoraozY1XLf7?g_st=ac",
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5173,7 +5190,24 @@
     "city": "Plzeň",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/btc-beer-plzen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4052,
+      "start": "2026-11-21T16:00:00.000000Z",
+      "title": "Plzeň - BTC BEER",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/btc-beer-plzen/event/4052",
+      "location": "jedna volna zidle pro neohlasene prichozi - one spare chair for unanounced attendee",
+      "osm_name": "Wallis",
+      "osm_type": "node",
+      "osm_id": 296794034,
+      "osm_address": "Wallis, 74/11, Palackého, Vnitřní Město, Plzeň 3, Plzeň, okres Plzeň-město, Plzeňský kraj, Jihozápad, 301 00, Česko",
+      "description": "Neformalni setkani, kde probirame novinky ze sveta bitcoinu. Novacci vitani. Umime anglicky. O miste konani vzdy hlasujeme v signalove skupine.\n\nInformal meetup where we discuss latest news from world of bitcoin. Newcomers welcome. We can comunicate in english. We vote about venue in signal group.",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-neutral-50)"
     }
