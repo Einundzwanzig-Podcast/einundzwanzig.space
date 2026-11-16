@@ -103,15 +103,15 @@
     "twitter": "21Aschaffenburg",
     "event": {
       "id": 2987,
-      "start": "2026-11-21T17:30:00.000000Z",
+      "start": "2026-11-17T17:30:00.000000Z",
       "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/aschaffenburg/event/2987",
-      "location": "Mainaschaff",
+      "location": "Aschaffenburg-Schweinheim",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Mainhatten in Mainaschaff. Aktuell wird nach eine neuen Location geschaut, sollte sich etwas ändern wird es in Telegram oder hier kommuniziert. \n\nSollte der 21. Auf einen Samstag oder Sonntag fallen, findet das Meetup am 12. Des Monats statt.",
+      "description": "18.30 Uhr im Agni. Schweinheimer Str. 79, 63743 Aschaffenburg-Schweinheim",
       "link": "https://t.me/einundzwanzig_aschaffenburg",
       "attendees": 0,
       "might_attendees": 0,
@@ -1055,7 +1055,24 @@
     "city": "Cham (Bayern)",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4093,
+      "start": "2026-11-29T10:00:00.000000Z",
+      "title": "Meetup / Einundzwanzig Cham",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-cham/event/4093",
+      "location": "Wasserwirtschaft Essen & Trinken GmbH / Oberer Regenanger 3 / 93413 Cham / DE",
+      "osm_name": "d' Wasserwirtschaft",
+      "osm_type": "way",
+      "osm_id": 31394647,
+      "osm_address": "d' Wasserwirtschaft, Blaue Brücke, Siechen, Chammünster, Cham, Landkreis Cham, Bayern, 93413, Deutschland",
+      "description": "Wir treffen uns regelmäßig einmal im Monat in Cham. Platzreservierungen finden in der Regel Mitte des Monats statt. \n\nBitte meldet euch deshalb rechtzeitig über die angepinnte Umfrage in unserer Telegramm-Gruppe an. \n\nSpontane Besucher sind natürlich herzlich willkommen. \n\nWir freuen uns auf interessante Gespräche und einen netten Austausch.",
+      "link": "https://t.me/BitcoinMeetupCham",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2673,14 +2690,31 @@
   {
     "name": "Einundzwanzig Pfalz",
     "latLng": [
-      49.9531599,
-      7.310646
+      49.4432174,
+      7.7689951
     ],
     "url": "https://t.me/einundzwanzigPfalz",
-    "city": "Pfalz",
+    "city": "Kaiserslautern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4090,
+      "start": "2026-11-26T16:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/4090",
+      "location": null,
+      "osm_name": "Wurst-Küch",
+      "osm_type": "node",
+      "osm_id": 3708729816,
+      "osm_address": "Wurst-Küch, 29, Wilhelmstraße, Betzenberg, Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland",
+      "description": "Bitcoin Only",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4314,7 +4348,7 @@
       "osm_address": null,
       "description": "₿ Einundzwanzig Salzburg - Bitcoin Meetup ₿ Wann: Samstag, 12.12.26, ab 19h Wo: ₿onami. BAR. RESTAURANT., Münchener Str. 12, 83395 Freilassing, Deutschland",
       "link": "https://www.bonami-freilassing.de/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -4389,14 +4423,31 @@
   {
     "name": "Einundzwanzig Tirol",
     "latLng": [
-      47.223193,
-      11.5261028
+      47.2654296,
+      11.3927685
     ],
-    "url": "https://bitcoin-tirol.at/",
-    "city": "Tirol",
+    "url": "https://t.me/Einundzwanzig_Tirol",
+    "city": "Innsbruck",
     "portalUrl": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol",
     "twitter": "Einundzwanzig_I",
-    "event": null,
+    "event": {
+      "id": 4091,
+      "start": "2026-11-18T17:30:00.000000Z",
+      "title": "53. Bitcoin-Stammtisch Innsbruck",
+      "portalLink": "https://portal.einundzwanzig.space/at/meetup/einundzwanzig-tirol/event/4091",
+      "location": "Ofenstube",
+      "osm_name": "Gasthaus Bierstindl",
+      "osm_type": "node",
+      "osm_id": 2854661143,
+      "osm_address": "Gasthaus Bierstindl, 6, Klostergasse, Wilten, Innsbruck, Tirol, 6020, Österreich",
+      "description": "Der monatliche Bitcoin-Stammtisch der Bitcoin Tirol Community. Immer ab 18:30 Uhr. Komm vorbei zum Austausch über Bitcoin, Lightning und alles rund um dezentrale Finanzen!",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
