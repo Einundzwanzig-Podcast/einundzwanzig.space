@@ -1102,7 +1102,24 @@
     "city": "Darmstadt",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4098,
+      "start": "2026-12-01T17:30:00.000000Z",
+      "title": "Meetup Darmstadt",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-darmstadt/event/4098",
+      "location": "Restaurant Fohlenhof, Kranichsteiner Str. 90, 64289 Darmstadt",
+      "osm_name": "Fohlenhof",
+      "osm_type": "node",
+      "osm_id": 415284784,
+      "osm_address": "Fohlenhof, 90, Kranichsteiner Straße, Universitätsviertel, Am Ziegelbusch, Darmstadt-Nord, Darmstadt, Hessen, 64289, Deutschland",
+      "description": "Unser ₿itcoin Meetup findet im Fohlenhof ab 18:30 Uhr statt.\nNeulinge und Plebs aus aller Welt sind herzlich willkommen.\nWir freuen uns auf regen Austausch.\nBesucht gerne unseren Telegramkanal: https://t.me/einundzwanzigda",
+      "link": "https://maps.app.goo.gl/7GjdXduKprtTxnJP6",
+      "attendees": 1,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1440,24 +1457,7 @@
     "city": "Gelnhausen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen",
     "twitter": null,
-    "event": {
-      "id": 3972,
-      "start": "2026-11-23T17:30:00.000000Z",
-      "title": "Meetup Gelnhausen",
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-gelnhausen/event/3972",
-      "location": "Bistro Donna Isabella, Frankfurter Str. 7, 63584 Gründau",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "9. Meetup Gelnhausen\n\nMontag, 23.11.2026\nAb 18:30 Uhr\n\nBistro Donna Isabella\nFrankfurter Str. 7\n63584 Gründau \n\nEinfach vorbei kommen, es ist keine Anmeldung erforderlich. 😃\n\nMeetup Badges können gesammelt werden.",
-      "link": "https://t.me/einundzwanzig_gelnhausen/640",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": ""
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1529,7 +1529,7 @@
       "osm_address": null,
       "description": "Wo wir uns zukünftig treffen???",
       "link": "https://omaps.app/w4LUJzeT4p/Alstertanne",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1871,7 +1871,7 @@
       "osm_address": null,
       "description": "Mit Antonio Ilin: KI verständlich für Einsteiger und Unternehmen.",
       "link": "https://razue.github.io/bitcoin_metropole_kempten/",
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3505,10 +3505,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau",
     "twitter": "EinundzwanzigFB",
     "event": {
-      "id": 2732,
-      "start": "2026-11-23T17:30:00.000000Z",
+      "id": 2733,
+      "start": "2026-12-28T17:30:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2732",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-wetterau/event/2733",
       "location": "Musikbistro Friedberg",
       "osm_name": null,
       "osm_type": null,
@@ -4952,10 +4952,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag",
     "twitter": null,
     "event": {
-      "id": 3638,
-      "start": "2026-11-23T18:00:00.000000Z",
+      "id": 3645,
+      "start": "2026-12-14T18:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3638",
+      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/einundzwanzig-prag/event/3645",
       "location": "Bar No.7",
       "osm_name": null,
       "osm_type": null,
@@ -4964,7 +4964,7 @@
       "description": "Deutschsprachiges Bitcoin-only Meetup in Prag. Schaut in den Chat für mehr Infos. LFG!",
       "link": "https://signal.group/#CjQKINp9aNXAz_jJ3m9W5Dipu-EzL0V6vptZ1eBoFxHtGaP_EhDpkaPrhjTvDWkM83od6nK7",
       "attendees": 0,
-      "might_attendees": 1,
+      "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": ""
@@ -4993,7 +4993,7 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Co je to Pokec?\nNeformální setkání lidí z libertariánské komunity.\n\nMůžete očekávat:\n\nNadšení do poznávání svobody\nLaskavé prostředí\nNemoderovaná diskuze\nNaslouchání\nOtevřenost\n\nDŮLEŽITÉ: Cílem diskuze není vyhrát (to je debata) ani se pohádat, ale porozumět tématu z různých úhlů pohledu, obohatit se a ideálně dojít k nějakému závěru nebo novému poznání.\n\nWeb: pokecosvobode.cz \n\nHlavní Signal skupina: https://signal.group/#CjQKIHq3HPriM0IJSUOVcP7aXeupSDZXIvX-sqp2dAqpGeu-EhCLODQFEq0UJ2kF2VoExi58\n\nInstagram @pokecosvobode https://www.instagram.com/pokecosvobode\n\nFacebook https://www.facebook.com/share/1EQiyLeTgN/\n\n🧚🏻 Těšíme se na vás 💛🖤",
+      "description": "Co je to Pokec?\nNeformální setkání lidí z libertariánské komunity.\n\nMůžete očekávat:\n\nNadšení do poznávání svobody\nLaskavé prostředí\nNemoderovaná diskuze\nNaslouchání\nOtevřenost\n\nDŮLEŽITÉ: Cílem diskuze není vyhrát (to je debata) ani se pohádat, ale porozumět tématu z různých úhlů pohledu, obohatit se a ideálně dojít k nějakému závěru nebo novému poznání.\n\nWeb: pokecosvobode.cz \n\nSignal skupiny (hlavní i městské): pokecosvobode.cz\n\nInstagram @pokecosvobode https://www.instagram.com/pokecosvobode\n\nFacebook https://www.facebook.com/share/1EQiyLeTgN/\n\n🧚🏻 Těšíme se na vás 💛🖤",
       "link": "https://pokecosvobode.cz/",
       "attendees": 0,
       "might_attendees": 0,
@@ -5181,13 +5181,13 @@
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Možná už jste ze zářijového streamu (https://www.youtube.com/watch?v=e1X_BCAlqPA) slyšeli o Pokecu o Svobodě - lokální meetupy a libertariánská komunita všude po Česku 💛🖤🫶\n\nOd té doby už máme rozjetý web a skupiny v Praze, Brně, Ostravě, Plzni a Zlíně! \n\nMno a na takové zpečetění toho, že Pokec už NENÍ pouze jen brněnská akce, jsme si připravili velkou předvánoční party - Pokec v Liberty Loftu. \n\nPřijďte si s námi užít přátelskou atmosféru v příjemném prostředí. Liberty Loft poskytuje prostory spoustě anarchistických, agoristických, ankapáckých, libertariánských a všemožně svobodných akcí.\n\nBude jídlo 😎\n\nA my bychom rádi tuto atmosféru šířili dál ve společném sdílení! 🫶 Těšíme se na Tebe 💛🖤",
+      "description": "Co je to Pokec?\nNeformální setkání lidí z libertariánské komunity.\n\nMůžete očekávat:\n\nNadšení do poznávání svobody\nLaskavé prostředí\nNemoderovaná diskuze\nNaslouchání\nOtevřenost\n\nDŮLEŽITÉ: Cílem diskuze není vyhrát (to je debata) ani se pohádat, ale porozumět tématu z různých úhlů pohledu, obohatit se a ideálně dojít k nějakému závěru nebo novému poznání.\n\nWeb: pokecosvobode.cz \n\nSignal skupiny (hlavní i městské): pokecosvobode.cz\n\nInstagram @pokecosvobode https://www.instagram.com/pokecosvobode\n\nFacebook https://www.facebook.com/share/1EQiyLeTgN/\n\n🧚🏻 Těšíme se na vás 💛🖤",
       "link": "https://pokecosvobode.cz/",
       "attendees": null,
       "might_attendees": null,
       "nostr_attendees": null,
       "nostr_might_attendees": null,
-      "nostr_note": ""
+      "nostr_note": "f315afe219412a2fa570fcb5889004884b151111f780c339088f583a0b0c6de1"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
