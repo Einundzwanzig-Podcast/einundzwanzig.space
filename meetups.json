@@ -1118,7 +1118,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "8aecd2c54a448703adc92380a75420abf4c4f9de1761814aaa4fb3d5daf36dde"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1330,8 +1330,8 @@
       "osm_address": null,
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 7,
-      "might_attendees": 2,
+      "attendees": 8,
+      "might_attendees": 3,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": "c8ee5fff77543d9d7f5e4e80255f3ded7958a029f63214f01f35b8aa1afdf493"
@@ -2956,7 +2956,24 @@
     "city": "Rottweil",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4099,
+      "start": "2026-12-17T17:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-rottweil/event/4099",
+      "location": "Traufganghütte Brunnental",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Einundzwanzig Weihnachtsfeier in der gemütlichen Traufganghütte. Bitte um Anmeldung über Nostr oder einer der drei Telegram Gruppen Rottweil, Zollernalb, Sigmaringen. Wir freuen uns!",
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -4188,7 +4205,7 @@
       "osm_address": null,
       "description": "Bargeld wird immer weiter zurückgedrängt – doch finanzielle Freiheit muss deshalb nicht verschwinden. Wie private, selbstbestimmte Zahlungen mit Bitcoin, Lightning und Ecash in der Praxis funktionieren, zeigt dieser Abend. Kein Vorwissen notwendig – offen für alle.",
       "link": "https://www.bitcoin-club-linz.at/veranstaltungen/05-dezember-lnurl/",
-      "attendees": 0,
+      "attendees": 1,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -5536,10 +5553,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama",
     "twitter": null,
     "event": {
-      "id": 3399,
-      "start": "2026-11-24T09:00:00.000000Z",
+      "id": 3400,
+      "start": "2026-12-01T09:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3399",
+      "portalLink": "https://portal.einundzwanzig.space/pa/meetup/einundzwanzig-panama/event/3400",
       "location": "Boquete, Panama",
       "osm_name": null,
       "osm_type": null,
@@ -5551,7 +5568,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "f1ef08bab56c9338dfeb4723b63eba904b83228ef5b1e80f67fdd29710eb132e"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
