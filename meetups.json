@@ -1330,8 +1330,8 @@
       "osm_address": null,
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 8,
-      "might_attendees": 3,
+      "attendees": 10,
+      "might_attendees": 4,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
       "nostr_note": "c8ee5fff77543d9d7f5e4e80255f3ded7958a029f63214f01f35b8aa1afdf493"
@@ -2002,7 +2002,24 @@
     "city": "Landau",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau",
     "twitter": "einundzwanzigld",
-    "event": null,
+    "event": {
+      "id": 4104,
+      "start": "2026-12-19T17:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-landau/event/4104",
+      "location": "Landau Weihnachtsmarkt",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": null,
+      "link": null,
+      "attendees": 0,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2663,24 +2680,7 @@
     "city": "Kaiserslautern",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz",
     "twitter": null,
-    "event": {
-      "id": 4090,
-      "start": "2026-11-26T16:00:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-pfalz/event/4090",
-      "location": null,
-      "osm_name": "Wurst-Küch",
-      "osm_type": "node",
-      "osm_id": 3708729816,
-      "osm_address": "Wurst-Küch, 29, Wilhelmstraße, Betzenberg, Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland",
-      "description": "Bitcoin Only",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "bfa25eeeeecee0d3ae500247d1f7809ed4cee37852cc150988ef5526794bc312"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2968,7 +2968,7 @@
       "osm_address": null,
       "description": "Einundzwanzig Weihnachtsfeier in der gemütlichen Traufganghütte. Bitte um Anmeldung über Nostr oder einer der drei Telegram Gruppen Rottweil, Zollernalb, Sigmaringen. Wir freuen uns!",
       "link": null,
-      "attendees": 1,
+      "attendees": 2,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -5032,24 +5032,7 @@
     "city": "Pardubice",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-hradubice",
     "twitter": null,
-    "event": {
-      "id": 4097,
-      "start": "2026-11-26T16:00:00.000000Z",
-      "title": "Pardubice a Hradec Králové - Meetup, BTC Liga",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-hradubice/event/4097",
-      "location": "Westie Coffee, 1904, Smilova, 530 02 PCE",
-      "osm_name": "Westie Coffee",
-      "osm_type": "node",
-      "osm_id": 10948715169,
-      "osm_address": "Westie Coffee, 1904, Smilova, Střed, Zelené Předměstí, Pardubice I, Pardubice, okres Pardubice, Pardubický kraj, 530 02, Česko",
-      "description": "Pravidelný Pardubický meetup (Pardubický+Hradecký).\nStřídavě jeden měsíc v HK, další v Pardubicích.\n\n🚀 STARTUJE BTC LIGA!\nNavazujeme na dosavadní bitcoinové kvízy a posouváme je do celoroční soutěže napříč Českem a Slovenskem. 🇨🇿🇸🇰\n🏆 4 kola za rok – body se sčítají do celkového pořadí\n📅 Každé město si zvolí vlastní termín kola\n🌍 Týmy soutěží s týmy z celé ČR a SR\n▶️ 1. kolo: říjen–prosinec 2026\n🟢 Nováčci\n🔴 Pokročilí\nKaždá úroveň má vlastní otázky, žebříček i ceny.\n🎁 Hraje se o Braiins BMM 101, Braiins Deck, Trezory, Štosáky, BTC vouchery, vstupenky na konference, Bitcoin by Satoshi, Firefish, merch partnerů a další ceny. A chystáme i velké překvapení. 👀\n\n\n\nMožnost zapůjčení knih s Bitcoinovou tématikou.\n\nNováčci vítáni, rádi ohledně Bitcoinu pomůžeme, odpovíme na otázky.\n\nV místě, kde je možnost platit Bitcoinem, přes Lightning a přímo.\n\nJsme na Signalu, Nostru, Meshcore, Bitchatu.\n\nMeshcore\n#21hradubice\n594f7daee591d0664f65fccfc00e670d",
-      "link": "https://signal.group/#CjQKIIaGqyW7upOGzkOuLUIEvE-CXs5K7UplTERCU5MoOda1EhBgAvQoeHAO5hfDPCv6dGin",
-      "attendees": 1,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "3577a082f701e1614b637373e34c46001329ce1c8f7e66eb1440a4f8ecb35122"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5094,24 +5077,7 @@
     "city": "Kyjov",
     "portalUrl": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kyjov",
     "twitter": null,
-    "event": {
-      "id": 4029,
-      "start": "2026-11-26T17:00:00.000000Z",
-      "title": "21 meetup #13 + BTC liga",
-      "portalLink": "https://portal.einundzwanzig.space/cz/meetup/jednadvacet-kyjov/event/4029",
-      "location": null,
-      "osm_name": "Kyjovský pivovar",
-      "osm_type": "way",
-      "osm_id": 180701550,
-      "osm_address": "Kyjovský pivovar, 596/64, třída Komenského, Nětčice, Kyjov, okres Hodonín, Jihomoravský kraj, 697 01, Česko",
-      "description": "Příští kyjovský meetup tedy proběhne v Kyjovském pivovaru (https://www.kyjovsky-pivovar.cz/) ve čtvrtek 26. listopadu 2026. Začneme velkolepě v 18:00 prohlídkou pivovaru s ochutnávkou piv přímo z tanků (cca 1h) a poté bude následovat 1. kolo BTC ligy (více info zde https://jednadvacet.org/liga), které se jako kyjovský tým účastníme.\n\nČas bude samozřejmě i na diskuse o novinkách v Bitcoinu, Jednadvacítce a vůbec.\nMožnost zapůjčení knih s Bitcoinovou tématikou.\nNováčci vítáni, rádi ohledně Bitcoinu poradíme, pomůžeme a odpovíme na otázky.\n\nDoražte v hojném počtu, ať to stojí za to!\n\nJsme na Signalu: https://signal.group/#CjQKIJhfbQz2adVWLlHNBjtMuqLcxhrWPGfYfcchawih9SFuEhAojzGzxVEmIVJgKeK6mx5_",
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "075286a52cd3582e053230943fb32901176448d42bcd166630718d2fc0f70749"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -5298,7 +5264,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "19686f999d83a93f7af911a9fb601afac5a984e5354f5bab9352ad89b2355b4d"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
@@ -5497,7 +5463,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "13f0432bbdb171a8677719953f42e0a545d9dbdd521828dc5842ef818ffa2a26"
     },
     "style": {
       "fill": "var(--color-neutral-50)"
