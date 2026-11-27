@@ -69,24 +69,7 @@
     "city": "92318 Neumarkt in der Oberpfalz",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/21neumarkt",
     "twitter": null,
-    "event": {
-      "id": 3141,
-      "start": "2026-11-26T17:30:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/21neumarkt/event/3141",
-      "location": "Bürgerhaus Neumarkt Fischergasse 1 92318 Neumarkt in der Oberpfalz",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": "Unsere Bitcoin-Events finden jeden letzten Donnerstag im Monat statt und bieten dir die perfekte Gelegenheit, dich mit Gleichgesinnten auszutauschen.\n\nIm Mittelpunkt steht ein offenes Gespräch rund um Bitcoin – egal ob Einsteiger oder Fortgeschrittene, jeder ist willkommen. Je nach Termin gibt es zusätzlich spannende Vorträge zu aktuellen Themen, die neue Perspektiven und Wissen vermitteln.\n\nFür kurzfristige Änderungen oder Updates empfehlen wir, unserer WhatsApp-Gruppe beizutreten, damit du immer auf dem neuesten Stand bleibst.\nhttps://chat.whatsapp.com/HbxJAlaAr4c7riPQHMk5ct\n\n\nKomm vorbei, stell deine Fragen und werde Teil der Community!",
-      "link": "https://21neumarkt.de",
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "827d510370a11661385634194e4983d22918fd987dec4cb80056f80b7d63c891"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -240,24 +223,7 @@
     "city": "Dresden",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden",
     "twitter": null,
-    "event": {
-      "id": 3366,
-      "start": "2026-11-26T18:30:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/bitcoin-dresden/event/3366",
-      "location": "Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden",
-      "osm_name": "C3D2",
-      "osm_type": "way",
-      "osm_id": 372193022,
-      "osm_address": "C3D2, 32, Riesaer Straße, Pieschen-Nord/Trachenberge, Pieschen, Dresden, Sachsen, 01127, Deutschland",
-      "description": "Wir treffen uns regelmäßig zu Themen rund um Bitcoin; vorab an der ECCE, ab 19:30 im Hackerspace.\nÄnderungen sind zeitnah im Gruppenchat und auf der Website verfügbar – dort gibt es auch einen Kalender-Feed zum abonnieren.",
-      "link": "https://bitcoin-dresden.de/",
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "6aa9136723a303e24eebf5190985bed51f243e34cfbe9f21ec64f4d9d9fa9344"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-neutral-50)"
     }
@@ -930,7 +896,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "6a52c4b5b7cde0191b0129daf1c8d46f3f04110dcaf577052d0db8c04176f2e6"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -1149,7 +1115,24 @@
     "city": "Dingolfing",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau",
     "twitter": "Schlimmer0815",
-    "event": null,
+    "event": {
+      "id": 4105,
+      "start": "2026-12-04T17:30:00.000000Z",
+      "title": "Meetup",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-dingolfing-landau/event/4105",
+      "location": "Geier-Bräu, Marktplatz 48, 94419 Reisbach",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "Am Freitag  4. Dezember ab 18:30 findet der 21. (🔥🔥🔥) Stammtisch Einundzwanzig Dingolfing-Landau in Reisbach beim Geier statt.",
+      "link": "https://t.me/dgf_einundzwanzig",
+      "attendees": null,
+      "might_attendees": null,
+      "nostr_attendees": null,
+      "nostr_might_attendees": null,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -1330,7 +1313,7 @@
       "osm_address": null,
       "description": "Pizzeria Tio Rustica\nLudwig-Erhard-Straße 13, 91052 Erlangen\n(Rödelheim-Park)",
       "link": "https://share.google/IwMufRG6UHkuUPcfs",
-      "attendees": 10,
+      "attendees": 11,
       "might_attendees": 4,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -1518,10 +1501,10 @@
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg",
     "twitter": null,
     "event": {
-      "id": 3080,
-      "start": "2026-11-26T18:00:00.000000Z",
+      "id": 3081,
+      "start": "2026-12-31T18:00:00.000000Z",
       "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3080",
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-hamburg/event/3081",
       "location": "Hamburg",
       "osm_name": null,
       "osm_type": null,
@@ -1529,11 +1512,11 @@
       "osm_address": null,
       "description": "Wo wir uns zukünftig treffen???",
       "link": "https://omaps.app/w4LUJzeT4p/Alstertanne",
-      "attendees": 2,
+      "attendees": 0,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": "d73e140baa8ad900de385023e8fc1cdbfbd087a639b11cd1adac9e6067805610"
+      "nostr_note": ""
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2124,24 +2107,7 @@
     "city": "Lübeck",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck",
     "twitter": "",
-    "event": {
-      "id": 3919,
-      "start": "2026-11-26T18:00:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-luebeck/event/3919",
-      "location": "Meetup Ohana",
-      "osm_name": null,
-      "osm_type": null,
-      "osm_id": null,
-      "osm_address": null,
-      "description": null,
-      "link": null,
-      "attendees": 0,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "e92d19d24a2e931afb2b6c715c2082e0a91f2e32750b36b07efd12498d74c4dd"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -2279,7 +2245,7 @@
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
-      "nostr_note": ""
+      "nostr_note": "5702836262e1cc59f5030757e357e155f5d346e72bb044cfe501bb8bd895d14a"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2546,18 +2512,18 @@
       "start": "2026-12-04T17:00:00.000000Z",
       "title": null,
       "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-oldenburg/event/3165",
-      "location": "Kleine Burg, Burgstraße 2, 26122 Oldenburg",
+      "location": "Willersstraße 10-12, 26123 Oldenburg",
       "osm_name": null,
       "osm_type": null,
       "osm_id": null,
       "osm_address": null,
-      "description": "Bitcoin only Meetup! Wir sitzen im abgetrennten Veranstaltungsraum der Kleinen Burg. Essen und Getränke gibt's von der Speisekarte.",
-      "link": "https://www.kleineburg-ol.de/",
+      "description": "Bitcoin only Meetup! Wir treffen uns in der Meisterschule. Ab 19 Uhr gibt es einen Vortrag zum Thema DAC8.",
+      "link": null,
       "attendees": null,
       "might_attendees": null,
       "nostr_attendees": null,
       "nostr_might_attendees": null,
-      "nostr_note": ""
+      "nostr_note": "c495bf43efafa019068edc3c7a5cac1d0566ba278f7e0e3d956e7289dfb483b5"
     },
     "style": {
       "fill": "var(--color-accent)"
@@ -2968,7 +2934,7 @@
       "osm_address": null,
       "description": "Einundzwanzig Weihnachtsfeier in der gemütlichen Traufganghütte. Bitte um Anmeldung über Nostr oder einer der drei Telegram Gruppen Rottweil, Zollernalb, Sigmaringen. Wir freuen uns!",
       "link": null,
-      "attendees": 2,
+      "attendees": 3,
       "might_attendees": 0,
       "nostr_attendees": 0,
       "nostr_might_attendees": 0,
@@ -3290,24 +3256,7 @@
     "city": "Ditzingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu",
     "twitter": null,
-    "event": {
-      "id": 4000,
-      "start": "2026-11-26T18:00:00.000000Z",
-      "title": null,
-      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-strohgaeu/event/4000",
-      "location": null,
-      "osm_name": "`s Heinzel",
-      "osm_type": "node",
-      "osm_id": 602290327,
-      "osm_address": "`s Heinzel, 6, Korntaler Straße, Strohberg, Ditzingen, Landkreis Ludwigsburg, Baden-Württemberg, 71254, Deutschland",
-      "description": "Monatlicher Stammtisch des einundzwanzig Strohgäu Meetups!",
-      "link": null,
-      "attendees": 2,
-      "might_attendees": 0,
-      "nostr_attendees": 0,
-      "nostr_might_attendees": 0,
-      "nostr_note": "bfd2ca222b8528a931edd2e0ef56e766857d3d792a441a977169900f55022820"
-    },
+    "event": null,
     "style": {
       "fill": "var(--color-accent)"
     }
@@ -3568,7 +3517,24 @@
     "city": "Balingen",
     "portalUrl": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen",
     "twitter": null,
-    "event": null,
+    "event": {
+      "id": 4106,
+      "start": "2026-12-17T17:00:00.000000Z",
+      "title": null,
+      "portalLink": "https://portal.einundzwanzig.space/de/meetup/einundzwanzig-zollern-alb-kreis-balingen/event/4106",
+      "location": "Traufganghütte Brunnental",
+      "osm_name": null,
+      "osm_type": null,
+      "osm_id": null,
+      "osm_address": null,
+      "description": "GM! Einundzwanzig Weihnachtsfeier 🎄 in der gemütlichen Traufganghütte. Bitten um Anmeldung über Nostr oder eine der drei Telegram Gruppen Zollernalb, Rottweil oder Sigmaringen. Wir freuen uns!",
+      "link": "https://www.traufganghuette-brunnental.de",
+      "attendees": 2,
+      "might_attendees": 0,
+      "nostr_attendees": 0,
+      "nostr_might_attendees": 0,
+      "nostr_note": ""
+    },
     "style": {
       "fill": "var(--color-accent)"
     }
